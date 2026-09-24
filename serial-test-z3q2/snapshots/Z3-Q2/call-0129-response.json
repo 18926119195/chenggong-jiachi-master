@@ -1,0 +1,62 @@
+{
+  "callId": "call-0129",
+  "questionId": "Z3-Q2",
+  "timestamp": "2026-09-23T09-53-19-414Z",
+  "elapsed": 932,
+  "success": true,
+  "error": null,
+  "attempts": 1,
+  "retries": 0,
+  "retryHistory": [
+    {
+      "attempt": 1,
+      "startedAt": "2026-09-23T09:53:19.414Z",
+      "error": null,
+      "httpStatus": null,
+      "elapsedMs": 932
+    }
+  ],
+  "response": {
+    "text": "【【64】】【【67】】【【104】】【【193】】【【196】】【【197】】【【198】】【【199】】【【200】】【【345】】【【347】】【【348】】【【353】】",
+    "usage": {
+      "prompt_tokens": 3697,
+      "completion_tokens": 53,
+      "total_tokens": 3750,
+      "prompt_tokens_details": {
+        "cached_tokens": 3456
+      },
+      "prompt_cache_hit_tokens": 3456,
+      "prompt_cache_miss_tokens": 241
+    },
+    "truncated": false,
+    "finishReason": "stop"
+  },
+  "rawResponse": {
+    "id": "57a6d322-4bf4-43ab-83be-0fbe82661c8e",
+    "object": "chat.completion",
+    "created": 1790157199,
+    "model": "deepseek-flash",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "【【64】】【【67】】【【104】】【【193】】【【196】】【【197】】【【198】】【【199】】【【200】】【【345】】【【347】】【【348】】【【353】】"
+        },
+        "logprobs": null,
+        "finish_reason": "stop"
+      }
+    ],
+    "usage": {
+      "prompt_tokens": 3697,
+      "completion_tokens": 53,
+      "total_tokens": 3750,
+      "prompt_tokens_details": {
+        "cached_tokens": 3456
+      },
+      "prompt_cache_hit_tokens": 3456,
+      "prompt_cache_miss_tokens": 241
+    },
+    "system_fingerprint": "aeb56401ca74e127821c4f9126dcb669"
+  }
+}

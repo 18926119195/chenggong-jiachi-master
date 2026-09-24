@@ -1,0 +1,49 @@
+{
+  "callId": "call-0546",
+  "timestamp": "2026-09-22T10-21-52-234Z",
+  "elapsed": 1048,
+  "success": true,
+  "response": {
+    "text": "【【1】】65\n【【2】】85\n【【3】】75\n【【4】】70\n【【5】】80\n【【6】】80\n【【7】】75\n【【8】】70\n【【9】】75\n【【10】】60\n【【11】】55\n【【12】】65\n【【13】】70\n【【14】】75\n【【15】】60\n【【16】】65\n【【17】】55\n【【18】】70",
+    "usage": {
+      "prompt_tokens": 403,
+      "completion_tokens": 125,
+      "total_tokens": 528,
+      "prompt_tokens_details": {
+        "cached_tokens": 0
+      },
+      "prompt_cache_hit_tokens": 0,
+      "prompt_cache_miss_tokens": 403
+    },
+    "truncated": false,
+    "finishReason": "stop"
+  },
+  "rawResponse": {
+    "id": "19dd60ac-a5a8-4514-8c01-7cccb21cf490",
+    "object": "chat.completion",
+    "created": 1790072512,
+    "model": "deepseek-flash",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "【【1】】65\n【【2】】85\n【【3】】75\n【【4】】70\n【【5】】80\n【【6】】80\n【【7】】75\n【【8】】70\n【【9】】75\n【【10】】60\n【【11】】55\n【【12】】65\n【【13】】70\n【【14】】75\n【【15】】60\n【【16】】65\n【【17】】55\n【【18】】70"
+        },
+        "logprobs": null,
+        "finish_reason": "stop"
+      }
+    ],
+    "usage": {
+      "prompt_tokens": 403,
+      "completion_tokens": 125,
+      "total_tokens": 528,
+      "prompt_tokens_details": {
+        "cached_tokens": 0
+      },
+      "prompt_cache_hit_tokens": 0,
+      "prompt_cache_miss_tokens": 403
+    },
+    "system_fingerprint": "aeb56401ca74e127821c4f9126dcb669"
+  }
+}

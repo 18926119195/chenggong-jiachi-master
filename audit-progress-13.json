@@ -1,0 +1,826 @@
+[
+  {
+    "surface": "une certaine mure",
+    "valid": true
+  },
+  {
+    "surface": "logiques",
+    "valid": true
+  },
+  {
+    "surface": "binaires",
+    "valid": true
+  },
+  {
+    "surface": "l'Irmà",
+    "valid": true
+  },
+  {
+    "surface": "rme",
+    "valid": false,
+    "reason": "碎片/非完整词"
+  },
+  {
+    "surface": "une « personne",
+    "valid": true
+  },
+  {
+    "surface": "une «",
+    "valid": false,
+    "reason": "冠词加标点碎片"
+  },
+  {
+    "surface": "image générique",
+    "valid": true
+  },
+  {
+    "surface": "la patience",
+    "valid": true
+  },
+  {
+    "surface": "le rève",
+    "valid": true
+  },
+  {
+    "surface": "dame",
+    "valid": true
+  },
+  {
+    "surface": "sa propre filaire ainée",
+    "valid": true
+  },
+  {
+    "surface": "un enfant",
+    "valid": true
+  },
+  {
+    "surface": "consultation",
+    "valid": true
+  },
+  {
+    "surface": "l'Hospital",
+    "valid": true
+  },
+  {
+    "surface": "encore une autre dame",
+    "valid": true
+  },
+  {
+    "surface": "le choix génératif",
+    "valid": true
+  },
+  {
+    "surface": "en Univers",
+    "valid": true
+  },
+  {
+    "surface": "alterné",
+    "valid": true
+  },
+  {
+    "surface": ", des possibles",
+    "valid": true
+  },
+  {
+    "surface": "devenirs",
+    "valid": true
+  },
+  {
+    "surface": "l'abscise",
+    "valid": true
+  },
+  {
+    "surface": "droite",
+    "valid": true
+  },
+  {
+    "surface": "en tertioire",
+    "valid": true
+  },
+  {
+    "surface": "refuge",
+    "valid": true
+  },
+  {
+    "surface": "refoule",
+    "valid": false,
+    "reason": "动词变位，非名词"
+  },
+  {
+    "surface": "la censure",
+    "valid": true
+  },
+  {
+    "surface": "Conscient",
+    "valid": true
+  },
+  {
+    "surface": "Préconscient",
+    "valid": true
+  },
+  {
+    "surface": "la première opérate",
+    "valid": true
+  },
+  {
+    "surface": "M-Sur-moi",
+    "valid": true
+  },
+  {
+    "surface": "le premier terrain",
+    "valid": true
+  },
+  {
+    "surface": "des théoriciens",
+    "valid": true
+  },
+  {
+    "surface": "Jung",
+    "valid": true
+  },
+  {
+    "surface": "Mme Freud",
+    "valid": true
+  },
+  {
+    "surface": "personne",
+    "valid": true
+  },
+  {
+    "surface": "locations",
+    "valid": true
+  },
+  {
+    "surface": "des personnes",
+    "valid": true
+  },
+  {
+    "surface": "L'object",
+    "valid": true
+  },
+  {
+    "surface": "ainsi comme *neud",
+    "valid": true
+  },
+  {
+    "surface": "surdértermination",
+    "valid": true
+  },
+  {
+    "surface": ", *ombilic",
+    "valid": true
+  },
+  {
+    "surface": "rive",
+    "valid": true
+  },
+  {
+    "surface": "l'inconnu",
+    "valid": true
+  },
+  {
+    "surface": "indéfinies",
+    "valid": true
+  },
+  {
+    "surface": "quelques points",
+    "valid": true
+  },
+  {
+    "surface": "la sortie kleinienne",
+    "valid": true
+  },
+  {
+    "surface": "l'object pulsionnel",
+    "valid": true
+  },
+  {
+    "surface": "son cadre personologique",
+    "valid": true
+  },
+  {
+    "surface": "*partiel*.",
+    "valid": true
+  },
+  {
+    "surface": "porta",
+    "valid": false,
+    "reason": "动词变位，非名词"
+  },
+  {
+    "surface": "la porte",
+    "valid": true
+  },
+  {
+    "surface": "v'autres devenirs non humains",
+    "valid": true
+  },
+  {
+    "surface": "animaux",
+    "valid": true
+  },
+  {
+    "surface": ", les façons",
+    "valid": true
+  },
+  {
+    "surface": "des objets partiels",
+    "valid": true
+  },
+  {
+    "surface": "une liste exhaustive et typifine",
+    "valid": true
+  },
+  {
+    "surface": "servira",
+    "valid": false,
+    "reason": "动词变位，非名词"
+  },
+  {
+    "surface": "toute subjectivité parvenir",
+    "valid": false,
+    "reason": "限定词+名词+动词不定式，非名词短语"
+  },
+  {
+    "surface": "suprémes",
+    "valid": true
+  },
+  {
+    "surface": "la *génitalité",
+    "valid": true
+  },
+  {
+    "surface": "parce que de *mauvais objets*",
+    "valid": false,
+    "reason": "连词短语，非名词"
+  },
+  {
+    "surface": "objets*",
+    "valid": true
+  },
+  {
+    "surface": ", de *relation",
+    "valid": true
+  },
+  {
+    "surface": "*objs",
+    "valid": false,
+    "reason": "碎片/缩写残片"
+  },
+  {
+    "surface": "*les générations freudiennes",
+    "valid": true
+  },
+  {
+    "surface": "une fonction générique",
+    "valid": true
+  },
+  {
+    "surface": ", le dépoussé",
+    "valid": true
+  },
+  {
+    "surface": "ses traits",
+    "valid": true
+  },
+  {
+    "surface": "singularité",
+    "valid": true
+  },
+  {
+    "surface": "Inconscient",
+    "valid": true
+  },
+  {
+    "surface": "Cartographies",
+    "valid": true
+  },
+  {
+    "surface": "ila",
+    "valid": false,
+    "reason": "碎片/非完整词"
+  },
+  {
+    "surface": "alterite",
+    "valid": true
+  },
+  {
+    "surface": "exigence",
+    "valid": true
+  },
+  {
+    "surface": "vérité",
+    "valid": true
+  },
+  {
+    "surface": "les tableaux psychopathologiques",
+    "valid": true
+  },
+  {
+    "surface": "les plus barricades",
+    "valid": true
+  },
+  {
+    "surface": "des rapports personologiques",
+    "valid": true
+  },
+  {
+    "surface": "scènes",
+    "valid": true
+  },
+  {
+    "surface": "castration symbolique",
+    "valid": true
+  },
+  {
+    "surface": "l'ile",
+    "valid": true
+  },
+  {
+    "surface": "plus avant l'examen",
+    "valid": true
+  },
+  {
+    "surface": "possibilités cartographiques",
+    "valid": true
+  },
+  {
+    "surface": "ne quatre foncteurs",
+    "valid": false,
+    "reason": "含否定副词，非名词短语"
+  },
+  {
+    "surface": "F.T.F.",
+    "valid": false,
+    "reason": "缩写/符号碎片"
+  },
+  {
+    "surface": "le statut",
+    "valid": true
+  },
+  {
+    "surface": "la présente entreprise",
+    "valid": true
+  },
+  {
+    "surface": "théorisation",
+    "valid": true
+  },
+  {
+    "surface": "Notre souci principal",
+    "valid": true
+  },
+  {
+    "surface": "un cadre conceptuel",
+    "valid": true
+  },
+  {
+    "surface": "tente tentation",
+    "valid": true
+  },
+  {
+    "surface": "l'idéal",
+    "valid": true
+  },
+  {
+    "surface": "scientifique",
+    "valid": true
+  },
+  {
+    "surface": "les domaines *",
+    "valid": true
+  },
+  {
+    "surface": "la manière",
+    "valid": true
+  },
+  {
+    "surface": "un Surmoi collectif",
+    "valid": true
+  },
+  {
+    "surface": "un fondement",
+    "valid": true
+  },
+  {
+    "surface": "apparete",
+    "valid": false,
+    "reason": "拼写碎片/非标准词"
+  },
+  {
+    "surface": "son mode",
+    "valid": true
+  },
+  {
+    "surface": "logique",
+    "valid": true
+  },
+  {
+    "surface": ", aux discipline",
+    "valid": true
+  },
+  {
+    "surface": "Toutes les spécialités professionnelles",
+    "valid": true
+  },
+  {
+    "surface": "affaire",
+    "valid": true
+  },
+  {
+    "surface": "mèle",
+    "valid": false,
+    "reason": "动词变位，非名词"
+  },
+  {
+    "surface": "façon inextricable",
+    "valid": true
+  },
+  {
+    "surface": "l'esprit scientifique",
+    "valid": true
+  },
+  {
+    "surface": "magie",
+    "valid": true
+  },
+  {
+    "surface": "aucune histiologie",
+    "valid": true
+  },
+  {
+    "surface": "principe",
+    "valid": true
+  },
+  {
+    "surface": "la magie",
+    "valid": true
+  },
+  {
+    "surface": "bien des cas",
+    "valid": true
+  },
+  {
+    "surface": "cartographie",
+    "valid": true
+  },
+  {
+    "surface": "Agencements psychiques",
+    "valid": true
+  },
+  {
+    "surface": "un grand intérêt",
+    "valid": true
+  },
+  {
+    "surface": "pièce",
+    "valid": true
+  },
+  {
+    "surface": "le contexte",
+    "valid": true
+  },
+  {
+    "surface": "méde-",
+    "valid": false,
+    "reason": "碎片/截断词"
+  },
+  {
+    "surface": "résumé",
+    "valid": true
+  },
+  {
+    "surface": "la •",
+    "valid": false,
+    "reason": "冠词加符号碎片"
+  },
+  {
+    "surface": "face-à-face",
+    "valid": true
+  },
+  {
+    "surface": "la façon suivante",
+    "valid": true
+  },
+  {
+    "surface": "abords",
+    "valid": true
+  },
+  {
+    "surface": "réductionistes",
+    "valid": true
+  },
+  {
+    "surface": "ps",
+    "valid": false,
+    "reason": "缩写/碎片"
+  },
+  {
+    "surface": "blouse blanche",
+    "valid": true
+  },
+  {
+    "surface": "cette dimension magique",
+    "valid": true
+  },
+  {
+    "surface": "tant que teille",
+    "valid": false,
+    "reason": "连词短语/碎片，非名词"
+  },
+  {
+    "surface": "les specialistes",
+    "valid": true
+  },
+  {
+    "surface": "le spectacle",
+    "valid": true
+  },
+  {
+    "surface": "gens",
+    "valid": true
+  },
+  {
+    "surface": "un savoir livres",
+    "valid": true
+  },
+  {
+    "surface": "coupe",
+    "valid": true
+  },
+  {
+    "surface": "tout réalité",
+    "valid": true
+  },
+  {
+    "surface": "incertitudes",
+    "valid": true
+  },
+  {
+    "surface": "une assurance professionnelle",
+    "valid": true
+  },
+  {
+    "surface": "façade",
+    "valid": true
+  },
+  {
+    "surface": "protagonistes",
+    "valid": true
+  },
+  {
+    "surface": "théâtre *",
+    "valid": true
+  },
+  {
+    "surface": "ps*",
+    "valid": false,
+    "reason": "缩写/碎片"
+  },
+  {
+    "surface": "complice",
+    "valid": true
+  },
+  {
+    "surface": "cette imposture",
+    "valid": true
+  },
+  {
+    "surface": "les usagers",
+    "valid": true
+  },
+  {
+    "surface": "les administrators",
+    "valid": true
+  },
+  {
+    "surface": "la Santé",
+    "valid": true
+  },
+  {
+    "surface": ", les médias",
+    "valid": true
+  },
+  {
+    "surface": "repose",
+    "valid": false,
+    "reason": "动词变位，非名词"
+  },
+  {
+    "surface": "une personne",
+    "valid": true
+  },
+  {
+    "surface": "son activité",
+    "valid": true
+  },
+  {
+    "surface": "difficultes psychologiques",
+    "valid": true
+  },
+  {
+    "surface": "ses semblables",
+    "valid": true
+  },
+  {
+    "surface": "qu'au nom",
+    "valid": false,
+    "reason": "介词/连词短语，非名词"
+  },
+  {
+    "surface": "la science",
+    "valid": true
+  },
+  {
+    "surface": "les *",
+    "valid": false,
+    "reason": "冠词加符号碎片"
+  },
+  {
+    "surface": "réunions *scientifiques",
+    "valid": true
+  },
+  {
+    "surface": "communications qualifiées",
+    "valid": true
+  },
+  {
+    "surface": "la même façon",
+    "valid": true
+  },
+  {
+    "surface": "Le leur",
+    "valid": false,
+    "reason": "代词短语，非名词"
+  },
+  {
+    "surface": "leur pretention sociale",
+    "valid": true
+  },
+  {
+    "surface": ", leur attitude",
+    "valid": true
+  },
+  {
+    "surface": "leur posture",
+    "valid": true
+  },
+  {
+    "surface": "sa leurure",
+    "valid": true
+  },
+  {
+    "surface": "cet ideal",
+    "valid": true
+  },
+  {
+    "surface": "scientificité",
+    "valid": true
+  },
+  {
+    "surface": "l'aovér",
+    "valid": false,
+    "reason": "碎片/拼写残片"
+  },
+  {
+    "surface": "mauvais",
+    "valid": true
+  },
+  {
+    "surface": "insupportable",
+    "valid": true
+  },
+  {
+    "surface": "logarithme",
+    "valid": true
+  },
+  {
+    "surface": "L'étude",
+    "valid": true
+  },
+  {
+    "surface": "réflexes conditionnes",
+    "valid": true
+  },
+  {
+    "surface": ", l'essor",
+    "valid": true
+  },
+  {
+    "surface": "*behaviorisme*",
+    "valid": true
+  },
+  {
+    "surface": "un premier temps",
+    "valid": true
+  },
+  {
+    "surface": "cette direction",
+    "valid": true
+  },
+  {
+    "surface": "impossibilité",
+    "valid": true
+  },
+  {
+    "surface": "un corpus",
+    "valid": true
+  },
+  {
+    "surface": "algorithmes",
+    "valid": true
+  },
+  {
+    "surface": "un développement scientifique",
+    "valid": true
+  },
+  {
+    "surface": "continu",
+    "valid": true
+  },
+  {
+    "surface": "les tenants",
+    "valid": true
+  },
+  {
+    "surface": "cette façon",
+    "valid": true
+  },
+  {
+    "surface": "les laboratoires",
+    "valid": true
+  },
+  {
+    "surface": "psychologie",
+    "valid": true
+  },
+  {
+    "surface": "quelques années",
+    "valid": true
+  },
+  {
+    "surface": "rebondissement",
+    "valid": true
+  },
+  {
+    "surface": "avec le retour",
+    "valid": true
+  },
+  {
+    "surface": "méthodes",
+    "valid": true
+  },
+  {
+    "surface": "conditionnement",
+    "valid": true
+  },
+  {
+    "surface": "courants",
+    "valid": true
+  },
+  {
+    "surface": "thérapie familiale",
+    "valid": true
+  },
+  {
+    "surface": "von Bertalanfayl",
+    "valid": true
+  },
+  {
+    "surface": "Mais quels soient ses changements",
+    "valid": false,
+    "reason": "连词引导从句，非名词短语"
+  },
+  {
+    "surface": "habillage",
+    "valid": true
+  },
+  {
+    "surface": "prisonnière",
+    "valid": true
+  },
+  {
+    "surface": "options fondamentales",
+    "valid": true
+  },
+  {
+    "surface": "scientisme",
+    "valid": true
+  },
+  {
+    "surface": "identification",
+    "valid": true
+  },
+  {
+    "surface": "une appropriation minétaire",
+    "valid": true
+  },
+  {
+    "surface": "la scientifique",
+    "valid": true
+  },
+  {
+    "surface": "des procédures experimentales",
+    "valid": true
+  }
+]

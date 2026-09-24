@@ -1,0 +1,949 @@
+[
+  {
+    "surface": "strate",
+    "valid": true
+  },
+  {
+    "surface": "physico-chimique",
+    "valid": true
+  },
+  {
+    "surface": "que comme l'accélération",
+    "valid": false,
+    "reason": "包含连词、介词和冠词，非单一实词"
+  },
+  {
+    "surface": "une chimie eco-systemique",
+    "valid": false,
+    "reason": "包含冠词的名词短语，非单一实词"
+  },
+  {
+    "surface": "37 degrees",
+    "valid": false,
+    "reason": "含数字，非纯名词"
+  },
+  {
+    "surface": "rentalissement de determinabilite",
+    "valid": false,
+    "reason": "包含介词de的名词短语"
+  },
+  {
+    "surface": "la notion",
+    "valid": false,
+    "reason": "包含冠词la"
+  },
+  {
+    "surface": "écelle",
+    "valid": true
+  },
+  {
+    "surface": "- les uns modulaires",
+    "valid": false,
+    "reason": "含标点和冠词"
+  },
+  {
+    "surface": "les autres fractals, non proximaux et infinis",
+    "valid": false,
+    "reason": "含冠词、连词和标点"
+  },
+  {
+    "surface": "les deux cas",
+    "valid": false,
+    "reason": "包含冠词les"
+  },
+  {
+    "surface": "les secondes",
+    "valid": false,
+    "reason": "包含冠词les"
+  },
+  {
+    "surface": "déterritorialisants",
+    "valid": true
+  },
+  {
+    "surface": "Cette seconde figure",
+    "valid": false,
+    "reason": "包含指示代词Cette"
+  },
+  {
+    "surface": "l'existentialisation",
+    "valid": false,
+    "reason": "包含冠词l'"
+  },
+  {
+    "surface": "des co-ordonnées extrinsèquent",
+    "valid": false,
+    "reason": "包含冠词des"
+  },
+  {
+    "surface": "ses formes",
+    "valid": false,
+    "reason": "包含代词ses"
+  },
+  {
+    "surface": "du statut",
+    "valid": false,
+    "reason": "包含缩合冠词du"
+  },
+  {
+    "surface": "de substance",
+    "valid": false,
+    "reason": "包含介词de"
+  },
+  {
+    "surface": "cette nouvelle procédure fractale",
+    "valid": false,
+    "reason": "包含指示代词cette"
+  },
+  {
+    "surface": "les qualités",
+    "valid": false,
+    "reason": "包含冠词les"
+  },
+  {
+    "surface": "rapports inédits de transversalité",
+    "valid": false,
+    "reason": "包含介词de的名词短语"
+  },
+  {
+    "surface": "la Recherche",
+    "valid": false,
+    "reason": "包含冠词la"
+  },
+  {
+    "surface": "prostantien",
+    "valid": true
+  },
+  {
+    "surface": "le voies passage",
+    "valid": false,
+    "reason": "包含冠词le"
+  },
+  {
+    "surface": "recursives",
+    "valid": true
+  },
+  {
+    "surface": ", les formes",
+    "valid": false,
+    "reason": "含标点和冠词"
+  },
+  {
+    "surface": "héfergénées",
+    "valid": true
+  },
+  {
+    "surface": "la saveur",
+    "valid": false,
+    "reason": "包含冠词la"
+  },
+  {
+    "surface": "les mouvements",
+    "valid": false,
+    "reason": "包含冠词les"
+  },
+  {
+    "surface": "les clochers",
+    "valid": false,
+    "reason": "包含冠词les"
+  },
+  {
+    "surface": "la guipe",
+    "valid": false,
+    "reason": "包含冠词la"
+  },
+  {
+    "surface": "l'orchide",
+    "valid": false,
+    "reason": "包含冠词l'"
+  },
+  {
+    "surface": "phrase",
+    "valid": true
+  },
+  {
+    "surface": "Vintueli",
+    "valid": true
+  },
+  {
+    "surface": "etc",
+    "valid": false,
+    "reason": "缩写虚词"
+  },
+  {
+    "surface": "hétergénéité",
+    "valid": true
+  },
+  {
+    "surface": "à un travail",
+    "valid": false,
+    "reason": "包含介词à和冠词un"
+  },
+  {
+    "surface": "hétergéné",
+    "valid": true
+  },
+  {
+    "surface": "chaque dimension",
+    "valid": false,
+    "reason": "包含限定词chaque"
+  },
+  {
+    "surface": "toutes ses virtualités",
+    "valid": false,
+    "reason": "包含限定词和代词"
+  },
+  {
+    "surface": "contraints légales",
+    "valid": true
+  },
+  {
+    "surface": "accueille",
+    "valid": true
+  },
+  {
+    "surface": "l'immannage",
+    "valid": false,
+    "reason": "包含冠词l'"
+  },
+  {
+    "surface": "facteurs aléatoires",
+    "valid": true
+  },
+  {
+    "surface": "Le lien",
+    "valid": false,
+    "reason": "包含冠词Le"
+  },
+  {
+    "surface": "une glu existentielle",
+    "valid": false,
+    "reason": "包含冠词une"
+  },
+  {
+    "surface": "petrie",
+    "valid": true
+  },
+  {
+    "surface": "bifurcations moléculaires",
+    "valid": true
+  },
+  {
+    "surface": "de degrees",
+    "valid": false,
+    "reason": "包含介词de"
+  },
+  {
+    "surface": "son pliage fractal",
+    "valid": false,
+    "reason": "包含代词son"
+  },
+  {
+    "surface": "jonction aporétique",
+    "valid": true
+  },
+  {
+    "surface": "des qualités hétergénes",
+    "valid": false,
+    "reason": "包含冠词des"
+  },
+  {
+    "surface": "leur destin",
+    "valid": false,
+    "reason": "包含代词leur"
+  },
+  {
+    "surface": "L'héterogenese marque",
+    "valid": false,
+    "reason": "包含冠词和动词"
+  },
+  {
+    "surface": "d'un coup",
+    "valid": false,
+    "reason": "包含介词和冠词"
+  },
+  {
+    "surface": "cachet existentiel",
+    "valid": true
+  },
+  {
+    "surface": "la datation fractale",
+    "valid": false,
+    "reason": "包含冠词la"
+  },
+  {
+    "surface": "Cette datation",
+    "valid": false,
+    "reason": "包含指示代词Cette"
+  },
+  {
+    "surface": "Cette hétérogénèse",
+    "valid": false,
+    "reason": "包含指示代词Cette"
+  },
+  {
+    "surface": "modalités *",
+    "valid": false,
+    "reason": "含符号*"
+  },
+  {
+    "surface": "une connais-",
+    "valid": false,
+    "reason": "含冠词和连字符碎片"
+  },
+  {
+    "surface": "sance",
+    "valid": false,
+    "reason": "单词碎片"
+  },
+  {
+    "surface": "reconnaître",
+    "valid": true
+  },
+  {
+    "surface": "la schizophrenie",
+    "valid": false,
+    "reason": "包含冠词la"
+  },
+  {
+    "surface": "une deduction cognitive",
+    "valid": false,
+    "reason": "包含冠词une"
+  },
+  {
+    "surface": "embelle",
+    "valid": true
+  },
+  {
+    "surface": "des ordonnées psychotiques",
+    "valid": false,
+    "reason": "包含冠词des"
+  },
+  {
+    "surface": "l'illumination esthétique",
+    "valid": false,
+    "reason": "包含冠词l'"
+  },
+  {
+    "surface": "Tout un background",
+    "valid": false,
+    "reason": "包含限定词和冠词"
+  },
+  {
+    "surface": "énoncion concerner",
+    "valid": false,
+    "reason": "包含动词"
+  },
+  {
+    "surface": "son franchissement",
+    "valid": false,
+    "reason": "包含代词son"
+  },
+  {
+    "surface": "temps姆",
+    "valid": false,
+    "reason": "含非拉丁字符"
+  },
+  {
+    "surface": "une œuvre musicale",
+    "valid": false,
+    "reason": "包含冠词une"
+  },
+  {
+    "surface": "ma capacité",
+    "valid": false,
+    "reason": "包含代词ma"
+  },
+  {
+    "surface": "ma competence",
+    "valid": false,
+    "reason": "包含代词ma"
+  },
+  {
+    "surface": "une matrice énergétique",
+    "valid": false,
+    "reason": "包含冠词une"
+  },
+  {
+    "surface": "tous les champs",
+    "valid": false,
+    "reason": "包含限定词和冠词"
+  },
+  {
+    "surface": "L'Affect amoureux",
+    "valid": false,
+    "reason": "包含冠词L'"
+  },
+  {
+    "surface": "une « decharge",
+    "valid": false,
+    "reason": "含冠词和引号"
+  },
+  {
+    "surface": "définition",
+    "valid": true
+  },
+  {
+    "surface": "des mondes inconnu",
+    "valid": false,
+    "reason": "包含冠词des"
+  },
+  {
+    "surface": "carrefour desquels",
+    "valid": false,
+    "reason": "包含关系代词desquels"
+  },
+  {
+    "surface": "Ce dont il est question ici c'est d'un transfert généralisé",
+    "valid": false,
+    "reason": "完整句子"
+  },
+  {
+    "surface": "aussi des champs",
+    "valid": false,
+    "reason": "包含副词和冠词"
+  },
+  {
+    "surface": "index",
+    "valid": true
+  },
+  {
+    "surface": "pathiques",
+    "valid": true
+  },
+  {
+    "surface": "un sphinx",
+    "valid": false,
+    "reason": "包含冠词un"
+  },
+  {
+    "surface": "chemin",
+    "valid": true
+  },
+  {
+    "surface": "accident",
+    "valid": true
+  },
+  {
+    "surface": "un avatar",
+    "valid": false,
+    "reason": "包含冠词un"
+  },
+  {
+    "surface": "tout sou humainement significatif",
+    "valid": false,
+    "reason": "含限定词和副词"
+  },
+  {
+    "surface": "Tout affect",
+    "valid": false,
+    "reason": "包含限定词Tout"
+  },
+  {
+    "surface": "visagéte",
+    "valid": true
+  },
+  {
+    "surface": "mi-homme",
+    "valid": true
+  },
+  {
+    "surface": ", mi-femme",
+    "valid": false,
+    "reason": "含标点"
+  },
+  {
+    "surface": ", mi-animal",
+    "valid": false,
+    "reason": "含标点"
+  },
+  {
+    "surface": "une certaine gueule",
+    "valid": false,
+    "reason": "包含冠词和限定词"
+  },
+  {
+    "surface": "tous les carrefours",
+    "valid": false,
+    "reason": "包含限定词和冠词"
+  },
+  {
+    "surface": "L'elicution concrète",
+    "valid": false,
+    "reason": "包含冠词L'"
+  },
+  {
+    "surface": "enfants",
+    "valid": true
+  },
+  {
+    "surface": ", des psychotiques",
+    "valid": false,
+    "reason": "含标点和冠词"
+  },
+  {
+    "surface": "archières",
+    "valid": true
+  },
+  {
+    "surface": "déchiffer",
+    "valid": true
+  },
+  {
+    "surface": "les altrétiges «",
+    "valid": false,
+    "reason": "含冠词和引号"
+  },
+  {
+    "surface": "les horizons affectifs",
+    "valid": false,
+    "reason": "包含冠词les"
+  },
+  {
+    "surface": "monde virent",
+    "valid": true
+  },
+  {
+    "surface": "Dernier point relatif à l'hétérogenèse",
+    "valid": false,
+    "reason": "含介词和冠词"
+  },
+  {
+    "surface": ", l'équation",
+    "valid": false,
+    "reason": "含标点和冠词"
+  },
+  {
+    "surface": "Notre quadrature",
+    "valid": false,
+    "reason": "包含限定词Notre"
+  },
+  {
+    "surface": "l'enonction",
+    "valid": false,
+    "reason": "包含冠词l'"
+  },
+  {
+    "surface": "FONCTEURS",
+    "valid": true
+  },
+  {
+    "surface": "F.Φ.T.U",
+    "valid": false,
+    "reason": "缩写和符号"
+  },
+  {
+    "surface": "l'opposition kantienne",
+    "valid": false,
+    "reason": "包含冠词l'"
+  },
+  {
+    "surface": "médiee",
+    "valid": true
+  },
+  {
+    "surface": "schémes",
+    "valid": true
+  },
+  {
+    "surface": "Les riennelles syragniques",
+    "valid": false,
+    "reason": "包含冠词Les"
+  },
+  {
+    "surface": "les rituelles modulaires",
+    "valid": false,
+    "reason": "包含冠词les"
+  },
+  {
+    "surface": "des opérations matérielles et existentiels",
+    "valid": false,
+    "reason": "含冠词和连词"
+  },
+  {
+    "surface": "de nouveaux arrangements",
+    "valid": false,
+    "reason": "包含介词de和限定词"
+  },
+  {
+    "surface": "bassins énergétiques",
+    "valid": true
+  },
+  {
+    "surface": "une pro-energie moleculaire",
+    "valid": false,
+    "reason": "包含冠词une"
+  },
+  {
+    "surface": "édé la'existence",
+    "valid": false,
+    "reason": "含冠词碎片"
+  },
+  {
+    "surface": "des énergétiques semiotiques",
+    "valid": false,
+    "reason": "包含冠词des"
+  },
+  {
+    "surface": "une répétition semiotique",
+    "valid": false,
+    "reason": "包含冠词une"
+  },
+  {
+    "surface": "une tension proto-energétique",
+    "valid": false,
+    "reason": "包含冠词une"
+  },
+  {
+    "surface": "un exemple",
+    "valid": false,
+    "reason": "包含冠词un"
+  },
+  {
+    "surface": "suite le chiffre",
+    "valid": false,
+    "reason": "包含冠词le"
+  },
+  {
+    "surface": ", chaque nouvelle lance",
+    "valid": false,
+    "reason": "含标点和限定词"
+  },
+  {
+    "surface": "tâche",
+    "valid": true
+  },
+  {
+    "surface": "une tension probabilite",
+    "valid": false,
+    "reason": "包含冠词une"
+  },
+  {
+    "surface": "la répétition «",
+    "valid": false,
+    "reason": "含冠词和引号"
+  },
+  {
+    "surface": "même chiffre",
+    "valid": false,
+    "reason": "包含限定词même"
+  },
+  {
+    "surface": "équation",
+    "valid": true
+  },
+  {
+    "surface": "un horizon",
+    "valid": false,
+    "reason": "包含冠词un"
+  },
+  {
+    "surface": "lances ultérieures",
+    "valid": true
+  },
+  {
+    "surface": "une énergie virtuelle",
+    "valid": false,
+    "reason": "包含冠词une"
+  },
+  {
+    "surface": "éterrificatione",
+    "valid": true
+  },
+  {
+    "surface": "liens incurses",
+    "valid": true
+  },
+  {
+    "surface": "une série «",
+    "valid": false,
+    "reason": "含冠词和引号"
+  },
+  {
+    "surface": "anomie",
+    "valid": true
+  },
+  {
+    "surface": "disions",
+    "valid": false,
+    "reason": "动词变位"
+  },
+  {
+    "surface": "un jeu",
+    "valid": false,
+    "reason": "包含冠词un"
+  },
+  {
+    "surface": "sa définition fonctionnelle",
+    "valid": false,
+    "reason": "包含代词sa"
+  },
+  {
+    "surface": "la tricherie",
+    "valid": false,
+    "reason": "包含冠词la"
+  },
+  {
+    "surface": "des potentialités impréuves",
+    "valid": false,
+    "reason": "包含冠词des"
+  },
+  {
+    "surface": "gains",
+    "valid": true
+  },
+  {
+    "surface": "un palier pro-energetique",
+    "valid": false,
+    "reason": "包含冠词un"
+  },
+  {
+    "surface": "une nouvelle Constellation",
+    "valid": false,
+    "reason": "包含冠词和形容词"
+  },
+  {
+    "surface": "la richesse induse",
+    "valid": false,
+    "reason": "包含冠词la"
+  },
+  {
+    "surface": "le mensonge",
+    "valid": false,
+    "reason": "包含冠词le"
+  },
+  {
+    "surface": "la trahison",
+    "valid": false,
+    "reason": "包含冠词la"
+  },
+  {
+    "surface": "la culpabilité",
+    "valid": false,
+    "reason": "包含冠词la"
+  },
+  {
+    "surface": "- la sanction",
+    "valid": false,
+    "reason": "含标点和冠词"
+  },
+  {
+    "surface": ", une prise",
+    "valid": false,
+    "reason": "含标点和冠词"
+  },
+  {
+    "surface": "un Agencement complexe",
+    "valid": false,
+    "reason": "包含冠词un"
+  },
+  {
+    "surface": "Un tel investissement pro-energetique",
+    "valid": false,
+    "reason": "包含冠词和限定词"
+  },
+  {
+    "surface": "des modalités aussi diverses",
+    "valid": false,
+    "reason": "含冠词和副词"
+  },
+  {
+    "surface": "L'héterogenese",
+    "valid": false,
+    "reason": "包含冠词L'"
+  },
+  {
+    "surface": "sa passivité in",
+    "valid": false,
+    "reason": "含代词和碎片"
+  },
+  {
+    "surface": "une puissance",
+    "valid": false,
+    "reason": "包含冠词une"
+  },
+  {
+    "surface": "autandonge",
+    "valid": true
+  },
+  {
+    "surface": "La fractalisation topique",
+    "valid": false,
+    "reason": "包含冠词La"
+  },
+  {
+    "surface": "quelque part",
+    "valid": false,
+    "reason": "副词短语"
+  },
+  {
+    "surface": "une crete",
+    "valid": false,
+    "reason": "包含冠词une"
+  },
+  {
+    "surface": "la delinification",
+    "valid": false,
+    "reason": "包含冠词la"
+  },
+  {
+    "surface": "plus de même temps",
+    "valid": false,
+    "reason": "含副词、介词和限定词"
+  },
+  {
+    "surface": "crete",
+    "valid": true
+  },
+  {
+    "surface": "briequetage",
+    "valid": true
+  },
+  {
+    "surface": ", de sorte",
+    "valid": false,
+    "reason": "含标点和介词短语"
+  },
+  {
+    "surface": "une tangle moléculaire",
+    "valid": false,
+    "reason": "包含冠词une"
+  },
+  {
+    "surface": "infini",
+    "valid": true
+  },
+  {
+    "surface": "opératrice",
+    "valid": true
+  },
+  {
+    "surface": "subiectivation",
+    "valid": true
+  },
+  {
+    "surface": "les rénes",
+    "valid": false,
+    "reason": "包含冠词les"
+  },
+  {
+    "surface": "la réticulature",
+    "valid": false,
+    "reason": "包含冠词la"
+  },
+  {
+    "surface": "- la pulsion",
+    "valid": false,
+    "reason": "含标点和冠词"
+  },
+  {
+    "surface": "le mur",
+    "valid": false,
+    "reason": "包含冠词le"
+  },
+  {
+    "surface": "la deconstruction fractale",
+    "valid": false,
+    "reason": "包含冠词la"
+  },
+  {
+    "surface": "de démultiplication",
+    "valid": false,
+    "reason": "包含介词de"
+  },
+  {
+    "surface": "proto-héterogénètre",
+    "valid": true
+  },
+  {
+    "surface": "grandes energies molaires",
+    "valid": true
+  },
+  {
+    "surface": "la démultiplication",
+    "valid": false,
+    "reason": "包含冠词la"
+  },
+  {
+    "surface": "Néanon",
+    "valid": true
+  },
+  {
+    "surface": "schizo",
+    "valid": true
+  },
+  {
+    "surface": "toutes les mutations",
+    "valid": false,
+    "reason": "包含限定词和冠词"
+  },
+  {
+    "surface": "- les index",
+    "valid": false,
+    "reason": "含标点和冠词"
+  },
+  {
+    "surface": "les lapsus",
+    "valid": false,
+    "reason": "包含冠词les"
+  },
+  {
+    "surface": ", actes",
+    "valid": false,
+    "reason": "含标点"
+  },
+  {
+    "surface": "- le déplacement",
+    "valid": false,
+    "reason": "含标点和冠词"
+  },
+  {
+    "surface": "la condensation",
+    "valid": false,
+    "reason": "包含冠词la"
+  },
+  {
+    "surface": "surdétermination",
+    "valid": true
+  },
+  {
+    "surface": "-la tension narrative",
+    "valid": false,
+    "reason": "含标点和冠词"
+  },
+  {
+    "surface": "- l'effusion contemplative sans objet",
+    "valid": false,
+    "reason": "含标点、冠词和介词"
+  },
+  {
+    "surface": "l'expérience",
+    "valid": false,
+    "reason": "包含冠词l'"
+  },
+  {
+    "surface": "L'IRRÈVERSIBILISATION",
+    "valid": false,
+    "reason": "包含冠词L'"
+  },
+  {
+    "surface": "les fonctions expressives",
+    "valid": false,
+    "reason": "包含冠词les"
+  },
+  {
+    "surface": "et les fonctions diagrammatiques",
+    "valid": false,
+    "reason": "含连词和冠词"
+  },
+  {
+    "surface": "un simple aller",
+    "valid": false,
+    "reason": "包含冠词un"
+  },
+  {
+    "surface": "la *descente*",
+    "valid": false,
+    "reason": "含冠词和符号*"
+  }
+]

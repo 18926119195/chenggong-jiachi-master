@@ -1,0 +1,49 @@
+{
+  "callId": "call-0603",
+  "timestamp": "2026-09-22T10-22-11-770Z",
+  "elapsed": 1005,
+  "success": true,
+  "response": {
+    "text": "【【114】】【【144】】【【223】】【【286】】【【125】】【【52】】【【17】】【【47】】【【180】】【【209】】【【210】】【【285】】【【146】】【【145】】【【178】】【【191】】【【230】】【【244】】【【279】】【【308】】【【309】】【【310】】【【313】】【【315】】【【316】】【【317】】【【321】】【【327】】【【332】】【【333】】【【341】】【【342】】【【351】】【【361】】",
+    "usage": {
+      "prompt_tokens": 3628,
+      "completion_tokens": 137,
+      "total_tokens": 3765,
+      "prompt_tokens_details": {
+        "cached_tokens": 0
+      },
+      "prompt_cache_hit_tokens": 0,
+      "prompt_cache_miss_tokens": 3628
+    },
+    "truncated": false,
+    "finishReason": "stop"
+  },
+  "rawResponse": {
+    "id": "99e2e78a-01b5-458b-b62b-cbac3a409f2d",
+    "object": "chat.completion",
+    "created": 1790072531,
+    "model": "deepseek-flash",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "【【114】】【【144】】【【223】】【【286】】【【125】】【【52】】【【17】】【【47】】【【180】】【【209】】【【210】】【【285】】【【146】】【【145】】【【178】】【【191】】【【230】】【【244】】【【279】】【【308】】【【309】】【【310】】【【313】】【【315】】【【316】】【【317】】【【321】】【【327】】【【332】】【【333】】【【341】】【【342】】【【351】】【【361】】"
+        },
+        "logprobs": null,
+        "finish_reason": "stop"
+      }
+    ],
+    "usage": {
+      "prompt_tokens": 3628,
+      "completion_tokens": 137,
+      "total_tokens": 3765,
+      "prompt_tokens_details": {
+        "cached_tokens": 0
+      },
+      "prompt_cache_hit_tokens": 0,
+      "prompt_cache_miss_tokens": 3628
+    },
+    "system_fingerprint": "aeb56401ca74e127821c4f9126dcb669"
+  }
+}

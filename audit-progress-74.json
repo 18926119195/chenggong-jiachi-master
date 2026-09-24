@@ -1,0 +1,857 @@
+[
+  {
+    "surface": "surrealistes",
+    "valid": true
+  },
+  {
+    "surface": "une situation",
+    "valid": true
+  },
+  {
+    "surface": "le traitement deterritorialisant",
+    "valid": true
+  },
+  {
+    "surface": "l'amhère",
+    "valid": true
+  },
+  {
+    "surface": "du cadrage",
+    "valid": true
+  },
+  {
+    "surface": "Désormais la clef structureale",
+    "valid": false,
+    "reason": "包含副词和冠词，非单一实词"
+  },
+  {
+    "surface": "Roland Barthes",
+    "valid": true
+  },
+  {
+    "surface": "J'",
+    "valid": false,
+    "reason": "代词碎片"
+  },
+  {
+    "surface": "la chose",
+    "valid": true
+  },
+  {
+    "surface": "une image",
+    "valid": true
+  },
+  {
+    "surface": "un signe",
+    "valid": true
+  },
+  {
+    "surface": "devant l'objective",
+    "valid": false,
+    "reason": "包含介词，非单一实词"
+  },
+  {
+    "surface": "de photographie",
+    "valid": false,
+    "reason": "包含介词，非单一实词"
+  },
+  {
+    "surface": "l'intentionalité imageante",
+    "valid": true
+  },
+  {
+    "surface": "Mon regard",
+    "valid": true
+  },
+  {
+    "surface": "Bofill",
+    "valid": true
+  },
+  {
+    "surface": "âme",
+    "valid": true
+  },
+  {
+    "surface": "quatre vents",
+    "valid": true
+  },
+  {
+    "surface": "cette appropriation",
+    "valid": true
+  },
+  {
+    "surface": "comme une ventouse",
+    "valid": false,
+    "reason": "包含连词/介词，非单一实词"
+  },
+  {
+    "surface": "Cet être",
+    "valid": true
+  },
+  {
+    "surface": "sa précarité",
+    "valid": true
+  },
+  {
+    "surface": "marabouté",
+    "valid": true
+  },
+  {
+    "surface": "mon interiérité",
+    "valid": true
+  },
+  {
+    "surface": "- l'obscurcissement",
+    "valid": false,
+    "reason": "含标点碎片"
+  },
+  {
+    "surface": "Maurice",
+    "valid": true
+  },
+  {
+    "surface": "une barre",
+    "valid": true
+  },
+  {
+    "surface": "ombre horizontale",
+    "valid": true
+  },
+  {
+    "surface": "le contre-jour",
+    "valid": true
+  },
+  {
+    "surface": "mi-clos",
+    "valid": true
+  },
+  {
+    "surface": "Mario Merz",
+    "valid": true
+  },
+  {
+    "surface": "la paupière",
+    "valid": true
+  },
+  {
+    "surface": "une lueur",
+    "valid": true
+  },
+  {
+    "surface": "une seconde vision3",
+    "valid": false,
+    "reason": "含数字碎片"
+  },
+  {
+    "surface": "- les reflets",
+    "valid": false,
+    "reason": "含标点碎片"
+  },
+  {
+    "surface": "montures",
+    "valid": true
+  },
+  {
+    "surface": "lunettes",
+    "valid": true
+  },
+  {
+    "surface": "Degottxe",
+    "valid": true
+  },
+  {
+    "surface": "l'éclat",
+    "valid": true
+  },
+  {
+    "surface": "son regard",
+    "valid": true
+  },
+  {
+    "surface": "- la vitrification totale",
+    "valid": false,
+    "reason": "含标点碎片"
+  },
+  {
+    "surface": "Juliette",
+    "valid": true
+  },
+  {
+    "surface": "Man Ray1",
+    "valid": false,
+    "reason": "含数字碎片"
+  },
+  {
+    "surface": "l'émission",
+    "valid": true
+  },
+  {
+    "surface": "une croix lumineuse",
+    "valid": true
+  },
+  {
+    "surface": "verres",
+    "valid": true
+  },
+  {
+    "surface": "Lévi",
+    "valid": true
+  },
+  {
+    "surface": "Strauss",
+    "valid": true
+  },
+  {
+    "surface": "oïel",
+    "valid": true
+  },
+  {
+    "surface": "effervescence lumineuse",
+    "valid": true
+  },
+  {
+    "surface": ", de Maurice",
+    "valid": false,
+    "reason": "含标点和介词"
+  },
+  {
+    "surface": "Rheims3",
+    "valid": false,
+    "reason": "含数字碎片"
+  },
+  {
+    "surface": "- le blanc",
+    "valid": false,
+    "reason": "含标点碎片"
+  },
+  {
+    "surface": "l'oxil",
+    "valid": true
+  },
+  {
+    "surface": "façon plus fréquente,",
+    "valid": false,
+    "reason": "含副词和标点"
+  },
+  {
+    "surface": "l'iris",
+    "valid": true
+  },
+  {
+    "surface": "une lumière",
+    "valid": true
+  },
+  {
+    "surface": "cornée6",
+    "valid": false,
+    "reason": "含数字碎片"
+  },
+  {
+    "surface": "travers son opposition",
+    "valid": false,
+    "reason": "包含介词，非单一实词"
+  },
+  {
+    "surface": "la signification",
+    "valid": true
+  },
+  {
+    "surface": "- « piquet, petit trou, petite tache et aussi coup de deé part du la seance et vient me percer ».",
+    "valid": false,
+    "reason": "整句引用，非单一实词"
+  },
+  {
+    "surface": "expansion métonymique",
+    "valid": true
+  },
+  {
+    "surface": "une différence",
+    "valid": true
+  },
+  {
+    "surface": "un « detai",
+    "valid": false,
+    "reason": "含标点碎片"
+  },
+  {
+    "surface": "Tempes",
+    "valid": true
+  },
+  {
+    "surface": "d'emphase",
+    "valid": false,
+    "reason": "含介词碎片"
+  },
+  {
+    "surface": "Mais cette butée",
+    "valid": false,
+    "reason": "包含连词，非单一实词"
+  },
+  {
+    "surface": "la facticite",
+    "valid": true
+  },
+  {
+    "surface": "- «",
+    "valid": false,
+    "reason": "标点碎片"
+  },
+  {
+    "surface": "- à laquelle, selon Roland Barthes, se",
+    "valid": false,
+    "reason": "含标点、介词、代词"
+  },
+  {
+    "surface": "Le vis-à-vis",
+    "valid": true
+  },
+  {
+    "surface": "photos travaille également à cette extraction d'un regard autonomisé",
+    "valid": false,
+    "reason": "整句，非单一实词"
+  },
+  {
+    "surface": "un contraste",
+    "valid": true
+  },
+  {
+    "surface": "complémentariité",
+    "valid": true
+  },
+  {
+    "surface": "une sculpture",
+    "valid": true
+  },
+  {
+    "surface": "arrêté",
+    "valid": true
+  },
+  {
+    "surface": "pince metalliques",
+    "valid": true
+  },
+  {
+    "surface": ", la face",
+    "valid": false,
+    "reason": "含标点碎片"
+  },
+  {
+    "surface": "mi-écairée",
+    "valid": true
+  },
+  {
+    "surface": "yeux asombris",
+    "valid": true
+  },
+  {
+    "surface": "la pleine ouverture",
+    "valid": true
+  },
+  {
+    "surface": "l'œil",
+    "valid": true
+  },
+  {
+    "surface": "fenêtre",
+    "valid": true
+  },
+  {
+    "surface": "des barreaux",
+    "valid": true
+  },
+  {
+    "surface": "temporalisation partielles",
+    "valid": true
+  },
+  {
+    "surface": "peut-être à l'exception",
+    "valid": false,
+    "reason": "含副词和介词"
+  },
+  {
+    "surface": "la bande dessinée",
+    "valid": true
+  },
+  {
+    "surface": "ce terrain",
+    "valid": true
+  },
+  {
+    "surface": "teuillier",
+    "valid": true
+  },
+  {
+    "surface": "heurte",
+    "valid": true
+  },
+  {
+    "surface": "la méditation",
+    "valid": true
+  },
+  {
+    "surface": "sa médisparue",
+    "valid": true
+  },
+  {
+    "surface": "souvenir",
+    "valid": true
+  },
+  {
+    "surface": "Les portraits",
+    "valid": true
+  },
+  {
+    "surface": "Kiichi",
+    "valid": true
+  },
+  {
+    "surface": "Tahara",
+    "valid": true
+  },
+  {
+    "surface": "une tout autre voie",
+    "valid": true
+  },
+  {
+    "surface": "son souci principal",
+    "valid": true
+  },
+  {
+    "surface": "ni dans la dénation",
+    "valid": false,
+    "reason": "含连词和介词"
+  },
+  {
+    "surface": "l'intentité",
+    "valid": true
+  },
+  {
+    "surface": "ni dans la circonstriction",
+    "valid": false,
+    "reason": "含连词和介词"
+  },
+  {
+    "surface": "charges significatives",
+    "valid": true
+  },
+  {
+    "surface": "des références",
+    "valid": true
+  },
+  {
+    "surface": "notoriété",
+    "valid": true
+  },
+  {
+    "surface": "toujours sur le mode",
+    "valid": false,
+    "reason": "含副词和介词"
+  },
+  {
+    "surface": "allusions indirectes",
+    "valid": true
+  },
+  {
+    "surface": "la visageätité",
+    "valid": true
+  },
+  {
+    "surface": "visageätites",
+    "valid": true
+  },
+  {
+    "surface": "les traits contextuels",
+    "valid": true
+  },
+  {
+    "surface": "la visageät",
+    "valid": true
+  },
+  {
+    "surface": "telles les traces",
+    "valid": false,
+    "reason": "含形容词/限定词，非单一实词"
+  },
+  {
+    "surface": "le Saint Suaire de Turin",
+    "valid": true
+  },
+  {
+    "surface": "aujourd'hui la subjectivité",
+    "valid": false,
+    "reason": "含副词，非单一实词"
+  },
+  {
+    "surface": "Washington",
+    "valid": true
+  },
+  {
+    "surface": "L'élaboré",
+    "valid": true
+  },
+  {
+    "surface": "la jackson",
+    "valid": true
+  },
+  {
+    "surface": "le américain",
+    "valid": true
+  },
+  {
+    "surface": "Tout signification",
+    "valid": false,
+    "reason": "含限定词，非单一实词"
+  },
+  {
+    "surface": "visageät",
+    "valid": true
+  },
+  {
+    "surface": "deterritorialisier",
+    "valid": true
+  },
+  {
+    "surface": "mon son sens formel",
+    "valid": false,
+    "reason": "含代词和限定词，非单一实词"
+  },
+  {
+    "surface": "qualité",
+    "valid": true
+  },
+  {
+    "surface": ", de gestalt",
+    "valid": false,
+    "reason": "含标点和介词"
+  },
+  {
+    "surface": ", de problématique abstraite",
+    "valid": false,
+    "reason": "含标点和介词"
+  },
+  {
+    "surface": ", la fait",
+    "valid": false,
+    "reason": "含标点碎片"
+  },
+  {
+    "surface": "tant que foyer enonciatif",
+    "valid": false,
+    "reason": "含连词，非单一实词"
+  },
+  {
+    "surface": "reterritorialisation visageatire",
+    "valid": true
+  },
+  {
+    "surface": "une telle visageätité non discursive",
+    "valid": true
+  },
+  {
+    "surface": "un présent absolument autre",
+    "valid": true
+  },
+  {
+    "surface": "la de la présence",
+    "valid": false,
+    "reason": "含介词和冠词碎片"
+  },
+  {
+    "surface": "un * grand * module",
+    "valid": false,
+    "reason": "含符号碎片"
+  },
+  {
+    "surface": "d'une altérité",
+    "valid": false,
+    "reason": "含介词碎片"
+  },
+  {
+    "surface": "les tournages",
+    "valid": true
+  },
+  {
+    "surface": ", de l'histoire",
+    "valid": false,
+    "reason": "含标点和介词"
+  },
+  {
+    "surface": "par les mutations",
+    "valid": false,
+    "reason": "含介词"
+  },
+  {
+    "surface": "Phylum technologiques",
+    "valid": true
+  },
+  {
+    "surface": "tout particulier du travail",
+    "valid": false,
+    "reason": "含限定词和介词"
+  },
+  {
+    "surface": "la lignée",
+    "valid": true
+  },
+  {
+    "surface": "ces predécessees",
+    "valid": true
+  },
+  {
+    "surface": "diversifier",
+    "valid": true
+  },
+  {
+    "surface": "maximum",
+    "valid": true
+  },
+  {
+    "surface": "les composantes machiniques",
+    "valid": true
+  },
+  {
+    "surface": "une selon de nouvelles modalités",
+    "valid": false,
+    "reason": "含介词，非单一实词"
+  },
+  {
+    "surface": "effacement subjectif",
+    "valid": true
+  },
+  {
+    "surface": "photographe",
+    "valid": true
+  },
+  {
+    "surface": "un Moholy Nagy et qui le conduisit",
+    "valid": false,
+    "reason": "含连词和代词"
+  },
+  {
+    "surface": "un demi-soleil",
+    "valid": true
+  },
+  {
+    "surface": "acute",
+    "valid": true
+  },
+  {
+    "surface": "lent",
+    "valid": true
+  },
+  {
+    "surface": "Un tel traitement déterritoralisant et de-subjectivant",
+    "valid": false,
+    "reason": "含连词，非单一实词"
+  },
+  {
+    "surface": "une visageé processuelle",
+    "valid": true
+  },
+  {
+    "surface": "l'énonciature",
+    "valid": true
+  },
+  {
+    "surface": "Considérons à nouveau quelques exemples.",
+    "valid": false,
+    "reason": "整句，非单一实词"
+  },
+  {
+    "surface": "quelles exemples",
+    "valid": true
+  },
+  {
+    "surface": "Kouneil²",
+    "valid": false,
+    "reason": "含数字符号碎片"
+  },
+  {
+    "surface": "deux pastilles",
+    "valid": true
+  },
+  {
+    "surface": "lumière brute",
+    "valid": true
+  },
+  {
+    "surface": "arrachts",
+    "valid": true
+  },
+  {
+    "surface": "le regard",
+    "valid": true
+  },
+  {
+    "surface": "également arrondie",
+    "valid": false,
+    "reason": "含副词，非单一实词"
+  },
+  {
+    "surface": "aurore",
+    "valid": true
+  },
+  {
+    "surface": "affaissée",
+    "valid": true
+  },
+  {
+    "surface": "c'est toute la photographie",
+    "valid": false,
+    "reason": "整句，非单一实词"
+  },
+  {
+    "surface": "ceil",
+    "valid": true
+  },
+  {
+    "surface": "paupe",
+    "valid": true
+  },
+  {
+    "surface": "moulurel",
+    "valid": true
+  },
+  {
+    "surface": "Arman²",
+    "valid": false,
+    "reason": "含数字符号碎片"
+  },
+  {
+    "surface": "globule",
+    "valid": true
+  },
+  {
+    "surface": "la narine",
+    "valid": true
+  },
+  {
+    "surface": "résonance",
+    "valid": true
+  },
+  {
+    "surface": "d'autres cérules",
+    "valid": false,
+    "reason": "含限定词碎片"
+  },
+  {
+    "surface": "traces",
+    "valid": true
+  },
+  {
+    "surface": "blanches",
+    "valid": true
+  },
+  {
+    "surface": "l'ceil",
+    "valid": true
+  },
+  {
+    "surface": "photo",
+    "valid": true
+  },
+  {
+    "surface": "la sculpture",
+    "valid": true
+  },
+  {
+    "surface": "les deux blancs",
+    "valid": true
+  },
+  {
+    "surface": "chemise",
+    "valid": true
+  },
+  {
+    "surface": "vibration",
+    "valid": true
+  },
+  {
+    "surface": "une population",
+    "valid": true
+  },
+  {
+    "surface": "paumes",
+    "valid": true
+  },
+  {
+    "surface": "grosses tais",
+    "valid": true
+  },
+  {
+    "surface": "Europe",
+    "valid": true
+  },
+  {
+    "surface": "paravent chinois",
+    "valid": true
+  },
+  {
+    "surface": "Dex gros abat-jat",
+    "valid": true
+  },
+  {
+    "surface": "des yeux",
+    "valid": true
+  },
+  {
+    "surface": "Philippe Sollers",
+    "valid": true
+  },
+  {
+    "surface": "une telle",
+    "valid": false,
+    "reason": "限定词短语，非实词"
+  },
+  {
+    "surface": "Jaspers Jones",
+    "valid": true
+  },
+  {
+    "surface": "ses chiffres",
+    "valid": true
+  },
+  {
+    "surface": "Robbe-",
+    "valid": false,
+    "reason": "截断碎片"
+  },
+  {
+    "surface": "A cet égard",
+    "valid": false,
+    "reason": "含介词和限定词，非单一实词"
+  },
+  {
+    "surface": "une étape",
+    "valid": true
+  },
+  {
+    "surface": "une ligne",
+    "valid": true
+  },
+  {
+    "surface": "progression",
+    "valid": true
+  },
+  {
+    "surface": "le cinéma",
+    "valid": true
+  },
+  {
+    "surface": "la vidéo",
+    "valid": true
+  },
+  {
+    "surface": "l'image digitale",
+    "valid": true
+  },
+  {
+    "surface": "Roland Barthes, c'est dans la photo, plus peut-être que dans n'importe quelle autre forme d'art, que git la temporalité existente des machines de représentation",
+    "valid": false,
+    "reason": "整句，非单一实词"
+  },
+  {
+    "surface": "autres médias",
+    "valid": true
+  }
+]

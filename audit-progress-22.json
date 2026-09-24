@@ -1,0 +1,853 @@
+[
+  {
+    "surface": "d'indifférenciation",
+    "valid": true
+  },
+  {
+    "surface": "la l'algèra",
+    "valid": false,
+    "reason": "冠词重复且拼写错误，非规范名词短语"
+  },
+  {
+    "surface": "Gogh",
+    "valid": true
+  },
+  {
+    "surface": "« coloriste aléatoire",
+    "valid": false,
+    "reason": "含标点碎片，非规范名词短语"
+  },
+  {
+    "surface": "tout la contrainte",
+    "valid": false,
+    "reason": "限定词搭配错误，非规范名词短语"
+  },
+  {
+    "surface": "hasards",
+    "valid": true
+  },
+  {
+    "surface": "couleurs communes",
+    "valid": true
+  },
+  {
+    "surface": "le matériel",
+    "valid": true
+  },
+  {
+    "surface": "l'Inconscient schizanalytique",
+    "valid": true
+  },
+  {
+    "surface": "des potentialités",
+    "valid": true
+  },
+  {
+    "surface": "tronques discontinu",
+    "valid": false,
+    "reason": "搭配不成立，非规范名词短语"
+  },
+  {
+    "surface": "des lissages",
+    "valid": true
+  },
+  {
+    "surface": "des pièces",
+    "valid": true
+  },
+  {
+    "surface": "possible",
+    "valid": true
+  },
+  {
+    "surface": "meconnaitre",
+    "valid": true
+  },
+  {
+    "surface": "stratifications libidinales",
+    "valid": true
+  },
+  {
+    "surface": ", de structures",
+    "valid": false,
+    "reason": "含标点碎片，非规范名词短语"
+  },
+  {
+    "surface": "l'homoe士asis",
+    "valid": false,
+    "reason": "含非法语字符，拼写异常"
+  },
+  {
+    "surface": "fluctuations physiques",
+    "valid": true
+  },
+  {
+    "surface": "l'équilibre",
+    "valid": true
+  },
+  {
+    "surface": "négociations névrotiques",
+    "valid": true
+  },
+  {
+    "surface": "les investissements",
+    "valid": true
+  },
+  {
+    "surface": ", syndromes",
+    "valid": false,
+    "reason": "含标点碎片"
+  },
+  {
+    "surface": "ambition",
+    "valid": true
+  },
+  {
+    "surface": "la balance énergétique",
+    "valid": true
+  },
+  {
+    "surface": "ces investissements",
+    "valid": true
+  },
+  {
+    "surface": "répétition",
+    "valid": true
+  },
+  {
+    "surface": "mort freudienne",
+    "valid": true
+  },
+  {
+    "surface": "la schi",
+    "valid": false,
+    "reason": "截断词，非完整名词"
+  },
+  {
+    "surface": "les correlations synchroniques",
+    "valid": true
+  },
+  {
+    "surface": "distance garantissan",
+    "valid": false,
+    "reason": "截断词，非规范名词短语"
+  },
+  {
+    "surface": "composabilité",
+    "valid": true
+  },
+  {
+    "surface": "entité",
+    "valid": true
+  },
+  {
+    "surface": "Cette non-séparabilité",
+    "valid": true
+  },
+  {
+    "surface": "de tout critère",
+    "valid": true
+  },
+  {
+    "surface": "localisation sémiotique",
+    "valid": true
+  },
+  {
+    "surface": "et son statut",
+    "valid": false,
+    "reason": "以连词开头，非独立名词短语"
+  },
+  {
+    "surface": "référence intrinsèque",
+    "valid": true
+  },
+  {
+    "surface": "l'intrusion",
+    "valid": true
+  },
+  {
+    "surface": "observateur",
+    "valid": true
+  },
+  {
+    "surface": "Les tenseurs",
+    "valid": true
+  },
+  {
+    "surface": "non-séparabilité",
+    "valid": true
+  },
+  {
+    "surface": "le plan général",
+    "valid": true
+  },
+  {
+    "surface": "relations inter-entitaires",
+    "valid": true
+  },
+  {
+    "surface": "aux dite",
+    "valid": false,
+    "reason": "搭配不成立，非规范名词短语"
+  },
+  {
+    "surface": "*deterritorialisation*",
+    "valid": true
+  },
+  {
+    "surface": "axe",
+    "valid": true
+  },
+  {
+    "surface": "ordonnées",
+    "valid": true
+  },
+  {
+    "surface": ", fig",
+    "valid": false,
+    "reason": "含标点碎片及缩写"
+  },
+  {
+    "surface": "deux configurations",
+    "valid": true
+  },
+  {
+    "surface": "*deterritorialisation intrinsèque",
+    "valid": true
+  },
+  {
+    "surface": "les Systems",
+    "valid": true
+  },
+  {
+    "surface": "déterritorialisation extrinsèque",
+    "valid": true
+  },
+  {
+    "surface": "le Contenu",
+    "valid": true
+  },
+  {
+    "surface": "Les axes",
+    "valid": true
+  },
+  {
+    "surface": "de discursivité",
+    "valid": true
+  },
+  {
+    "surface": "l'angle thermodynamique",
+    "valid": true
+  },
+  {
+    "surface": "biologie",
+    "valid": true
+  },
+  {
+    "surface": "une telle prise",
+    "valid": true
+  },
+  {
+    "surface": "des notions",
+    "valid": true
+  },
+  {
+    "surface": "action",
+    "valid": true
+  },
+  {
+    "surface": "de réaction",
+    "valid": true
+  },
+  {
+    "surface": "des interactions",
+    "valid": true
+  },
+  {
+    "surface": "prises",
+    "valid": true
+  },
+  {
+    "surface": "notre mode",
+    "valid": true
+  },
+  {
+    "surface": "un plan actuel",
+    "valid": true
+  },
+  {
+    "surface": "/or",
+    "valid": false,
+    "reason": "含符号碎片"
+  },
+  {
+    "surface": "quantification",
+    "valid": true
+  },
+  {
+    "surface": "une capacité",
+    "valid": true
+  },
+  {
+    "surface": "tant qu'économie",
+    "valid": false,
+    "reason": "以连词短语开头，非独立名词短语"
+  },
+  {
+    "surface": "flux énergétique",
+    "valid": true
+  },
+  {
+    "surface": "temporalis",
+    "valid": false,
+    "reason": "截断词，非完整名词"
+  },
+  {
+    "surface": "Cette dimension paradoxale",
+    "valid": true
+  },
+  {
+    "surface": "une quantification propre",
+    "valid": true
+  },
+  {
+    "surface": "des choses",
+    "valid": true
+  },
+  {
+    "surface": "une charge énergétique",
+    "valid": true
+  },
+  {
+    "surface": "le même genre",
+    "valid": true
+  },
+  {
+    "surface": "pétitions",
+    "valid": true
+  },
+  {
+    "surface": "toute métapsychologie",
+    "valid": true
+  },
+  {
+    "surface": "un moulage molaire",
+    "valid": true
+  },
+  {
+    "surface": "striage",
+    "valid": true
+  },
+  {
+    "surface": "énie degre des redundances de site d'entité",
+    "valid": false,
+    "reason": "拼写错误且结构混乱"
+  },
+  {
+    "surface": "une telle probabilité",
+    "valid": true
+  },
+  {
+    "surface": "niveaux plus moléculaires",
+    "valid": true
+  },
+  {
+    "surface": "son rôle",
+    "valid": true
+  },
+  {
+    "surface": "deux premières configurations quantiques",
+    "valid": true
+  },
+  {
+    "surface": "aussi pour mission",
+    "valid": false,
+    "reason": "以副词/介词短语开头，非独立名词短语"
+  },
+  {
+    "surface": "projet",
+    "valid": true
+  },
+  {
+    "surface": "le Plan",
+    "valid": true
+  },
+  {
+    "surface": "la potentialité",
+    "valid": true
+  },
+  {
+    "surface": "une discernabilité",
+    "valid": true
+  },
+  {
+    "surface": "déterrification",
+    "valid": true
+  },
+  {
+    "surface": "la non-specifabilité",
+    "valid": true
+  },
+  {
+    "surface": "discursive",
+    "valid": false,
+    "reason": "形容词，非名词"
+  },
+  {
+    "surface": "cette retroaction diffère",
+    "valid": false,
+    "reason": "含动词，非名词短语"
+  },
+  {
+    "surface": "la postulation",
+    "valid": true
+  },
+  {
+    "surface": "récusee",
+    "valid": false,
+    "reason": "动词过去分词形式，非名词"
+  },
+  {
+    "surface": "paramètres",
+    "valid": true
+  },
+  {
+    "surface": "aucune possibilité",
+    "valid": true
+  },
+  {
+    "surface": "l'economie",
+    "valid": true
+  },
+  {
+    "surface": "tre troisième niveau",
+    "valid": false,
+    "reason": "含截断碎片，非规范名词短语"
+  },
+  {
+    "surface": "les transformations inter-entitiaires",
+    "valid": true
+  },
+  {
+    "surface": "miotisation",
+    "valid": true
+  },
+  {
+    "surface": "la propension",
+    "valid": true
+  },
+  {
+    "surface": ", al'",
+    "valid": false,
+    "reason": "标点碎片及截断词"
+  },
+  {
+    "surface": "C'est à ce niveau",
+    "valid": false,
+    "reason": "含系词结构，非名词短语"
+  },
+  {
+    "surface": "les dimensions complémentaires",
+    "valid": true
+  },
+  {
+    "surface": "l'opposé",
+    "valid": true
+  },
+  {
+    "surface": "la non-séparabilité",
+    "valid": true
+  },
+  {
+    "surface": "Une telle symétrie",
+    "valid": true
+  },
+  {
+    "surface": "dimensions siémiotiques",
+    "valid": true
+  },
+  {
+    "surface": "le statut classique",
+    "valid": true
+  },
+  {
+    "surface": "un possible",
+    "valid": true
+  },
+  {
+    "surface": "attente",
+    "valid": true
+  },
+  {
+    "surface": "une incarnation",
+    "valid": true
+  },
+  {
+    "surface": "une potentialité",
+    "valid": true
+  },
+  {
+    "surface": "une actualisation",
+    "valid": true
+  },
+  {
+    "surface": "connaisiez",
+    "valid": false,
+    "reason": "动词变位形式，非名词"
+  },
+  {
+    "surface": ", de l'Inventeur",
+    "valid": false,
+    "reason": "含标点碎片"
+  },
+  {
+    "surface": "qualifié",
+    "valid": false,
+    "reason": "形容词/过去分词，非名词"
+  },
+  {
+    "surface": "de telles attentes",
+    "valid": true
+  },
+  {
+    "surface": "l'autonomie",
+    "valid": true
+  },
+  {
+    "surface": "sur le Plan",
+    "valid": true
+  },
+  {
+    "surface": "des tenseurs",
+    "valid": true
+  },
+  {
+    "surface": "anxe dit",
+    "valid": false,
+    "reason": "拼写错误且搭配不成立"
+  },
+  {
+    "surface": "de detétalisation",
+    "valid": true
+  },
+  {
+    "surface": "abscisses",
+    "valid": true
+  },
+  {
+    "surface": "deux sortes",
+    "valid": true
+  },
+  {
+    "surface": "tenseurs",
+    "valid": true
+  },
+  {
+    "surface": "séparation",
+    "valid": true
+  },
+  {
+    "surface": "domaines latérales à deux de leur point d'origine des sites d'entités de sens (les Territoires sensibles",
+    "valid": false,
+    "reason": "结构混乱且含未闭合括号"
+  },
+  {
+    "surface": ", les Diagrammes",
+    "valid": false,
+    "reason": "含标点碎片"
+  },
+  {
+    "surface": ", les Noèmes",
+    "valid": false,
+    "reason": "含标点碎片"
+  },
+  {
+    "surface": "les Propositions",
+    "valid": true
+  },
+  {
+    "surface": "value",
+    "valid": false,
+    "reason": "英语词，非法语名词"
+  },
+  {
+    "surface": "AF",
+    "valid": false,
+    "reason": "缩写/符号碎片"
+  },
+  {
+    "surface": "les sites",
+    "valid": true
+  },
+  {
+    "surface": "des Effets pragmatiques",
+    "valid": true
+  },
+  {
+    "surface": "des Affects",
+    "valid": true
+  },
+  {
+    "surface": "et troisième niveau",
+    "valid": false,
+    "reason": "以连词开头，非独立名词短语"
+  },
+  {
+    "surface": "superstructure",
+    "valid": true
+  },
+  {
+    "surface": "semiotique",
+    "valid": true
+  },
+  {
+    "surface": "Son classement",
+    "valid": true
+  },
+  {
+    "surface": "troisième position",
+    "valid": true
+  },
+  {
+    "surface": "subordination",
+    "valid": true
+  },
+  {
+    "surface": "deux autres configurations quantiques",
+    "valid": true
+  },
+  {
+    "surface": "decalecule",
+    "valid": false,
+    "reason": "拼写异常，非规范名词"
+  },
+  {
+    "surface": "mimétique",
+    "valid": false,
+    "reason": "形容词，非名词"
+  },
+  {
+    "surface": "leur contretype",
+    "valid": true
+  },
+  {
+    "surface": "leur synthèse",
+    "valid": true
+  },
+  {
+    "surface": "les relations inter-entitaires",
+    "valid": true
+  },
+  {
+    "surface": "une interaction",
+    "valid": true
+  },
+  {
+    "surface": "ces deux dimensions",
+    "valid": true
+  },
+  {
+    "surface": "l'insturation",
+    "valid": true
+  },
+  {
+    "surface": "sites",
+    "valid": true
+  },
+  {
+    "surface": ", c'est-à-dire à un niveau",
+    "valid": false,
+    "reason": "含标点及连词结构，非名词短语"
+  },
+  {
+    "surface": "lequel",
+    "valid": false,
+    "reason": "关系代词"
+  },
+  {
+    "surface": "énergiquement",
+    "valid": false,
+    "reason": "副词，非名词"
+  },
+  {
+    "surface": "tiquere",
+    "valid": false,
+    "reason": "拼写异常，非规范名词"
+  },
+  {
+    "surface": "la plan",
+    "valid": false,
+    "reason": "冠词与名词性别不一致"
+  },
+  {
+    "surface": "les tenseurs synaptiques",
+    "valid": true
+  },
+  {
+    "surface": "synapses",
+    "valid": true
+  },
+  {
+    "surface": "effect",
+    "valid": false,
+    "reason": "英语词，非法语名词"
+  },
+  {
+    "surface": "d'Affect",
+    "valid": true
+  },
+  {
+    "surface": "(Sa)",
+    "valid": false,
+    "reason": "含括号及缩写碎片"
+  },
+  {
+    "surface": "les Systèmes",
+    "valid": true
+  },
+  {
+    "surface": "Une aggrégation",
+    "valid": true
+  },
+  {
+    "surface": "référence intrinsque",
+    "valid": true
+  },
+  {
+    "surface": "la référence",
+    "valid": true
+  },
+  {
+    "surface": "référence extrinsque",
+    "valid": true
+  },
+  {
+    "surface": "une segmentation",
+    "valid": true
+  },
+  {
+    "surface": "axes",
+    "valid": true
+  },
+  {
+    "surface": "deux domaines",
+    "valid": true
+  },
+  {
+    "surface": "consistances",
+    "valid": true
+  },
+  {
+    "surface": "## LA CARTOGRAPHIE",
+    "valid": false,
+    "reason": "含标记符号碎片"
+  },
+  {
+    "surface": "les Flux énergético",
+    "valid": false,
+    "reason": "截断词，非规范名词短语"
+  },
+  {
+    "surface": "Complexions",
+    "valid": true
+  },
+  {
+    "surface": "Les trois contraintes",
+    "valid": true
+  },
+  {
+    "surface": "modèle",
+    "valid": true
+  },
+  {
+    "surface": "les Phylum machiniques",
+    "valid": true
+  },
+  {
+    "surface": "dont les entités",
+    "valid": false,
+    "reason": "以关系代词开头，非独立名词短语"
+  },
+  {
+    "surface": "des exigences contradictoires",
+    "valid": true
+  },
+  {
+    "surface": "Découpes",
+    "valid": true
+  },
+  {
+    "surface": "- les Univers incorporels",
+    "valid": false,
+    "reason": "含标点碎片"
+  },
+  {
+    "surface": "Constellations",
+    "valid": true
+  },
+  {
+    "surface": "une économie autonome",
+    "valid": true
+  },
+  {
+    "surface": "ses trois niveaux",
+    "valid": true
+  },
+  {
+    "surface": "- mais les entités",
+    "valid": false,
+    "reason": "含标点及连词，非名词短语"
+  },
+  {
+    "surface": "constituent",
+    "valid": false,
+    "reason": "动词变位形式，非名词"
+  },
+  {
+    "surface": "n ceissent",
+    "valid": false,
+    "reason": "含动词变位，非名词短语"
+  },
+  {
+    "surface": "presuppositions",
+    "valid": true
+  },
+  {
+    "surface": "s'cérice",
+    "valid": false,
+    "reason": "拼写异常，非规范名词"
+  },
+  {
+    "surface": "les unees",
+    "valid": false,
+    "reason": "拼写异常，非规范名词短语"
+  },
+  {
+    "surface": "un même continuum",
+    "valid": true
+  },
+  {
+    "surface": "indifferenciation",
+    "valid": true
+  },
+  {
+    "surface": "d'aléas",
+    "valid": true
+  },
+  {
+    "surface": "imposition",
+    "valid": true
+  },
+  {
+    "surface": "cette question",
+    "valid": true
+  },
+  {
+    "surface": "Cette quadripartition",
+    "valid": true
+  },
+  {
+    "surface": "ce texte",
+    "valid": true
+  }
+]

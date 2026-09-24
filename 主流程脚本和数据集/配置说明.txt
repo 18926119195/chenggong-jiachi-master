@@ -1,0 +1,97 @@
+================================
+主流程执行状态
+================================
+
+✅ 环境安装完成
+   - Python 3.11.9
+   - Node.js v24.19.0
+   - npm 依赖包（dotenv）
+   - Python 依赖包（flask, flask-cors, spacy 3.7.2）
+   - spaCy 法语模型（fr_core_news_sm 3.7.0）
+
+✅ 阶段1完成 - spaCy 名词抽取（纯文表）
+   输出文件：
+   - s0-hits.json (3.1 MB) - 24,733 条命中名词及位置
+   - s0-quality-report.json (3.5 MB) - 12,123 条剩余文段待 LLM 补缺
+   
+   统计信息：
+   - 文本块总数：1,447 个
+   - 总字符数：579,363 字符
+   - spaCy 识别：45,406 个名词/短语（原始）
+   - 去重后记录：24,733 条
+   - 待补缺区间：12,123 条（需要 LLM 处理）
+
+❌ 阶段2待运行 - LLM 补缺漏词（需要 API Key）
+   
+❌ 阶段3待运行 - 合并去重生成终词表
+
+================================
+下一步操作
+================================
+
+1. 配置 API Key
+   编辑项目根目录的 .env 文件：
+   C:\Users\Administrator\Desktop\2026-09-21-master\.env
+   
+   将这一行：
+   LLM_API_KEY=your_deepseek_api_key_here
+   
+   改为：
+   LLM_API_KEY=sk-你的真实API密钥
+   
+   API Key 获取地址：https://platform.deepseek.com/
+
+2. 运行阶段2 - LLM 补缺
+   双击运行：运行主流程-阶段2-LLM补缺.ps1
+   
+   或在 PowerShell 中执行：
+   cd "C:\Users\Administrator\Desktop\2026-09-21-master\主流程脚本和数据集"
+   .\运行主流程-阶段2-LLM补缺.ps1
+
+3. 运行阶段3 - 合并去重
+   双击运行：运行主流程-阶段3-合并去重.ps1
+   
+   或在 PowerShell 中执行：
+   .\运行主流程-阶段3-合并去重.ps1
+
+================================
+文件清单
+================================
+
+脚本文件：
+- 启动spacy服务.ps1 - spaCy 服务启动脚本
+- 运行主流程-阶段1-spaCy抽取.ps1 - 阶段1执行脚本 ✅已完成
+- 运行主流程-阶段2-LLM补缺.ps1 - 阶段2执行脚本
+- 运行主流程-阶段3-合并去重.ps1 - 阶段3执行脚本
+- README.md - 详细说明文档
+- 配置说明.txt - 本文件
+
+数据文件（阶段1产出）：
+- s0-hits.json - spaCy 抽取的名词位置表
+- s0-quality-report.json - 质量报告及待补缺区间
+
+数据文件（阶段2产出，待生成）：
+- s1-nouns-with-offsets.json - LLM 补缺的名词位置表
+
+数据文件（阶段3产出，待生成）：
+- final-noun-index.json - 最终名词索引/终词表
+
+================================
+源文件信息
+================================
+
+输入文件：
+C:\Users\Administrator\Desktop\docuverse_cartographies_squizoanalythiques_Fe_lix_Guattari_1789114122714.docuverse.json
+
+作者：Félix Guattari
+标题：Cartographies schizoanalytiques
+文本块：1,447 个
+总字符：579,363 字符
+
+================================
+完成时间
+================================
+
+阶段1完成时间：2026-09-22 10:13
+
+================================

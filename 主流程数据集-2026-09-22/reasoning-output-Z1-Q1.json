@@ -1,0 +1,88 @@
+{
+  "questionId": "Z1-Q1",
+  "question": "Pierre Janet和Freud对无意识的观点有何不同？",
+  "model": "deepseek-flash",
+  "thinking": "disabled",
+  "elapsedSecs": 6.4,
+  "tokenUsage": {
+    "prompt_tokens": 2106,
+    "completion_tokens": 1014,
+    "total_tokens": 3120,
+    "prompt_tokens_details": {
+      "cached_tokens": 1920
+    },
+    "prompt_cache_hit_tokens": 1920,
+    "prompt_cache_miss_tokens": 186
+  },
+  "truncated": false,
+  "llmOutput": "# 路径一：从“无意识”概念的理论定位差异切入\n\n步骤1：使用【【32】】，提取关键信息——材料将Pierre Janet的“自动主义心理现象”（automatismes psychologiques）与Freud的“幻想性无意识”（inconscient fantasmatique）并置为两种不同的无意识形态，暗示二者在无意识的性质界定上存在根本分歧。\n\n步骤2：综合【【9】】【【35】】，对比——材料【【9】】指出Freud所构想的无意识被夹在“知觉”与“运动性”之间，具有一种动力-经济学的 sandwiched 结构；材料【【35】】则强调无意识源于“与某种奇特类型相关的表象之压抑动力”，即无意识是压抑的产物。而Janet的“自动主义”更接近一种心理自动症，缺乏Freud式的压抑动力学机制。\n\n步骤3：综合【【1】】【【43】】，交叉验证——材料【【1】】提到Freud将心理装置进行“拓扑学分区”，区分出“未知觉”（l'incognisant）等对立面；材料【【43】】则指出“无意识”一词在此仅因便利而保留。这表明Freud的无意识是一个具有拓扑结构和动力机制的“系统”，而Janet的无意识更偏向于一种描述性的、自动化的心理现象层面。\n\n结论：此路径表明，Freud的无意识是一个由压抑动力驱动、具有拓扑分区和经济功能的“系统无意识”；而Janet的无意识则更接近一种“自动主义”的描述性概念，缺乏压抑动力学和拓扑结构。\n\n# 路径二：从“无意识”的构成机制与临床来源对比\n\n步骤1：使用【【32】】，提取——材料将Janet的“自动主义心理现象”与Freud的“幻想性无意识”并列为两种不同的临床-理论对象，暗示二者在无意识的构成机制上不同。\n\n步骤2：综合【【20】】【【35】】，对比——材料【【20】】指出Freud发现“一种婴儿期主体性永久地加倍”，即无意识与婴儿期性欲和幻想密切相关；材料【【35】】进一步说明无意识源于“与某种奇特类型相关的表象之压抑动力”。而Janet的自动主义更侧重于心理自动症、意识分裂等机制，而非性欲-压抑动力学。\n\n步骤3：综合【【29】】【【30】】，交叉验证——材料【【29】】提到Freud的自我分析与“被伪装的关系性同性恋治疗”相关，材料【【30】】引用Freud在《梦的解析》中的论述，表明Freud的无意识理论深深植根于其自我分析、梦的分析和性欲理论。Janet的无意识则更多来自临床观察中的自动症、癔症性意识分裂等现象，而非性欲-压抑机制。\n\n结论：此路径表明，Freud的无意识以性欲-压抑动力学和婴儿期幻想为核心机制，临床来源主要是梦、自我分析和性欲理论；而Janet的无意识以心理自动症和意识分裂为核心，临床来源更偏向于描述性精神病理学。\n\n# 路径三：从“无意识”的理论功能与科学定位对比\n\n步骤1：使用【【6】】【【24】】，提取——材料【【6】】指出Freud的首要关切是“为心理学提供科学基础”；材料【【24】】指出Freud从未摆脱“科学主义枷锁”（carcan scientiste）。这表明Freud的无意识理论始终追求一种科学-实证的定位。\n\n步骤2：综合【【16】】【【17】】，对比——材料【【16】】指出精神分析最初由Freud在接近Fechner的视角下构想；材料【【17】】提到Freud参照Carnot原理（热力学第二定律）等物理学模型。这表明Freud的无意识理论深受19世纪物理学-能量学模型影响，具有强烈的科学主义倾向。\n\n步骤3：综合【【26】】【【32】】，交叉验证——材料【【26】】指出“我们的心理物理学”拒绝赋予无意识一种“物质性和能量学的统一基底”，而Freud则参照了这种基底；材料【【32】】将Janet的自动主义与Freud的幻想性无意识并置。这表明Janet的无意识概念更接近一种临床描述性的精神病理学概念，而Freud的无意识则被赋予了一种能量学-经济学的基础，试图成为一门科学心理学。\n\n结论：此路径表明，Freud的无意识理论追求科学主义定位，深受19世纪物理学-能量学模型影响，具有能量学-经济学的理论功能；而Janet的无意识概念更偏向于临床描述性的精神病理学，缺乏Freud式的科学主义-能量学基础。",
+  "totalMaterialsAvailable": 81,
+  "materialsUsedCount": 13,
+  "traceback": {
+    "1": {
+      "chunkKey": "h1._Ngh7XI3CJ6exAFx4QjYBjIbyyeXAqDiL2Q4V9nDcSBRYnoieDISDBYJJgGueG0_kfQ2VQSVC_eB7rWEDHzNNTDjSzcv_GCjRDoHubOu-56zToyqFxoJENWQN0sFpATSUixBviDrDg_cjZPkhrk",
+      "nounCount": 0,
+      "hits": []
+    },
+    "6": {
+      "chunkKey": "h1.CW6X6grNvhDkyODMeoSoOfDu58uNwF56nMUCaR0uixeuzffH4mBN5ZZAMIQLyyZPpZYsqYapzx165WYoYe8_9BxqGFBjHYHbGPXNykX62VGeX9VFGfbRbxQhkaWpTaj9dW9iJRonaGp2JSZGTIQ",
+      "nounCount": 0,
+      "hits": []
+    },
+    "9": {
+      "chunkKey": "h1.FXQxPf0e-qc9uvBjOgqlg_Mc49MxU73BINjQXY8BjVMNl-qvfJi9UkyYx67Ard1iBpXf9dD1SffhIDHM4_CcoxoJgEYN33QfWfzkrRm0uuai50A8TOmk2K0mO9GmhMKq-H8JNsOc0IWXmyk0wbU",
+      "nounCount": 0,
+      "hits": []
+    },
+    "16": {
+      "chunkKey": "h1.jaIlyZkN1s7UhVTXQcO9MiKhlNtHd2CaO1lw2zr-aTwRKADrP0tvyiNZpHCJ1_e10X_eQvt2Os1hgb8NHurhq35bnwhKo1GfEsZWr7M8oTl1AsMsL4vTCXvBrvGzirVdCV_5h2kqDznsHX9_vlM",
+      "nounCount": 0,
+      "hits": []
+    },
+    "17": {
+      "chunkKey": "h1.jogHrQCMFo3Hnx24GNb5oKkcbFtLfXR9PyWWr566PBhSSYj_TSxtEvgYsDA3NkF-bI3owRLdEJ2ojAxMt7XAynlzgmDCNehfvxSNQJgFiWq5lfdXY4FvzJA6A3jdZ0dS15Xdbq3riyC9uBM6Yd0",
+      "nounCount": 0,
+      "hits": []
+    },
+    "20": {
+      "chunkKey": "h1.kc05ZWypEvoZZfAjyJiOFoOW1vdD_8rnvBlznheLvEsxiI73aFeYh9APmNDLZ0VFRed-DIiPZmwH59KaTGTBsmVHMyqTSL1zj2Y6DKar-Lc8896oeJ8pKTvqoI8BOwmb0R-YKa2c5B6plRxS81XH",
+      "nounCount": 0,
+      "hits": []
+    },
+    "24": {
+      "chunkKey": "h1.Kt9S9AgWZ_fg6DEwOp1PFLgDGk-pI4JfPY41eoMYVqVqNwPQ9vbr4POtvp3knCSGQFKVSL-zMAdArnWSCg74-PWTAQLddSNYW58p-e5de8JfzmK_biRhgPkXtEKoqmHvFqTwklzQx2tA6ZSzr0Q",
+      "nounCount": 0,
+      "hits": []
+    },
+    "26": {
+      "chunkKey": "h1.t_Yx73zXCnbPC4m0llTz_NEuJ-gDaAafEsRHS5b_ZXdZ9C7trsWDd9sJf4vLR8uzrfxG2FICw2PL081pjtwjM4VqIkwkrFGBT531uKRMe0wJ3pTnorX77zQA37ilR3WkHAu5dE_Y_Z8ANxWXHCiv",
+      "nounCount": 0,
+      "hits": []
+    },
+    "29": {
+      "chunkKey": "h1.tQus44JneMQD_YQHBoHpgeFk-07YB5SrI4vhHOitpRoBoS0iQW_VnhJFdPF5bkhdWI7RcLV3kA5KA5e2kinIRadreGXCmSC4nqdOkFaSxnKR2GR57vJm7nx-Quk8X67z6QYqrAe6sFAKJLGDBmo",
+      "nounCount": 0,
+      "hits": []
+    },
+    "30": {
+      "chunkKey": "h1.wDS5pRMFkDdvPVDOVBASzvMI8MnnD1alhf56Yz-4m9zY8YeZITGIapmGTApalUsS2gNZVhKsBuMeBbFP-NEVtCumFbZGgiRWKBx3vy0uFyJPHRpx-0Nar31-xz6zOVSHCGHzUIOf8LRqGQs9G9s",
+      "nounCount": 0,
+      "hits": []
+    },
+    "32": {
+      "chunkKey": "h1.XtBRakRlcrRBCMjZvTm5YlUmmOBI8TFUzCJUPyOp9pg4JHr-EIk_H1ObKTGwbs4WsJJJOVp4ChlBpO3gr8dlv-KGPuOs1dW1BnuvyXnw5D2E8RUCHcYZpsEvlFeOvQbfvnin90GAsiqbJdneOUU",
+      "nounCount": 0,
+      "hits": []
+    },
+    "35": {
+      "chunkKey": "h1.yyK0MYXT4LKWeMdYRbWW5PL1aCFOFA9Bo7uBYMThmZiik3-DH04I0lL58AN4JzVH_wZWh8YeCmB1jhMiVyeyjHO7_rk5aj6qpK_uMqgIXIGGZVC9EoGhaPLdGbT2eyvGphB8eJz7MNAvjUW8EEE",
+      "nounCount": 0,
+      "hits": []
+    },
+    "43": {
+      "chunkKey": "h1.aF5vZFFOclTJXQKYsOqak6amjYcpHAwCq-FK_adHQcnhPHc1-erzLI66zYvvLd-RjPOaEXrupbXN4D7E5UPLp2NuwUn3cdRb3HUlppL7-ZCKncS9nbfZFtRynK-dMiNZKWpP90mz3g605Ktl8BU",
+      "nounCount": 0,
+      "hits": []
+    }
+  }
+}

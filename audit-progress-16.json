@@ -1,0 +1,835 @@
+[
+  {
+    "surface": "sens figuré",
+    "valid": true
+  },
+  {
+    "surface": "Léon Krier",
+    "valid": true
+  },
+  {
+    "surface": "les villes traditionnelles",
+    "valid": true
+  },
+  {
+    "surface": "leurs rues",
+    "valid": true
+  },
+  {
+    "surface": ", leurs places",
+    "valid": false,
+    "reason": "含标点碎片，非独立名词短语"
+  },
+  {
+    "surface": ", leurs quartiers",
+    "valid": false,
+    "reason": "含标点碎片，非独立名词短语"
+  },
+  {
+    "surface": "Robert Venturi",
+    "valid": true
+  },
+  {
+    "surface": "les pons",
+    "valid": true
+  },
+  {
+    "surface": "les traites",
+    "valid": true
+  },
+  {
+    "surface": "futur",
+    "valid": true
+  },
+  {
+    "surface": "les modernistes",
+    "valid": true
+  },
+  {
+    "surface": "Le Corbusier",
+    "valid": true
+  },
+  {
+    "surface": "les rives passées",
+    "valid": true
+  },
+  {
+    "surface": "néo-classiques",
+    "valid": true
+  },
+  {
+    "surface": "Il est de bon ton",
+    "valid": false,
+    "reason": "完整句子/习语，含代词与助动词"
+  },
+  {
+    "surface": "choses acceléte",
+    "valid": false,
+    "reason": "疑似拼写错误且结构不完整"
+  },
+  {
+    "surface": "R. Venturi",
+    "valid": true
+  },
+  {
+    "surface": "les aspects",
+    "valid": true
+  },
+  {
+    "surface": "plus prosaquies",
+    "valid": false,
+    "reason": "含副词plus，且拼写疑似错误"
+  },
+  {
+    "surface": "les rubans commercialiaux",
+    "valid": true
+  },
+  {
+    "surface": "bordés",
+    "valid": true
+  },
+  {
+    "surface": "hangars",
+    "valid": true
+  },
+  {
+    "surface": "décorés",
+    "valid": true
+  },
+  {
+    "surface": "le tisu urbain",
+    "valid": true
+  },
+  {
+    "surface": "l'éloge",
+    "valid": true
+  },
+  {
+    "surface": "l'ornementation",
+    "valid": true
+  },
+  {
+    "surface": "kitsch",
+    "valid": true
+  },
+  {
+    "surface": "villes satellites",
+    "valid": true
+  },
+  {
+    "surface": "préfabriquées",
+    "valid": true
+  },
+  {
+    "surface": "urnes",
+    "valid": true
+  },
+  {
+    "surface": "parteries",
+    "valid": true
+  },
+  {
+    "surface": "Le Notre",
+    "valid": true
+  },
+  {
+    "surface": "arts plastiques",
+    "valid": true
+  },
+  {
+    "surface": "les jeunes peintres",
+    "valid": true
+  },
+  {
+    "surface": "ambient",
+    "valid": true
+  },
+  {
+    "surface": "la médiation",
+    "valid": true
+  },
+  {
+    "surface": "maîtres",
+    "valid": true
+  },
+  {
+    "surface": "verraient",
+    "valid": false,
+    "reason": "动词变位形式"
+  },
+  {
+    "surface": "les marges",
+    "valid": true
+  },
+  {
+    "surface": "édailage",
+    "valid": true
+  },
+  {
+    "surface": "néo-libralisme",
+    "valid": true
+  },
+  {
+    "surface": "que la peinture",
+    "valid": false,
+    "reason": "含连词que，非独立名词短语"
+  },
+  {
+    "surface": "les classes dirigeantes",
+    "valid": true
+  },
+  {
+    "surface": ", n'a jamais été qu'une affaire",
+    "valid": false,
+    "reason": "含标点、助动词与否定结构，非名词短语"
+  },
+  {
+    "surface": ", une monnaie",
+    "valid": false,
+    "reason": "含标点碎片，非独立名词短语"
+  },
+  {
+    "surface": "prestige",
+    "valid": true
+  },
+  {
+    "surface": "l'architecture",
+    "valid": true
+  },
+  {
+    "surface": "une place majeure",
+    "valid": true
+  },
+  {
+    "surface": "des territoires",
+    "valid": true
+  },
+  {
+    "surface": "la fixation",
+    "valid": true
+  },
+  {
+    "surface": "ses emblèmes",
+    "valid": true
+  },
+  {
+    "surface": "la proclamation",
+    "valid": true
+  },
+  {
+    "surface": "sa pérennité",
+    "valid": true
+  },
+  {
+    "surface": "éphémère",
+    "valid": true
+  },
+  {
+    "surface": "que de chemin",
+    "valid": false,
+    "reason": "含连词que，非独立名词短语"
+  },
+  {
+    "surface": "les bannieres",
+    "valid": true
+  },
+  {
+    "surface": "la sociologie française",
+    "valid": true
+  },
+  {
+    "surface": "les faits sociaux",
+    "valid": true
+  },
+  {
+    "surface": "ne sont pas des choses",
+    "valid": false,
+    "reason": "含否定与助动词，非名词短语"
+  },
+  {
+    "surface": "les post-modernes",
+    "valid": true
+  },
+  {
+    "surface": "nages",
+    "valid": true
+  },
+  {
+    "surface": "erratiques",
+    "valid": true
+  },
+  {
+    "surface": "discours flottant",
+    "valid": true
+  },
+  {
+    "surface": "un éthicon signifiant",
+    "valid": true
+  },
+  {
+    "surface": "foyer",
+    "valid": true
+  },
+  {
+    "surface": "Jean-François Lytord",
+    "valid": true
+  },
+  {
+    "surface": "la condition post-moderne",
+    "valid": true
+  },
+  {
+    "surface": "qu'à la différence",
+    "valid": false,
+    "reason": "含连词que与介词结构，非名词短语"
+  },
+  {
+    "surface": "cet auteur",
+    "valid": true
+  },
+  {
+    "surface": "le paradigme",
+    "valid": true
+  },
+  {
+    "surface": "toutes les soumissions",
+    "valid": true
+  },
+  {
+    "surface": "tous les compromises",
+    "valid": true
+  },
+  {
+    "surface": "statu",
+    "valid": true
+  },
+  {
+    "surface": "l'effondrement",
+    "valid": true
+  },
+  {
+    "surface": "les grands récits",
+    "valid": true
+  },
+  {
+    "surface": "légitimation",
+    "valid": true
+  },
+  {
+    "surface": "le discours",
+    "valid": true
+  },
+  {
+    "surface": "Lumières",
+    "valid": true
+  },
+  {
+    "surface": "Hegel",
+    "valid": true
+  },
+  {
+    "surface": "l'accompissement",
+    "valid": true
+  },
+  {
+    "surface": "l'Esprit",
+    "valid": true
+  },
+  {
+    "surface": "marxistes",
+    "valid": true
+  },
+  {
+    "surface": "l'encampissement",
+    "valid": true
+  },
+  {
+    "surface": "travailleurs",
+    "valid": true
+  },
+  {
+    "surface": "F. Lytord",
+    "valid": true
+  },
+  {
+    "surface": "méfier",
+    "valid": false,
+    "reason": "动词不定式"
+  },
+  {
+    "surface": "des moindres velleltés",
+    "valid": true
+  },
+  {
+    "surface": "action sociale",
+    "valid": true
+  },
+  {
+    "surface": "concoutres",
+    "valid": true
+  },
+  {
+    "surface": "Toutes les valeurs",
+    "valid": true
+  },
+  {
+    "surface": "consensus",
+    "valid": true
+  },
+  {
+    "surface": "suspectes",
+    "valid": true
+  },
+  {
+    "surface": "Seuls les petits récits",
+    "valid": true
+  },
+  {
+    "surface": "*pragmatiques",
+    "valid": false,
+    "reason": "含星号符号碎片"
+  },
+  {
+    "surface": "particules lagariages*",
+    "valid": false,
+    "reason": "含星号符号碎片"
+  },
+  {
+    "surface": "performativité",
+    "valid": true
+  },
+  {
+    "surface": "la space",
+    "valid": true
+  },
+  {
+    "surface": "quelques valeurs",
+    "valid": true
+  },
+  {
+    "surface": "de liberté",
+    "valid": false,
+    "reason": "介词短语，非独立名词"
+  },
+  {
+    "surface": "autres theoriciens",
+    "valid": true
+  },
+  {
+    "surface": "que Jean Baudrillard, pour qui le social et le politique",
+    "valid": false,
+    "reason": "含连词、介词与从句结构，非名词短语"
+  },
+  {
+    "surface": "leurres",
+    "valid": true
+  },
+  {
+    "surface": "semblants",
+    "valid": true
+  },
+  {
+    "surface": "Toute l'agitation sociale",
+    "valid": true
+  },
+  {
+    "surface": "des jeux",
+    "valid": true
+  },
+  {
+    "surface": "language",
+    "valid": true
+  },
+  {
+    "surface": "mot",
+    "valid": true
+  },
+  {
+    "surface": "que J",
+    "valid": false,
+    "reason": "含连词与单字母碎片"
+  },
+  {
+    "surface": "- cet ancien animateur",
+    "valid": false,
+    "reason": "含标点碎片，非独立名词短语"
+  },
+  {
+    "surface": "la revue gauchee",
+    "valid": true
+  },
+  {
+    "surface": "socialisme",
+    "valid": true
+  },
+  {
+    "surface": "barbarie",
+    "valid": true
+  },
+  {
+    "surface": "parviert",
+    "valid": false,
+    "reason": "疑似动词变位/拼写错误"
+  },
+  {
+    "surface": "désastre",
+    "valid": true
+  },
+  {
+    "surface": "un libre accès",
+    "valid": true
+  },
+  {
+    "surface": "mémoires informatiques",
+    "valid": true
+  },
+  {
+    "surface": "aux banques",
+    "valid": true
+  },
+  {
+    "surface": "tils",
+    "valid": true
+  },
+  {
+    "surface": "des faits",
+    "valid": true
+  },
+  {
+    "surface": "des cerniers",
+    "valid": true
+  },
+  {
+    "surface": "leur tour",
+    "valid": true
+  },
+  {
+    "surface": "tout droit",
+    "valid": true
+  },
+  {
+    "surface": "la tradition",
+    "valid": true
+  },
+  {
+    "surface": "structuralisme",
+    "valid": true
+  },
+  {
+    "surface": "influence",
+    "valid": true
+  },
+  {
+    "surface": "les sciences humaines",
+    "valid": true
+  },
+  {
+    "surface": "les pires",
+    "valid": true
+  },
+  {
+    "surface": "conditions",
+    "valid": true
+  },
+  {
+    "surface": "le systémisme anglo-saxon",
+    "valid": true
+  },
+  {
+    "surface": "Le lien secret",
+    "valid": true
+  },
+  {
+    "surface": "toutes ces doctrines",
+    "valid": true
+  },
+  {
+    "surface": "les conceptions réductionnistes",
+    "valid": true
+  },
+  {
+    "surface": "l'immediat",
+    "valid": true
+  },
+  {
+    "surface": "après-guerre",
+    "valid": true
+  },
+  {
+    "surface": "l'information",
+    "valid": true
+  },
+  {
+    "surface": "rechneres",
+    "valid": true
+  },
+  {
+    "surface": "cybernetiques",
+    "valid": true
+  },
+  {
+    "surface": "Les références",
+    "valid": true
+  },
+  {
+    "surface": "les unes",
+    "valid": true
+  },
+  {
+    "surface": "et les autres",
+    "valid": false,
+    "reason": "含连词et，非独立名词短语"
+  },
+  {
+    "surface": "extraire",
+    "valid": false,
+    "reason": "动词不定式"
+  },
+  {
+    "surface": "des nouvelles technologies communicationnelles et informatiques",
+    "valid": true
+  },
+  {
+    "surface": "arrêt",
+    "valid": true
+  },
+  {
+    "surface": "recherches phénoménologiques",
+    "valid": true
+  },
+  {
+    "surface": "cette evidence simple",
+    "valid": true
+  },
+  {
+    "surface": "combien lui de conséquences",
+    "valid": false,
+    "reason": "含副词与代词，结构不完整"
+  },
+  {
+    "surface": "à savoir que les Agencements",
+    "valid": false,
+    "reason": "含介词与连词结构，非独立名词短语"
+  },
+  {
+    "surface": "sociaux concrets",
+    "valid": true
+  },
+  {
+    "surface": "les groupes primaires",
+    "valid": true
+  },
+  {
+    "surface": "- de la sociologie américaine",
+    "valid": false,
+    "reason": "含标点与介词碎片"
+  },
+  {
+    "surface": "bien d'autres choses",
+    "valid": true
+  },
+  {
+    "surface": "que des performances linguistiques",
+    "valid": false,
+    "reason": "含连词que，非独立名词短语"
+  },
+  {
+    "surface": "des dimensions étologiques et écologiques",
+    "valid": true
+  },
+  {
+    "surface": "esthétiques",
+    "valid": true
+  },
+  {
+    "surface": "corporelles",
+    "valid": true
+  },
+  {
+    "surface": "fantasmatiques",
+    "valid": true
+  },
+  {
+    "surface": "la sémiologie",
+    "valid": true
+  },
+  {
+    "surface": "la lague",
+    "valid": true
+  },
+  {
+    "surface": "multitude",
+    "valid": true
+  },
+  {
+    "surface": "incorpores",
+    "valid": true
+  },
+  {
+    "surface": "pas volontiers",
+    "valid": false,
+    "reason": "含否定副词，非名词短语"
+  },
+  {
+    "surface": "l'empririté dominante",
+    "valid": true
+  },
+  {
+    "surface": "Les philosophes post-modernes",
+    "valid": true
+  },
+  {
+    "surface": "beau",
+    "valid": true
+  },
+  {
+    "surface": "papyronier",
+    "valid": true
+  },
+  {
+    "surface": "recherche pragmatiques",
+    "valid": true
+  },
+  {
+    "surface": "une conception structuraliste de la parole et du langage",
+    "valid": true
+  },
+  {
+    "surface": "les faits subjectifs",
+    "valid": true
+  },
+  {
+    "surface": "l'incoscient",
+    "valid": true
+  },
+  {
+    "surface": "problèmes esthétiques et micro-politiques",
+    "valid": true
+  },
+  {
+    "surface": "ambages",
+    "valid": true
+  },
+  {
+    "surface": "cette philosophie",
+    "valid": true
+  },
+  {
+    "surface": "aspirient",
+    "valid": false,
+    "reason": "动词变位形式"
+  },
+  {
+    "surface": "ambiance",
+    "valid": true
+  },
+  {
+    "surface": "une condition",
+    "valid": true
+  },
+  {
+    "surface": "ses vêtements",
+    "valid": true
+  },
+  {
+    "surface": "la air",
+    "valid": true
+  },
+  {
+    "surface": "la peau",
+    "valid": true
+  },
+  {
+    "surface": "etage spécifique",
+    "valid": true
+  },
+  {
+    "surface": "philosophes",
+    "valid": true
+  },
+  {
+    "surface": "les héros",
+    "valid": true
+  },
+  {
+    "surface": "la post-modernité",
+    "valid": true
+  },
+  {
+    "surface": "les crises",
+    "valid": true
+  },
+  {
+    "surface": "les pratiques artistiques",
+    "valid": true
+  },
+  {
+    "surface": "refus",
+    "valid": true
+  },
+  {
+    "surface": "appel",
+    "valid": true
+  },
+  {
+    "surface": "toute projectualité collective d'envergure",
+    "valid": true
+  },
+  {
+    "surface": "Cultivons",
+    "valid": false,
+    "reason": "动词变位形式"
+  },
+  {
+    "surface": "notre jardin",
+    "valid": true
+  },
+  {
+    "surface": "de préférence",
+    "valid": false,
+    "reason": "介词短语，非独立名词"
+  },
+  {
+    "surface": "conformité",
+    "valid": true
+  },
+  {
+    "surface": "les us",
+    "valid": true
+  },
+  {
+    "surface": "les coutumes",
+    "valid": true
+  },
+  {
+    "surface": "nos contemporains",
+    "valid": true
+  },
+  {
+    "surface": "Pas de vagues",
+    "valid": false,
+    "reason": "含否定副词与介词，非名词短语"
+  },
+  {
+    "surface": "Juste des vogues",
+    "valid": false,
+    "reason": "含副词Juste，非独立名词短语"
+  },
+  {
+    "surface": "modules",
+    "valid": true
+  },
+  {
+    "surface": "les marchés",
+    "valid": true
+  },
+  {
+    "surface": "de l'opinion",
+    "valid": false,
+    "reason": "介词短语，非独立名词"
+  },
+  {
+    "surface": "campesons publicitaires",
+    "valid": true
+  }
+]

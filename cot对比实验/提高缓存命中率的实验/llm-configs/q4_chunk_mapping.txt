@@ -1,0 +1,163 @@
+﻿================================================================================
+Z1-Q4: CHUNK-BASED POSITION MAPPING
+================================================================================
+
+L23 length: 44461
+L24 length: 2891
+Total unique chunks mentioned in L23: 43
+L24 has 5 paths
+
+L23 chunks in reading order:
+  [1, 2, 3, 17, 18, 85, 86, 90, 102, 107, 126, 258, 260, 261, 266, 702, 944, 1060, 1077, 110, 1178, 1197, 1334, 17, 107, 126, 131, 204, 266, 625, 702, 869, 944, 1060, 1077, 1178, 1197, 1334, 1399, 1066, 1077, 1178, 1208, 1310, 1313, 1366, 1060, 204, 1060, 131, 702, 17, 107, 258, 944, 1178, 1208, 869, 266, 266, 260, 261, 262, 263, 264, 265, 266, 267, 266, 125, 115, 1077, 702, 1334, 18, 90, 94, 107, 108, 110, 115, 1178, 1197, 1208, 1366, 1399, 1410, 1060, 204, 131, 107, 204, 702, 126, 131, 702, 1077, 18, 258, 266, 107, 258, 1208, 1060, 1178, 1208, 869, 107, 944, 115, 1060, 204, 1060, 131, 702, 258, 107, 266, 1060, 1178, 1208, 869, 944, 1077, 18, 3, 1060, 204, 131, 204, 702, 107, 1077, 1060, 266, 266, 266, 1077, 266, 258, 1208, 1178, 1060, 107, 258, 944, 869, 107, 131, 204, 266, 1060, 204, 131, 204, 702, 107, 1077, 1060, 258, 1208, 1178, 1060, 107, 944, 869, 258, 107, 1178, 869, 204, 131]
+
+================================================================================
+PATH-BY-PATH: chunks cited in L24, positions in L23
+================================================================================
+
+------------------------------------------------------------
+PATH: # 路径一：包含/进入关系——精神病是更宽秩序，分裂症是进入该秩序的一种模态
+Cited chunks in L24: [1060, 131, 204]
+------------------------------------------------------------
+  Chunk 1060 -> L23 positions: [1909, 3535, 4951, 5814, 13172, 13532, 13967, 18141, 24422, 35422, 36303, 36985, 39314, 41197, 42309]
+  Chunk 131 -> L23 positions: [3075, 5826, 13194, 13289, 18151, 35672, 37724, 39904, 44310]
+  Chunk 204 -> L23 positions: [3146, 5455, 13187, 13268, 16537, 35517, 35891, 37767, 39564, 40266, 44303]
+
+  Context around first L23 mention of chunk 1060 (pos=1909):
+  >>>
+  nce de la drouge, les trases fusionnelles archéaux ou l'inspiration créatrice."
+  - 【944】"psychiatrie phénoménologique... psychanalyse lacanienne..."
+  - 【1060】"la reconnaître avec la schizophrenie ne résultat jamais d'une deduction cognitive mais s'instaure d'embelle comme entrée dans des ordonnées psychotiques." Aha direct: schizophrenia results never from cognitive deduction but installs as entry into psychotic ordinates. This links schizophrenia and psychotic.
+  - 【1077】"Les objets partiels qui le
+  <<<
+
+------------------------------------------------------------
+PATH: # 路径二：病理学谱系关系——精神病是上位领域，分裂症是灾难性/极端形态
+Cited chunks in L24: [107, 204, 702]
+------------------------------------------------------------
+  Chunk 107 -> L23 positions: [1108, 2993, 6654, 11036, 13201, 13446, 13640, 21932, 36030, 37196, 37676, 40584, 42606, 43829]
+  Chunk 204 -> L23 positions: [3146, 5455, 13187, 13268, 16537, 35517, 35891, 37767, 39564, 40266, 44303]
+  Chunk 702 -> L23 positions: [1714, 3320, 6195, 10569, 13275, 13338, 19553, 35932, 40290]
+
+  Context around first L23 mention of chunk 107 (pos=1108):
+  >>>
+  se, "faits de subjectivation", dialectique etc.
+  - 【85】提到 psychanalyse, schizoanalyse
+  - 【86】"schizomyalgia" maybe schizoanalyse
+  - 【90】...
+  - 【102】...
+  - 【107】提到 "triangle edipien et castration symbolique", "psychopathologie", "schizoanalyse" meta-model
+  - 【126】"processus moléculaires, qui sont à l'œuvre dans une névrose hystérique ou une névrose obsessionnelle..." mentions "névrose" not psychose.
+  - 【258】schizoanalyse vs psychanalystes; "formations collectives..."; "Affects subjectifs et Effets machi
+  <<<
+
+------------------------------------------------------------
+PATH: # 路径三：过程与秩序的关系——分裂症作为解域化断裂，精神病作为被进入的秩序/配置
+Cited chunks in L24: [1060, 1077, 258]
+------------------------------------------------------------
+  Chunk 1060 -> L23 positions: [1909, 3535, 4951, 5814, 13172, 13532, 13967, 18141, 24422, 35422, 36303, 36985, 39314, 41197, 42309]
+  Chunk 1077 -> L23 positions: [2226, 3677, 4157, 10121, 13345, 31281, 36236, 36492, 40900]
+  Chunk 258 -> L23 positions: [1356, 6977, 13359, 13453, 20629, 36564, 37264, 41397, 43130]
+
+  Context around first L23 mention of chunk 258 (pos=1356):
+  >>>
+  l
+  - 【126】"processus moléculaires, qui sont à l'œuvre dans une névrose hystérique ou une névrose obsessionnelle..." mentions "névrose" not psychose.
+  - 【258】schizoanalyse vs psychanalystes; "formations collectives..."; "Affects subjectifs et Effets machiniques".
+  - 【260】"L'INCONSCIENT SCHIZOANALYTIQUE"
+  - 【261】"Le terme d'Inconscient n'est ici maintenu que par commodité..."
+  - 【266】"zoanalyse lui fera sa place, au titre de cas de figure d'une prise en gelée massive de degrés de liberté inter-entitiai
+  <<<
+
+------------------------------------------------------------
+PATH: # 路径四：现象学—时间性—情感关系——精神病是妄想/自动症/时间化紊乱的领域，分裂症是进入该领域的突发模式
+Cited chunks in L24: [1060, 1178, 1208]
+------------------------------------------------------------
+  Chunk 1060 -> L23 positions: [1909, 3535, 4951, 5814, 13172, 13532, 13967, 18141, 24422, 35422, 36303, 36985, 39314, 41197, 42309]
+  Chunk 1178 -> L23 positions: [2675, 3715, 4173, 7552, 11657, 13540, 24486, 36892, 41987, 43957]
+  Chunk 1208 -> L23 positions: [4193, 7826, 12337, 13460, 13548, 26862, 36803, 41755]
+
+  Context around first L23 mention of chunk 1060 (pos=1909):
+  >>>
+  nce de la drouge, les trases fusionnelles archéaux ou l'inspiration créatrice."
+  - 【944】"psychiatrie phénoménologique... psychanalyse lacanienne..."
+  - 【1060】"la reconnaître avec la schizophrenie ne résultat jamais d'une deduction cognitive mais s'instaure d'embelle comme entrée dans des ordonnées psychotiques." Aha direct: schizophrenia results never from cognitive deduction but installs as entry into psychotic ordinates. This links schizophrenia and psychotic.
+  - 【1077】"Les objets partiels qui le
+  <<<
+
+------------------------------------------------------------
+PATH: # 路径五：分裂分析/反本质化关系——二者都是主体性生产的不同 Agencements，精神病是广义宇宙，分裂症是灾难性—创造性过程
+Cited chunks in L24: [107, 258, 869, 944]
+------------------------------------------------------------
+  Chunk 107 -> L23 positions: [1108, 2993, 6654, 11036, 13201, 13446, 13640, 21932, 36030, 37196, 37676, 40584, 42606, 43829]
+  Chunk 258 -> L23 positions: [1356, 6977, 13359, 13453, 20629, 36564, 37264, 41397, 43130]
+  Chunk 869 -> L23 positions: [3358, 8237, 13556, 29405, 37467, 42975, 44079]
+  Chunk 944 -> L23 positions: [1841, 3481, 7209, 13647, 29968, 37355, 42735]
+
+  Context around first L23 mention of chunk 107 (pos=1108):
+  >>>
+  se, "faits de subjectivation", dialectique etc.
+  - 【85】提到 psychanalyse, schizoanalyse
+  - 【86】"schizomyalgia" maybe schizoanalyse
+  - 【90】...
+  - 【102】...
+  - 【107】提到 "triangle edipien et castration symbolique", "psychopathologie", "schizoanalyse" meta-model
+  - 【126】"processus moléculaires, qui sont à l'œuvre dans une névrose hystérique ou une névrose obsessionnelle..." mentions "névrose" not psychose.
+  - 【258】schizoanalyse vs psychanalystes; "formations collectives..."; "Affects subjectifs et Effets machi
+  <<<
+
+================================================================================
+COVERAGE SUMMARY
+================================================================================
+Unique chunks cited in L24: 11
+Chunks found in L23: 11
+Chunks NOT found in L23: 0
+
+================================================================================
+CHUNK READING ORDER IN L23 vs L24 CITATION ORDER
+================================================================================
+L23 reading sequence:
+  Position 0 -> no chunk mentioned yet (meta planning)
+
+  Chunk 1 at L23 pos [730]
+  Chunk 2 at L23 pos [770]
+  Chunk 3 at L23 pos [790, 35163]
+  Chunk 17 at L23 pos [805, 2941, 6494]
+  Chunk 18 at L23 pos [941, 10776, 13353, 32756]
+  Chunk 85 at L23 pos [1008]
+  Chunk 86 at L23 pos [1045]
+  Chunk 90 at L23 pos [1087, 10849]
+  Chunk 94 at L23 pos [10940]
+  Chunk 102 at L23 pos [1097]
+  Chunk 107 at L23 pos [1108, 2993, 6654, 11036, 13201, 13446, 13640, 21932, 36030, 37196, 37676, 40584, 42606, 43829]
+  Chunk 108 at L23 pos [11305]
+  Chunk 110 at L23 pos [2662, 11402]
+  Chunk 115 at L23 pos [10035, 11480, 13654]
+  Chunk 125 at L23 pos [9969]
+  Chunk 126 at L23 pos [1210, 3020, 13282]
+  Chunk 131 at L23 pos [3075, 5826, 13194, 13289, 18151, 35672, 37724, 39904, 44310]
+  Chunk 204 at L23 pos [3146, 5455, 13187, 13268, 16537, 35517, 35891, 37767, 39564, 40266, 44303]
+  Chunk 258 at L23 pos [1356, 6977, 13359, 13453, 20629, 36564, 37264, 41397, 43130]
+  Chunk 260 at L23 pos [1469, 8798]
+  Chunk 261 at L23 pos [1509, 8837]
+  Chunk 262 at L23 pos [8908]
+  Chunk 263 at L23 pos [8998]
+  Chunk 264 at L23 pos [9011]
+  Chunk 265 at L23 pos [9040]
+  Chunk 266 at L23 pos [1581, 3261, 8409, 8662, 9066, 9250, 13439, 22691, 36360, 36377, 36456, 36516, 39016]
+  Chunk 267 at L23 pos [9198]
+  Chunk 625 at L23 pos [3307]
+  Chunk 702 at L23 pos [1714, 3320, 6195, 10569, 13275, 13338, 19553, 35932, 40290]
+  Chunk 869 at L23 pos [3358, 8237, 13556, 29405, 37467, 42975, 44079]
+  Chunk 944 at L23 pos [1841, 3481, 7209, 13647, 29968, 37355, 42735]
+  Chunk 1060 at L23 pos [1909, 3535, 4951, 5814, 13172, 13532, 13967, 18141, 24422, 35422, 36303, 36985, 39314, 41197, 42309]
+  Chunk 1066 at L23 pos [4087]
+  Chunk 1077 at L23 pos [2226, 3677, 4157, 10121, 13345, 31281, 36236, 36492, 40900]
+  Chunk 1178 at L23 pos [2675, 3715, 4173, 7552, 11657, 13540, 24486, 36892, 41987, 43957]
+  Chunk 1197 at L23 pos [2827, 3804, 12228]
+  Chunk 1208 at L23 pos [4193, 7826, 12337, 13460, 13548, 26862, 36803, 41755]
+  Chunk 1310 at L23 pos [4297]
+  Chunk 1313 at L23 pos [4335]
+  Chunk 1334 at L23 pos [2841, 3817, 10620]
+  Chunk 1366 at L23 pos [4412, 12626]
+  Chunk 1399 at L23 pos [3850, 12699]
+  Chunk 1410 at L23 pos [12899]

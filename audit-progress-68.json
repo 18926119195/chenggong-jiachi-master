@@ -1,0 +1,851 @@
+[
+  {
+    "surface": "quelques heures",
+    "valid": true
+  },
+  {
+    "surface": "jeune",
+    "valid": true
+  },
+  {
+    "surface": "l'armée jordanienne",
+    "valid": true
+  },
+  {
+    "surface": "l'attaque",
+    "valid": true
+  },
+  {
+    "surface": "bases",
+    "valid": true
+  },
+  {
+    "surface": "quatorze années",
+    "valid": true
+  },
+  {
+    "surface": "certaines bruits lui",
+    "valid": false,
+    "reason": "包含代词lui且搭配不合语法，非名词短语"
+  },
+  {
+    "surface": "la torture",
+    "valid": true
+  },
+  {
+    "surface": "son fils",
+    "valid": true
+  },
+  {
+    "surface": "emotion",
+    "valid": true
+  },
+  {
+    "surface": "le moment",
+    "valid": true
+  },
+  {
+    "surface": "la pénombre",
+    "valid": true
+  },
+  {
+    "surface": "un cauré",
+    "valid": true
+  },
+  {
+    "surface": "un verre",
+    "valid": true
+  },
+  {
+    "surface": "les yeux",
+    "valid": true
+  },
+  {
+    "surface": "l'habitude",
+    "valid": true
+  },
+  {
+    "surface": "un véritable coup",
+    "valid": true
+  },
+  {
+    "surface": "aboli",
+    "valid": false,
+    "reason": "过去分词/形容词，非名词"
+  },
+  {
+    "surface": "reve",
+    "valid": true
+  },
+  {
+    "surface": "leur terré",
+    "valid": false,
+    "reason": "包含代词leur且terré为形容词/分词，非名词短语"
+  },
+  {
+    "surface": "la réalisation plus problématique",
+    "valid": true
+  },
+  {
+    "surface": "dans le supplément",
+    "valid": false,
+    "reason": "介词短语，非名词短语"
+  },
+  {
+    "surface": "puissance processuelle",
+    "valid": true
+  },
+  {
+    "surface": "cette graffe narrative",
+    "valid": true
+  },
+  {
+    "surface": "origine religieuse",
+    "valid": true
+  },
+  {
+    "surface": "voix hétérônes",
+    "valid": true
+  },
+  {
+    "surface": "une certaine façon",
+    "valid": true
+  },
+  {
+    "surface": "référente",
+    "valid": true
+  },
+  {
+    "surface": ", auto-processuelle",
+    "valid": false,
+    "reason": "标点碎片且为形容词"
+  },
+  {
+    "surface": "empéche",
+    "valid": false,
+    "reason": "动词变位形式"
+  },
+  {
+    "surface": "son champ",
+    "valid": true
+  },
+  {
+    "surface": "sur les occurrences",
+    "valid": false,
+    "reason": "介词短语，非名词短语"
+  },
+  {
+    "surface": "une temporality singulière",
+    "valid": true
+  },
+  {
+    "surface": "une manière concrete plus ouverte, cessant de tourner en rond les contours d'une icône et deployant constamment de nouvelles lignes de possible",
+    "valid": true
+  },
+  {
+    "surface": "epoque",
+    "valid": true
+  },
+  {
+    "surface": "ses prisons",
+    "valid": true
+  },
+  {
+    "surface": "son procédé",
+    "valid": true
+  },
+  {
+    "surface": "divination",
+    "valid": true
+  },
+  {
+    "surface": "cette divinité",
+    "valid": true
+  },
+  {
+    "surface": "- origine",
+    "valid": false,
+    "reason": "标点碎片，非独立名词短语"
+  },
+  {
+    "surface": "valai",
+    "valid": false,
+    "reason": "动词变位形式"
+  },
+  {
+    "surface": "chants",
+    "valid": true
+  },
+  {
+    "surface": "La méloïde",
+    "valid": true
+  },
+  {
+    "surface": "l'entête",
+    "valid": true
+  },
+  {
+    "surface": "L-rhythm",
+    "valid": false,
+    "reason": "混合符号/英文碎片，非规范法语名词"
+  },
+  {
+    "surface": "l'espoir",
+    "valid": true
+  },
+  {
+    "surface": "renfermé",
+    "valid": false,
+    "reason": "过去分词/形容词"
+  },
+  {
+    "surface": "ce coulage",
+    "valid": true
+  },
+  {
+    "surface": "vierge",
+    "valid": true
+  },
+  {
+    "surface": "un vritable tour",
+    "valid": true
+  },
+  {
+    "surface": "une fureure",
+    "valid": true
+  },
+  {
+    "surface": "L'équation sartienne",
+    "valid": true
+  },
+  {
+    "surface": "- déralisation",
+    "valid": false,
+    "reason": "标点碎片，非独立名词短语"
+  },
+  {
+    "surface": "- mal",
+    "valid": false,
+    "reason": "标点碎片，非独立名词短语"
+  },
+  {
+    "surface": "solitude",
+    "valid": true
+  },
+  {
+    "surface": "trein",
+    "valid": true
+  },
+  {
+    "surface": "le lieutenant",
+    "valid": true
+  },
+  {
+    "surface": "Moubark",
+    "valid": true
+  },
+  {
+    "surface": "bien",
+    "valid": true
+  },
+  {
+    "surface": "mal",
+    "valid": true
+  },
+  {
+    "surface": "Blanc",
+    "valid": true
+  },
+  {
+    "surface": "le noir",
+    "valid": true
+  },
+  {
+    "surface": "des rapports autrement complexes",
+    "valid": true
+  },
+  {
+    "surface": "infinies virtuales",
+    "valid": true
+  },
+  {
+    "surface": "des procédes fines",
+    "valid": true
+  },
+  {
+    "surface": "vu",
+    "valid": false,
+    "reason": "过去分词"
+  },
+  {
+    "surface": "l'agent",
+    "valid": true
+  },
+  {
+    "surface": "un nouveau clivage",
+    "valid": true
+  },
+  {
+    "surface": "Tout change",
+    "valid": false,
+    "reason": "句子/动词短语，非名词短语"
+  },
+  {
+    "surface": "la double articulation",
+    "valid": true
+  },
+  {
+    "surface": "Le terme synapique",
+    "valid": true
+  },
+  {
+    "surface": "cet opérateur",
+    "valid": true
+  },
+  {
+    "surface": "toute autre chose",
+    "valid": true
+  },
+  {
+    "surface": "simples",
+    "valid": false,
+    "reason": "形容词复数，非名词"
+  },
+  {
+    "surface": "rémaines",
+    "valid": true
+  },
+  {
+    "surface": "ou harmonies",
+    "valid": false,
+    "reason": "含连词ou，非独立名词短语"
+  },
+  {
+    "surface": "plus une价值 existentielle",
+    "valid": false,
+    "reason": "混合中文且含副词plus，非规范名词短语"
+  },
+  {
+    "surface": "les tentations",
+    "valid": true
+  },
+  {
+    "surface": "l'Èdèpe",
+    "valid": true
+  },
+  {
+    "surface": "sur l'inceste",
+    "valid": false,
+    "reason": "介词短语，非名词短语"
+  },
+  {
+    "surface": "le numen",
+    "valid": true
+  },
+  {
+    "surface": "la moelle",
+    "valid": true
+  },
+  {
+    "surface": "des praxis beaucoup plus moleculaires et propres",
+    "valid": true
+  },
+  {
+    "surface": "ses horizons eschatologiques",
+    "valid": true
+  },
+  {
+    "surface": "déplise",
+    "valid": false,
+    "reason": "疑似动词变位/拼写碎片，非名词"
+  },
+  {
+    "surface": "marie",
+    "valid": true
+  },
+  {
+    "surface": "une Allemande",
+    "valid": true
+  },
+  {
+    "surface": "toute une marmaille",
+    "valid": true
+  },
+  {
+    "surface": "la bonne raison",
+    "valid": true
+  },
+  {
+    "surface": "son efficace",
+    "valid": true
+  },
+  {
+    "surface": "ses rouages visibles",
+    "valid": true
+  },
+  {
+    "surface": "dans une machine",
+    "valid": false,
+    "reason": "介词短语，非名词短语"
+  },
+  {
+    "surface": "intensités abstraites",
+    "valid": true
+  },
+  {
+    "surface": "la jouissance",
+    "valid": true
+  },
+  {
+    "surface": "dénourice",
+    "valid": false,
+    "reason": "疑似动词变位/拼写碎片，非名词"
+  },
+  {
+    "surface": "un autre Genet",
+    "valid": true
+  },
+  {
+    "surface": "la faille",
+    "valid": true
+  },
+  {
+    "surface": ", de la déchirure",
+    "valid": false,
+    "reason": "标点碎片且为介词短语"
+  },
+  {
+    "surface": "Découpe",
+    "valid": true
+  },
+  {
+    "surface": "sa mesure",
+    "valid": true
+  },
+  {
+    "surface": "un continuum temps-espac.appartement national, familiale, parentale",
+    "valid": true
+  },
+  {
+    "surface": "present",
+    "valid": true
+  },
+  {
+    "surface": "le futur paraisement",
+    "valid": true
+  },
+  {
+    "surface": "un de ces lissages rétroactifs",
+    "valid": true
+  },
+  {
+    "surface": "souvenirs les plus anciens",
+    "valid": true
+  },
+  {
+    "surface": "résurrection",
+    "valid": true
+  },
+  {
+    "surface": ", ressort",
+    "valid": false,
+    "reason": "标点碎片，非独立名词短语"
+  },
+  {
+    "surface": "un millième",
+    "valid": true
+  },
+  {
+    "surface": "millième",
+    "valid": true
+  },
+  {
+    "surface": "puise",
+    "valid": false,
+    "reason": "动词变位形式"
+  },
+  {
+    "surface": "quoient",
+    "valid": false,
+    "reason": "疑似拼写碎片/非名词"
+  },
+  {
+    "surface": "L'enonciation architecturale",
+    "valid": true
+  },
+  {
+    "surface": "quelques millenaires",
+    "valid": true
+  },
+  {
+    "surface": "et peut-être à l'limitation",
+    "valid": false,
+    "reason": "含连词/副词/介词，非名词短语"
+  },
+  {
+    "surface": "carapaces",
+    "valid": true
+  },
+  {
+    "surface": "Les edifices",
+    "valid": true
+  },
+  {
+    "surface": "les vêtements",
+    "valid": true
+  },
+  {
+    "surface": ", les images",
+    "valid": false,
+    "reason": "标点碎片，非独立名词短语"
+  },
+  {
+    "surface": "leur colent",
+    "valid": false,
+    "reason": "含代词leur且colent疑似动词，非名词短语"
+  },
+  {
+    "surface": "leur existence",
+    "valid": true
+  },
+  {
+    "surface": "os",
+    "valid": true
+  },
+  {
+    "surface": "leur squelette",
+    "valid": true
+  },
+  {
+    "surface": "une différence notable",
+    "valid": true
+  },
+  {
+    "surface": "les hommes",
+    "valid": true
+  },
+  {
+    "surface": "les crustacés",
+    "valid": true
+  },
+  {
+    "surface": "les termites",
+    "valid": true
+  },
+  {
+    "surface": "ces deux dernieres",
+    "valid": true
+  },
+  {
+    "surface": "corporations",
+    "valid": true
+  },
+  {
+    "surface": "architecte",
+    "valid": true
+  },
+  {
+    "surface": "tailleur",
+    "valid": true
+  },
+  {
+    "surface": "de pro",
+    "valid": false,
+    "reason": "介词短语/碎片，非名词短语"
+  },
+  {
+    "surface": "- des médias",
+    "valid": false,
+    "reason": "标点碎片，非独立名词短语"
+  },
+  {
+    "surface": "une expression écolithique",
+    "valid": true
+  },
+  {
+    "surface": "demolition",
+    "valid": true
+  },
+  {
+    "surface": "la Bastille",
+    "valid": true
+  },
+  {
+    "surface": "oprie",
+    "valid": false,
+    "reason": "疑似拼写碎片/非名词"
+  },
+  {
+    "surface": "palais",
+    "valid": true
+  },
+  {
+    "surface": ", la délimitation",
+    "valid": false,
+    "reason": "标点碎片，非独立名词短语"
+  },
+  {
+    "surface": "Agencements sociaux",
+    "valid": true
+  },
+  {
+    "surface": "Seulement, ces derniers temps",
+    "valid": false,
+    "reason": "含副词/标点的时间状语，非名词短语"
+  },
+  {
+    "surface": "la pierre",
+    "valid": true
+  },
+  {
+    "surface": ", c'est surtout en termes",
+    "valid": false,
+    "reason": "句子片段/介词短语，非名词短语"
+  },
+  {
+    "surface": "communications",
+    "valid": true
+  },
+  {
+    "surface": "de maitrise",
+    "valid": false,
+    "reason": "介词短语，非名词短语"
+  },
+  {
+    "surface": "informations",
+    "valid": true
+  },
+  {
+    "surface": "les clivages",
+    "valid": true
+  },
+  {
+    "surface": "les architectes",
+    "valid": true
+  },
+  {
+    "surface": "qu'à quel saint",
+    "valid": false,
+    "reason": "含连词/介词/疑问限定词，非名词短语"
+  },
+  {
+    "surface": "une ville蒙古",
+    "valid": false,
+    "reason": "混合中文，非规范法语名词短语"
+  },
+  {
+    "surface": "plein délire",
+    "valid": true
+  },
+  {
+    "surface": "ses 40 millions",
+    "valid": true
+  },
+  {
+    "surface": "habitants",
+    "valid": true
+  },
+  {
+    "surface": "le baron",
+    "valid": true
+  },
+  {
+    "surface": "Hausmann",
+    "valid": true
+  },
+  {
+    "surface": "plus仁",
+    "valid": false,
+    "reason": "混合中文/副词碎片，非名词"
+  },
+  {
+    "surface": "Les politiques",
+    "valid": true
+  },
+  {
+    "surface": ", les technocrates",
+    "valid": false,
+    "reason": "标点碎片，非独立名词短语"
+  },
+  {
+    "surface": ", les ingénieurs gérent désormais ce genre",
+    "valid": false,
+    "reason": "句子片段，含动词，非名词短语"
+  },
+  {
+    "surface": "hommes",
+    "valid": true
+  },
+  {
+    "surface": "un art",
+    "valid": true
+  },
+  {
+    "surface": "que Hegel",
+    "valid": false,
+    "reason": "含连词que，非独立名词短语"
+  },
+  {
+    "surface": "au premier rang",
+    "valid": false,
+    "reason": "介词短语，非名词短语"
+  },
+  {
+    "surface": "un crêneau minimal",
+    "valid": true
+  },
+  {
+    "surface": "construc",
+    "valid": false,
+    "reason": "词形碎片，非完整名词"
+  },
+  {
+    "surface": "tions somptuaires",
+    "valid": false,
+    "reason": "词形碎片，非完整名词短语"
+  },
+  {
+    "surface": "les places",
+    "valid": true
+  },
+  {
+    "surface": "môme",
+    "valid": true
+  },
+  {
+    "surface": "dandy",
+    "valid": true
+  },
+  {
+    "surface": "post-modernes les maguilles politico-",
+    "valid": false,
+    "reason": "碎片/形容词与不完整词组合，非规范名词短语"
+  },
+  {
+    "surface": "tous coups",
+    "valid": true
+  },
+  {
+    "surface": "leurs raires",
+    "valid": true
+  },
+  {
+    "surface": "les à une sournoise degradation",
+    "valid": false,
+    "reason": "语法碎片，非规范名词短语"
+  },
+  {
+    "surface": "leurs talents créatifs",
+    "valid": true
+  },
+  {
+    "surface": "l'utopie'²",
+    "valid": true
+  },
+  {
+    "surface": "la nostalgie",
+    "valid": true
+  },
+  {
+    "surface": "un retour",
+    "valid": true
+  },
+  {
+    "surface": "passé³.",
+    "valid": true
+  },
+  {
+    "surface": "la contestation critique",
+    "valid": true
+  },
+  {
+    "surface": "son approche",
+    "valid": true
+  },
+  {
+    "surface": "outre, un intercessure",
+    "valid": false,
+    "reason": "含副词outre/标点，非规范名词短语"
+  },
+  {
+    "surface": "ces résidences",
+    "valid": true
+  },
+  {
+    "surface": "les intérêts",
+    "valid": true
+  },
+  {
+    "surface": "artiste",
+    "valid": true
+  },
+  {
+    "surface": "un artisan",
+    "valid": true
+  },
+  {
+    "surface": "vécu sensible et relationnel",
+    "valid": true
+  },
+  {
+    "surface": "pas particulièrement l'intention",
+    "valid": false,
+    "reason": "含否定副词，非独立名词短语"
+  },
+  {
+    "surface": "un tel décentrement",
+    "valid": true
+  },
+  {
+    "surface": "un divan psychanalytique",
+    "valid": true
+  },
+  {
+    "surface": "posture",
+    "valid": true
+  },
+  {
+    "surface": "certaines fonctions spécifiques",
+    "valid": true
+  },
+  {
+    "surface": "les numéros",
+    "valid": true
+  },
+  {
+    "surface": "opérateurs sociaux et cultures",
+    "valid": true
+  },
+  {
+    "surface": "un relais essentiel",
+    "valid": true
+  },
+  {
+    "surface": "enoncissement",
+    "valid": true
+  },
+  {
+    "surface": "les productions contemporaines",
+    "valid": true
+  },
+  {
+    "surface": "une simple position",
+    "valid": true
+  },
+  {
+    "surface": "observateur critique",
+    "valid": true
+  },
+  {
+    "surface": "clats",
+    "valid": true
+  },
+  {
+    "surface": "uf",
+    "valid": true
+  },
+  {
+    "surface": "enjeux politiques",
+    "valid": true
+  }
+]

@@ -1,0 +1,49 @@
+{
+  "callId": "call-0493",
+  "timestamp": "2026-09-22T10-21-38-818Z",
+  "elapsed": 736,
+  "success": true,
+  "response": {
+    "text": "【【191】】【【330】】【【345】】",
+    "usage": {
+      "prompt_tokens": 3828,
+      "completion_tokens": 13,
+      "total_tokens": 3841,
+      "prompt_tokens_details": {
+        "cached_tokens": 0
+      },
+      "prompt_cache_hit_tokens": 0,
+      "prompt_cache_miss_tokens": 3828
+    },
+    "truncated": false,
+    "finishReason": "stop"
+  },
+  "rawResponse": {
+    "id": "cfe60833-3e4f-4b4a-bf59-28444233ba3b",
+    "object": "chat.completion",
+    "created": 1790072499,
+    "model": "deepseek-flash",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "【【191】】【【330】】【【345】】"
+        },
+        "logprobs": null,
+        "finish_reason": "stop"
+      }
+    ],
+    "usage": {
+      "prompt_tokens": 3828,
+      "completion_tokens": 13,
+      "total_tokens": 3841,
+      "prompt_tokens_details": {
+        "cached_tokens": 0
+      },
+      "prompt_cache_hit_tokens": 0,
+      "prompt_cache_miss_tokens": 3828
+    },
+    "system_fingerprint": "aeb56401ca74e127821c4f9126dcb669"
+  }
+}

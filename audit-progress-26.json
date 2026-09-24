@@ -1,0 +1,852 @@
+[
+  {
+    "surface": "des ensembles algorithmiques",
+    "valid": true
+  },
+  {
+    "surface": "discursifs",
+    "valid": true
+  },
+  {
+    "surface": "/Fond**.",
+    "valid": false,
+    "reason": "标点与符号碎片"
+  },
+  {
+    "surface": "Découpe figurale",
+    "valid": true
+  },
+  {
+    "surface": "discontinu",
+    "valid": true
+  },
+  {
+    "surface": "un cadre",
+    "valid": true
+  },
+  {
+    "surface": "l'intrusion énonciative",
+    "valid": true
+  },
+  {
+    "surface": "La machinique",
+    "valid": true
+  },
+  {
+    "surface": "l'immanence",
+    "valid": true
+  },
+  {
+    "surface": "cadran",
+    "valid": true
+  },
+  {
+    "surface": "F.Φ.T.U.?",
+    "valid": false,
+    "reason": "符号与缩写碎片"
+  },
+  {
+    "surface": "Nœuds machiniques",
+    "valid": true
+  },
+  {
+    "surface": "/Fond systémique",
+    "valid": false,
+    "reason": "含斜杠符号碎片"
+  },
+  {
+    "surface": "Le mode particulier",
+    "valid": true
+  },
+  {
+    "surface": "Propositions machiniques",
+    "valid": true
+  },
+  {
+    "surface": "le métabolisme",
+    "valid": true
+  },
+  {
+    "surface": "catégorie",
+    "valid": true
+  },
+  {
+    "surface": "ALLO",
+    "valid": false,
+    "reason": "非名词性标记/感叹词"
+  },
+  {
+    "surface": "Les mémoires",
+    "valid": true
+  },
+  {
+    "surface": "enregistrements",
+    "valid": true
+  },
+  {
+    "surface": "Toutes les mémoires",
+    "valid": true
+  },
+  {
+    "surface": "Toutes les machines",
+    "valid": true
+  },
+  {
+    "surface": "EST UNE CATÉGORIE",
+    "valid": false,
+    "reason": "含助动词与冠词的短语，非名词短语"
+  },
+  {
+    "surface": "des plus",
+    "valid": false,
+    "reason": "虚词组合，非名词短语"
+  },
+  {
+    "surface": "Plus-value",
+    "valid": true
+  },
+  {
+    "surface": "plus qu'une simple addition",
+    "valid": false,
+    "reason": "含连词与副词的短语，非名词短语"
+  },
+  {
+    "surface": "composants",
+    "valid": true
+  },
+  {
+    "surface": "le Phylum",
+    "valid": true
+  },
+  {
+    "surface": "coupure",
+    "valid": true
+  },
+  {
+    "surface": "composant",
+    "valid": true
+  },
+  {
+    "surface": "est un composant",
+    "valid": false,
+    "reason": "含助动词与冠词的短语"
+  },
+  {
+    "surface": "potentiellé",
+    "valid": true
+  },
+  {
+    "surface": "Le Phylum F. de",
+    "valid": false,
+    "reason": "含介词与缩写碎片"
+  },
+  {
+    "surface": "toutes les pro-positions",
+    "valid": true
+  },
+  {
+    "surface": "trans-positions",
+    "valid": true
+  },
+  {
+    "surface": "Flux «",
+    "valid": false,
+    "reason": "含标点符号碎片"
+  },
+  {
+    "surface": "contingentés",
+    "valid": true
+  },
+  {
+    "surface": "Un saut particulièrement difficile",
+    "valid": true
+  },
+  {
+    "surface": "multiplicité",
+    "valid": true
+  },
+  {
+    "surface": "ses effets",
+    "valid": true
+  },
+  {
+    "surface": "affect virtuel",
+    "valid": true
+  },
+  {
+    "surface": "Virtisation enoncictive",
+    "valid": true
+  },
+  {
+    "surface": "Ф.",
+    "valid": false,
+    "reason": "单符号碎片"
+  },
+  {
+    "surface": "proto-energétique",
+    "valid": true
+  },
+  {
+    "surface": "Le continuum",
+    "valid": true
+  },
+  {
+    "surface": "des possibles",
+    "valid": true
+  },
+  {
+    "surface": "l'entrée",
+    "valid": true
+  },
+  {
+    "surface": "tous les transferts possibles",
+    "valid": true
+  },
+  {
+    "surface": "Introduire",
+    "valid": false,
+    "reason": "动词不定式"
+  },
+  {
+    "surface": "une équivalence",
+    "valid": true
+  },
+  {
+    "surface": "l'interaction",
+    "valid": true
+  },
+  {
+    "surface": "deux particules",
+    "valid": true
+  },
+  {
+    "surface": "les conditions",
+    "valid": true
+  },
+  {
+    "surface": "variables potentielles",
+    "valid": true
+  },
+  {
+    "surface": "toutes les expériences potentielles",
+    "valid": true
+  },
+  {
+    "surface": "virtuels",
+    "valid": true
+  },
+  {
+    "surface": "(dans",
+    "valid": false,
+    "reason": "含括号与介词碎片"
+  },
+  {
+    "surface": "un trou noir cosmologique",
+    "valid": true
+  },
+  {
+    "surface": "l'instant",
+    "valid": true
+  },
+  {
+    "surface": "seconds",
+    "valid": true
+  },
+  {
+    "surface": "Big Bang",
+    "valid": true
+  },
+  {
+    "surface": "disponibilité",
+    "valid": true
+  },
+  {
+    "surface": "potentiel énergétique",
+    "valid": true
+  },
+  {
+    "surface": "incidence",
+    "valid": true
+  },
+  {
+    "surface": "ces transferts",
+    "valid": true
+  },
+  {
+    "surface": "des charges",
+    "valid": true
+  },
+  {
+    "surface": "potentialité matérielle",
+    "valid": true
+  },
+  {
+    "surface": "charges",
+    "valid": true
+  },
+  {
+    "surface": "potentialité sémiotique",
+    "valid": true
+  },
+  {
+    "surface": "(de",
+    "valid": false,
+    "reason": "含括号与介词碎片"
+  },
+  {
+    "surface": "moulage",
+    "valid": true
+  },
+  {
+    "surface": "catalyse).1",
+    "valid": false,
+    "reason": "含标点与数字碎片"
+  },
+  {
+    "surface": "Actualisation discursiveVirtualisation",
+    "valid": false,
+    "reason": "拼接碎片，非规范名词短语"
+  },
+  {
+    "surface": "énoncativeOccurrences possiblesΦ.U.Occurrences",
+    "valid": false,
+    "reason": "拼接碎片"
+  },
+  {
+    "surface": "contingentées",
+    "valid": true
+  },
+  {
+    "surface": "réelles)F.T.",
+    "valid": false,
+    "reason": "含括号与缩写碎片"
+  },
+  {
+    "surface": "theorie générale",
+    "valid": true
+  },
+  {
+    "surface": "charges signalétiques",
+    "valid": true
+  },
+  {
+    "surface": "établissant",
+    "valid": false,
+    "reason": "动词现在分词"
+  },
+  {
+    "surface": "un effet sémiotique",
+    "valid": true
+  },
+  {
+    "surface": "l'impact",
+    "valid": true
+  },
+  {
+    "surface": "particule",
+    "valid": true
+  },
+  {
+    "surface": "effets energetiques",
+    "valid": true
+  },
+  {
+    "surface": "Celle",
+    "valid": false,
+    "reason": "指示代词"
+  },
+  {
+    "surface": "structure",
+    "valid": true
+  },
+  {
+    "surface": "une « vie",
+    "valid": false,
+    "reason": "含标点符号碎片"
+  },
+  {
+    "surface": "possibilis",
+    "valid": true
+  },
+  {
+    "surface": "la structure",
+    "valid": true
+  },
+  {
+    "surface": "déterminée",
+    "valid": true
+  },
+  {
+    "surface": "le moindre",
+    "valid": true
+  },
+  {
+    "surface": "la durée",
+    "valid": true
+  },
+  {
+    "surface": "une boucle",
+    "valid": true
+  },
+  {
+    "surface": "rétroaction",
+    "valid": true
+  },
+  {
+    "surface": "nécessité",
+    "valid": true
+  },
+  {
+    "surface": "ces proto-durées",
+    "valid": true
+  },
+  {
+    "surface": "des niveaux",
+    "valid": true
+  },
+  {
+    "surface": "très hétérôme",
+    "valid": false,
+    "reason": "含副词，非名词短语"
+  },
+  {
+    "surface": ", par exemple",
+    "valid": false,
+    "reason": "标点与虚词组合"
+  },
+  {
+    "surface": "la cellule",
+    "valid": true
+  },
+  {
+    "surface": ", de l'organe",
+    "valid": false,
+    "reason": "含标点与介词碎片"
+  },
+  {
+    "surface": ", de l'intégration",
+    "valid": false,
+    "reason": "含标点与介词碎片"
+  },
+  {
+    "surface": "des mémoires corporelles",
+    "valid": true
+  },
+  {
+    "surface": "moïques",
+    "valid": true
+  },
+  {
+    "surface": "outu",
+    "valid": false,
+    "reason": "疑似拼写碎片/非词"
+  },
+  {
+    "surface": "général",
+    "valid": true
+  },
+  {
+    "surface": "toute discursivité",
+    "valid": true
+  },
+  {
+    "surface": "déterritorialisée",
+    "valid": true
+  },
+  {
+    "surface": "une implication energetique",
+    "valid": true
+  },
+  {
+    "surface": "L'energie expire",
+    "valid": false,
+    "reason": "含动词变位，非名词短语"
+  },
+  {
+    "surface": "transferts",
+    "valid": true
+  },
+  {
+    "surface": "enème degré",
+    "valid": false,
+    "reason": "碎片化表达，非规范名词短语"
+  },
+  {
+    "surface": "l'intégrale",
+    "valid": true
+  },
+  {
+    "surface": "toutes les discursivités",
+    "valid": true
+  },
+  {
+    "surface": "énergies sémiotiques",
+    "valid": true
+  },
+  {
+    "surface": "énergie matérielle",
+    "valid": true
+  },
+  {
+    "surface": "ne le puts *",
+    "valid": false,
+    "reason": "含动词变位与符号碎片"
+  },
+  {
+    "surface": "qu'à la condition",
+    "valid": false,
+    "reason": "含连词与介词碎片"
+  },
+  {
+    "surface": "la réversibilité",
+    "valid": true
+  },
+  {
+    "surface": "positions",
+    "valid": true
+  },
+  {
+    "surface": "régions machiniques",
+    "valid": true
+  },
+  {
+    "surface": "uniquement une determination extrinsère",
+    "valid": false,
+    "reason": "含副词，非名词短语"
+  },
+  {
+    "surface": "une auto-consistance",
+    "valid": true
+  },
+  {
+    "surface": "les circonstances",
+    "valid": true
+  },
+  {
+    "surface": "de Territoire",
+    "valid": false,
+    "reason": "含介词碎片"
+  },
+  {
+    "surface": "des niveaux problématiques",
+    "valid": true
+  },
+  {
+    "surface": "deterritorialisales",
+    "valid": true
+  },
+  {
+    "surface": "ou cette question",
+    "valid": false,
+    "reason": "含连词与指示词"
+  },
+  {
+    "surface": "les U.",
+    "valid": false,
+    "reason": "缩写与标点碎片"
+  },
+  {
+    "surface": "auto-consistent",
+    "valid": true
+  },
+  {
+    "surface": "consistance machinique",
+    "valid": true
+  },
+  {
+    "surface": "(●)",
+    "valid": false,
+    "reason": "纯符号"
+  },
+  {
+    "surface": "autoréfense",
+    "valid": true
+  },
+  {
+    "surface": "le lieu",
+    "valid": true
+  },
+  {
+    "surface": "hétéro",
+    "valid": true
+  },
+  {
+    "surface": "genense",
+    "valid": true
+  },
+  {
+    "surface": "des positions singulaires",
+    "valid": true
+  },
+  {
+    "surface": "## DIACHRONIE ET SYNCHRONIE MACHINIQUE",
+    "valid": false,
+    "reason": "含标题符号与连词"
+  },
+  {
+    "surface": "Notre première appréhension",
+    "valid": true
+  },
+  {
+    "surface": "une double perspective",
+    "valid": true
+  },
+  {
+    "surface": "## Univers",
+    "valid": false,
+    "reason": "含标题符号"
+  },
+  {
+    "surface": "un évolutionnisme machinique",
+    "valid": true
+  },
+  {
+    "surface": "la mécanosphère",
+    "valid": true
+  },
+  {
+    "surface": "Kuhn",
+    "valid": true
+  },
+  {
+    "surface": "des Constellations",
+    "valid": true
+  },
+  {
+    "surface": "une dimension diachronique",
+    "valid": true
+  },
+  {
+    "surface": "Chaque machine",
+    "valid": true
+  },
+  {
+    "surface": "arbre",
+    "valid": true
+  },
+  {
+    "surface": "implication machinique",
+    "valid": true
+  },
+  {
+    "surface": ", plutôt, rhizome",
+    "valid": false,
+    "reason": "含标点与副词碎片"
+  },
+  {
+    "surface": "implication",
+    "valid": true
+  },
+  {
+    "surface": "Les problèmes",
+    "valid": true
+  },
+  {
+    "surface": "que les autres étrés vivants",
+    "valid": false,
+    "reason": "含连词与冠词，非名词短语"
+  },
+  {
+    "surface": "les mêmes coordonnées",
+    "valid": true
+  },
+  {
+    "surface": "extrinsées",
+    "valid": true
+  },
+  {
+    "surface": "intrinsées",
+    "valid": true
+  },
+  {
+    "surface": "intensives",
+    "valid": true
+  },
+  {
+    "surface": "les *machines désirantes",
+    "valid": false,
+    "reason": "含星号符号碎片"
+  },
+  {
+    "surface": "première génération",
+    "valid": true
+  },
+  {
+    "surface": "un pont",
+    "valid": true
+  },
+  {
+    "surface": "l'efficience diagrammatique des matieres signalétiques",
+    "valid": true
+  },
+  {
+    "surface": "les operations",
+    "valid": true
+  },
+  {
+    "surface": "des machines abstraites",
+    "valid": true
+  },
+  {
+    "surface": "traversant",
+    "valid": false,
+    "reason": "动词现在分词"
+  },
+  {
+    "surface": "efficience",
+    "valid": true
+  },
+  {
+    "surface": "cessus",
+    "valid": true
+  },
+  {
+    "surface": "la ligne processuelle",
+    "valid": true
+  },
+  {
+    "surface": "cette traverse",
+    "valid": true
+  },
+  {
+    "surface": "les problématiques",
+    "valid": true
+  },
+  {
+    "surface": "une dimension synchronique",
+    "valid": true
+  },
+  {
+    "surface": "fur",
+    "valid": true
+  },
+  {
+    "surface": "l'intégration machine",
+    "valid": true
+  },
+  {
+    "surface": "planétaire",
+    "valid": true
+  },
+  {
+    "surface": "la lime",
+    "valid": true
+  },
+  {
+    "surface": "qu'une seule machine",
+    "valid": false,
+    "reason": "含连词与副词碎片"
+  },
+  {
+    "surface": "Pas comme la science",
+    "valid": false,
+    "reason": "含否定副词与连词"
+  },
+  {
+    "surface": "fiction",
+    "valid": true
+  },
+  {
+    "surface": "l'imaginait",
+    "valid": false,
+    "reason": "动词变位"
+  },
+  {
+    "surface": "méga",
+    "valid": true
+  },
+  {
+    "surface": "tyranique",
+    "valid": true
+  },
+  {
+    "surface": "en tant que multiplicité",
+    "valid": false,
+    "reason": "含介词与连词短语"
+  },
+  {
+    "surface": "méculaire",
+    "valid": true
+  },
+  {
+    "surface": "pulvérulent",
+    "valid": true
+  },
+  {
+    "surface": "La fluctuation",
+    "valid": true
+  },
+  {
+    "surface": "la figure suivante",
+    "valid": true
+  },
+  {
+    "surface": "tentative",
+    "valid": true
+  },
+  {
+    "surface": "reprise",
+    "valid": true
+  },
+  {
+    "surface": "des Flux",
+    "valid": true
+  },
+  {
+    "surface": "quelques traits relatifs à ces Flux que nous retrouverons lors de leur évolution ultérieure en Phylum machiniques",
+    "valid": false,
+    "reason": "含限定词、代词与动词变位，非名词短语"
+  },
+  {
+    "surface": "- lisses",
+    "valid": false,
+    "reason": "含连字符碎片"
+  },
+  {
+    "surface": "répétition «",
+    "valid": false,
+    "reason": "含标点符号碎片"
+  },
+  {
+    "surface": "identitarisante",
+    "valid": true
+  },
+  {
+    "surface": "formes",
+    "valid": true
+  },
+  {
+    "surface": "linéarisation",
+    "valid": true
+  },
+  {
+    "surface": "Ilns",
+    "valid": false,
+    "reason": "疑似拼写碎片/非词"
+  },
+  {
+    "surface": "une approche finie",
+    "valid": true
+  },
+  {
+    "surface": "cironscrit",
+    "valid": true
+  },
+  {
+    "surface": "leurs délimitations",
+    "valid": true
+  },
+  {
+    "surface": "- porteurs",
+    "valid": false,
+    "reason": "含连字符碎片"
+  },
+  {
+    "surface": "lissage",
+    "valid": true
+  },
+  {
+    "surface": "la caractéristique antécédente",
+    "valid": true
+  }
+]

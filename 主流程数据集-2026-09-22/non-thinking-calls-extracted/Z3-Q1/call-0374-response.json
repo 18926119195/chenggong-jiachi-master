@@ -1,0 +1,49 @@
+{
+  "callId": "call-0374",
+  "timestamp": "2026-09-22T10-21-10-874Z",
+  "elapsed": 1189,
+  "success": true,
+  "response": {
+    "text": "【46】【48】【50】【52】【53】【54】【55】【63】【65】【66】【67】【68】【71】【82】【85】【86】【101】【102】【103】【104】【106】【107】【109】【110】【114】【115】【116】【117】【121】【122】【124】【132】【135】【136】【137】【138】【139】【140】【141】【142】【146】【149】【150】【156】【163】【165】【167】【168】【205】【207】【210】【212】【213】【215】【217】【220】【223】【233】【234】【235】【236】【237】【244】【245】【246】【247】【248】【249】【252】【293】【294】【317】",
+    "usage": {
+      "prompt_tokens": 3716,
+      "completion_tokens": 145,
+      "total_tokens": 3861,
+      "prompt_tokens_details": {
+        "cached_tokens": 0
+      },
+      "prompt_cache_hit_tokens": 0,
+      "prompt_cache_miss_tokens": 3716
+    },
+    "truncated": false,
+    "finishReason": "stop"
+  },
+  "rawResponse": {
+    "id": "3b89e370-2099-4898-bdce-bda41fab0e93",
+    "object": "chat.completion",
+    "created": 1790072471,
+    "model": "deepseek-flash",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "【46】【48】【50】【52】【53】【54】【55】【63】【65】【66】【67】【68】【71】【82】【85】【86】【101】【102】【103】【104】【106】【107】【109】【110】【114】【115】【116】【117】【121】【122】【124】【132】【135】【136】【137】【138】【139】【140】【141】【142】【146】【149】【150】【156】【163】【165】【167】【168】【205】【207】【210】【212】【213】【215】【217】【220】【223】【233】【234】【235】【236】【237】【244】【245】【246】【247】【248】【249】【252】【293】【294】【317】"
+        },
+        "logprobs": null,
+        "finish_reason": "stop"
+      }
+    ],
+    "usage": {
+      "prompt_tokens": 3716,
+      "completion_tokens": 145,
+      "total_tokens": 3861,
+      "prompt_tokens_details": {
+        "cached_tokens": 0
+      },
+      "prompt_cache_hit_tokens": 0,
+      "prompt_cache_miss_tokens": 3716
+    },
+    "system_fingerprint": "aeb56401ca74e127821c4f9126dcb669"
+  }
+}

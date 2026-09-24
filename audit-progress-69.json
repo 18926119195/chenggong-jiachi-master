@@ -1,0 +1,888 @@
+[
+  {
+    "surface": "première importance",
+    "valid": true
+  },
+  {
+    "surface": "ethniques",
+    "valid": true
+  },
+  {
+    "surface": "antagonismes économiques, sociaux et régionaux",
+    "valid": true
+  },
+  {
+    "surface": "résolution",
+    "valid": true
+  },
+  {
+    "surface": "agillement",
+    "valid": true
+  },
+  {
+    "surface": "un parti éclectique",
+    "valid": true
+  },
+  {
+    "surface": "un tel état",
+    "valid": true
+  },
+  {
+    "surface": "choix éthico",
+    "valid": true
+  },
+  {
+    "surface": "l'exercice",
+    "valid": true
+  },
+  {
+    "surface": "cette profession",
+    "valid": true
+  },
+  {
+    "surface": ", desmaisons",
+    "valid": false,
+    "reason": "标点碎片且拼写异常"
+  },
+  {
+    "surface": "bonne foi",
+    "valid": true
+  },
+  {
+    "surface": "derrierre",
+    "valid": true
+  },
+  {
+    "surface": "ou la science pure *",
+    "valid": false,
+    "reason": "含连词、冠词及符号，非名词短语"
+  },
+  {
+    "surface": "Re-inventer",
+    "valid": false,
+    "reason": "动词不定式"
+  },
+  {
+    "surface": ", une école",
+    "valid": false,
+    "reason": "标点碎片且含冠词"
+  },
+  {
+    "surface": "vocation hégemonique",
+    "valid": true
+  },
+  {
+    "surface": "aujourd'hui l'énoncion archéocratie",
+    "valid": false,
+    "reason": "含副词及冠词，非规范名词短语"
+  },
+  {
+    "surface": "métier",
+    "valid": true
+  },
+  {
+    "surface": "Des loyers",
+    "valid": false,
+    "reason": "含冠词"
+  },
+  {
+    "surface": "déplace",
+    "valid": false,
+    "reason": "动词变位形式"
+  },
+  {
+    "surface": "son expression semiotique",
+    "valid": false,
+    "reason": "含限定词son"
+  },
+  {
+    "surface": "de ses contenus",
+    "valid": false,
+    "reason": "含介词及限定词"
+  },
+  {
+    "surface": "sémiantiques",
+    "valid": true
+  },
+  {
+    "surface": "une œuvre architecturale",
+    "valid": true
+  },
+  {
+    "surface": "sa *matière*",
+    "valid": false,
+    "reason": "含限定词及符号"
+  },
+  {
+    "surface": "énonciative",
+    "valid": true
+  },
+  {
+    "surface": "aujourd'hui",
+    "valid": false,
+    "reason": "副词"
+  },
+  {
+    "surface": "Quelle part",
+    "valid": false,
+    "reason": "含疑问限定词"
+  },
+  {
+    "surface": "Quels poils relatifs",
+    "valid": false,
+    "reason": "含疑问限定词"
+  },
+  {
+    "surface": "lui les promoteurs",
+    "valid": false,
+    "reason": "含代词及冠词"
+  },
+  {
+    "surface": "les ingénieurs",
+    "valid": false,
+    "reason": "含冠词"
+  },
+  {
+    "surface": "les urbanistes",
+    "valid": false,
+    "reason": "含冠词"
+  },
+  {
+    "surface": "usagers",
+    "valid": true
+  },
+  {
+    "surface": "des compromis",
+    "valid": false,
+    "reason": "含冠词"
+  },
+  {
+    "surface": "les divers parties",
+    "valid": false,
+    "reason": "含冠词"
+  },
+  {
+    "surface": "vaict",
+    "valid": false,
+    "reason": "拼写异常，非规范词"
+  },
+  {
+    "surface": "une économie transférentielle",
+    "valid": true
+  },
+  {
+    "surface": "un concept architectural",
+    "valid": true
+  },
+  {
+    "surface": "l'architecte",
+    "valid": true
+  },
+  {
+    "surface": "visée",
+    "valid": true
+  },
+  {
+    "surface": "être un plasticier",
+    "valid": false,
+    "reason": "含助动词及冠词"
+  },
+  {
+    "surface": "formes mâtes",
+    "valid": true
+  },
+  {
+    "surface": "être aussi un réelateur",
+    "valid": false,
+    "reason": "含助动词、副词及冠词"
+  },
+  {
+    "surface": "desirs virtuels d'espace",
+    "valid": true
+  },
+  {
+    "surface": ", de lieux",
+    "valid": false,
+    "reason": "标点碎片且含介词"
+  },
+  {
+    "surface": ", de parcours",
+    "valid": false,
+    "reason": "标点碎片且含介词"
+  },
+  {
+    "surface": "corporité individuels",
+    "valid": true
+  },
+  {
+    "surface": "- l'une, polyphonique, de l'ordre",
+    "valid": false,
+    "reason": "含代词、标点及介词"
+  },
+  {
+    "surface": "percept",
+    "valid": true
+  },
+  {
+    "surface": ", inhérente",
+    "valid": false,
+    "reason": "标点碎片"
+  },
+  {
+    "surface": "déploiement",
+    "valid": true
+  },
+  {
+    "surface": "sa mise",
+    "valid": false,
+    "reason": "含限定词"
+  },
+  {
+    "surface": "sa •",
+    "valid": false,
+    "reason": "含限定词及符号"
+  },
+  {
+    "surface": "Une énonciation géopolitique",
+    "valid": true
+  },
+  {
+    "surface": "aussi bien l'orientation",
+    "valid": false,
+    "reason": "含副词及冠词"
+  },
+  {
+    "surface": "points cardiaux",
+    "valid": true
+  },
+  {
+    "surface": "déinvellations",
+    "valid": true
+  },
+  {
+    "surface": ", les données",
+    "valid": false,
+    "reason": "标点碎片且含冠词"
+  },
+  {
+    "surface": "climatiques",
+    "valid": true
+  },
+  {
+    "surface": "démographiques",
+    "valid": true
+  },
+  {
+    "surface": "évolutions",
+    "valid": true
+  },
+  {
+    "surface": "longue durée",
+    "valid": true
+  },
+  {
+    "surface": "trend",
+    "valid": true
+  },
+  {
+    "surface": "séculaire",
+    "valid": true
+  },
+  {
+    "surface": "Fernand Braudel1",
+    "valid": true
+  },
+  {
+    "surface": "gravité",
+    "valid": true
+  },
+  {
+    "surface": "« archipels",
+    "valid": false,
+    "reason": "含符号"
+  },
+  {
+    "surface": "monde3",
+    "valid": true
+  },
+  {
+    "surface": "Les composantes polyphoniques",
+    "valid": true
+  },
+  {
+    "surface": "échelle",
+    "valid": true
+  },
+  {
+    "surface": "Philippe Boudon",
+    "valid": true
+  },
+  {
+    "surface": "vingt angles",
+    "valid": true
+  },
+  {
+    "surface": "attaque",
+    "valid": true
+  },
+  {
+    "surface": "l'objet architectural",
+    "valid": true
+  },
+  {
+    "surface": "Une énoncation urbanistique",
+    "valid": true
+  },
+  {
+    "surface": ", us",
+    "valid": false,
+    "reason": "标点碎片"
+  },
+  {
+    "surface": "coutumes",
+    "valid": true
+  },
+  {
+    "surface": "la taille",
+    "valid": false,
+    "reason": "含冠词"
+  },
+  {
+    "surface": "terrains",
+    "valid": true
+  },
+  {
+    "surface": ", le volume",
+    "valid": false,
+    "reason": "标点碎片且含冠词"
+  },
+  {
+    "surface": "édifices",
+    "valid": true
+  },
+  {
+    "surface": ", aussi bien que les mécanismes",
+    "valid": false,
+    "reason": "含连词及冠词"
+  },
+  {
+    "surface": "contamination",
+    "valid": true
+  },
+  {
+    "surface": "d'image",
+    "valid": false,
+    "reason": "含介词"
+  },
+  {
+    "surface": "l'chelle",
+    "valid": true
+  },
+  {
+    "surface": "Les interlocuteurs",
+    "valid": true
+  },
+  {
+    "surface": "sous forme «",
+    "valid": false,
+    "reason": "含介词及符号"
+  },
+  {
+    "surface": "duré",
+    "valid": true
+  },
+  {
+    "surface": "fonctionnaires",
+    "valid": true
+  },
+  {
+    "surface": "esprit collectif",
+    "valid": true
+  },
+  {
+    "surface": "l'espace réel",
+    "valid": true
+  },
+  {
+    "surface": "visibilité",
+    "valid": true
+  },
+  {
+    "surface": "l'espace architectural",
+    "valid": true
+  },
+  {
+    "surface": "un référent extérieur",
+    "valid": true
+  },
+  {
+    "surface": "échelle symbolique",
+    "valid": true
+  },
+  {
+    "surface": "technique",
+    "valid": true
+  },
+  {
+    "surface": "fonctionnelle",
+    "valid": true
+  },
+  {
+    "surface": ", d'extension",
+    "valid": false,
+    "reason": "标点碎片且含介词"
+  },
+  {
+    "surface": "symbolique dimensionnelle",
+    "valid": true
+  },
+  {
+    "surface": ", de modèle",
+    "valid": false,
+    "reason": "标点碎片且含介词"
+  },
+  {
+    "surface": "sa représentation",
+    "valid": false,
+    "reason": "含限定词"
+  },
+  {
+    "surface": "de représentation",
+    "valid": false,
+    "reason": "含介词"
+  },
+  {
+    "surface": "Une énoncitation économique",
+    "valid": true
+  },
+  {
+    "surface": "expression capitalistique",
+    "valid": true
+  },
+  {
+    "surface": "les différents systèmes",
+    "valid": true
+  },
+  {
+    "surface": "valorisation individuels et collectifs",
+    "valid": true
+  },
+  {
+    "surface": "une évaluation relative des coûts et des demandes en termes de profit escompét, de prestige",
+    "valid": true
+  },
+  {
+    "surface": "impact politique et d'utilité sociale",
+    "valid": true
+  },
+  {
+    "surface": "une valeur marchande",
+    "valid": true
+  },
+  {
+    "surface": "propriétés foncières et à *",
+    "valid": false,
+    "reason": "含连词、介词及符号"
+  },
+  {
+    "surface": "les choix",
+    "valid": false,
+    "reason": "含冠词"
+  },
+  {
+    "surface": "les volumes",
+    "valid": false,
+    "reason": "含冠词"
+  },
+  {
+    "surface": "investissement",
+    "valid": true
+  },
+  {
+    "surface": "la construction",
+    "valid": false,
+    "reason": "含冠词"
+  },
+  {
+    "surface": "la demarche architecturale",
+    "valid": false,
+    "reason": "含冠词"
+  },
+  {
+    "surface": "constants allers et retournes",
+    "valid": true
+  },
+  {
+    "surface": "ces différents espaces",
+    "valid": false,
+    "reason": "含指示限定词"
+  },
+  {
+    "surface": "l'échelle *",
+    "valid": false,
+    "reason": "含冠词及符号"
+  },
+  {
+    "surface": "d'autres composantes",
+    "valid": false,
+    "reason": "含介词及限定词"
+  },
+  {
+    "surface": "non plus d'une simple ennumeration",
+    "valid": false,
+    "reason": "含副词、介词及冠词"
+  },
+  {
+    "surface": "leur nombre potentiel",
+    "valid": false,
+    "reason": "含限定词"
+  },
+  {
+    "surface": "Toutes les ennouncements virtuelles",
+    "valid": false,
+    "reason": "含限定词及冠词"
+  },
+  {
+    "surface": "Cette l'écrit",
+    "valid": false,
+    "reason": "含指示限定词及冠词"
+  },
+  {
+    "surface": "Henri Lier",
+    "valid": true
+  },
+  {
+    "surface": "sa saitit",
+    "valid": false,
+    "reason": "含限定词且拼写异常"
+  },
+  {
+    "surface": "Une demeure",
+    "valid": true
+  },
+  {
+    "surface": "la demeure",
+    "valid": false,
+    "reason": "含冠词"
+  },
+  {
+    "surface": "ses possibles",
+    "valid": false,
+    "reason": "含限定词"
+  },
+  {
+    "surface": "Neiamons",
+    "valid": false,
+    "reason": "拼写异常，非规范词"
+  },
+  {
+    "surface": "ce spectre continu",
+    "valid": false,
+    "reason": "含指示限定词"
+  },
+  {
+    "surface": "ennouncements virtuelles",
+    "valid": true
+  },
+  {
+    "surface": "huit types",
+    "valid": true
+  },
+  {
+    "surface": "contemporaine",
+    "valid": true
+  },
+  {
+    "surface": "Une énonciation fonctionnelle",
+    "valid": true
+  },
+  {
+    "surface": "Équipement",
+    "valid": true
+  },
+  {
+    "surface": "les espaces bâts",
+    "valid": false,
+    "reason": "含冠词"
+  },
+  {
+    "surface": "leur utilisation spécifique",
+    "valid": false,
+    "reason": "含限定词"
+  },
+  {
+    "surface": "Les équipements collectifs",
+    "valid": true
+  },
+  {
+    "surface": "les équipements",
+    "valid": false,
+    "reason": "含冠词"
+  },
+  {
+    "surface": "destination privée",
+    "valid": true
+  },
+  {
+    "surface": "un double réseau",
+    "valid": true
+  },
+  {
+    "surface": "rapports complémentaires *",
+    "valid": false,
+    "reason": "含符号"
+  },
+  {
+    "surface": "horizontaux",
+    "valid": true
+  },
+  {
+    "surface": "chaque segment construit",
+    "valid": false,
+    "reason": "含限定词"
+  },
+  {
+    "surface": "structures urbaines",
+    "valid": true
+  },
+  {
+    "surface": "capitalisme mondial",
+    "valid": true
+  },
+  {
+    "surface": "intérieur",
+    "valid": true
+  },
+  {
+    "surface": "la perméabilité relative",
+    "valid": false,
+    "reason": "含冠词"
+  },
+  {
+    "surface": "matériel employé",
+    "valid": true
+  },
+  {
+    "surface": ", l'opéaireur",
+    "valid": false,
+    "reason": "标点碎片且含冠词"
+  },
+  {
+    "surface": "un mur",
+    "valid": true
+  },
+  {
+    "surface": "sa charge",
+    "valid": false,
+    "reason": "含限定词"
+  },
+  {
+    "surface": "un matériel",
+    "valid": true
+  },
+  {
+    "surface": "sa maniabilité",
+    "valid": false,
+    "reason": "含限定词"
+  },
+  {
+    "surface": "de sa transportabilité",
+    "valid": false,
+    "reason": "含介词及限定词"
+  },
+  {
+    "surface": "de sa mise",
+    "valid": false,
+    "reason": "含介词及限定词"
+  },
+  {
+    "surface": "des micro-equipements",
+    "valid": false,
+    "reason": "含冠词"
+  },
+  {
+    "surface": "cléairage",
+    "valid": true
+  },
+  {
+    "surface": ", d'aération",
+    "valid": false,
+    "reason": "标点碎片且含介词"
+  },
+  {
+    "surface": ", de communication",
+    "valid": false,
+    "reason": "标点碎片且含介词"
+  },
+  {
+    "surface": "à macro-equipements",
+    "valid": false,
+    "reason": "含介词"
+  },
+  {
+    "surface": "infrastructure",
+    "valid": true
+  },
+  {
+    "surface": "Comme l'origine",
+    "valid": false,
+    "reason": "含连词及冠词"
+  },
+  {
+    "surface": "Midi",
+    "valid": true
+  },
+  {
+    "surface": "Les relais inter-locuteurs",
+    "valid": true
+  },
+  {
+    "surface": "ingénieurs",
+    "valid": true
+  },
+  {
+    "surface": "bâtiment",
+    "valid": true
+  },
+  {
+    "surface": "aussi les chimistes",
+    "valid": false,
+    "reason": "含副词及冠词"
+  },
+  {
+    "surface": "chaque mois",
+    "valid": false,
+    "reason": "含限定词"
+  },
+  {
+    "surface": "inventent",
+    "valid": false,
+    "reason": "动词变位形式"
+  },
+  {
+    "surface": "electricité",
+    "valid": true
+  },
+  {
+    "surface": ", en communication",
+    "valid": false,
+    "reason": "标点碎片且含介词"
+  },
+  {
+    "surface": "disciplines techniques et scientifiques",
+    "valid": true
+  },
+  {
+    "surface": "l'crit",
+    "valid": true
+  },
+  {
+    "surface": "Paul Virilio",
+    "valid": true
+  },
+  {
+    "surface": "Urbanisme*",
+    "valid": false,
+    "reason": "含符号"
+  },
+  {
+    "surface": "transit",
+    "valid": true
+  },
+  {
+    "surface": "de transfert",
+    "valid": false,
+    "reason": "含介词"
+  },
+  {
+    "surface": "ces réseaux",
+    "valid": false,
+    "reason": "含指示限定词"
+  },
+  {
+    "surface": "transport",
+    "valid": true
+  },
+  {
+    "surface": "de transmigration",
+    "valid": false,
+    "reason": "含介词"
+  },
+  {
+    "surface": "immigration",
+    "valid": true
+  },
+  {
+    "surface": "l'organisation casadrale",
+    "valid": true
+  },
+  {
+    "surface": "l'édification",
+    "valid": true
+  },
+  {
+    "surface": "monuments",
+    "valid": true
+  },
+  {
+    "surface": "monument",
+    "valid": true
+  },
+  {
+    "surface": "la demeure architecturale",
+    "valid": false,
+    "reason": "含冠词"
+  },
+  {
+    "surface": "cette \"disproportion",
+    "valid": false,
+    "reason": "含指示限定词及符号"
+  },
+  {
+    "surface": "appeances sensibles",
+    "valid": true
+  },
+  {
+    "surface": ", l'esthétique",
+    "valid": false,
+    "reason": "标点碎片且含冠词"
+  },
+  {
+    "surface": "assemblés",
+    "valid": true
+  },
+  {
+    "surface": "le soleil",
+    "valid": false,
+    "reason": "含冠词"
+  },
+  {
+    "surface": "l'obscurc",
+    "valid": true
+  },
+  {
+    "surface": "luminescence",
+    "valid": true
+  },
+  {
+    "surface": "terminaux",
+    "valid": true
+  },
+  {
+    "surface": ", des consoles",
+    "valid": false,
+    "reason": "标点碎片且含冠词"
+  },
+  {
+    "surface": "nuit",
+    "valid": true
+  },
+  {
+    "surface": "l'electronique2",
+    "valid": true
+  },
+  {
+    "surface": "Une énoncisation signifiante",
+    "valid": true
+  }
+]

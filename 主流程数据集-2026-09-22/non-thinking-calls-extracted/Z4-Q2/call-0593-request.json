@@ -1,0 +1,10 @@
+{
+  "callId": "call-0593",
+  "timestamp": "2026-09-22T10-22-03-797Z",
+  "promptLength": 884,
+  "promptPreview": "问题: 精神分析和精神分裂分析（schizoanalyse）的核心差异是什么？\n\n以下是你选中的相关词，请按重要程度打分（1-100）：\n  1-30   弱相关：领域相关但非核心，仅提及\n  31-60  中等相关：对答案有一定贡献\n  61-80  强相关：重要概念，显著影响答案质量\n  81-100 核心概念：没有它就无法准确回答\n\n词语列表：\n【【1】】du complexe\n【【2】】castration\n【【3】】populations moléculaires\n【【4】】la psyche\n【【5】】complexes infantiles\n【【6】】fixations\n【【7】】certaines stases\n【【8】】la daterritorialisation\n【【9】】daterritorialisation\n【【10】】schizoanalytique\n【【11】】une double deterritorialisation\n【【12】】désir blanc\n【【13】】La machine visagéitaire\n【【14】】des devenirs...",
+  "fullPrompt": "问题: 精神分析和精神分裂分析（schizoanalyse）的核心差异是什么？\n\n以下是你选中的相关词，请按重要程度打分（1-100）：\n  1-30   弱相关：领域相关但非核心，仅提及\n  31-60  中等相关：对答案有一定贡献\n  61-80  强相关：重要概念，显著影响答案质量\n  81-100 核心概念：没有它就无法准确回答\n\n词语列表：\n【【1】】du complexe\n【【2】】castration\n【【3】】populations moléculaires\n【【4】】la psyche\n【【5】】complexes infantiles\n【【6】】fixations\n【【7】】certaines stases\n【【8】】la daterritorialisation\n【【9】】daterritorialisation\n【【10】】schizoanalytique\n【【11】】une double deterritorialisation\n【【12】】désir blanc\n【【13】】La machine visagéitaire\n【【14】】des devenirs non humains\n【【15】】des dimensions inconscientes\n【【16】】deterrimentisation\n【【17】】découpe deterritorialisante\n【【18】】la visageätité\n【【19】】visageätites\n【【20】】la visageät\n【【21】】visageät\n【【22】】deterritorialisier\n【【23】】reterritorialisation visageatire\n【【24】】une telle visageätité non discursive\n\n输出格式要求：\n- 只输出【【N】】分数，每行一个，不要任何解释或额外文字\n- 例如：【【1】】95\n- 不要输出：【【1】】95（这个词很重要因为...）← 错误\n- 严格按格式，开始输出：",
+  "options": {
+    "maxTokens": 32768
+  }
+}

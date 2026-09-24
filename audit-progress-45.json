@@ -1,0 +1,960 @@
+[
+  {
+    "surface": "avec le monde",
+    "valid": false,
+    "reason": "介词短语，非名词"
+  },
+  {
+    "surface": "à son écheape",
+    "valid": false,
+    "reason": "介词短语，且拼写疑似错误"
+  },
+  {
+    "surface": "ses *cadrages*",
+    "valid": false,
+    "reason": "含星号标记，非纯名词形式"
+  },
+  {
+    "surface": "existentiels",
+    "valid": true
+  },
+  {
+    "surface": "coefficients",
+    "valid": true
+  },
+  {
+    "surface": "ce strage ontologique",
+    "valid": false,
+    "reason": "含限定词与疑似拼写错误，非规范名词短语"
+  },
+  {
+    "surface": "autres domaines",
+    "valid": true
+  },
+  {
+    "surface": "deux laissages",
+    "valid": true
+  },
+  {
+    "surface": "fractal",
+    "valid": true
+  },
+  {
+    "surface": "reefs incorporels",
+    "valid": true
+  },
+  {
+    "surface": "une difficulté",
+    "valid": false,
+    "reason": "含冠词，非纯名词形式"
+  },
+  {
+    "surface": "exposition",
+    "valid": true
+  },
+  {
+    "surface": "rapports particuliers",
+    "valid": true
+  },
+  {
+    "surface": "les Univers incorporels",
+    "valid": false,
+    "reason": "含冠词，非纯名词形式"
+  },
+  {
+    "surface": "com",
+    "valid": false,
+    "reason": "缩写/碎片，非完整名词"
+  },
+  {
+    "surface": "posibilité",
+    "valid": true
+  },
+  {
+    "surface": "une distinctivité réelle",
+    "valid": false,
+    "reason": "含冠词，非纯名词形式"
+  },
+  {
+    "surface": "d'exhaustion",
+    "valid": false,
+    "reason": "含介词de的缩合形式"
+  },
+  {
+    "surface": "ainsi le lissage",
+    "valid": false,
+    "reason": "含副词与冠词，非纯名词短语"
+  },
+  {
+    "surface": "un mixage",
+    "valid": false,
+    "reason": "含冠词，非纯名词形式"
+  },
+  {
+    "surface": "rigoureusement",
+    "valid": false,
+    "reason": "副词，非名词"
+  },
+  {
+    "surface": "leurs phases",
+    "valid": false,
+    "reason": "含限定词，非纯名词形式"
+  },
+  {
+    "surface": "ces surfaces",
+    "valid": false,
+    "reason": "含指示限定词，非纯名词形式"
+  },
+  {
+    "surface": "critères",
+    "valid": true
+  },
+  {
+    "surface": "une distinctivité",
+    "valid": false,
+    "reason": "含冠词，非纯名词形式"
+  },
+  {
+    "surface": "distinctes",
+    "valid": false,
+    "reason": "形容词，非名词"
+  },
+  {
+    "surface": "un certain état",
+    "valid": false,
+    "reason": "含冠词与形容词，非纯名词形式"
+  },
+  {
+    "surface": "une fracture",
+    "valid": false,
+    "reason": "含冠词，非纯名词形式"
+  },
+  {
+    "surface": "les autres dépliages fractals",
+    "valid": false,
+    "reason": "含冠词与限定词，非纯名词形式"
+  },
+  {
+    "surface": "Le phase",
+    "valid": false,
+    "reason": "含冠词，非纯名词形式"
+  },
+  {
+    "surface": "Plan général",
+    "valid": true
+  },
+  {
+    "surface": "d.P.C.",
+    "valid": false,
+    "reason": "缩写/符号碎片"
+  },
+  {
+    "surface": "déterminabilité infini",
+    "valid": true
+  },
+  {
+    "surface": "le straiage",
+    "valid": false,
+    "reason": "含冠词，非纯名词形式"
+  },
+  {
+    "surface": "la diregence",
+    "valid": false,
+    "reason": "含冠词，非纯名词形式"
+  },
+  {
+    "surface": "- en Propositions machiniques",
+    "valid": false,
+    "reason": "含介词与连字符，非纯名词短语"
+  },
+  {
+    "surface": "Ainsi tous les processus fractales",
+    "valid": false,
+    "reason": "含副词、限定词与冠词，非纯名词短语"
+  },
+  {
+    "surface": "p.D.C. *",
+    "valid": false,
+    "reason": "缩写与符号碎片"
+  },
+  {
+    "surface": "I'que",
+    "valid": false,
+    "reason": "碎片，非有效名词"
+  },
+  {
+    "surface": "» la déterminabilité",
+    "valid": false,
+    "reason": "含标点与冠词，非纯名词形式"
+  },
+  {
+    "surface": "une phase *",
+    "valid": false,
+    "reason": "含冠词与星号，非纯名词形式"
+  },
+  {
+    "surface": "une échelle",
+    "valid": false,
+    "reason": "含冠词，非纯名词形式"
+  },
+  {
+    "surface": "intérieur fort différente",
+    "valid": false,
+    "reason": "含形容词与副词，非规范名词短语"
+  },
+  {
+    "surface": "la séparabilité",
+    "valid": false,
+    "reason": "含冠词，非纯名词形式"
+  },
+  {
+    "surface": "une autre phase",
+    "valid": false,
+    "reason": "含冠词与限定词，非纯名词形式"
+  },
+  {
+    "surface": "cette phase",
+    "valid": false,
+    "reason": "含指示限定词，非纯名词形式"
+  },
+  {
+    "surface": "la phase",
+    "valid": false,
+    "reason": "含冠词，非纯名词形式"
+  },
+  {
+    "surface": "de la phase",
+    "valid": false,
+    "reason": "介词短语，非名词"
+  },
+  {
+    "surface": "Cette séparation",
+    "valid": false,
+    "reason": "含指示限定词，非纯名词形式"
+  },
+  {
+    "surface": "une vitese",
+    "valid": false,
+    "reason": "含冠词，非纯名词形式"
+  },
+  {
+    "surface": "Mais, en même temps, et , sur l'axe paradigmatique",
+    "valid": false,
+    "reason": "连词、介词等构成的短语"
+  },
+  {
+    "surface": "mène",
+    "valid": false,
+    "reason": "动词变位，非名词"
+  },
+  {
+    "surface": "P.d",
+    "valid": false,
+    "reason": "缩写/符号碎片"
+  },
+  {
+    "surface": ", relationnelles",
+    "valid": false,
+    "reason": "含标点，且为形容词"
+  },
+  {
+    "surface": "les phases",
+    "valid": false,
+    "reason": "含冠词，非纯名词形式"
+  },
+  {
+    "surface": "Les transitions",
+    "valid": false,
+    "reason": "含冠词，非纯名词形式"
+  },
+  {
+    "surface": "L'arrivée",
+    "valid": false,
+    "reason": "含冠词缩合，非纯名词形式"
+  },
+  {
+    "surface": "un état vibrataire",
+    "valid": false,
+    "reason": "含冠词，非纯名词形式"
+  },
+  {
+    "surface": "même processus",
+    "valid": true
+  },
+  {
+    "surface": "des hausses",
+    "valid": false,
+    "reason": "含冠词，非纯名词形式"
+  },
+  {
+    "surface": "ouchrites",
+    "valid": true
+  },
+  {
+    "surface": "un sous régime",
+    "valid": false,
+    "reason": "含冠词，非纯名词形式"
+  },
+  {
+    "surface": "une vitise infine",
+    "valid": false,
+    "reason": "含冠词，非纯名词形式"
+  },
+  {
+    "surface": "la discursive",
+    "valid": false,
+    "reason": "含冠词，且为形容词名词化，非典型名词"
+  },
+  {
+    "surface": "l'ononction",
+    "valid": false,
+    "reason": "含冠词缩合，非纯名词形式"
+  },
+  {
+    "surface": "datés",
+    "valid": false,
+    "reason": "形容词/分词，非名词"
+  },
+  {
+    "surface": "une séparation fractale",
+    "valid": false,
+    "reason": "含冠词，非纯名词形式"
+  },
+  {
+    "surface": "tout au long des mutations",
+    "valid": false,
+    "reason": "介词短语，非名词"
+  },
+  {
+    "surface": ", jusqu'à P.d",
+    "valid": false,
+    "reason": "含标点与介词，非名词"
+  },
+  {
+    "surface": "C. U",
+    "valid": false,
+    "reason": "缩写/符号碎片"
+  },
+  {
+    "surface": "l'intragrate",
+    "valid": false,
+    "reason": "含冠词缩合，非纯名词形式"
+  },
+  {
+    "surface": "une position contingente",
+    "valid": false,
+    "reason": "含冠词，非纯名词形式"
+  },
+  {
+    "surface": "positions possibles",
+    "valid": true
+  },
+  {
+    "surface": "la leie",
+    "valid": false,
+    "reason": "含冠词，非纯名词形式"
+  },
+  {
+    "surface": "une enonction",
+    "valid": false,
+    "reason": "含冠词，非纯名词形式"
+  },
+  {
+    "surface": "d'une infini",
+    "valid": false,
+    "reason": "介词短语，非名词"
+  },
+  {
+    "surface": "enonciations virtuelles",
+    "valid": true
+  },
+  {
+    "surface": "domaines respectifs",
+    "valid": true
+  },
+  {
+    "surface": "agregat distinct",
+    "valid": true
+  },
+  {
+    "surface": "chaque enoncion",
+    "valid": false,
+    "reason": "含限定词，非纯名词形式"
+  },
+  {
+    "surface": "une determinabilité minimale",
+    "valid": false,
+    "reason": "含冠词，非纯名词形式"
+  },
+  {
+    "surface": "d*+",
+    "valid": false,
+    "reason": "符号碎片"
+  },
+  {
+    "surface": "une sécabilité virtuelle",
+    "valid": false,
+    "reason": "含冠词，非纯名词形式"
+  },
+  {
+    "surface": ", à sa racine米米",
+    "valid": false,
+    "reason": "含标点、介词与异常字符"
+  },
+  {
+    "surface": "course",
+    "valid": true
+  },
+  {
+    "surface": "la discernabilité",
+    "valid": false,
+    "reason": "含冠词，非纯名词形式"
+  },
+  {
+    "surface": "la queue",
+    "valid": false,
+    "reason": "含冠词，非纯名词形式"
+  },
+  {
+    "surface": "chaque point médian",
+    "valid": false,
+    "reason": "含限定词，非纯名词形式"
+  },
+  {
+    "surface": "les intervalles",
+    "valid": false,
+    "reason": "含冠词，非纯名词形式"
+  },
+  {
+    "surface": "séparent",
+    "valid": false,
+    "reason": "动词变位，非名词"
+  },
+  {
+    "surface": "la cible",
+    "valid": false,
+    "reason": "含冠词，非纯名词形式"
+  },
+  {
+    "surface": "la flèche",
+    "valid": false,
+    "reason": "含冠词，非纯名词形式"
+  },
+  {
+    "surface": "son but",
+    "valid": false,
+    "reason": "含限定词，非纯名词形式"
+  },
+  {
+    "surface": "Ce processus",
+    "valid": false,
+    "reason": "含指示限定词，非纯名词形式"
+  },
+  {
+    "surface": "intercalation généralisé",
+    "valid": true
+  },
+  {
+    "surface": "la saisie",
+    "valid": false,
+    "reason": "含冠词，非纯名词形式"
+  },
+  {
+    "surface": "une détermination unaire",
+    "valid": false,
+    "reason": "含冠词，非纯名词形式"
+  },
+  {
+    "surface": "pain",
+    "valid": true
+  },
+  {
+    "surface": "quotidien",
+    "valid": true
+  },
+  {
+    "surface": "pournir",
+    "valid": false,
+    "reason": "疑似动词不定式，非名词"
+  },
+  {
+    "surface": "la condition obsessionnelle",
+    "valid": false,
+    "reason": "含冠词，非纯名词形式"
+  },
+  {
+    "surface": "coexistence",
+    "valid": true
+  },
+  {
+    "surface": ", d'un processus",
+    "valid": false,
+    "reason": "含标点与介词短语"
+  },
+  {
+    "surface": "d'une détermination",
+    "valid": false,
+    "reason": "介词短语，非名词"
+  },
+  {
+    "surface": ", l'accroche",
+    "valid": false,
+    "reason": "含标点与冠词缩合"
+  },
+  {
+    "surface": ", le fixe",
+    "valid": false,
+    "reason": "含标点与冠词"
+  },
+  {
+    "surface": "leste",
+    "valid": false,
+    "reason": "形容词，非名词"
+  },
+  {
+    "surface": "LA CHAOSMOSE",
+    "valid": true
+  },
+  {
+    "surface": "trois espèces différentes d'enonciation",
+    "valid": true
+  },
+  {
+    "surface": "- les modules",
+    "valid": false,
+    "reason": "含连字符与冠词"
+  },
+  {
+    "surface": "déterminabilité absolue",
+    "valid": true
+  },
+  {
+    "surface": "- les Agencements mixtes",
+    "valid": false,
+    "reason": "含连字符与冠词"
+  },
+  {
+    "surface": "convergente",
+    "valid": false,
+    "reason": "形容词，非名词"
+  },
+  {
+    "surface": "les séries",
+    "valid": false,
+    "reason": "含冠词，非纯名词形式"
+  },
+  {
+    "surface": "des Territoires sensibles",
+    "valid": false,
+    "reason": "含冠词，非纯名词形式"
+  },
+  {
+    "surface": "d*-",
+    "valid": false,
+    "reason": "符号碎片"
+  },
+  {
+    "surface": "tant que terme",
+    "valid": false,
+    "reason": "连词短语，非名词"
+  },
+  {
+    "surface": "cette finitude",
+    "valid": false,
+    "reason": "含指示限定词，非纯名词形式"
+  },
+  {
+    "surface": "finitisation",
+    "valid": true
+  },
+  {
+    "surface": "active",
+    "valid": false,
+    "reason": "形容词/动词，非名词"
+  },
+  {
+    "surface": "particularisé",
+    "valid": false,
+    "reason": "分词/形容词，非名词"
+  },
+  {
+    "surface": "L'enonciation virtuelle",
+    "valid": false,
+    "reason": "含冠词缩合，非纯名词形式"
+  },
+  {
+    "surface": "égrénes",
+    "valid": false,
+    "reason": "动词变位，非名词"
+  },
+  {
+    "surface": "l'enconction monadique",
+    "valid": false,
+    "reason": "含冠词缩合，非纯名词形式"
+  },
+  {
+    "surface": "redire",
+    "valid": false,
+    "reason": "动词不定式，非名词"
+  },
+  {
+    "surface": "ses apprehensions",
+    "valid": false,
+    "reason": "含限定词，非纯名词形式"
+  },
+  {
+    "surface": "objectales actualises draine",
+    "valid": false,
+    "reason": "含形容词与动词，非规范名词短语"
+  },
+  {
+    "surface": "determinations virtuelles",
+    "valid": true
+  },
+  {
+    "surface": "advenant du reste",
+    "valid": false,
+    "reason": "分词短语，非名词"
+  },
+  {
+    "surface": "Le moindre positionnement sériel",
+    "valid": false,
+    "reason": "含冠词与形容词，非纯名词短语"
+  },
+  {
+    "surface": "s'affirmer",
+    "valid": false,
+    "reason": "代词式动词不定式，非名词"
+  },
+  {
+    "surface": "la main",
+    "valid": false,
+    "reason": "含冠词，非纯名词形式"
+  },
+  {
+    "surface": "entier",
+    "valid": false,
+    "reason": "形容词，非名词"
+  },
+  {
+    "surface": "seur",
+    "valid": false,
+    "reason": "碎片/疑似拼写错误"
+  },
+  {
+    "surface": "enciéatif",
+    "valid": false,
+    "reason": "疑似形容词，非名词"
+  },
+  {
+    "surface": "d*n*^n",
+    "valid": false,
+    "reason": "符号碎片"
+  },
+  {
+    "surface": "les choses autrement",
+    "valid": false,
+    "reason": "含冠词与副词，非纯名词短语"
+  },
+  {
+    "surface": "le mélange",
+    "valid": false,
+    "reason": "含冠词，非纯名词形式"
+  },
+  {
+    "surface": "osmotique",
+    "valid": false,
+    "reason": "形容词，非名词"
+  },
+  {
+    "surface": ", des d*n*^n",
+    "valid": false,
+    "reason": "含标点、冠词与符号碎片"
+  },
+  {
+    "surface": "coïncide",
+    "valid": false,
+    "reason": "动词变位，非名词"
+  },
+  {
+    "surface": "aussi bien avec leur totale séparation",
+    "valid": false,
+    "reason": "副词与介词短语，非名词"
+  },
+  {
+    "surface": "l'extraction",
+    "valid": false,
+    "reason": "含冠词缩合，非纯名词形式"
+  },
+  {
+    "surface": "l'ensemble d*n*^n et de l'ensemble des d*n*^n",
+    "valid": false,
+    "reason": "含冠词、连词与符号碎片"
+  },
+  {
+    "surface": "fleur",
+    "valid": true
+  },
+  {
+    "surface": "la sérialité",
+    "valid": false,
+    "reason": "含冠词，非纯名词形式"
+  },
+  {
+    "surface": "conférer",
+    "valid": false,
+    "reason": "动词不定式，非名词"
+  },
+  {
+    "surface": "une plénitude ontologique",
+    "valid": false,
+    "reason": "含冠词，非纯名词形式"
+  },
+  {
+    "surface": "importance",
+    "valid": true
+  },
+  {
+    "surface": "soms",
+    "valid": false,
+    "reason": "碎片/疑似拼写错误"
+  },
+  {
+    "surface": "polarité intensive",
+    "valid": true
+  },
+  {
+    "surface": "de sorte",
+    "valid": false,
+    "reason": "介词短语，非名词"
+  },
+  {
+    "surface": "actuel",
+    "valid": false,
+    "reason": "形容词，非名词"
+  },
+  {
+    "surface": "chaque piract fractal",
+    "valid": false,
+    "reason": "含限定词与疑似拼写错误"
+  },
+  {
+    "surface": "une enoncion virtuelle",
+    "valid": false,
+    "reason": "含冠词，非纯名词形式"
+  },
+  {
+    "surface": "proximité infinitesimale",
+    "valid": true
+  },
+  {
+    "surface": "aux échappé",
+    "valid": false,
+    "reason": "含缩合冠词，非纯名词形式"
+  },
+  {
+    "surface": "la stratification modulaire",
+    "valid": false,
+    "reason": "含冠词，非纯名词形式"
+  },
+  {
+    "surface": "phase fractale",
+    "valid": true
+  },
+  {
+    "surface": "illustrations antérieures",
+    "valid": true
+  },
+  {
+    "surface": "émotion",
+    "valid": true
+  },
+  {
+    "surface": "englringe",
+    "valid": false,
+    "reason": "碎片/疑似拼写错误"
+  },
+  {
+    "surface": "entreige",
+    "valid": false,
+    "reason": "碎片/疑似拼写错误"
+  },
+  {
+    "surface": "- les traits",
+    "valid": false,
+    "reason": "含连字符与冠词"
+  },
+  {
+    "surface": ", de la séquence",
+    "valid": false,
+    "reason": "含标点与介词短语"
+  },
+  {
+    "surface": "passive",
+    "valid": false,
+    "reason": "形容词，非名词"
+  },
+  {
+    "surface": "fig.7a",
+    "valid": false,
+    "reason": "图表编号碎片"
+  },
+  {
+    "surface": "7b",
+    "valid": false,
+    "reason": "纯数字字母碎片"
+  },
+  {
+    "surface": "chap",
+    "valid": false,
+    "reason": "缩写，非完整名词"
+  },
+  {
+    "surface": "importés",
+    "valid": false,
+    "reason": "分词/形容词，非名词"
+  },
+  {
+    "surface": "C¹",
+    "valid": false,
+    "reason": "符号碎片"
+  },
+  {
+    "surface": ", C²",
+    "valid": false,
+    "reason": "含标点与符号碎片"
+  },
+  {
+    "surface": "7, chap",
+    "valid": false,
+    "reason": "数字与缩写碎片"
+  },
+  {
+    "surface": "l'ensemble infini",
+    "valid": false,
+    "reason": "含冠词缩合，非纯名词形式"
+  },
+  {
+    "surface": "traits énonciatifs",
+    "valid": true
+  },
+  {
+    "surface": "susceptibles",
+    "valid": false,
+    "reason": "形容词，非名词"
+  },
+  {
+    "surface": "virtuellement",
+    "valid": false,
+    "reason": "副词，非名词"
+  },
+  {
+    "surface": "brancher",
+    "valid": false,
+    "reason": "动词不定式，非名词"
+  },
+  {
+    "surface": "route",
+    "valid": true
+  },
+  {
+    "surface": "clique",
+    "valid": true
+  },
+  {
+    "surface": "clôture",
+    "valid": true
+  },
+  {
+    "surface": "segmente",
+    "valid": false,
+    "reason": "动词变位，非名词"
+  },
+  {
+    "surface": "strie",
+    "valid": true
+  },
+  {
+    "surface": "d'*t*⁺",
+    "valid": false,
+    "reason": "符号碎片"
+  },
+  {
+    "surface": "l'apepe",
+    "valid": false,
+    "reason": "含冠词缩合，非纯名词形式"
+  },
+  {
+    "surface": "la déterminabilité modulaire",
+    "valid": false,
+    "reason": "含冠词，非纯名词形式"
+  },
+  {
+    "surface": "intrinséquence",
+    "valid": true
+  },
+  {
+    "surface": "finie",
+    "valid": false,
+    "reason": "形容词/分词，非名词"
+  },
+  {
+    "surface": "de fonction",
+    "valid": false,
+    "reason": "介词短语，非名词"
+  },
+  {
+    "surface": "positionnante",
+    "valid": false,
+    "reason": "形容词/分词，非名词"
+  },
+  {
+    "surface": "séparationnelle",
+    "valid": false,
+    "reason": "形容词，非名词"
+  },
+  {
+    "surface": "Tel un aérosol",
+    "valid": false,
+    "reason": "含形容词与冠词，非纯名词短语"
+  },
+  {
+    "surface": "l'des suspension",
+    "valid": false,
+    "reason": "含冠词缩合与异常结构"
+  },
+  {
+    "surface": "Consistance *",
+    "valid": false,
+    "reason": "含星号标记"
+  },
+  {
+    "surface": "chaosique",
+    "valid": false,
+    "reason": "形容词，非名词"
+  },
+  {
+    "surface": "paradoxal",
+    "valid": false,
+    "reason": "形容词，非名词"
+  },
+  {
+    "surface": "des redondancies primitives",
+    "valid": false,
+    "reason": "含冠词，非纯名词形式"
+  },
+  {
+    "surface": "(l'ensemble",
+    "valid": false,
+    "reason": "含括号与冠词缩合"
+  },
+  {
+    "surface": "virtualités negent",
+    "valid": true
+  },
+  {
+    "surface": "les tensions",
+    "valid": false,
+    "reason": "含冠词，非纯名词形式"
+  }
+]

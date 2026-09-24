@@ -1,0 +1,360 @@
+{
+  "experiment": "s0-spaCy评估",
+  "timestamp": "2026-09-22T07:38:30.664Z",
+  "source": "docuverse_cartographies_squizoanalythiques_Fe_lix_Guattari_1789114122714.docuverse.json",
+  "stats": {
+    "totalChunks": 1447,
+    "totalChars": 579363,
+    "failedChunks": 0,
+    "extractedNouns": 45406,
+    "posDistribution": {
+      "NOUN": 22505,
+      "NP": 20935,
+      "PROPN": 1966
+    },
+    "tagDistribution": {
+      "NOUN": 22505,
+      "NP": 20935,
+      "PROPN": 1966
+    },
+    "lengthDistribution": {
+      "1-3": 1742,
+      "4-6": 11075,
+      "7-10": 16373,
+      "11+": 16216
+    }
+  },
+  "coverage": {
+    "hitChars": 306353,
+    "coverage": 52.88,
+    "residualCount": 8625,
+    "residualChars": 198488,
+    "residualRatio": "34.26"
+  },
+  "samples": {
+    "nouns": [
+      {
+        "surface": "Cartographies",
+        "pos": "NOUN",
+        "tag": "NOUN",
+        "length": 13
+      },
+      {
+        "surface": "Cartographies schizoanalytiques",
+        "pos": "NP",
+        "tag": "NP",
+        "length": 31
+      },
+      {
+        "surface": "Felix",
+        "pos": "PROPN",
+        "tag": "PROPN",
+        "length": 5
+      },
+      {
+        "surface": "Guattari",
+        "pos": "PROPN",
+        "tag": "PROPN",
+        "length": 8
+      },
+      {
+        "surface": "Felix Guattari",
+        "pos": "NP",
+        "tag": "NP",
+        "length": 14
+      },
+      {
+        "surface": "pensée",
+        "pos": "NOUN",
+        "tag": "NOUN",
+        "length": 6
+      },
+      {
+        "surface": "ame",
+        "pos": "NOUN",
+        "tag": "NOUN",
+        "length": 3
+      },
+      {
+        "surface": "matière",
+        "pos": "NOUN",
+        "tag": "NOUN",
+        "length": 7
+      },
+      {
+        "surface": "essence",
+        "pos": "NOUN",
+        "tag": "NOUN",
+        "length": 7
+      },
+      {
+        "surface": "sujet",
+        "pos": "NOUN",
+        "tag": "NOUN",
+        "length": 5
+      },
+      {
+        "surface": "distance",
+        "pos": "NOUN",
+        "tag": "NOUN",
+        "length": 8
+      },
+      {
+        "surface": "cœur",
+        "pos": "NOUN",
+        "tag": "NOUN",
+        "length": 4
+      },
+      {
+        "surface": "marxistes",
+        "pos": "NOUN",
+        "tag": "NOUN",
+        "length": 9
+      },
+      {
+        "surface": "superstructures",
+        "pos": "NOUN",
+        "tag": "NOUN",
+        "length": 15
+      },
+      {
+        "surface": "raptures",
+        "pos": "NOUN",
+        "tag": "NOUN",
+        "length": 8
+      },
+      {
+        "surface": "production",
+        "pos": "NOUN",
+        "tag": "NOUN",
+        "length": 10
+      },
+      {
+        "surface": "production",
+        "pos": "NOUN",
+        "tag": "NOUN",
+        "length": 10
+      },
+      {
+        "surface": "subjectivité",
+        "pos": "NOUN",
+        "tag": "NOUN",
+        "length": 12
+      },
+      {
+        "surface": "constat",
+        "pos": "NOUN",
+        "tag": "NOUN",
+        "length": 7
+      },
+      {
+        "surface": "contenus",
+        "pos": "NOUN",
+        "tag": "NOUN",
+        "length": 8
+      },
+      {
+        "surface": "subjectivité",
+        "pos": "NOUN",
+        "tag": "NOUN",
+        "length": 12
+      },
+      {
+        "surface": "multitude",
+        "pos": "NOUN",
+        "tag": "NOUN",
+        "length": 9
+      },
+      {
+        "surface": "systèmes",
+        "pos": "NOUN",
+        "tag": "NOUN",
+        "length": 8
+      },
+      {
+        "surface": "domaine",
+        "pos": "NOUN",
+        "tag": "NOUN",
+        "length": 7
+      },
+      {
+        "surface": "opinion",
+        "pos": "NOUN",
+        "tag": "NOUN",
+        "length": 7
+      },
+      {
+        "surface": "pensée",
+        "pos": "NOUN",
+        "tag": "NOUN",
+        "length": 6
+      },
+      {
+        "surface": "image",
+        "pos": "NOUN",
+        "tag": "NOUN",
+        "length": 5
+      },
+      {
+        "surface": "affects",
+        "pos": "NOUN",
+        "tag": "NOUN",
+        "length": 7
+      },
+      {
+        "surface": "narrativité",
+        "pos": "NOUN",
+        "tag": "NOUN",
+        "length": 11
+      },
+      {
+        "surface": "emprise",
+        "pos": "NOUN",
+        "tag": "NOUN",
+        "length": 7
+      },
+      {
+        "surface": "assistance",
+        "pos": "NOUN",
+        "tag": "NOUN",
+        "length": 10
+      },
+      {
+        "surface": "ordinateur",
+        "pos": "NOUN",
+        "tag": "NOUN",
+        "length": 10
+      },
+      {
+        "surface": "banques",
+        "pos": "NOUN",
+        "tag": "NOUN",
+        "length": 7
+      },
+      {
+        "surface": "données",
+        "pos": "NOUN",
+        "tag": "NOUN",
+        "length": 7
+      },
+      {
+        "surface": "telématique",
+        "pos": "NOUN",
+        "tag": "NOUN",
+        "length": 11
+      },
+      {
+        "surface": "sousjet",
+        "pos": "NOUN",
+        "tag": "NOUN",
+        "length": 7
+      },
+      {
+        "surface": "sujet",
+        "pos": "NOUN",
+        "tag": "NOUN",
+        "length": 5
+      },
+      {
+        "surface": "fame",
+        "pos": "NOUN",
+        "tag": "NOUN",
+        "length": 4
+      },
+      {
+        "surface": "essence",
+        "pos": "NOUN",
+        "tag": "NOUN",
+        "length": 7
+      },
+      {
+        "surface": "philosophie",
+        "pos": "NOUN",
+        "tag": "NOUN",
+        "length": 11
+      },
+      {
+        "surface": "siècles",
+        "pos": "NOUN",
+        "tag": "NOUN",
+        "length": 7
+      },
+      {
+        "surface": "dépendance",
+        "pos": "NOUN",
+        "tag": "NOUN",
+        "length": 10
+      },
+      {
+        "surface": "subjectivité",
+        "pos": "NOUN",
+        "tag": "NOUN",
+        "length": 12
+      },
+      {
+        "surface": "mélange",
+        "pos": "NOUN",
+        "tag": "NOUN",
+        "length": 7
+      },
+      {
+        "surface": "enrichissement",
+        "pos": "NOUN",
+        "tag": "NOUN",
+        "length": 14
+      },
+      {
+        "surface": "approuvissement",
+        "pos": "NOUN",
+        "tag": "NOUN",
+        "length": 15
+      },
+      {
+        "surface": "présent",
+        "pos": "NOUN",
+        "tag": "NOUN",
+        "length": 7
+      },
+      {
+        "surface": "apparente",
+        "pos": "NOUN",
+        "tag": "NOUN",
+        "length": 9
+      },
+      {
+        "surface": "démocratisation",
+        "pos": "NOUN",
+        "tag": "NOUN",
+        "length": 15
+      },
+      {
+        "surface": "accession",
+        "pos": "NOUN",
+        "tag": "NOUN",
+        "length": 9
+      }
+    ],
+    "residuals": [
+      "tenait",
+      "éloignée de",
+      "des rouages corporels. De",
+      "opposaient",
+      ". Comment peut-on parler aujourd'hui de",
+      "nous conduit à reconnaître que",
+      "dépendent toujours plus d'",
+      ", ne peut desmorais prérenter échapper à",
+      ", etc. Dès lors, on en vient même à de demander si la",
+      ", après laquelle",
+      "court depuis",
+      "— ne tres pleuve pas elle-même menace par",
+      "machine-",
+      ". On sait",
+      "qui en est résulté jusqu'",
+      ", associée à",
+      "anthropologiques,",
+      ", paradoxalement contemporains d'",
+      "-scientiques et esthétiques se déployant dans",
+      ". Mais plutôt que de s'associer aux"
+    ]
+  }
+}

@@ -1,0 +1,903 @@
+[
+  {
+    "surface": "de rituels",
+    "valid": true
+  },
+  {
+    "surface": "délimitation sociale",
+    "valid": true
+  },
+  {
+    "surface": "encore de compositions visageiates",
+    "valid": false,
+    "reason": "包含副词encore和介词de，且visageiates拼写异常，整体非规范名词短语"
+  },
+  {
+    "surface": "d`objs",
+    "valid": false,
+    "reason": "撇号异常且objs为缩写/碎片，非规范名词"
+  },
+  {
+    "surface": "la psyche",
+    "valid": true
+  },
+  {
+    "surface": "toutes les procédures possibles",
+    "valid": true
+  },
+  {
+    "surface": "processualisation",
+    "valid": true
+  },
+  {
+    "surface": "de recomposition",
+    "valid": true
+  },
+  {
+    "surface": "cette fonction tierra de la discursivité",
+    "valid": false,
+    "reason": "包含指示代词cette及介词de，且tierra混入，整体非规范名词短语"
+  },
+  {
+    "surface": "des modalités",
+    "valid": true
+  },
+  {
+    "surface": "subjection individuelle et/ou collectives",
+    "valid": true
+  },
+  {
+    "surface": "dominantes",
+    "valid": true
+  },
+  {
+    "surface": "leur médiation",
+    "valid": true
+  },
+  {
+    "surface": "son propre sort",
+    "valid": true
+  },
+  {
+    "surface": ", 1929?-1933 Huile",
+    "valid": false,
+    "reason": "标点、数字与年份碎片，非名词"
+  },
+  {
+    "surface": "160 cm",
+    "valid": false,
+    "reason": "纯数字与单位，非名词"
+  },
+  {
+    "surface": "Collection privée",
+    "valid": true
+  },
+  {
+    "surface": ", 1933 Huile",
+    "valid": false,
+    "reason": "标点、数字与年份碎片，非名词"
+  },
+  {
+    "surface": ", 195 x",
+    "valid": false,
+    "reason": "标点与数字碎片，非名词"
+  },
+  {
+    "surface": "240 cm",
+    "valid": false,
+    "reason": "纯数字与单位，非名词"
+  },
+  {
+    "surface": "Collection",
+    "valid": true
+  },
+  {
+    "surface": "Museum",
+    "valid": true
+  },
+  {
+    "surface": "of Modern Art",
+    "valid": true
+  },
+  {
+    "surface": "un terrain privilégie",
+    "valid": true
+  },
+  {
+    "surface": "cette fractalisation processuelle",
+    "valid": true
+  },
+  {
+    "surface": "subjectivités",
+    "valid": true
+  },
+  {
+    "surface": "des bruis",
+    "valid": true
+  },
+  {
+    "surface": "l'action conjointe",
+    "valid": true
+  },
+  {
+    "surface": "machines instrumentales",
+    "valid": true
+  },
+  {
+    "surface": "machines scripturales",
+    "valid": true
+  },
+  {
+    "surface": "de l'avенement",
+    "valid": false,
+    "reason": "包含西里尔字母混入，拼写异常"
+  },
+  {
+    "surface": "école collective",
+    "valid": true
+  },
+  {
+    "surface": "son aoret",
+    "valid": false,
+    "reason": "aoret拼写异常/碎片，非规范名词"
+  },
+  {
+    "surface": "Huile",
+    "valid": true
+  },
+  {
+    "surface": "330 cm",
+    "valid": false,
+    "reason": "纯数字与单位，非名词"
+  },
+  {
+    "surface": "brèches fractales",
+    "valid": true
+  },
+  {
+    "surface": "sa processualité moderne",
+    "valid": true
+  },
+  {
+    "surface": "le détail",
+    "valid": true
+  },
+  {
+    "surface": "musiques modales",
+    "valid": true
+  },
+  {
+    "surface": "musique tonale",
+    "valid": true
+  },
+  {
+    "surface": "intervalles égaux",
+    "valid": true
+  },
+  {
+    "surface": "harmonies naturelles",
+    "valid": true
+  },
+  {
+    "surface": "la transgression",
+    "valid": true
+  },
+  {
+    "surface": "le triton",
+    "valid": true
+  },
+  {
+    "surface": "dénomment intervale",
+    "valid": false,
+    "reason": "dénomment为动词变位，intervale拼写异常，整体非规范名词短语"
+  },
+  {
+    "surface": "l'octave",
+    "valid": true
+  },
+  {
+    "surface": "deux parts égales",
+    "valid": true
+  },
+  {
+    "surface": "l'égalisation",
+    "valid": true
+  },
+  {
+    "surface": "l'aboutissement dodecaphoniste et atonaliste",
+    "valid": true
+  },
+  {
+    "surface": "la matière sonore",
+    "valid": true
+  },
+  {
+    "surface": "petites différences",
+    "valid": true
+  },
+  {
+    "surface": "une fractalisation moleculaire",
+    "valid": true
+  },
+  {
+    "surface": "entités musicales",
+    "valid": true
+  },
+  {
+    "surface": ", le retour",
+    "valid": false,
+    "reason": "以标点开头，碎片化，非规范名词短语"
+  },
+  {
+    "surface": ", de rythmes",
+    "valid": false,
+    "reason": "以标点开头，碎片化，非规范名词短语"
+  },
+  {
+    "surface": "de bruits",
+    "valid": true
+  },
+  {
+    "surface": "matières",
+    "valid": true
+  },
+  {
+    "surface": "expression fractales",
+    "valid": true
+  },
+  {
+    "surface": "des discursiveus musicales et platiques",
+    "valid": false,
+    "reason": "discursiveus、platiques拼写异常，非规范名词短语"
+  },
+  {
+    "surface": ", les mêmes opérateurs",
+    "valid": false,
+    "reason": "以标点开头，碎片化，非规范名词短语"
+  },
+  {
+    "surface": "les développements",
+    "valid": true
+  },
+  {
+    "surface": "petite phrase",
+    "valid": true
+  },
+  {
+    "surface": "Vintéui",
+    "valid": false,
+    "reason": "拼写异常/碎片，非规范名词"
+  },
+  {
+    "surface": "semblables opérateurs",
+    "valid": true
+  },
+  {
+    "surface": "compute",
+    "valid": false,
+    "reason": "英语动词/碎片，非法语名词"
+  },
+  {
+    "surface": "l'existence paradoxale",
+    "valid": true
+  },
+  {
+    "surface": "ces machines",
+    "valid": true
+  },
+  {
+    "surface": "chiasme",
+    "valid": true
+  },
+  {
+    "surface": "le silhou",
+    "valid": false,
+    "reason": "silhou拼写异常/碎片，非规范名词"
+  },
+  {
+    "surface": "toute leur vanité",
+    "valid": true
+  },
+  {
+    "surface": "une œuvre",
+    "valid": true
+  },
+  {
+    "surface": "la lumière exclusive",
+    "valid": true
+  },
+  {
+    "surface": "complexes infantiles",
+    "valid": true
+  },
+  {
+    "surface": "leur autor",
+    "valid": false,
+    "reason": "autor拼写异常/碎片，非规范名词"
+  },
+  {
+    "surface": "de ses »",
+    "valid": false,
+    "reason": "包含介词、代词与标点碎片，非名词"
+  },
+  {
+    "surface": "fixations",
+    "valid": true
+  },
+  {
+    "surface": "certaines stases",
+    "valid": true
+  },
+  {
+    "surface": "amène",
+    "valid": false,
+    "reason": "动词变位，非名词"
+  },
+  {
+    "surface": ", à un dernier retour",
+    "valid": false,
+    "reason": "以标点开头，碎片化，非规范名词短语"
+  },
+  {
+    "surface": "l'énoncé initiateur",
+    "valid": true
+  },
+  {
+    "surface": "Cracks in the text of the State • cracks dans l'etat des choses, l'etat des lieux, l'etat des normes.",
+    "valid": false,
+    "reason": "混合英语、标点与句子碎片，非规范名词短语"
+  },
+  {
+    "surface": "Cracks",
+    "valid": true
+  },
+  {
+    "surface": "devers",
+    "valid": false,
+    "reason": "介词de与vers合并/碎片，非规范名词"
+  },
+  {
+    "surface": "de nouvelles pratiques sociales",
+    "valid": true
+  },
+  {
+    "surface": "à de nouvelles pratiques",
+    "valid": true
+  },
+  {
+    "surface": "compliqué",
+    "valid": false,
+    "reason": "形容词，非名词"
+  },
+  {
+    "surface": "la rude école",
+    "valid": true
+  },
+  {
+    "surface": "neo-positivisme",
+    "valid": true
+  },
+  {
+    "surface": "de l'empirisme",
+    "valid": true
+  },
+  {
+    "surface": "s'rapugnance",
+    "valid": false,
+    "reason": "拼写异常/碎片，非规范名词"
+  },
+  {
+    "surface": "qualifiées",
+    "valid": false,
+    "reason": "形容词/分词，非名词"
+  },
+  {
+    "surface": "abstraits",
+    "valid": false,
+    "reason": "形容词，非名词"
+  },
+  {
+    "surface": ", de deterritorialisations",
+    "valid": false,
+    "reason": "以标点开头，碎片化，非规范名词短语"
+  },
+  {
+    "surface": "d'incorporelles",
+    "valid": false,
+    "reason": "形容词/碎片，非名词"
+  },
+  {
+    "surface": "etayer",
+    "valid": false,
+    "reason": "动词，非名词"
+  },
+  {
+    "surface": "une fonction existientielle",
+    "valid": true
+  },
+  {
+    "surface": "ma démarche",
+    "valid": true
+  },
+  {
+    "surface": "la technologie",
+    "valid": true
+  },
+  {
+    "surface": "placerai",
+    "valid": false,
+    "reason": "动词变位，非名词"
+  },
+  {
+    "surface": "leur terrain",
+    "valid": true
+  },
+  {
+    "surface": "lire",
+    "valid": false,
+    "reason": "动词，非名词"
+  },
+  {
+    "surface": "aucune tentative",
+    "valid": true
+  },
+  {
+    "surface": "modifiation",
+    "valid": false,
+    "reason": "拼写异常/碎片，非规范名词"
+  },
+  {
+    "surface": "de cartographie",
+    "valid": true
+  },
+  {
+    "surface": "faits subjectifs",
+    "valid": true
+  },
+  {
+    "surface": "beaucoup le domaine",
+    "valid": false,
+    "reason": "包含副词beaucoup，结构异常，非规范名词短语"
+  },
+  {
+    "surface": "des Beau-Arts",
+    "valid": true
+  },
+  {
+    "surface": "aménages",
+    "valid": false,
+    "reason": "拼写异常/分词，非规范名词"
+  },
+  {
+    "surface": "*Liminaire* ...",
+    "valid": false,
+    "reason": "包含星号与省略号碎片，非规范名词"
+  },
+  {
+    "surface": "9 L'âge",
+    "valid": false,
+    "reason": "包含数字与冠词碎片，非规范名词短语"
+  },
+  {
+    "surface": "... 16 L'âge",
+    "valid": false,
+    "reason": "包含省略号与数字碎片，非规范名词短语"
+  },
+  {
+    "surface": "la daterritorialisation",
+    "valid": true
+  },
+  {
+    "surface": "capitalistique",
+    "valid": false,
+    "reason": "形容词，非名词"
+  },
+  {
+    "surface": "la l'informatique planétaire",
+    "valid": false,
+    "reason": "冠词重复，结构异常"
+  },
+  {
+    "surface": "27 Les Agencements",
+    "valid": false,
+    "reason": "包含数字碎片，非规范名词短语"
+  },
+  {
+    "surface": "27 Conscience",
+    "valid": false,
+    "reason": "包含数字碎片，非规范名词短语"
+  },
+  {
+    "surface": "34 Les foncteurs",
+    "valid": false,
+    "reason": "包含数字碎片，非规范名词短语"
+  },
+  {
+    "surface": "daterritorialisation",
+    "valid": true
+  },
+  {
+    "surface": "42 Les cartographies",
+    "valid": false,
+    "reason": "包含数字碎片，非规范名词短语"
+  },
+  {
+    "surface": "l'pre post-média",
+    "valid": false,
+    "reason": "拼写异常/碎片，非规范名词短语"
+  },
+  {
+    "surface": "schizoanalytiques",
+    "valid": false,
+    "reason": "形容词，非名词"
+  },
+  {
+    "surface": "Les énergetiques sémiotiques",
+    "valid": true
+  },
+  {
+    "surface": "67 Le surmoi",
+    "valid": false,
+    "reason": "包含数字碎片，非规范名词短语"
+  },
+  {
+    "surface": "L'energetique",
+    "valid": true
+  },
+  {
+    "surface": "schizoanalytique",
+    "valid": false,
+    "reason": "形容词，非名词"
+  },
+  {
+    "surface": "76 La cartographie",
+    "valid": false,
+    "reason": "包含数字碎片，非规范名词短语"
+  },
+  {
+    "surface": "81 Les trois contraintes",
+    "valid": false,
+    "reason": "包含数字碎片，非规范名词短语"
+  },
+  {
+    "surface": "modele",
+    "valid": true
+  },
+  {
+    "surface": "domains",
+    "valid": false,
+    "reason": "英语拼写/碎片，非法语名词"
+  },
+  {
+    "surface": "... 82 Structures",
+    "valid": false,
+    "reason": "包含省略号与数字碎片，非规范名词短语"
+  },
+  {
+    "surface": "Table",
+    "valid": true
+  },
+  {
+    "surface": "ter",
+    "valid": false,
+    "reason": "单音节碎片，非规范名词"
+  },
+  {
+    "surface": "taire",
+    "valid": false,
+    "reason": "动词，非名词"
+  },
+  {
+    "surface": "Agencements*",
+    "valid": false,
+    "reason": "包含星号碎片，非规范名词"
+  },
+  {
+    "surface": "93 Préambule",
+    "valid": false,
+    "reason": "包含数字碎片，非规范名词短语"
+  },
+  {
+    "surface": "94 Φ.",
+    "valid": false,
+    "reason": "数字与符号碎片，非名词"
+  },
+  {
+    "surface": "96 Φ.",
+    "valid": false,
+    "reason": "数字与符号碎片，非名词"
+  },
+  {
+    "surface": "97 Diachronie",
+    "valid": false,
+    "reason": "包含数字碎片，非规范名词短语"
+  },
+  {
+    "surface": "SYNCHRONIE",
+    "valid": true
+  },
+  {
+    "surface": "98 Flux",
+    "valid": false,
+    "reason": "包含数字碎片，非规范名词短语"
+  },
+  {
+    "surface": "100 Les Agencements",
+    "valid": false,
+    "reason": "包含数字碎片，非规范名词短语"
+  },
+  {
+    "surface": "103 Description",
+    "valid": false,
+    "reason": "包含数字碎片，非规范名词短语"
+  },
+  {
+    "surface": "quatre premières phases",
+    "valid": true
+  },
+  {
+    "surface": "enoncion",
+    "valid": false,
+    "reason": "拼写异常/碎片，非规范名词"
+  },
+  {
+    "surface": "la pro-position",
+    "valid": true
+  },
+  {
+    "surface": "rhizomatique",
+    "valid": false,
+    "reason": "形容词，非名词"
+  },
+  {
+    "surface": "133 Le plan",
+    "valid": false,
+    "reason": "包含数字碎片，非规范名词短语"
+  },
+  {
+    "surface": "133 Le croisement",
+    "valid": false,
+    "reason": "包含数字碎片，非规范名词短语"
+  },
+  {
+    "surface": "des dimensions entitaires",
+    "valid": true
+  },
+  {
+    "surface": "135 Les cribles",
+    "valid": false,
+    "reason": "包含数字碎片，非规范名词短语"
+  },
+  {
+    "surface": "... 142 Lissages",
+    "valid": false,
+    "reason": "包含省略号与数字碎片，非规范名词短语"
+  },
+  {
+    "surface": "Flux*",
+    "valid": false,
+    "reason": "包含星号碎片，非规范名词"
+  },
+  {
+    "surface": "149 Le lissage sensible ou sub-position",
+    "valid": false,
+    "reason": "包含数字碎片，非规范名词短语"
+  },
+  {
+    "surface": "Phylum*",
+    "valid": false,
+    "reason": "包含星号碎片，非规范名词"
+  },
+  {
+    "surface": "161 Le lissage",
+    "valid": false,
+    "reason": "包含数字碎片，非规范名词短语"
+  },
+  {
+    "surface": "grammatique",
+    "valid": false,
+    "reason": "形容词，非名词"
+  },
+  {
+    "surface": "176 Les ritournelles existentielles",
+    "valid": false,
+    "reason": "包含数字碎片，非规范名词短语"
+  },
+  {
+    "surface": "181 Le striage",
+    "valid": false,
+    "reason": "包含数字碎片，非规范名词短语"
+  },
+  {
+    "surface": "Univers*",
+    "valid": false,
+    "reason": "包含星号碎片，非规范名词"
+  },
+  {
+    "surface": "194 Le striage",
+    "valid": false,
+    "reason": "包含数字碎片，非规范名词短语"
+  },
+  {
+    "surface": "position synaptique",
+    "valid": true
+  },
+  {
+    "surface": "La récursion enonciative",
+    "valid": true
+  },
+  {
+    "surface": "208 Les quatre causalités recursives",
+    "valid": false,
+    "reason": "包含数字碎片，非规范名词短语"
+  },
+  {
+    "surface": "210 Les temporaliés intermédiaires",
+    "valid": false,
+    "reason": "包含数字碎片，非规范名词短语"
+  },
+  {
+    "surface": "enonciative",
+    "valid": false,
+    "reason": "形容词，非名词"
+  },
+  {
+    "surface": "heterogenne",
+    "valid": false,
+    "reason": "拼写异常/形容词，非规范名词"
+  },
+  {
+    "surface": "227 La singularisation",
+    "valid": false,
+    "reason": "包含数字碎片，非规范名词短语"
+  },
+  {
+    "surface": "l'irréversibilisation",
+    "valid": true
+  },
+  {
+    "surface": "235 **Ritournelles",
+    "valid": false,
+    "reason": "包含数字与星号碎片，非规范名词短语"
+  },
+  {
+    "surface": "251 **Genet",
+    "valid": false,
+    "reason": "包含数字与星号碎片，非规范名词短语"
+  },
+  {
+    "surface": "retrouvé",
+    "valid": false,
+    "reason": "分词/形容词，非名词"
+  },
+  {
+    "surface": "Les ritournelles éthico-esthétiques dans le théâtre de Witkiewicz**",
+    "valid": false,
+    "reason": "包含星号碎片，非规范名词短语"
+  },
+  {
+    "surface": "machine visagéitaire",
+    "valid": true
+  },
+  {
+    "surface": "Keiichi Tahara**",
+    "valid": false,
+    "reason": "包含星号碎片，非规范专有名词"
+  },
+  {
+    "surface": "311 «",
+    "valid": false,
+    "reason": "数字与标点碎片，非名词"
+  },
+  {
+    "surface": "319 **Table",
+    "valid": false,
+    "reason": "包含数字与星号碎片，非规范名词短语"
+  },
+  {
+    "surface": "figures*",
+    "valid": false,
+    "reason": "包含星号碎片，非规范名词"
+  },
+  {
+    "surface": "relative",
+    "valid": false,
+    "reason": "形容词，非名词"
+  },
+  {
+    "surface": "Feuilletagte",
+    "valid": false,
+    "reason": "拼写异常/碎片，非规范名词"
+  },
+  {
+    "surface": "quantification intensive",
+    "valid": true
+  },
+  {
+    "surface": "les trois niveaux",
+    "valid": true
+  },
+  {
+    "surface": "profondes",
+    "valid": false,
+    "reason": "形容词，非名词"
+  },
+  {
+    "surface": "Réal",
+    "valid": false,
+    "reason": "拼写异常/碎片，非规范名词"
+  },
+  {
+    "surface": "une déterritorialisation expressive",
+    "valid": true
+  },
+  {
+    "surface": "Coalescence sérielle et hétériogenèse des Flux",
+    "valid": true
+  },
+  {
+    "surface": "de P",
+    "valid": false,
+    "reason": "介词与单字母碎片，非名词"
+  },
+  {
+    "surface": "résidu",
+    "valid": true
+  },
+  {
+    "surface": "désignation",
+    "valid": true
+  },
+  {
+    "surface": "Ritournelle diagrammatique et tenseurs",
+    "valid": true
+  },
+  {
+    "surface": "L'énociation virtuelle",
+    "valid": true
+  },
+  {
+    "surface": "Les symétries",
+    "valid": true
+  },
+  {
+    "surface": "Le trétauddre",
+    "valid": false,
+    "reason": "拼写异常/碎片，非规范名词"
+  },
+  {
+    "surface": "chronique",
+    "valid": true
+  },
+  {
+    "surface": "236 **Ritournelles",
+    "valid": false,
+    "reason": "包含数字与星号碎片，非规范名词短语"
+  },
+  {
+    "surface": "Triangle sémiotique et triangle énonciatif ... 258 Graphiques, par Brigitte LOUDIEU",
+    "valid": false,
+    "reason": "包含省略号、数字与句子碎片，非规范名词短语"
+  },
+  {
+    "surface": "LA MÈME",
+    "valid": false,
+    "reason": "限定词/代词短语，非名词"
+  },
+  {
+    "surface": "PEREC",
+    "valid": true
+  },
+  {
+    "surface": "JEAN-MICHEL PALMIER Berliner",
+    "valid": true
+  },
+  {
+    "surface": "Requiem",
+    "valid": true
+  },
+  {
+    "surface": "Jacques",
+    "valid": true
+  }
+]

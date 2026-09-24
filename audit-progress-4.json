@@ -1,0 +1,861 @@
+[
+  {
+    "surface": "particulier les cultures",
+    "valid": false,
+    "reason": "包含冠词和名词的片段，非单一实词"
+  },
+  {
+    "surface": "les territorialisées",
+    "valid": false,
+    "reason": "冠词+形容词/分词，非名词短语"
+  },
+  {
+    "surface": "tant bien que mal",
+    "valid": false,
+    "reason": "副词短语"
+  },
+  {
+    "surface": "rouleaux compresseurs",
+    "valid": true
+  },
+  {
+    "surface": "christianisme",
+    "valid": true
+  },
+  {
+    "surface": "Les principaux facteurs",
+    "valid": true
+  },
+  {
+    "surface": "consistance",
+    "valid": true
+  },
+  {
+    "surface": "cette composante",
+    "valid": true
+  },
+  {
+    "surface": "premières machines",
+    "valid": true
+  },
+  {
+    "surface": "une intégration subjective",
+    "valid": true
+  },
+  {
+    "surface": "- les horloges",
+    "valid": false,
+    "reason": "含标点和冠词，非规范名词短语"
+  },
+  {
+    "surface": "toute la chrétienté",
+    "valid": true
+  },
+  {
+    "surface": ", les mêmes heures",
+    "valid": false,
+    "reason": "含标点和冠词，非规范名词短语"
+  },
+  {
+    "surface": "- l'invention",
+    "valid": false,
+    "reason": "含标点和冠词"
+  },
+  {
+    "surface": "étapes",
+    "valid": true
+  },
+  {
+    "surface": ", de musiques religieuses",
+    "valid": false,
+    "reason": "含标点和介词"
+  },
+  {
+    "surface": "un support scriptural",
+    "valid": true
+  },
+  {
+    "surface": "les selections",
+    "valid": true
+  },
+  {
+    "surface": "espaces animales et végétales",
+    "valid": true
+  },
+  {
+    "surface": "l'essor quantitatif",
+    "valid": true
+  },
+  {
+    "surface": "paramètres demographiques et économiques",
+    "valid": true
+  },
+  {
+    "surface": "conséquent",
+    "valid": false,
+    "reason": "形容词"
+  },
+  {
+    "surface": "redimensionnement",
+    "valid": true
+  },
+  {
+    "surface": "question",
+    "valid": true
+  },
+  {
+    "surface": "dépit",
+    "valid": true
+  },
+  {
+    "surface": "à cause",
+    "valid": false,
+    "reason": "介词短语"
+  },
+  {
+    "surface": ", des colossales",
+    "valid": false,
+    "reason": "含标点、冠词和形容词"
+  },
+  {
+    "surface": "pressions",
+    "valid": true
+  },
+  {
+    "surface": "refoulement",
+    "valid": true
+  },
+  {
+    "surface": "aussi d'acculturations",
+    "valid": false,
+    "reason": "含副词和介词"
+  },
+  {
+    "surface": "- exercées",
+    "valid": false,
+    "reason": "含标点，且为分词"
+  },
+  {
+    "surface": "un côté",
+    "valid": true
+  },
+  {
+    "surface": "l'Empire byzanit",
+    "valid": true
+  },
+  {
+    "surface": "l'imperialité arabe",
+    "valid": true
+  },
+  {
+    "surface": "d'un autre",
+    "valid": false,
+    "reason": "介词+代词/限定词，非名词"
+  },
+  {
+    "surface": "les puissances barbaires",
+    "valid": true
+  },
+  {
+    "surface": "nomades",
+    "valid": true
+  },
+  {
+    "surface": "particulier d'innovations metallurgiques",
+    "valid": false,
+    "reason": "形容词+介词短语，非规范名词短语"
+  },
+  {
+    "surface": "- be boulon",
+    "valid": false,
+    "reason": "含标点且疑似拼写错误/碎片"
+  },
+  {
+    "surface": "culture",
+    "valid": true
+  },
+  {
+    "surface": "la chrétienne proto-capitalistique",
+    "valid": true
+  },
+  {
+    "surface": "une stabilisation relative",
+    "valid": true
+  },
+  {
+    "surface": "de longue durée",
+    "valid": false,
+    "reason": "介词短语"
+  },
+  {
+    "surface": "ses trois pôles fondamentaux",
+    "valid": true
+  },
+  {
+    "surface": "subjection aristocratique",
+    "valid": true
+  },
+  {
+    "surface": "paysans",
+    "valid": true
+  },
+  {
+    "surface": "les relations",
+    "valid": true
+  },
+  {
+    "surface": "Ainsi, les «",
+    "valid": false,
+    "reason": "含副词、标点和冠词碎片"
+  },
+  {
+    "surface": "développement urbain",
+    "valid": true
+  },
+  {
+    "surface": "à l'essor",
+    "valid": false,
+    "reason": "介词短语"
+  },
+  {
+    "surface": "technologies civiles et militaires",
+    "valid": true
+  },
+  {
+    "surface": "fois",
+    "valid": true
+  },
+  {
+    "surface": "Cette sorte",
+    "valid": true
+  },
+  {
+    "surface": "état",
+    "valid": true
+  },
+  {
+    "surface": "nature",
+    "valid": true
+  },
+  {
+    "surface": "l'outil",
+    "valid": true
+  },
+  {
+    "surface": "les paradigmes",
+    "valid": true
+  },
+  {
+    "surface": "type *",
+    "valid": false,
+    "reason": "含符号碎片"
+  },
+  {
+    "surface": "Travail",
+    "valid": true
+  },
+  {
+    "surface": ", Famille",
+    "valid": false,
+    "reason": "含标点碎片"
+  },
+  {
+    "surface": ", Patrie*.",
+    "valid": false,
+    "reason": "含标点和符号碎片"
+  },
+  {
+    "surface": "une pénétration générale",
+    "valid": true
+  },
+  {
+    "surface": "texte",
+    "valid": true
+  },
+  {
+    "surface": "l'ensemble",
+    "valid": true
+  },
+  {
+    "surface": "rouages",
+    "valid": true
+  },
+  {
+    "surface": "la vie sociale et culturelle",
+    "valid": true
+  },
+  {
+    "surface": "un certain affaississement",
+    "valid": true
+  },
+  {
+    "surface": "performances",
+    "valid": true
+  },
+  {
+    "surface": "communication orale",
+    "valid": true
+  },
+  {
+    "surface": "contrepartie",
+    "valid": true
+  },
+  {
+    "surface": "plus grande capacité",
+    "valid": true
+  },
+  {
+    "surface": "accumulation",
+    "valid": true
+  },
+  {
+    "surface": "de traitement",
+    "valid": false,
+    "reason": "介词短语"
+  },
+  {
+    "surface": "le primat",
+    "valid": true
+  },
+  {
+    "surface": "l'acier",
+    "valid": true
+  },
+  {
+    "surface": "des machines",
+    "valid": true
+  },
+  {
+    "surface": "vapeur",
+    "valid": true
+  },
+  {
+    "surface": "la puissance",
+    "valid": true
+  },
+  {
+    "surface": "pénétration",
+    "valid": true
+  },
+  {
+    "surface": "vecteurs machiniques",
+    "valid": true
+  },
+  {
+    "surface": "riere",
+    "valid": false,
+    "reason": "疑似拼写碎片/非规范词"
+  },
+  {
+    "surface": "fond subjectif",
+    "valid": true
+  },
+  {
+    "surface": "obtus",
+    "valid": false,
+    "reason": "形容词"
+  },
+  {
+    "surface": "le plus infantilisant",
+    "valid": false,
+    "reason": "比较级形容词短语"
+  },
+  {
+    "surface": "les appearances",
+    "valid": true
+  },
+  {
+    "surface": "liberté",
+    "valid": true
+  },
+  {
+    "surface": "monothisme",
+    "valid": true
+  },
+  {
+    "surface": "une empire archaisante et irrionnelle",
+    "valid": true
+  },
+  {
+    "surface": "la subjectifie inconsciente",
+    "valid": true
+  },
+  {
+    "surface": "le biais",
+    "valid": true
+  },
+  {
+    "surface": "dispositifs",
+    "valid": true
+  },
+  {
+    "surface": "responsabilisation",
+    "valid": true
+  },
+  {
+    "surface": "de culpabilisation",
+    "valid": false,
+    "reason": "介词短语"
+  },
+  {
+    "surface": "leur paroxysme",
+    "valid": true
+  },
+  {
+    "surface": "compulsions autopuntives",
+    "valid": true
+  },
+  {
+    "surface": "aux cultes",
+    "valid": true
+  },
+  {
+    "surface": "morbides",
+    "valid": false,
+    "reason": "形容词"
+  },
+  {
+    "surface": "la faute",
+    "valid": true
+  },
+  {
+    "surface": "l'univers kafkaïen",
+    "valid": true
+  },
+  {
+    "surface": "aussi bien sur terre",
+    "valid": false,
+    "reason": "副词/介词短语"
+  },
+  {
+    "surface": "mer",
+    "valid": true
+  },
+  {
+    "surface": "l'air",
+    "valid": true
+  },
+  {
+    "surface": "que dans l'ensemble",
+    "valid": false,
+    "reason": "连词+介词短语"
+  },
+  {
+    "surface": "espaces technologiques, économiques",
+    "valid": true
+  },
+  {
+    "surface": "une manipulation",
+    "valid": true
+  },
+  {
+    "surface": "ses rythmes naturels",
+    "valid": true
+  },
+  {
+    "surface": "- des machines chronométriques",
+    "valid": false,
+    "reason": "含标点和冠词"
+  },
+  {
+    "surface": "quadrillage taylorien",
+    "valid": true
+  },
+  {
+    "surface": "la force",
+    "valid": true
+  },
+  {
+    "surface": "- des techniques",
+    "valid": false,
+    "reason": "含标点和冠词"
+  },
+  {
+    "surface": "sémiotisation économique",
+    "valid": true
+  },
+  {
+    "surface": "monnaies",
+    "valid": true
+  },
+  {
+    "surface": "crédit",
+    "valid": true
+  },
+  {
+    "surface": "une virtualisation générale",
+    "valid": true
+  },
+  {
+    "surface": "capacités",
+    "valid": true
+  },
+  {
+    "surface": "initiale",
+    "valid": false,
+    "reason": "形容词"
+  },
+  {
+    "surface": "un calcul",
+    "valid": true
+  },
+  {
+    "surface": "les domaines",
+    "valid": true
+  },
+  {
+    "surface": "innovation",
+    "valid": true
+  },
+  {
+    "surface": "traites",
+    "valid": true
+  },
+  {
+    "surface": "le futur",
+    "valid": true
+  },
+  {
+    "surface": "l'imperium",
+    "valid": true
+  },
+  {
+    "surface": "économies",
+    "valid": true
+  },
+  {
+    "surface": "marché",
+    "valid": true
+  },
+  {
+    "surface": "les révolutions biologiques",
+    "valid": true
+  },
+  {
+    "surface": "découvertes",
+    "valid": true
+  },
+  {
+    "surface": "plus en plus l'avenir",
+    "valid": false,
+    "reason": "副词短语+冠词+名词，非规范名词短语"
+  },
+  {
+    "surface": "espèces vivantes",
+    "valid": true
+  },
+  {
+    "surface": "industries biochimiques",
+    "valid": true
+  },
+  {
+    "surface": "les pseudo-équilibres",
+    "valid": true
+  },
+  {
+    "surface": "un tout autre sens",
+    "valid": true
+  },
+  {
+    "surface": "Maintenant, c'est la machine",
+    "valid": false,
+    "reason": "含副词、标点和助动词"
+  },
+  {
+    "surface": "le contrôle",
+    "valid": true
+  },
+  {
+    "surface": "reterritorialisée",
+    "valid": false,
+    "reason": "分词/形容词"
+  },
+  {
+    "surface": "Quelques caractéristiques",
+    "valid": true
+  },
+  {
+    "surface": "la prise",
+    "valid": true
+  },
+  {
+    "surface": "ce nouvel âge",
+    "valid": true
+  },
+  {
+    "surface": "Dés",
+    "valid": false,
+    "reason": "介词碎片"
+  },
+  {
+    "surface": "une position",
+    "valid": true
+  },
+  {
+    "surface": "adjacence quasi",
+    "valid": true
+  },
+  {
+    "surface": "parasitaire",
+    "valid": false,
+    "reason": "形容词"
+  },
+  {
+    "surface": "Phylum machiniques",
+    "valid": true
+  },
+  {
+    "surface": "sorges",
+    "valid": false,
+    "reason": "疑似拼写碎片/非规范词"
+  },
+  {
+    "surface": "sociaux",
+    "valid": false,
+    "reason": "形容词"
+  },
+  {
+    "surface": "somme",
+    "valid": true
+  },
+  {
+    "surface": "redécoupe",
+    "valid": true
+  },
+  {
+    "surface": "surcédoc",
+    "valid": false,
+    "reason": "疑似拼写碎片/非规范词"
+  },
+  {
+    "surface": "exigences globales",
+    "valid": true
+  },
+  {
+    "surface": "système",
+    "valid": true
+  },
+  {
+    "surface": "Cest",
+    "valid": false,
+    "reason": "疑似拼写碎片/非规范词"
+  },
+  {
+    "surface": "l'heure",
+    "valid": true
+  },
+  {
+    "surface": "Léonard",
+    "valid": true
+  },
+  {
+    "surface": "Vinci",
+    "valid": true
+  },
+  {
+    "surface": ", de Bruegel",
+    "valid": false,
+    "reason": "含标点和介词"
+  },
+  {
+    "surface": "surtout d'Arcimboldo",
+    "valid": false,
+    "reason": "含副词和介词"
+  },
+  {
+    "surface": "les représentations les plus saississantes et prémonitoires",
+    "valid": true
+  },
+  {
+    "surface": "ces remainements corporels",
+    "valid": true
+  },
+  {
+    "surface": "Les médias",
+    "valid": true
+  },
+  {
+    "surface": "les télécommunications",
+    "valid": true
+  },
+  {
+    "surface": "anciens",
+    "valid": false,
+    "reason": "形容词"
+  },
+  {
+    "surface": "oraux",
+    "valid": false,
+    "reason": "形容词"
+  },
+  {
+    "surface": "scripturaux",
+    "valid": false,
+    "reason": "形容词"
+  },
+  {
+    "surface": "la polyphonie",
+    "valid": true
+  },
+  {
+    "surface": "résultat",
+    "valid": true
+  },
+  {
+    "surface": "des voix humaines",
+    "valid": true
+  },
+  {
+    "surface": "aussi des voix",
+    "valid": false,
+    "reason": "含副词和冠词，非规范名词短语"
+  },
+  {
+    "surface": "les banques",
+    "valid": true
+  },
+  {
+    "surface": "intelligence",
+    "valid": true
+  },
+  {
+    "surface": "artificielle",
+    "valid": false,
+    "reason": "形容词"
+  },
+  {
+    "surface": "L'opinion",
+    "valid": true
+  },
+  {
+    "surface": "le goût",
+    "valid": true
+  },
+  {
+    "surface": "collectif",
+    "valid": false,
+    "reason": "形容词"
+  },
+  {
+    "surface": "leur coré",
+    "valid": true
+  },
+  {
+    "surface": "dispositifs statistiques",
+    "valid": true
+  },
+  {
+    "surface": "de modélisation",
+    "valid": false,
+    "reason": "介词短语"
+  },
+  {
+    "surface": "la publicité",
+    "valid": true
+  },
+  {
+    "surface": "l'industrie",
+    "valid": true
+  },
+  {
+    "surface": "cinematographique",
+    "valid": false,
+    "reason": "形容词"
+  },
+  {
+    "surface": "ce fonctionnalisme",
+    "valid": true
+  },
+  {
+    "surface": "organes",
+    "valid": true
+  },
+  {
+    "surface": "facultés",
+    "valid": true
+  },
+  {
+    "surface": "humaines",
+    "valid": false,
+    "reason": "形容词"
+  },
+  {
+    "surface": "son régime",
+    "valid": true
+  },
+  {
+    "surface": "des perspectives universaliantes",
+    "valid": true
+  },
+  {
+    "surface": "autre chose",
+    "valid": false,
+    "reason": "代词短语"
+  },
+  {
+    "surface": "replis",
+    "valid": true
+  },
+  {
+    "surface": "des retortierialisations",
+    "valid": true
+  },
+  {
+    "surface": "ordre nationaliste",
+    "valid": true
+  },
+  {
+    "surface": "classiste",
+    "valid": false,
+    "reason": "形容词"
+  },
+  {
+    "surface": "le ramanent inoxablement",
+    "valid": false,
+    "reason": "含冠词和疑似拼写碎片，非规范名词短语"
+  },
+  {
+    "surface": ", quelquois, caricaturalement, au voies",
+    "valid": false,
+    "reason": "含标点、副词和拼写碎片"
+  },
+  {
+    "surface": "les plus conservatrices",
+    "valid": false,
+    "reason": "比较级形容词短语"
+  },
+  {
+    "surface": "des Lumières*",
+    "valid": true
+  },
+  {
+    "surface": "l'avement",
+    "valid": true
+  },
+  {
+    "surface": "cette second figure",
+    "valid": true
+  },
+  {
+    "surface": "doubled",
+    "valid": false,
+    "reason": "非法语词/拼写碎片"
+  },
+  {
+    "surface": "indérotable",
+    "valid": false,
+    "reason": "形容词"
+  },
+  {
+    "surface": "féticheisme",
+    "valid": true
+  },
+  {
+    "surface": "profit",
+    "valid": true
+  },
+  {
+    "surface": "– formule libidinale",
+    "valid": true
+  }
+]

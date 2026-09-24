@@ -1,0 +1,860 @@
+[
+  {
+    "surface": "la plupart",
+    "valid": true
+  },
+  {
+    "surface": "syndromes psychopathologiques",
+    "valid": true
+  },
+  {
+    "surface": "deçà d'un tel seul, c'est la sphère",
+    "valid": false,
+    "reason": "包含介词、代词、动词等，非名词短语"
+  },
+  {
+    "surface": "pathique",
+    "valid": true
+  },
+  {
+    "surface": "- selon l'heureuse",
+    "valid": false,
+    "reason": "包含介词、冠词、形容词，非名词短语"
+  },
+  {
+    "surface": "von",
+    "valid": false,
+    "reason": "介词/专名片段，非独立名词"
+  },
+  {
+    "surface": "Gebsatt²",
+    "valid": false,
+    "reason": "含数字上标，疑似OCR碎片"
+  },
+  {
+    "surface": "le chiasme",
+    "valid": true
+  },
+  {
+    "surface": "Binswanger relatif à l'autism",
+    "valid": false,
+    "reason": "包含形容词和介词短语，非单一名词短语"
+  },
+  {
+    "surface": ", qui烫肉",
+    "valid": false,
+    "reason": "含标点、代词及非法语字符"
+  },
+  {
+    "surface": "un temps vide",
+    "valid": true
+  },
+  {
+    "surface": "enniu",
+    "valid": false,
+    "reason": "疑似拼写错误/非词"
+  },
+  {
+    "surface": "- que par un vide",
+    "valid": false,
+    "reason": "包含连词、介词、冠词"
+  },
+  {
+    "surface": "Les syndromes psychopathologiques",
+    "valid": true
+  },
+  {
+    "surface": "révulent",
+    "valid": false,
+    "reason": "疑似动词变位/拼写错误"
+  },
+  {
+    "surface": "les dimensions inchoatives",
+    "valid": true
+  },
+  {
+    "surface": "la normalité",
+    "valid": true
+  },
+  {
+    "surface": "un equilibre harmonieux",
+    "valid": true
+  },
+  {
+    "surface": "les composantes modulaires",
+    "valid": true
+  },
+  {
+    "surface": "que les autres tableaux",
+    "valid": false,
+    "reason": "包含连词、冠词、形容词"
+  },
+  {
+    "surface": "Certaines phénoménologues",
+    "valid": true
+  },
+  {
+    "surface": "d'un syndrome",
+    "valid": true
+  },
+  {
+    "surface": "hyper-normalité",
+    "valid": true
+  },
+  {
+    "surface": "la mélanocelle",
+    "valid": true
+  },
+  {
+    "surface": "La discordance",
+    "valid": true
+  },
+  {
+    "surface": "les fagnes",
+    "valid": true
+  },
+  {
+    "surface": "batte",
+    "valid": false,
+    "reason": "疑似动词形式/非名词"
+  },
+  {
+    "surface": "rittuelliennes",
+    "valid": false,
+    "reason": "疑似拼写错误/形容词"
+  },
+  {
+    "surface": "une subjection anomale",
+    "valid": true
+  },
+  {
+    "surface": "la psychormale normale",
+    "valid": true
+  },
+  {
+    "surface": "l'ain",
+    "valid": false,
+    "reason": "疑似截断/拼写错误"
+  },
+  {
+    "surface": "l'autome",
+    "valid": false,
+    "reason": "疑似拼写错误"
+  },
+  {
+    "surface": "la faissait dire superbement Robert Musil à Ulrich",
+    "valid": false,
+    "reason": "包含动词、副词、专名等完整从句"
+  },
+  {
+    "surface": "tous les maladies mentales",
+    "valid": true
+  },
+  {
+    "surface": "l'alienné",
+    "valid": true
+  },
+  {
+    "surface": "L'explication",
+    "valid": true
+  },
+  {
+    "surface": "niveau expressifs",
+    "valid": true
+  },
+  {
+    "surface": "temporisations pathiques",
+    "valid": true
+  },
+  {
+    "surface": "retombées",
+    "valid": true
+  },
+  {
+    "surface": "la psychopathologie",
+    "valid": true
+  },
+  {
+    "surface": "le domaine linguistique",
+    "valid": true
+  },
+  {
+    "surface": "conséquences modales et aspectelles",
+    "valid": true
+  },
+  {
+    "surface": "la retenue obseive",
+    "valid": true
+  },
+  {
+    "surface": "mélanocelle",
+    "valid": true
+  },
+  {
+    "surface": "la formulation",
+    "valid": true
+  },
+  {
+    "surface": "une fonction plus générale",
+    "valid": true
+  },
+  {
+    "surface": "l'enoncitation",
+    "valid": true
+  },
+  {
+    "surface": "sa faille accélération maniale",
+    "valid": true
+  },
+  {
+    "surface": "Idenfush",
+    "valid": false,
+    "reason": "疑似OCR碎片/非词"
+  },
+  {
+    "surface": "liquefaction",
+    "valid": true
+  },
+  {
+    "surface": "Le manique",
+    "valid": true
+  },
+  {
+    "surface": "fugaces",
+    "valid": false,
+    "reason": "形容词，非名词"
+  },
+  {
+    "surface": "Sa temporalisation",
+    "valid": true
+  },
+  {
+    "surface": "une momentanisation absolue",
+    "valid": true
+  },
+  {
+    "surface": "la temporisation mélanoclique",
+    "valid": true
+  },
+  {
+    "surface": "des sémioticiens",
+    "valid": true
+  },
+  {
+    "surface": "une étude",
+    "valid": true
+  },
+  {
+    "surface": "celle-la",
+    "valid": false,
+    "reason": "代词"
+  },
+  {
+    "surface": "décalage",
+    "valid": true
+  },
+  {
+    "surface": "l'expression muette",
+    "valid": true
+  },
+  {
+    "surface": "catatonie",
+    "valid": true
+  },
+  {
+    "surface": "la fantasie",
+    "valid": true
+  },
+  {
+    "surface": "gesticulation intérieure",
+    "valid": true
+  },
+  {
+    "surface": "Bakhine",
+    "valid": true
+  },
+  {
+    "surface": "masque",
+    "valid": true
+  },
+  {
+    "surface": "une façon plus générale",
+    "valid": true
+  },
+  {
+    "surface": "que le dégèlement",
+    "valid": false,
+    "reason": "包含连词和冠词"
+  },
+  {
+    "surface": "l'énoncation",
+    "valid": true
+  },
+  {
+    "surface": "des discordances",
+    "valid": true
+  },
+  {
+    "surface": "un registre homogène",
+    "valid": true
+  },
+  {
+    "surface": "composantes extra-linguistiques",
+    "valid": true
+  },
+  {
+    "surface": "somatiques",
+    "valid": false,
+    "reason": "形容词，非名词"
+  },
+  {
+    "surface": ", ethologiques",
+    "valid": false,
+    "reason": "含标点，形容词"
+  },
+  {
+    "surface": "mythographiques",
+    "valid": false,
+    "reason": "形容词，非名词"
+  },
+  {
+    "surface": "institutionnelles",
+    "valid": false,
+    "reason": "形容词，非名词"
+  },
+  {
+    "surface": "l'exercice *",
+    "valid": false,
+    "reason": "含星号碎片"
+  },
+  {
+    "surface": "normal",
+    "valid": false,
+    "reason": "形容词，非名词"
+  },
+  {
+    "surface": "les affects existentiels",
+    "valid": true
+  },
+  {
+    "surface": "discipinés",
+    "valid": false,
+    "reason": "疑似拼写错误/形容词"
+  },
+  {
+    "surface": "homogénisation",
+    "valid": true
+  },
+  {
+    "surface": "d'équivalence",
+    "valid": true
+  },
+  {
+    "surface": "généralisée",
+    "valid": false,
+    "reason": "形容词，非名词"
+  },
+  {
+    "surface": "séquences discursive",
+    "valid": true
+  },
+  {
+    "surface": "rététatives",
+    "valid": false,
+    "reason": "形容词，非名词"
+  },
+  {
+    "surface": "une catalyse extrinséque",
+    "valid": true
+  },
+  {
+    "surface": "Les rituirement们",
+    "valid": false,
+    "reason": "含非法语字符及拼写错误"
+  },
+  {
+    "surface": "formes rythmiques, plastiques",
+    "valid": true
+  },
+  {
+    "surface": "des segments prosodiques",
+    "valid": true
+  },
+  {
+    "surface": ", des traits",
+    "valid": true
+  },
+  {
+    "surface": "des emblèmes",
+    "valid": true
+  },
+  {
+    "surface": "reconnaissance",
+    "valid": true
+  },
+  {
+    "surface": "leitimotive",
+    "valid": false,
+    "reason": "疑似拼写错误/非词"
+  },
+  {
+    "surface": ", nos propres",
+    "valid": false,
+    "reason": "含标点、限定词、形容词"
+  },
+  {
+    "surface": "leurs équivalents",
+    "valid": true
+  },
+  {
+    "surface": "invocatoires",
+    "valid": false,
+    "reason": "形容词，非名词"
+  },
+  {
+    "surface": "différences substances",
+    "valid": true
+  },
+  {
+    "surface": "*ritournelles",
+    "valid": false,
+    "reason": "含星号碎片"
+  },
+  {
+    "surface": "* *",
+    "valid": false,
+    "reason": "纯符号"
+  },
+  {
+    "surface": "Proust*",
+    "valid": false,
+    "reason": "含星号碎片"
+  },
+  {
+    "surface": "la madeleine trempée",
+    "valid": true
+  },
+  {
+    "surface": "la tasse",
+    "valid": true
+  },
+  {
+    "surface": "thè",
+    "valid": true
+  },
+  {
+    "surface": ", les pavés disjoints",
+    "valid": true
+  },
+  {
+    "surface": "Hôtel",
+    "valid": true
+  },
+  {
+    "surface": "Guermance",
+    "valid": true
+  },
+  {
+    "surface": "*Vinteui*",
+    "valid": false,
+    "reason": "含星号碎片"
+  },
+  {
+    "surface": "les compositions plastiques",
+    "valid": true
+  },
+  {
+    "surface": "une fonction dénotative",
+    "valid": true
+  },
+  {
+    "surface": ", f(den",
+    "valid": false,
+    "reason": "标点及公式碎片"
+  },
+  {
+    "surface": "le Réferent",
+    "valid": true
+  },
+  {
+    "surface": "concatenations",
+    "valid": true
+  },
+  {
+    "surface": "Territoires énonciatifs",
+    "valid": true
+  },
+  {
+    "surface": "une fuite généralisée",
+    "valid": true
+  },
+  {
+    "surface": "social",
+    "valid": false,
+    "reason": "形容词，非名词"
+  },
+  {
+    "surface": "éthique",
+    "valid": false,
+    "reason": "形容词/名词歧义，此处更似形容词"
+  },
+  {
+    "surface": "une fonction diagrammatique",
+    "valid": true
+  },
+  {
+    "surface": "notre biface ritournelle",
+    "valid": true
+  },
+  {
+    "surface": "-machine abstraite",
+    "valid": true
+  },
+  {
+    "surface": "un repère",
+    "valid": true
+  },
+  {
+    "surface": "un dehichirement",
+    "valid": true
+  },
+  {
+    "surface": "opérateurs praxiques",
+    "valid": true
+  },
+  {
+    "surface": "Contenur",
+    "valid": false,
+    "reason": "疑似拼写错误"
+  },
+  {
+    "surface": "une parfaite synchronie",
+    "valid": true
+  },
+  {
+    "surface": "héterogénèse",
+    "valid": true
+  },
+  {
+    "surface": "irréversibilisation",
+    "valid": true
+  },
+  {
+    "surface": "Hjelmsel",
+    "valid": true
+  },
+  {
+    "surface": "la réversibilité foncière entre la forme d'expression et la forme de Contenu surplombant l'héterogénèse des substances et des matieres qui en sont le support",
+    "valid": false,
+    "reason": "完整从句，非名词短语"
+  },
+  {
+    "surface": "le feuilleutage",
+    "valid": true
+  },
+  {
+    "surface": "l'ionisation",
+    "valid": true
+  },
+  {
+    "surface": "sa polyphonie",
+    "valid": true
+  },
+  {
+    "surface": "son multicentre",
+    "valid": true
+  },
+  {
+    "surface": "cette intersection",
+    "valid": true
+  },
+  {
+    "surface": "cette multivalence",
+    "valid": true
+  },
+  {
+    "surface": "multifluence",
+    "valid": true
+  },
+  {
+    "surface": "les voix héterogènes",
+    "valid": true
+  },
+  {
+    "surface": "dulire",
+    "valid": false,
+    "reason": "疑似拼写错误/非词"
+  },
+  {
+    "surface": "hors-sens commun",
+    "valid": true
+  },
+  {
+    "surface": "une position deficiatrice",
+    "valid": true
+  },
+  {
+    "surface": "permettent",
+    "valid": false,
+    "reason": "动词变位"
+  },
+  {
+    "surface": "vérites",
+    "valid": true
+  },
+  {
+    "surface": "Les vérites existentiels",
+    "valid": true
+  },
+  {
+    "surface": "hautement enrichissantes",
+    "valid": false,
+    "reason": "副词+形容词"
+  },
+  {
+    "surface": "matieres",
+    "valid": true
+  },
+  {
+    "surface": "que ses effractions",
+    "valid": false,
+    "reason": "包含连词和限定词"
+  },
+  {
+    "surface": "la trame structurelle",
+    "valid": true
+  },
+  {
+    "surface": "processus semantico",
+    "valid": true
+  },
+  {
+    "surface": "syntaxiques",
+    "valid": false,
+    "reason": "形容词，非名词"
+  },
+  {
+    "surface": "une loinaire banlieue",
+    "valid": true
+  },
+  {
+    "surface": "le noyau actif",
+    "valid": true
+  },
+  {
+    "surface": "la créativité linguistique et semiotique",
+    "valid": true
+  },
+  {
+    "surface": "sa fonction",
+    "valid": true
+  },
+  {
+    "surface": "les linguises",
+    "valid": true
+  },
+  {
+    "surface": "avisés",
+    "valid": false,
+    "reason": "形容词，非名词"
+  },
+  {
+    "surface": "symboles catégorielles",
+    "valid": true
+  },
+  {
+    "surface": "les arbres syntagmatiques et semantiques",
+    "valid": true
+  },
+  {
+    "surface": "des chomskyiens",
+    "valid": true
+  },
+  {
+    "surface": "des postchomskyiens",
+    "valid": true
+  },
+  {
+    "surface": "mais à le moins",
+    "valid": false,
+    "reason": "连词、介词、冠词组合"
+  },
+  {
+    "surface": "ces noms propres",
+    "valid": true
+  },
+  {
+    "surface": "les jeux",
+    "valid": true
+  },
+  {
+    "surface": "l'ordination existentielle",
+    "valid": true
+  },
+  {
+    "surface": "l'environnement sensible",
+    "valid": true
+  },
+  {
+    "surface": "les scenes",
+    "valid": true
+  },
+  {
+    "surface": "Affects problématiques",
+    "valid": true
+  },
+  {
+    "surface": "Survolons",
+    "valid": false,
+    "reason": "动词变位"
+  },
+  {
+    "surface": "affect sensible",
+    "valid": true
+  },
+  {
+    "surface": "(ritournelle)",
+    "valid": true
+  },
+  {
+    "surface": "l'Enonciation",
+    "valid": true
+  },
+  {
+    "surface": "les fonctions significationnelles",
+    "valid": true
+  },
+  {
+    "surface": ", denotatives",
+    "valid": false,
+    "reason": "含标点，形容词"
+  },
+  {
+    "surface": "diagrammatiques",
+    "valid": false,
+    "reason": "形容词，非名词"
+  },
+  {
+    "surface": "le cadre traditionnel",
+    "valid": true
+  },
+  {
+    "surface": "domaines semantiques et syntaxiques",
+    "valid": true
+  },
+  {
+    "surface": ", il n'est pas ici question",
+    "valid": false,
+    "reason": "完整从句"
+  },
+  {
+    "surface": "les deux fonctions",
+    "valid": true
+  },
+  {
+    "surface": "un troisième tiroir",
+    "valid": true
+  },
+  {
+    "surface": "la l'fortement",
+    "valid": false,
+    "reason": "冠词重复及副词碎片"
+  },
+  {
+    "surface": "linguistique",
+    "valid": false,
+    "reason": "形容词/名词歧义，此处更似形容词"
+  },
+  {
+    "surface": "une axiomatisation autonome1",
+    "valid": false,
+    "reason": "含数字后缀碎片"
+  },
+  {
+    "surface": "Triangle sémiotique et triangle énonciatif",
+    "valid": true
+  },
+  {
+    "surface": "Le porte-bouteilles",
+    "valid": true
+  },
+  {
+    "surface": "Marcel Duchamp",
+    "valid": true
+  },
+  {
+    "surface": "déclencheur",
+    "valid": true
+  },
+  {
+    "surface": "bien des rémiscinés intimes",
+    "valid": true
+  },
+  {
+    "surface": "la cave",
+    "valid": true
+  },
+  {
+    "surface": "hiver",
+    "valid": true
+  },
+  {
+    "surface": ", les rais",
+    "valid": true
+  },
+  {
+    "surface": "les toiles",
+    "valid": true
+  },
+  {
+    "surface": "araignée",
+    "valid": true
+  },
+  {
+    "surface": "la solitude",
+    "valid": true
+  },
+  {
+    "surface": "adolescente",
+    "valid": false,
+    "reason": "形容词/名词歧义，此处更似形容词"
+  },
+  {
+    "surface": "connotations",
+    "valid": true
+  },
+  {
+    "surface": "les boutelles",
+    "valid": true
+  },
+  {
+    "surface": "la aide",
+    "valid": true
+  },
+  {
+    "surface": "un goupillon",
+    "valid": true
+  },
+  {
+    "surface": "eu",
+    "valid": false,
+    "reason": "助动词/过去分词"
+  },
+  {
+    "surface": "Barthes² relève",
+    "valid": false,
+    "reason": "含专名、数字上标及动词"
+  },
+  {
+    "surface": "rittuellisation",
+    "valid": true
+  },
+  {
+    "surface": "son dimensionnement",
+    "valid": true
+  },
+  {
+    "surface": "echelle",
+    "valid": true
+  }
+]

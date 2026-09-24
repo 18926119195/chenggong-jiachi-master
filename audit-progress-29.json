@@ -1,0 +1,882 @@
+[
+  {
+    "surface": "second",
+    "valid": true
+  },
+  {
+    "surface": "énième",
+    "valid": true
+  },
+  {
+    "surface": "degree",
+    "valid": true
+  },
+  {
+    "surface": "une sort",
+    "valid": false,
+    "reason": "包含冠词une，且sort在此语境不构成完整名词短语"
+  },
+  {
+    "surface": "des domaines discursifs",
+    "valid": true
+  },
+  {
+    "surface": "potentialité",
+    "valid": true
+  },
+  {
+    "surface": "virtualité",
+    "valid": true
+  },
+  {
+    "surface": "ces domaines",
+    "valid": true
+  },
+  {
+    "surface": "ces champs",
+    "valid": true
+  },
+  {
+    "surface": "ces Univers",
+    "valid": true
+  },
+  {
+    "surface": "leurs mutations génériques",
+    "valid": true
+  },
+  {
+    "surface": "infiltration",
+    "valid": true
+  },
+  {
+    "surface": "dentification",
+    "valid": false,
+    "reason": "疑似拼写碎片，非标准法语名词"
+  },
+  {
+    "surface": "aussi par rupture",
+    "valid": false,
+    "reason": "包含副词aussi和介词par，为短语片段而非名词"
+  },
+  {
+    "surface": "remaniement",
+    "valid": true
+  },
+  {
+    "surface": "texture ontologique",
+    "valid": true
+  },
+  {
+    "surface": "opérateurs",
+    "valid": true
+  },
+  {
+    "surface": "sommets *",
+    "valid": false,
+    "reason": "包含星号符号碎片"
+  },
+  {
+    "surface": "• *",
+    "valid": false,
+    "reason": "纯符号碎片"
+  },
+  {
+    "surface": "triangulations substantiels",
+    "valid": true
+  },
+  {
+    "surface": "un appel",
+    "valid": true
+  },
+  {
+    "surface": "mutations ontologiques",
+    "valid": true
+  },
+  {
+    "surface": "la position particulière",
+    "valid": true
+  },
+  {
+    "surface": "lissage expressif",
+    "valid": true
+  },
+  {
+    "surface": "les trois médiateurs",
+    "valid": true
+  },
+  {
+    "surface": "substantiation",
+    "valid": true
+  },
+  {
+    "surface": "## 1/",
+    "valid": false,
+    "reason": "纯符号与数字碎片"
+  },
+  {
+    "surface": "La substantiation",
+    "valid": true
+  },
+  {
+    "surface": "le lissage sensible",
+    "valid": true
+  },
+  {
+    "surface": "l'end",
+    "valid": false,
+    "reason": "疑似截断或拼写碎片"
+  },
+  {
+    "surface": "of",
+    "valid": false,
+    "reason": "英语介词，非法语实词"
+  },
+  {
+    "surface": "-reference existentielle",
+    "valid": false,
+    "reason": "包含连字符碎片，非规范名词形式"
+  },
+  {
+    "surface": "sercé",
+    "valid": false,
+    "reason": "疑似拼写错误或碎片"
+  },
+  {
+    "surface": "tait",
+    "valid": false,
+    "reason": "疑似助动词être变位碎片"
+  },
+  {
+    "surface": "séquences",
+    "valid": true
+  },
+  {
+    "surface": "italonnage",
+    "valid": false,
+    "reason": "疑似拼写错误或非标准词"
+  },
+  {
+    "surface": "de qualités",
+    "valid": false,
+    "reason": "包含介词de，为介词短语片段"
+  },
+  {
+    "surface": "Double articulation du lissage machinique : fonction E.C. (reprise de la figure 5",
+    "valid": false,
+    "reason": "包含标点、括号和数字，为长片段而非单一名词短语"
+  },
+  {
+    "surface": "les Flux instanciés",
+    "valid": true
+  },
+  {
+    "surface": "une langue",
+    "valid": true
+  },
+  {
+    "surface": "sa part",
+    "valid": true
+  },
+  {
+    "surface": "le lissage machinique",
+    "valid": true
+  },
+  {
+    "surface": "la fonction E.C.",
+    "valid": true
+  },
+  {
+    "surface": "rompt",
+    "valid": false,
+    "reason": "动词变位形式"
+  },
+  {
+    "surface": "le type",
+    "valid": true
+  },
+  {
+    "surface": "discursive uniquement proximate",
+    "valid": false,
+    "reason": "包含副词uniquement，为形容词短语片段"
+  },
+  {
+    "surface": "une censure",
+    "valid": true
+  },
+  {
+    "surface": "une biance toute nouvelle de * possibilisation * et pour autoriser des pragmatiques (des machiniques",
+    "valid": false,
+    "reason": "包含标点、星号和连词，为长片段"
+  },
+  {
+    "surface": ") créatrices",
+    "valid": false,
+    "reason": "包含括号碎片"
+  },
+  {
+    "surface": "spatialisation",
+    "valid": true
+  },
+  {
+    "surface": ", de conversions",
+    "valid": false,
+    "reason": "包含逗号和介词de，为片段"
+  },
+  {
+    "surface": ", de mise",
+    "valid": false,
+    "reason": "包含逗号和介词de，为片段"
+  },
+  {
+    "surface": "encodages",
+    "valid": true
+  },
+  {
+    "surface": "surgissement",
+    "valid": true
+  },
+  {
+    "surface": "l'écartement",
+    "valid": true
+  },
+  {
+    "surface": "les poles E.",
+    "valid": true
+  },
+  {
+    "surface": "cette fois",
+    "valid": false,
+    "reason": "包含指示代词cette和名词fois，为副词性短语"
+  },
+  {
+    "surface": "abstraction",
+    "valid": true
+  },
+  {
+    "surface": "la contingence originaire",
+    "valid": true
+  },
+  {
+    "surface": "leur * contingentement *",
+    "valid": false,
+    "reason": "包含星号符号碎片"
+  },
+  {
+    "surface": "pro-positions machiniques",
+    "valid": true
+  },
+  {
+    "surface": "une efficiency pragmatique ou, d'une façon plus générale",
+    "valid": false,
+    "reason": "包含连词ou和逗号，为长片段"
+  },
+  {
+    "surface": "une puissance machinique",
+    "valid": true
+  },
+  {
+    "surface": "une requalification énergétique",
+    "valid": true
+  },
+  {
+    "surface": "Flux antérieure",
+    "valid": true
+  },
+  {
+    "surface": "lésage rétro-actif",
+    "valid": true
+  },
+  {
+    "surface": "une ouverture généralisée et infinie",
+    "valid": false,
+    "reason": "包含连词et，为形容词扩展短语"
+  },
+  {
+    "surface": "coordonnées discursive",
+    "valid": true
+  },
+  {
+    "surface": "leur nature",
+    "valid": true
+  },
+  {
+    "surface": "auto-reférenciation substantielles du type matière-substance-forme",
+    "valid": true
+  },
+  {
+    "surface": "des espaces",
+    "valid": true
+  },
+  {
+    "surface": "des durées",
+    "valid": true
+  },
+  {
+    "surface": "Kelton",
+    "valid": true
+  },
+  {
+    "surface": "traitement",
+    "valid": true
+  },
+  {
+    "surface": "ordonnées environnementales",
+    "valid": true
+  },
+  {
+    "surface": "co-ordonnées",
+    "valid": true
+  },
+  {
+    "surface": "ordre général",
+    "valid": true
+  },
+  {
+    "surface": ", des co-ordonnées",
+    "valid": false,
+    "reason": "包含逗号碎片"
+  },
+  {
+    "surface": "le contexte initial",
+    "valid": true
+  },
+  {
+    "surface": "ce détour d'anticipation",
+    "valid": true
+  },
+  {
+    "surface": "ces trois modes",
+    "valid": true
+  },
+  {
+    "surface": "quatre triangles m.s.f",
+    "valid": true
+  },
+  {
+    "surface": "La double triangulation",
+    "valid": true
+  },
+  {
+    "surface": "un complexe signe",
+    "valid": true
+  },
+  {
+    "surface": "consistance proto-énergétique",
+    "valid": true
+  },
+  {
+    "surface": "l'écart différentiel",
+    "valid": true
+  },
+  {
+    "surface": "l'héterogénification",
+    "valid": true
+  },
+  {
+    "surface": "la machine propre",
+    "valid": true
+  },
+  {
+    "surface": "L'absence",
+    "valid": true
+  },
+  {
+    "surface": "triangulation médiationnelle",
+    "valid": true
+  },
+  {
+    "surface": "pseudo-lissage existentiel",
+    "valid": true
+  },
+  {
+    "surface": "autor",
+    "valid": false,
+    "reason": "疑似拼写碎片，非完整法语名词"
+  },
+  {
+    "surface": "la d rapports extrinseurs",
+    "valid": false,
+    "reason": "包含单字母d碎片，结构不完整"
+  },
+  {
+    "surface": "multiplicités",
+    "valid": true
+  },
+  {
+    "surface": "Retournons",
+    "valid": false,
+    "reason": "动词变位形式"
+  },
+  {
+    "surface": "la requalification énergétique",
+    "valid": true
+  },
+  {
+    "surface": "opération",
+    "valid": true
+  },
+  {
+    "surface": "La bipolarisation E.C.",
+    "valid": true
+  },
+  {
+    "surface": "change",
+    "valid": false,
+    "reason": "动词变位形式或英语词"
+  },
+  {
+    "surface": "les effets consutuitifs",
+    "valid": true
+  },
+  {
+    "surface": "l'hétérégénétique proximate",
+    "valid": true
+  },
+  {
+    "surface": "une hétérégénité",
+    "valid": true
+  },
+  {
+    "surface": "non seulement à longue distance",
+    "valid": false,
+    "reason": "包含副词和介词，为短语片段"
+  },
+  {
+    "surface": "aussi hors champ",
+    "valid": false,
+    "reason": "包含副词aussi和介词短语，非名词"
+  },
+  {
+    "surface": "Reprenons",
+    "valid": false,
+    "reason": "动词变位形式"
+  },
+  {
+    "surface": "pas à pas, les étapes",
+    "valid": false,
+    "reason": "包含副词短语和逗号，为片段"
+  },
+  {
+    "surface": "l'accès",
+    "valid": true
+  },
+  {
+    "surface": "l'héterogénère",
+    "valid": false,
+    "reason": "疑似动词变位或拼写碎片"
+  },
+  {
+    "surface": "un simple constat",
+    "valid": true
+  },
+  {
+    "surface": "porte",
+    "valid": false,
+    "reason": "动词变位形式或普通名词但在此语境疑似动词"
+  },
+  {
+    "surface": "la pure adéquation",
+    "valid": true
+  },
+  {
+    "surface": "expression fusionnelle",
+    "valid": true
+  },
+  {
+    "surface": "une radicale impassionant",
+    "valid": false,
+    "reason": "疑似拼写错误，impassionnant为形容词"
+  },
+  {
+    "surface": "un changement",
+    "valid": true
+  },
+  {
+    "surface": "tat",
+    "valid": false,
+    "reason": "拼写碎片"
+  },
+  {
+    "surface": "constat",
+    "valid": true
+  },
+  {
+    "surface": "hétérogénité",
+    "valid": true
+  },
+  {
+    "surface": "un état indexe",
+    "valid": true
+  },
+  {
+    "surface": "un constat actif",
+    "valid": true
+  },
+  {
+    "surface": "Un constat",
+    "valid": true
+  },
+  {
+    "surface": "externe",
+    "valid": false,
+    "reason": "形容词，非名词"
+  },
+  {
+    "surface": "cadré",
+    "valid": false,
+    "reason": "形容词或分词，非名词"
+  },
+  {
+    "surface": "une référence susceptible de le situer",
+    "valid": false,
+    "reason": "包含形容词短语和代词，为长片段"
+  },
+  {
+    "surface": "prolonger",
+    "valid": false,
+    "reason": "动词不定式"
+  },
+  {
+    "surface": ", l'enrichir",
+    "valid": false,
+    "reason": "包含逗号和动词不定式"
+  },
+  {
+    "surface": "capitaliser",
+    "valid": false,
+    "reason": "动词不定式"
+  },
+  {
+    "surface": "ses implications",
+    "valid": true
+  },
+  {
+    "surface": "Seulement",
+    "valid": false,
+    "reason": "副词"
+  },
+  {
+    "surface": "changement",
+    "valid": true
+  },
+  {
+    "surface": "même simplement modification",
+    "valid": false,
+    "reason": "包含副词même和simplement，为片段"
+  },
+  {
+    "surface": "prestations",
+    "valid": true
+  },
+  {
+    "surface": "Aucun physicien",
+    "valid": true
+  },
+  {
+    "surface": "n'accepterait",
+    "valid": false,
+    "reason": "动词变位形式"
+  },
+  {
+    "surface": "dérer",
+    "valid": false,
+    "reason": "疑似拼写碎片"
+  },
+  {
+    "surface": "fondamental",
+    "valid": false,
+    "reason": "形容词，非名词"
+  },
+  {
+    "surface": "constat évaluatif",
+    "valid": true
+  },
+  {
+    "surface": "de straige",
+    "valid": false,
+    "reason": "包含介词de和疑似拼写碎片"
+  },
+  {
+    "surface": "l'hétérogénité",
+    "valid": true
+  },
+  {
+    "surface": "un constat machinique",
+    "valid": true
+  },
+  {
+    "surface": "actif",
+    "valid": false,
+    "reason": "形容词，非名词"
+  },
+  {
+    "surface": "remainement",
+    "valid": false,
+    "reason": "疑似拼写错误，应为remaniement"
+  },
+  {
+    "surface": "E.C",
+    "valid": false,
+    "reason": "缩写碎片"
+  },
+  {
+    "surface": "une référence énergétique",
+    "valid": true
+  },
+  {
+    "surface": "La signalétique",
+    "valid": true
+  },
+  {
+    "surface": "les index",
+    "valid": true
+  },
+  {
+    "surface": "encodage",
+    "valid": true
+  },
+  {
+    "surface": ", afferents",
+    "valid": false,
+    "reason": "包含逗号碎片"
+  },
+  {
+    "surface": "l'évaluation",
+    "valid": true
+  },
+  {
+    "surface": "chargent",
+    "valid": false,
+    "reason": "动词变位形式"
+  },
+  {
+    "surface": "energie",
+    "valid": true
+  },
+  {
+    "surface": "cette charge",
+    "valid": true
+  },
+  {
+    "surface": "retroactivement",
+    "valid": false,
+    "reason": "副词"
+  },
+  {
+    "surface": "une requalification",
+    "valid": true
+  },
+  {
+    "surface": "Flux neutres",
+    "valid": true
+  },
+  {
+    "surface": "Les trois modes",
+    "valid": true
+  },
+  {
+    "surface": "analyse",
+    "valid": true
+  },
+  {
+    "surface": "ce que des Agencements complexes de sémiotisation parviennent à avoir des effets de grande portée",
+    "valid": false,
+    "reason": "完整从句，非名词短语"
+  },
+  {
+    "surface": "un homme",
+    "valid": true
+  },
+  {
+    "surface": "la Lune",
+    "valid": true
+  },
+  {
+    "surface": "niveaux les plus élémentaires",
+    "valid": true
+  },
+  {
+    "surface": "une expression signalétique",
+    "valid": true
+  },
+  {
+    "surface": "d'encodage",
+    "valid": false,
+    "reason": "包含介词de的片段"
+  },
+  {
+    "surface": "seuls quantités minimaux",
+    "valid": false,
+    "reason": "包含形容词seuls，结构不规范"
+  },
+  {
+    "surface": "les signes",
+    "valid": true
+  },
+  {
+    "surface": "les figures",
+    "valid": true
+  },
+  {
+    "surface": "anime",
+    "valid": false,
+    "reason": "动词变位形式"
+  },
+  {
+    "surface": "magnétisés",
+    "valid": false,
+    "reason": "分词/形容词形式"
+  },
+  {
+    "surface": "électronisés",
+    "valid": false,
+    "reason": "分词/形容词形式"
+  },
+  {
+    "surface": "cérébralisés",
+    "valid": false,
+    "reason": "分词/形容词形式"
+  },
+  {
+    "surface": "Considérons",
+    "valid": false,
+    "reason": "动词变位形式"
+  },
+  {
+    "surface": "profils",
+    "valid": true
+  },
+  {
+    "surface": "des clefs métalliques ordinaires",
+    "valid": true
+  },
+  {
+    "surface": "chaque clef particulière",
+    "valid": true
+  },
+  {
+    "surface": "une zone spécifique",
+    "valid": true
+  },
+  {
+    "surface": "efficiency",
+    "valid": true
+  },
+  {
+    "surface": "Cente zone",
+    "valid": false,
+    "reason": "疑似拼写错误，应为Cette zone"
+  },
+  {
+    "surface": "bordée",
+    "valid": false,
+    "reason": "分词/形容词形式"
+  },
+  {
+    "surface": "deux profils",
+    "valid": true
+  },
+  {
+    "surface": "- deux diagrams",
+    "valid": false,
+    "reason": "包含连字符和英语词diagrams"
+  },
+  {
+    "surface": "digitalisés",
+    "valid": false,
+    "reason": "分词/形容词形式"
+  },
+  {
+    "surface": "les lesions",
+    "valid": true
+  },
+  {
+    "surface": "erreur",
+    "valid": true
+  },
+  {
+    "surface": "- tolérables",
+    "valid": false,
+    "reason": "包含连字符和形容词"
+  },
+  {
+    "surface": "au-delà",
+    "valid": false,
+    "reason": "副词短语"
+  },
+  {
+    "surface": "desquels",
+    "valid": false,
+    "reason": "关系代词"
+  },
+  {
+    "surface": "cessé",
+    "valid": false,
+    "reason": "分词形式"
+  },
+  {
+    "surface": "l'overture",
+    "valid": false,
+    "reason": "拼写错误，应为l'ouverture"
+  },
+  {
+    "surface": "Ce passage infinitimal",
+    "valid": true
+  },
+  {
+    "surface": "q'on",
+    "valid": false,
+    "reason": "拼写碎片，应为qu'on"
+  },
+  {
+    "surface": "catalyse signalétique",
+    "valid": true
+  },
+  {
+    "surface": "la maureau forme",
+    "valid": false,
+    "reason": "疑似拼写错误，结构不规范"
+  },
+  {
+    "surface": "bonne",
+    "valid": false,
+    "reason": "形容词"
+  },
+  {
+    "surface": "des implications mecaniques",
+    "valid": true
+  },
+  {
+    "surface": "commune mesure",
+    "valid": true
+  },
+  {
+    "surface": "la *mise*",
+    "valid": false,
+    "reason": "包含星号符号碎片"
+  },
+  {
+    "surface": "déclencher",
+    "valid": false,
+    "reason": "动词不定式"
+  },
+  {
+    "surface": "Notions que cette *mise*",
+    "valid": false,
+    "reason": "包含关系代词和星号，为片段"
+  },
+  {
+    "surface": "- énergétique",
+    "valid": false,
+    "reason": "包含连字符和形容词"
+  },
+  {
+    "surface": "dans le cas",
+    "valid": false,
+    "reason": "介词短语片段"
+  },
+  {
+    "surface": "la catalyse chimique",
+    "valid": true
+  }
+]

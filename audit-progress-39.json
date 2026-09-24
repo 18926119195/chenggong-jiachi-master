@@ -1,0 +1,858 @@
+[
+  {
+    "surface": "couple",
+    "valid": true
+  },
+  {
+    "surface": "aléatoire",
+    "valid": true
+  },
+  {
+    "surface": "presuppose",
+    "valid": false,
+    "reason": "动词变位形式，非名词"
+  },
+  {
+    "surface": "un lissage sérial",
+    "valid": true
+  },
+  {
+    "surface": "umise",
+    "valid": false,
+    "reason": "拼写错误/非标准形式"
+  },
+  {
+    "surface": "persistence",
+    "valid": true
+  },
+  {
+    "surface": "hétérogenèse",
+    "valid": true
+  },
+  {
+    "surface": "le crible",
+    "valid": true
+  },
+  {
+    "surface": "la virtualité",
+    "valid": true
+  },
+  {
+    "surface": "la connectivité",
+    "valid": true
+  },
+  {
+    "surface": "stochastique",
+    "valid": true
+  },
+  {
+    "surface": "l'iteration",
+    "valid": true
+  },
+  {
+    "surface": "une trainée stroboscopique",
+    "valid": true
+  },
+  {
+    "surface": "inaisable",
+    "valid": false,
+    "reason": "拼写错误/非标准形式"
+  },
+  {
+    "surface": "la memoriaisation sérielle",
+    "valid": true
+  },
+  {
+    "surface": "plus en plus de *données*",
+    "valid": false,
+    "reason": "副词短语含通配符，非名词短语"
+  },
+  {
+    "surface": "de ritournelles",
+    "valid": true
+  },
+  {
+    "surface": "déclinaison",
+    "valid": true
+  },
+  {
+    "surface": ", mobilisera",
+    "valid": false,
+    "reason": "标点加动词变位"
+  },
+  {
+    "surface": "temporalités de plus en plus *",
+    "valid": false,
+    "reason": "含通配符的残缺短语"
+  },
+  {
+    "surface": "Coalescence sérielle",
+    "valid": true
+  },
+  {
+    "surface": "Lescribes sériels",
+    "valid": false,
+    "reason": "拼写错误/非标准形式"
+  },
+  {
+    "surface": "lineaires",
+    "valid": true
+  },
+  {
+    "surface": "stochastiques",
+    "valid": true
+  },
+  {
+    "surface": "confiaient",
+    "valid": false,
+    "reason": "动词变位形式"
+  },
+  {
+    "surface": "consistance propre",
+    "valid": true
+  },
+  {
+    "surface": "Flux commence",
+    "valid": false,
+    "reason": "名词加动词，非名词短语"
+  },
+  {
+    "surface": "enoechiais",
+    "valid": false,
+    "reason": "拼写错误/非标准形式"
+  },
+  {
+    "surface": "Chaîne linéaire stochastique- 0 0",
+    "valid": false,
+    "reason": "含数字与符号碎片"
+  },
+  {
+    "surface": "0Étageement",
+    "valid": false,
+    "reason": "含数字前缀且拼写错误"
+  },
+  {
+    "surface": "paradigmatiques",
+    "valid": true
+  },
+  {
+    "surface": "- - - -",
+    "valid": false,
+    "reason": "纯符号"
+  },
+  {
+    "surface": "sérielle",
+    "valid": true
+  },
+  {
+    "surface": "- les opérations •",
+    "valid": false,
+    "reason": "含符号碎片"
+  },
+  {
+    "surface": "préalables",
+    "valid": true
+  },
+  {
+    "surface": "autoconcaténation",
+    "valid": true
+  },
+  {
+    "surface": "chaque série m",
+    "valid": false,
+    "reason": "含单字母变量，非完整名词短语"
+  },
+  {
+    "surface": "6[b])",
+    "valid": false,
+    "reason": "数字与符号碎片"
+  },
+  {
+    "surface": "supports",
+    "valid": true
+  },
+  {
+    "surface": "feuilletage intersériels",
+    "valid": true
+  },
+  {
+    "surface": "6[c",
+    "valid": false,
+    "reason": "数字与符号碎片"
+  },
+  {
+    "surface": "Toutes les occurrences référentielles et consistancielles",
+    "valid": true
+  },
+  {
+    "surface": "déterminabilité infinies",
+    "valid": true
+  },
+  {
+    "surface": "toutes les opérations",
+    "valid": true
+  },
+  {
+    "surface": "transmission",
+    "valid": true
+  },
+  {
+    "surface": "la modulation",
+    "valid": true
+  },
+  {
+    "surface": "mitise",
+    "valid": false,
+    "reason": "拼写错误/非标准形式"
+  },
+  {
+    "surface": "contengue",
+    "valid": false,
+    "reason": "拼写错误/非标准形式"
+  },
+  {
+    "surface": "le determinabilite",
+    "valid": false,
+    "reason": "冠词与名词性数不一致"
+  },
+  {
+    "surface": "une frontière",
+    "valid": true
+  },
+  {
+    "surface": "indicabilité borde",
+    "valid": true
+  },
+  {
+    "surface": "leur mémoire intrinsèque",
+    "valid": true
+  },
+  {
+    "surface": "une déficience",
+    "valid": true
+  },
+  {
+    "surface": "une passivité inhérente",
+    "valid": true
+  },
+  {
+    "surface": "leur territorialisation",
+    "valid": true
+  },
+  {
+    "surface": ", au contaire",
+    "valid": false,
+    "reason": "标点加拼写错误介词短语"
+  },
+  {
+    "surface": "obligé",
+    "valid": true
+  },
+  {
+    "surface": "les rampes",
+    "valid": true
+  },
+  {
+    "surface": "lancement",
+    "valid": true
+  },
+  {
+    "surface": "de leurs corrélats",
+    "valid": true
+  },
+  {
+    "surface": "auto-énonciatifs",
+    "valid": true
+  },
+  {
+    "surface": "l'arrêt",
+    "valid": true
+  },
+  {
+    "surface": "feuillage",
+    "valid": true
+  },
+  {
+    "surface": "une deine",
+    "valid": false,
+    "reason": "拼写错误/非标准形式"
+  },
+  {
+    "surface": "épaisseur",
+    "valid": true
+  },
+  {
+    "surface": "de raison",
+    "valid": true
+  },
+  {
+    "surface": "Tous les rapports",
+    "valid": true
+  },
+  {
+    "surface": "infinimentDiffies",
+    "valid": false,
+    "reason": "拼写错误/非标准形式"
+  },
+  {
+    "surface": "le retour",
+    "valid": true
+  },
+  {
+    "surface": "un temps infiniment long",
+    "valid": true
+  },
+  {
+    "surface": "leur vitesse",
+    "valid": true
+  },
+  {
+    "surface": "déterminabilité",
+    "valid": true
+  },
+  {
+    "surface": "note",
+    "valid": true
+  },
+  {
+    "surface": "d-*",
+    "valid": false,
+    "reason": "字母加通配符碎片"
+  },
+  {
+    "surface": "la formule complementsaire",
+    "valid": true
+  },
+  {
+    "surface": "en ses compositions modulaires",
+    "valid": true
+  },
+  {
+    "surface": "la selon l'axe",
+    "valid": false,
+    "reason": "冠词后接介词，语法不成立"
+  },
+  {
+    "surface": "F.T",
+    "valid": false,
+    "reason": "缩写符号碎片"
+  },
+  {
+    "surface": "l'angle",
+    "valid": true
+  },
+  {
+    "surface": "ses deterritorialisations possibles",
+    "valid": true
+  },
+  {
+    "surface": "une logique génératrice",
+    "valid": true
+  },
+  {
+    "surface": "carts",
+    "valid": false,
+    "reason": "拼写错误/非标准形式"
+  },
+  {
+    "surface": "amplifications",
+    "valid": true
+  },
+  {
+    "surface": ", de bifurcations",
+    "valid": true
+  },
+  {
+    "surface": "de fractalisation",
+    "valid": true
+  },
+  {
+    "surface": "héterogénese",
+    "valid": true
+  },
+  {
+    "surface": "incorporelle",
+    "valid": true
+  },
+  {
+    "surface": "relâche",
+    "valid": true
+  },
+  {
+    "surface": "notre montage théorique",
+    "valid": true
+  },
+  {
+    "surface": "une place convenable aux composantes de référence",
+    "valid": true
+  },
+  {
+    "surface": "temporalisation relative",
+    "valid": true
+  },
+  {
+    "surface": "Le pour-soi amorphe",
+    "valid": true
+  },
+  {
+    "surface": "la distinctive territorialisee",
+    "valid": true
+  },
+  {
+    "surface": "le pour",
+    "valid": true
+  },
+  {
+    "surface": "autrui",
+    "valid": true
+  },
+  {
+    "surface": "evanescent",
+    "valid": true
+  },
+  {
+    "surface": "la pure référence",
+    "valid": true
+  },
+  {
+    "surface": "derritorialisee",
+    "valid": true
+  },
+  {
+    "surface": "quelles sorte",
+    "valid": false,
+    "reason": "疑问形容词加名词，非名词短语"
+  },
+  {
+    "surface": "une même incapacité",
+    "valid": true
+  },
+  {
+    "surface": "les caractères",
+    "valid": true
+  },
+  {
+    "surface": "une une autre dialecte",
+    "valid": false,
+    "reason": "冠词重复，语法错误"
+  },
+  {
+    "surface": "ces deux statuts",
+    "valid": true
+  },
+  {
+    "surface": "cette symétrie",
+    "valid": true
+  },
+  {
+    "surface": "impasse",
+    "valid": true
+  },
+  {
+    "surface": "leur chevauchement",
+    "valid": true
+  },
+  {
+    "surface": "plutôt, une sorte",
+    "valid": false,
+    "reason": "副词加标点加名词短语，非单一实词"
+  },
+  {
+    "surface": "slalom",
+    "valid": true
+  },
+  {
+    "surface": "éperdu",
+    "valid": true
+  },
+  {
+    "surface": "la double menace",
+    "valid": true
+  },
+  {
+    "surface": "pérification",
+    "valid": true
+  },
+  {
+    "surface": "de dissolution",
+    "valid": true
+  },
+  {
+    "surface": "qu'ils",
+    "valid": false,
+    "reason": "连词加代词"
+  },
+  {
+    "surface": "Ainsi le Flux",
+    "valid": false,
+    "reason": "副词加冠词加名词，非单一实词"
+  },
+  {
+    "surface": "le produit",
+    "valid": true
+  },
+  {
+    "surface": "des références continues",
+    "valid": true
+  },
+  {
+    "surface": "des consistances",
+    "valid": true
+  },
+  {
+    "surface": "discontinues",
+    "valid": true
+  },
+  {
+    "surface": ", ces deux opérations",
+    "valid": true
+  },
+  {
+    "surface": "d'héterogene",
+    "valid": true
+  },
+  {
+    "surface": "une seule",
+    "valid": false,
+    "reason": "冠词加形容词，非名词短语"
+  },
+  {
+    "surface": "savoir l'arrêt",
+    "valid": false,
+    "reason": "动词加冠词加名词，非名词短语"
+  },
+  {
+    "surface": "détermination sérielle",
+    "valid": true
+  },
+  {
+    "surface": "un terme fini",
+    "valid": true
+  },
+  {
+    "surface": "s'en",
+    "valid": false,
+    "reason": "代词加介词"
+  },
+  {
+    "surface": "Remarquons",
+    "valid": false,
+    "reason": "动词变位形式"
+  },
+  {
+    "surface": "determinabilité",
+    "valid": true
+  },
+  {
+    "surface": "la l'agglomération",
+    "valid": false,
+    "reason": "冠词重复，语法错误"
+  },
+  {
+    "surface": "faisceau",
+    "valid": true
+  },
+  {
+    "surface": "un nombre fini",
+    "valid": true
+  },
+  {
+    "surface": "référentiles",
+    "valid": true
+  },
+  {
+    "surface": "Cette agglomération",
+    "valid": true
+  },
+  {
+    "surface": "tertiarialisation",
+    "valid": true
+  },
+  {
+    "surface": "ces modules",
+    "valid": true
+  },
+  {
+    "surface": "attracteur",
+    "valid": true
+  },
+  {
+    "surface": "phase",
+    "valid": true
+  },
+  {
+    "surface": ", au contour",
+    "valid": true
+  },
+  {
+    "surface": "séries potentielle",
+    "valid": true
+  },
+  {
+    "surface": "détermination",
+    "valid": true
+  },
+  {
+    "surface": "Les deux séquences",
+    "valid": true
+  },
+  {
+    "surface": "Flux 7a",
+    "valid": false,
+    "reason": "名词加数字符号碎片"
+  },
+  {
+    "surface": "La séquence modulaire",
+    "valid": true
+  },
+  {
+    "surface": "Cette zone",
+    "valid": true
+  },
+  {
+    "surface": "vitesse nulle",
+    "valid": true
+  },
+  {
+    "surface": "d∞",
+    "valid": false,
+    "reason": "字母加数学符号碎片"
+  },
+  {
+    "surface": "La séquence processuelle",
+    "valid": true
+  },
+  {
+    "surface": "Celiu",
+    "valid": false,
+    "reason": "拼写错误/非标准形式"
+  },
+  {
+    "surface": "traits sériels d*",
+    "valid": false,
+    "reason": "含通配符碎片"
+  },
+  {
+    "surface": "Les *durées*",
+    "valid": false,
+    "reason": "含通配符标记"
+  },
+  {
+    "surface": "alternité",
+    "valid": true
+  },
+  {
+    "surface": "la linéarisation stochastique",
+    "valid": true
+  },
+  {
+    "surface": "souvient",
+    "valid": false,
+    "reason": "动词变位形式"
+  },
+  {
+    "surface": "les les séries paradigmatiques",
+    "valid": false,
+    "reason": "冠词重复，语法错误"
+  },
+  {
+    "surface": "un numrotage",
+    "valid": true
+  },
+  {
+    "surface": "cette etape",
+    "valid": true
+  },
+  {
+    "surface": "struire",
+    "valid": false,
+    "reason": "动词不定式，非名词"
+  },
+  {
+    "surface": "insuffisance",
+    "valid": true
+  },
+  {
+    "surface": "un tel mode",
+    "valid": true
+  },
+  {
+    "surface": "representation",
+    "valid": true
+  },
+  {
+    "surface": "i'hétérône sensible d'un Flux relève bien",
+    "valid": false,
+    "reason": "含动词的完整句子片段"
+  },
+  {
+    "surface": "sa base F.T.",
+    "valid": true
+  },
+  {
+    "surface": "catégories quantifables",
+    "valid": true
+  },
+  {
+    "surface": "contre",
+    "valid": false,
+    "reason": "介词"
+  },
+  {
+    "surface": "son flanc",
+    "valid": true
+  },
+  {
+    "surface": "toute réduction",
+    "valid": true
+  },
+  {
+    "surface": "messages",
+    "valid": true
+  },
+  {
+    "surface": "certaines séries",
+    "valid": true
+  },
+  {
+    "surface": "plusieurs agglomérations modulaires",
+    "valid": true
+  },
+  {
+    "surface": "7a",
+    "valid": false,
+    "reason": "数字加字母碎片"
+  },
+  {
+    "surface": "la séries",
+    "valid": false,
+    "reason": "冠词与名词单复数不一致"
+  },
+  {
+    "surface": "détermination potentielle",
+    "valid": true
+  },
+  {
+    "surface": "l'attracteur",
+    "valid": true
+  },
+  {
+    "surface": "deux coûts",
+    "valid": true
+  },
+  {
+    "surface": "coté non discursif",
+    "valid": true
+  },
+  {
+    "surface": "eventuelle re-agglomeration existentielle",
+    "valid": true
+  },
+  {
+    "surface": "Agenement",
+    "valid": true
+  },
+  {
+    "surface": "un nouveau module",
+    "valid": true
+  },
+  {
+    "surface": "des déterminations sérielles",
+    "valid": true
+  },
+  {
+    "surface": "7, la série",
+    "valid": false,
+    "reason": "数字加标点加名词短语"
+  },
+  {
+    "surface": "Cette re-agglomeration",
+    "valid": true
+  },
+  {
+    "surface": "autoconstance existentielle",
+    "valid": true
+  },
+  {
+    "surface": "coté discursif",
+    "valid": true
+  },
+  {
+    "surface": "nouveau champs",
+    "valid": true
+  },
+  {
+    "surface": "que cotoyeur",
+    "valid": false,
+    "reason": "连词加名词，非名词短语"
+  },
+  {
+    "surface": "les modules",
+    "valid": true
+  },
+  {
+    "surface": "la co-activation existentielle",
+    "valid": true
+  },
+  {
+    "surface": "trompier",
+    "valid": false,
+    "reason": "拼写错误/非标准形式"
+  },
+  {
+    "surface": "la revanche",
+    "valid": true
+  },
+  {
+    "surface": "les calculs *",
+    "valid": false,
+    "reason": "含通配符"
+  },
+  {
+    "surface": "l'heureuse",
+    "valid": false,
+    "reason": "冠词加形容词，非名词"
+  },
+  {
+    "surface": "Ivar",
+    "valid": true
+  },
+  {
+    "surface": "Ekland",
+    "valid": true
+  },
+  {
+    "surface": "géométries",
+    "valid": true
+  },
+  {
+    "surface": "des topologies",
+    "valid": true
+  },
+  {
+    "surface": "corrélat",
+    "valid": true
+  },
+  {
+    "surface": "éterritorialisant",
+    "valid": true
+  },
+  {
+    "surface": "F. Φ.",
+    "valid": false,
+    "reason": "缩写与符号碎片"
+  },
+  {
+    "surface": "les qualités abstraites",
+    "valid": true
+  },
+  {
+    "surface": "des cribres",
+    "valid": true
+  },
+  {
+    "surface": "endorination",
+    "valid": false,
+    "reason": "拼写错误/非标准形式"
+  }
+]

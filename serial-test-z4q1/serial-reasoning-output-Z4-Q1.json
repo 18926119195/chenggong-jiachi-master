@@ -1,0 +1,523 @@
+{
+  "questionId": "Z4-Q1",
+  "question": "Guattari对机器欲望的具体定义是什么？",
+  "model": "deepseek-flash",
+  "thinking": "disabled",
+  "elapsedSecs": 8.9,
+  "tokenUsage": {
+    "prompt_tokens": 7881,
+    "completion_tokens": 1628,
+    "total_tokens": 9509,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 7881
+  },
+  "truncated": false,
+  "llmOutput": "# 路径一：从“机器欲望”到“欲望机器”——概念的功能性定义\n\n步骤1：使用【【53】】，提取“机器欲望”（machine de désirante）这一表述，判断其与“欲望机器”（machines désirantes）在术语上的关联性。材料【【53】】中“une problématique de machine de désirante peut relancer”表明“机器欲望”是一个问题性（problématique），而非固定实体。\n\n步骤2：综合【【95】】【【77】】，对比“欲望机器”与“机器欲望”的语境差异。【【95】】提到“les *machines désirantes* de première génération”，指向第一代欲望机器，强调其作为“桥”（pont）的功能；【【77】】则将“machines de désir”与“Complexes de Flux matériels”和“Agencements sémiotiques”并列，说明欲望机器是物质流与符号装配之间的中介。\n\n步骤3：综合【【61】】【【80】】，交叉验证机器的生成性定义。【【61】】指出“Les machines et les champs machiniques sont engendrés à partir de Flux”，即机器从流（Flux）中生成；【【80】】将机器视为“instances de production ontologiques”（本体论生产实例），赋予其生产性而非再现性功能。\n\n结论：Guattari对“机器欲望”的具体定义并非实体性定义，而是功能性定义——机器欲望是从物质流（Flux）中生成、通过符号装配（Agencements sémiotiques）中介、具有本体论生产性的欲望机器（machines désirantes）的问题性场域。它既非主体也非结构，而是“流”与“装配”之间的转换机制。\n\n---\n\n# 路径二：抽象机器与具体机器的双重定位——机器欲望的“解域化”定义\n\n步骤1：使用【【46】】，提取“MACHINE ABSTRAITE ET MACHINE CONCRÈTE”这一标题，判断Guattari对机器的分类框架。材料【【46】】明确区分抽象机器与具体机器，构成机器欲望定义的基本坐标。\n\n步骤2：综合【【15】】【【21】】，对比抽象机器与具体机器的关系。【【15】】提出“les rapports entre les machines abstraites deterritorialisées et les machines concrentes du lissage”，即解域化的抽象机器与平滑化的具体机器之间的关系；【【21】】则指出“ce sont les machines concrentes elles-memes qui se trouvent dans une double position”，具体机器自身处于双重位置。\n\n步骤3：综合【【44】】【【64】】，交叉验证抽象机器的解域化特征。【【44】】指出“Chaque dé supplementaire de déterritorialisation d'une machine abstraite correspond ainsi au acroissement de sa puissance”，即抽象机器的解域化程度与其力量增长对应；【【64】】则强调“Avec la machine abstraite, au contraire”，抽象机器与不可预测的“Univers”涌现相对立。\n\n步骤4：使用【【35】】，提取“la machine est conque comme étant portée d'une plus-value machinique, d'une « vie » possibilis”，即机器被构想为承载着机器剩余价值与“可能生命”。\n\n结论：Guattari对机器欲望的定义包含双重定位——抽象机器（machine abstraite）通过解域化（déterritorialisation）获得力量增长，具体机器（machine concrète）则处于平滑化（lissage）与双重位置之中。机器欲望正是这种抽象解域与具体平滑之间的张力场，其“欲望”不在于缺失，而在于“可能生命”（vie possibilis）的剩余价值生产。\n\n---\n\n# 路径三：机器欲望的“本体论生产”定义——从流到装配的循环\n\n步骤1：使用【【20】】，提取“ma description du cycle des Agencements est parti des Flux pour aller les machines, les incorpors et les existentiels”，即Guattari的描述从流（Flux）出发，经过机器（machines）、无形体（incorporels）到存在物（existentiels）。\n\n步骤2：综合【【61】】【【190】】，交叉验证流与机器的生成关系。【【61】】指出“Les machines et les champs machiniques sont engendrés à partir de Flux”；【【190】】则指出“le Flux, à proprement parler, peut être redéfinie comme le produit”，即流本身可被重新定义为产物。\n\n步骤3：综合【【80】】【【201】】，综合提取机器的本体论生产性。【【80】】将机器视为“instances de production ontologiques”；【【201】】则指出“Singularisation synonyme de necessitation interne qui donna un nouveau pupe existiel aux Agencements, qui les énergisera”，即奇异化赋予装配新的存在样态并使其能量化。\n\n步骤4：使用【【158】】，提取“lissages du cycle des Agencements mais, surcurre, chaque positionnement particulier d'une entité entraîne”，即装配循环中的平滑化与每个实体的特殊定位。\n\n结论：Guattari对机器欲望的定义最终落在“本体论生产”上——机器欲望是从流（Flux）中生成、通过装配循环（cycle des Agencements）转化为本体论生产实例（instances de production ontologiques）的过程。它不是心理欲望，而是“流—机器—无形体—存在物”循环中的能量化与奇异化机制，其核心是“可能生命”的生产而非缺失的填补。\n\n---\n\n# 路径四：机器欲望的“异质生成”定义——反对结构主义的机器论\n\n步骤1：使用【【35】】，提取“une opposition entre : machine et structure”，即机器与结构之间的对立。材料【【35】】明确指出机器被构想为承载“机器剩余价值”与“可能生命”，而结构则不同。\n\n步骤2：综合【【49】】【【162】】，交叉验证机器的异质生成特征。【【49】】指出“avec une telle association d'héterogénétique, nous tenons une des definitions possibles de la fonction machinique”，即异质关联是机器功能的可能定义之一；【【162】】则指出“Cette association d'un hétérogène... est caractéristique du Flux machinique”，即异质关联是机器流的特征。\n\n步骤3：综合【【209】】【【43】】，对比机器论与结构主义。【【209】】指出“une parfaite synchronie structuraliste, où tout est toujours affaire d'Agencements contingents, d'héterogénèse, d'irréversibilisation”，即结构主义同步性被偶然装配、异质生成与不可逆化取代；【【43】】则指出“le machinisme abstrait est, par excellence”，抽象机器论是卓越的。\n\n步骤4：使用【【100】】，提取“le machinisme trans-linéaire”，即跨线机器论，进一步强调机器欲望超越线性结构。\n\n结论：Guattari对机器欲望的定义在方法论上是对结构主义的批判——机器欲望不是结构中的位置或缺失，而是异质生成（hétérogénèse）、不可逆化（irréversibilisation）与跨线机器论（machinisme trans-linéaire）的产物。它反对结构主义的同步性与象征交换，主张机器欲望是“流—机器—装配”循环中的偶然性与创造性力量。",
+  "totalMaterialsAvailable": 252,
+  "materialsUsedCount": 20,
+  "traceback": {
+    "15": {
+      "chunkKey": "h1.A-XJzvkwSoApQFtvQc4XzrE2OrHdpbbd7AHAOlSbr19WD5JIMii5LdvqB9d5Y7Had2wSrBY-adQecMoi7xPks6sD7B-niRG_gAhHkL0FLFORq9lefdHqz5SED26Y0SyCsi2cKfjpBMIDy69LWvE",
+      "nounCount": 4,
+      "hits": [
+        {
+          "noun": "machines",
+          "score": 95,
+          "nounId": "machines"
+        },
+        {
+          "noun": "Agencements",
+          "score": 85,
+          "nounId": "agencements"
+        },
+        {
+          "noun": "Les machines abstraites",
+          "score": 82,
+          "nounId": "les_machines_abstraites"
+        },
+        {
+          "noun": "machique",
+          "score": 68,
+          "nounId": "machique"
+        }
+      ]
+    },
+    "20": {
+      "chunkKey": "h1.snHTDlrl-k6ZqC32NoSyDcqWoSFVDWbo6C4911j_ypMnw2VpcLhwHOKZOj5yYjI5q_X2N3FCOF9qNE9VCR0taEj3MXv0A-81Q5C58K_QkeCtqE45j-bXsmO9hfjIVyjyhSd8Ttgy8Wh7dmTT7Gw",
+      "nounCount": 9,
+      "hits": [
+        {
+          "noun": "machines",
+          "score": 95,
+          "nounId": "machines"
+        },
+        {
+          "noun": "la machine",
+          "score": 90,
+          "nounId": "la_machine"
+        },
+        {
+          "noun": "les machines",
+          "score": 90,
+          "nounId": "les_machines"
+        },
+        {
+          "noun": "Agencements",
+          "score": 85,
+          "nounId": "agencements"
+        },
+        {
+          "noun": "fonction machinique",
+          "score": 80,
+          "nounId": "fonction_machinique"
+        },
+        {
+          "noun": "machines matérielles",
+          "score": 78,
+          "nounId": "machines_matérielles"
+        },
+        {
+          "noun": "des entités machiniques",
+          "score": 76,
+          "nounId": "des_entités_machiniques"
+        },
+        {
+          "noun": "abstraites",
+          "score": 74,
+          "nounId": "abstraites"
+        },
+        {
+          "noun": "vivantes",
+          "score": 72,
+          "nounId": "vivantes"
+        }
+      ]
+    },
+    "21": {
+      "chunkKey": "h1.snHTDlrl-k6ZqC32NoSyDcqWoSFVDWbo6C4911j_ypMnw2VpcLhwHOKZOj5yYjI5q_X2N3FCOF9qNE9VCR0taEj3MXv0A-81Q5C58K_QkeCtqE45j-bXsmO9hfjIVyjyhSd8Ttgy8Wh7dmTT7Gw",
+      "nounCount": 9,
+      "hits": [
+        {
+          "noun": "machines",
+          "score": 95,
+          "nounId": "machines"
+        },
+        {
+          "noun": "la machine",
+          "score": 90,
+          "nounId": "la_machine"
+        },
+        {
+          "noun": "les machines",
+          "score": 90,
+          "nounId": "les_machines"
+        },
+        {
+          "noun": "Agencements",
+          "score": 85,
+          "nounId": "agencements"
+        },
+        {
+          "noun": "fonction machinique",
+          "score": 80,
+          "nounId": "fonction_machinique"
+        },
+        {
+          "noun": "machines matérielles",
+          "score": 78,
+          "nounId": "machines_matérielles"
+        },
+        {
+          "noun": "des entités machiniques",
+          "score": 76,
+          "nounId": "des_entités_machiniques"
+        },
+        {
+          "noun": "abstraites",
+          "score": 74,
+          "nounId": "abstraites"
+        },
+        {
+          "noun": "vivantes",
+          "score": 72,
+          "nounId": "vivantes"
+        }
+      ]
+    },
+    "35": {
+      "chunkKey": "h1.2RqQU0oDLNhNn3Bm--HOP75kUkSkLo6jq6U5Y6IGVxF_KjwgS9Fi0QylAiXujBUdsHMIgAuPiEt-ZO-t3HdXA9POtif9OdFw0ty5CNtVXACTh5TB2NbhnpuPn0VkDq5CkyQxeh5U_ne3QbbHfUQ",
+      "nounCount": 4,
+      "hits": [
+        {
+          "noun": "machine",
+          "score": 92,
+          "nounId": "machine"
+        },
+        {
+          "noun": "la machine",
+          "score": 90,
+          "nounId": "la_machine"
+        },
+        {
+          "noun": "les *machines désirantes",
+          "score": 88,
+          "nounId": "les_*machines_désirantes"
+        },
+        {
+          "noun": "Agencements",
+          "score": 85,
+          "nounId": "agencements"
+        }
+      ]
+    },
+    "43": {
+      "chunkKey": "h1.rZ1YF11lCDzJDdxH35UPES4ykmDCMA9cbZaEhoL12c4h3OtJLp_ZgtP5YC2bFOemEJEOs9ohQPCytNgAK6LA_yRki8VeEBI6oNzRyyYjJA_0chVx5MiDNDjhcql515de_baKR_ZQep9gyRIoSHo",
+      "nounCount": 7,
+      "hits": [
+        {
+          "noun": "machine",
+          "score": 92,
+          "nounId": "machine"
+        },
+        {
+          "noun": "Phylum machiniques",
+          "score": 84,
+          "nounId": "phylum_machiniques"
+        },
+        {
+          "noun": "le machinisme",
+          "score": 82,
+          "nounId": "le_machinisme"
+        },
+        {
+          "noun": "une machine abstraite",
+          "score": 82,
+          "nounId": "une_machine_abstraite"
+        },
+        {
+          "noun": "Ces machinisme",
+          "score": 76,
+          "nounId": "ces_machinisme"
+        },
+        {
+          "noun": "Flux instanciés",
+          "score": 74,
+          "nounId": "flux_instanciés"
+        },
+        {
+          "noun": "chaque monade machinique",
+          "score": 70,
+          "nounId": "chaque_monade_machinique"
+        }
+      ]
+    },
+    "44": {
+      "chunkKey": "h1.rZ1YF11lCDzJDdxH35UPES4ykmDCMA9cbZaEhoL12c4h3OtJLp_ZgtP5YC2bFOemEJEOs9ohQPCytNgAK6LA_yRki8VeEBI6oNzRyyYjJA_0chVx5MiDNDjhcql515de_baKR_ZQep9gyRIoSHo",
+      "nounCount": 7,
+      "hits": [
+        {
+          "noun": "machine",
+          "score": 92,
+          "nounId": "machine"
+        },
+        {
+          "noun": "Phylum machiniques",
+          "score": 84,
+          "nounId": "phylum_machiniques"
+        },
+        {
+          "noun": "le machinisme",
+          "score": 82,
+          "nounId": "le_machinisme"
+        },
+        {
+          "noun": "une machine abstraite",
+          "score": 82,
+          "nounId": "une_machine_abstraite"
+        },
+        {
+          "noun": "Ces machinisme",
+          "score": 76,
+          "nounId": "ces_machinisme"
+        },
+        {
+          "noun": "Flux instanciés",
+          "score": 74,
+          "nounId": "flux_instanciés"
+        },
+        {
+          "noun": "chaque monade machinique",
+          "score": 70,
+          "nounId": "chaque_monade_machinique"
+        }
+      ]
+    },
+    "46": {
+      "chunkKey": "h1.s67DMgnKZu6jaxBtpJDunfXZbnTU0lteKDwmdEWZ12-4XhTBZjnfYVQotfyQsNOzuMOknLkHKFKtLFdbUyS9mVD2oTwMZSn_RBibqDS55ohfs9c4fyII186opf1Or_6C2MkzTaCvIQUQ-gGXhHc",
+      "nounCount": 1,
+      "hits": [
+        {
+          "noun": "machine",
+          "score": 92,
+          "nounId": "machine"
+        }
+      ]
+    },
+    "49": {
+      "chunkKey": "h1.3OeNrsBQVLadvxg_Sd6bMQhupkaTwhl4CFYP9unsfvdpm8aArGizvF6j49iTSLoJEIpH_uYXJxxBtD6UPgc8MXJmSkhDPJKPrMoaz_0uvco79aAxdr826XVB_kzaPmlW0iwqJPsYKL8sG0s0bN1h",
+      "nounCount": 3,
+      "hits": [
+        {
+          "noun": "machine",
+          "score": 92,
+          "nounId": "machine"
+        },
+        {
+          "noun": "toute machine",
+          "score": 84,
+          "nounId": "toute_machine"
+        },
+        {
+          "noun": "la fonction machinique",
+          "score": 82,
+          "nounId": "la_fonction_machinique"
+        }
+      ]
+    },
+    "53": {
+      "chunkKey": "h1.h33ero6-xw4gb8CU4PaVenU2GPy254IOoNHJl5kB0n9qJSNwe7iDMbMxxlmSGxdZCnezqOzBSnX2jaMEPluBdEOdJqh4MfL4lcuM40JAt-u8MCEzUqhNOP36Eel1wEDKCicUgmiy9pi2nsd9EJrN",
+      "nounCount": 3,
+      "hits": [
+        {
+          "noun": "machine",
+          "score": 92,
+          "nounId": "machine"
+        },
+        {
+          "noun": "désirante",
+          "score": 70,
+          "nounId": "désirante"
+        },
+        {
+          "noun": "enchainements machiniques",
+          "score": 65,
+          "nounId": "enchainements_machiniques"
+        }
+      ]
+    },
+    "61": {
+      "chunkKey": "h1.K0qouRx7sA65iDrKcZnkzma1uXHlO1GFElSB2I7I_wbZXrNjopfOQJGnapLzk9ak6EEy4JtrVxmfLerm30lqX1zORaBYd4Z-L-__xWKhh8ryulpIhiNYPh-40aYZIxHcPdOgkcduNr2e5WDvOVI",
+      "nounCount": 3,
+      "hits": [
+        {
+          "noun": "la machine",
+          "score": 90,
+          "nounId": "la_machine"
+        },
+        {
+          "noun": "les machines",
+          "score": 90,
+          "nounId": "les_machines"
+        },
+        {
+          "noun": "Agencements",
+          "score": 85,
+          "nounId": "agencements"
+        }
+      ]
+    },
+    "64": {
+      "chunkKey": "h1.HYxqoD1HglAb8plmKpv0BIxohlWiOdQP4Z27H11ir7nx8mdsSTulAsrQR4MhvQzqvUH5Aw0_ru7GuNW4x0kJBdXlS-NFG8ODUSdSg_JRoG9PULGRMjmopYtYN4s0NijG2gWxJ4_3ro0rWQR2vPc",
+      "nounCount": 4,
+      "hits": [
+        {
+          "noun": "la machine",
+          "score": 90,
+          "nounId": "la_machine"
+        },
+        {
+          "noun": "un Phylum machinique",
+          "score": 82,
+          "nounId": "un_phylum_machinique"
+        },
+        {
+          "noun": "Les machines abstraites",
+          "score": 82,
+          "nounId": "les_machines_abstraites"
+        },
+        {
+          "noun": "Propositions machiniques",
+          "score": 78,
+          "nounId": "propositions_machiniques"
+        }
+      ]
+    },
+    "77": {
+      "chunkKey": "h1.jr3fRlc24vwHYHecHw40Wne_Fwdanu7ksZ-SYatlRDeZHKct_k_TRdIazntIKV6AxcKheZfGTcHQjKv461eaLtkzquTuESQE6NYnsD7EQSuPRyOhg9K19XEQvLU2o_stBZHcH15PPA0R5fWHa-I",
+      "nounCount": 3,
+      "hits": [
+        {
+          "noun": "les machines",
+          "score": 90,
+          "nounId": "les_machines"
+        },
+        {
+          "noun": "2) les Phylum machiniques",
+          "score": 80,
+          "nounId": "2)_les_phylum_machiniques"
+        },
+        {
+          "noun": "Les Agencements sémiotiques",
+          "score": 74,
+          "nounId": "les_agencements_sémiotiques"
+        }
+      ]
+    },
+    "80": {
+      "chunkKey": "h1.TPRT-iasgK-bYxmNa2Y8pBIQcTB6-sZnYQ3zqkCrzmhs7rxPZvWJjrs3v84dcN8mZWzH6FDRpexB5r-WbOfzznPcEj2J40bC3lvtk5h9WIH9Rf_wD8H_XZwSo71rMnqTCBbjSGcQwaNe8Ugh1iw",
+      "nounCount": 3,
+      "hits": [
+        {
+          "noun": "les machines",
+          "score": 90,
+          "nounId": "les_machines"
+        },
+        {
+          "noun": "Les operateurs machiniques",
+          "score": 78,
+          "nounId": "les_operateurs_machiniques"
+        },
+        {
+          "noun": "machines propres",
+          "score": 76,
+          "nounId": "machines_propres"
+        }
+      ]
+    },
+    "95": {
+      "chunkKey": "h1.3pYeGn68ZlKvL2fe3qm8HIYttao9m65exyRVFChv_IiOWQIZKCCaOt7WuhE2UiQkTufFRwB-mRyI4ajlKgJ_8H6eai1-h7sKjrS262L87HQsSZIhbr0nzMIjmQnDzEi9goQajbp-T1zxnkXwu6lT",
+      "nounCount": 3,
+      "hits": [
+        {
+          "noun": "les *machines désirantes",
+          "score": 88,
+          "nounId": "les_*machines_désirantes"
+        },
+        {
+          "noun": "Agencements",
+          "score": 85,
+          "nounId": "agencements"
+        },
+        {
+          "noun": "des machines abstraites",
+          "score": 82,
+          "nounId": "des_machines_abstraites"
+        }
+      ]
+    },
+    "100": {
+      "chunkKey": "h1.avMXaxX_ivZK63Jr4MBC6VVqj1ure7HYcotfGB2HLzmWv6aKiYsxxVdjD7HKJ0TTizem0dV0OWba9JgDAatvkWELOo9U3smyP_cUA6JflLGW0IAaOBwwl4jv4iBB4jwfNmTAjXZ7KVZuGhL_Y6E",
+      "nounCount": 2,
+      "hits": [
+        {
+          "noun": "La machinique",
+          "score": 86,
+          "nounId": "la_machinique"
+        },
+        {
+          "noun": "- le machinisme trans-linéaire",
+          "score": 74,
+          "nounId": "-_le_machinisme_trans-linéaire"
+        }
+      ]
+    },
+    "158": {
+      "chunkKey": "h1.S3x_CTKjE8Bj5VOFIpvG35X5gKGFJhWg6YbS9H9AxhuC1b5JzkNkpS8oBOQarwTFDPXtiCKTL75hioTtFZcEI3MAk_B_x_Ym3CUHZIBmptWOx_HlJR0V1Iq1mChqvstopIIqtiWquXFWfIoqHdw",
+      "nounCount": 3,
+      "hits": [
+        {
+          "noun": "Agencements",
+          "score": 85,
+          "nounId": "agencements"
+        },
+        {
+          "noun": "Flux machiniques",
+          "score": 82,
+          "nounId": "flux_machiniques"
+        },
+        {
+          "noun": "Flux instanciés",
+          "score": 74,
+          "nounId": "flux_instanciés"
+        }
+      ]
+    },
+    "162": {
+      "chunkKey": "h1.eoQ35YKZGb9v7jtqmU7nE6DQjFpAGAJFyr4A1ME9hyxf5Qege7Ad9yNLeQ4acDq6RcNJ8k5FhrOXiehOy8qWD9UHgYdcMqiZZAcK0Erk_ptjIQJywk9tqFiM7S0LsCIdVv-UKbtEq01prKnB9Lo",
+      "nounCount": 3,
+      "hits": [
+        {
+          "noun": "Agencements",
+          "score": 85,
+          "nounId": "agencements"
+        },
+        {
+          "noun": "Les machines abstraites",
+          "score": 82,
+          "nounId": "les_machines_abstraites"
+        },
+        {
+          "noun": "Flux machinique",
+          "score": 80,
+          "nounId": "flux_machinique"
+        }
+      ]
+    },
+    "190": {
+      "chunkKey": "h1.Q2Uf3_GqXum403Q_sP-2qaQzHh6Wshpem-sTowgIQstk8SgT-XfH0PyNH7WbiIDNwm5jswIZVja5IHGdZAQ7FOqGxkM4C4a8R2SS4YuQU6Iqx-ZfC2RN1fgIjVC-rqFIw9Qelal0huEc24iYsaKk",
+      "nounCount": 2,
+      "hits": [
+        {
+          "noun": "Agencements",
+          "score": 85,
+          "nounId": "agencements"
+        },
+        {
+          "noun": "détermination sérielle",
+          "score": 40,
+          "nounId": "détermination_sérielle"
+        }
+      ]
+    },
+    "201": {
+      "chunkKey": "h1.HfUwWwA1oJB6cnBbLhltbfo11FQ85JwNh0cLDTfBsGs4XFu78jLaEkSx5Naz-_jbQv69X1v8xYjhN_R3eIBPRxUIZzoIsvfSH6i0RLT6HmiZ-Nbr4e3r-pHmr_is6wV7M_4DQsv7CGVVhd9tG9s",
+      "nounCount": 1,
+      "hits": [
+        {
+          "noun": "Agencements",
+          "score": 85,
+          "nounId": "agencements"
+        }
+      ]
+    },
+    "209": {
+      "chunkKey": "h1.uzA99Fo2gldXyXf4YXgODQJzLMlYqjUb25r6wjTcrhYIY0FxbceoJ8iRWybuJ_-YkSbtgfeInizLUaFdaacl71L9E4fmiD4Uo8q7OsUWxGtHjDpwSceN_6oN0v7a1dJQsSwLR1272hqCUh4nlCgV",
+      "nounCount": 2,
+      "hits": [
+        {
+          "noun": "Agencements",
+          "score": 85,
+          "nounId": "agencements"
+        },
+        {
+          "noun": "-machine abstraite",
+          "score": 70,
+          "nounId": "-machine_abstraite"
+        }
+      ]
+    }
+  }
+}

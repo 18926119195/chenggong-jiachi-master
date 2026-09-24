@@ -1,0 +1,861 @@
+[
+  {
+    "surface": "contourne",
+    "valid": true
+  },
+  {
+    "surface": "sa puissance",
+    "valid": true
+  },
+  {
+    "surface": "branchement",
+    "valid": true
+  },
+  {
+    "surface": "décroître",
+    "valid": true
+  },
+  {
+    "surface": "ses composants",
+    "valid": true
+  },
+  {
+    "surface": "perdent",
+    "valid": true
+  },
+  {
+    "surface": "leur consistance",
+    "valid": true
+  },
+  {
+    "surface": "redouter",
+    "valid": true
+  },
+  {
+    "surface": "pareille",
+    "valid": true
+  },
+  {
+    "surface": "circonstance",
+    "valid": true
+  },
+  {
+    "surface": "indirue",
+    "valid": false,
+    "reason": "拼写错误/非标准词形"
+  },
+  {
+    "surface": "nouveaux symptômes",
+    "valid": true
+  },
+  {
+    "surface": "interprétation",
+    "valid": true
+  },
+  {
+    "surface": "Soit",
+    "valid": false,
+    "reason": "连词/副词用法，非名词"
+  },
+  {
+    "surface": "forcant",
+    "valid": false,
+    "reason": "拼写错误/非标准词形"
+  },
+  {
+    "surface": "les couleurs",
+    "valid": true
+  },
+  {
+    "surface": "un tableau etiologique",
+    "valid": true
+  },
+  {
+    "surface": "bien coiffer",
+    "valid": false,
+    "reason": "副词+动词，非名词短语"
+  },
+  {
+    "surface": "revient",
+    "valid": true
+  },
+  {
+    "surface": "mème",
+    "valid": false,
+    "reason": "拼写错误/非标准词形"
+  },
+  {
+    "surface": "apporte",
+    "valid": true
+  },
+  {
+    "surface": "un plateau",
+    "valid": true
+  },
+  {
+    "surface": ", les symptômes",
+    "valid": false,
+    "reason": "含标点碎片，非规范名词短语"
+  },
+  {
+    "surface": "déagents",
+    "valid": false,
+    "reason": "拼写错误/非标准词形"
+  },
+  {
+    "surface": "Un l'occurrence",
+    "valid": false,
+    "reason": "冠词与名词组合错误"
+  },
+  {
+    "surface": "s'agit",
+    "valid": false,
+    "reason": "代词+动词，非名词"
+  },
+  {
+    "surface": "garder",
+    "valid": true
+  },
+  {
+    "surface": "des sollicitations",
+    "valid": true
+  },
+  {
+    "surface": "invient",
+    "valid": false,
+    "reason": "拼写错误/非标准词形"
+  },
+  {
+    "surface": "originer",
+    "valid": true
+  },
+  {
+    "surface": "le *travail",
+    "valid": false,
+    "reason": "含符号碎片"
+  },
+  {
+    "surface": "duel*",
+    "valid": false,
+    "reason": "含符号碎片"
+  },
+  {
+    "surface": "les difféultés",
+    "valid": false,
+    "reason": "拼写错误"
+  },
+  {
+    "surface": "porter",
+    "valid": true
+  },
+  {
+    "surface": "substitution",
+    "valid": true
+  },
+  {
+    "surface": "Une description",
+    "valid": true
+  },
+  {
+    "surface": "termes",
+    "valid": true
+  },
+  {
+    "surface": "objet",
+    "valid": true
+  },
+  {
+    "surface": "pluton",
+    "valid": true
+  },
+  {
+    "surface": "ailleurs",
+    "valid": false,
+    "reason": "副词，非名词"
+  },
+  {
+    "surface": "presenterait",
+    "valid": true
+  },
+  {
+    "surface": "l'inconvenient",
+    "valid": true
+  },
+  {
+    "surface": "d'obscurcir",
+    "valid": false,
+    "reason": "介词+动词，非名词"
+  },
+  {
+    "surface": "les champs",
+    "valid": true
+  },
+  {
+    "surface": "la programmation psychanalytique",
+    "valid": true
+  },
+  {
+    "surface": "ou Freud",
+    "valid": false,
+    "reason": "连词+专有名词，非名词短语"
+  },
+  {
+    "surface": "n'envisageait",
+    "valid": false,
+    "reason": "否定副词+动词，非名词"
+  },
+  {
+    "surface": "que deux options",
+    "valid": false,
+    "reason": "连词/限定词+数词+名词，非规范名词短语"
+  },
+  {
+    "surface": "lente",
+    "valid": true
+  },
+  {
+    "surface": "mélancolique",
+    "valid": true
+  },
+  {
+    "surface": "liquidation",
+    "valid": true
+  },
+  {
+    "surface": "la libido investie",
+    "valid": true
+  },
+  {
+    "surface": "d'extreme",
+    "valid": false,
+    "reason": "介词+形容词，非名词"
+  },
+  {
+    "surface": "fixation",
+    "valid": true
+  },
+  {
+    "surface": "une *psychose hallucinatoire de desir*",
+    "valid": false,
+    "reason": "含符号碎片"
+  },
+  {
+    "surface": "2 –",
+    "valid": false,
+    "reason": "纯数字与符号碎片"
+  },
+  {
+    "surface": "devons",
+    "valid": false,
+    "reason": "助动词/动词变位，非名词"
+  },
+  {
+    "surface": "Essayons",
+    "valid": false,
+    "reason": "动词变位，非名词"
+  },
+  {
+    "surface": "d'illustrer",
+    "valid": false,
+    "reason": "介词+动词，非名词"
+  },
+  {
+    "surface": "Une cantatrice",
+    "valid": true
+  },
+  {
+    "surface": "perd",
+    "valid": true
+  },
+  {
+    "surface": "La semaine suivante",
+    "valid": true
+  },
+  {
+    "surface": "également",
+    "valid": false,
+    "reason": "副词，非名词"
+  },
+  {
+    "surface": "deux octaves",
+    "valid": true
+  },
+  {
+    "surface": "tenir",
+    "valid": true
+  },
+  {
+    "surface": "prêts",
+    "valid": true
+  },
+  {
+    "surface": "accueillir",
+    "valid": true
+  },
+  {
+    "surface": "des réorganisationes",
+    "valid": false,
+    "reason": "拼写错误"
+  },
+  {
+    "surface": "Agencement échappant",
+    "valid": true
+  },
+  {
+    "surface": "complexe",
+    "valid": true
+  },
+  {
+    "surface": "malédictions",
+    "valid": true
+  },
+  {
+    "surface": "l'identification primaire",
+    "valid": true
+  },
+  {
+    "surface": "de la relation",
+    "valid": true
+  },
+  {
+    "surface": "incorporation orale",
+    "valid": true
+  },
+  {
+    "surface": "cette cantatrice",
+    "valid": true
+  },
+  {
+    "surface": "le coup",
+    "valid": true
+  },
+  {
+    "surface": "cette occasion",
+    "valid": true
+  },
+  {
+    "surface": "quelques nouveaux degrés",
+    "valid": true
+  },
+  {
+    "surface": "desmorsai",
+    "valid": false,
+    "reason": "拼写错误/非标准词形"
+  },
+  {
+    "surface": "un mode",
+    "valid": true
+  },
+  {
+    "surface": "La perte",
+    "valid": true
+  },
+  {
+    "surface": "une composante",
+    "valid": true
+  },
+  {
+    "surface": "cette fois-à-du",
+    "valid": false,
+    "reason": "拼写错误/非标准词形"
+  },
+  {
+    "surface": "une inhibition",
+    "valid": true
+  },
+  {
+    "surface": "chaine",
+    "valid": true
+  },
+  {
+    "surface": "plaque",
+    "valid": true
+  },
+  {
+    "surface": "signal",
+    "valid": true
+  },
+  {
+    "surface": "alarme",
+    "valid": true
+  },
+  {
+    "surface": "jeuest",
+    "valid": false,
+    "reason": "拼写错误/非标准词形"
+  },
+  {
+    "surface": "C'est là la toute la question",
+    "valid": false,
+    "reason": "句子，非名词短语"
+  },
+  {
+    "surface": "de réponde",
+    "valid": false,
+    "reason": "介词+动词，非名词"
+  },
+  {
+    "surface": "de réponse",
+    "valid": true
+  },
+  {
+    "surface": "plamert",
+    "valid": false,
+    "reason": "拼写错误/非标准词形"
+  },
+  {
+    "surface": "Un indice",
+    "valid": true
+  },
+  {
+    "surface": "la restriction",
+    "valid": true
+  },
+  {
+    "surface": "performances vocales",
+    "valid": true
+  },
+  {
+    "surface": "l'artre",
+    "valid": false,
+    "reason": "拼写错误/非标准词形"
+  },
+  {
+    "surface": "quelque chose",
+    "valid": true
+  },
+  {
+    "surface": "comme le contexte",
+    "valid": false,
+    "reason": "连词/介词+冠词+名词，非规范名词短语"
+  },
+  {
+    "surface": "le révéle",
+    "valid": false,
+    "reason": "拼写错误/非标准词形"
+  },
+  {
+    "surface": "Certaines voies balises",
+    "valid": true
+  },
+  {
+    "surface": "longue date",
+    "valid": true
+  },
+  {
+    "surface": "le chant",
+    "valid": true
+  },
+  {
+    "surface": "le surcodeur moralisant de la mère",
+    "valid": true
+  },
+  {
+    "surface": "une transformation pragmatique",
+    "valid": true
+  },
+  {
+    "surface": "Ces daits",
+    "valid": false,
+    "reason": "拼写错误"
+  },
+  {
+    "surface": "passif",
+    "valid": true
+  },
+  {
+    "surface": "la colonne",
+    "valid": true
+  },
+  {
+    "surface": "manques",
+    "valid": true
+  },
+  {
+    "surface": "jugement positif",
+    "valid": true
+  },
+  {
+    "surface": "cet éventement dépendront beaucoup de choses",
+    "valid": false,
+    "reason": "句子，非名词短语"
+  },
+  {
+    "surface": "Toute induction transférentielle",
+    "valid": true
+  },
+  {
+    "surface": "cette manifestation symptomatique",
+    "valid": true
+  },
+  {
+    "surface": "probabilité",
+    "valid": true
+  },
+  {
+    "surface": "cumul",
+    "valid": true
+  },
+  {
+    "surface": "Certaints traits",
+    "valid": false,
+    "reason": "拼写错误"
+  },
+  {
+    "surface": "visagéité",
+    "valid": true
+  },
+  {
+    "surface": "visage",
+    "valid": true
+  },
+  {
+    "surface": "la mère",
+    "valid": true
+  },
+  {
+    "surface": "des coordonnées",
+    "valid": true
+  },
+  {
+    "surface": "leur propre compte",
+    "valid": true
+  },
+  {
+    "surface": "d'autres lignes",
+    "valid": true
+  },
+  {
+    "surface": "d'autres Constellations",
+    "valid": true
+  },
+  {
+    "surface": "certaines froncements",
+    "valid": true
+  },
+  {
+    "surface": "surveillance",
+    "valid": true
+  },
+  {
+    "surface": "les parties",
+    "valid": true
+  },
+  {
+    "surface": "extrémes",
+    "valid": false,
+    "reason": "拼写错误"
+  },
+  {
+    "surface": "la gamme",
+    "valid": true
+  },
+  {
+    "surface": "l'occasion",
+    "valid": true
+  },
+  {
+    "surface": "autel",
+    "valid": true
+  },
+  {
+    "surface": "les offrandes sacrificieles",
+    "valid": false,
+    "reason": "拼写错误"
+  },
+  {
+    "surface": "description plus proche",
+    "valid": true
+  },
+  {
+    "surface": "des contes",
+    "valid": true
+  },
+  {
+    "surface": "que des schémas scientifiques",
+    "valid": false,
+    "reason": "连词/限定词+名词，非规范名词短语"
+  },
+  {
+    "surface": "la psychologie",
+    "valid": true
+  },
+  {
+    "surface": "de la psychanalyse",
+    "valid": true
+  },
+  {
+    "surface": "la célébre «",
+    "valid": false,
+    "reason": "含标点碎片"
+  },
+  {
+    "surface": "boule pharyngienne",
+    "valid": true
+  },
+  {
+    "surface": "objets kleiniens",
+    "valid": true
+  },
+  {
+    "surface": "ruptures",
+    "valid": true
+  },
+  {
+    "surface": "identification consécutives",
+    "valid": true
+  },
+  {
+    "surface": "l'introjection mélancolique",
+    "valid": true
+  },
+  {
+    "surface": "désintracion",
+    "valid": false,
+    "reason": "拼写错误/非标准词形"
+  },
+  {
+    "surface": "la pulsion",
+    "valid": true
+  },
+  {
+    "surface": "LES FONCTEURS",
+    "valid": true
+  },
+  {
+    "surface": "déterritorialisation",
+    "valid": true
+  },
+  {
+    "surface": "deterritorialisation",
+    "valid": true
+  },
+  {
+    "surface": "par voie",
+    "valid": true
+  },
+  {
+    "surface": "conséquence",
+    "valid": true
+  },
+  {
+    "surface": "la representation",
+    "valid": true
+  },
+  {
+    "surface": "de l'unité",
+    "valid": true
+  },
+  {
+    "surface": "la personne",
+    "valid": true
+  },
+  {
+    "surface": "une conscience totalisante",
+    "valid": true
+  },
+  {
+    "surface": "maître",
+    "valid": true
+  },
+  {
+    "surface": "de l'univers*",
+    "valid": false,
+    "reason": "含符号碎片"
+  },
+  {
+    "surface": "participe",
+    "valid": true
+  },
+  {
+    "surface": "un mythe",
+    "valid": true
+  },
+  {
+    "surface": "fondateur",
+    "valid": true
+  },
+  {
+    "surface": "conscienatisation",
+    "valid": false,
+    "reason": "拼写错误/非标准词形"
+  },
+  {
+    "surface": ", diversifiés",
+    "valid": false,
+    "reason": "含标点碎片"
+  },
+  {
+    "surface": "la deterritorialisation",
+    "valid": true
+  },
+  {
+    "surface": "existentiens",
+    "valid": false,
+    "reason": "拼写错误/非标准词形"
+  },
+  {
+    "surface": "mutilations",
+    "valid": true
+  },
+  {
+    "surface": "les mutilations intermédiaires",
+    "valid": true
+  },
+  {
+    "surface": "catalyse",
+    "valid": true
+  },
+  {
+    "surface": "iso",
+    "valid": false,
+    "reason": "前缀/非独立名词"
+  },
+  {
+    "surface": "de modes",
+    "valid": true
+  },
+  {
+    "surface": "l'ensoi",
+    "valid": false,
+    "reason": "拼写错误/非标准词形"
+  },
+  {
+    "surface": "la consistance",
+    "valid": true
+  },
+  {
+    "surface": "une seconde dimension",
+    "valid": true
+  },
+  {
+    "surface": "discursive énergétique",
+    "valid": true
+  },
+  {
+    "surface": "fig",
+    "valid": false,
+    "reason": "缩写/非名词"
+  },
+  {
+    "surface": "Quatre foncteurs",
+    "valid": true
+  },
+  {
+    "surface": "F.T.Φ.U.",
+    "valid": false,
+    "reason": "缩写/符号碎片"
+  },
+  {
+    "surface": "leurs rapports",
+    "valid": true
+  },
+  {
+    "surface": "présupposition réciproque",
+    "valid": true
+  },
+  {
+    "surface": "abscisse",
+    "valid": true
+  },
+  {
+    "surface": "dispositifs traditionnels d'infrastructure somatique",
+    "valid": true
+  },
+  {
+    "surface": ", d'etatayage",
+    "valid": false,
+    "reason": "含标点碎片"
+  },
+  {
+    "surface": ", de déterminemismes",
+    "valid": false,
+    "reason": "含标点碎片且拼写错误"
+  },
+  {
+    "surface": "fondres",
+    "valid": false,
+    "reason": "拼写错误/非标准词形"
+  },
+  {
+    "surface": "le besoin",
+    "valid": true
+  },
+  {
+    "surface": "le manque",
+    "valid": true
+  },
+  {
+    "surface": ", de conditionnement",
+    "valid": false,
+    "reason": "含标点碎片"
+  },
+  {
+    "surface": "cet effet",
+    "valid": true
+  },
+  {
+    "surface": "entités",
+    "valid": true
+  },
+  {
+    "surface": "ces quatre domaines n'auront pas d'identifié fixe",
+    "valid": false,
+    "reason": "句子，非名词短语"
+  },
+  {
+    "surface": "leurs configurations propres",
+    "valid": true
+  },
+  {
+    "surface": "que à travers les rapports",
+    "valid": false,
+    "reason": "连词/介词+名词，非规范名词短语"
+  },
+  {
+    "surface": "de statut",
+    "valid": true
+  },
+  {
+    "surface": "leur Agencement",
+    "valid": true
+  },
+  {
+    "surface": "ensemble",
+    "valid": true
+  },
+  {
+    "surface": "une topique structureale",
+    "valid": false,
+    "reason": "拼写错误"
+  },
+  {
+    "surface": "c'est à leurs systèmes",
+    "valid": false,
+    "reason": "句子片段，非名词短语"
+  },
+  {
+    "surface": "transformation",
+    "valid": true
+  },
+  {
+    "surface": "la tache",
+    "valid": true
+  },
+  {
+    "surface": "leur modélisation",
+    "valid": true
+  },
+  {
+    "surface": "en mesure",
+    "valid": true
+  },
+  {
+    "surface": "une telle traverse",
+    "valid": true
+  },
+  {
+    "surface": "ordres",
+    "valid": true
+  }
+]

@@ -1,0 +1,853 @@
+[
+  {
+    "surface": "toutes les manières",
+    "valid": true
+  },
+  {
+    "surface": "d'autres moyens",
+    "valid": true
+  },
+  {
+    "surface": "le coeur",
+    "valid": true
+  },
+  {
+    "surface": "Si d'aventure",
+    "valid": false,
+    "reason": "连词短语/副词短语，非名词"
+  },
+  {
+    "surface": "Si mourn",
+    "valid": false,
+    "reason": "疑似拼写碎片，非完整名词"
+  },
+  {
+    "surface": "laise",
+    "valid": false,
+    "reason": "疑似拼写错误/碎片，非标准名词"
+  },
+  {
+    "surface": "une logique",
+    "valid": true
+  },
+  {
+    "surface": "moiure",
+    "valid": false,
+    "reason": "疑似拼写错误/碎片"
+  },
+  {
+    "surface": "quiconquia",
+    "valid": false,
+    "reason": "拼写碎片，非名词"
+  },
+  {
+    "surface": "au-du-lé",
+    "valid": false,
+    "reason": "介词/冠词组合碎片"
+  },
+  {
+    "surface": "delé",
+    "valid": false,
+    "reason": "疑似拼写碎片"
+  },
+  {
+    "surface": "Moi n",
+    "valid": false,
+    "reason": "代词+字母碎片"
+  },
+  {
+    "surface": "toute possibilité",
+    "valid": true
+  },
+  {
+    "surface": "autoenunciation",
+    "valid": true
+  },
+  {
+    "surface": "auto-chose",
+    "valid": true
+  },
+  {
+    "surface": "Cette rétéritation déterritorialisante",
+    "valid": true
+  },
+  {
+    "surface": "deux axes synchonique",
+    "valid": true
+  },
+  {
+    "surface": "coordonnées extrinsèques autonomises",
+    "valid": true
+  },
+  {
+    "surface": "Les unes intentionnelles",
+    "valid": true
+  },
+  {
+    "surface": "la transformation mathématique",
+    "valid": true
+  },
+  {
+    "surface": "du boulanger",
+    "valid": true
+  },
+  {
+    "surface": "un permanent *",
+    "valid": false,
+    "reason": "含星号碎片，非规范名词短语"
+  },
+  {
+    "surface": "progress*",
+    "valid": false,
+    "reason": "含星号碎片"
+  },
+  {
+    "surface": "la *prise d'être*",
+    "valid": false,
+    "reason": "含星号标记，非规范名词短语"
+  },
+  {
+    "surface": "sa consistance",
+    "valid": true
+  },
+  {
+    "surface": "ses partitions",
+    "valid": true
+  },
+  {
+    "surface": "fusent",
+    "valid": false,
+    "reason": "动词变位形式"
+  },
+  {
+    "surface": "les infinitesimales",
+    "valid": true
+  },
+  {
+    "surface": "homothet existentiels",
+    "valid": true
+  },
+  {
+    "surface": "extensité discursive",
+    "valid": true
+  },
+  {
+    "surface": "les ritournelles sensibles",
+    "valid": true
+  },
+  {
+    "surface": "Non seulement tous les angles",
+    "valid": false,
+    "reason": "连词短语+名词组合，非单一实词"
+  },
+  {
+    "surface": "aproche temporelres",
+    "valid": true
+  },
+  {
+    "surface": "subsumes",
+    "valid": false,
+    "reason": "动词变位形式"
+  },
+  {
+    "surface": "également l'ensemble",
+    "valid": false,
+    "reason": "副词+冠词+名词组合，非单一实词"
+  },
+  {
+    "surface": "l'intégraîte",
+    "valid": true
+  },
+  {
+    "surface": "cette catégorie fondamentale",
+    "valid": true
+  },
+  {
+    "surface": "l'archéctologie",
+    "valid": true
+  },
+  {
+    "surface": "Un anex trans-monadique",
+    "valid": true
+  },
+  {
+    "surface": "de transversalité",
+    "valid": true
+  },
+  {
+    "surface": "son caractère transitiviste à l'énoncation, la faissant constamment dériver d'une territorialité existentielle à une autre et générant, à partir de celle-ci, des datations et des durées singularisantes",
+    "valid": false,
+    "reason": "完整从句/句子片段，非名词短语"
+  },
+  {
+    "surface": "l'exemple princeps",
+    "valid": true
+  },
+  {
+    "surface": "ritournelles proustiennes",
+    "valid": true
+  },
+  {
+    "surface": "l'édonication",
+    "valid": true
+  },
+  {
+    "surface": "integrazione",
+    "valid": true
+  },
+  {
+    "surface": "insight",
+    "valid": true
+  },
+  {
+    "surface": "d'out",
+    "valid": false,
+    "reason": "介词+碎片，非名词"
+  },
+  {
+    "surface": "sight",
+    "valid": true
+  },
+  {
+    "surface": "Pas à la façon",
+    "valid": false,
+    "reason": "否定副词+介词短语，非名词"
+  },
+  {
+    "surface": "psychanalystes traditionnels",
+    "valid": true
+  },
+  {
+    "surface": "identifications modifiantes",
+    "valid": true
+  },
+  {
+    "surface": "d'intégrations",
+    "valid": true
+  },
+  {
+    "surface": "ses dimensions ethico",
+    "valid": true
+  },
+  {
+    "surface": "rituelles",
+    "valid": true
+  },
+  {
+    "surface": "LeVínas",
+    "valid": true
+  },
+  {
+    "surface": "La subjection",
+    "valid": true
+  },
+  {
+    "surface": "enonciatifs actuels et virtuels",
+    "valid": true
+  },
+  {
+    "surface": "irrémédiablement",
+    "valid": false,
+    "reason": "副词"
+  },
+  {
+    "surface": "pompes",
+    "valid": true
+  },
+  {
+    "surface": "un borgage",
+    "valid": true
+  },
+  {
+    "surface": "dérez",
+    "valid": false,
+    "reason": "疑似拼写碎片/动词形式"
+  },
+  {
+    "surface": "peuplant les automatisms psychologiques",
+    "valid": false,
+    "reason": "现在分词短语，非名词"
+  },
+  {
+    "surface": "Pierre Janet",
+    "valid": true
+  },
+  {
+    "surface": ", les expériences",
+    "valid": true
+  },
+  {
+    "surface": "Karl Jaspers",
+    "valid": true
+  },
+  {
+    "surface": "Deux attitudes possibles",
+    "valid": true
+  },
+  {
+    "surface": "fait inamovible et celles",
+    "valid": false,
+    "reason": "名词+形容词+连词+代词组合，非单一实词"
+  },
+  {
+    "surface": "ethico",
+    "valid": false,
+    "reason": "构词前缀/碎片，非独立名词"
+  },
+  {
+    "surface": "ouvrir",
+    "valid": false,
+    "reason": "动词不定式"
+  },
+  {
+    "surface": "Le freudisme",
+    "valid": true
+  },
+  {
+    "surface": "origines",
+    "valid": true
+  },
+  {
+    "surface": "une véritable mutation",
+    "valid": true
+  },
+  {
+    "surface": "Ses techniques",
+    "valid": true
+  },
+  {
+    "surface": "ses interventions",
+    "valid": true
+  },
+  {
+    "surface": "les ritournelles oniques et psychopathologiques",
+    "valid": true
+  },
+  {
+    "surface": "des contenus semantiques",
+    "valid": true
+  },
+  {
+    "surface": "l'Illussoire",
+    "valid": true
+  },
+  {
+    "surface": "révelation",
+    "valid": true
+  },
+  {
+    "surface": "tout son art",
+    "valid": true
+  },
+  {
+    "surface": "ses ritournelles",
+    "valid": true
+  },
+  {
+    "surface": "inédices",
+    "valid": true
+  },
+  {
+    "surface": "l'association libre",
+    "valid": true
+  },
+  {
+    "surface": ", la suggestion",
+    "valid": true
+  },
+  {
+    "surface": ", le transfert",
+    "valid": true
+  },
+  {
+    "surface": "nouvelles facades",
+    "valid": true
+  },
+  {
+    "surface": "au cours",
+    "valid": false,
+    "reason": "介词短语，非名词"
+  },
+  {
+    "surface": "son développement historique",
+    "valid": true
+  },
+  {
+    "surface": "ce qui conne des composés semantiques",
+    "valid": false,
+    "reason": "关系从句，非名词短语"
+  },
+  {
+    "surface": "son ennexion",
+    "valid": true
+  },
+  {
+    "surface": "deux matières",
+    "valid": true
+  },
+  {
+    "surface": "mais avec sa structuralisation",
+    "valid": false,
+    "reason": "连词+介词短语，非单一实词"
+  },
+  {
+    "surface": "soiement",
+    "valid": false,
+    "reason": "疑似拼写碎片/副词"
+  },
+  {
+    "surface": "*mathème*.",
+    "valid": false,
+    "reason": "含星号与标点，非规范名词"
+  },
+  {
+    "surface": "ses propres Agencements",
+    "valid": true
+  },
+  {
+    "surface": "un divan",
+    "valid": true
+  },
+  {
+    "surface": "de telle sorte",
+    "valid": false,
+    "reason": "副词短语，非名词"
+  },
+  {
+    "surface": "la dialectique",
+    "valid": true
+  },
+  {
+    "surface": "ses moyens",
+    "valid": true
+  },
+  {
+    "surface": "paître",
+    "valid": false,
+    "reason": "动词不定式"
+  },
+  {
+    "surface": "Gisela Pankof) ou avec la video, le cinéma",
+    "valid": false,
+    "reason": "专名+标点+连词+名词混合片段"
+  },
+  {
+    "surface": "le théâtre",
+    "valid": true
+  },
+  {
+    "surface": ", les structures institutionnelles, les interactions",
+    "valid": true
+  },
+  {
+    "surface": "bret",
+    "valid": false,
+    "reason": "疑似拼写碎片"
+  },
+  {
+    "surface": "les facettes",
+    "valid": true
+  },
+  {
+    "surface": "assignance",
+    "valid": true
+  },
+  {
+    "surface": "leurs fonctions catalytiques",
+    "valid": true
+  },
+  {
+    "surface": "nouveau Univers",
+    "valid": true
+  },
+  {
+    "surface": "l'interprétation",
+    "valid": true
+  },
+  {
+    "surface": "fantasies",
+    "valid": true
+  },
+  {
+    "surface": "le déplacement",
+    "valid": true
+  },
+  {
+    "surface": "les autres opérataires",
+    "valid": true
+  },
+  {
+    "surface": "une nouvelle «",
+    "valid": false,
+    "reason": "冠词+形容词+引号碎片"
+  },
+  {
+    "surface": "sens musical",
+    "valid": true
+  },
+  {
+    "surface": "Son travail",
+    "valid": true
+  },
+  {
+    "surface": "les singularités enkystees",
+    "valid": true
+  },
+  {
+    "surface": "– ce qui tourne en rond;",
+    "valid": false,
+    "reason": "关系从句片段，非名词"
+  },
+  {
+    "surface": "les évidences dominantes",
+    "valid": true
+  },
+  {
+    "surface": "consens",
+    "valid": true
+  },
+  {
+    "surface": "intérêts manifestes",
+    "valid": true
+  },
+  {
+    "surface": "leurs virtualités pragmatiques",
+    "valid": true
+  },
+  {
+    "surface": "la pente signifiante",
+    "valid": true
+  },
+  {
+    "surface": "l'affect chanypanalytique",
+    "valid": true
+  },
+  {
+    "surface": "ses transferts",
+    "valid": true
+  },
+  {
+    "surface": "plus en plus vides",
+    "valid": false,
+    "reason": "副词短语+形容词，非名词"
+  },
+  {
+    "surface": "ses échanges",
+    "valid": true
+  },
+  {
+    "surface": "plus en plus stérotypes",
+    "valid": false,
+    "reason": "副词短语+形容词，非名词"
+  },
+  {
+    "surface": "courbure",
+    "valid": true
+  },
+  {
+    "surface": "capitalisaites",
+    "valid": true
+  },
+  {
+    "surface": "une entropie",
+    "valid": true
+  },
+  {
+    "surface": "equivalences significalnelles",
+    "valid": true
+  },
+  {
+    "surface": "ou toutes les singularités existentelles",
+    "valid": false,
+    "reason": "连词+限定词+名词组合，非单一实词"
+  },
+  {
+    "surface": "les affects",
+    "valid": true
+  },
+  {
+    "surface": "la vieillesse",
+    "valid": true
+  },
+  {
+    "surface": "folie",
+    "valid": true
+  },
+  {
+    "surface": ", la mort",
+    "valid": true
+  },
+  {
+    "surface": "un réseau",
+    "valid": true
+  },
+  {
+    "surface": "assistance",
+    "valid": true
+  },
+  {
+    "surface": "de soins",
+    "valid": true
+  },
+  {
+    "surface": "le tout baigant",
+    "valid": true
+  },
+  {
+    "surface": "une ineffable",
+    "valid": true
+  },
+  {
+    "surface": "atmosphère",
+    "valid": true
+  },
+  {
+    "surface": "angioise",
+    "valid": true
+  },
+  {
+    "surface": "Désenschatement weberien, corrélatif",
+    "valid": true
+  },
+  {
+    "surface": "une dévaluation",
+    "valid": true
+  },
+  {
+    "surface": "anti-magie sacramentelle",
+    "valid": true
+  },
+  {
+    "surface": "tous azimuts",
+    "valid": false,
+    "reason": "副词短语，非名词"
+  },
+  {
+    "surface": "des productions",
+    "valid": true
+  },
+  {
+    "surface": "la dépolarisation",
+    "valid": true
+  },
+  {
+    "surface": "référence collectifs",
+    "valid": true
+  },
+  {
+    "surface": "l'gard",
+    "valid": true
+  },
+  {
+    "surface": "au bénifice",
+    "valid": true
+  },
+  {
+    "surface": "une infinie",
+    "valid": true
+  },
+  {
+    "surface": "multiplication",
+    "valid": true
+  },
+  {
+    "surface": "valence existentelles",
+    "valid": true
+  },
+  {
+    "surface": "Bien que l'actuelle inflation",
+    "valid": false,
+    "reason": "连词短语+名词组合，非单一实词"
+  },
+  {
+    "surface": "que c'est bien de la promotion",
+    "valid": false,
+    "reason": "从句片段，非名词"
+  },
+  {
+    "surface": "pratiques sociales et esthétiques",
+    "valid": true
+  },
+  {
+    "surface": "une telle être post-média",
+    "valid": true
+  },
+  {
+    "surface": "notre avenir",
+    "valid": true
+  },
+  {
+    "surface": "quelque niveau",
+    "valid": true
+  },
+  {
+    "surface": "considère",
+    "valid": false,
+    "reason": "动词变位形式"
+  },
+  {
+    "surface": "septembre",
+    "valid": true
+  },
+  {
+    "surface": "les massacres",
+    "valid": true
+  },
+  {
+    "surface": "Chatia",
+    "valid": true
+  },
+  {
+    "surface": "déterminants",
+    "valid": true
+  },
+  {
+    "surface": "l'aie",
+    "valid": false,
+    "reason": "助动词/动词形式"
+  },
+  {
+    "surface": "écrive",
+    "valid": false,
+    "reason": "动词变位形式"
+  },
+  {
+    "surface": "incubation",
+    "valid": true
+  },
+  {
+    "surface": ", l'instant",
+    "valid": true
+  },
+  {
+    "surface": "les instants",
+    "valid": true
+  },
+  {
+    "surface": "cellule",
+    "valid": true
+  },
+  {
+    "surface": "habituel",
+    "valid": false,
+    "reason": "形容词"
+  },
+  {
+    "surface": "métabolisme",
+    "valid": true
+  },
+  {
+    "surface": "la première maille",
+    "valid": true
+  },
+  {
+    "surface": "une dentelle",
+    "valid": true
+  },
+  {
+    "surface": "cancer",
+    "valid": true
+  },
+  {
+    "surface": "ce livre",
+    "valid": true
+  },
+  {
+    "surface": "quand quelques d'enveins politiques",
+    "valid": false,
+    "reason": "连词+限定词+碎片+形容词，非名词短语"
+  },
+  {
+    "surface": "livre",
+    "valid": true
+  },
+  {
+    "surface": "à l'invisibilité",
+    "valid": true
+  },
+  {
+    "surface": "Jean Genet",
+    "valid": true
+  },
+  {
+    "surface": "quatre ans",
+    "valid": true
+  },
+  {
+    "surface": "les épreuves",
+    "valid": true
+  },
+  {
+    "surface": "un capit",
+    "valid": true
+  },
+  {
+    "surface": "amourux",
+    "valid": false,
+    "reason": "疑似拼写错误形容词"
+  },
+  {
+    "surface": "des mordures ordinaires de la littérature",
+    "valid": true
+  },
+  {
+    "surface": "que tant de critiques",
+    "valid": false,
+    "reason": "连词+副词+名词组合，非单一实词"
+  },
+  {
+    "surface": "sa veritable importance",
+    "valid": true
+  },
+  {
+    "surface": "vagues",
+    "valid": true
+  },
+  {
+    "surface": "Dix fois",
+    "valid": false,
+    "reason": "数量副词短语，非名词"
+  },
+  {
+    "surface": "vingt fois",
+    "valid": false,
+    "reason": "数量副词短语，非名词"
+  },
+  {
+    "surface": ", les mêmes personages",
+    "valid": true
+  },
+  {
+    "surface": "ressac projector",
+    "valid": true
+  },
+  {
+    "surface": "nouvelles épaves mémorielles",
+    "valid": true
+  },
+  {
+    "surface": "modement",
+    "valid": false,
+    "reason": "疑似拼写碎片/副词"
+  },
+  {
+    "surface": "Genet",
+    "valid": true
+  },
+  {
+    "surface": "l'us",
+    "valid": true
+  },
+  {
+    "surface": "un reportage",
+    "valid": true
+  },
+  {
+    "surface": "images",
+    "valid": true
+  },
+  {
+    "surface": "Dive",
+    "valid": true
+  }
+]

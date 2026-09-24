@@ -1,0 +1,50 @@
+{
+  "callId": "call-0024",
+  "questionId": "Z1-Q3",
+  "timestamp": "2026-09-23T06-10-46-414Z",
+  "elapsed": 749,
+  "success": true,
+  "response": {
+    "text": "NONE",
+    "usage": {
+      "prompt_tokens": 3484,
+      "completion_tokens": 2,
+      "total_tokens": 3486,
+      "prompt_tokens_details": {
+        "cached_tokens": 0
+      },
+      "prompt_cache_hit_tokens": 0,
+      "prompt_cache_miss_tokens": 3484
+    },
+    "truncated": false,
+    "finishReason": "stop"
+  },
+  "rawResponse": {
+    "id": "ce4cc4f1-b706-467a-9708-6a468ed5988d",
+    "object": "chat.completion",
+    "created": 1790143846,
+    "model": "deepseek-flash",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "NONE"
+        },
+        "logprobs": null,
+        "finish_reason": "stop"
+      }
+    ],
+    "usage": {
+      "prompt_tokens": 3484,
+      "completion_tokens": 2,
+      "total_tokens": 3486,
+      "prompt_tokens_details": {
+        "cached_tokens": 0
+      },
+      "prompt_cache_hit_tokens": 0,
+      "prompt_cache_miss_tokens": 3484
+    },
+    "system_fingerprint": "aeb56401ca74e127821c4f9126dcb669"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "callId": "call-0276",
+  "timestamp": "2026-09-22T11-05-33-661Z",
+  "elapsed": 16583,
+  "success": true,
+  "response": {
+    "text": "【【1】】35\n【【2】】65\n【【3】】95\n【【4】】98\n【【5】】60\n【【6】】85\n【【7】】55\n【【8】】20\n【【9】】50\n【【10】】45\n【【11】】70\n【【12】】75\n【【13】】82\n【【14】】70\n【【15】】55\n【【16】】65\n【【17】】75\n【【18】】50\n【【19】】55\n【【20】】70\n【【21】】65\n【【22】】15\n【【23】】20\n【【24】】30\n【【25】】70\n【【26】】70\n【【27】】60\n【【28】】70\n【【29】】60\n【【30】】10\n【【31】】15\n【【32】】55\n【【33】】50\n【【34】】40\n【【35】】65\n【【36】】55\n【【37】】30\n【【38】】15\n【【39】】50\n【【40】】25\n【【41】】45\n【【42】】65\n【【43】】45\n【【44】】55\n【【45】】75\n【【46】】15\n【【47】】20\n【【48】】45\n【【49】】35\n【【50】】35\n【【51】】30\n【【52】】80\n【【53】】80\n【【54】】55\n【【55】】70\n【【56】】20\n【【57】】45\n【【58】】65\n【【59】】55\n【【60】】25\n【【61】】80\n【【62】】65\n【【63】】60\n【【64】】75\n【【65】】15\n【【66】】40\n【【67】】25\n【【68】】15\n【【69】】15\n【【70】】40\n【【71】】15\n【【72】】10\n【【73】】15\n【【74】】10\n【【75】】15\n【【76】】20\n【【77】】15\n【【78】】10\n【【79】】10\n【【80】】10\n【【81】】10\n【【82】】5\n【【83】】20\n【【84】】20\n【【85】】5\n【【86】】10\n【【87】】5\n【【88】】70\n【【89】】80\n【【90】】60\n【【91】】55\n【【92】】50\n【【93】】95\n【【94】】60\n【【95】】55\n【【96】】50\n【【97】】15\n【【98】】45\n【【99】】60\n【【100】】70\n【【101】】35\n【【102】】55\n【【103】】20\n【【104】】90\n【【105】】30\n【【106】】55\n【【107】】65\n【【108】】75\n【【109】】70\n【【110】】40\n【【111】】35\n【【112】】15\n【【113】】25\n【【114】】65\n【【115】】25",
+    "usage": {
+      "prompt_tokens": 1408,
+      "completion_tokens": 3651,
+      "total_tokens": 5059,
+      "prompt_tokens_details": {
+        "cached_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 2846
+      },
+      "prompt_cache_hit_tokens": 0,
+      "prompt_cache_miss_tokens": 1408
+    },
+    "truncated": false,
+    "finishReason": "stop"
+  },
+  "rawResponse": {
+    "id": "784fd9c2-cf34-46b4-9aaa-9c4e2e69587d",
+    "object": "chat.completion",
+    "created": 1790075133,
+    "model": "deepseek-flash",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "【【1】】35\n【【2】】65\n【【3】】95\n【【4】】98\n【【5】】60\n【【6】】85\n【【7】】55\n【【8】】20\n【【9】】50\n【【10】】45\n【【11】】70\n【【12】】75\n【【13】】82\n【【14】】70\n【【15】】55\n【【16】】65\n【【17】】75\n【【18】】50\n【【19】】55\n【【20】】70\n【【21】】65\n【【22】】15\n【【23】】20\n【【24】】30\n【【25】】70\n【【26】】70\n【【27】】60\n【【28】】70\n【【29】】60\n【【30】】10\n【【31】】15\n【【32】】55\n【【33】】50\n【【34】】40\n【【35】】65\n【【36】】55\n【【37】】30\n【【38】】15\n【【39】】50\n【【40】】25\n【【41】】45\n【【42】】65\n【【43】】45\n【【44】】55\n【【45】】75\n【【46】】15\n【【47】】20\n【【48】】45\n【【49】】35\n【【50】】35\n【【51】】30\n【【52】】80\n【【53】】80\n【【54】】55\n【【55】】70\n【【56】】20\n【【57】】45\n【【58】】65\n【【59】】55\n【【60】】25\n【【61】】80\n【【62】】65\n【【63】】60\n【【64】】75\n【【65】】15\n【【66】】40\n【【67】】25\n【【68】】15\n【【69】】15\n【【70】】40\n【【71】】15\n【【72】】10\n【【73】】15\n【【74】】10\n【【75】】15\n【【76】】20\n【【77】】15\n【【78】】10\n【【79】】10\n【【80】】10\n【【81】】10\n【【82】】5\n【【83】】20\n【【84】】20\n【【85】】5\n【【86】】10\n【【87】】5\n【【88】】70\n【【89】】80\n【【90】】60\n【【91】】55\n【【92】】50\n【【93】】95\n【【94】】60\n【【95】】55\n【【96】】50\n【【97】】15\n【【98】】45\n【【99】】60\n【【100】】70\n【【101】】35\n【【102】】55\n【【103】】20\n【【104】】90\n【【105】】30\n【【106】】55\n【【107】】65\n【【108】】75\n【【109】】70\n【【110】】40\n【【111】】35\n【【112】】15\n【【113】】25\n【【114】】65\n【【115】】25",
+          "reasoning_content": "我们需要回答用户。用户中文要求：问题: 转移（transfert）在精神分析中的功能是什么？然后给出相关词，请按重要程度打分1-100。输出格式只输出【【N】】分数，每行一个，不要解释。需要为每个词打分。我们需要判断每个词与“转移（transfert）在精神分析中的功能”相关程度。需要输出100行？列表1-115? 实际到115。需要给每个词分数。需要按重要程度。必须只输出格式。\n\n我们需要完成打分。需要理解 transfert 在精神分析中的功能。核心概念：转移是精神分析核心，指患者将童年情感/愿望/冲突无意识地投射到分析师身上，重复和行动化，作为治疗中处理无意识、阻抗、移情神经症、解释、修通等。相关词：de transfert 显然核心；une économie transférentielle 强；un divan psychanalytique 中等/强；répétitive, présent, souvenir, désirs, inconscient, relation, répète, amène, etc.\n\n需要给每个词1-100。没有唯一正确答案。需要按照与问题相关程度。许多词来自拉康/德勒兹? 可能来自某文本。我们需要尽量合理。\n\n注意输出只【【N】】分数，每行一个。不要额外文字。需要准确按顺序 1-115。\n\n我们可以为每个词打分。为了效率，可以制定准则：直接涉及transfert的核心词 90-100；精神分析转移功能关键机制 70-90；精神分析一般概念 40-70；边缘/仅术语 10-30；无关 1-10。用户要求“你选中的相关词”，按重要程度。我们需要对全部词列表打分。\n\n让我列列表并逐个打分。 Ensure no comments.\n\n1 sexe: 转移中性与欲望相关，但单独 sexe 中等弱。30? 精神分析中性别/性欲与移情爱欲相关。给35。\n2 un divan psychanalytique: 精神分析设置，转移发生场所。强? 设置是转移载体。65。\n3 une économie transférentielle: 直接核心概念，移情经济。95。\n4 de transfert: 直接核心，可能词组“de transfert” 90? 98。\n5 l'une fantasique: “幻想中的一个”？与移情幻想相关。60。\n6 façon répétitive: 重复方式，移情核心：重复。85。\n7 Son nouveau »traitement: 新治疗？治疗中处理移情。55。\n8 désir blanc: 白欲望？拉康? 可能无关/弱。20。\n9 cathartique: 宣泄，与转移早期功能相关，但不是核心。50。\n10 une representation: 表征，无意识表征与移情。45。\n11 un souvenir: 记忆，移情中童年记忆。70。\n12 le présent: 当下，移情是当下重复过去。75。\n13 des dimensions inconscientes: 无意识维度，核心。80。\n14 souvenir: 同11，70。\n15 aujourd'hui la subjectivité: 今天的主体性，与转移主体性相关。55。\n16 d'une altérité: 他者性，转移涉及他者/分析师。65。\n17 son désir: 欲望，移情中欲望。75。\n18 semblant: 假装/貌似，拉康转移中主体作为semblant? 50。\n19 un dialogue imaginaire: 想象对话，移情可能是想象关系。55。\n20 le changement: 改变，治疗目标，移情功能促进改变。70。\n21 ses impulsions: 冲动，移情中冲动。65。\n22 ses persversions paradigmatiques: 范式性倒错，可能边缘。15。\n23 cette instance créatrice: 创造实例，可能弱。20。\n24 une fabulation déréalisante: 非现实化虚构，转移中幻想? 30。\n25 hain: haine 恨，移情情感。70。\n26 angoisse: 焦虑，移情中焦虑。70。\n27 de culpabilité: 内疚，移情情感/超我。60。\n28 transmuer: 转化，移情功能：转化。70。\n29 Niant: 否认，防御，移情阻抗。60。\n30 formules magico: 魔法公式，可能无关。10。\n31 ménotechniques: 记忆术? 15。\n32 cette processualité primaire: 初级过程性，无意识/移情。55。\n33 la punition: 惩罚，移情中超我/惩罚欲望。50。\n34 l'humiliation: 羞辱，移情情感。40。\n35 changer: 改变，治疗目标。65。\n36 érotic-esthetiques: 爱欲-审美，转移爱欲。55。\n37 seismaux érotiques: 爱欲地震? 30。\n38 des relations couples entre Charlus et Jupien: 普鲁斯特人物关系，可能例子。15。\n39 L'émoi: 情绪激动，移情情感。50。\n40 masturbation: 自慰，性欲，可能无意识。25。\n41 un autre réel correlatif: 相关他者实在，拉康转移? 45。\n42 une autre subjectivité: 另一个主体性，分析师作为他者。65。\n43 Reich: 赖希，精神分析，阻抗/性格分析，移情。50。\n44 trace: 痕迹，无意识记忆痕迹，转移。55。\n45 amoureux: 爱的，移情之爱。75。\n46 tout au moins psychiquement: 至少心理上，弱。15。\n47 mon trouble: 我的困扰，患者主诉，弱。20。\n48 mirroir: 镜子，镜像，转移/自恋。45。\n49 mirage reflet: 海市蜃楼反射，想象转移。35。\n50 reflet: 反射，同上。35。\n51 un morcellement: 分裂/碎裂，边缘/移情。30。\n52 la fantasme: 幻想，移情核心。80。\n53 l'amour: 爱，移情之爱核心。80。\n54 roman familial: 家庭小说，童年幻想，转移。55。\n55 Cette rencontre: 这次相遇，转移是相遇。70。\n56 la fois psychique: 心理时间? 弱。20。\n57 La réflexion: 反思，治疗功能。45。\n58 emotion: 情绪，移情情感。65。\n59 reve: 梦，精神分析素材，转移。55。\n60 un nouveau clivage: 新分裂，可能弱。25。\n61 l'Èdèpe: 俄狄浦斯，转移核心内容。80。\n62 sur l'inceste: 乱伦，俄狄浦斯/转移。65。\n63 la jouissance: 享乐，拉康，移情。60。\n64 souvenirs les plus anciens: 最古老记忆，转移中童年记忆。75。\n65 Agencements*: 配置/ assemblages，德勒兹，弱。15。\n66 97 Diachronie: 历时性，转移跨时间。40。\n67 SYNCHRONIE: 共时性，弱。25。\n68 98 Flux: 流，弱。15。\n69 100 Les Agencements: 弱。15。\n70 enoncion: 陈述行为? 与转移中言说。40。\n71 Flux*: 弱。15。\n72 176 Les ritournelles existentielles: 存在复调，弱。10。\n73 La récursion enonciative: 陈述递归，弱。15。\n74 208 Les quatre causalités recursives: 弱。10。\n75 210 Les temporaliés intermédiaires: 中间时间性，弱。15。\n76 enonciative: 陈述，弱。20。\n77 227 La singularisation:  singularization，弱。15。\n78 l'irréversibilisation: 不可逆化，弱。10。\n79 machine visagéitaire: 面容机器，弱。10。\n80 les trois niveaux: 三个层次，弱。10。\n81 une déterritorialisation expressive: 表达解域，弱。10。\n82 Coalescence sérielle et hétériogenèse des Flux: 弱。5。\n83 résidu: 残余，转移中残留? 20。\n84 désignation: 指称，弱。20。\n85 Ritournelle diagrammatique et tenseurs: 弱。5。\n86 L'énociation virtuelle: 虚拟陈述，弱。10。\n87 Triangle sémiotique et triangle énonciatif ... 258 Graphiques, par Brigitte LOUDIEU: 弱。5。\n88 la séduction: 诱惑，诱惑理论，移情。70。\n89 inter-subjectivité: 主体间性，转移关系核心。80。\n90 la position spécifique: 特定位置，分析师位置/转移位置。60。\n91 mutation subjective: 主体突变，治疗目标。55。\n92 le *Passage*: 通道，转移作为通道? 50。\n93 ce que son véritable *suijet* n'est autre, précisément, que cet opérateur… de passage, de transversalité, de transfert de subjectivité: 直接提到 transfert de subjectivité，核心。95。\n94 une opération: 操作，转移是一种操作。60。\n95 subjectif: 主体性，转移。55。\n96 certains états limites: 边缘状态，转移中的边缘病例。50。\n97 dualisme: 二元论，弱。15。\n98 la coupure symbolique: 象征切割，拉康，转移。45。\n99 du complexe: 情结，俄狄浦斯/转移。60。\n100 castration: 阉割，精神分析核心，转移内容。70。\n101 ses relais: 其中继，转移的中继? 35。\n102 Winniccot: 温尼科特，精神分析，移情/过渡。55。\n103 les convertisseurs: 转换器，弱。20。\n104 repête: 重复，转移核心功能。90。\n105 la psyche: 心理，一般。30。\n106 leur médiation: 其中介，转移作为中介。55。\n107 subjectivités: 主体性，65。\n108 complexes infantiles: 婴儿情结，转移根源。75。\n109 fixations: 固着，转移重复。70。\n110 certaines stases: 停滞，固着/阻抗。40。\n111 amène: 带来，移情带来? 35。\n112 l'énoncé initiateur: 初始陈述，弱。15。\n113 faits subjectifs: 主体事实，弱。25。\n114 67 Le surmoi: 超我，转移中。65。\n115 schizoanalytique: 分裂分析，与精神分析相关但非转移核心。25。\n\n需要确保输出100? 1-115。每行【【N】】分数。 No extra.\n\n但也许应该更精确，因为这是评分可能用于检索。需要“按重要程度打分”。也许应该对每个词打分，不需要解释。可以全部输出。\n\n需要注意格式：【【1】】30 等。 No Chinese. Good.\n\nPotential issue: 用户要求“以下是你选中的相关词”，可能希望我们只输出相关词分数，但列表全部词，应按每个词输出。通常这种任务给所有词打分。必须输出全部115行。 Do so.\n\nBut let's think if some scores need adjust. Transfert in psychoanalysis function: core terms: transfert, transferential economy, repetition, transference love, unconscious dimensions, fantasy, Oedipus, infantile complexes, fixation, resistance? There's no resistance term. The list has haine, angoisse, culpabilité, séduction, intersubjectivity, etc.\n\nMaybe \"de transfert\" 100? Since literally \"of transference\". \"une économie transférentielle\" 98. \"façon répétitive\" 90. \"repête\" 90. \"souvenir/souvenirs les plus anciens\" 80. \"le présent\" 75. \"désir\" 80. \"fantasme\" 85. \"amour/amoureux\" 80. \"Oedipe\" 80. \"castration\" 75. \"complexes infantiles\" 80. \"fixations\" 75. \"inter-subjectivité\" 80. \"inconscientes dimensions\" 85. \"un divan psychanalytique\" 60. \"cathartique\" 50.\n\nNeed maybe \"la séduction\" 75 because seduction theory and transference.\n\nMaybe \"Reich\" 60? Reich contributed to character analysis and resistance, but not transference specifically. 45.\n\n\"Winniccot\" 50.\n\n\"schizoanalytique\" 20.\n\nWe can produce final. But need careful: no markdown code block, just lines. Ensure no accidental extra spaces. It's okay.\n\nLet's generate. \nNeed output 115 lines. I'll compose.\n\nCheck numbering to 115. Use Arabic numbers as in list. Ensure double brackets. \n\nLet's final. "
+        },
+        "logprobs": null,
+        "finish_reason": "stop"
+      }
+    ],
+    "usage": {
+      "prompt_tokens": 1408,
+      "completion_tokens": 3651,
+      "total_tokens": 5059,
+      "prompt_tokens_details": {
+        "cached_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 2846
+      },
+      "prompt_cache_hit_tokens": 0,
+      "prompt_cache_miss_tokens": 1408
+    },
+    "system_fingerprint": "aeb56401ca74e127821c4f9126dcb669"
+  }
+}

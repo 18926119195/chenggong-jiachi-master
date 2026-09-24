@@ -1,0 +1,880 @@
+[
+  {
+    "surface": "leurs programmes narratifs",
+    "valid": true
+  },
+  {
+    "surface": "les libres processus",
+    "valid": true
+  },
+  {
+    "surface": "photographie",
+    "valid": true
+  },
+  {
+    "surface": "Grillet",
+    "valid": true
+  },
+  {
+    "surface": "cette fois ce sont deux signes",
+    "valid": false,
+    "reason": "包含限定词、代词和动词的短语，非名词短语"
+  },
+  {
+    "surface": "lumière cuernifexes",
+    "valid": false,
+    "reason": "包含疑似拼写错误/非名词成分，整体不是规范名词短语"
+  },
+  {
+    "surface": "le bas",
+    "valid": true
+  },
+  {
+    "surface": "deux capsules",
+    "valid": true
+  },
+  {
+    "surface": "une enieuse trajectoire",
+    "valid": false,
+    "reason": "包含疑似拼写错误词，整体不是规范名词短语"
+  },
+  {
+    "surface": "œuvres",
+    "valid": true
+  },
+  {
+    "surface": "Keichi Tahara ont déjà fréquement recouri",
+    "valid": false,
+    "reason": "包含专名、助动词和动词，非名词短语"
+  },
+  {
+    "surface": "* parasitage *",
+    "valid": false,
+    "reason": "含星号标点碎片"
+  },
+  {
+    "surface": "y compris par l'utilisation",
+    "valid": false,
+    "reason": "包含代词、介词和冠词，非名词短语"
+  },
+  {
+    "surface": "reflets",
+    "valid": true
+  },
+  {
+    "surface": "les cadres",
+    "valid": true
+  },
+  {
+    "surface": "Cracks in",
+    "valid": false,
+    "reason": "英语片段且不完整，非规范法语名词短语"
+  },
+  {
+    "surface": "Keichii",
+    "valid": true
+  },
+  {
+    "surface": "l'impression",
+    "valid": true
+  },
+  {
+    "surface": "ma tête",
+    "valid": true
+  },
+  {
+    "surface": "difficulté",
+    "valid": true
+  },
+  {
+    "surface": "des surimpressions significatives",
+    "valid": true
+  },
+  {
+    "surface": "paysage visageaïcit",
+    "valid": false,
+    "reason": "包含疑似拼写错误词，整体不是规范名词短语"
+  },
+  {
+    "surface": "les regards autres",
+    "valid": true
+  },
+  {
+    "surface": "vos yeux",
+    "valid": true
+  },
+  {
+    "surface": "le dispositif photographique",
+    "valid": true
+  },
+  {
+    "surface": "certaines sequences interprétatives",
+    "valid": true
+  },
+  {
+    "surface": "indéfiniment",
+    "valid": false,
+    "reason": "副词"
+  },
+  {
+    "surface": "de nouvelles stases",
+    "valid": true
+  },
+  {
+    "surface": ", assorties",
+    "valid": false,
+    "reason": "标点碎片且为形容词/分词形式"
+  },
+  {
+    "surface": "nouvelles lignes",
+    "valid": true
+  },
+  {
+    "surface": "de nouveaux Univers",
+    "valid": true
+  },
+  {
+    "surface": "Les foyers partiels",
+    "valid": true
+  },
+  {
+    "surface": "les prises",
+    "valid": true
+  },
+  {
+    "surface": "corps existentiières",
+    "valid": false,
+    "reason": "包含疑似拼写错误词，整体不是规范名词短语"
+  },
+  {
+    "surface": "correspondance transversale",
+    "valid": true
+  },
+  {
+    "surface": "les freiens",
+    "valid": false,
+    "reason": "包含疑似拼写错误词，整体不是规范名词短语"
+  },
+  {
+    "surface": "la pulsion scopique",
+    "valid": true
+  },
+  {
+    "surface": "autres sphères",
+    "valid": true
+  },
+  {
+    "surface": "Les noms propres",
+    "valid": true
+  },
+  {
+    "surface": "un angle inédit",
+    "valid": true
+  },
+  {
+    "surface": "les notes",
+    "valid": true
+  },
+  {
+    "surface": "les noms",
+    "valid": true
+  },
+  {
+    "surface": "une musicalité",
+    "valid": true
+  },
+  {
+    "surface": "toutes parts",
+    "valid": true
+  },
+  {
+    "surface": "une identité",
+    "valid": true
+  },
+  {
+    "surface": "des identifications",
+    "valid": true
+  },
+  {
+    "surface": "des communications",
+    "valid": true
+  },
+  {
+    "surface": "C'est d'embelle",
+    "valid": false,
+    "reason": "包含代词和助动词，非名词短语"
+  },
+  {
+    "surface": "sans organe",
+    "valid": false,
+    "reason": "包含介词，非独立名词短语"
+  },
+  {
+    "surface": "leurs noms propres",
+    "valid": true
+  },
+  {
+    "surface": "l'invitation",
+    "valid": true
+  },
+  {
+    "surface": "votre colloque",
+    "valid": true
+  },
+  {
+    "surface": "ma communication",
+    "valid": true
+  },
+  {
+    "surface": "*Les fonctions existentisantales",
+    "valid": false,
+    "reason": "含星号标点碎片且包含疑似拼写错误词"
+  },
+  {
+    "surface": "discours*",
+    "valid": false,
+    "reason": "含星号标点碎片"
+  },
+  {
+    "surface": "l'Atlantique",
+    "valid": true
+  },
+  {
+    "surface": "cette proposition",
+    "valid": true
+  },
+  {
+    "surface": "*Creeks in",
+    "valid": false,
+    "reason": "含星号标点碎片且为不完整英语片段"
+  },
+  {
+    "surface": "une rencontres",
+    "valid": false,
+    "reason": "冠词与名词数不一致，非规范名词短语"
+  },
+  {
+    "surface": "les auspices",
+    "valid": true
+  },
+  {
+    "surface": "une association",
+    "valid": true
+  },
+  {
+    "surface": ", un parcours",
+    "valid": false,
+    "reason": "标点碎片开头"
+  },
+  {
+    "surface": "L'errance",
+    "valid": true
+  },
+  {
+    "surface": "Lenz",
+    "valid": true
+  },
+  {
+    "surface": "reconstituite",
+    "valid": false,
+    "reason": "疑似动词/分词形式，非名词"
+  },
+  {
+    "surface": "Buchner",
+    "valid": true
+  },
+  {
+    "surface": "la vie profonde",
+    "valid": true
+  },
+  {
+    "surface": "reconnette",
+    "valid": false,
+    "reason": "疑似动词形式，非名词"
+  },
+  {
+    "surface": "pierres",
+    "valid": true
+  },
+  {
+    "surface": "des métaux",
+    "valid": true
+  },
+  {
+    "surface": ", de l'eau",
+    "valid": false,
+    "reason": "标点碎片开头且包含介词"
+  },
+  {
+    "surface": "des plantes",
+    "valid": true
+  },
+  {
+    "surface": "Oui",
+    "valid": false,
+    "reason": "副词/感叹词"
+  },
+  {
+    "surface": "la pérégération immobile",
+    "valid": false,
+    "reason": "包含疑似拼写错误词，整体不是规范名词短语"
+  },
+  {
+    "surface": "la saissie",
+    "valid": false,
+    "reason": "包含疑似拼写错误词，整体不是规范名词短语"
+  },
+  {
+    "surface": "la totale présence",
+    "valid": true
+  },
+  {
+    "surface": "bien encore dans Ce gamin",
+    "valid": false,
+    "reason": "包含副词、介词和限定词，非名词短语"
+  },
+  {
+    "surface": "film",
+    "valid": true
+  },
+  {
+    "surface": "Renaud Victor",
+    "valid": true
+  },
+  {
+    "surface": "Ferdal曼",
+    "valid": false,
+    "reason": "混合非法语字符，疑似拼写错误/无效专名"
+  },
+  {
+    "surface": "la fascination",
+    "valid": true
+  },
+  {
+    "surface": "un enfant显然",
+    "valid": false,
+    "reason": "包含中文字符，非规范法语名词短语"
+  },
+  {
+    "surface": "la lente formation",
+    "valid": true
+  },
+  {
+    "surface": "une goutte",
+    "valid": true
+  },
+  {
+    "surface": "chute",
+    "valid": true
+  },
+  {
+    "surface": "indéfiniement",
+    "valid": false,
+    "reason": "副词且拼写错误"
+  },
+  {
+    "surface": "de jouissance",
+    "valid": false,
+    "reason": "包含介词，非独立名词短语"
+  },
+  {
+    "surface": "cette discursivité hort",
+    "valid": false,
+    "reason": "包含疑似不完整/拼写错误词，整体不是规范名词短语"
+  },
+  {
+    "surface": "le traitement lireaire",
+    "valid": false,
+    "reason": "包含疑似拼写错误词，整体不是规范名词短语"
+  },
+  {
+    "surface": "un Büchner",
+    "valid": true
+  },
+  {
+    "surface": "les textes",
+    "valid": true
+  },
+  {
+    "surface": "boudhistes",
+    "valid": false,
+    "reason": "形容词且拼写错误"
+  },
+  {
+    "surface": "la lecture poétique",
+    "valid": true
+  },
+  {
+    "surface": "Fernand",
+    "valid": true
+  },
+  {
+    "surface": "Delyign",
+    "valid": true
+  },
+  {
+    "surface": "Certes, il n'entre pas dans prose",
+    "valid": false,
+    "reason": "包含副词、代词、动词和介词，非名词短语"
+  },
+  {
+    "surface": "le rôle",
+    "valid": true
+  },
+  {
+    "surface": "écriture",
+    "valid": true
+  },
+  {
+    "surface": "ces redondances muettes",
+    "valid": true
+  },
+  {
+    "surface": "dans le déploiement",
+    "valid": false,
+    "reason": "包含介词，非独立名词短语"
+  },
+  {
+    "surface": "sémiotisation non verbaux",
+    "valid": false,
+    "reason": "搭配不一致，非规范名词短语"
+  },
+  {
+    "surface": "nos jours",
+    "valid": true
+  },
+  {
+    "surface": "une vie symbiotique",
+    "valid": true
+  },
+  {
+    "surface": "non seulement avec la parole",
+    "valid": false,
+    "reason": "包含副词、介词和冠词，非名词短语"
+  },
+  {
+    "surface": "aussi avec l'assistance",
+    "valid": false,
+    "reason": "包含副词和介词，非名词短语"
+  },
+  {
+    "surface": "rabat",
+    "valid": true
+  },
+  {
+    "surface": "accord, donc, pour le « Cracks in",
+    "valid": false,
+    "reason": "包含连词、介词、冠词和标点碎片"
+  },
+  {
+    "surface": "discontinuité textuelles",
+    "valid": false,
+    "reason": "单复数不一致，非规范名词短语"
+  },
+  {
+    "surface": "votre lettre",
+    "valid": true
+  },
+  {
+    "surface": "invitation",
+    "valid": true
+  },
+  {
+    "surface": "gaps",
+    "valid": true
+  },
+  {
+    "surface": ", ruptures",
+    "valid": false,
+    "reason": "标点碎片开头"
+  },
+  {
+    "surface": "interties",
+    "valid": false,
+    "reason": "疑似拼写错误/非规范词"
+  },
+  {
+    "surface": "slippages",
+    "valid": true
+  },
+  {
+    "surface": ", margins",
+    "valid": false,
+    "reason": "标点碎片开头"
+  },
+  {
+    "surface": ", crises",
+    "valid": false,
+    "reason": "标点碎片开头"
+  },
+  {
+    "surface": "liminal",
+    "valid": false,
+    "reason": "形容词"
+  },
+  {
+    "surface": "periods",
+    "valid": true
+  },
+  {
+    "surface": ", peripheries",
+    "valid": false,
+    "reason": "标点碎片开头"
+  },
+  {
+    "surface": ", frames",
+    "valid": false,
+    "reason": "标点碎片开头"
+  },
+  {
+    "surface": ", silences",
+    "valid": false,
+    "reason": "标点碎片开头"
+  },
+  {
+    "surface": "accord pour tout ga, à la condition",
+    "valid": false,
+    "reason": "包含名词、介词、代词和连词，非名词短语"
+  },
+  {
+    "surface": ", totefois",
+    "valid": false,
+    "reason": "标点碎片开头且为副词/拼写错误"
+  },
+  {
+    "surface": "les autres formes",
+    "valid": true
+  },
+  {
+    "surface": "notre monde",
+    "valid": true
+  },
+  {
+    "surface": "l'avant",
+    "valid": true
+  },
+  {
+    "surface": "le vent",
+    "valid": true
+  },
+  {
+    "surface": "la cuisse",
+    "valid": true
+  },
+  {
+    "surface": "une autre femme",
+    "valid": true
+  },
+  {
+    "surface": "dos",
+    "valid": true
+  },
+  {
+    "surface": "ses bras",
+    "valid": true
+  },
+  {
+    "surface": "un bambin",
+    "valid": true
+  },
+  {
+    "surface": "uningine",
+    "valid": false,
+    "reason": "疑似拼写错误/非规范词"
+  },
+  {
+    "surface": "costume marin",
+    "valid": true
+  },
+  {
+    "surface": "au la perspective",
+    "valid": false,
+    "reason": "介词与冠词搭配错误，非规范名词短语"
+  },
+  {
+    "surface": "de la femme",
+    "valid": false,
+    "reason": "包含介词，非独立名词短语"
+  },
+  {
+    "surface": "ces couples",
+    "valid": true
+  },
+  {
+    "surface": "manière frontale",
+    "valid": true
+  },
+  {
+    "surface": "souduit",
+    "valid": false,
+    "reason": "疑似动词/分词形式，非名词"
+  },
+  {
+    "surface": "l'avers",
+    "valid": true
+  },
+  {
+    "surface": "le revers",
+    "valid": true
+  },
+  {
+    "surface": "une nouvelle race",
+    "valid": true
+  },
+  {
+    "surface": "androyes",
+    "valid": false,
+    "reason": "疑似拼写错误/非规范词"
+  },
+  {
+    "surface": "ces cureux appariements",
+    "valid": false,
+    "reason": "包含疑似拼写错误词，整体不是规范名词短语"
+  },
+  {
+    "surface": "les dizaines",
+    "valid": true
+  },
+  {
+    "surface": "cette meile toile",
+    "valid": false,
+    "reason": "包含疑似拼写错误词，整体不是规范名词短语"
+  },
+  {
+    "surface": "pièces",
+    "valid": true
+  },
+  {
+    "surface": "un échiquier",
+    "valid": true
+  },
+  {
+    "surface": "les postures",
+    "valid": true
+  },
+  {
+    "surface": "les profilés",
+    "valid": true
+  },
+  {
+    "surface": "vetements",
+    "valid": true
+  },
+  {
+    "surface": "tous les personages",
+    "valid": true
+  },
+  {
+    "surface": "leur position «",
+    "valid": false,
+    "reason": "含未闭合引号标点碎片"
+  },
+  {
+    "surface": "un émigratique jeu",
+    "valid": false,
+    "reason": "包含疑似拼写错误/不规范形容词，整体不是规范名词短语"
+  },
+  {
+    "surface": "clefs",
+    "valid": true
+  },
+  {
+    "surface": "regards",
+    "valid": true
+  },
+  {
+    "surface": "Les commentateurs",
+    "valid": true
+  },
+  {
+    "surface": "la carte videe",
+    "valid": true
+  },
+  {
+    "surface": "débranche",
+    "valid": false,
+    "reason": "动词形式"
+  },
+  {
+    "surface": "l'impérience occupation de l'espace resultant de leur redistribution en radar",
+    "valid": false,
+    "reason": "包含疑似拼写错误且结构复杂，非规范名词短语"
+  },
+  {
+    "surface": "travers laquelle",
+    "valid": false,
+    "reason": "包含介词和关系代词，非名词短语"
+  },
+  {
+    "surface": "l'hégémonie",
+    "valid": true
+  },
+  {
+    "surface": "d'antique",
+    "valid": false,
+    "reason": "包含介词且为形容词，非名词短语"
+  },
+  {
+    "surface": "dérouut",
+    "valid": false,
+    "reason": "疑似拼写错误/非规范词"
+  },
+  {
+    "surface": "une ambiance",
+    "valid": true
+  },
+  {
+    "surface": "commedia",
+    "valid": true
+  },
+  {
+    "surface": "dell'arte",
+    "valid": true
+  },
+  {
+    "surface": "* Cracks in the",
+    "valid": false,
+    "reason": "含星号标点碎片且为不完整英语片段"
+  },
+  {
+    "surface": "street",
+    "valid": true
+  },
+  {
+    "surface": "toiles",
+    "valid": true
+  },
+  {
+    "surface": "tois",
+    "valid": false,
+    "reason": "疑似拼写错误/非规范词"
+  },
+  {
+    "surface": "Balthus",
+    "valid": true
+  },
+  {
+    "surface": "le Leux Paris",
+    "valid": false,
+    "reason": "包含疑似拼写错误/不规范专名短语"
+  },
+  {
+    "surface": "Saint-Germain-des-Pres",
+    "valid": true
+  },
+  {
+    "surface": "Saint-Michel",
+    "valid": true
+  },
+  {
+    "surface": "une douzaine",
+    "valid": true
+  },
+  {
+    "surface": "vaquant",
+    "valid": false,
+    "reason": "分词/动词形式"
+  },
+  {
+    "surface": "paisiblement",
+    "valid": false,
+    "reason": "副词"
+  },
+  {
+    "surface": "leurs occupations",
+    "valid": true
+  },
+  {
+    "surface": "un cheval",
+    "valid": true
+  },
+  {
+    "surface": "attelé",
+    "valid": false,
+    "reason": "形容词/分词形式"
+  },
+  {
+    "surface": "tout à l'arbre",
+    "valid": false,
+    "reason": "包含副词、介词和冠词，非名词短语"
+  },
+  {
+    "surface": "la gauche",
+    "valid": true
+  },
+  {
+    "surface": "le texte",
+    "valid": true
+  },
+  {
+    "surface": "Exécute le spectre",
+    "valid": false,
+    "reason": "包含动词，非名词短语"
+  },
+  {
+    "surface": "la toile",
+    "valid": true
+  },
+  {
+    "surface": "son regard effaré",
+    "valid": true
+  },
+  {
+    "surface": "regardes",
+    "valid": false,
+    "reason": "动词形式"
+  },
+  {
+    "surface": "Ces céslets",
+    "valid": false,
+    "reason": "包含疑似拼写错误词，整体不是规范名词短语"
+  },
+  {
+    "surface": "cuivre",
+    "valid": true
+  },
+  {
+    "surface": "dignes",
+    "valid": false,
+    "reason": "形容词"
+  },
+  {
+    "surface": "Janacek",
+    "valid": true
+  },
+  {
+    "surface": "Stravinski",
+    "valid": true
+  },
+  {
+    "surface": "commerce Saint-André",
+    "valid": true
+  },
+  {
+    "surface": "la troisième version",
+    "valid": true
+  },
+  {
+    "surface": "rutilants rapports de surface et de couleur",
+    "valid": true
+  },
+  {
+    "surface": "à la dans des regards",
+    "valid": false,
+    "reason": "介词和冠词堆叠，非规范名词短语"
+  },
+  {
+    "surface": "déglement",
+    "valid": false,
+    "reason": "疑似拼写错误/非规范词"
+  },
+  {
+    "surface": "systématique",
+    "valid": false,
+    "reason": "形容词"
+  },
+  {
+    "surface": "notre monde ordinaire",
+    "valid": true
+  }
+]

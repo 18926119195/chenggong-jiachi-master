@@ -1,0 +1,101 @@
+{
+  "audit_metadata": {
+    "total_surfaces_in_final_file": 15830,
+    "source": "all-noun-surfaces.txt (s0 + s1 合并去重后)",
+    "audit_method": "逐行人工审查 + 来源溯源校验"
+  },
+  "source_distribution": {
+    "s0_only": { "count": 14375, "percentage": "90.81%" },
+    "s1_only": { "count": 1199, "percentage": "7.57%" },
+    "both_s0_and_s1": { "count": 254, "percentage": "1.60%" },
+    "neither": { "count": 2, "percentage": "0.01%", "examples": ["Flux instancies)Dis-position", "P P"] },
+    "note": "另有1条与s0/s1都没精确匹配的（合并过程产生的字符串连接/拼写异常）"
+  },
+  "invalid_words_by_source": {
+    "primarily_s0_spaCy": {
+      "description": "绝大部分 ~ 95% 以上的虚词/噪音来自 s0 (spaCy 自动抽取)",
+      "subcategories": {
+        "OCR_garbled_examples": ["l'autoriferenée", "sesdutude", "reagnement", "essbrouche", "ilece", "circité", "marbre boré", "l'anthrologie"],
+        "CJK_mixed_examples": ["la fdairt逸", "sa耐劳提ail", "il仕"],
+        "sentence_fragments_examples": ["le pied", "le vent", "la cuisse", "moyen", "age"],
+        "adjective_bare_examples": ["sociales", "religieuses", "militaires", "scientifiques"],
+        "verb_infinitives_past_participles": ["voulu", "survivre", "réfèrent", "garantissent"],
+        "comma_fragments_examples": [", du fait", ", en effet"],
+        "equation_chart_markers": ["ΔF", "F.T.Φ.U.", "P+", "p."],
+        "concatenation_artifacts": ["Flux instancies)Dis-position", "P P"]
+      },
+      "approximate_count": "1,000+ (绝大多数 ~ 95%)"
+    },
+    "primarily_s1_LLM": {
+      "description": "少数 (~ 5%) 来自 s1 (LLM 补缺幻觉)。LLM 产生的噪音明显少于直觉",
+      "examples": [
+        "monacales", "anthropologiques"
+      ],
+      "approximate_count": "约 50-100 条 (主要是不存在的形容词裸露和少量专有名词)"
+    },
+    "both_or_either": {
+      "description": "另有少数类别 (既可能来自 s0 误判，也可能由 s1 重复提交)",
+      "examples": ["sociales", "scientifiques"]
+    }
+  },
+  "category_breakdown_estimated_source_origin": {
+    "category_1_OCR_garbled": "s0主导 (PDF编码错误在spaCy读取前已发生)",
+    "category_2_CJK_mixed": "s0主导 (spaCy 接受任何字面串)",
+    "category_3_sentence_fragments": "s0主导 (spaCy法语形态学激进)",
+    "category_4_verb_infinitives": "s0主导",
+    "category_5_pure_adjectives": "s0 + 少量s1",
+    "category_6_leading_comma_fragments": "s0主导",
+    "category_7_dash_prefixed": "s0主导",
+    "category_8_punctuation_only": "s0主导",
+    "category_9_equation_symbols": "s0 + 部分 s1 (LLM 也会重复图表标记)",
+    "category_10_miscellaneous": "混合"
+  },
+  "key_empirical_findings": {
+    "counter_intuitive_result": "原本预期 s1 (LLM 补缺) 会产生大量幻觉，但实际数据显示 s0 (spaCy) 是噪音的主要来源 — 占比超过 90%",
+    "s0_failure_modes": [
+      "对PDF/编码异常的容忍度过高，接受任何字串作为名词",
+      "法语形态学误判，把形容词、分词、动词当作名词",
+      "对CJK/拉丁字符混杂不识别，全部当法语处理",
+      "对排版碎片（连字符合并、换行断开）处理不当"
+    ],
+    "s1_failure_modes": [
+      "少量专有名词拼写幻觉 (monacales, anthropologiques)",
+      "偶尔重复抽取已经在 s0 中的常见词",
+      "相对克制 — 显示出 LLM 比 spaCy 更严格"
+    ]
+  },
+  "root_cause_analysis_v2": {
+    "revisited": "经源文档 + 纯文表清理模块（src/core/pureTextTable.js）核对后修正早期诊断",
+    "pure_text_table_clears": [
+      "HTML/Markdown 标签 <div>、<sup> 等 (stripHtmlTags)",
+      "$...$ / $$...$$ 包裹的 LaTeX 公式 (stripLatexResidue)"
+    ],
+    "pure_text_table_does_NOT_clear": [
+      "裸露的希腊字母 Φ, Δ, π, σ, μ, Σ, Ω",
+      "裸露的公式符号 ΔF, F.T.Φ.U., P+, Sa)",
+      "Markdown 加粗残留 **xxx**, *xxx*",
+      "孤立符号 *, **, ##",
+      "逗号/破折号前缀片段 ', du fait', '- le premier'",
+      "OCR 损坏（CJK 字符混入、字符错乱）"
+    ],
+    "actual_failure_chain": [
+      "PDF 编码/排版问题 → 源文本已经是脏的（OCR损坏、LaTeX裸符号、CJK混入、Markdown残留）",
+      "纯文表只清理了 HTML 标签和包裹式 LaTeX，对其它裸符号不处理",
+      "→ spaCy 收到的就是带 *、带 Φ、带 , 的字符串",
+      "→ spaCy 法语模型对这些"裸符号 + 短字符串"倾向标 PROPN/NOM",
+      "→ 全部进入 s0 名词表"
+    ],
+    "correction_to_earlier_assessment": "之前说'spaCy 容忍度过高、对排版碎片不拒绝'是不准确的。真正根因是：纯文表清理规则覆盖盲区，导致脏字符串直接进入 spaCy，spaCy 无法从这类短字符串本身判定它不该是名词。"
+  },
+  "recommendation": [
+    "清理虚词应优先在 src/core/pureTextTable.js 增强清理规则",
+    "建议在 atomSearchText() 中增加：",
+    "  - 清理裸露希腊字母/公式符号: /[ΦΔΣΩπσμ]\\.?/",
+    "  - 清理 Markdown 残留: /\\*\\*[^*]+\\*\\*/ → 替换为内部内容",
+    "  - 清理孤立符号: /\\s\\*+\\s/",
+    "  - 清理句首逗号/破折号前缀: /^[,;\\-\\s]+/",
+    "s1 (LLM 补缺) 的1,199个独有词条质量相对较高，主要是真实名词补缺，可保留",
+    "两个 neither 例子（'Flux instancies)Dis-position'、'P P'）是合并过程的连接异常，需单独修整",
+    "CJK 字符混入问题必须在源头（PDF文本提取）就过滤，纯文表和 spaCy 都没法识别"
+  ]
+}

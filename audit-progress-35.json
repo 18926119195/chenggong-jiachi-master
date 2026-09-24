@@ -1,0 +1,946 @@
+[
+  {
+    "surface": "complexification",
+    "valid": true
+  },
+  {
+    "surface": "une matiere première",
+    "valid": true
+  },
+  {
+    "surface": "inspirable",
+    "valid": false,
+    "reason": "形容词，非名词"
+  },
+  {
+    "surface": "une determinabilité",
+    "valid": true
+  },
+  {
+    "surface": "infinie",
+    "valid": false,
+    "reason": "形容词，非名词"
+  },
+  {
+    "surface": "y faisant retour",
+    "valid": false,
+    "reason": "短语含代词/分词，非名词短语"
+  },
+  {
+    "surface": "lui matrice",
+    "valid": false,
+    "reason": "含代词lui，非规范名词短语"
+  },
+  {
+    "surface": "l'tat",
+    "valid": false,
+    "reason": "拼写碎片/截断形式"
+  },
+  {
+    "surface": "choses",
+    "valid": true
+  },
+  {
+    "surface": "Ainsi chaque ordination",
+    "valid": false,
+    "reason": "含连词/限定词，非纯名词短语"
+  },
+  {
+    "surface": "tensions entropiques",
+    "valid": true
+  },
+  {
+    "surface": "chaque séquence aléatoire",
+    "valid": false,
+    "reason": "含限定词chaque，非纯名词短语"
+  },
+  {
+    "surface": "des attracteurs virtuels",
+    "valid": false,
+    "reason": "含冠词des"
+  },
+  {
+    "surface": "nées mutantes",
+    "valid": false,
+    "reason": "含分词/形容词，非名词短语"
+  },
+  {
+    "surface": "• points",
+    "valid": false,
+    "reason": "含标点符号碎片"
+  },
+  {
+    "surface": "bifurcation",
+    "valid": true
+  },
+  {
+    "surface": "mutants",
+    "valid": true
+  },
+  {
+    "surface": "calcul",
+    "valid": true
+  },
+  {
+    "surface": "Reténons",
+    "valid": false,
+    "reason": "动词变位形式"
+  },
+  {
+    "surface": "la matire",
+    "valid": false,
+    "reason": "含冠词且拼写截断"
+  },
+  {
+    "surface": "chaquette",
+    "valid": false,
+    "reason": "拼写碎片/非标准词"
+  },
+  {
+    "surface": "qu'on",
+    "valid": false,
+    "reason": "代词/连词组合"
+  },
+  {
+    "surface": "ultérieurement",
+    "valid": false,
+    "reason": "副词"
+  },
+  {
+    "surface": "le rapport",
+    "valid": false,
+    "reason": "含冠词le"
+  },
+  {
+    "surface": "leurs Univers",
+    "valid": false,
+    "reason": "含限定词leurs"
+  },
+  {
+    "surface": "*hyper-complexité*",
+    "valid": false,
+    "reason": "含星号符号"
+  },
+  {
+    "surface": "la *qu'il recèle*",
+    "valid": false,
+    "reason": "含冠词、代词、动词"
+  },
+  {
+    "surface": "non seulement la complexité discursive",
+    "valid": false,
+    "reason": "含连词/副词/冠词"
+  },
+  {
+    "surface": "les instances",
+    "valid": false,
+    "reason": "含冠词les"
+  },
+  {
+    "surface": "ces objets",
+    "valid": false,
+    "reason": "含指示限定词ces"
+  },
+  {
+    "surface": "cette même complexité",
+    "valid": false,
+    "reason": "含指示限定词cette"
+  },
+  {
+    "surface": "ces objets quifiques",
+    "valid": false,
+    "reason": "含限定词且拼写异常"
+  },
+  {
+    "surface": "déclinaisons logiques",
+    "valid": true
+  },
+  {
+    "surface": "du désordre",
+    "valid": false,
+    "reason": "含缩合冠词du"
+  },
+  {
+    "surface": "leurs manifestations",
+    "valid": false,
+    "reason": "含限定词leurs"
+  },
+  {
+    "surface": "LE CROISEMENT",
+    "valid": true
+  },
+  {
+    "surface": "DIMENSIONS ENTITAIRES",
+    "valid": true
+  },
+  {
+    "surface": "immanence chaotique",
+    "valid": true
+  },
+  {
+    "surface": "l'hyper-complexité chaotique",
+    "valid": false,
+    "reason": "含冠词l'"
+  },
+  {
+    "surface": "virtuelle",
+    "valid": false,
+    "reason": "形容词"
+  },
+  {
+    "surface": "constamment voie",
+    "valid": false,
+    "reason": "含副词，非名词短语"
+  },
+  {
+    "surface": "distingue",
+    "valid": false,
+    "reason": "动词变位形式"
+  },
+  {
+    "surface": "la complexité ordinaire",
+    "valid": false,
+    "reason": "含冠词la"
+  },
+  {
+    "surface": "laquelle",
+    "valid": false,
+    "reason": "关系代词"
+  },
+  {
+    "surface": "propre",
+    "valid": false,
+    "reason": "形容词"
+  },
+  {
+    "surface": "Flux réels",
+    "valid": true
+  },
+  {
+    "surface": "catastrophe",
+    "valid": true
+  },
+  {
+    "surface": "une catastrophe",
+    "valid": false,
+    "reason": "含冠词une"
+  },
+  {
+    "surface": "affaissement",
+    "valid": true
+  },
+  {
+    "surface": "la dimension «",
+    "valid": false,
+    "reason": "含冠词及标点符号"
+  },
+  {
+    "surface": "la défaction",
+    "valid": false,
+    "reason": "含冠词la"
+  },
+  {
+    "surface": "leurs cribes",
+    "valid": false,
+    "reason": "含限定词leurs"
+  },
+  {
+    "surface": "discursivision",
+    "valid": true
+  },
+  {
+    "surface": "morphogenes potentielles",
+    "valid": true
+  },
+  {
+    "surface": "– pré-programmées",
+    "valid": false,
+    "reason": "含标点及形容词/分词"
+  },
+  {
+    "surface": "les embryons processus",
+    "valid": false,
+    "reason": "含冠词les"
+  },
+  {
+    "surface": "ce premier niveau",
+    "valid": false,
+    "reason": "含指示限定词ce"
+  },
+  {
+    "surface": "auto-référentiation",
+    "valid": true
+  },
+  {
+    "surface": "connectivité",
+    "valid": true
+  },
+  {
+    "surface": "être-à-que",
+    "valid": false,
+    "reason": "含助动词/连词组合"
+  },
+  {
+    "surface": "se tenir",
+    "valid": false,
+    "reason": "代词式动词短语"
+  },
+  {
+    "surface": "enquiries *",
+    "valid": false,
+    "reason": "含星号符号"
+  },
+  {
+    "surface": "sujet souit",
+    "valid": false,
+    "reason": "拼写异常/碎片"
+  },
+  {
+    "surface": "un *",
+    "valid": false,
+    "reason": "含冠词及符号"
+  },
+  {
+    "surface": "et*.",
+    "valid": false,
+    "reason": "连词及标点符号"
+  },
+  {
+    "surface": "itération",
+    "valid": true
+  },
+  {
+    "surface": "Avee lequel",
+    "valid": false,
+    "reason": "含介词/关系代词，且拼写异常"
+  },
+  {
+    "surface": "un incessant retour",
+    "valid": false,
+    "reason": "含冠词un"
+  },
+  {
+    "surface": "con",
+    "valid": false,
+    "reason": "拼写碎片/非标准词"
+  },
+  {
+    "surface": "la glue existentielle",
+    "valid": false,
+    "reason": "含冠词la"
+  },
+  {
+    "surface": "un ex-position",
+    "valid": false,
+    "reason": "含冠词un"
+  },
+  {
+    "surface": "spatialite",
+    "valid": true
+  },
+  {
+    "surface": "Espace essentiellement glischroïdique",
+    "valid": false,
+    "reason": "含副词essentiellement"
+  },
+  {
+    "surface": "contour",
+    "valid": true
+  },
+  {
+    "surface": "déplacements internes",
+    "valid": true
+  },
+  {
+    "surface": "sous-ensembles",
+    "valid": true
+  },
+  {
+    "surface": "co-existence",
+    "valid": true
+  },
+  {
+    "surface": "trans-existence",
+    "valid": true
+  },
+  {
+    "surface": ", transitivité",
+    "valid": false,
+    "reason": "含标点符号"
+  },
+  {
+    "surface": ", transversalité",
+    "valid": false,
+    "reason": "含标点符号"
+  },
+  {
+    "surface": "ses caractéristiques spécifiques",
+    "valid": false,
+    "reason": "含限定词ses"
+  },
+  {
+    "surface": "l'idee",
+    "valid": false,
+    "reason": "含冠词l'"
+  },
+  {
+    "surface": ", réaction",
+    "valid": false,
+    "reason": "含标点符号"
+  },
+  {
+    "surface": "un rapport objet",
+    "valid": false,
+    "reason": "含冠词un"
+  },
+  {
+    "surface": ", à tout le moins, une structure multiplaire, toutes choses",
+    "valid": false,
+    "reason": "含标点、介词、冠词等"
+  },
+  {
+    "surface": "Les deux états",
+    "valid": false,
+    "reason": "含冠词Les及数词"
+  },
+  {
+    "surface": "le réfère",
+    "valid": false,
+    "reason": "含冠词le"
+  },
+  {
+    "surface": "le référent",
+    "valid": false,
+    "reason": "含冠词le"
+  },
+  {
+    "surface": "Ce mouvement",
+    "valid": false,
+    "reason": "含指示限定词Ce"
+  },
+  {
+    "surface": "la réfère",
+    "valid": false,
+    "reason": "含冠词la"
+  },
+  {
+    "surface": "tant que prise",
+    "valid": false,
+    "reason": "含连词/副词及分词"
+  },
+  {
+    "surface": "ère",
+    "valid": true
+  },
+  {
+    "surface": "auto-affirmation existentielle",
+    "valid": true
+  },
+  {
+    "surface": "la double aporie",
+    "valid": false,
+    "reason": "含冠词la"
+  },
+  {
+    "surface": "âtat",
+    "valid": false,
+    "reason": "拼写碎片/非标准词"
+  },
+  {
+    "surface": "synonymes",
+    "valid": true
+  },
+  {
+    "surface": "intensification",
+    "valid": true
+  },
+  {
+    "surface": "une vitesse quasi",
+    "valid": false,
+    "reason": "含冠词une及副词quasi"
+  },
+  {
+    "surface": "les séquences",
+    "valid": false,
+    "reason": "含冠词les"
+  },
+  {
+    "surface": "une longueur quasi",
+    "valid": false,
+    "reason": "含冠词une及副词quasi"
+  },
+  {
+    "surface": "jauge de tels",
+    "valid": false,
+    "reason": "含介词de及限定词tels"
+  },
+  {
+    "surface": "arrangements",
+    "valid": true
+  },
+  {
+    "surface": "une valeur forte",
+    "valid": false,
+    "reason": "含冠词une"
+  },
+  {
+    "surface": "- sans transfert énergétique",
+    "valid": false,
+    "reason": "含标点及介词sans"
+  },
+  {
+    "surface": "ordre pluit",
+    "valid": false,
+    "reason": "拼写异常/碎片"
+  },
+  {
+    "surface": "la consistance expire",
+    "valid": false,
+    "reason": "含冠词la及动词expire"
+  },
+  {
+    "surface": "la fragilité",
+    "valid": false,
+    "reason": "含冠词la"
+  },
+  {
+    "surface": ", la précarizate",
+    "valid": false,
+    "reason": "含标点及冠词la"
+  },
+  {
+    "surface": "processus connectifs",
+    "valid": true
+  },
+  {
+    "surface": ", leur densité",
+    "valid": false,
+    "reason": "含标点及限定词leur"
+  },
+  {
+    "surface": "aussi leur finitude",
+    "valid": false,
+    "reason": "含副词aussi及限定词leur"
+  },
+  {
+    "surface": "leur caractère transitionnel et séquentiel",
+    "valid": false,
+    "reason": "含限定词leur及连词et"
+  },
+  {
+    "surface": "leur statut",
+    "valid": false,
+    "reason": "含限定词leur"
+  },
+  {
+    "surface": "distinctivité existentielle",
+    "valid": true
+  },
+  {
+    "surface": "niveaux hétérénogenes",
+    "valid": true
+  },
+  {
+    "surface": "C'est aussi à des fractures",
+    "valid": false,
+    "reason": "含代词、助动词、副词、介词、冠词"
+  },
+  {
+    "surface": "dispositifs entières à s'ouvrir d'autres formules d'arrangement, d'autres axiomatiques, d'autres machins absences",
+    "valid": false,
+    "reason": "含介词、代词、标点等"
+  },
+  {
+    "surface": "- à une vitessine infine",
+    "valid": false,
+    "reason": "含标点、介词、冠词"
+  },
+  {
+    "surface": "le sacro",
+    "valid": false,
+    "reason": "含冠词le"
+  },
+  {
+    "surface": "saint principe",
+    "valid": true
+  },
+  {
+    "surface": "la physique contemporaine",
+    "valid": false,
+    "reason": "含冠词la"
+  },
+  {
+    "surface": "fixer",
+    "valid": false,
+    "reason": "动词不定式"
+  },
+  {
+    "surface": "la vitessie",
+    "valid": false,
+    "reason": "含冠词la"
+  },
+  {
+    "surface": "un seuil",
+    "valid": false,
+    "reason": "含冠词un"
+  },
+  {
+    "surface": "la gaine",
+    "valid": false,
+    "reason": "含冠词la"
+  },
+  {
+    "surface": "vitesses possibles",
+    "valid": true
+  },
+  {
+    "surface": "deux types fonicerirement",
+    "valid": false,
+    "reason": "含数词及拼写异常"
+  },
+  {
+    "surface": "vitesse infine",
+    "valid": true
+  },
+  {
+    "surface": "vitesse *",
+    "valid": false,
+    "reason": "含星号符号"
+  },
+  {
+    "surface": "ratienle*感應",
+    "valid": false,
+    "reason": "含符号及非法语字符"
+  },
+  {
+    "surface": "retortorialisation",
+    "valid": true
+  },
+  {
+    "surface": "cette nouvelle dimension fondamentale",
+    "valid": false,
+    "reason": "含指示限定词cette"
+  },
+  {
+    "surface": "les catégories déjà",
+    "valid": false,
+    "reason": "含冠词les及副词déjà"
+  },
+  {
+    "surface": ", de Phylum",
+    "valid": false,
+    "reason": "含标点及介词de"
+  },
+  {
+    "surface": ", de Territories existentiels",
+    "valid": false,
+    "reason": "含标点及介词de"
+  },
+  {
+    "surface": "de Flux",
+    "valid": false,
+    "reason": "含介词de"
+  },
+  {
+    "surface": "Les vitesse infinies",
+    "valid": false,
+    "reason": "含冠词Les"
+  },
+  {
+    "surface": "évanescence",
+    "valid": true
+  },
+  {
+    "surface": "destinées",
+    "valid": true
+  },
+  {
+    "surface": "les transferts",
+    "valid": false,
+    "reason": "含冠词les"
+  },
+  {
+    "surface": "d'hyper-complexité",
+    "valid": false,
+    "reason": "含介词d'"
+  },
+  {
+    "surface": "Cette vitesse infinie",
+    "valid": false,
+    "reason": "含指示限定词Cette"
+  },
+  {
+    "surface": "labilité absolue",
+    "valid": true
+  },
+  {
+    "surface": "l'itération",
+    "valid": false,
+    "reason": "含冠词l'"
+  },
+  {
+    "surface": "réiteration",
+    "valid": true
+  },
+  {
+    "surface": "des arrangements entitiaires",
+    "valid": false,
+    "reason": "含冠词des"
+  },
+  {
+    "surface": "jauge",
+    "valid": true
+  },
+  {
+    "surface": "un autre coté",
+    "valid": false,
+    "reason": "含冠词un及限定词autre"
+  },
+  {
+    "surface": "viteses",
+    "valid": true
+  },
+  {
+    "surface": "l'aureu",
+    "valid": false,
+    "reason": "含冠词l'且拼写异常"
+  },
+  {
+    "surface": "des modules",
+    "valid": false,
+    "reason": "含冠词des"
+  },
+  {
+    "surface": "territorialisation associant",
+    "valid": false,
+    "reason": "含分词associant"
+  },
+  {
+    "surface": "Cette structure modulaire",
+    "valid": false,
+    "reason": "含指示限定词Cette"
+  },
+  {
+    "surface": "les phénomens de盐長issement",
+    "valid": false,
+    "reason": "含冠词、介词及非法语字符"
+  },
+  {
+    "surface": "existentiel",
+    "valid": false,
+    "reason": "形容词"
+  },
+  {
+    "surface": "agglutination",
+    "valid": true
+  },
+  {
+    "surface": "quelque处",
+    "valid": false,
+    "reason": "含非法语字符"
+  },
+  {
+    "surface": "un straiage",
+    "valid": false,
+    "reason": "含冠词un"
+  },
+  {
+    "surface": "la reterritorialisation",
+    "valid": false,
+    "reason": "含冠词la"
+  },
+  {
+    "surface": "des zones distinctes",
+    "valid": false,
+    "reason": "含冠词des"
+  },
+  {
+    "surface": "déret",
+    "valid": false,
+    "reason": "拼写碎片/非标准词"
+  },
+  {
+    "surface": "bel",
+    "valid": false,
+    "reason": "形容词"
+  },
+  {
+    "surface": "ces viteses «",
+    "valid": false,
+    "reason": "含限定词及标点符号"
+  },
+  {
+    "surface": "ralenties",
+    "valid": false,
+    "reason": "形容词/分词"
+  },
+  {
+    "surface": "des dimensions",
+    "valid": false,
+    "reason": "含冠词des"
+  },
+  {
+    "surface": "Résférence",
+    "valid": true
+  },
+  {
+    "surface": "un régime",
+    "valid": false,
+    "reason": "含冠词un"
+  },
+  {
+    "surface": "une conjonctivité active et processuelle",
+    "valid": false,
+    "reason": "含冠词une及连词et"
+  },
+  {
+    "surface": "considerables",
+    "valid": false,
+    "reason": "形容词"
+  },
+  {
+    "surface": "10¹⁵ fois",
+    "valid": false,
+    "reason": "含数字及上标符号"
+  },
+  {
+    "surface": "des conditions douces",
+    "valid": false,
+    "reason": "含冠词des"
+  },
+  {
+    "surface": "milieu aqueux",
+    "valid": true
+  },
+  {
+    "surface": "température",
+    "valid": true
+  },
+  {
+    "surface": "pression",
+    "valid": true
+  },
+  {
+    "surface": "la molécule",
+    "valid": false,
+    "reason": "含冠词la"
+  },
+  {
+    "surface": "un enzyme spécifique",
+    "valid": false,
+    "reason": "含冠词un"
+  },
+  {
+    "surface": "100 000 molécules",
+    "valid": false,
+    "reason": "含数字"
+  },
+  {
+    "surface": "gaz",
+    "valid": true
+  },
+  {
+    "surface": "10 millions",
+    "valid": false,
+    "reason": "含数字"
+  },
+  {
+    "surface": "secondes",
+    "valid": true
+  },
+  {
+    "surface": "le même résultat",
+    "valid": false,
+    "reason": "含冠词le及限定词même"
+  },
+  {
+    "surface": "génie enzymatique",
+    "valid": true
+  },
+  {
+    "surface": "chaque enzyme",
+    "valid": false,
+    "reason": "含限定词chaque"
+  },
+  {
+    "surface": "un type",
+    "valid": false,
+    "reason": "含冠词un"
+  },
+  {
+    "surface": "un point précis",
+    "valid": false,
+    "reason": "含冠词un"
+  },
+  {
+    "surface": "substrat",
+    "valid": true
+  },
+  {
+    "surface": "un crible stérospecifique",
+    "valid": false,
+    "reason": "含冠词un"
+  },
+  {
+    "surface": "une molécule",
+    "valid": false,
+    "reason": "含冠词une"
+  },
+  {
+    "surface": "structure troche",
+    "valid": true
+  },
+  {
+    "surface": "les isomères optiques",
+    "valid": false,
+    "reason": "含冠词les"
+  },
+  {
+    "surface": "nickel",
+    "valid": true
+  },
+  {
+    "surface": "le palladium",
+    "valid": false,
+    "reason": "含冠词le"
+  },
+  {
+    "surface": "l'hydrogénation",
+    "valid": false,
+    "reason": "含冠词l'"
+  },
+  {
+    "surface": "liaisons",
+    "valid": true
+  },
+  {
+    "surface": "molécules très différentes",
+    "valid": false,
+    "reason": "含副词très及形容词"
+  },
+  {
+    "surface": "un enzyme",
+    "valid": false,
+    "reason": "含冠词un"
+  },
+  {
+    "surface": "la thrombine",
+    "valid": false,
+    "reason": "含冠词la"
+  },
+  {
+    "surface": "cette même structure",
+    "valid": false,
+    "reason": "含指示限定词cette"
+  },
+  {
+    "surface": "un substrat",
+    "valid": false,
+    "reason": "含冠词un"
+  },
+  {
+    "surface": "les illustrations",
+    "valid": false,
+    "reason": "含冠词les"
+  }
+]

@@ -1,0 +1,236 @@
+{
+  "experimentName": "CoT with Chunks-First Prompt Caching",
+  "date": "2026-09-24",
+  "llmConfig": {
+    "model": "deepseek-flash",
+    "provider": "DeepSeek",
+    "thinkingMode": "enabled",
+    "cacheStrategy": "chunks-first (system prompt + examples ahead, question appended at end)",
+    "apiEndpoint": "https://api.deepseek.com/chat/completions",
+    "totalQuestions": 15,
+    "questionIds": [
+      "Z1-Q1","Z1-Q2","Z1-Q3","Z1-Q4",
+      "Z2-Q1","Z2-Q2","Z2-Q3","Z2-Q4",
+      "Z3-Q1","Z3-Q2","Z3-Q3",
+      "Z4-Q1","Z4-Q2","Z4-Q3","Z4-Q4"
+    ]
+  },
+  "aggregateMetrics": {
+    "totalPromptTokens": 2405150,
+    "totalCacheHitTokens": 2400512,
+    "totalCacheMissTokens": 4638,
+    "totalCompletionTokens": 157142,
+    "totalReasoningTokens": 129853,
+    "totalFinalAnswerTokens": 27289,
+    "totalTokens": 2562292,
+    "averageCacheHitRate": "99.81%",
+    "totalElapsedTimeSeconds": 795.0,
+    "averageTimePerQuestionSeconds": 53.0
+  },
+  "deepseekPricing": {
+    "promptCacheHit": 0.36,
+    "promptCacheMiss": 14.0,
+    "completion": 14.0,
+    "currency": "USD per Million tokens"
+  },
+  "costEstimate": {
+    "cacheHitCost": "$0.8642",
+    "cacheMissCost": "$0.0650",
+    "completionCost": "$2.2000",
+    "totalCostUSD": "$3.13",
+    "notes": "Based on DeepSeek V3 pricing: cache hit=$0.36/MTok, cache miss=$14/MTok, completion=$14/MTok"
+  },
+  "perQuestionResults": [
+    {
+      "id": "Z1-Q1",
+      "promptTokens": 160343,
+      "cacheHit": 160128,
+      "cacheMiss": 215,
+      "completionTokens": 7233,
+      "reasoningTokens": 5577,
+      "finalAnswerTokens": 1656,
+      "totalTokens": 167576,
+      "cacheHitRate": "99.9%",
+      "elapsedSeconds": 35.6
+    },
+    {
+      "id": "Z1-Q2",
+      "promptTokens": 160339,
+      "cacheHit": 160128,
+      "cacheMiss": 211,
+      "completionTokens": 6897,
+      "reasoningTokens": 5625,
+      "finalAnswerTokens": 1272,
+      "totalTokens": 167236,
+      "cacheHitRate": "99.9%",
+      "elapsedSeconds": 35.1
+    },
+    {
+      "id": "Z1-Q3",
+      "promptTokens": 160338,
+      "cacheHit": 160000,
+      "cacheMiss": 338,
+      "completionTokens": 8298,
+      "reasoningTokens": 6810,
+      "finalAnswerTokens": 1488,
+      "totalTokens": 168636,
+      "cacheHitRate": "99.8%",
+      "elapsedSeconds": 43.9
+    },
+    {
+      "id": "Z1-Q4",
+      "promptTokens": 160338,
+      "cacheHit": 160000,
+      "cacheMiss": 338,
+      "completionTokens": 13947,
+      "reasoningTokens": 12396,
+      "finalAnswerTokens": 1551,
+      "totalTokens": 174285,
+      "cacheHitRate": "99.8%",
+      "elapsedSeconds": 65.9
+    },
+    {
+      "id": "Z2-Q1",
+      "promptTokens": 160345,
+      "cacheHit": 160000,
+      "cacheMiss": 345,
+      "completionTokens": 6692,
+      "reasoningTokens": 5238,
+      "finalAnswerTokens": 1454,
+      "totalTokens": 167037,
+      "cacheHitRate": "99.8%",
+      "elapsedSeconds": 34.8
+    },
+    {
+      "id": "Z2-Q2",
+      "promptTokens": 160343,
+      "cacheHit": 160000,
+      "cacheMiss": 343,
+      "completionTokens": 12310,
+      "reasoningTokens": 10727,
+      "finalAnswerTokens": 1583,
+      "totalTokens": 172653,
+      "cacheHitRate": "99.8%",
+      "elapsedSeconds": 57.7
+    },
+    {
+      "id": "Z2-Q3",
+      "promptTokens": 160350,
+      "cacheHit": 160000,
+      "cacheMiss": 350,
+      "completionTokens": 17283,
+      "reasoningTokens": 14250,
+      "finalAnswerTokens": 3033,
+      "totalTokens": 177633,
+      "cacheHitRate": "99.8%",
+      "elapsedSeconds": 90.2
+    },
+    {
+      "id": "Z2-Q4",
+      "promptTokens": 160343,
+      "cacheHit": 160000,
+      "cacheMiss": 343,
+      "completionTokens": 9525,
+      "reasoningTokens": 6991,
+      "finalAnswerTokens": 2534,
+      "totalTokens": 169868,
+      "cacheHitRate": "99.8%",
+      "elapsedSeconds": 53.3
+    },
+    {
+      "id": "Z3-Q1",
+      "promptTokens": 160350,
+      "cacheHit": 160128,
+      "cacheMiss": 222,
+      "completionTokens": 9981,
+      "reasoningTokens": 8190,
+      "finalAnswerTokens": 1791,
+      "totalTokens": 170331,
+      "cacheHitRate": "99.9%",
+      "elapsedSeconds": 49.9
+    },
+    {
+      "id": "Z3-Q2",
+      "promptTokens": 160342,
+      "cacheHit": 160128,
+      "cacheMiss": 214,
+      "completionTokens": 13694,
+      "reasoningTokens": 11709,
+      "finalAnswerTokens": 1985,
+      "totalTokens": 174036,
+      "cacheHitRate": "99.9%",
+      "elapsedSeconds": 70.1
+    },
+    {
+      "id": "Z3-Q3",
+      "promptTokens": 160342,
+      "cacheHit": 160000,
+      "cacheMiss": 342,
+      "completionTokens": 9655,
+      "reasoningTokens": 8218,
+      "finalAnswerTokens": 1437,
+      "totalTokens": 169997,
+      "cacheHitRate": "99.8%",
+      "elapsedSeconds": 49.8
+    },
+    {
+      "id": "Z4-Q1",
+      "promptTokens": 160341,
+      "cacheHit": 160000,
+      "cacheMiss": 341,
+      "completionTokens": 16684,
+      "reasoningTokens": 14831,
+      "finalAnswerTokens": 1853,
+      "totalTokens": 177025,
+      "cacheHitRate": "99.8%",
+      "elapsedSeconds": 78.0
+    },
+    {
+      "id": "Z4-Q2",
+      "promptTokens": 160345,
+      "cacheHit": 160000,
+      "cacheMiss": 345,
+      "completionTokens": 10616,
+      "reasoningTokens": 8633,
+      "finalAnswerTokens": 1983,
+      "totalTokens": 170961,
+      "cacheHitRate": "99.8%",
+      "elapsedSeconds": 56.8
+    },
+    {
+      "id": "Z4-Q3",
+      "promptTokens": 160349,
+      "cacheHit": 160000,
+      "cacheMiss": 349,
+      "completionTokens": 8819,
+      "reasoningTokens": 6436,
+      "finalAnswerTokens": 2383,
+      "totalTokens": 169168,
+      "cacheHitRate": "99.8%",
+      "elapsedSeconds": 46.6
+    },
+    {
+      "id": "Z4-Q4",
+      "promptTokens": 160342,
+      "cacheHit": 160000,
+      "cacheMiss": 342,
+      "completionTokens": 5508,
+      "reasoningTokens": 4222,
+      "finalAnswerTokens": 1286,
+      "totalTokens": 165850,
+      "cacheHitRate": "99.8%",
+      "elapsedSeconds": 27.3
+    }
+  ],
+  "keyFindings": {
+    "cacheEfficiency": "99.81% average hit rate across all 15 questions",
+    "baselineCostWithoutCache": "$33.69 (2,405,150 prompt tokens x $14/MTok + 157,142 completion tokens x $14/MTok)",
+    "chunksFirstCostActual": "$3.13 (cache hit $0.36/MTok, cache miss $14/MTok, completion $14/MTok)",
+    "savings": "$30.56 (90.7% cost reduction)",
+    "avgSavingsPerQuestion": "$2.04",
+    "avgCompletionTokensPerQuestion": 10476,
+    "avgReasoningTokensPerQuestion": 8657,
+    "avgFinalAnswerTokensPerQuestion": 1819,
+    "reasoningTokenRatio": "82.6% of completion tokens on average are used for reasoning"
+  }
+}

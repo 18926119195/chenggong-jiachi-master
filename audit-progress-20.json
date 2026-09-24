@@ -1,0 +1,879 @@
+[
+  {
+    "surface": "son autre pince",
+    "valid": true
+  },
+  {
+    "surface": "r'iludent",
+    "valid": false,
+    "reason": "拼写碎片/非词"
+  },
+  {
+    "surface": "l'atent",
+    "valid": false,
+    "reason": "拼写错误/非标准词"
+  },
+  {
+    "surface": "les données",
+    "valid": true
+  },
+  {
+    "surface": "son entreprise",
+    "valid": true
+  },
+  {
+    "surface": "énergétique",
+    "valid": true
+  },
+  {
+    "surface": "Musique",
+    "valid": true
+  },
+  {
+    "surface": "une suer",
+    "valid": false,
+    "reason": "冠词+动词不定式，非名词短语"
+  },
+  {
+    "surface": "enéquivalent",
+    "valid": false,
+    "reason": "拼写合并/非标准词"
+  },
+  {
+    "surface": "*ou* *buière",
+    "valid": false,
+    "reason": "含符号与拼写碎片"
+  },
+  {
+    "surface": "capitalisat",
+    "valid": false,
+    "reason": "截断词/非标准形式"
+  },
+  {
+    "surface": "un super-équivalent",
+    "valid": true
+  },
+  {
+    "surface": "• bouillie",
+    "valid": false,
+    "reason": "含项目符号"
+  },
+  {
+    "surface": "capitalis",
+    "valid": false,
+    "reason": "截断词/非标准形式"
+  },
+  {
+    "surface": "la place",
+    "valid": true
+  },
+  {
+    "surface": "choix",
+    "valid": true
+  },
+  {
+    "surface": "la méga",
+    "valid": false,
+    "reason": "冠词+前缀/非独立名词"
+  },
+  {
+    "surface": ", de science",
+    "valid": false,
+    "reason": "含标点且为介词短语碎片"
+  },
+  {
+    "surface": "de subjective",
+    "valid": false,
+    "reason": "介词+形容词，非名词短语"
+  },
+  {
+    "surface": "Mondial Intégré",
+    "valid": true
+  },
+  {
+    "surface": "cette planête",
+    "valid": true
+  },
+  {
+    "surface": "de valisation",
+    "valid": false,
+    "reason": "拼写错误/非标准名词短语"
+  },
+  {
+    "surface": "son service",
+    "valid": true
+  },
+  {
+    "surface": "ce dispositif",
+    "valid": true
+  },
+  {
+    "surface": ", la variable",
+    "valid": false,
+    "reason": "含标点"
+  },
+  {
+    "surface": "énergetique",
+    "valid": true
+  },
+  {
+    "surface": "inconsciente",
+    "valid": true
+  },
+  {
+    "surface": "conçoit",
+    "valid": false,
+    "reason": "动词变位"
+  },
+  {
+    "surface": "alors Freud",
+    "valid": false,
+    "reason": "副词+专名，非名词短语"
+  },
+  {
+    "surface": "la dépendance totale",
+    "valid": true
+  },
+  {
+    "surface": "une causalité pulsionnelle",
+    "valid": true
+  },
+  {
+    "surface": "distorsions",
+    "valid": true
+  },
+  {
+    "surface": "le *processus primaire",
+    "valid": false,
+    "reason": "含星号"
+  },
+  {
+    "surface": "dépalcement",
+    "valid": false,
+    "reason": "拼写错误/非标准词"
+  },
+  {
+    "surface": ", condensation",
+    "valid": false,
+    "reason": "含标点"
+  },
+  {
+    "surface": "surdetermination",
+    "valid": true
+  },
+  {
+    "surface": ", hallucination",
+    "valid": false,
+    "reason": "含标点"
+  },
+  {
+    "surface": "librider",
+    "valid": false,
+    "reason": "非标准词/拼写错误"
+  },
+  {
+    "surface": "diverses",
+    "valid": true
+  },
+  {
+    "surface": "sorties",
+    "valid": true
+  },
+  {
+    "surface": ", indévisées",
+    "valid": false,
+    "reason": "含标点且拼写错误"
+  },
+  {
+    "surface": "sublimations",
+    "valid": true
+  },
+  {
+    "surface": "malaise",
+    "valid": true
+  },
+  {
+    "surface": "précision",
+    "valid": true
+  },
+  {
+    "surface": "les points",
+    "valid": true
+  },
+  {
+    "surface": "acchrogue",
+    "valid": false,
+    "reason": "拼写错误/非词"
+  },
+  {
+    "surface": "les étages somatiques et psychiques",
+    "valid": true
+  },
+  {
+    "surface": "renveil",
+    "valid": false,
+    "reason": "拼写错误/非标准词"
+  },
+  {
+    "surface": "le somatique",
+    "valid": true
+  },
+  {
+    "surface": "des effets psychiques",
+    "valid": true
+  },
+  {
+    "surface": "partie intégrante",
+    "valid": true
+  },
+  {
+    "surface": "monde psychique",
+    "valid": true
+  },
+  {
+    "surface": "Mais l'essentiel",
+    "valid": false,
+    "reason": "连词+名词短语，非纯名词短语"
+  },
+  {
+    "surface": "des voies",
+    "valid": true
+  },
+  {
+    "surface": "la librida sexuelle",
+    "valid": false,
+    "reason": "拼写错误/非标准词"
+  },
+  {
+    "surface": "les effets",
+    "valid": true
+  },
+  {
+    "surface": "un fondement cosmologique",
+    "valid": true
+  },
+  {
+    "surface": "l'inclusion",
+    "valid": true
+  },
+  {
+    "surface": "paradigmes",
+    "valid": true
+  },
+  {
+    "surface": "dualistes",
+    "valid": true
+  },
+  {
+    "surface": "Éros",
+    "valid": true
+  },
+  {
+    "surface": "Amour",
+    "valid": true
+  },
+  {
+    "surface": "Discord",
+    "valid": true
+  },
+  {
+    "surface": "Décord",
+    "valid": false,
+    "reason": "拼写错误/非标准词"
+  },
+  {
+    "surface": "Désord",
+    "valid": false,
+    "reason": "拼写错误/非标准词"
+  },
+  {
+    "surface": "une énergie",
+    "valid": true
+  },
+  {
+    "surface": "effets",
+    "valid": true
+  },
+  {
+    "surface": "SÉMIOTIQUE FREUDIENNE",
+    "valid": true
+  },
+  {
+    "surface": "le carcan scientiste",
+    "valid": true
+  },
+  {
+    "surface": "eit",
+    "valid": false,
+    "reason": "非词/拼写碎片"
+  },
+  {
+    "surface": "principale fonction",
+    "valid": true
+  },
+  {
+    "surface": "le prémunier",
+    "valid": false,
+    "reason": "冠词+动词不定式，非名词短语"
+  },
+  {
+    "surface": "les ruptures",
+    "valid": true
+  },
+  {
+    "surface": "sens trop brutales",
+    "valid": false,
+    "reason": "语法不成立/碎片"
+  },
+  {
+    "surface": "alors non seulement son écoute",
+    "valid": false,
+    "reason": "连词副词组合，非名词短语"
+  },
+  {
+    "surface": "auto-analyse",
+    "valid": true
+  },
+  {
+    "surface": "interactions",
+    "valid": true
+  },
+  {
+    "surface": "les Flux énergétiques",
+    "valid": true
+  },
+  {
+    "surface": "ses divers édifices théoriques",
+    "valid": true
+  },
+  {
+    "surface": "des dispositions",
+    "valid": true
+  },
+  {
+    "surface": "façon de plus en plus metaphorique",
+    "valid": true
+  },
+  {
+    "surface": "des composantes énergétiques",
+    "valid": true
+  },
+  {
+    "surface": "des instances",
+    "valid": true
+  },
+  {
+    "surface": "représentation mentale",
+    "valid": true
+  },
+  {
+    "surface": "un engendrement",
+    "valid": true
+  },
+  {
+    "surface": "dynamique",
+    "valid": true
+  },
+  {
+    "surface": "representations",
+    "valid": true
+  },
+  {
+    "surface": "un curieux type",
+    "valid": true
+  },
+  {
+    "surface": "pulsons",
+    "valid": false,
+    "reason": "动词变位/非名词"
+  },
+  {
+    "surface": "deux niveaux",
+    "valid": true
+  },
+  {
+    "surface": "Ave",
+    "valid": true
+  },
+  {
+    "surface": "*seconde",
+    "valid": false,
+    "reason": "含星号"
+  },
+  {
+    "surface": "topique*",
+    "valid": false,
+    "reason": "含星号"
+  },
+  {
+    "surface": "*freudienne",
+    "valid": false,
+    "reason": "含星号"
+  },
+  {
+    "surface": "triale",
+    "valid": false,
+    "reason": "非标准词/拼写错误"
+  },
+  {
+    "surface": "Inconsel",
+    "valid": false,
+    "reason": "拼写错误/非标准词"
+  },
+  {
+    "surface": "Conscient*",
+    "valid": false,
+    "reason": "含星号"
+  },
+  {
+    "surface": "la triade",
+    "valid": true
+  },
+  {
+    "surface": "Ca",
+    "valid": true
+  },
+  {
+    "surface": "les métaphores énergétiques",
+    "valid": true
+  },
+  {
+    "surface": "modeles",
+    "valid": true
+  },
+  {
+    "surface": "plus anthropomorphiques1",
+    "valid": false,
+    "reason": "含数字且为比较短语碎片"
+  },
+  {
+    "surface": "le mouvement psychanalytique",
+    "valid": true
+  },
+  {
+    "surface": "concept",
+    "valid": true
+  },
+  {
+    "surface": "energie libidinale",
+    "valid": true
+  },
+  {
+    "surface": "les treatements les plus divers",
+    "valid": true
+  },
+  {
+    "surface": "le *scandale théorique",
+    "valid": false,
+    "reason": "含星号"
+  },
+  {
+    "surface": "porteur*.",
+    "valid": false,
+    "reason": "含星号与标点"
+  },
+  {
+    "surface": "sa naiermine",
+    "valid": false,
+    "reason": "拼写错误/非标准词"
+  },
+  {
+    "surface": "l'égide",
+    "valid": true
+  },
+  {
+    "surface": "structuralisme lacanien",
+    "valid": true
+  },
+  {
+    "surface": "rien moins que de sa *liquidation* qui quasi est soume de forme châne significante",
+    "valid": false,
+    "reason": "含星号且为句子碎片"
+  },
+  {
+    "surface": "jeun",
+    "valid": false,
+    "reason": "非标准词/拼写错误"
+  },
+  {
+    "surface": "une *poussée*",
+    "valid": false,
+    "reason": "含星号"
+  },
+  {
+    "surface": "la nature",
+    "valid": true
+  },
+  {
+    "surface": "biochimique",
+    "valid": true
+  },
+  {
+    "surface": "sa source",
+    "valid": true
+  },
+  {
+    "surface": "excitation",
+    "valid": true
+  },
+  {
+    "surface": "érogénères",
+    "valid": false,
+    "reason": "拼写错误/非标准词"
+  },
+  {
+    "surface": "but",
+    "valid": true
+  },
+  {
+    "surface": "*répondrait*",
+    "valid": false,
+    "reason": "含星号且为动词变位"
+  },
+  {
+    "surface": "une homeostasie",
+    "valid": true
+  },
+  {
+    "surface": "tensions engrédresses par les lesités excitations",
+    "valid": false,
+    "reason": "拼写错误且语法混乱"
+  },
+  {
+    "surface": "psychique",
+    "valid": true
+  },
+  {
+    "surface": "des fantasmes",
+    "valid": true
+  },
+  {
+    "surface": ", des relations",
+    "valid": false,
+    "reason": "含标点"
+  },
+  {
+    "surface": "intersubjectives",
+    "valid": true
+  },
+  {
+    "surface": "premiers",
+    "valid": true
+  },
+  {
+    "surface": "écrites",
+    "valid": true
+  },
+  {
+    "surface": "that",
+    "valid": false,
+    "reason": "英语词/非法语名词"
+  },
+  {
+    "surface": "la metapyschologie freudienne",
+    "valid": true
+  },
+  {
+    "surface": "l'a",
+    "valid": false,
+    "reason": "冠词+助动词/代词，非名词"
+  },
+  {
+    "surface": "simple",
+    "valid": true
+  },
+  {
+    "surface": "notation énergétique",
+    "valid": true
+  },
+  {
+    "surface": "la thermo-dynamique",
+    "valid": true
+  },
+  {
+    "surface": "une qu'un jeu",
+    "valid": false,
+    "reason": "语法碎片"
+  },
+  {
+    "surface": "inier",
+    "valid": false,
+    "reason": "非标准词/拼写错误"
+  },
+  {
+    "surface": "à son caractère",
+    "valid": false,
+    "reason": "介词短语，非名词短语"
+  },
+  {
+    "surface": "un organe",
+    "valid": true
+  },
+  {
+    "surface": "trésor",
+    "valid": true
+  },
+  {
+    "surface": "cette libido",
+    "valid": true
+  },
+  {
+    "surface": ", organe",
+    "valid": false,
+    "reason": "含标点"
+  },
+  {
+    "surface": "l'incorpore",
+    "valid": false,
+    "reason": "冠词+动词变位"
+  },
+  {
+    "surface": "une lamelle volante",
+    "valid": true
+  },
+  {
+    "surface": "immortelle",
+    "valid": true
+  },
+  {
+    "surface": "axusexime",
+    "valid": false,
+    "reason": "拼写错误/非词"
+  },
+  {
+    "surface": "les amibes",
+    "valid": true
+  },
+  {
+    "surface": "hammelette",
+    "valid": false,
+    "reason": "拼写错误/非标准词"
+  },
+  {
+    "surface": "son statut énergétique",
+    "valid": true
+  },
+  {
+    "surface": "décidément sacro-saint",
+    "valid": false,
+    "reason": "副词+形容词，非名词短语"
+  },
+  {
+    "surface": "que d'une énergie assez particulière",
+    "valid": false,
+    "reason": "连词介词短语碎片"
+  },
+  {
+    "surface": "le note",
+    "valid": false,
+    "reason": "冠词+动词变位"
+  },
+  {
+    "surface": "une quantiétrie",
+    "valid": false,
+    "reason": "拼写错误/非标准词"
+  },
+  {
+    "surface": "d'autant",
+    "valid": false,
+    "reason": "副词短语"
+  },
+  {
+    "surface": "aisé",
+    "valid": true
+  },
+  {
+    "surface": "théorie",
+    "valid": true
+  },
+  {
+    "surface": "certains quanta",
+    "valid": true
+  },
+  {
+    "surface": "couleur",
+    "valid": true
+  },
+  {
+    "surface": "sexuelle",
+    "valid": true
+  },
+  {
+    "surface": "maintenance",
+    "valid": true
+  },
+  {
+    "surface": "plus intime de sa nature",
+    "valid": false,
+    "reason": "比较短语碎片，非名词短语"
+  },
+  {
+    "surface": ", est couleur",
+    "valid": false,
+    "reason": "含标点且为动词短语"
+  },
+  {
+    "surface": "vide",
+    "valid": true
+  },
+  {
+    "surface": "la lumière",
+    "valid": true
+  },
+  {
+    "surface": "une beance",
+    "valid": true
+  },
+  {
+    "surface": "ayer",
+    "valid": false,
+    "reason": "非标准词/拼写错误"
+  },
+  {
+    "surface": "aïssé",
+    "valid": false,
+    "reason": "非标准词/拼写错误"
+  },
+  {
+    "surface": "aise",
+    "valid": true
+  },
+  {
+    "surface": "conjectures",
+    "valid": true
+  },
+  {
+    "surface": "les psychanalystes",
+    "valid": true
+  },
+  {
+    "surface": "une performance orale",
+    "valid": true
+  },
+  {
+    "surface": "individuelle",
+    "valid": true
+  },
+  {
+    "surface": "un certain habitus familialisé",
+    "valid": true
+  },
+  {
+    "surface": "sociéties industrielles",
+    "valid": false,
+    "reason": "拼写错误/非标准词"
+  },
+  {
+    "surface": "développées",
+    "valid": true
+  },
+  {
+    "surface": "2) des manifestations",
+    "valid": false,
+    "reason": "含编号与标点"
+  },
+  {
+    "surface": "l'espace étièle",
+    "valid": false,
+    "reason": "拼写错误/非标准词"
+  },
+  {
+    "surface": ", des formations",
+    "valid": false,
+    "reason": "含标点"
+  },
+  {
+    "surface": "individuelles",
+    "valid": true
+  },
+  {
+    "surface": "objectives",
+    "valid": true
+  },
+  {
+    "surface": "humains",
+    "valid": true
+  },
+  {
+    "surface": "cosmiques",
+    "valid": true
+  },
+  {
+    "surface": "une diversification",
+    "valid": true
+  },
+  {
+    "surface": "tout centrage",
+    "valid": true
+  },
+  {
+    "surface": "distant",
+    "valid": true
+  },
+  {
+    "surface": "neutre",
+    "valid": true
+  },
+  {
+    "surface": "bienveillance",
+    "valid": true
+  },
+  {
+    "surface": "un psychanalyste",
+    "valid": true
+  },
+  {
+    "surface": "l'interprétation significante",
+    "valid": true
+  },
+  {
+    "surface": "l'exploration",
+    "valid": true
+  },
+  {
+    "surface": "dnonciation",
+    "valid": false,
+    "reason": "拼写错误/非标准词"
+  },
+  {
+    "surface": "Affectes subjectifs et d'Effets machiniques (j'enfentés ici que ce qui engage une vie processuelle",
+    "valid": false,
+    "reason": "句子碎片且含括号"
+  },
+  {
+    "surface": ", une probabilité",
+    "valid": false,
+    "reason": "含标点"
+  },
+  {
+    "surface": "técartant",
+    "valid": false,
+    "reason": "非标准词/拼写错误"
+  },
+  {
+    "surface": "des redundances stratifiques",
+    "valid": false,
+    "reason": "拼写错误/非标准词"
+  },
+  {
+    "surface": "évolutif",
+    "valid": true
+  },
+  {
+    "surface": "quel ordre que ce soit, biologique, économique, social, religieux, esthétique, etc.",
+    "valid": false,
+    "reason": "从句/列举碎片"
+  },
+  {
+    "surface": "perspective",
+    "valid": true
+  },
+  {
+    "surface": "évaluation",
+    "valid": true
+  },
+  {
+    "surface": "prescription",
+    "valid": true
+  }
+]

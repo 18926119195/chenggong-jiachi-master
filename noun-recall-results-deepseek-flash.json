@@ -1,0 +1,4450 @@
+[
+  {
+    "questionId": "Z1-Q1",
+    "question": "Pierre Janet和Freud对无意识的观点有何不同？",
+    "zone": 1,
+    "totalNouns": 15368,
+    "coarseYesCount": 309,
+    "scoredCount": 309,
+    "selectedCount": 309,
+    "highScoredCount": 34,
+    "scoreThreshold": 80,
+    "failedBatches": 0,
+    "tokenCost": {
+      "coarsePromptTokens": 155707,
+      "coarseCompletionTokens": 1293,
+      "scorePromptTokens": 3287,
+      "scoreCompletionTokens": 2162,
+      "totalPromptTokens": 158994,
+      "totalCompletionTokens": 3455
+    },
+    "elapsedSecs": 10.9,
+    "scoredNouns": [
+      {
+        "id": "l'inconscient_primaire",
+        "surface": "l'Inconscient primaire",
+        "df": 2,
+        "score": 95
+      },
+      {
+        "id": "l'inconscient_secondaire",
+        "surface": "l'Inconscient secondaire",
+        "df": 2,
+        "score": 95
+      },
+      {
+        "id": "inconscient",
+        "surface": "Inconscient",
+        "df": 5,
+        "score": 95
+      },
+      {
+        "id": "l'inconscient",
+        "surface": "l'Inconscient",
+        "df": 10,
+        "score": 95
+      },
+      {
+        "id": "pierre_janet",
+        "surface": "Pierre Janet",
+        "df": 1,
+        "score": 95
+      },
+      {
+        "id": "un_inconscient",
+        "surface": "un Inconscient",
+        "df": 2,
+        "score": 90
+      },
+      {
+        "id": "freud",
+        "surface": "Freud",
+        "df": 28,
+        "score": 90
+      },
+      {
+        "id": "le_processus_primaire",
+        "surface": "Le processus primaire",
+        "df": 2,
+        "score": 85
+      },
+      {
+        "id": "refoulement",
+        "surface": "refoulement",
+        "df": 2,
+        "score": 85
+      },
+      {
+        "id": "inconciens",
+        "surface": "Inconciens",
+        "df": 2,
+        "score": 85
+      },
+      {
+        "id": "inconscients",
+        "surface": "inconscients",
+        "df": 2,
+        "score": 85
+      },
+      {
+        "id": "deux_solutions_diametralement_différentes_du_problème_metaphysique",
+        "surface": "deux solutions diametralement différentes du problème metaphysique",
+        "df": 1,
+        "score": 85
+      },
+      {
+        "id": "différences",
+        "surface": "différences",
+        "df": 1,
+        "score": 85
+      },
+      {
+        "id": "le_concept_d*inconscient*.",
+        "surface": "le concept d*Inconscient*.",
+        "df": 1,
+        "score": 85
+      },
+      {
+        "id": "les_trois_niveaux_inconscients",
+        "surface": "les trois niveaux inconscients",
+        "df": 1,
+        "score": 85
+      },
+      {
+        "id": "une_différence_notable",
+        "surface": "une différence notable",
+        "df": 1,
+        "score": 85
+      },
+      {
+        "id": "une_distinction",
+        "surface": "une distinction",
+        "df": 1,
+        "score": 85
+      },
+      {
+        "id": "la_pulsion_freudienne",
+        "surface": "la pulSION freudienne",
+        "df": 2,
+        "score": 80
+      },
+      {
+        "id": "oppositions_distinctes",
+        "surface": "oppositions distinctes",
+        "df": 2,
+        "score": 80
+      },
+      {
+        "id": "psychanalyse",
+        "surface": "psychanalyse",
+        "df": 4,
+        "score": 80
+      },
+      {
+        "id": "la_psychanalyse",
+        "surface": "la psychanalyse",
+        "df": 18,
+        "score": 80
+      },
+      {
+        "id": "*_processus_primaire",
+        "surface": "* processus primaire",
+        "df": 1,
+        "score": 80
+      },
+      {
+        "id": "ce_domaine_inconscient",
+        "surface": "ce domaine inconscient",
+        "df": 1,
+        "score": 80
+      },
+      {
+        "id": "des_contenus_inconscients",
+        "surface": "des contenus inconscients",
+        "df": 1,
+        "score": 80
+      },
+      {
+        "id": "des_dimensions_inconscientes",
+        "surface": "des dimensions inconscientes",
+        "df": 1,
+        "score": 80
+      },
+      {
+        "id": "deux_parties_distinctes",
+        "surface": "deux parties distinctes",
+        "df": 1,
+        "score": 80
+      },
+      {
+        "id": "différent",
+        "surface": "différent",
+        "df": 1,
+        "score": 80
+      },
+      {
+        "id": "l'inconscien",
+        "surface": "l'Inconscien",
+        "df": 1,
+        "score": 80
+      },
+      {
+        "id": "le_*processus_primaire",
+        "surface": "le *processus primaire",
+        "df": 1,
+        "score": 80
+      },
+      {
+        "id": "le_véritable_inconscient_psychoanalyse",
+        "surface": "le véritable Inconscient psychoanalyse",
+        "df": 1,
+        "score": 80
+      },
+      {
+        "id": "processus_primaire",
+        "surface": "processus primaire",
+        "df": 1,
+        "score": 80
+      },
+      {
+        "id": "un_domaine_inconscient",
+        "surface": "un domaine inconscient",
+        "df": 1,
+        "score": 80
+      },
+      {
+        "id": "une_différence",
+        "surface": "une différence",
+        "df": 1,
+        "score": 80
+      },
+      {
+        "id": "une_différenciation",
+        "surface": "une différenciation",
+        "df": 1,
+        "score": 80
+      },
+      {
+        "id": "l'hystérie",
+        "surface": "l'hystérie",
+        "df": 2,
+        "score": 75
+      },
+      {
+        "id": "splitting",
+        "surface": "splitting",
+        "df": 2,
+        "score": 75
+      },
+      {
+        "id": "la_pulsion",
+        "surface": "la pulsion",
+        "df": 4,
+        "score": 75
+      },
+      {
+        "id": "alors_freud",
+        "surface": "alors Freud",
+        "df": 1,
+        "score": 75
+      },
+      {
+        "id": "conscience",
+        "surface": "conscience",
+        "df": 8,
+        "score": 75
+      },
+      {
+        "id": "la_conscience",
+        "surface": "la conscience",
+        "df": 6,
+        "score": 75
+      },
+      {
+        "id": "concepions_freudiennes",
+        "surface": "concepions freudiennes",
+        "df": 1,
+        "score": 75
+      },
+      {
+        "id": "freud_«",
+        "surface": "Freud «",
+        "df": 1,
+        "score": 75
+      },
+      {
+        "id": "deux_sortes",
+        "surface": "deux sortes",
+        "df": 1,
+        "score": 75
+      },
+      {
+        "id": "différentes_modalités",
+        "surface": "différentes modalités",
+        "df": 1,
+        "score": 75
+      },
+      {
+        "id": "différents_processus",
+        "surface": "Différents processus",
+        "df": 1,
+        "score": 75
+      },
+      {
+        "id": "inconsciences",
+        "surface": "inconsciences",
+        "df": 1,
+        "score": 75
+      },
+      {
+        "id": "inconscion",
+        "surface": "Inconscion",
+        "df": 1,
+        "score": 75
+      },
+      {
+        "id": "l'inconscience",
+        "surface": "l'Inconscience",
+        "df": 1,
+        "score": 75
+      },
+      {
+        "id": "l'incoscient",
+        "surface": "l'incoscient",
+        "df": 1,
+        "score": 75
+      },
+      {
+        "id": "les_implications_réalistes_de_ses_premières_formulations_concernant_les_traumatismes_de_ses_précédence_précoce",
+        "surface": "les implications réalistes de ses premières formulations concernant les traumatismes de ses précédence précoce",
+        "df": 1,
+        "score": 75
+      },
+      {
+        "id": "ou_freud",
+        "surface": "ou Freud",
+        "df": 1,
+        "score": 75
+      },
+      {
+        "id": "une_double_perspective",
+        "surface": "une double perspective",
+        "df": 1,
+        "score": 75
+      },
+      {
+        "id": "une_double_position",
+        "surface": "une double position",
+        "df": 1,
+        "score": 75
+      },
+      {
+        "id": "une_nouvelle_conception",
+        "surface": "une nouvelle conception",
+        "df": 1,
+        "score": 75
+      },
+      {
+        "id": "une_nouvelle_définition",
+        "surface": "une nouvelle définition",
+        "df": 1,
+        "score": 75
+      },
+      {
+        "id": "une_nouvelle_position",
+        "surface": "une nouvelle position",
+        "df": 1,
+        "score": 75
+      },
+      {
+        "id": "une_*scène*_inconsciente",
+        "surface": "une *scène* inconsciente",
+        "df": 1,
+        "score": 75
+      },
+      {
+        "id": "la_névrose",
+        "surface": "la névrose",
+        "df": 2,
+        "score": 70
+      },
+      {
+        "id": "le_freudisme",
+        "surface": "Le freudisme",
+        "df": 2,
+        "score": 70
+      },
+      {
+        "id": "résistance",
+        "surface": "résistance",
+        "df": 2,
+        "score": 70
+      },
+      {
+        "id": "la_psychie",
+        "surface": "la psychie",
+        "df": 4,
+        "score": 70
+      },
+      {
+        "id": "ca",
+        "surface": "Ca",
+        "df": 3,
+        "score": 70
+      },
+      {
+        "id": "la_libido",
+        "surface": "la libido",
+        "df": 7,
+        "score": 70
+      },
+      {
+        "id": "libido",
+        "surface": "libido",
+        "df": 7,
+        "score": 70
+      },
+      {
+        "id": "la_psyché",
+        "surface": "la psyché",
+        "df": 6,
+        "score": 70
+      },
+      {
+        "id": "*_pré-logiques",
+        "surface": "* pré-logiques",
+        "df": 1,
+        "score": 70
+      },
+      {
+        "id": "conscient",
+        "surface": "Conscient",
+        "df": 2,
+        "score": 70
+      },
+      {
+        "id": "pulsions",
+        "surface": "pulsions",
+        "df": 3,
+        "score": 70
+      },
+      {
+        "id": "représentations",
+        "surface": "représentations",
+        "df": 3,
+        "score": 70
+      },
+      {
+        "id": "a-signifiante",
+        "surface": "a-signifiante",
+        "df": 2,
+        "score": 70
+      },
+      {
+        "id": "censure",
+        "surface": "censure",
+        "df": 1,
+        "score": 70
+      },
+      {
+        "id": "de_la_psychanalyse",
+        "surface": "de la psychanalyse",
+        "df": 1,
+        "score": 70
+      },
+      {
+        "id": "deux_termes",
+        "surface": "deux termes",
+        "df": 1,
+        "score": 70
+      },
+      {
+        "id": "divers_modalités",
+        "surface": "divers modalités",
+        "df": 1,
+        "score": 70
+      },
+      {
+        "id": "diverses_modalités",
+        "surface": "diverses modalités",
+        "df": 1,
+        "score": 70
+      },
+      {
+        "id": "des_modalités_bien_différentes",
+        "surface": "des modalités bien différentes",
+        "df": 1,
+        "score": 70
+      },
+      {
+        "id": "des_niveaux",
+        "surface": "des niveaux",
+        "df": 1,
+        "score": 70
+      },
+      {
+        "id": "des_pulsions",
+        "surface": "des pulsions",
+        "df": 1,
+        "score": 70
+      },
+      {
+        "id": "la_metapyschologie_freudienne",
+        "surface": "la metapyschologie freudienne",
+        "df": 1,
+        "score": 70
+      },
+      {
+        "id": "l'inconscion",
+        "surface": "l'Inconscion",
+        "df": 1,
+        "score": 70
+      },
+      {
+        "id": "les_figures_inconscientes",
+        "surface": "Les figures inconscientes",
+        "df": 1,
+        "score": 70
+      },
+      {
+        "id": "les_u.",
+        "surface": "les U.",
+        "df": 1,
+        "score": 70
+      },
+      {
+        "id": "refoule",
+        "surface": "refoule",
+        "df": 1,
+        "score": 70
+      },
+      {
+        "id": "refulement",
+        "surface": "refulement",
+        "df": 1,
+        "score": 70
+      },
+      {
+        "id": "une_double_tension",
+        "surface": "une double tension",
+        "df": 1,
+        "score": 70
+      },
+      {
+        "id": "une_névrose_hystérique",
+        "surface": "une névrose hystérique",
+        "df": 1,
+        "score": 70
+      },
+      {
+        "id": "le_complexe",
+        "surface": "le complexe",
+        "df": 2,
+        "score": 65
+      },
+      {
+        "id": "le_syméptome",
+        "surface": "le syméptome",
+        "df": 2,
+        "score": 65
+      },
+      {
+        "id": "pensée",
+        "surface": "pensée",
+        "df": 2,
+        "score": 65
+      },
+      {
+        "id": "souvenir",
+        "surface": "souvenir",
+        "df": 2,
+        "score": 65
+      },
+      {
+        "id": "ça",
+        "surface": "Ça",
+        "df": 2,
+        "score": 65
+      },
+      {
+        "id": "ego",
+        "surface": "ego",
+        "df": 2,
+        "score": 65
+      },
+      {
+        "id": "psychanalystes",
+        "surface": "psychanalystes",
+        "df": 3,
+        "score": 65
+      },
+      {
+        "id": "une_mémoire",
+        "surface": "une mémoire",
+        "df": 3,
+        "score": 65
+      },
+      {
+        "id": "notion",
+        "surface": "notion",
+        "df": 3,
+        "score": 65
+      },
+      {
+        "id": "la_conversion",
+        "surface": "la conversion",
+        "df": 3,
+        "score": 65
+      },
+      {
+        "id": "une_libido",
+        "surface": "une libido",
+        "df": 3,
+        "score": 65
+      },
+      {
+        "id": "cette_censure",
+        "surface": "cette censure",
+        "df": 1,
+        "score": 65
+      },
+      {
+        "id": "de_conscience",
+        "surface": "de conscience",
+        "df": 1,
+        "score": 65
+      },
+      {
+        "id": "de_représentation",
+        "surface": "de représentation",
+        "df": 1,
+        "score": 65
+      },
+      {
+        "id": "des_fantasmes",
+        "surface": "des fantasmes",
+        "df": 1,
+        "score": 65
+      },
+      {
+        "id": "des_mémoires_corporelles",
+        "surface": "des mémoires corporelles",
+        "df": 1,
+        "score": 65
+      },
+      {
+        "id": "des_modalités",
+        "surface": "des modalités",
+        "df": 1,
+        "score": 65
+      },
+      {
+        "id": "des_modalités_aussi_diverses",
+        "surface": "des modalités aussi diverses",
+        "df": 1,
+        "score": 65
+      },
+      {
+        "id": "des_modalités_spécifiques",
+        "surface": "des modalités spécifiques",
+        "df": 1,
+        "score": 65
+      },
+      {
+        "id": "des_niveaux_problématiques",
+        "surface": "des niveaux problématiques",
+        "df": 1,
+        "score": 65
+      },
+      {
+        "id": "instances_psychiques",
+        "surface": "instances psychiques",
+        "df": 1,
+        "score": 65
+      },
+      {
+        "id": "instances_topiques",
+        "surface": "instances topiques",
+        "df": 1,
+        "score": 65
+      },
+      {
+        "id": "la_psyanalyse",
+        "surface": "la psyanalyse",
+        "df": 1,
+        "score": 65
+      },
+      {
+        "id": "la_psychoanalyse",
+        "surface": "la psychoanalyse",
+        "df": 1,
+        "score": 65
+      },
+      {
+        "id": "l'exploration_psychanalytique",
+        "surface": "l'exploration psychanalytique",
+        "df": 1,
+        "score": 65
+      },
+      {
+        "id": "la_censure",
+        "surface": "la censure",
+        "df": 1,
+        "score": 65
+      },
+      {
+        "id": "la_subjectifie_inconsciente",
+        "surface": "la subjectifie inconsciente",
+        "df": 1,
+        "score": 65
+      },
+      {
+        "id": "le_conscient",
+        "surface": "le Conscient",
+        "df": 1,
+        "score": 65
+      },
+      {
+        "id": "le_freudisme_–",
+        "surface": "le freudisme –",
+        "df": 1,
+        "score": 65
+      },
+      {
+        "id": "préconscient",
+        "surface": "Préconscient",
+        "df": 1,
+        "score": 65
+      },
+      {
+        "id": "psychique",
+        "surface": "psychique",
+        "df": 1,
+        "score": 65
+      },
+      {
+        "id": "psychoanalyse",
+        "surface": "psychoanalyse",
+        "df": 1,
+        "score": 65
+      },
+      {
+        "id": "souvenirs_les_plus_anciens",
+        "surface": "souvenirs les plus anciens",
+        "df": 1,
+        "score": 65
+      },
+      {
+        "id": "symptômes",
+        "surface": "symptômes",
+        "df": 1,
+        "score": 65
+      },
+      {
+        "id": "théorie",
+        "surface": "théorie",
+        "df": 1,
+        "score": 65
+      },
+      {
+        "id": "theorie",
+        "surface": "theorie",
+        "df": 1,
+        "score": 65
+      },
+      {
+        "id": "un_souvenir",
+        "surface": "un souvenir",
+        "df": 1,
+        "score": 65
+      },
+      {
+        "id": "une_censure",
+        "surface": "une censure",
+        "df": 1,
+        "score": 65
+      },
+      {
+        "id": "la_psychologie",
+        "surface": "la psychologie",
+        "df": 2,
+        "score": 60
+      },
+      {
+        "id": "organisation",
+        "surface": "organisation",
+        "df": 2,
+        "score": 60
+      },
+      {
+        "id": "rêves",
+        "surface": "rêves",
+        "df": 2,
+        "score": 60
+      },
+      {
+        "id": "le_rêve",
+        "surface": "le rêve",
+        "df": 5,
+        "score": 60
+      },
+      {
+        "id": "l'oubli",
+        "surface": "L'oubli",
+        "df": 4,
+        "score": 60
+      },
+      {
+        "id": "apréhension_hystérique",
+        "surface": "apréhension hystérique",
+        "df": 1,
+        "score": 60
+      },
+      {
+        "id": "après-coup",
+        "surface": "après-coup",
+        "df": 1,
+        "score": 60
+      },
+      {
+        "id": "auteurs_psychanalytiques",
+        "surface": "auteurs psychanalytiques",
+        "df": 1,
+        "score": 60
+      },
+      {
+        "id": "rêve",
+        "surface": "rêve",
+        "df": 15,
+        "score": 60
+      },
+      {
+        "id": "lapsus",
+        "surface": "lapsus",
+        "df": 6,
+        "score": 60
+      },
+      {
+        "id": "surmoi",
+        "surface": "Surmoi",
+        "df": 6,
+        "score": 60
+      },
+      {
+        "id": "autres_theoriciens",
+        "surface": "autres theoriciens",
+        "df": 1,
+        "score": 60
+      },
+      {
+        "id": "le_moi",
+        "surface": "le Moi",
+        "df": 3,
+        "score": 60
+      },
+      {
+        "id": "signification",
+        "surface": "signification",
+        "df": 3,
+        "score": 60
+      },
+      {
+        "id": "manifestation",
+        "surface": "manifestation",
+        "df": 3,
+        "score": 60
+      },
+      {
+        "id": "manifestations",
+        "surface": "manifestations",
+        "df": 3,
+        "score": 60
+      },
+      {
+        "id": "problème",
+        "surface": "problème",
+        "df": 3,
+        "score": 60
+      },
+      {
+        "id": "problèmes",
+        "surface": "problèmes",
+        "df": 3,
+        "score": 60
+      },
+      {
+        "id": "problématiques",
+        "surface": "problématiques",
+        "df": 3,
+        "score": 60
+      },
+      {
+        "id": "idée",
+        "surface": "idée",
+        "df": 3,
+        "score": 60
+      },
+      {
+        "id": "l'interpretation",
+        "surface": "l'interpretation",
+        "df": 3,
+        "score": 60
+      },
+      {
+        "id": "la_maladie",
+        "surface": "la maladie",
+        "df": 3,
+        "score": 60
+      },
+      {
+        "id": "la_temporalité",
+        "surface": "la temporalité",
+        "df": 3,
+        "score": 60
+      },
+      {
+        "id": "de_transfert",
+        "surface": "de transfert",
+        "df": 1,
+        "score": 60
+      },
+      {
+        "id": "des_lapsus",
+        "surface": "des lapsus",
+        "df": 1,
+        "score": 60
+      },
+      {
+        "id": "conscient*",
+        "surface": "Conscient*",
+        "df": 1,
+        "score": 60
+      },
+      {
+        "id": "des_niveaux_relatifs",
+        "surface": "des niveaux relatifs",
+        "df": 1,
+        "score": 60
+      },
+      {
+        "id": "des_phénomènes",
+        "surface": "des phénomènes",
+        "df": 1,
+        "score": 60
+      },
+      {
+        "id": "des_relations",
+        "surface": "des relations",
+        "df": 1,
+        "score": 60
+      },
+      {
+        "id": "des_structures_vécues",
+        "surface": "des structures vécues",
+        "df": 1,
+        "score": 60
+      },
+      {
+        "id": "des_structures_vivantes",
+        "surface": "des structures vivantes",
+        "df": 1,
+        "score": 60
+      },
+      {
+        "id": "des_voix_pré-personnelles",
+        "surface": "des voix pré-personnelles",
+        "df": 1,
+        "score": 60
+      },
+      {
+        "id": "l'association_libre",
+        "surface": "l'association libre",
+        "df": 1,
+        "score": 60
+      },
+      {
+        "id": "la_psychopathologie",
+        "surface": "la psychopathologie",
+        "df": 1,
+        "score": 60
+      },
+      {
+        "id": "l'inconscient_moléculaire",
+        "surface": "l'Inconscient moléculaire",
+        "df": 1,
+        "score": 60
+      },
+      {
+        "id": "l'inconscient_tertiaire",
+        "surface": "l'Inconscient tertiaire",
+        "df": 1,
+        "score": 60
+      },
+      {
+        "id": "l'investigation_analytique",
+        "surface": "l'investigation analytique",
+        "df": 1,
+        "score": 60
+      },
+      {
+        "id": "l'interprétation",
+        "surface": "l'interprétation",
+        "df": 1,
+        "score": 60
+      },
+      {
+        "id": "la_cartographie_freudienne",
+        "surface": "la cartographie freudienne",
+        "df": 1,
+        "score": 60
+      },
+      {
+        "id": "la_condensation",
+        "surface": "la condensation",
+        "df": 1,
+        "score": 60
+      },
+      {
+        "id": "la_dénégation_freudienne",
+        "surface": "la dénégation freudienne",
+        "df": 1,
+        "score": 60
+      },
+      {
+        "id": "la_fantasme",
+        "surface": "la fantasme",
+        "df": 1,
+        "score": 60
+      },
+      {
+        "id": "les_psychanalystes",
+        "surface": "les psychanalystes",
+        "df": 1,
+        "score": 60
+      },
+      {
+        "id": "latent",
+        "surface": "latent",
+        "df": 1,
+        "score": 60
+      },
+      {
+        "id": "latents",
+        "surface": "latents",
+        "df": 1,
+        "score": 60
+      },
+      {
+        "id": "la_sexualité",
+        "surface": "la sexualité",
+        "df": 1,
+        "score": 60
+      },
+      {
+        "id": "la_sexualité_infantile",
+        "surface": "la sexualité infantile",
+        "df": 1,
+        "score": 60
+      },
+      {
+        "id": "les_lapsus",
+        "surface": "les lapsus",
+        "df": 1,
+        "score": 60
+      },
+      {
+        "id": "le_mouvement_psychanalytique",
+        "surface": "le mouvement psychanalytique",
+        "df": 1,
+        "score": 60
+      },
+      {
+        "id": "mouvement_psychanalytique",
+        "surface": "mouvement psychanalytique",
+        "df": 1,
+        "score": 60
+      },
+      {
+        "id": "psychologie",
+        "surface": "psychologie",
+        "df": 1,
+        "score": 60
+      },
+      {
+        "id": "psychopathologie",
+        "surface": "psychopathologie",
+        "df": 1,
+        "score": 60
+      },
+      {
+        "id": "surdértermination",
+        "surface": "surdértermination",
+        "df": 1,
+        "score": 60
+      },
+      {
+        "id": "surdétermination",
+        "surface": "surdétermination",
+        "df": 1,
+        "score": 60
+      },
+      {
+        "id": "surdetermination",
+        "surface": "surdetermination",
+        "df": 1,
+        "score": 60
+      },
+      {
+        "id": "surdeterminée",
+        "surface": "surdeterminée",
+        "df": 1,
+        "score": 60
+      },
+      {
+        "id": "sa_représentation",
+        "surface": "sa représentation",
+        "df": 1,
+        "score": 60
+      },
+      {
+        "id": "sa_representation",
+        "surface": "sa representation",
+        "df": 1,
+        "score": 60
+      },
+      {
+        "id": "sa_subjectivité",
+        "surface": "sa subjectivité",
+        "df": 1,
+        "score": 60
+      },
+      {
+        "id": "ses_premiers_patients",
+        "surface": "ses premiers patients",
+        "df": 1,
+        "score": 60
+      },
+      {
+        "id": "théories_classiques",
+        "surface": "théories classiques",
+        "df": 1,
+        "score": 60
+      },
+      {
+        "id": "topique_produit",
+        "surface": "topique produit",
+        "df": 1,
+        "score": 60
+      },
+      {
+        "id": "topiques",
+        "surface": "topiques",
+        "df": 1,
+        "score": 60
+      },
+      {
+        "id": "toute_métapsychologie",
+        "surface": "toute métapsychologie",
+        "df": 1,
+        "score": 60
+      },
+      {
+        "id": "un_amnésique",
+        "surface": "un amnésique",
+        "df": 1,
+        "score": 60
+      },
+      {
+        "id": "un_psychanalyste",
+        "surface": "un psychanalyste",
+        "df": 1,
+        "score": 60
+      },
+      {
+        "id": "un_fantasme",
+        "surface": "un fantasme",
+        "df": 1,
+        "score": 60
+      },
+      {
+        "id": "une_perspective_analytique",
+        "surface": "une perspective analytique",
+        "df": 1,
+        "score": 60
+      },
+      {
+        "id": "une_représentation",
+        "surface": "une représentation",
+        "df": 1,
+        "score": 60
+      },
+      {
+        "id": "une_representation",
+        "surface": "une representation",
+        "df": 1,
+        "score": 60
+      },
+      {
+        "id": "une_topique_structureale",
+        "surface": "une topique structureale",
+        "df": 1,
+        "score": 60
+      },
+      {
+        "id": "une_instance_topique",
+        "surface": "une instance topique",
+        "df": 1,
+        "score": 60
+      },
+      {
+        "id": "un_représentation_«",
+        "surface": "un représentation «",
+        "df": 1,
+        "score": 60
+      },
+      {
+        "id": "un_vécu_individuel",
+        "surface": "un vécu individuel",
+        "df": 1,
+        "score": 60
+      },
+      {
+        "id": "sublimation",
+        "surface": "sublimation",
+        "df": 2,
+        "score": 55
+      },
+      {
+        "id": "ambivalence",
+        "surface": "ambivalence",
+        "df": 1,
+        "score": 55
+      },
+      {
+        "id": "analytique",
+        "surface": "analytique",
+        "df": 1,
+        "score": 55
+      },
+      {
+        "id": "analytiques",
+        "surface": "analytiques",
+        "df": 1,
+        "score": 55
+      },
+      {
+        "id": "angoisse",
+        "surface": "angoisse",
+        "df": 1,
+        "score": 55
+      },
+      {
+        "id": "associatif",
+        "surface": "ASSOCIATIF",
+        "df": 1,
+        "score": 55
+      },
+      {
+        "id": "auto-analyse",
+        "surface": "auto-analyse",
+        "df": 1,
+        "score": 55
+      },
+      {
+        "id": "27_conscience",
+        "surface": "27 Conscience",
+        "df": 1,
+        "score": 55
+      },
+      {
+        "id": "67_le_surmoi",
+        "surface": "67 Le surmoi",
+        "df": 1,
+        "score": 55
+      },
+      {
+        "id": "compulsion",
+        "surface": "compulsion",
+        "df": 2,
+        "score": 55
+      },
+      {
+        "id": "cette_même_perspective",
+        "surface": "cette même perspective",
+        "df": 1,
+        "score": 55
+      },
+      {
+        "id": "cette_perspective",
+        "surface": "cette perspective",
+        "df": 1,
+        "score": 55
+      },
+      {
+        "id": "cette_représentation",
+        "surface": "cette représentation",
+        "df": 1,
+        "score": 55
+      },
+      {
+        "id": "la_traumdeutung",
+        "surface": "la Traumdeutung",
+        "df": 3,
+        "score": 55
+      },
+      {
+        "id": "le_rève",
+        "surface": "le rève",
+        "df": 3,
+        "score": 55
+      },
+      {
+        "id": "manifestes",
+        "surface": "manifestes",
+        "df": 3,
+        "score": 55
+      },
+      {
+        "id": "scientifique",
+        "surface": "scientifique",
+        "df": 3,
+        "score": 55
+      },
+      {
+        "id": "la_personne",
+        "surface": "la personne",
+        "df": 3,
+        "score": 55
+      },
+      {
+        "id": "substitution",
+        "surface": "substitution",
+        "df": 3,
+        "score": 55
+      },
+      {
+        "id": "temporel",
+        "surface": "temporel",
+        "df": 3,
+        "score": 55
+      },
+      {
+        "id": "associative",
+        "surface": "associative",
+        "df": 2,
+        "score": 55
+      },
+      {
+        "id": "associativement",
+        "surface": "associativement",
+        "df": 2,
+        "score": 55
+      },
+      {
+        "id": "associer",
+        "surface": "associer",
+        "df": 2,
+        "score": 55
+      },
+      {
+        "id": "de_sublimation",
+        "surface": "de sublimation",
+        "df": 1,
+        "score": 55
+      },
+      {
+        "id": "conscienatisation",
+        "surface": "conscienatisation",
+        "df": 1,
+        "score": 55
+      },
+      {
+        "id": "conscience_claire",
+        "surface": "conscience claire",
+        "df": 1,
+        "score": 55
+      },
+      {
+        "id": "consciences",
+        "surface": "consciences",
+        "df": 1,
+        "score": 55
+      },
+      {
+        "id": "d'inconscience",
+        "surface": "d'inconscience",
+        "df": 1,
+        "score": 55
+      },
+      {
+        "id": "des_signes",
+        "surface": "des signes",
+        "df": 1,
+        "score": 55
+      },
+      {
+        "id": "des_transferts",
+        "surface": "des transferts",
+        "df": 1,
+        "score": 55
+      },
+      {
+        "id": "l'auto-analyse",
+        "surface": "l'auto-analyse",
+        "df": 1,
+        "score": 55
+      },
+      {
+        "id": "la_psychanalyse_lacanienne",
+        "surface": "La psychanalyse lacanienne",
+        "df": 1,
+        "score": 55
+      },
+      {
+        "id": "l'inconscient_schizanalytique",
+        "surface": "l'Inconscient schizanalytique",
+        "df": 1,
+        "score": 55
+      },
+      {
+        "id": "l'inconscient_schizoanalytique",
+        "surface": "L'INCONSCIENT SCHIZOANALYTIQUE",
+        "df": 1,
+        "score": 55
+      },
+      {
+        "id": "l'object_pulsionnel",
+        "surface": "l'object pulsionnel",
+        "df": 1,
+        "score": 55
+      },
+      {
+        "id": "l'identification",
+        "surface": "L'identification",
+        "df": 1,
+        "score": 55
+      },
+      {
+        "id": "l'identification_primaire",
+        "surface": "l'identification primaire",
+        "df": 1,
+        "score": 55
+      },
+      {
+        "id": "l'insistance_symptomatique",
+        "surface": "L'insistance symptomatique",
+        "df": 1,
+        "score": 55
+      },
+      {
+        "id": "l'oublie",
+        "surface": "l'oublie",
+        "df": 1,
+        "score": 55
+      },
+      {
+        "id": "l'oubi",
+        "surface": "l'oubi",
+        "df": 1,
+        "score": 55
+      },
+      {
+        "id": "latence",
+        "surface": "latence",
+        "df": 1,
+        "score": 55
+      },
+      {
+        "id": "la_sublimation",
+        "surface": "La sublimation",
+        "df": 1,
+        "score": 55
+      },
+      {
+        "id": "le_surmoi",
+        "surface": "LE SURMOI",
+        "df": 1,
+        "score": 55
+      },
+      {
+        "id": "narcissisme",
+        "surface": "narcissisme",
+        "df": 1,
+        "score": 55
+      },
+      {
+        "id": "nevrose_obsessionnelle",
+        "surface": "nevrose obsessionnelle",
+        "df": 1,
+        "score": 55
+      },
+      {
+        "id": "psy",
+        "surface": "psy",
+        "df": 1,
+        "score": 55
+      },
+      {
+        "id": "psychanalystes_impliquent",
+        "surface": "psychanalystes impliquent",
+        "df": 1,
+        "score": 55
+      },
+      {
+        "id": "psychanalystes_traditionnels",
+        "surface": "psychanalystes traditionnels",
+        "df": 1,
+        "score": 55
+      },
+      {
+        "id": "suggestion_directe",
+        "surface": "suggestion directe",
+        "df": 1,
+        "score": 55
+      },
+      {
+        "id": "sa_plus_grande_conscience",
+        "surface": "sa plus grande conscience",
+        "df": 1,
+        "score": 55
+      },
+      {
+        "id": "sa_sexualité",
+        "surface": "sa sexualité",
+        "df": 1,
+        "score": 55
+      },
+      {
+        "id": "sans_censeur",
+        "surface": "sans censeur",
+        "df": 1,
+        "score": 55
+      },
+      {
+        "id": "savoir",
+        "surface": "savoir",
+        "df": 1,
+        "score": 55
+      },
+      {
+        "id": "type_psychanalytique",
+        "surface": "type psychanalytique",
+        "df": 1,
+        "score": 55
+      },
+      {
+        "id": "un_contrôle_conscientiel",
+        "surface": "un contrôle conscientiel",
+        "df": 1,
+        "score": 55
+      },
+      {
+        "id": "une_psychologie_scientifique",
+        "surface": "une psychologie scientifique",
+        "df": 1,
+        "score": 55
+      },
+      {
+        "id": "une_conscience_absolue",
+        "surface": "une conscience absolue",
+        "df": 1,
+        "score": 55
+      },
+      {
+        "id": "une_conscience_totalisante",
+        "surface": "une conscience totalisante",
+        "df": 1,
+        "score": 55
+      },
+      {
+        "id": "vorstellungserpensantz",
+        "surface": "Vorstellungserpensantz",
+        "df": 1,
+        "score": 55
+      },
+      {
+        "id": "analyse_polyphonique",
+        "surface": "Analyse polyphonique",
+        "df": 1,
+        "score": 50
+      },
+      {
+        "id": "appréhension_transférentielle",
+        "surface": "appréhension transférentielle",
+        "df": 1,
+        "score": 50
+      },
+      {
+        "id": "cette_philosophie",
+        "surface": "cette philosophie",
+        "df": 1,
+        "score": 50
+      },
+      {
+        "id": "surmoir",
+        "surface": "Surmoir",
+        "df": 3,
+        "score": 50
+      },
+      {
+        "id": "thanatos",
+        "surface": "Thanatos",
+        "df": 3,
+        "score": 50
+      },
+      {
+        "id": "les_sciences_humaines",
+        "surface": "les sciences humaines",
+        "df": 3,
+        "score": 50
+      },
+      {
+        "id": "histoire",
+        "surface": "histoire",
+        "df": 3,
+        "score": 50
+      },
+      {
+        "id": "la_réverie",
+        "surface": "la réverie",
+        "df": 3,
+        "score": 50
+      },
+      {
+        "id": "registres",
+        "surface": "registres",
+        "df": 3,
+        "score": 50
+      },
+      {
+        "id": "alienation",
+        "surface": "alienation",
+        "df": 2,
+        "score": 50
+      },
+      {
+        "id": "conscientialisation",
+        "surface": "conscientialisation",
+        "df": 1,
+        "score": 50
+      },
+      {
+        "id": "conscientivement",
+        "surface": "conscientivement",
+        "df": 1,
+        "score": 50
+      },
+      {
+        "id": "insight",
+        "surface": "insight",
+        "df": 1,
+        "score": 50
+      },
+      {
+        "id": "l'introjection_mélancolique",
+        "surface": "l'introjection mélancolique",
+        "df": 1,
+        "score": 50
+      },
+      {
+        "id": "l'identification_segmentaire",
+        "surface": "l'identification segmentaire",
+        "df": 1,
+        "score": 50
+      },
+      {
+        "id": "l'émoi",
+        "surface": "L'émoi",
+        "df": 1,
+        "score": 50
+      },
+      {
+        "id": "l'illusion",
+        "surface": "l'illusion",
+        "df": 1,
+        "score": 50
+      },
+      {
+        "id": "l'imagination",
+        "surface": "l'imagination",
+        "df": 1,
+        "score": 50
+      },
+      {
+        "id": "l'imaginaire",
+        "surface": "l'imaginaire",
+        "df": 1,
+        "score": 50
+      },
+      {
+        "id": "les_stades_psychogénétiques",
+        "surface": "les stades psychogénétiques",
+        "df": 1,
+        "score": 50
+      },
+      {
+        "id": "les_syndromes_psychopathologiques",
+        "surface": "Les syndromes psychopathologiques",
+        "df": 1,
+        "score": 50
+      },
+      {
+        "id": "les_tableaux_psychopathologiques",
+        "surface": "les tableaux psychopathologiques",
+        "df": 1,
+        "score": 50
+      },
+      {
+        "id": "mytes_psychanalytiques",
+        "surface": "mytes psychanalytiques",
+        "df": 1,
+        "score": 50
+      },
+      {
+        "id": "obédience_lacanienne",
+        "surface": "obédience lacanienne",
+        "df": 1,
+        "score": 50
+      },
+      {
+        "id": "obsessionnelle",
+        "surface": "obsessionnelle",
+        "df": 1,
+        "score": 50
+      },
+      {
+        "id": "reich",
+        "surface": "Reich",
+        "df": 1,
+        "score": 50
+      },
+      {
+        "id": "rêve_n",
+        "surface": "rêve n",
+        "df": 1,
+        "score": 50
+      },
+      {
+        "id": "réverie_diurne",
+        "surface": "réverie diurne",
+        "df": 1,
+        "score": 50
+      },
+      {
+        "id": "sommeil",
+        "surface": "sommeil",
+        "df": 1,
+        "score": 50
+      },
+      {
+        "id": "songe",
+        "surface": "songe",
+        "df": 1,
+        "score": 50
+      },
+      {
+        "id": "stades_psychogénétiques",
+        "surface": "stades psychogénétiques",
+        "df": 1,
+        "score": 50
+      },
+      {
+        "id": "stades_psychogénetiques",
+        "surface": "stades psychogénetiques",
+        "df": 1,
+        "score": 50
+      },
+      {
+        "id": "sublimations",
+        "surface": "sublimations",
+        "df": 1,
+        "score": 50
+      },
+      {
+        "id": "sa_vie",
+        "surface": "sa vie",
+        "df": 1,
+        "score": 50
+      },
+      {
+        "id": "sémiotique_freudienne",
+        "surface": "SÉMIOTIQUE FREUDIENNE",
+        "df": 1,
+        "score": 50
+      },
+      {
+        "id": "syndromes_psychopathologiques",
+        "surface": "syndromes psychopathologiques",
+        "df": 1,
+        "score": 50
+      },
+      {
+        "id": "un_délire",
+        "surface": "un délire",
+        "df": 1,
+        "score": 50
+      },
+      {
+        "id": "un_divan_psychanalytique",
+        "surface": "un divan psychanalytique",
+        "df": 1,
+        "score": 50
+      },
+      {
+        "id": "vigilance",
+        "surface": "vigilance",
+        "df": 1,
+        "score": 50
+      },
+      {
+        "id": "wilhelm_reich",
+        "surface": "Wilhelm Reich",
+        "df": 1,
+        "score": 50
+      },
+      {
+        "id": "winnicott",
+        "surface": "Winnicott",
+        "df": 1,
+        "score": 50
+      },
+      {
+        "id": "social",
+        "surface": "social",
+        "df": 3,
+        "score": 45
+      },
+      {
+        "id": "le_travail",
+        "surface": "Le travail",
+        "df": 3,
+        "score": 45
+      },
+      {
+        "id": "reel",
+        "surface": "reel",
+        "df": 3,
+        "score": 45
+      },
+      {
+        "id": "référent",
+        "surface": "Référent",
+        "df": 3,
+        "score": 45
+      },
+      {
+        "id": "régime",
+        "surface": "régime",
+        "df": 3,
+        "score": 45
+      },
+      {
+        "id": "transcendance",
+        "surface": "transcendance",
+        "df": 3,
+        "score": 45
+      },
+      {
+        "id": "retenons_les_deux_psychanalytique_qui_importe_ici_la_mise_en_scène_d'une_déhirure_ethico-politique_qui_n'a_cesse_dans_le_même_recueil",
+        "surface": "Retenons les deux psychanalytique qui importe ici la mise en scène d'une déhirure ethico-politique qui n'a cesse dans le même recueil",
+        "df": 1,
+        "score": 45
+      },
+      {
+        "id": "roman_familial",
+        "surface": "roman familial",
+        "df": 1,
+        "score": 45
+      },
+      {
+        "id": "rorschach",
+        "surface": "Rorschach",
+        "df": 1,
+        "score": 45
+      },
+      {
+        "id": "un_psychodrama",
+        "surface": "un psychodrama",
+        "df": 1,
+        "score": 45
+      },
+      {
+        "id": "un_père",
+        "surface": "un Père",
+        "df": 1,
+        "score": 45
+      }
+    ],
+    "highScoredNouns": [
+      {
+        "id": "l'inconscient_primaire",
+        "surface": "l'Inconscient primaire",
+        "score": 95,
+        "df": 2,
+        "chainCount": 4,
+        "chainSample": [
+          {
+            "page": 40,
+            "neighbors": [
+              "structures",
+              "systèmes",
+              "Les tenseurs",
+              "potentialisation sémiotique"
+            ],
+            "chainStart": 3,
+            "chainEnd": 51
+          },
+          {
+            "page": 40,
+            "neighbors": [
+              "structures",
+              "systèmes",
+              "Les tenseurs",
+              "potentialisation sémiotique"
+            ],
+            "chainStart": 0,
+            "chainEnd": 43
+          }
+        ]
+      },
+      {
+        "id": "l'inconscient_secondaire",
+        "surface": "l'Inconscient secondaire",
+        "score": 95,
+        "df": 2,
+        "chainCount": 5,
+        "chainSample": [
+          {
+            "page": 170,
+            "neighbors": [
+              "Cartographies schizoanalytiques",
+              "les tenseurs sémiotiques",
+              "persistance",
+              "transistance"
+            ],
+            "chainStart": 3,
+            "chainEnd": 34
+          },
+          {
+            "page": 170,
+            "neighbors": [
+              "Cartographies schizoanalytiques",
+              "les tenseurs sémiotiques",
+              "persistance",
+              "transistance"
+            ],
+            "chainStart": 0,
+            "chainEnd": 87
+          }
+        ]
+      },
+      {
+        "id": "inconscient",
+        "surface": "Inconscient",
+        "score": 95,
+        "df": 5,
+        "chainCount": 9,
+        "chainSample": [
+          {
+            "page": 20,
+            "neighbors": [
+              "option",
+              "libido",
+              "Mme Freud",
+              "personne"
+            ],
+            "chainStart": 23,
+            "chainEnd": 48
+          },
+          {
+            "page": 20,
+            "neighbors": [
+              "option",
+              "libido",
+              "Mme Freud",
+              "personne"
+            ],
+            "chainStart": 3,
+            "chainEnd": 24
+          }
+        ]
+      },
+      {
+        "id": "l'inconscient",
+        "surface": "l'Inconscient",
+        "score": 95,
+        "df": 10,
+        "chainCount": 14,
+        "chainSample": [
+          {
+            "page": 15,
+            "neighbors": [
+              "secondaire",
+              "un accès digitalisé",
+              "un gouffre entropique de désordre",
+              "tessiture"
+            ],
+            "chainStart": 69,
+            "chainEnd": 267
+          },
+          {
+            "page": 15,
+            "neighbors": [
+              "secondaire",
+              "un accès digitalisé",
+              "un gouffre entropique de désordre",
+              "tessiture"
+            ],
+            "chainStart": 0,
+            "chainEnd": 9
+          }
+        ]
+      },
+      {
+        "id": "pierre_janet",
+        "surface": "Pierre Janet",
+        "score": 95,
+        "df": 1,
+        "chainCount": 1,
+        "chainSample": [
+          {
+            "page": 130,
+            "neighbors": [
+              "ritournelles",
+              "peuplant les automatisms psychologiques",
+              "Karl Jaspers",
+              "Freud"
+            ],
+            "chainStart": 24,
+            "chainEnd": 198
+          }
+        ]
+      },
+      {
+        "id": "un_inconscient",
+        "surface": "un Inconscient",
+        "score": 90,
+        "df": 2,
+        "chainCount": 3,
+        "chainSample": [
+          {
+            "page": 34,
+            "neighbors": [
+              "sémisitent",
+              "conception",
+              "une économie",
+              "quantités pulsionnelles"
+            ],
+            "chainStart": 1474,
+            "chainEnd": 1484
+          },
+          {
+            "page": 34,
+            "neighbors": [
+              "sémisitent",
+              "conception",
+              "une économie",
+              "quantités pulsionnelles"
+            ],
+            "chainStart": 0,
+            "chainEnd": 78
+          }
+        ]
+      },
+      {
+        "id": "freud",
+        "surface": "Freud",
+        "score": 90,
+        "df": 28,
+        "chainCount": 32,
+        "chainSample": [
+          {
+            "page": 30,
+            "neighbors": [
+              "les Flux",
+              "Travail",
+              "la vie psychique"
+            ],
+            "chainStart": 46,
+            "chainEnd": 106
+          },
+          {
+            "page": 20,
+            "neighbors": [
+              "ila",
+              "alterite",
+              "exigence",
+              "vérité"
+            ],
+            "chainStart": 6,
+            "chainEnd": 89
+          }
+        ]
+      },
+      {
+        "id": "le_processus_primaire",
+        "surface": "Le processus primaire",
+        "score": 85,
+        "df": 2,
+        "chainCount": 4,
+        "chainSample": [
+          {
+            "page": 26,
+            "neighbors": [
+              "devrait",
+              "linguisse",
+              "identification",
+              "transfert"
+            ],
+            "chainStart": 750,
+            "chainEnd": 757
+          },
+          {
+            "page": 26,
+            "neighbors": [
+              "devrait",
+              "linguisse",
+              "identification",
+              "transfert"
+            ],
+            "chainStart": 0,
+            "chainEnd": 64
+          }
+        ]
+      },
+      {
+        "id": "refoulement",
+        "surface": "refoulement",
+        "score": 85,
+        "df": 2,
+        "chainCount": 2,
+        "chainSample": [
+          {
+            "page": 6,
+            "neighbors": [
+              "à cause",
+              "pressions",
+              "aussi d'acculturations",
+              "un côté"
+            ],
+            "chainStart": 13,
+            "chainEnd": 140
+          },
+          {
+            "page": 32,
+            "neighbors": [
+              "l'incognisant",
+              "dynamique",
+              "representations",
+              "un curieux type"
+            ],
+            "chainStart": 73,
+            "chainEnd": 170
+          }
+        ]
+      },
+      {
+        "id": "inconciens",
+        "surface": "Inconciens",
+        "score": 85,
+        "df": 2,
+        "chainCount": 2,
+        "chainSample": [
+          {
+            "page": 14,
+            "neighbors": [
+              "cartographier",
+              "compositions",
+              "des contiques contingentes",
+              "les formations sociales"
+            ],
+            "chainStart": 39,
+            "chainEnd": 147
+          },
+          {
+            "page": 14,
+            "neighbors": [
+              "quelques cas",
+              "figure",
+              "formules",
+              "organisation moique"
+            ],
+            "chainStart": 235,
+            "chainEnd": 328
+          }
+        ]
+      },
+      {
+        "id": "inconscients",
+        "surface": "inconscients",
+        "score": 85,
+        "df": 2,
+        "chainCount": 2,
+        "chainSample": [
+          {
+            "page": 18,
+            "neighbors": [
+              "problème",
+              "Le problème",
+              "singularisation sémiotique",
+              "maître"
+            ],
+            "chainStart": 870,
+            "chainEnd": 1005
+          },
+          {
+            "page": 171,
+            "neighbors": [
+              "présupposition",
+              "les trois niveaux",
+              "carte",
+              "entités"
+            ],
+            "chainStart": 429,
+            "chainEnd": 508
+          }
+        ]
+      },
+      {
+        "id": "deux_solutions_diametralement_différentes_du_problème_metaphysique",
+        "surface": "deux solutions diametralement différentes du problème metaphysique",
+        "score": 85,
+        "df": 1,
+        "chainCount": 2,
+        "chainSample": [
+          {
+            "page": 149,
+            "neighbors": [
+              "bétail",
+              "la justice",
+              "ininterrompou",
+              "une conversation"
+            ],
+            "chainStart": 1104,
+            "chainEnd": 1206
+          },
+          {
+            "page": 149,
+            "neighbors": [
+              "bétail",
+              "la justice",
+              "ininterrompou",
+              "une conversation"
+            ],
+            "chainStart": 10,
+            "chainEnd": 56
+          }
+        ]
+      },
+      {
+        "id": "différences",
+        "surface": "différences",
+        "score": 85,
+        "df": 1,
+        "chainCount": 1,
+        "chainSample": [
+          {
+            "page": 62,
+            "neighbors": [
+              "Le jeu molaire",
+              "grosses",
+              "présent subjugue",
+              "sons propire"
+            ],
+            "chainStart": 680,
+            "chainEnd": 778
+          }
+        ]
+      },
+      {
+        "id": "le_concept_d*inconscient*.",
+        "surface": "le concept d*Inconscient*.",
+        "score": 85,
+        "df": 1,
+        "chainCount": 1,
+        "chainSample": [
+          {
+            "page": 11,
+            "neighbors": [
+              "énonciation*",
+              "bout",
+              "les faits",
+              "subjectivité"
+            ],
+            "chainStart": 59,
+            "chainEnd": 206
+          }
+        ]
+      },
+      {
+        "id": "les_trois_niveaux_inconscients",
+        "surface": "les trois niveaux inconscients",
+        "score": 85,
+        "df": 1,
+        "chainCount": 2,
+        "chainSample": [
+          {
+            "page": 38,
+            "neighbors": [
+              "relations",
+              "présupposition",
+              "la discursiveit",
+              "un argument ontologique"
+            ],
+            "chainStart": 10,
+            "chainEnd": 74
+          },
+          {
+            "page": 38,
+            "neighbors": [
+              "relations",
+              "présupposition",
+              "la discursiveit",
+              "un argument ontologique"
+            ],
+            "chainStart": 8,
+            "chainEnd": 49
+          }
+        ]
+      },
+      {
+        "id": "une_différence_notable",
+        "surface": "une différence notable",
+        "score": 85,
+        "df": 1,
+        "chainCount": 1,
+        "chainSample": [
+          {
+            "page": 142,
+            "neighbors": [
+              "os",
+              "leur squelette",
+              "les hommes",
+              "les crustacés"
+            ],
+            "chainStart": 353,
+            "chainEnd": 449
+          }
+        ]
+      },
+      {
+        "id": "une_distinction",
+        "surface": "une distinction",
+        "score": 85,
+        "df": 1,
+        "chainCount": 1,
+        "chainSample": [
+          {
+            "page": 26,
+            "neighbors": [
+              "symbiose",
+              "cet égard",
+              "ladite matière signalétique",
+              "les machines"
+            ],
+            "chainStart": 531,
+            "chainEnd": 654
+          }
+        ]
+      },
+      {
+        "id": "la_pulsion_freudienne",
+        "surface": "la pulSION freudienne",
+        "score": 80,
+        "df": 2,
+        "chainCount": 2,
+        "chainSample": [
+          {
+            "page": 86,
+            "neighbors": [
+              "représentation",
+              "Vorstellungserpensantz",
+              "un Corps-existent-sans-organne,",
+              "parties distinctes"
+            ],
+            "chainStart": 509,
+            "chainEnd": 679
+          },
+          {
+            "page": 99,
+            "neighbors": [
+              "partiel",
+              "objets",
+              "une castration symbique",
+              "l'Auffit"
+            ],
+            "chainStart": 630,
+            "chainEnd": 743
+          }
+        ]
+      },
+      {
+        "id": "oppositions_distinctes",
+        "surface": "oppositions distinctes",
+        "score": 80,
+        "df": 2,
+        "chainCount": 2,
+        "chainSample": [
+          {
+            "page": 151,
+            "neighbors": [
+              "Signalons",
+              "cette empire immédiate",
+              "couleurs",
+              "la trame narrative"
+            ],
+            "chainStart": 144,
+            "chainEnd": 240
+          },
+          {
+            "page": 123,
+            "neighbors": [
+              "fondée",
+              "des systèmes",
+              "déclinant",
+              "des séquences"
+            ],
+            "chainStart": 807,
+            "chainEnd": 882
+          }
+        ]
+      },
+      {
+        "id": "psychanalyse",
+        "surface": "psychanalyse",
+        "score": 80,
+        "df": 4,
+        "chainCount": 5,
+        "chainSample": [
+          {
+            "page": 130,
+            "neighbors": [
+              "nouvelles facades",
+              "les choses",
+              "au cours",
+              "son développement historique"
+            ],
+            "chainStart": 931,
+            "chainEnd": 1048
+          },
+          {
+            "page": 127,
+            "neighbors": [
+              "Père",
+              "les sciences humaines",
+              "l'expérence",
+              "termes"
+            ],
+            "chainStart": 178,
+            "chainEnd": 182
+          }
+        ]
+      },
+      {
+        "id": "la_psychanalyse",
+        "surface": "la psychanalyse",
+        "score": 80,
+        "df": 18,
+        "chainCount": 25,
+        "chainSample": [
+          {
+            "page": 29,
+            "neighbors": [
+              "purificatrices",
+              "et les modèles structuraux",
+              "Le trait commun",
+              "n'est"
+            ],
+            "chainStart": 283,
+            "chainEnd": 383
+          },
+          {
+            "page": 12,
+            "neighbors": [
+              "exemple",
+              "Freud «",
+              "plus diffus",
+              "mutations"
+            ],
+            "chainStart": 23,
+            "chainEnd": 73
+          }
+        ]
+      },
+      {
+        "id": "*_processus_primaire",
+        "surface": "* processus primaire",
+        "score": 80,
+        "df": 1,
+        "chainCount": 1,
+        "chainSample": [
+          {
+            "page": 70,
+            "neighbors": [
+              "Freud",
+              "l'appellation",
+              "moments",
+              "fœsconds"
+            ],
+            "chainStart": 171,
+            "chainEnd": 256
+          }
+        ]
+      },
+      {
+        "id": "ce_domaine_inconscient",
+        "surface": "ce domaine inconscient",
+        "score": 80,
+        "df": 1,
+        "chainCount": 1,
+        "chainSample": [
+          {
+            "page": 13,
+            "neighbors": [
+              "centre",
+              "problèmes",
+              "La question",
+              "la conscience"
+            ],
+            "chainStart": 730,
+            "chainEnd": 838
+          }
+        ]
+      },
+      {
+        "id": "des_contenus_inconscients",
+        "surface": "des contenus inconscients",
+        "score": 80,
+        "df": 1,
+        "chainCount": 1,
+        "chainSample": [
+          {
+            "page": 120,
+            "neighbors": [
+              "tenir",
+              "séparés",
+              "enoncés",
+              "conscientivement"
+            ],
+            "chainStart": 566,
+            "chainEnd": 640
+          }
+        ]
+      },
+      {
+        "id": "des_dimensions_inconscientes",
+        "surface": "des dimensions inconscientes",
+        "score": 80,
+        "df": 1,
+        "chainCount": 2,
+        "chainSample": [
+          {
+            "page": 153,
+            "neighbors": [
+              "pourrait",
+              "appeler",
+              "prospectives",
+              "Ces jeux"
+            ],
+            "chainStart": 664,
+            "chainEnd": 724
+          },
+          {
+            "page": 153,
+            "neighbors": [
+              "pourrait",
+              "appeler",
+              "prospectives",
+              "Ces jeux"
+            ],
+            "chainStart": 0,
+            "chainEnd": 8
+          }
+        ]
+      },
+      {
+        "id": "deux_parties_distinctes",
+        "surface": "deux parties distinctes",
+        "score": 80,
+        "df": 1,
+        "chainCount": 3,
+        "chainSample": [
+          {
+            "page": 80,
+            "neighbors": [
+              "Cartographies schizoanalytiques",
+              "A partir du moment où il y a décollement fractal d'une fluctuation signalétique (ou de code)",
+              "compte",
+              "la contingent"
+            ],
+            "chainStart": 3,
+            "chainEnd": 34
+          },
+          {
+            "page": 80,
+            "neighbors": [
+              "Cartographies schizoanalytiques",
+              "A partir du moment où il y a décollement fractal d'une fluctuation signalétique (ou de code)",
+              "compte",
+              "la contingent"
+            ],
+            "chainStart": 0,
+            "chainEnd": 147
+          }
+        ]
+      },
+      {
+        "id": "différent",
+        "surface": "différent",
+        "score": 80,
+        "df": 1,
+        "chainCount": 1,
+        "chainSample": [
+          {
+            "page": 4,
+            "neighbors": [
+              "son côté",
+              "l'horizon",
+              "une processualité",
+              "point"
+            ],
+            "chainStart": 411,
+            "chainEnd": 499
+          }
+        ]
+      },
+      {
+        "id": "l'inconscien",
+        "surface": "l'Inconscien",
+        "score": 80,
+        "df": 1,
+        "chainCount": 2,
+        "chainSample": [
+          {
+            "page": 40,
+            "neighbors": [
+              "les structures",
+              "A ce niveau secondaire",
+              "le travail schizonaïlique",
+              "les composants"
+            ],
+            "chainStart": 65,
+            "chainEnd": 79
+          },
+          {
+            "page": 40,
+            "neighbors": [
+              "les structures",
+              "A ce niveau secondaire",
+              "le travail schizonaïlique",
+              "les composants"
+            ],
+            "chainStart": 0,
+            "chainEnd": 90
+          }
+        ]
+      },
+      {
+        "id": "le_*processus_primaire",
+        "surface": "le *processus primaire",
+        "score": 80,
+        "df": 1,
+        "chainCount": 1,
+        "chainSample": [
+          {
+            "page": 32,
+            "neighbors": [
+              "retour",
+              "distorsions",
+              "dépalcement",
+              "surdetermination"
+            ],
+            "chainStart": 190,
+            "chainEnd": 299
+          }
+        ]
+      },
+      {
+        "id": "le_véritable_inconscient_psychoanalyse",
+        "surface": "le véritable Inconscient psychoanalyse",
+        "score": 80,
+        "df": 1,
+        "chainCount": 1,
+        "chainSample": [
+          {
+            "page": 13,
+            "neighbors": [
+              "obédience lacanienne",
+              "l'Inconscient",
+              "des rets",
+              "langage"
+            ],
+            "chainStart": 50,
+            "chainEnd": 281
+          }
+        ]
+      },
+      {
+        "id": "processus_primaire",
+        "surface": "processus primaire",
+        "score": 80,
+        "df": 1,
+        "chainCount": 1,
+        "chainSample": [
+          {
+            "page": 14,
+            "neighbors": [
+              "une opposition",
+              "type",
+              "élaboration",
+              "Ça"
+            ],
+            "chainStart": 50,
+            "chainEnd": 197
+          }
+        ]
+      },
+      {
+        "id": "un_domaine_inconscient",
+        "surface": "un domaine inconscient",
+        "score": 80,
+        "df": 1,
+        "chainCount": 1,
+        "chainSample": [
+          {
+            "page": 13,
+            "neighbors": [
+              "l'existence",
+              "l'homme",
+              "un pied",
+              "égalité"
+            ],
+            "chainStart": 66,
+            "chainEnd": 149
+          }
+        ]
+      },
+      {
+        "id": "une_différence",
+        "surface": "une différence",
+        "score": 80,
+        "df": 1,
+        "chainCount": 1,
+        "chainSample": [
+          {
+            "page": 158,
+            "neighbors": [
+              "point",
+              "établi",
+              "le punctum",
+              "fondé"
+            ],
+            "chainStart": 476,
+            "chainEnd": 532
+          }
+        ]
+      },
+      {
+        "id": "une_différenciation",
+        "surface": "une différenciation",
+        "score": 80,
+        "df": 1,
+        "chainCount": 1,
+        "chainSample": [
+          {
+            "page": 110,
+            "neighbors": [
+              "travers l'héterogene intensive",
+              "le paradoxé",
+              "sein",
+              "systèmes"
+            ],
+            "chainStart": 103,
+            "chainEnd": 225
+          }
+        ]
+      }
+    ],
+    "mergedTopologyIntervals": [
+      {
+        "chunkKey": "h1.I3cYujBk6SsT_4uvWNsAhWL95v-ej_cvNCPRIC2Xp1sC32kRN0Ucpzzln9nf7NjbOmvCRL80GsmRq2CMSMMUDXcjW4a30hRGJFAmcnyZOQ7XbPGUZeVAQhtE0F-PUlQtrE2ZOU657K28k1XOICw",
+        "chainStart": 3,
+        "chainEnd": 51,
+        "page": 40
+      },
+      {
+        "chunkKey": "h1.ke9HzPNXwe2qAG9kPs8UFIelbwXvbCg-xrCP9VPfMfF6g--L2sW5ydgPXQ6q3ObF4ueuAGydsXxqFoUtde9uWKRfM2AXjYRPbWgd3g0I_r7tETyHS8FVzvGXi9oPBgK6iE34bYTNy3cdPpp2WkvL",
+        "chainStart": 0,
+        "chainEnd": 43,
+        "page": 40
+      },
+      {
+        "chunkKey": "h1.KcMTr9g9t93FFaHnl-KzAf1axCaaMHyc6u12UX4HwRPAEvRC8p7YY2HUZcQ8hSVsHwXy4tLiCU-HEaFVTyhcTHCesR9grRuNvdA-jofkaEUh3GMmTYGaJqZ2ukzlmiV68c60y6IKA0zTHtY2VuAR",
+        "chainStart": 842,
+        "chainEnd": 897,
+        "page": 169
+      },
+      {
+        "chunkKey": "h1.06-42uAicP3AtQZuFuBLpUUPeHMG-8icArQ3-o5TC58AYGOic9wqd9Pmfc_80f2_dGQMl3KdXaqwnf7uX6Nz7Q10fkT7hI31foyq9rnold-iVxb44lHHwRHP7nRwRqENCp-RVS-7wLxTenoDpljS",
+        "chainStart": 0,
+        "chainEnd": 47,
+        "page": 170
+      },
+      {
+        "chunkKey": "h1.azkyQolcpyzU463PzKy4DmnYLm2v7f900KyjHcKnK3LEincpszzxO530Cmy4tvjYhiw-6TRHkFQNXbk85_VRj-rbVDGEBwI5JAdLQmMajgLq3jOMmhtPUEWen4LrwhPN4LOPdMK6UFlbN01etnF-",
+        "chainStart": 3,
+        "chainEnd": 34,
+        "page": 170
+      },
+      {
+        "chunkKey": "h1.ebp2D8ItiNISVKQTF8kdAGLC4Ip6z31EBFX36fMjYTacu1PA7W-NqgLY2g_Hi7LxeVc0hjxn6_3w5yifqccm-qMx8lYhCr1lHvK-VK1gmI3ewu3Cicm7kri0kEMOdjb_e6AJHNVCtyKDF9FY59vS",
+        "chainStart": 0,
+        "chainEnd": 135,
+        "page": 170
+      },
+      {
+        "chunkKey": "h1.Er82ESiu1Xb2aEV5pWFFLmMBZMz8vv3HpBfTGY_0dXYrPRCWgKyBHfBKcyO_aJffhijRDyo93A9W1FAtGo5ILrfxUkRI7ag6J8M65qLgJLyPiTKDzyqjw6UCj3w_Vwu8AdYbfnY8MefuPDmEv3Q",
+        "chainStart": 347,
+        "chainEnd": 359,
+        "page": 40
+      },
+      {
+        "chunkKey": "h1.fm2I79DuZdwjjd6pjF_xYIUqMERW6gwtVHxbI93wUwOOmTA2aLCaIkKeRL4UR6L3yGgWsW938Jz8Na1ULNPsmCRIpOhJDEjKsns0SM3HYksK2Xh95nrTzVxSsQgY-jbyEKHu-qH9Tq0gGgTJR4M",
+        "chainStart": 7,
+        "chainEnd": 55,
+        "page": 40
+      },
+      {
+        "chunkKey": "h1.5KBn4birkxZxno9oq4M2S6AHxNI4xk0Hv92Ueg4nA8lul1UUWxnzOnIB17m2G7jascbiSST3eOP-vLov6UjAT7S4AsAUsiATvcziW_B8HtAfZMJS7xAZaELNeepqcIpYfaEq6ugfNoJveEqbzZQ",
+        "chainStart": 23,
+        "chainEnd": 48,
+        "page": 20
+      },
+      {
+        "chunkKey": "h1.jogHrQCMFo3Hnx24GNb5oKkcbFtLfXR9PyWWr566PBhSSYj_TSxtEvgYsDA3NkF-bI3owRLdEJ2ojAxMt7XAynlzgmDCNehfvxSNQJgFiWq5lfdXY4FvzJA6A3jdZ0dS15Xdbq3riyC9uBM6Yd0",
+        "chainStart": 3,
+        "chainEnd": 24,
+        "page": 20
+      },
+      {
+        "chunkKey": "h1.LAQ9wpx84cLYZcmzyxuiVhAGXymGsz0QRCxsc4tjHZ9nPoIMCaLJnfn-ZKE0OnIWvVl7XlgxStaBUcNIjDwz-M___6VYNvPlMDgaz07QBtUPceCAx7Ck6croV88pgIhGnVXHcdjDivkxo7t4ISU",
+        "chainStart": 38,
+        "chainEnd": 111,
+        "page": 20
+      },
+      {
+        "chunkKey": "h1.Uy4ji5duM6lCsKqIILfL_qgoGKMeC3Y8gFb9RTpiCDpXAzPRkExc6KZynOnRrQNp5W8fT6oDaE6jvZZBaB76NEgKO5gZZ16FPjclsU4q3Qz_YAK9XKhkoreCl_bV7x7SpiI7iHVK4wpYmrdrxeA",
+        "chainStart": 19,
+        "chainEnd": 38,
+        "page": 20
+      },
+      {
+        "chunkKey": "h1.Np3LpmFVV4J8Tgvys2d5wbYTVed6_kC-ZPGPMc7IGHCDxknce_ePPLCozJG4qsX-f5AP46ArEuABLrXI_Z4t0yuvVj0OnMdeEPcenl9dsir6q6C4sDCGoPntLtaHknaa4ZVIO-M1g1DDfVSE834",
+        "chainStart": 1390,
+        "chainEnd": 1402,
+        "page": 33
+      },
+      {
+        "chunkKey": "h1.pdyS4xCO7sIyBGVUglsjOTJ9MwoG1FY4RvUoiYTnBHGnwKIQoBdWxpyaeoChy7YrrePgs7NzcgyYXvoQiux4_TGyQ0j8-7PP0YnTLtgoTlIvsnV4enymZH8TY4R1moGV0czhQXpO9Lx4OZlpyZs",
+        "chainStart": 0,
+        "chainEnd": 68,
+        "page": 33
+      },
+      {
+        "chunkKey": "h1.UyMQ6IoimHTbZ6DZMJHRBoWBsend-GeXnspsh1ZvTmGLLyRe-MwMOoEcSw27dzv4vFSTLwKLsjNJpRuzIJGQhErZmsyqPEpph1u0vCqZM8a9seYOvguVxGAT7pcWr8rPmcKsbwApT5j-SgAjOrOi",
+        "chainStart": 200,
+        "chainEnd": 283,
+        "page": 171
+      },
+      {
+        "chunkKey": "h1.UyMQ6IoimHTbZ6DZMJHRBoWBsend-GeXnspsh1ZvTmGLLyRe-MwMOoEcSw27dzv4vFSTLwKLsjNJpRuzIJGQhErZmsyqPEpph1u0vCqZM8a9seYOvguVxGAT7pcWr8rPmcKsbwApT5j-SgAjOrOi",
+        "chainStart": 429,
+        "chainEnd": 508,
+        "page": 171
+      },
+      {
+        "chunkKey": "h1.wGf7rkJjiA_i5zfbjkFxhATyzbDo-TMvm7f5U0Psiid00jQd9GSLyw5sZNRPgNGAVzLvW3z9WAWgBQVM10Wi11PXfpamRDwJiEDxHqnEwkOic4iEfh7qfJRh0rbe7JNYbFNHz9AeNl8-hPHHCY4",
+        "chainStart": 28,
+        "chainEnd": 34,
+        "page": 37
+      },
+      {
+        "chunkKey": "h1.Z3-16c85zD2e57iGZwgLbKpX-pE6cuF6OKVs6rch1a9RuNYKbXYnow0bqEWBjfM35sGjXbg-35yo5JohjVgJdk1LuUgO2EZ3tAPh7-F5lut5rboyzBDrwP8gg4-Mlnkzk087BzGuQgg8wmYkyHU",
+        "chainStart": 0,
+        "chainEnd": 73,
+        "page": 37
+      },
+      {
+        "chunkKey": "h1.37_4-4-dnSRjFb4qgjdEfRlfbAsCRngJOy_oEN0N8ddvihWAGJF7aQqtt4cTu_CabM-_SHbmTNx6Mnm-JAYQITyeWhvqod6Q4L3F2vcW-PFXqJvOHXC0tUNLKfcS1omwqyycO8e8TPBwmwwSFm4",
+        "chainStart": 69,
+        "chainEnd": 267,
+        "page": 15
+      },
+      {
+        "chunkKey": "h1.IUARsWYejz1SQixweSZkq2bH9i16xtqi3mAjwnt8M0vgqB0U3W9adLFT1vt7F-x0pkIdlAgiSWG2g3dHIeTMA5vCwr_Wl5ihT0-iW9u4xFqA1q3DuR37dzqnjdt0uDAoRFbU4Q1MWViWoeSjNWo",
+        "chainStart": 0,
+        "chainEnd": 9,
+        "page": 15
+      },
+      {
+        "chunkKey": "h1.IUARsWYejz1SQixweSZkq2bH9i16xtqi3mAjwnt8M0vgqB0U3W9adLFT1vt7F-x0pkIdlAgiSWG2g3dHIeTMA5vCwr_Wl5ihT0-iW9u4xFqA1q3DuR37dzqnjdt0uDAoRFbU4Q1MWViWoeSjNWo",
+        "chainStart": 712,
+        "chainEnd": 765,
+        "page": 15
+      },
+      {
+        "chunkKey": "h1.wFuBVVF5WRZr_9J8FdzkD64rhifOeqQZbhEp8TDiy9gC3J2oTsk4spJ_8Nhr8_A_3TBd0aEOjZf-4LXbw6waWe68XW7h-yoDqv1C-l7fDcQI_Sn2VG7QfiHOY-KQxtvbSwFFnsanYXXQFFF6av8L",
+        "chainStart": 62,
+        "chainEnd": 77,
+        "page": 40
+      },
+      {
+        "chunkKey": "h1.5ALt5Pl-7mVHICV0A-d5Ks1EHq_UAnJhZlb1dNBn2c_klThctZvjINShAN_Onxf0o4QGXH5S5RglZxE6a4MllV511Itkj4BY99q9q3aX3HGjFTSeEwr3hT1v3BTV_o3tFcz8Tm3ViMYK2mZfg3X5",
+        "chainStart": 0,
+        "chainEnd": 90,
+        "page": 41
+      },
+      {
+        "chunkKey": "h1.aF5vZFFOclTJXQKYsOqak6amjYcpHAwCq-FK_adHQcnhPHc1-erzLI66zYvvLd-RjPOaEXrupbXN4D7E5UPLp2NuwUn3cdRb3HUlppL7-ZCKncS9nbfZFtRynK-dMiNZKWpP90mz3g605Ktl8BU",
+        "chainStart": 18,
+        "chainEnd": 131,
+        "page": 18
+      },
+      {
+        "chunkKey": "h1.AQop67CLdd3tWNVtygxnPCyKlitthiwGpLjQbtWaEYq-lp2HoRjPdCNNI8_cJvd7r8ZtfF35fbGaeNe2jKhpnYe3B7EdOMJ7R5SaxBp7gxJueSmwmyXAFiR0pODLWm1fOKSLCBrvUk6oUWWFTqM",
+        "chainStart": 1602,
+        "chainEnd": 1707,
+        "page": 11
+      },
+      {
+        "chunkKey": "h1.BC6Ct9bfh5j4QX9cwQyb1HiDFTy4PfMXYfrdQiYpb-JoanEGNkgN_d-4LWdQvAhoYoXJII83MbjmfREeh5VCWdMHQs0NCkqOy_tzelUzsZyVt0U_2QrQhJXiZJvZFjNZ328_02ljjWbi8YN42Ik",
+        "chainStart": 92,
+        "chainEnd": 141,
+        "page": 19
+      },
+      {
+        "chunkKey": "h1.FRGk6_1NHTii-08RQ71p2gfblhnAOWUN5ABtdo7LSk9DlTypCz6GOB831na6FiIrI5tTseNSCKhKy6T2jAijV5PjQW2oJldrY_yyjneNV4sG43LE5718F4tuuY_KgNJzuE9GXQQNenNP1MVs8rQ",
+        "chainStart": 10,
+        "chainEnd": 74,
+        "page": 19
+      },
+      {
+        "chunkKey": "h1.Em4Vr4jiG1Ptpf8hQIqR0hOs75T82ngfn42SdiVXVIHTA-xCQ6pFrDzx4_nRD4eHwDDdF2BkvP_MtlTY6_0uE7F7fJHGAw2_JPhiqFAZKmSIg0KpAvcAJfvwAmNqEQsOpMJrm4T8Tslt5h1V0ss",
+        "chainStart": 870,
+        "chainEnd": 1005,
+        "page": 18
+      },
+      {
+        "chunkKey": "h1.Em4Vr4jiG1Ptpf8hQIqR0hOs75T82ngfn42SdiVXVIHTA-xCQ6pFrDzx4_nRD4eHwDDdF2BkvP_MtlTY6_0uE7F7fJHGAw2_JPhiqFAZKmSIg0KpAvcAJfvwAmNqEQsOpMJrm4T8Tslt5h1V0ss",
+        "chainStart": 1343,
+        "chainEnd": 1487,
+        "page": 18
+      },
+      {
+        "chunkKey": "h1.Em4Vr4jiG1Ptpf8hQIqR0hOs75T82ngfn42SdiVXVIHTA-xCQ6pFrDzx4_nRD4eHwDDdF2BkvP_MtlTY6_0uE7F7fJHGAw2_JPhiqFAZKmSIg0KpAvcAJfvwAmNqEQsOpMJrm4T8Tslt5h1V0ss",
+        "chainStart": 1491,
+        "chainEnd": 1503,
+        "page": 18
+      },
+      {
+        "chunkKey": "h1.IPFKb8xeh_Ei7Z0U-NyhE8QkhorvmlRIpgEACMTN5fLfwnm_K701TtPiT3MHNyfZtim-Wba4hP_Hv328bxkS3F2iq6BNGcgm6CWTnsuH35R36dbczZ_5P98F-il_k870DV0IWpiMuaqsD0Ztm8hg",
+        "chainStart": 328,
+        "chainEnd": 412,
+        "page": 37
+      },
+      {
+        "chunkKey": "h1.ShoqKrbVGneb6N1uppI929cIwlhWrQhAhVjJXTWMtO2nGxK4v7LaCvMkXs-aqxRWwMIwLgwqinuapPOh_0ZG5XAXn9IZ2Q7fHAbIZMXQK7sFrfNOS8ob1Q8Lq8v0WOVoQe1N-nSGgdybKzmnB6s_",
+        "chainStart": 16,
+        "chainEnd": 281,
+        "page": 13
+      },
+      {
+        "chunkKey": "h1.vrtg8BkZ7bYir0HEEZ2oWWk-b8KcJelHItSMlvocsZqL03kK3CLOyarCvWBFXb5JWsxkucO-SO1k8lqcOLLwKIF0BzjG3FFdgbnBfBl69xHhLR500EJAmf91lhEK5KX9uhewCmuNSynq_4dRfyA",
+        "chainStart": 134,
+        "chainEnd": 173,
+        "page": 19
+      },
+      {
+        "chunkKey": "h1.Y9BMejiEGdniqn2eqAfSaiFefTqjz_zHHrrF93taf5fLNiDmWvcnhQCaVh2ocE9SLMUNWLSz0RdnzNqHoUKU6kdW_E2wLs_tKpTp_cXu3lJR80rBoiuPaPxIEkyXihdyHiFupgXVXjJQQV1ppow",
+        "chainStart": 5,
+        "chainEnd": 76,
+        "page": 19
+      },
+      {
+        "chunkKey": "h1.GhGfBpguYOKrfBk2sVJ48Amz8h9GzvrQNdw-pxa0lWqSRHZFT6tSkQl1DClQcEvzAT5aJlxpHoeYySovTYr5WT560_A6RDTfPoWpx0LAonNFdwMcWGGiBCqV3XIE74dZE9v4NUT289ZS0rF0l13F",
+        "chainStart": 24,
+        "chainEnd": 253,
+        "page": 130
+      },
+      {
+        "chunkKey": "h1.GhGfBpguYOKrfBk2sVJ48Amz8h9GzvrQNdw-pxa0lWqSRHZFT6tSkQl1DClQcEvzAT5aJlxpHoeYySovTYr5WT560_A6RDTfPoWpx0LAonNFdwMcWGGiBCqV3XIE74dZE9v4NUT289ZS0rF0l13F",
+        "chainStart": 931,
+        "chainEnd": 1048,
+        "page": 130
+      },
+      {
+        "chunkKey": "h1.BF4T5aflID1mLtRsELfmtngPfi5uc1Sb0E5h3ECKZU1ALF5ijIl4-Ez7gzjRJB8Kqz0BAfqomIry7e4YYekHizccuqkJsTfcA8h6heGbqazbrW4R5syBRy8yrnYDiz23ZbyXP72YISj3AkFkSTo",
+        "chainStart": 1474,
+        "chainEnd": 1484,
+        "page": 34
+      },
+      {
+        "chunkKey": "h1.jr3fRlc24vwHYHecHw40Wne_Fwdanu7ksZ-SYatlRDeZHKct_k_TRdIazntIKV6AxcKheZfGTcHQjKv461eaLtkzquTuESQE6NYnsD7EQSuPRyOhg9K19XEQvLU2o_stBZHcH15PPA0R5fWHa-I",
+        "chainStart": 0,
+        "chainEnd": 78,
+        "page": 34
+      },
+      {
+        "chunkKey": "h1.jr3fRlc24vwHYHecHw40Wne_Fwdanu7ksZ-SYatlRDeZHKct_k_TRdIazntIKV6AxcKheZfGTcHQjKv461eaLtkzquTuESQE6NYnsD7EQSuPRyOhg9K19XEQvLU2o_stBZHcH15PPA0R5fWHa-I",
+        "chainStart": 567,
+        "chainEnd": 730,
+        "page": 34
+      },
+      {
+        "chunkKey": "h1.o5LU2R7mEdy-Zdwxb23308ZTbn6FL0bY3W2JB3eKm1lnhjlkIkCBH2Hlcd48t3eo5Y78IShmNt2BQZv_OnB5f3psdpd53KqNx2l4yrsg2B-yOOW6_EmGd56jjuWgJtER0OUlp2cOOR4cQggM1rU",
+        "chainStart": 937,
+        "chainEnd": 1015,
+        "page": 97
+      },
+      {
+        "chunkKey": "h1._Ngh7XI3CJ6exAFx4QjYBjIbyyeXAqDiL2Q4V9nDcSBRYnoieDISDBYJJgGueG0_kfQ2VQSVC_eB7rWEDHzNNTDjSzcv_GCjRDoHubOu-56zToyqFxoJENWQN0sFpATSUixBviDrDg_cjZPkhrk",
+        "chainStart": 46,
+        "chainEnd": 106,
+        "page": 30
+      },
+      {
+        "chunkKey": "h1.4PLjUnZG771kahsQYeH3EcS5aqdFJKAshpbgVeOE90sBMDQ20VWpD7yYwI1oT_4iJJCfy4DoJBfYmJXlRg67Ov4kHk2SmCysvDu_GXnG85col0MrwmoJciQSKe0MpnSUgDPPKXOpOOIOzpGlyXM",
+        "chainStart": 6,
+        "chainEnd": 89,
+        "page": 20
+      },
+      {
+        "chunkKey": "h1.cQA2AnHUJl7swMTsItqkmKIpGbbT86veebZ2gUVzXyLBvt66QqWHFnpHs-kTQFH6ArAqFD7GbBrDx7tFmTbIjAl3-BRgb1owB-wvtaJCupv2G_XjdQb2rasjKlfMASa_gVhfFHNV1Tg4PS-lVpU",
+        "chainStart": 0,
+        "chainEnd": 64,
+        "page": 26
+      },
+      {
+        "chunkKey": "h1.cQA2AnHUJl7swMTsItqkmKIpGbbT86veebZ2gUVzXyLBvt66QqWHFnpHs-kTQFH6ArAqFD7GbBrDx7tFmTbIjAl3-BRgb1owB-wvtaJCupv2G_XjdQb2rasjKlfMASa_gVhfFHNV1Tg4PS-lVpU",
+        "chainStart": 476,
+        "chainEnd": 576,
+        "page": 26
+      },
+      {
+        "chunkKey": "h1.CW6X6grNvhDkyODMeoSoOfDu58uNwF56nMUCaR0uixeuzffH4mBN5ZZAMIQLyyZPpZYsqYapzx165WYoYe8_9BxqGFBjHYHbGPXNykX62VGeX9VFGfbRbxQhkaWpTaj9dW9iJRonaGp2JSZGTIQ",
+        "chainStart": 45,
+        "chainEnd": 171,
+        "page": 14
+      },
+      {
+        "chunkKey": "h1.em0D7i-CKorDflKcdGwIbC6i2uJM44DdQoNSHJzrELGTCOtSsjL01Y439g1N98SxbCFRUmSUPJtjV3Lw2cuLcNSEt6eEqnzIwIZwlxP3lKqMWoFIt8JNmlCeOGlB6cTUkiiFKJWiqu2-LYjy0kk",
+        "chainStart": 942,
+        "chainEnd": 1094,
+        "page": 33
+      },
+      {
+        "chunkKey": "h1.FXQxPf0e-qc9uvBjOgqlg_Mc49MxU73BINjQXY8BjVMNl-qvfJi9UkyYx67Ard1iBpXf9dD1SffhIDHM4_CcoxoJgEYN33QfWfzkrRm0uuai50A8TOmk2K0mO9GmhMKq-H8JNsOc0IWXmyk0wbU",
+        "chainStart": 531,
+        "chainEnd": 621,
+        "page": 19
+      },
+      {
+        "chunkKey": "h1.i8aA9SjC6j5mV3JvEjeoVhDV5HH5NhjBII7uyXO-r0_lQ6FqbVnc-cF9MxqxKrhyK9Bk8ykvPiMA0U9VgBGwrBQgGgxQpzErkwmEe4ysOJvKdU_F9_MgBkaDlHytOawqPYf3gzP28Wt5XcW66O0",
+        "chainStart": 0,
+        "chainEnd": 84,
+        "page": 18
+      },
+      {
+        "chunkKey": "h1.i8aA9SjC6j5mV3JvEjeoVhDV5HH5NhjBII7uyXO-r0_lQ6FqbVnc-cF9MxqxKrhyK9Bk8ykvPiMA0U9VgBGwrBQgGgxQpzErkwmEe4ysOJvKdU_F9_MgBkaDlHytOawqPYf3gzP28Wt5XcW66O0",
+        "chainStart": 342,
+        "chainEnd": 369,
+        "page": 18
+      },
+      {
+        "chunkKey": "h1.J9jzre4qgpIj7VnA8MYkblwcuRGlD_zPHv--owj7Re7lva53zO5sP-DndTyV0lmNf4r_NczRTQfZ9-KSuAokB8Valt3DDO3eWhl0gp13P5N-FAgSzSCqYM11S90ZifX8om0KEMvxfBL01Q0jTSZS",
+        "chainStart": 73,
+        "chainEnd": 256,
+        "page": 70
+      },
+      {
+        "chunkKey": "h1.jaIlyZkN1s7UhVTXQcO9MiKhlNtHd2CaO1lw2zr-aTwRKADrP0tvyiNZpHCJ1_e10X_eQvt2Os1hgb8NHurhq35bnwhKo1GfEsZWr7M8oTl1AsMsL4vTCXvBrvGzirVdCV_5h2kqDznsHX9_vlM",
+        "chainStart": 198,
+        "chainEnd": 310,
+        "page": 19
+      },
+      {
+        "chunkKey": "h1.kc05ZWypEvoZZfAjyJiOFoOW1vdD_8rnvBlznheLvEsxiI73aFeYh9APmNDLZ0VFRed-DIiPZmwH59KaTGTBsmVHMyqTSL1zj2Y6DKar-Lc8896oeJ8pKTvqoI8BOwmb0R-YKa2c5B6plRxS81XH",
+        "chainStart": 208,
+        "chainEnd": 400,
+        "page": 117
+      },
+      {
+        "chunkKey": "h1.kiWs4ugjwr7d-5SYfO1zTCfQJ711IrYHaiB0bJdFAvDFRuLVbh1hqmcM8WxrMva1ZWNZM4Rn8WxHowgCQfepYDNuIS0fEE81nmf3lE3DOOt5MT9KvOrvRiH_mBr_eM3zCIrUHdkRmjDkvGdpiNk",
+        "chainStart": 5,
+        "chainEnd": 101,
+        "page": 32
+      },
+      {
+        "chunkKey": "h1.kJwjEQWXCt9vwTKaF7ebO4qd9waPOL0Rx_wI54YDGfjm4Iu1Ed9zyw99aSiBMBgbKwWJsbekBy8BrtLaK9RCGemmAQfG3fAjLhdGumJ9jK-Q1_mRXArcBSxUc1LM-s3nAp-q46hQ2L-kPUbCOWg",
+        "chainStart": 19,
+        "chainEnd": 83,
+        "page": 18
+      },
+      {
+        "chunkKey": "h1.Kt9S9AgWZ_fg6DEwOp1PFLgDGk-pI4JfPY41eoMYVqVqNwPQ9vbr4POtvp3knCSGQFKVSL-zMAdArnWSCg74-PWTAQLddSNYW58p-e5de8JfzmK_biRhgPkXtEKoqmHvFqTwklzQx2tA6ZSzr0Q",
+        "chainStart": 800,
+        "chainEnd": 901,
+        "page": 97
+      },
+      {
+        "chunkKey": "h1.pbsmtcp0z1jAzLITBzcta_IgTgXzxlfqJB-0KmO109e8oyj2zb_ShPSdzwETcpItnFmkKX3Ot79zg-rSUhq1qr3Zt47y9f-1DyXLTVFdKTBgnRCGzhGOWqWHoNnlJ-KLW4AKSfyN15bLKxXRA6c",
+        "chainStart": 270,
+        "chainEnd": 368,
+        "page": 30
+      },
+      {
+        "chunkKey": "h1.t_Yx73zXCnbPC4m0llTz_NEuJ-gDaAafEsRHS5b_ZXdZ9C7trsWDd9sJf4vLR8uzrfxG2FICw2PL081pjtwjM4VqIkwkrFGBT531uKRMe0wJ3pTnorX77zQA37ilR3WkHAu5dE_Y_Z8ANxWXHCiv",
+        "chainStart": 807,
+        "chainEnd": 882,
+        "page": 123
+      },
+      {
+        "chunkKey": "h1.t_Yx73zXCnbPC4m0llTz_NEuJ-gDaAafEsRHS5b_ZXdZ9C7trsWDd9sJf4vLR8uzrfxG2FICw2PL081pjtwjM4VqIkwkrFGBT531uKRMe0wJ3pTnorX77zQA37ilR3WkHAu5dE_Y_Z8ANxWXHCiv",
+        "chainStart": 1428,
+        "chainEnd": 1495,
+        "page": 123
+      },
+      {
+        "chunkKey": "h1.t1yqclA0H8ISNsXWK1ZDc6yG8g2Prk7mOc1oiYb8T4oJDS2A-pj-AmQd1WBQArBUMfL-hpx5bKmHfLJT-ACk6_fa7XcrYEpeXdVeLeQ3PDbwAEukjToJKX0g8l2IbROeSaIote3J0aj6T_WDT9I",
+        "chainStart": 3,
+        "chainEnd": 110,
+        "page": 22
+      },
+      {
+        "chunkKey": "h1.L79hZ9UxYlgDNYoLy6hxyfdMPAqUJ5osiYsFCu6LVSqVT9p8AlccII4fVnobOKLRK5dxrodSaXRDq81XBK4l9to1zWmwOCCIltC3kACrCiCFQnFxZs9ZV7DfGRXnS_DgmokymoCNG-iRLBVcddc",
+        "chainStart": 519,
+        "chainEnd": 554,
+        "page": 19
+      },
+      {
+        "chunkKey": "h1.tQus44JneMQD_YQHBoHpgeFk-07YB5SrI4vhHOitpRoBoS0iQW_VnhJFdPF5bkhdWI7RcLV3kA5KA5e2kinIRadreGXCmSC4nqdOkFaSxnKR2GR57vJm7nx-Quk8X67z6QYqrAe6sFAKJLGDBmo",
+        "chainStart": 0,
+        "chainEnd": 63,
+        "page": 19
+      },
+      {
+        "chunkKey": "h1.wDS5pRMFkDdvPVDOVBASzvMI8MnnD1alhf56Yz-4m9zY8YeZITGIapmGTApalUsS2gNZVhKsBuMeBbFP-NEVtCumFbZGgiRWKBx3vy0uFyJPHRpx-0Nar31-xz6zOVSHCGHzUIOf8LRqGQs9G9s",
+        "chainStart": 154,
+        "chainEnd": 354,
+        "page": 29
+      },
+      {
+        "chunkKey": "h1.XtBRakRlcrRBCMjZvTm5YlUmmOBI8TFUzCJUPyOp9pg4JHr-EIk_H1ObKTGwbs4WsJJJOVp4ChlBpO3gr8dlv-KGPuOs1dW1BnuvyXnw5D2E8RUCHcYZpsEvlFeOvQbfvnin90GAsiqbJdneOUU",
+        "chainStart": 190,
+        "chainEnd": 299,
+        "page": 32
+      },
+      {
+        "chunkKey": "h1.XtBRakRlcrRBCMjZvTm5YlUmmOBI8TFUzCJUPyOp9pg4JHr-EIk_H1ObKTGwbs4WsJJJOVp4ChlBpO3gr8dlv-KGPuOs1dW1BnuvyXnw5D2E8RUCHcYZpsEvlFeOvQbfvnin90GAsiqbJdneOUU",
+        "chainStart": 797,
+        "chainEnd": 941,
+        "page": 32
+      },
+      {
+        "chunkKey": "h1.XutO0iIVgKMWafIldHqrwjWT2Xeuya1iyOkqolzBdEVkQQW1W1FIgyKJUJrPedgH46hOKFD6RW0ILLl-OZDjGuQKz2Awh1hMv9mLuzwfNsPc6UdH3F3JoS2LnIKNFEiXlgjI0DufJMTPkcx8CDy1",
+        "chainStart": 110,
+        "chainEnd": 169,
+        "page": 122
+      },
+      {
+        "chunkKey": "h1.ymNV51MhNf2RCFKN9I9J-yoCLTpWheJGBzoqjvfpeRkUKbmrgn_yf0JU4DAhjnGzgHoOzlVzbUm8PkxMwxJq94jBtF_EXd2KktybtSfb57374-jBGt7G79erBemj5GQvUf2wwbqYI5SXPkHdUd4",
+        "chainStart": 326,
+        "chainEnd": 483,
+        "page": 21
+      },
+      {
+        "chunkKey": "h1.ymNV51MhNf2RCFKN9I9J-yoCLTpWheJGBzoqjvfpeRkUKbmrgn_yf0JU4DAhjnGzgHoOzlVzbUm8PkxMwxJq94jBtF_EXd2KktybtSfb57374-jBGt7G79erBemj5GQvUf2wwbqYI5SXPkHdUd4",
+        "chainStart": 1062,
+        "chainEnd": 1131,
+        "page": 21
+      },
+      {
+        "chunkKey": "h1.yyK0MYXT4LKWeMdYRbWW5PL1aCFOFA9Bo7uBYMThmZiik3-DH04I0lL58AN4JzVH_wZWh8YeCmB1jhMiVyeyjHO7_rk5aj6qpK_uMqgIXIGGZVC9EoGhaPLdGbT2eyvGphB8eJz7MNAvjUW8EEE",
+        "chainStart": 153,
+        "chainEnd": 202,
+        "page": 17
+      },
+      {
+        "chunkKey": "h1.2yip91nM0zQ3MFuZ4UKOCunzYlnlWbb8BMcLK9H9B0r3vY70cLUCN9DO04QQg1OyQgAXdgP40WdJtZPgcJ6qFVcIJAE_d8iTeKQkzFf7-w_jwYKQO7h9LKO_6ldLVWzxfVFvRnu01UObomdr7qw",
+        "chainStart": 0,
+        "chainEnd": 6,
+        "page": 18
+      },
+      {
+        "chunkKey": "h1.zf-TBT8D7UpcNMfNhFK9VcOGFbFS6izSpzLds8zFPYhJEQcKHMnvQqLR96UNs6rI9ARqoKa98CrVuTYErF3pQOXI4jOYPoHudZ45vhan0tTxq_aW6ZannHWpVp5D20F4OETAA2Fpbh2M2LFk84UJ",
+        "chainStart": 504,
+        "chainEnd": 626,
+        "page": 137
+      },
+      {
+        "chunkKey": "h1.zxxlWGslcashEWbMebVE1Yahl6MgDMNdrVufkWQDvxJKtf9yOnsF3ixAxis6lF7R9mhLSI1VMpJcVF6WyIsW91gdNdS-XUkJ5m_6qVrjdhQUxMij-zAFEzL5kEk4W0FbvzPplJ_byLHuLuNJIr_G",
+        "chainStart": 0,
+        "chainEnd": 100,
+        "page": 27
+      },
+      {
+        "chunkKey": "h1.zxxlWGslcashEWbMebVE1Yahl6MgDMNdrVufkWQDvxJKtf9yOnsF3ixAxis6lF7R9mhLSI1VMpJcVF6WyIsW91gdNdS-XUkJ5m_6qVrjdhQUxMij-zAFEzL5kEk4W0FbvzPplJ_byLHuLuNJIr_G",
+        "chainStart": 128,
+        "chainEnd": 215,
+        "page": 27
+      },
+      {
+        "chunkKey": "h1.bxoSDpJaaAk-6erhbnzqwxonIsTLcYjjYBxua0mpVyy6WnFYE6BbvXfTKiCQYIlPc3xeGkqG-fccwe2ruOKfSTQjqsFbfzLHn8nS8sjld1PdSvWnGAyMQnXMxJjiwy-8AL1QYFje9wNDvZmmMeE",
+        "chainStart": 750,
+        "chainEnd": 757,
+        "page": 26
+      },
+      {
+        "chunkKey": "h1.usd2WKokqVd3YN6dzD7_Bm4Rb-bYHzaGBH_UOUCzvOu76hTfIJSDxLw1wK9ZQ_usXpaIxfCbaeQubE-jLyi3NPfZeDxI0jEdvLtqbb02R2QqGzpbDi2WGrYNHfxcCIJcOJLpUDKBLLGNvVLD6r8v",
+        "chainStart": 18,
+        "chainEnd": 89,
+        "page": 113
+      },
+      {
+        "chunkKey": "h1.w9WXbhU9xlS-EhZ2D3vsoKqoVkNGqUgccXnl5bwsQG2Hc1PgX932CAOGKuZ0vX-DpiCiBTs1wHMhyMerbRwmo6qNGKRbCBlF8V6eLncZy19_qv41y7DykHKuipGUnwgsefBrrsRwhGnjecUaIZM_",
+        "chainStart": 0,
+        "chainEnd": 18,
+        "page": 113
+      },
+      {
+        "chunkKey": "h1.pJ4W7Od8xK6bxb9VPxvymoOdIiPoX8KbHut4kHTBLhbr2PH6nZGQIPyBo5d3euNsO0rLklpuJdBQpkM85cXqGGFue5VveO-uommM8KicxP40WThVZ0IjhNPKtb18Dbfmjk1S2S9fLjVXm3FpSg",
+        "chainStart": 13,
+        "chainEnd": 140,
+        "page": 6
+      },
+      {
+        "chunkKey": "h1.ybdajRygnXdteYnivYGsoJwNJAESJC1Za10Kz-Z4Ps5MLQlQ4AfolpAVcIwNWSiHwPSCJuGnOvIXyusB0lBRQdyd4gpNhACPzZcK1-bh6ZxnzVAYs97Lcph83GwdJ8nKgkvFuWi3U9vLyOpYr-c",
+        "chainStart": 73,
+        "chainEnd": 170,
+        "page": 32
+      },
+      {
+        "chunkKey": "h1.ZRPhBBd7iGLsJdeJbguU7ocrQvxeZIfScpqTz92RPs-rWY6G6tRC2Yq7TAszCSuf2OeWjPiwj9t7NFAVqVd67N5exowy7ioxtdZNinGPuY4Bk5GtsZXxuWt_DCsFsp5QbJ8KZ851D4bF2dm5c38",
+        "chainStart": 39,
+        "chainEnd": 147,
+        "page": 14
+      },
+      {
+        "chunkKey": "h1.ZRPhBBd7iGLsJdeJbguU7ocrQvxeZIfScpqTz92RPs-rWY6G6tRC2Yq7TAszCSuf2OeWjPiwj9t7NFAVqVd67N5exowy7ioxtdZNinGPuY4Bk5GtsZXxuWt_DCsFsp5QbJ8KZ851D4bF2dm5c38",
+        "chainStart": 235,
+        "chainEnd": 328,
+        "page": 14
+      },
+      {
+        "chunkKey": "h1.vCm5iZ9zxdMfbSIqa7L_EWLICa8VBv64QMng80XmV6NQ9AR20kHf8x85hs6ldcJ7FrIcYw1p7Qn6hNatCmWjK-A6syrLJpUP5-Q6WzaL68MKcN_cSOYgVQqDa0cGxGrCacCC9i1rBX_MsVIPO2IC",
+        "chainStart": 1104,
+        "chainEnd": 1206,
+        "page": 149
+      },
+      {
+        "chunkKey": "h1.xfAYODLBde_VaDfEWeE00q_CiRcg9ssJkaOeF-qA8ogDPIFCI9SzkWiQ6PurABzr9yWQcQNftM4dIqsVtNZDxLSshzAvfdeFmeZ4REq93u4VPE-prtbNeTGSB_iXXejPlN_XS58Vsp5t3TazAin4",
+        "chainStart": 10,
+        "chainEnd": 56,
+        "page": 149
+      },
+      {
+        "chunkKey": "h1.nbnziDY8AhIrf06TE3LpT4_4pXlLUTMLkccMMI5Te7_U9pD7LjrdjyET61PyONYdMrN5VwJgI2xZq8JN0163CDASXEWNKQ1jTA-yf2RnKewLwnGlhBjlEfLc6i9xHePsrcDzH9kSfk7c3Lx1pWQ",
+        "chainStart": 680,
+        "chainEnd": 778,
+        "page": 62
+      },
+      {
+        "chunkKey": "h1.W6cdAesjgD3LUeqF8y5s1wiN8V4sRsljs1hYpw6O0aVfeHb8mIXIyDdX5yz5X7_KAIV6No2FRHd9TlMUe6_VU9qhiYImGRPsNCf4tmPxfu9wuPDbi8si0fv26L5sb7tMkzwMJonRQDbZJVUT5JM",
+        "chainStart": 59,
+        "chainEnd": 206,
+        "page": 11
+      },
+      {
+        "chunkKey": "h1.isT90cCy5FCwAUeYjPF3MHNMm5_ccKIfAVhF831A0MQCSqSSs_9F8gLnz-CXKcseo_aqarOB25WiF1SC9zgZSKpMhy4Il1bPcmv5eKB6FlcVqgu-VybhgsEBWGkykIeVwZjIAVfxst2fXMT5x-w",
+        "chainStart": 10,
+        "chainEnd": 74,
+        "page": 38
+      },
+      {
+        "chunkKey": "h1.J8Jnu2WSDGMBj2NJ46DUxiWAxVJMq7aFdZFUiLj_CEPQRnbtigVN08QyP3MwJSklFwyEWgRNcCHSG_Tc48-fOorrCm1sFtMpW6ZucPRSJ8If6ucjQ9Xf7pDmIF9NiaLPgc7fggGJ1mGN-kbmQU0",
+        "chainStart": 8,
+        "chainEnd": 49,
+        "page": 38
+      },
+      {
+        "chunkKey": "h1.1zoEoKycKfBCbrVjIntdocO3pnw_WSnasn-s8PsCbK69hQs_ec8E6Ws-EgulKVLnF-2wxZPU4f1NNUtM51ANOEbkzRrT9e8urCf--lr9DCmIrKD-yJZpvlSNn3pRrDNZ_Npm4DM2nqI2mhCEjqmf",
+        "chainStart": 353,
+        "chainEnd": 449,
+        "page": 142
+      },
+      {
+        "chunkKey": "h1.lM0EHBF-bQ2iP9PRx2BWXXQSI-P_L1cHLJUzkTovmz0n4RrNeaX5JbZoCYPWpLgq_lhibYh1FRcLU2UmKly9eCf8k8vJn1Z5AytOUaWjfjDXuKCeXa-7IJfNIsQvlGJ1e-12ATVa9_hTpprDElI",
+        "chainStart": 531,
+        "chainEnd": 654,
+        "page": 26
+      },
+      {
+        "chunkKey": "h1._iV1KD8MgklC1YhnKvAR3trp9inUCASxvTV0_7d6p4I_8JLbi4CebchmHMHMcnSskDxBnAy6XEkjlnJn_8EazyEUTrboJYIs7fgqw_OMdh1hcaUKJTkuh7WEt3o_fncGVUq2qVGPXMNe8z-6Su0",
+        "chainStart": 509,
+        "chainEnd": 679,
+        "page": 86
+      },
+      {
+        "chunkKey": "h1.ef_oFzmwwgeGvW4GO-a9KmzNWGZY8o1bHq6iQ9o9aGKufpSutOmXuCSfEkUgp6Otn4M97Gk1A-rxshbcR9BkPOeSuPQrfhMG9YofUDqLcMFqxUh_xn19wZdW6T9dGDe5WQpS7RWAqeAB1qw-Phw",
+        "chainStart": 630,
+        "chainEnd": 743,
+        "page": 99
+      },
+      {
+        "chunkKey": "h1.Mz_YuES3_YyqqfeEcwMF4lcdUsQ0yK19NsbFzEEOgE03BbmbkSOsrlafbg3hXku-IXuPUhR5z42I6y-S3bTd4dJnArVxPQqeWOLXTNt3ghYownRtC9qfbsiomd_FgrnojuwDYx4dsnTkWSHiWdNH",
+        "chainStart": 144,
+        "chainEnd": 240,
+        "page": 151
+      },
+      {
+        "chunkKey": "h1.ITXdBxYFLEywVFd5EkNlI93QjBdgs5tvnR7t4sfJYxqTtoaeAIfndUAmIVngTUHN_5O3gU6zE8MLwwzaAAck3kQdn2JyzUH1TCTiEULcFrjum1_Paxu9UTGc6xOAVkBuCtvIe0XSCt79CNjimx98",
+        "chainStart": 178,
+        "chainEnd": 182,
+        "page": 127
+      },
+      {
+        "chunkKey": "h1.kFN1fgNQd-30GSD17-A-2Z7RK0pqdA9XykRVHpSo04AeT13Kq4w98xpmZmcm-k5q87JsLh33r6SsNylr4qXC_qZqfM7VQvuMxSXIfmjmERumhWNUDgAeqsSoVQHUovVJRiygYZjK-yDtKn-nkQ-p",
+        "chainStart": 0,
+        "chainEnd": 122,
+        "page": 127
+      },
+      {
+        "chunkKey": "h1.P84ABCn3NGL2gt2L6I_txUCsSiOqaLwoWEqH3f6zgTkiY5sDQ_ZNvLPKgxJG7glfI2QXTXFUZHq1TbgaM94VqdpXzgjS3rpQADnEowuVCl6XRh4ngZUHn7z7rI6xP1vvqjO4uAczGm9QPlUnziJm",
+        "chainStart": 123,
+        "chainEnd": 304,
+        "page": 132
+      },
+      {
+        "chunkKey": "h1.P84ABCn3NGL2gt2L6I_txUCsSiOqaLwoWEqH3f6zgTkiY5sDQ_ZNvLPKgxJG7glfI2QXTXFUZHq1TbgaM94VqdpXzgjS3rpQADnEowuVCl6XRh4ngZUHn7z7rI6xP1vvqjO4uAczGm9QPlUnziJm",
+        "chainStart": 766,
+        "chainEnd": 857,
+        "page": 132
+      },
+      {
+        "chunkKey": "h1.r72kf9hj0gV9wjSBlfZetl83LESbjvkZwc0PGAov09GyeseJtWSo8S7vm0ecAlGZkYrzlldqRbhHygAe1nwDjgMnZbtjOUh7m1DNplMrIWOYPzVb4uV2zqFp_Qibn5ndqPmJMek0NQXGTRDbhP8",
+        "chainStart": 0,
+        "chainEnd": 44,
+        "page": 28
+      },
+      {
+        "chunkKey": "h1.r72kf9hj0gV9wjSBlfZetl83LESbjvkZwc0PGAov09GyeseJtWSo8S7vm0ecAlGZkYrzlldqRbhHygAe1nwDjgMnZbtjOUh7m1DNplMrIWOYPzVb4uV2zqFp_Qibn5ndqPmJMek0NQXGTRDbhP8",
+        "chainStart": 653,
+        "chainEnd": 740,
+        "page": 28
+      },
+      {
+        "chunkKey": "h1.r72kf9hj0gV9wjSBlfZetl83LESbjvkZwc0PGAov09GyeseJtWSo8S7vm0ecAlGZkYrzlldqRbhHygAe1nwDjgMnZbtjOUh7m1DNplMrIWOYPzVb4uV2zqFp_Qibn5ndqPmJMek0NQXGTRDbhP8",
+        "chainStart": 910,
+        "chainEnd": 1004,
+        "page": 28
+      },
+      {
+        "chunkKey": "h1.r72kf9hj0gV9wjSBlfZetl83LESbjvkZwc0PGAov09GyeseJtWSo8S7vm0ecAlGZkYrzlldqRbhHygAe1nwDjgMnZbtjOUh7m1DNplMrIWOYPzVb4uV2zqFp_Qibn5ndqPmJMek0NQXGTRDbhP8",
+        "chainStart": 1296,
+        "chainEnd": 1368,
+        "page": 28
+      },
+      {
+        "chunkKey": "h1._tDUmd444hUf6OaHJzy7G-v8rYB7zHMf2oR4yLLg_NV3fvGaBFWX0mVu24bTg2lPvJLktTxCvHJF10pM2JYSqN0KJzn8mtEVaLBGF6dIiOdq0cU0Jr2Hocx6BSkf8UhcuaEzVpLXWcKH8c3koqc",
+        "chainStart": 283,
+        "chainEnd": 383,
+        "page": 29
+      },
+      {
+        "chunkKey": "h1._tDUmd444hUf6OaHJzy7G-v8rYB7zHMf2oR4yLLg_NV3fvGaBFWX0mVu24bTg2lPvJLktTxCvHJF10pM2JYSqN0KJzn8mtEVaLBGF6dIiOdq0cU0Jr2Hocx6BSkf8UhcuaEzVpLXWcKH8c3koqc",
+        "chainStart": 914,
+        "chainEnd": 920,
+        "page": 29
+      },
+      {
+        "chunkKey": "h1.7EsBpvRIajiQKq7ofHhoAtAEic-5Eh1q_m9rSL18HoaMAYtNtNREpFbKyJWFODDKB-9HB9lFnZ2hZGF-iU57riX5s4AET0D-gG5d7ygBSR5RegXUt8JsW-rpizGqzWXPL1Ga8K-h4ZhCvvf5wqg",
+        "chainStart": 23,
+        "chainEnd": 73,
+        "page": 12
+      },
+      {
+        "chunkKey": "h1.9_EYi0DS1vAeWDPCQbTJzuMt7X20GUewneK8k6l-PaaOY3oiKnFBcWQfnzUjVIBe3ij1KPpPzbMKFN2qAJFwmEHwHUZlTR6hFo0TxbrdqJq1S1HO4EeEtRMBci7CRN8ktihy3EP3rjVL3Ee2wb0",
+        "chainStart": 29,
+        "chainEnd": 64,
+        "page": 12
+      },
+      {
+        "chunkKey": "h1.8kmfDmRle-3zP5MuQ0YID9V_8W3Ff5DUwtQUxAYKUH50rxrSY3SbBzYC_4Zxs8ZYxC6avRXV2bvjMqA0-iWRuU5EwvnzcuFn3v4dlEQRHoITFip9msv7tVJjF246z2lhpWAnJuqwt17QrhKgVu0",
+        "chainStart": 6,
+        "chainEnd": 81,
+        "page": 29
+      },
+      {
+        "chunkKey": "h1.AyMz7WGtxP0PLFwypV7_9Sk_nv0f7XnJQytf_L4wZNyUUmnwuelGmdTZ_idp1k2aA70vGzrYTjQRPfVx2eGYNDpyfGqnObo76rnVloASo2jY7U_quSycU9jzKFzANLwccpSMwlDUbQ-AjCcxXnU",
+        "chainStart": 28,
+        "chainEnd": 283,
+        "page": 10
+      },
+      {
+        "chunkKey": "h1.DZg0TC-LzN14DKky1oxQmDM5R5boVV7paI0Yo8YMG0RwDciEbVToReIudeG4d1u7kDuWUfGpxhLU0XZLZtEkm4uQBa0Jfh7_nzZ7z5Xb1M91jKO950LhSfu9VZOur-UjLnczFHX9hcegXRzCPSg",
+        "chainStart": 0,
+        "chainEnd": 13,
+        "page": 10
+      },
+      {
+        "chunkKey": "h1.1jGeVQE3jXzSXtrZbvbo1jPEPZD9awEeZHPyTmPQnHd8R_5AXpYs6TUo3dspyYGkEkmIRGvHuWCBmo2K4j9CiPCrNqqD9sYTo7YbF3wQRnyn505b1Fcv-EW1u2YkAf7RxAfwlQsxT_ESaNMfGHM",
+        "chainStart": 1546,
+        "chainEnd": 1554,
+        "page": 28
+      },
+      {
+        "chunkKey": "h1.EJNZLZ4AXZWc8oGXi0-kIyLSJUOqXvC7hpKdzGNHemTZ5T0IQRD6Li_MBSCpvZKiRgrkdh0mZ1F2tba8OnU5xb0sjkn9YKEx4Opj2MHQjGZ4orwNBXDT7ZzBliqXZG7kwR8GsXBSCOGVyrBTqZ0",
+        "chainStart": 0,
+        "chainEnd": 72,
+        "page": 28
+      },
+      {
+        "chunkKey": "h1.EJNZLZ4AXZWc8oGXi0-kIyLSJUOqXvC7hpKdzGNHemTZ5T0IQRD6Li_MBSCpvZKiRgrkdh0mZ1F2tba8OnU5xb0sjkn9YKEx4Opj2MHQjGZ4orwNBXDT7ZzBliqXZG7kwR8GsXBSCOGVyrBTqZ0",
+        "chainStart": 930,
+        "chainEnd": 958,
+        "page": 28
+      },
+      {
+        "chunkKey": "h1.lDCSMtvu1y1o3cNEebGMVw7Vf_LmhgPLJ0XS-18slDKKBrTSK6U1864SYoEAjyymEnwV5yidDguWy8m-ZL_H5bdz-WlCe3aSpZYTEW3pkcrEwUKSCKcwCxZ9Ur1ywZlOfQsxncdjcLD-MN8_PAE",
+        "chainStart": 431,
+        "chainEnd": 651,
+        "page": 29
+      },
+      {
+        "chunkKey": "h1.S3tEeRG6zUYLBvI-dy0aGZR3D7JfKO1w9WkyRYzse_9CzC6KLYhyKiKuOnDA4IEqBXAcbypt9iuMY__bV2MOLSMB2by9DyRXAQcmCtu-laEBCW0Y7rGUuGEeG7Vnu-9cR5-TPjLnKQ-CFuREjn0M",
+        "chainStart": 117,
+        "chainEnd": 231,
+        "page": 152
+      },
+      {
+        "chunkKey": "h1.rZh3lnyYMxJ5s9XGrNJoCoV7eRgLexoMnAeq_I9jWQ7SV4A2wNTYj_ZUmL-16_E6397dX-uPUtSLCSt18ZjKiksEqp7ILwOKKqBRauoXMkIDfp6L5QBhUfcZUnvh_ITr9e34-bLgUo_5ISpnJSE",
+        "chainStart": 1318,
+        "chainEnd": 1349,
+        "page": 22
+      },
+      {
+        "chunkKey": "h1.vJbJvMae4HirUUie_ByevTw52xEPV-SmW8WZUAf2snLYCtX5w38oPLnDYXo49bBaAwwZ1DbVMoJmeGYHaPCLqL842Y4v0nVetFgKi-TEgKHGyKtVwqi1ttimurOkdKp0QdEYzh-9XoUBOR8AL1M",
+        "chainStart": 1699,
+        "chainEnd": 1803,
+        "page": 23
+      },
+      {
+        "chunkKey": "h1.Wi70S1kUnzYfvRifijZOabf3Tde6fCoAR4IvfK-UyYtd5ChQ6TWER8yWU06gA1Z43Xio5YCYlkwAKYpxqFfrBcJ-PTG4QpRrlgUHdaGRaJS0Jy2IQs9EwiFnQ_7bNHrwBLENpm_NexNPvNA3T58",
+        "chainStart": 360,
+        "chainEnd": 482,
+        "page": 28
+      },
+      {
+        "chunkKey": "h1.yuU5J00gJ9uVmndipK_ozgJrD2wrmr_QQMQmwgUBIK7Xw4on9asSOn-oAiK21cc4VXsmE79h6_DOYBw6hoH265WPZJjHyfSX-qpNO4naIsyhVwij8AEX3ICfsHLk4kjOtzs3JU8Qajs91DuCmdA",
+        "chainStart": 348,
+        "chainEnd": 448,
+        "page": 89
+      },
+      {
+        "chunkKey": "h1.wWuzv0BAYjamrbtyRpxjF49JzCIwfvZVPn9ItmEbskXzR_Q78hdPEwvV4hntwcLwslQgCbp7RU_DRdeuAS0BesbV8s_5TQiUFKmmHG21vAacNXCjyaKZcpX_JZWUTIA1JTe_8r4CcfAsEaPKskjy",
+        "chainStart": 192,
+        "chainEnd": 207,
+        "page": 27
+      },
+      {
+        "chunkKey": "h1.lU1TkNoGOkZp4gBEmw-7v80Y9kDQPxhHoFuyQ3-Vd7_rR2sjkj8Akd-ajdzIXvxoIPXbpBw5-ZahiR_Jtv67EKRAuU2djoyWZhoq3gqJr6ici5VstMvitPKP7ExiQttkF2I3F4XVPCBIKDlGdd8",
+        "chainStart": 66,
+        "chainEnd": 149,
+        "page": 13
+      },
+      {
+        "chunkKey": "h1.lU1TkNoGOkZp4gBEmw-7v80Y9kDQPxhHoFuyQ3-Vd7_rR2sjkj8Akd-ajdzIXvxoIPXbpBw5-ZahiR_Jtv67EKRAuU2djoyWZhoq3gqJr6ici5VstMvitPKP7ExiQttkF2I3F4XVPCBIKDlGdd8",
+        "chainStart": 730,
+        "chainEnd": 838,
+        "page": 13
+      },
+      {
+        "chunkKey": "h1.uL95gbhy3-qnOVJmDz9ro-9W4eiXtS0A3Yi22FlIEOwTeV6M7uyn9uFIeFK9iB_9kmVLfNksze3WeiAup4NP9OXEccKb4zGNSET26VJkzpxgWGmEx1thDvk-3iGxucbgh8f2aKBrY4WmmSpMAvza",
+        "chainStart": 566,
+        "chainEnd": 640,
+        "page": 120
+      },
+      {
+        "chunkKey": "h1.BE1gHifPoiZF8N6Brw3BPxhR4G8D0qpllNpmcQiNXUSiul9GsXgzNx2eIILdV7tpr6Douvm1pA2u_1f7umxv3h2erG7VhXSJnAxvRJYjqmS8ZBNZ7HXL9I5iOz7576r9HZwicHHdDuFi79oPj_Ci",
+        "chainStart": 664,
+        "chainEnd": 724,
+        "page": 153
+      },
+      {
+        "chunkKey": "h1.MmPZBtiTN32aiFnkXGVK-bKE-yaJ-3IOFbP2ZP2T3ClCnZ34rO3n85u50ZP4hUBs0IsPPqyVbclTabJMmTlTAucjyxg5cbCHmz2KIMbpyV8ipJdF_2-23XtnkY32IoUYrsOiDDfQWFzj0qh1D0yi",
+        "chainStart": 0,
+        "chainEnd": 8,
+        "page": 153
+      },
+      {
+        "chunkKey": "h1.yVUnxWiXGUUXOxYAvi8z6OfxSXK-yVPPCwiT_aKvoG5rvedyBjvZEDgOA8-Vfr0R1sANvDsFL8-tv5QZgi5TzMFJv6tJt-uIBNnU8GirrTAU_waV0sgkdDTPvOiX8V4cGXmMkS6s9tc3QgjmL-o",
+        "chainStart": 3,
+        "chainEnd": 34,
+        "page": 80
+      },
+      {
+        "chunkKey": "h1.YYA0dzCa2n-3etFKk4KmjX0yip8yjEcxtBxxlbMaOnMCVyvnGSLJN_zn_o-xfpnnU9P4tCtruByJj9Z7sNFrR6fHsVTnaSAXFJ-bo4hhx6aHvsqh6zJLIvIwsOPk8_aerlQ5ueD_SFMUJCHB7SQ",
+        "chainStart": 0,
+        "chainEnd": 147,
+        "page": 80
+      },
+      {
+        "chunkKey": "h1.BebBte6uzTAHEXARwA3adhCUZGyx6oIxDkTD6YvNALd8dcXUJlLeS15p1dJqC0_vKCRYD1nl9398yoTKJLxrMEh7NqPgmfFb9nNPhdqaHMYWjdBWWN7qBFrHdBVwPwaW2I-OnjhRLBG8r-qDWtc",
+        "chainStart": 0,
+        "chainEnd": 13,
+        "page": 81
+      },
+      {
+        "chunkKey": "h1.kI71tvy2Cf6AJ0ttJIWkWUXvT_02N5hjk5WZJeKYbHdPuQBAZY5_XkpSCwKg7_6OnDrPfcXWk_b98K5mPfRBKMBzCudgZS9XPlpsMy8sg5TZ2D2jNy9OZzZUnVYqaCh5WdrVvXR3sVtKQZ2e9Q",
+        "chainStart": 411,
+        "chainEnd": 499,
+        "page": 4
+      },
+      {
+        "chunkKey": "h1.NiQFU4cA7_icQ2X7PaChKC_y1wgqMwGiIUjDHxTuK-ln4GaSyJE4VvQ0VZaqDYG-gdR-nDvs7K2GEBxSGPs10FRur_yc_E8Vp5xCb-0ynemCv4SjTENTIE-jLtWxgLfrggqxgpiWrMyyfECt6WVZ",
+        "chainStart": 65,
+        "chainEnd": 79,
+        "page": 40
+      },
+      {
+        "chunkKey": "h1.t2YjwwTikRBB97gZwK-cndyLoINBB8feLqLV4291VfEzsNMcdtBBtu05JMwc3ag2sljP7qHmJ8MNL7bglGZpSGBsUjrlIT2nV-SoA7JpV96Sr34U5PmwboStLacdQA8nAuUpge603UVO1Qdy1qM",
+        "chainStart": 0,
+        "chainEnd": 90,
+        "page": 40
+      },
+      {
+        "chunkKey": "h1.qijlDFdcjo_BSsbub8YRbdzX3wMlG4t3azXL05mcbc0q-rpMWxduhEaDBrujejmqnLxQ20OJcGgGc_YgRWLJTD0xgem8W7T4-ugpmDS3gRZ1Dxhr44BFF8WxaxzgG2zk1g2aUd6HXET9W9dA8Uw",
+        "chainStart": 50,
+        "chainEnd": 197,
+        "page": 14
+      },
+      {
+        "chunkKey": "h1.RYrpSTDF3I20NO_a-DhJMFNvxTgjKqcp2JfkcdU8_AJGJpnMBzM6raXcGlJ5OjjD7CPA6zSxr1O28w77t0Dnu_FMm5Hi_sd026TBsB8kntyYVrMJibqPsp_O9b89BicX2q00QZLmNURMzcOG5yWV",
+        "chainStart": 476,
+        "chainEnd": 532,
+        "page": 158
+      },
+      {
+        "chunkKey": "h1.iSZ1wvt3w3fekaDdYXauiU632XJ8Bxo2ooFfezI2GM2hCrYfEPkD-Ct2E0wFPGjbt2bKJYNjSgcwSlv6JfLCKOsQQWJ6UqENoVmAwWIeGDwwbWFRW_2zk4I1WyhE3vLWqKn3GjyES4sgFXwylxiW",
+        "chainStart": 103,
+        "chainEnd": 225,
+        "page": 110
+      }
+    ],
+    "recalledTexts": [
+      {
+        "chunkKey": "h1.I3cYujBk6SsT_4uvWNsAhWL95v-ej_cvNCPRIC2Xp1sC32kRN0Ucpzzln9nf7NjbOmvCRL80GsmRq2CMSMMUDXcjW4a30hRGJFAmcnyZOQ7XbPGUZeVAQhtE0F-PUlQtrE2ZOU657K28k1XOICw",
+        "page": 40,
+        "chainStart": 3,
+        "chainEnd": 51,
+        "text": "Structures et Systèmes de l'Inconscient primaire"
+      },
+      {
+        "chunkKey": "h1.ke9HzPNXwe2qAG9kPs8UFIelbwXvbCg-xrCP9VPfMfF6g--L2sW5ydgPXQ6q3ObF4ueuAGydsXxqFoUtde9uWKRfM2AXjYRPbWgd3g0I_r7tETyHS8FVzvGXi9oPBgK6iE34bYTNy3cdPpp2WkvL",
+        "page": 40,
+        "chainStart": 0,
+        "chainEnd": 43,
+        "text": "Les tenseurs de potentialisation sémiotique"
+      },
+      {
+        "chunkKey": "h1.KcMTr9g9t93FFaHnl-KzAf1axCaaMHyc6u12UX4HwRPAEvRC8p7YY2HUZcQ8hSVsHwXy4tLiCU-HEaFVTyhcTHCesR9grRuNvdA-jofkaEUh3GMmTYGaJqZ2ukzlmiV68c60y6IKA0zTHtY2VuAR",
+        "page": 169,
+        "chainStart": 842,
+        "chainEnd": 897,
+        "text": "... 82 Structures et Systèmes de l'Inconscient primaire"
+      },
+      {
+        "chunkKey": "h1.06-42uAicP3AtQZuFuBLpUUPeHMG-8icArQ3-o5TC58AYGOic9wqd9Pmfc_80f2_dGQMl3KdXaqwnf7uX6Nz7Q10fkT7hI31foyq9rnold-iVxb44lHHwRHP7nRwRqENCp-RVS-7wLxTenoDpljS",
+        "page": 170,
+        "chainStart": 0,
+        "chainEnd": 47,
+        "text": "La fonction existentielle f(exi) et la fonction"
+      },
+      {
+        "chunkKey": "h1.azkyQolcpyzU463PzKy4DmnYLm2v7f900KyjHcKnK3LEincpszzxO530Cmy4tvjYhiw-6TRHkFQNXbk85_VRj-rbVDGEBwI5JAdLQmMajgLq3jOMmhtPUEWen4LrwhPN4LOPdMK6UFlbN01etnF-",
+        "page": 170,
+        "chainStart": 3,
+        "chainEnd": 34,
+        "text": "Cartographies schizoanalytiques"
+      },
+      {
+        "chunkKey": "h1.ebp2D8ItiNISVKQTF8kdAGLC4Ip6z31EBFX36fMjYTacu1PA7W-NqgLY2g_Hi7LxeVc0hjxn6_3w5yifqccm-qMx8lYhCr1lHvK-VK1gmI3ewu3Cicm7kri0kEMOdjb_e6AJHNVCtyKDF9FY59vS",
+        "page": 170,
+        "chainStart": 0,
+        "chainEnd": 135,
+        "text": "Les tenseurs sémiotiques de l'Inconscient secondaire ... 87 Persistance et transistance de l'Inconscient ter-taire ... 89 **3. Le cycle"
+      },
+      {
+        "chunkKey": "h1.Er82ESiu1Xb2aEV5pWFFLmMBZMz8vv3HpBfTGY_0dXYrPRCWgKyBHfBKcyO_aJffhijRDyo93A9W1FAtGo5ILrfxUkRI7ag6J8M65qLgJLyPiTKDzyqjw6UCj3w_Vwu8AdYbfnY8MefuPDmEv3Q",
+        "page": 40,
+        "chainStart": 347,
+        "chainEnd": 359,
+        "text": "Les tensures"
+      },
+      {
+        "chunkKey": "h1.fm2I79DuZdwjjd6pjF_xYIUqMERW6gwtVHxbI93wUwOOmTA2aLCaIkKeRL4UR6L3yGgWsW938Jz8Na1ULNPsmCRIpOhJDEjKsns0SM3HYksK2Xh95nrTzVxSsQgY-jbyEKHu-qH9Tq0gGgTJR4M",
+        "page": 40,
+        "chainStart": 7,
+        "chainEnd": 55,
+        "text": "tenseurs sémiotiques de l'Inconscient secondaire"
+      },
+      {
+        "chunkKey": "h1.5KBn4birkxZxno9oq4M2S6AHxNI4xk0Hv92Ueg4nA8lul1UUWxnzOnIB17m2G7jascbiSST3eOP-vLov6UjAT7S4AsAUsiATvcziW_B8HtAfZMJS7xAZaELNeepqcIpYfaEq6ugfNoJveEqbzZQ",
+        "page": 20,
+        "chainStart": 23,
+        "chainEnd": 48,
+        "text": "option Libido-Inconscient"
+      },
+      {
+        "chunkKey": "h1.jogHrQCMFo3Hnx24GNb5oKkcbFtLfXR9PyWWr566PBhSSYj_TSxtEvgYsDA3NkF-bI3owRLdEJ2ojAxMt7XAynlzgmDCNehfvxSNQJgFiWq5lfdXY4FvzJA6A3jdZ0dS15Xdbq3riyC9uBM6Yd0",
+        "page": 20,
+        "chainStart": 3,
+        "chainEnd": 24,
+        "text": "Mme Freud en personne"
+      },
+      {
+        "chunkKey": "h1.LAQ9wpx84cLYZcmzyxuiVhAGXymGsz0QRCxsc4tjHZ9nPoIMCaLJnfn-ZKE0OnIWvVl7XlgxStaBUcNIjDwz-M___6VYNvPlMDgaz07QBtUPceCAx7Ck6croV88pgIhGnVXHcdjDivkxo7t4ISU",
+        "page": 20,
+        "chainStart": 38,
+        "chainEnd": 111,
+        "text": "face-à-face Libido-Inconscient pourrait être figurée de la façon suivante"
+      },
+      {
+        "chunkKey": "h1.Uy4ji5duM6lCsKqIILfL_qgoGKMeC3Y8gFb9RTpiCDpXAzPRkExc6KZynOnRrQNp5W8fT6oDaE6jvZZBaB76NEgKO5gZZ16FPjclsU4q3Qz_YAK9XKhkoreCl_bV7x7SpiI7iHVK4wpYmrdrxeA",
+        "page": 20,
+        "chainStart": 19,
+        "chainEnd": 38,
+        "text": "plus avant l'examen"
+      },
+      {
+        "chunkKey": "h1.Np3LpmFVV4J8Tgvys2d5wbYTVed6_kC-ZPGPMc7IGHCDxknce_ePPLCozJG4qsX-f5AP46ArEuABLrXI_Z4t0yuvVj0OnMdeEPcenl9dsir6q6C4sDCGoPntLtaHknaa4ZVIO-M1g1DDfVSE834",
+        "page": 33,
+        "chainStart": 1390,
+        "chainEnd": 1402,
+        "text": "de constance"
+      },
+      {
+        "chunkKey": "h1.pdyS4xCO7sIyBGVUglsjOTJ9MwoG1FY4RvUoiYTnBHGnwKIQoBdWxpyaeoChy7YrrePgs7NzcgyYXvoQiux4_TGyQ0j8-7PP0YnTLtgoTlIvsnV4enymZH8TY4R1moGV0czhQXpO9Lx4OZlpyZs",
+        "page": 33,
+        "chainStart": 0,
+        "chainEnd": 68,
+        "text": "Le terme d'Inconscient n'est ici maintenu que par commodité d'emploi"
+      },
+      {
+        "chunkKey": "h1.UyMQ6IoimHTbZ6DZMJHRBoWBsend-GeXnspsh1ZvTmGLLyRe-MwMOoEcSw27dzv4vFSTLwKLsjNJpRuzIJGQhErZmsyqPEpph1u0vCqZM8a9seYOvguVxGAT7pcWr8rPmcKsbwApT5j-SgAjOrOi",
+        "page": 171,
+        "chainStart": 200,
+        "chainEnd": 283,
+        "text": "option Libido-Inconscient ... 47 2. Les énergétiques sémiotiques ... 67 1. Les axes"
+      },
+      {
+        "chunkKey": "h1.UyMQ6IoimHTbZ6DZMJHRBoWBsend-GeXnspsh1ZvTmGLLyRe-MwMOoEcSw27dzv4vFSTLwKLsjNJpRuzIJGQhErZmsyqPEpph1u0vCqZM8a9seYOvguVxGAT7pcWr8rPmcKsbwApT5j-SgAjOrOi",
+        "page": 171,
+        "chainStart": 429,
+        "chainEnd": 508,
+        "text": "présupposition entre les trois niveaux inconscients ... 83 4. Carte des entités"
+      },
+      {
+        "chunkKey": "h1.wGf7rkJjiA_i5zfbjkFxhATyzbDo-TMvm7f5U0Psiid00jQd9GSLyw5sZNRPgNGAVzLvW3z9WAWgBQVM10Wi11PXfpamRDwJiEDxHqnEwkOic4iEfh7qfJRh0rbe7JNYbFNHz9AeNl8-hPHHCY4",
+        "page": 37,
+        "chainStart": 28,
+        "chainEnd": 34,
+        "text": "modèle"
+      },
+      {
+        "chunkKey": "h1.Z3-16c85zD2e57iGZwgLbKpX-pE6cuF6OKVs6rch1a9RuNYKbXYnow0bqEWBjfM35sGjXbg-35yo5JohjVgJdk1LuUgO2EZ3tAPh7-F5lut5rboyzBDrwP8gg4-Mlnkzk087BzGuQgg8wmYkyHU",
+        "page": 37,
+        "chainStart": 0,
+        "chainEnd": 73,
+        "text": "Notre modèle d'Inconscient est écartelé par des exigences contradictoires"
+      },
+      {
+        "chunkKey": "h1.37_4-4-dnSRjFb4qgjdEfRlfbAsCRngJOy_oEN0N8ddvihWAGJF7aQqtt4cTu_CabM-_SHbmTNx6Mnm-JAYQITyeWhvqod6Q4L3F2vcW-PFXqJvOHXC0tUNLKfcS1omwqyycO8e8TPBwmwwSFm4",
+        "page": 15,
+        "chainStart": 69,
+        "chainEnd": 267,
+        "text": "secondaire. Ce n'est pas parce qu'un accès digitalisé, binariisé, à l'inconscient moléculaire nous est interdit qui nous sommes pour autant condamnés à sombrer dans un gouffre entropique de désordre"
+      },
+      {
+        "chunkKey": "h1.IUARsWYejz1SQixweSZkq2bH9i16xtqi3mAjwnt8M0vgqB0U3W9adLFT1vt7F-x0pkIdlAgiSWG2g3dHIeTMA5vCwr_Wl5ihT0-iW9u4xFqA1q3DuR37dzqnjdt0uDAoRFbU4Q1MWViWoeSjNWo",
+        "page": 15,
+        "chainStart": 0,
+        "chainEnd": 9,
+        "text": "tessiture"
+      },
+      {
+        "chunkKey": "h1.IUARsWYejz1SQixweSZkq2bH9i16xtqi3mAjwnt8M0vgqB0U3W9adLFT1vt7F-x0pkIdlAgiSWG2g3dHIeTMA5vCwr_Wl5ihT0-iW9u4xFqA1q3DuR37dzqnjdt0uDAoRFbU4Q1MWViWoeSjNWo",
+        "page": 15,
+        "chainStart": 712,
+        "chainEnd": 765,
+        "text": "Le sujet, de l'écrit Freud, se « crampone » à l'objet"
+      },
+      {
+        "chunkKey": "h1.wFuBVVF5WRZr_9J8FdzkD64rhifOeqQZbhEp8TDiy9gC3J2oTsk4spJ_8Nhr8_A_3TBd0aEOjZf-4LXbw6waWe68XW7h-yoDqv1C-l7fDcQI_Sn2VG7QfiHOY-KQxtvbSwFFnsanYXXQFFF6av8L",
+        "page": 40,
+        "chainStart": 62,
+        "chainEnd": 77,
+        "text": "deux catégories"
+      },
+      {
+        "chunkKey": "h1.5ALt5Pl-7mVHICV0A-d5Ks1EHq_UAnJhZlb1dNBn2c_klThctZvjINShAN_Onxf0o4QGXH5S5RglZxE6a4MllV511Itkj4BY99q9q3aX3HGjFTSeEwr3hT1v3BTV_o3tFcz8Tm3ViMYK2mZfg3X5",
+        "page": 41,
+        "chainStart": 0,
+        "chainEnd": 90,
+        "text": "Le niveau III de l'Inconscient est essentiellement constitue par les synapses pragmatiques"
+      },
+      {
+        "chunkKey": "h1.aF5vZFFOclTJXQKYsOqak6amjYcpHAwCq-FK_adHQcnhPHc1-erzLI66zYvvLd-RjPOaEXrupbXN4D7E5UPLp2NuwUn3cdRb3HUlppL7-ZCKncS9nbfZFtRynK-dMiNZKWpP90mz3g605Ktl8BU",
+        "page": 18,
+        "chainStart": 18,
+        "chainEnd": 131,
+        "text": "la présente tentative de refundation de l'inconscient sur la déterritorialisation s'inscrit dans son prolongement"
+      },
+      {
+        "chunkKey": "h1.AQop67CLdd3tWNVtygxnPCyKlitthiwGpLjQbtWaEYq-lp2HoRjPdCNNI8_cJvd7r8ZtfF35fbGaeNe2jKhpnYe3B7EdOMJ7R5SaxBp7gxJueSmwmyXAFiR0pODLWm1fOKSLCBrvUk6oUWWFTqM",
+        "page": 11,
+        "chainStart": 1602,
+        "chainEnd": 1707,
+        "text": "analyseur » des formations de l'Inconscient. Il importe que ces analyseurs soient conscients de « mission"
+      },
+      {
+        "chunkKey": "h1.BC6Ct9bfh5j4QX9cwQyb1HiDFTy4PfMXYfrdQiYpb-JoanEGNkgN_d-4LWdQvAhoYoXJII83MbjmfREeh5VCWdMHQs0NCkqOy_tzelUzsZyVt0U_2QrQhJXiZJvZFjNZ328_02ljjWbi8YN42Ik",
+        "page": 19,
+        "chainStart": 92,
+        "chainEnd": 141,
+        "text": "un couple de concepts, la libido et l'Inconscient"
+      },
+      {
+        "chunkKey": "h1.FRGk6_1NHTii-08RQ71p2gfblhnAOWUN5ABtdo7LSk9DlTypCz6GOB831na6FiIrI5tTseNSCKhKy6T2jAijV5PjQW2oJldrY_yyjneNV4sG43LE5718F4tuuY_KgNJzuE9GXQQNenNP1MVs8rQ",
+        "page": 19,
+        "chainStart": 10,
+        "chainEnd": 74,
+        "text": "revanche, de reterritorialiser l'inconscient sous divers aspects"
+      },
+      {
+        "chunkKey": "h1.Em4Vr4jiG1Ptpf8hQIqR0hOs75T82ngfn42SdiVXVIHTA-xCQ6pFrDzx4_nRD4eHwDDdF2BkvP_MtlTY6_0uE7F7fJHGAw2_JPhiqFAZKmSIg0KpAvcAJfvwAmNqEQsOpMJrm4T8Tslt5h1V0ss",
+        "page": 18,
+        "chainStart": 870,
+        "chainEnd": 1005,
+        "text": "problème ? Le problème n'excusse inconscients de singularisation sémiotique - le célébré - processus primaire - aura beaucoup de maître"
+      },
+      {
+        "chunkKey": "h1.Em4Vr4jiG1Ptpf8hQIqR0hOs75T82ngfn42SdiVXVIHTA-xCQ6pFrDzx4_nRD4eHwDDdF2BkvP_MtlTY6_0uE7F7fJHGAw2_JPhiqFAZKmSIg0KpAvcAJfvwAmNqEQsOpMJrm4T8Tslt5h1V0ss",
+        "page": 18,
+        "chainStart": 1343,
+        "chainEnd": 1487,
+        "text": "ses premire professions de fou réflexologiques ), conduisant l'Inconscient, tel qu'il conçoit, à se trouver pris en sandwich entre la perception"
+      },
+      {
+        "chunkKey": "h1.Em4Vr4jiG1Ptpf8hQIqR0hOs75T82ngfn42SdiVXVIHTA-xCQ6pFrDzx4_nRD4eHwDDdF2BkvP_MtlTY6_0uE7F7fJHGAw2_JPhiqFAZKmSIg0KpAvcAJfvwAmNqEQsOpMJrm4T8Tslt5h1V0ss",
+        "page": 18,
+        "chainStart": 1491,
+        "chainEnd": 1503,
+        "text": "la motricité"
+      },
+      {
+        "chunkKey": "h1.IPFKb8xeh_Ei7Z0U-NyhE8QkhorvmlRIpgEACMTN5fLfwnm_K701TtPiT3MHNyfZtim-Wba4hP_Hv328bxkS3F2iq6BNGcgm6CWTnsuH35R36dbczZ_5P98F-il_k870DV0IWpiMuaqsD0Ztm8hg",
+        "page": 37,
+        "chainStart": 328,
+        "chainEnd": 412,
+        "text": "la distinction entre le niveau I de l'Inconscient, ou les sites d'entités intensives"
+      },
+      {
+        "chunkKey": "h1.ShoqKrbVGneb6N1uppI929cIwlhWrQhAhVjJXTWMtO2nGxK4v7LaCvMkXs-aqxRWwMIwLgwqinuapPOh_0ZG5XAXn9IZ2Q7fHAbIZMXQK7sFrfNOS8ob1Q8Lq8v0WOVoQe1N-nSGgdybKzmnB6s_",
+        "page": 13,
+        "chainStart": 16,
+        "chainEnd": 281,
+        "text": "psychoanalyse, surtout s'il est d'obédience lacanienne, serait tenté de m'objecteur que tout ce dont je pleure est bel et bon mais n'a rien à faire avec l'Inconscient, le véritable Inconscient psychoanalyse, celui-ci ne pouvant se concevoir hors des rets du langage"
+      },
+      {
+        "chunkKey": "h1.vrtg8BkZ7bYir0HEEZ2oWWk-b8KcJelHItSMlvocsZqL03kK3CLOyarCvWBFXb5JWsxkucO-SO1k8lqcOLLwKIF0BzjG3FFdgbnBfBl69xHhLR500EJAmf91lhEK5KX9uhewCmuNSynq_4dRfyA",
+        "page": 19,
+        "chainStart": 134,
+        "chainEnd": 173,
+        "text": "toute substance et à réduire à un chaos"
+      },
+      {
+        "chunkKey": "h1.Y9BMejiEGdniqn2eqAfSaiFefTqjz_zHHrrF93taf5fLNiDmWvcnhQCaVh2ocE9SLMUNWLSz0RdnzNqHoUKU6kdW_E2wLs_tKpTp_cXu3lJR80rBoiuPaPxIEkyXihdyHiFupgXVXjJQQV1ppow",
+        "page": 19,
+        "chainStart": 5,
+        "chainEnd": 76,
+        "text": "l'inconscient, le choix génératif sera de la constituer soit en Univers"
+      },
+      {
+        "chunkKey": "h1.GhGfBpguYOKrfBk2sVJ48Amz8h9GzvrQNdw-pxa0lWqSRHZFT6tSkQl1DClQcEvzAT5aJlxpHoeYySovTYr5WT560_A6RDTfPoWpx0LAonNFdwMcWGGiBCqV3XIE74dZE9v4NUT289ZS0rF0l13F",
+        "page": 130,
+        "chainStart": 24,
+        "chainEnd": 253,
+        "text": "ritournelles symptomatiques peuplant les automatisms psychologiques de Pierre Janet, les expériences delirantes primaires de Karl Jaspers ou l'inconscient fantasieat de Freud. Deux attitudes possibles : celles qui en font et état"
+      },
+      {
+        "chunkKey": "h1.GhGfBpguYOKrfBk2sVJ48Amz8h9GzvrQNdw-pxa0lWqSRHZFT6tSkQl1DClQcEvzAT5aJlxpHoeYySovTYr5WT560_A6RDTfPoWpx0LAonNFdwMcWGGiBCqV3XIE74dZE9v4NUT289ZS0rF0l13F",
+        "page": 130,
+        "chainStart": 931,
+        "chainEnd": 1048,
+        "text": "nouvelles facades de voir de voir les choses! Mais ce que la psychanalyse de au cours de son développement historique"
+      },
+      {
+        "chunkKey": "h1.BF4T5aflID1mLtRsELfmtngPfi5uc1Sb0E5h3ECKZU1ALF5ijIl4-Ez7gzjRJB8Kqz0BAfqomIry7e4YYekHizccuqkJsTfcA8h6heGbqazbrW4R5syBRy8yrnYDiz23ZbyXP72YISj3AkFkSTo",
+        "page": 34,
+        "chainStart": 1474,
+        "chainEnd": 1484,
+        "text": "sémisitent"
+      },
+      {
+        "chunkKey": "h1.jr3fRlc24vwHYHecHw40Wne_Fwdanu7ksZ-SYatlRDeZHKct_k_TRdIazntIKV6AxcKheZfGTcHQjKv461eaLtkzquTuESQE6NYnsD7EQSuPRyOhg9K19XEQvLU2o_stBZHcH15PPA0R5fWHa-I",
+        "page": 34,
+        "chainStart": 0,
+        "chainEnd": 78,
+        "text": "conception d'un Inconscient fondé sur une économie des quantités pulsionnelles"
+      },
+      {
+        "chunkKey": "h1.jr3fRlc24vwHYHecHw40Wne_Fwdanu7ksZ-SYatlRDeZHKct_k_TRdIazntIKV6AxcKheZfGTcHQjKv461eaLtkzquTuESQE6NYnsD7EQSuPRyOhg9K19XEQvLU2o_stBZHcH15PPA0R5fWHa-I",
+        "page": 34,
+        "chainStart": 567,
+        "chainEnd": 730,
+        "text": "leur substance. Notre psychosephique se sépare de celles auxquelles Freud se référait en ce qu'elle refuse de se donner un substrat matériel et énergétique univoye"
+      },
+      {
+        "chunkKey": "h1.o5LU2R7mEdy-Zdwxb23308ZTbn6FL0bY3W2JB3eKm1lnhjlkIkCBH2Hlcd48t3eo5Y78IShmNt2BQZv_OnB5f3psdpd53KqNx2l4yrsg2B-yOOW6_EmGd56jjuWgJtER0OUlp2cOOR4cQggM1rU",
+        "page": 97,
+        "chainStart": 937,
+        "chainEnd": 1015,
+        "text": "titre de mathéme d'un Inconscient structuralement homogène (construit un dau «"
+      },
+      {
+        "chunkKey": "h1._Ngh7XI3CJ6exAFx4QjYBjIbyyeXAqDiL2Q4V9nDcSBRYnoieDISDBYJJgGueG0_kfQ2VQSVC_eB7rWEDHzNNTDjSzcv_GCjRDoHubOu-56zToyqFxoJENWQN0sFpATSUixBviDrDg_cjZPkhrk",
+        "page": 30,
+        "chainStart": 46,
+        "chainEnd": 106,
+        "text": "les Flux de travail, et Freud la vie psychique avec les Flux"
+      },
+      {
+        "chunkKey": "h1.4PLjUnZG771kahsQYeH3EcS5aqdFJKAshpbgVeOE90sBMDQ20VWpD7yYwI1oT_4iJJCfy4DoJBfYmJXlRg67Ov4kHk2SmCysvDu_GXnG85col0MrwmoJciQSKe0MpnSUgDPPKXOpOOIOzpGlyXM",
+        "page": 20,
+        "chainStart": 6,
+        "chainEnd": 89,
+        "text": "ila de même la l'alterite; bien que Freud l'ait introduite comme exigence de vérité"
+      },
+      {
+        "chunkKey": "h1.cQA2AnHUJl7swMTsItqkmKIpGbbT86veebZ2gUVzXyLBvt66QqWHFnpHs-kTQFH6ArAqFD7GbBrDx7tFmTbIjAl3-BRgb1owB-wvtaJCupv2G_XjdQb2rasjKlfMASa_gVhfFHNV1Tg4PS-lVpU",
+        "page": 26,
+        "chainStart": 0,
+        "chainEnd": 64,
+        "text": "linguisse. Le processus primaire, l'identification, le transfert"
+      },
+      {
+        "chunkKey": "h1.cQA2AnHUJl7swMTsItqkmKIpGbbT86veebZ2gUVzXyLBvt66QqWHFnpHs-kTQFH6ArAqFD7GbBrDx7tFmTbIjAl3-BRgb1owB-wvtaJCupv2G_XjdQb2rasjKlfMASa_gVhfFHNV1Tg4PS-lVpU",
+        "page": 26,
+        "chainStart": 476,
+        "chainEnd": 576,
+        "text": "la première traductive dans les termes de la seconde - Freud a perdu la spécificité de sa découverte"
+      },
+      {
+        "chunkKey": "h1.CW6X6grNvhDkyODMeoSoOfDu58uNwF56nMUCaR0uixeuzffH4mBN5ZZAMIQLyyZPpZYsqYapzx165WYoYe8_9BxqGFBjHYHbGPXNykX62VGeX9VFGfbRbxQhkaWpTaj9dW9iJRonaGp2JSZGTIQ",
+        "page": 14,
+        "chainStart": 45,
+        "chainEnd": 171,
+        "text": "une pétération topique des instances psychiques, comme celle qui a conduit Freud à séparer en versants opposés : l'incognisant"
+      },
+      {
+        "chunkKey": "h1.em0D7i-CKorDflKcdGwIbC6i2uJM44DdQoNSHJzrELGTCOtSsjL01Y439g1N98SxbCFRUmSUPJtjV3Lw2cuLcNSEt6eEqnzIwIZwlxP3lKqMWoFIt8JNmlCeOGlB6cTUkiiFKJWiqu2-LYjy0kk",
+        "page": 33,
+        "chainStart": 942,
+        "chainEnd": 1094,
+        "text": "constance. Et de préciser que sa couleur sexuelle, si formellement maintenance par Freud comme inscribe au plus intime de sa nature, est couleur de vide"
+      },
+      {
+        "chunkKey": "h1.FXQxPf0e-qc9uvBjOgqlg_Mc49MxU73BINjQXY8BjVMNl-qvfJi9UkyYx67Ard1iBpXf9dD1SffhIDHM4_CcoxoJgEYN33QfWfzkrRm0uuai50A8TOmk2K0mO9GmhMKq-H8JNsOc0IWXmyk0wbU",
+        "page": 19,
+        "chainStart": 531,
+        "chainEnd": 621,
+        "text": "le rève; 2. une dame que Freud aurait pu soigner; 3. sa propre filaire ainée; 4. un enfant"
+      },
+      {
+        "chunkKey": "h1.i8aA9SjC6j5mV3JvEjeoVhDV5HH5NhjBII7uyXO-r0_lQ6FqbVnc-cF9MxqxKrhyK9Bk8ykvPiMA0U9VgBGwrBQgGgxQpzErkwmEe4ysOJvKdU_F9_MgBkaDlHytOawqPYf3gzP28Wt5XcW66O0",
+        "page": 18,
+        "chainStart": 0,
+        "chainEnd": 84,
+        "text": "Le premier souci de Freud a été de donner un fondement scientifique à la psychologie"
+      },
+      {
+        "chunkKey": "h1.i8aA9SjC6j5mV3JvEjeoVhDV5HH5NhjBII7uyXO-r0_lQ6FqbVnc-cF9MxqxKrhyK9Bk8ykvPiMA0U9VgBGwrBQgGgxQpzErkwmEe4ysOJvKdU_F9_MgBkaDlHytOawqPYf3gzP28Wt5XcW66O0",
+        "page": 18,
+        "chainStart": 342,
+        "chainEnd": 369,
+        "text": "ses coordonnées phénoménolé"
+      },
+      {
+        "chunkKey": "h1.J9jzre4qgpIj7VnA8MYkblwcuRGlD_zPHv--owj7Re7lva53zO5sP-DndTyV0lmNf4r_NczRTQfZ9-KSuAokB8Valt3DDO3eWhl0gp13P5N-FAgSzSCqYM11S90ZifX8om0KEMvxfBL01Q0jTSZS",
+        "page": 70,
+        "chainStart": 73,
+        "chainEnd": 256,
+        "text": "hyper-complexe laxtique, qui me parait nécessité si l'on veut rendre compte valablement de ce que Freud a décrit sous l'appellation de * processus primaire * ou des * moments fœsconds"
+      },
+      {
+        "chunkKey": "h1.jaIlyZkN1s7UhVTXQcO9MiKhlNtHd2CaO1lw2zr-aTwRKADrP0tvyiNZpHCJ1_e10X_eQvt2Os1hgb8NHurhq35bnwhKo1GfEsZWr7M8oTl1AsMsL4vTCXvBrvGzirVdCV_5h2kqDznsHX9_vlM",
+        "page": 19,
+        "chainStart": 198,
+        "chainEnd": 310,
+        "text": "la stratification des formations psychiques. Mais Freud n'est jamais parvieu en la articulier de façon cohérente"
+      },
+      {
+        "chunkKey": "h1.kc05ZWypEvoZZfAjyJiOFoOW1vdD_8rnvBlznheLvEsxiI73aFeYh9APmNDLZ0VFRed-DIiPZmwH59KaTGTBsmVHMyqTSL1zj2Y6DKar-Lc8896oeJ8pKTvqoI8BOwmb0R-YKa2c5B6plRxS81XH",
+        "page": 117,
+        "chainStart": 208,
+        "chainEnd": 400,
+        "text": "ces derniers temps la correspondance Freud-Fliess et que je me suis interrogé sur cette cure relation homosexuale déguisse à partir de laquelle Freud a agencé l'énonciation de son auto-analyse"
+      },
+      {
+        "chunkKey": "h1.kiWs4ugjwr7d-5SYfO1zTCfQJ711IrYHaiB0bJdFAvDFRuLVbh1hqmcM8WxrMva1ZWNZM4Rn8WxHowgCQfepYDNuIS0fEE81nmf3lE3DOOt5MT9KvOrvRiH_mBr_eM3zCIrUHdkRmjDkvGdpiNk",
+        "page": 32,
+        "chainStart": 5,
+        "chainEnd": 101,
+        "text": "doute, le carcan scientiste, dont Freud ne s'est jamais départi, eit-il pour principale fonction"
+      },
+      {
+        "chunkKey": "h1.kJwjEQWXCt9vwTKaF7ebO4qd9waPOL0Rx_wI54YDGfjm4Iu1Ed9zyw99aSiBMBgbKwWJsbekBy8BrtLaK9RCGemmAQfG3fAjLhdGumJ9jK-Q1_mRXArcBSxUc1LM-s3nAp-q46hQ2L-kPUbCOWg",
+        "page": 18,
+        "chainStart": 19,
+        "chainEnd": 83,
+        "text": "etient de Freud, entre un scientisme impenent et une inventivité"
+      },
+      {
+        "chunkKey": "h1.Kt9S9AgWZ_fg6DEwOp1PFLgDGk-pI4JfPY41eoMYVqVqNwPQ9vbr4POtvp3knCSGQFKVSL-zMAdArnWSCg74-PWTAQLddSNYW58p-e5de8JfzmK_biRhgPkXtEKoqmHvFqTwklzQx2tA6ZSzr0Q",
+        "page": 97,
+        "chainStart": 800,
+        "chainEnd": 901,
+        "text": "les mots d'esprit, etc., auxquels Freud et ses successures ont fait subir le traitement réductioniste"
+      },
+      {
+        "chunkKey": "h1.pbsmtcp0z1jAzLITBzcta_IgTgXzxlfqJB-0KmO109e8oyj2zb_ShPSdzwETcpItnFmkKX3Ot79zg-rSUhq1qr3Zt47y9f-1DyXLTVFdKTBgnRCGzhGOWqWHoNnlJ-KLW4AKSfyN15bLKxXRA6c",
+        "page": 30,
+        "chainStart": 270,
+        "chainEnd": 368,
+        "text": "génie, pour ne pas dire le cou de folie, qui conduisit Freud à inventer une énergétique sémiotique"
+      },
+      {
+        "chunkKey": "h1.t_Yx73zXCnbPC4m0llTz_NEuJ-gDaAafEsRHS5b_ZXdZ9C7trsWDd9sJf4vLR8uzrfxG2FICw2PL081pjtwjM4VqIkwkrFGBT531uKRMe0wJ3pTnorX77zQA37ilR3WkHAu5dE_Y_Z8ANxWXHCiv",
+        "page": 123,
+        "chainStart": 807,
+        "chainEnd": 882,
+        "text": "fondée sur des systèmes d'oppositions distinctes se déclinant des séquences"
+      },
+      {
+        "chunkKey": "h1.t_Yx73zXCnbPC4m0llTz_NEuJ-gDaAafEsRHS5b_ZXdZ9C7trsWDd9sJf4vLR8uzrfxG2FICw2PL081pjtwjM4VqIkwkrFGBT531uKRMe0wJ3pTnorX77zQA37ilR3WkHAu5dE_Y_Z8ANxWXHCiv",
+        "page": 123,
+        "chainStart": 1428,
+        "chainEnd": 1495,
+        "text": "promet. C'est ce qui est arrêté à Freud quand la voulaire la affect"
+      },
+      {
+        "chunkKey": "h1.t1yqclA0H8ISNsXWK1ZDc6yG8g2Prk7mOc1oiYb8T4oJDS2A-pj-AmQd1WBQArBUMfL-hpx5bKmHfLJT-ACk6_fa7XcrYEpeXdVeLeQ3PDbwAEukjToJKX0g8l2IbROeSaIote3J0aj6T_WDT9I",
+        "page": 22,
+        "chainStart": 3,
+        "chainEnd": 110,
+        "text": "une partie de la psychanalyse a fonctionne. Par exemple, lorsque Freud s'est réfère à un Principe de Carnot"
+      },
+      {
+        "chunkKey": "h1.L79hZ9UxYlgDNYoLy6hxyfdMPAqUJ5osiYsFCu6LVSqVT9p8AlccII4fVnobOKLRK5dxrodSaXRDq81XBK4l9to1zWmwOCCIltC3kACrCiCFQnFxZs9ZV7DfGRXnS_DgmokymoCNG-iRLBVcddc",
+        "page": 19,
+        "chainStart": 519,
+        "chainEnd": 554,
+        "text": "une connaissance ordinaire du temps"
+      },
+      {
+        "chunkKey": "h1.tQus44JneMQD_YQHBoHpgeFk-07YB5SrI4vhHOitpRoBoS0iQW_VnhJFdPF5bkhdWI7RcLV3kA5KA5e2kinIRadreGXCmSC4nqdOkFaSxnKR2GR57vJm7nx-Quk8X67z6QYqrAe6sFAKJLGDBmo",
+        "page": 19,
+        "chainStart": 0,
+        "chainEnd": 63,
+        "text": "Freud a très tôt abandonné le premier terrain à des théoriciens"
+      },
+      {
+        "chunkKey": "h1.wDS5pRMFkDdvPVDOVBASzvMI8MnnD1alhf56Yz-4m9zY8YeZITGIapmGTApalUsS2gNZVhKsBuMeBbFP-NEVtCumFbZGgiRWKBx3vy0uFyJPHRpx-0Nar31-xz6zOVSHCGHzUIOf8LRqGQs9G9s",
+        "page": 29,
+        "chainStart": 154,
+        "chainEnd": 354,
+        "text": "spirale qu'il appartient aux mythes vehicules par la narrativité des médias comme aux références pseudo-scientifiques des opérateurs *psy* » d'exprimer. Freud a découvert qu'une subjectivité infantile"
+      },
+      {
+        "chunkKey": "h1.XtBRakRlcrRBCMjZvTm5YlUmmOBI8TFUzCJUPyOp9pg4JHr-EIk_H1ObKTGwbs4WsJJJOVp4ChlBpO3gr8dlv-KGPuOs1dW1BnuvyXnw5D2E8RUCHcYZpsEvlFeOvQbfvnin90GAsiqbJdneOUU",
+        "page": 32,
+        "chainStart": 190,
+        "chainEnd": 299,
+        "text": "retour des distorsions qui lui fait suib le *processus primaire* (dépalcement, condensation, surdetermination"
+      },
+      {
+        "chunkKey": "h1.XtBRakRlcrRBCMjZvTm5YlUmmOBI8TFUzCJUPyOp9pg4JHr-EIk_H1ObKTGwbs4WsJJJOVp4ChlBpO3gr8dlv-KGPuOs1dW1BnuvyXnw5D2E8RUCHcYZpsEvlFeOvQbfvnin90GAsiqbJdneOUU",
+        "page": 32,
+        "chainStart": 797,
+        "chainEnd": 941,
+        "text": "sein duquel il est appelé à évoluer. Mais l'essentiel, pour Freud, n'était pas la. Ce qui lui importait, c'était d'aménager des voies de passage"
+      },
+      {
+        "chunkKey": "h1.XutO0iIVgKMWafIldHqrwjWT2Xeuya1iyOkqolzBdEVkQQW1W1FIgyKJUJrPedgH46hOKFD6RW0ILLl-OZDjGuQKz2Awh1hMv9mLuzwfNsPc6UdH3F3JoS2LnIKNFEiXlgjI0DufJMTPkcx8CDy1",
+        "page": 122,
+        "chainStart": 110,
+        "chainEnd": 169,
+        "text": "réelle, » relevait Freud, dans L'interpretation des rêves¹."
+      },
+      {
+        "chunkKey": "h1.ymNV51MhNf2RCFKN9I9J-yoCLTpWheJGBzoqjvfpeRkUKbmrgn_yf0JU4DAhjnGzgHoOzlVzbUm8PkxMwxJq94jBtF_EXd2KktybtSfb57374-jBGt7G79erBemj5GQvUf2wwbqYI5SXPkHdUd4",
+        "page": 21,
+        "chainStart": 326,
+        "chainEnd": 483,
+        "text": "cette « esbrouche » scientifique nous est fourni par la psychanalyse. Au départ conçut par Freud, dans une perspective proche, justement, de celle de Fechner"
+      },
+      {
+        "chunkKey": "h1.ymNV51MhNf2RCFKN9I9J-yoCLTpWheJGBzoqjvfpeRkUKbmrgn_yf0JU4DAhjnGzgHoOzlVzbUm8PkxMwxJq94jBtF_EXd2KktybtSfb57374-jBGt7G79erBemj5GQvUf2wwbqYI5SXPkHdUd4",
+        "page": 21,
+        "chainStart": 1062,
+        "chainEnd": 1131,
+        "text": "avions reinieurs, car, en effet, la psychanalyse enage des phénomènes"
+      },
+      {
+        "chunkKey": "h1.yyK0MYXT4LKWeMdYRbWW5PL1aCFOFA9Bo7uBYMThmZiik3-DH04I0lL58AN4JzVH_wZWh8YeCmB1jhMiVyeyjHO7_rk5aj6qpK_uMqgIXIGGZVC9EoGhaPLdGbT2eyvGphB8eJz7MNAvjUW8EEE",
+        "page": 17,
+        "chainStart": 153,
+        "chainEnd": 202,
+        "text": "réalémé de l'oure de Freud comme d'un text révélé"
+      },
+      {
+        "chunkKey": "h1.2yip91nM0zQ3MFuZ4UKOCunzYlnlWbb8BMcLK9H9B0r3vY70cLUCN9DO04QQg1OyQgAXdgP40WdJtZPgcJ6qFVcIJAE_d8iTeKQkzFf7-w_jwYKQO7h9LKO_6ldLVWzxfVFvRnu01UObomdr7qw",
+        "page": 18,
+        "chainStart": 0,
+        "chainEnd": 6,
+        "text": "Figure"
+      },
+      {
+        "chunkKey": "h1.zf-TBT8D7UpcNMfNhFK9VcOGFbFS6izSpzLds8zFPYhJEQcKHMnvQqLR96UNs6rI9ARqoKa98CrVuTYErF3pQOXI4jOYPoHudZ45vhan0tTxq_aW6ZannHWpVp5D20F4OETAA2Fpbh2M2LFk84UJ",
+        "page": 137,
+        "chainStart": 504,
+        "chainEnd": 626,
+        "text": "de bataille gagnée grâce à Dieu. (P. 31.) On n'est pas très loin de Freud, mais de celui des bonnes années, des des années"
+      },
+      {
+        "chunkKey": "h1.zxxlWGslcashEWbMebVE1Yahl6MgDMNdrVufkWQDvxJKtf9yOnsF3ixAxis6lF7R9mhLSI1VMpJcVF6WyIsW91gdNdS-XUkJ5m_6qVrjdhQUxMij-zAFEzL5kEk4W0FbvzPplJ_byLHuLuNJIr_G",
+        "page": 27,
+        "chainStart": 0,
+        "chainEnd": 100,
+        "text": "La psychanalyse n'est pas une science: elle n'est pas un art elle n'est pas pour autant une religion"
+      },
+      {
+        "chunkKey": "h1.zxxlWGslcashEWbMebVE1Yahl6MgDMNdrVufkWQDvxJKtf9yOnsF3ixAxis6lF7R9mhLSI1VMpJcVF6WyIsW91gdNdS-XUkJ5m_6qVrjdhQUxMij-zAFEzL5kEk4W0FbvzPplJ_byLHuLuNJIr_G",
+        "page": 27,
+        "chainStart": 128,
+        "chainEnd": 215,
+        "text": "puissants phénomènes de croyance, bien que Freud soit vénéré comme un Père de l'Eglisse"
+      },
+      {
+        "chunkKey": "h1.bxoSDpJaaAk-6erhbnzqwxonIsTLcYjjYBxua0mpVyy6WnFYE6BbvXfTKiCQYIlPc3xeGkqG-fccwe2ruOKfSTQjqsFbfzLHn8nS8sjld1PdSvWnGAyMQnXMxJjiwy-8AL1QYFje9wNDvZmmMeE",
+        "page": 26,
+        "chainStart": 750,
+        "chainEnd": 757,
+        "text": "devrait"
+      },
+      {
+        "chunkKey": "h1.usd2WKokqVd3YN6dzD7_Bm4Rb-bYHzaGBH_UOUCzvOu76hTfIJSDxLw1wK9ZQ_usXpaIxfCbaeQubE-jLyi3NPfZeDxI0jEdvLtqbb02R2QqGzpbDi2WGrYNHfxcCIJcOJLpUDKBLLGNvVLD6r8v",
+        "page": 113,
+        "chainStart": 18,
+        "chainEnd": 89,
+        "text": "la condensation, la surdétermination dans le processus primaire du rêve"
+      },
+      {
+        "chunkKey": "h1.w9WXbhU9xlS-EhZ2D3vsoKqoVkNGqUgccXnl5bwsQG2Hc1PgX932CAOGKuZ0vX-DpiCiBTs1wHMhyMerbRwmo6qNGKRbCBlF8V6eLncZy19_qv41y7DykHKuipGUnwgsefBrrsRwhGnjecUaIZM_",
+        "page": 113,
+        "chainStart": 0,
+        "chainEnd": 18,
+        "text": "La déterminabilité"
+      },
+      {
+        "chunkKey": "h1.pJ4W7Od8xK6bxb9VPxvymoOdIiPoX8KbHut4kHTBLhbr2PH6nZGQIPyBo5d3euNsO0rLklpuJdBQpkM85cXqGGFue5VveO-uommM8KicxP40WThVZ0IjhNPKtb18Dbfmjk1S2S9fLjVXm3FpSg",
+        "page": 6,
+        "chainStart": 13,
+        "chainEnd": 140,
+        "text": "à cause, des colossales pressions - de refoulement territorial mais aussi d'acculturations enrichissantes - exercées, d'un côté"
+      },
+      {
+        "chunkKey": "h1.ybdajRygnXdteYnivYGsoJwNJAESJC1Za10Kz-Z4Ps5MLQlQ4AfolpAVcIwNWSiHwPSCJuGnOvIXyusB0lBRQdyd4gpNhACPzZcK1-bh6ZxnzVAYs97Lcph83GwdJ8nKgkvFuWi3U9vLyOpYr-c",
+        "page": 32,
+        "chainStart": 73,
+        "chainEnd": 170,
+        "text": "l'incognisant à partir d'une dynamique du refoulement des representations liées à un curieux type"
+      },
+      {
+        "chunkKey": "h1.ZRPhBBd7iGLsJdeJbguU7ocrQvxeZIfScpqTz92RPs-rWY6G6tRC2Yq7TAszCSuf2OeWjPiwj9t7NFAVqVd67N5exowy7ioxtdZNinGPuY4Bk5GtsZXxuWt_DCsFsp5QbJ8KZ851D4bF2dm5c38",
+        "page": 14,
+        "chainStart": 39,
+        "chainEnd": 147,
+        "text": "cartographier des compositions d'Inconciens, des contiques contingentes, évolut avec les formations sociales"
+      },
+      {
+        "chunkKey": "h1.ZRPhBBd7iGLsJdeJbguU7ocrQvxeZIfScpqTz92RPs-rWY6G6tRC2Yq7TAszCSuf2OeWjPiwj9t7NFAVqVd67N5exowy7ioxtdZNinGPuY4Bk5GtsZXxuWt_DCsFsp5QbJ8KZ851D4bF2dm5c38",
+        "page": 14,
+        "chainStart": 235,
+        "chainEnd": 328,
+        "text": "quelques cas de figure d'inconciens - par exemple, à partir de formules d'organisation moique"
+      },
+      {
+        "chunkKey": "h1.vCm5iZ9zxdMfbSIqa7L_EWLICa8VBv64QMng80XmV6NQ9AR20kHf8x85hs6ldcJ7FrIcYw1p7Qn6hNatCmWjK-A6syrLJpUP5-Q6WzaL68MKcN_cSOYgVQqDa0cGxGrCacCC9i1rBX_MsVIPO2IC",
+        "page": 149,
+        "chainStart": 1104,
+        "chainEnd": 1206,
+        "text": "bétail la également et la justice – deux solutions diametralement différentes du problème metaphysique"
+      },
+      {
+        "chunkKey": "h1.xfAYODLBde_VaDfEWeE00q_CiRcg9ssJkaOeF-qA8ogDPIFCI9SzkWiQ6PurABzr9yWQcQNftM4dIqsVtNZDxLSshzAvfdeFmeZ4REq93u4VPE-prtbNeTGSB_iXXejPlN_XS58Vsp5t3TazAin4",
+        "page": 149,
+        "chainStart": 10,
+        "chainEnd": 56,
+        "text": "ininterrompou, est assimilé à une conversation"
+      },
+      {
+        "chunkKey": "h1.nbnziDY8AhIrf06TE3LpT4_4pXlLUTMLkccMMI5Te7_U9pD7LjrdjyET61PyONYdMrN5VwJgI2xZq8JN0163CDASXEWNKQ1jTA-yf2RnKewLwnGlhBjlEfLc6i9xHePsrcDzH9kSfk7c3Lx1pWQ",
+        "page": 62,
+        "chainStart": 680,
+        "chainEnd": 778,
+        "text": "Le jeu molaire des grosses différences stratifiées se trouve à présent subjugue (dans sons propire"
+      },
+      {
+        "chunkKey": "h1.W6cdAesjgD3LUeqF8y5s1wiN8V4sRsljs1hYpw6O0aVfeHb8mIXIyDdX5yz5X7_KAIV6No2FRHd9TlMUe6_VU9qhiYImGRPsNCf4tmPxfu9wuPDbi8si0fv26L5sb7tMkzwMJonRQDbZJVUT5JM",
+        "page": 11,
+        "chainStart": 59,
+        "chainEnd": 206,
+        "text": "énonciation*? Pour éviter de s'embourrier, au bout que faire se peut, dans le concept d*Inconscient*. Pour ne pas réduire les faits de subjectivité"
+      },
+      {
+        "chunkKey": "h1.isT90cCy5FCwAUeYjPF3MHNMm5_ccKIfAVhF831A0MQCSqSSs_9F8gLnz-CXKcseo_aqarOB25WiF1SC9zgZSKpMhy4Il1bPcmv5eKB6FlcVqgu-VybhgsEBWGkykIeVwZjIAVfxst2fXMT5x-w",
+        "page": 38,
+        "chainStart": 10,
+        "chainEnd": 74,
+        "text": "Relations de présupposition entre les trois niveaux inconscients"
+      },
+      {
+        "chunkKey": "h1.J8Jnu2WSDGMBj2NJ46DUxiWAxVJMq7aFdZFUiLj_CEPQRnbtigVN08QyP3MwJSklFwyEWgRNcCHSG_Tc48-fOorrCm1sFtMpW6ZucPRSJ8If6ucjQ9Xf7pDmIF9NiaLPgc7fggGJ1mGN-kbmQU0",
+        "page": 38,
+        "chainStart": 8,
+        "chainEnd": 49,
+        "text": "la discursiveit : un argument ontologique"
+      },
+      {
+        "chunkKey": "h1.1zoEoKycKfBCbrVjIntdocO3pnw_WSnasn-s8PsCbK69hQs_ec8E6Ws-EgulKVLnF-2wxZPU4f1NNUtM51ANOEbkzRrT9e8urCf--lr9DCmIrKD-yJZpvlSNn3pRrDNZ_Npm4DM2nqI2mhCEjqmf",
+        "page": 142,
+        "chainStart": 353,
+        "chainEnd": 449,
+        "text": "os de leur squelette. Il existe neennants une différence notable entre les hommes, les crustacés"
+      },
+      {
+        "chunkKey": "h1.lM0EHBF-bQ2iP9PRx2BWXXQSI-P_L1cHLJUzkTovmz0n4RrNeaX5JbZoCYPWpLgq_lhibYh1FRcLU2UmKly9eCf8k8vJn1Z5AytOUaWjfjDXuKCeXa-7IJfNIsQvlGJ1e-12ATVa9_hTpprDElI",
+        "page": 26,
+        "chainStart": 531,
+        "chainEnd": 654,
+        "text": "symbiose. A cet égard, il convientrait peut-être d'étabir une distinction entre ladite matière signalétique et les machines"
+      },
+      {
+        "chunkKey": "h1._iV1KD8MgklC1YhnKvAR3trp9inUCASxvTV0_7d6p4I_8JLbi4CebchmHMHMcnSskDxBnAy6XEkjlnJn_8EazyEUTrboJYIs7fgqw_OMdh1hcaUKJTkuh7WEt3o_fncGVUq2qVGPXMNe8z-6Su0",
+        "page": 86,
+        "chainStart": 509,
+        "chainEnd": 679,
+        "text": "représentation d'un non-representable bien différent du Vorstellungserpensantz de la pulSION freudienne! Par elle, un Corps-existent-sans-organne, sans parties distinctes"
+      },
+      {
+        "chunkKey": "h1.ef_oFzmwwgeGvW4GO-a9KmzNWGZY8o1bHq6iQ9o9aGKufpSutOmXuCSfEkUgp6Otn4M97Gk1A-rxshbcR9BkPOeSuPQrfhMG9YofUDqLcMFqxUh_xn19wZdW6T9dGDe5WQpS7RWAqeAB1qw-Phw",
+        "page": 99,
+        "chainStart": 630,
+        "chainEnd": 743,
+        "text": "partiel des objets de la pulSION freudienne, consequence matérielle d'une castration symbique toujours à l'Auffit"
+      },
+      {
+        "chunkKey": "h1.Mz_YuES3_YyqqfeEcwMF4lcdUsQ0yK19NsbFzEEOgE03BbmbkSOsrlafbg3hXku-IXuPUhR5z42I6y-S3bTd4dJnArVxPQqeWOLXTNt3ghYownRtC9qfbsiomd_FgrnojuwDYx4dsnTkWSHiWdNH",
+        "page": 151,
+        "chainStart": 144,
+        "chainEnd": 240,
+        "text": "Signalons que cette empire immédiate d'oppositions distinctes de couleurs sur la trame narrative"
+      },
+      {
+        "chunkKey": "h1.ITXdBxYFLEywVFd5EkNlI93QjBdgs5tvnR7t4sfJYxqTtoaeAIfndUAmIVngTUHN_5O3gU6zE8MLwwzaAAck3kQdn2JyzUH1TCTiEULcFrjum1_Paxu9UTGc6xOAVkBuCtvIe0XSCt79CNjimx98",
+        "page": 127,
+        "chainStart": 178,
+        "chainEnd": 182,
+        "text": "père"
+      },
+      {
+        "chunkKey": "h1.kFN1fgNQd-30GSD17-A-2Z7RK0pqdA9XykRVHpSo04AeT13Kq4w98xpmZmcm-k5q87JsLh33r6SsNylr4qXC_qZqfM7VQvuMxSXIfmjmERumhWNUDgAeqsSoVQHUovVJRiygYZjK-yDtKn-nkQ-p",
+        "page": 127,
+        "chainStart": 0,
+        "chainEnd": 122,
+        "text": "Les sciences humaines, en particulier la psychanalyse, nous ont trop longtemps accoumettu à penser à l'expérence en termes"
+      },
+      {
+        "chunkKey": "h1.P84ABCn3NGL2gt2L6I_txUCsSiOqaLwoWEqH3f6zgTkiY5sDQ_ZNvLPKgxJG7glfI2QXTXFUZHq1TbgaM94VqdpXzgjS3rpQADnEowuVCl6XRh4ngZUHn7z7rI6xP1vvqjO4uAczGm9QPlUnziJm",
+        "page": 132,
+        "chainStart": 123,
+        "chainEnd": 304,
+        "text": "ibid. p. 470). Pour s'être sensiblemement démarquée des concepions freudiennes, on voit que la psychanalyse existientielle de Sartre n'en a pas moins conservé un certain schématisme"
+      },
+      {
+        "chunkKey": "h1.P84ABCn3NGL2gt2L6I_txUCsSiOqaLwoWEqH3f6zgTkiY5sDQ_ZNvLPKgxJG7glfI2QXTXFUZHq1TbgaM94VqdpXzgjS3rpQADnEowuVCl6XRh4ngZUHn7z7rI6xP1vvqjO4uAczGm9QPlUnziJm",
+        "page": 132,
+        "chainStart": 766,
+        "chainEnd": 857,
+        "text": "Sartre, une cure de psychanalyse (ibid. p. 602), on nous annonce triomphalement la guérison"
+      },
+      {
+        "chunkKey": "h1.r72kf9hj0gV9wjSBlfZetl83LESbjvkZwc0PGAov09GyeseJtWSo8S7vm0ecAlGZkYrzlldqRbhHygAe1nwDjgMnZbtjOUh7m1DNplMrIWOYPzVb4uV2zqFp_Qibn5ndqPmJMek0NQXGTRDbhP8",
+        "page": 28,
+        "chainStart": 0,
+        "chainEnd": 44,
+        "text": "La psychanalyse et les religions monothistes"
+      },
+      {
+        "chunkKey": "h1.r72kf9hj0gV9wjSBlfZetl83LESbjvkZwc0PGAov09GyeseJtWSo8S7vm0ecAlGZkYrzlldqRbhHygAe1nwDjgMnZbtjOUh7m1DNplMrIWOYPzVb4uV2zqFp_Qibn5ndqPmJMek0NQXGTRDbhP8",
+        "page": 28,
+        "chainStart": 653,
+        "chainEnd": 740,
+        "text": "d'énoncés standardisés, la psychanalyse laisse libre cours, moins dans un premier temps"
+      },
+      {
+        "chunkKey": "h1.r72kf9hj0gV9wjSBlfZetl83LESbjvkZwc0PGAov09GyeseJtWSo8S7vm0ecAlGZkYrzlldqRbhHygAe1nwDjgMnZbtjOUh7m1DNplMrIWOYPzVb4uV2zqFp_Qibn5ndqPmJMek0NQXGTRDbhP8",
+        "page": 28,
+        "chainStart": 910,
+        "chainEnd": 1004,
+        "text": "tyrannique. Le caractère original et insidieu de la psychanalyse est une sortie de stétoriques"
+      },
+      {
+        "chunkKey": "h1.r72kf9hj0gV9wjSBlfZetl83LESbjvkZwc0PGAov09GyeseJtWSo8S7vm0ecAlGZkYrzlldqRbhHygAe1nwDjgMnZbtjOUh7m1DNplMrIWOYPzVb4uV2zqFp_Qibn5ndqPmJMek0NQXGTRDbhP8",
+        "page": 28,
+        "chainStart": 1296,
+        "chainEnd": 1368,
+        "text": "corseatage à ciel ouvert - si j'ose dire - la psychanalyse lâche du lest"
+      },
+      {
+        "chunkKey": "h1._tDUmd444hUf6OaHJzy7G-v8rYB7zHMf2oR4yLLg_NV3fvGaBFWX0mVu24bTg2lPvJLktTxCvHJF10pM2JYSqN0KJzn8mtEVaLBGF6dIiOdq0cU0Jr2Hocx6BSkf8UhcuaEzVpLXWcKH8c3koqc",
+        "page": 29,
+        "chainStart": 283,
+        "chainEnd": 383,
+        "text": "purificatrices.) et les modèles structuraux de la psychanalyse. Le trait commun, le je répète, n'est"
+      },
+      {
+        "chunkKey": "h1._tDUmd444hUf6OaHJzy7G-v8rYB7zHMf2oR4yLLg_NV3fvGaBFWX0mVu24bTg2lPvJLktTxCvHJF10pM2JYSqN0KJzn8mtEVaLBGF6dIiOdq0cU0Jr2Hocx6BSkf8UhcuaEzVpLXWcKH8c3koqc",
+        "page": 29,
+        "chainStart": 914,
+        "chainEnd": 920,
+        "text": "médias"
+      },
+      {
+        "chunkKey": "h1.7EsBpvRIajiQKq7ofHhoAtAEic-5Eh1q_m9rSL18HoaMAYtNtNREpFbKyJWFODDKB-9HB9lFnZ2hZGF-iU57riX5s4AET0D-gG5d7ygBSR5RegXUt8JsW-rpizGqzWXPL1Ga8K-h4ZhCvvf5wqg",
+        "page": 12,
+        "chainStart": 23,
+        "chainEnd": 73,
+        "text": "exemple, lorsque Freud « invente » la psychanalyse"
+      },
+      {
+        "chunkKey": "h1.9_EYi0DS1vAeWDPCQbTJzuMt7X20GUewneK8k6l-PaaOY3oiKnFBcWQfnzUjVIBe3ij1KPpPzbMKFN2qAJFwmEHwHUZlTR6hFo0TxbrdqJq1S1HO4EeEtRMBci7CRN8ktihy3EP3rjVL3Ee2wb0",
+        "page": 12,
+        "chainStart": 29,
+        "chainEnd": 64,
+        "text": "plus diffus, tels que des mutations"
+      },
+      {
+        "chunkKey": "h1.8kmfDmRle-3zP5MuQ0YID9V_8W3Ff5DUwtQUxAYKUH50rxrSY3SbBzYC_4Zxs8ZYxC6avRXV2bvjMqA0-iWRuU5EwvnzcuFn3v4dlEQRHoITFip9msv7tVJjF246z2lhpWAnJuqwt17QrhKgVu0",
+        "page": 29,
+        "chainStart": 6,
+        "chainEnd": 81,
+        "text": "à nouvel ordre, à la psychanalyse avec sa pratique de réduction signifiante"
+      },
+      {
+        "chunkKey": "h1.AyMz7WGtxP0PLFwypV7_9Sk_nv0f7XnJQytf_L4wZNyUUmnwuelGmdTZ_idp1k2aA70vGzrYTjQRPfVx2eGYNDpyfGqnObo76rnVloASo2jY7U_quSycU9jzKFzANLwccpSMwlDUbQ-AjCcxXnU",
+        "page": 10,
+        "chainStart": 28,
+        "chainEnd": 283,
+        "text": "années, je me suis efforcé de dégager ce qui peut encore tenir debout dans les décombres de la psychanalyse, ce qui merite d'être repensé à partir d'autres échafaudages théoriques – si possible moins réductionnistes que ceux des freudiens et des lacaniens"
+      },
+      {
+        "chunkKey": "h1.DZg0TC-LzN14DKky1oxQmDM5R5boVV7paI0Yo8YMG0RwDciEbVToReIudeG4d1u7kDuWUfGpxhLU0XZLZtEkm4uQBa0Jfh7_nzZ7z5Xb1M91jKO950LhSfu9VZOur-UjLnczFHX9hcegXRzCPSg",
+        "page": 10,
+        "chainStart": 0,
+        "chainEnd": 13,
+        "text": "Les ambitions"
+      },
+      {
+        "chunkKey": "h1.1jGeVQE3jXzSXtrZbvbo1jPEPZD9awEeZHPyTmPQnHd8R_5AXpYs6TUo3dspyYGkEkmIRGvHuWCBmo2K4j9CiPCrNqqD9sYTo7YbF3wQRnyn505b1Fcv-EW1u2YkAf7RxAfwlQsxT_ESaNMfGHM",
+        "page": 28,
+        "chainStart": 1546,
+        "chainEnd": 1554,
+        "text": "sociétés"
+      },
+      {
+        "chunkKey": "h1.EJNZLZ4AXZWc8oGXi0-kIyLSJUOqXvC7hpKdzGNHemTZ5T0IQRD6Li_MBSCpvZKiRgrkdh0mZ1F2tba8OnU5xb0sjkn9YKEx4Opj2MHQjGZ4orwNBXDT7ZzBliqXZG7kwR8GsXBSCOGVyrBTqZ0",
+        "page": 28,
+        "chainStart": 0,
+        "chainEnd": 72,
+        "text": "intervention, tous commentaires par la psychanalyse au sein des sociétés"
+      },
+      {
+        "chunkKey": "h1.EJNZLZ4AXZWc8oGXi0-kIyLSJUOqXvC7hpKdzGNHemTZ5T0IQRD6Li_MBSCpvZKiRgrkdh0mZ1F2tba8OnU5xb0sjkn9YKEx4Opj2MHQjGZ4orwNBXDT7ZzBliqXZG7kwR8GsXBSCOGVyrBTqZ0",
+        "page": 28,
+        "chainStart": 930,
+        "chainEnd": 958,
+        "text": "Qu'est-ce à dire? L'histoire"
+      },
+      {
+        "chunkKey": "h1.lDCSMtvu1y1o3cNEebGMVw7Vf_LmhgPLJ0XS-18slDKKBrTSK6U1864SYoEAjyymEnwV5yidDguWy8m-ZL_H5bdz-WlCe3aSpZYTEW3pkcrEwUKSCKcwCxZ9Ur1ywZlOfQsxncdjcLD-MN8_PAE",
+        "page": 29,
+        "chainStart": 431,
+        "chainEnd": 651,
+        "text": "santé, dans l'université, les médias... la psychanalyse est parvenue à requalifier la mission釉otale de ses chapelles instituées qui se trouvent progressivement déchargées de leurs anciennes responsabilités thérapeutiques"
+      },
+      {
+        "chunkKey": "h1.S3tEeRG6zUYLBvI-dy0aGZR3D7JfKO1w9WkyRYzse_9CzC6KLYhyKiKuOnDA4IEqBXAcbypt9iuMY__bV2MOLSMB2by9DyRXAQcmCtu-laEBCW0Y7rGUuGEeG7Vnu-9cR5-TPjLnKQ-CFuREjn0M",
+        "page": 152,
+        "chainStart": 117,
+        "chainEnd": 231,
+        "text": "implication que contre les mytes préfabriqués de la psychanalyse ou les entreprises de réadaptation psychologiques"
+      },
+      {
+        "chunkKey": "h1.rZh3lnyYMxJ5s9XGrNJoCoV7eRgLexoMnAeq_I9jWQ7SV4A2wNTYj_ZUmL-16_E6397dX-uPUtSLCSt18ZjKiksEqp7ILwOKKqBRauoXMkIDfp6L5QBhUfcZUnvh_ITr9e34-bLgUo_5ISpnJSE",
+        "page": 22,
+        "chainStart": 1318,
+        "chainEnd": 1349,
+        "text": "leurs manifestations ordinaires"
+      },
+      {
+        "chunkKey": "h1.vJbJvMae4HirUUie_ByevTw52xEPV-SmW8WZUAf2snLYCtX5w38oPLnDYXo49bBaAwwZ1DbVMoJmeGYHaPCLqL842Y4v0nVetFgKi-TEgKHGyKtVwqi1ttimurOkdKp0QdEYzh-9XoUBOR8AL1M",
+        "page": 23,
+        "chainStart": 1699,
+        "chainEnd": 1803,
+        "text": "la promotion de ces *analyses* débordé largement la psychanalyse et l'art puisqu'il concerne la capacité"
+      },
+      {
+        "chunkKey": "h1.Wi70S1kUnzYfvRifijZOabf3Tde6fCoAR4IvfK-UyYtd5ChQ6TWER8yWU06gA1Z43Xio5YCYlkwAKYpxqFfrBcJ-PTG4QpRrlgUHdaGRaJS0Jy2IQs9EwiFnQ_7bNHrwBLENpm_NexNPvNA3T58",
+        "page": 28,
+        "chainStart": 360,
+        "chainEnd": 482,
+        "text": "également d'relevée : 1) la psychanalyse require une participation plus active de ses usagers à ses rituels; 2) ses mythes"
+      },
+      {
+        "chunkKey": "h1.yuU5J00gJ9uVmndipK_ozgJrD2wrmr_QQMQmwgUBIK7Xw4on9asSOn-oAiK21cc4VXsmE79h6_DOYBw6hoH265WPZJjHyfSX-qpNO4naIsyhVwij8AEX3ICfsHLk4kjOtzs3JU8Qajs91DuCmdA",
+        "page": 89,
+        "chainStart": 348,
+        "chainEnd": 448,
+        "text": "*horse sauvage* de la psychanalyse. C'est aussi l'héritage principal que nous ont légué les addisats"
+      },
+      {
+        "chunkKey": "h1.wWuzv0BAYjamrbtyRpxjF49JzCIwfvZVPn9ItmEbskXzR_Q78hdPEwvV4hntwcLwslQgCbp7RU_DRdeuAS0BesbV8s_5TQiUFKmmHG21vAacNXCjyaKZcpX_JZWUTIA1JTe_8r4CcfAsEaPKskjy",
+        "page": 27,
+        "chainStart": 192,
+        "chainEnd": 207,
+        "text": "autant qu'elles"
+      },
+      {
+        "chunkKey": "h1.lU1TkNoGOkZp4gBEmw-7v80Y9kDQPxhHoFuyQ3-Vd7_rR2sjkj8Akd-ajdzIXvxoIPXbpBw5-ZahiR_Jtv67EKRAuU2djoyWZhoq3gqJr6ici5VstMvitPKP7ExiQttkF2I3F4XVPCBIKDlGdd8",
+        "page": 13,
+        "chainStart": 66,
+        "chainEnd": 149,
+        "text": "l'existence, pour l'homme, d'un domaine inconscient associant sur un pied d'égalité"
+      },
+      {
+        "chunkKey": "h1.lU1TkNoGOkZp4gBEmw-7v80Y9kDQPxhHoFuyQ3-Vd7_rR2sjkj8Akd-ajdzIXvxoIPXbpBw5-ZahiR_Jtv67EKRAuU2djoyWZhoq3gqJr6ici5VstMvitPKP7ExiQttkF2I3F4XVPCBIKDlGdd8",
+        "page": 13,
+        "chainStart": 730,
+        "chainEnd": 838,
+        "text": "centre des problèmes posées dans ce domaine inconscient. Il en l'a de même avec la question de la conscience"
+      },
+      {
+        "chunkKey": "h1.uL95gbhy3-qnOVJmDz9ro-9W4eiXtS0A3Yi22FlIEOwTeV6M7uyn9uFIeFK9iB_9kmVLfNksze3WeiAup4NP9OXEccKb4zGNSET26VJkzpxgWGmEx1thDvk-3iGxucbgh8f2aKBrY4WmmSpMAvza",
+        "page": 120,
+        "chainStart": 566,
+        "chainEnd": 640,
+        "text": "tenir séparés des contenus inconscients latents d'enoncés conscientivement"
+      },
+      {
+        "chunkKey": "h1.BE1gHifPoiZF8N6Brw3BPxhR4G8D0qpllNpmcQiNXUSiul9GsXgzNx2eIILdV7tpr6Douvm1pA2u_1f7umxv3h2erG7VhXSJnAxvRJYjqmS8ZBNZ7HXL9I5iOz7576r9HZwicHHdDuFi79oPj_Ci",
+        "page": 153,
+        "chainStart": 664,
+        "chainEnd": 724,
+        "text": "pourrait appeler : des dimensions inconscientes prospectives"
+      },
+      {
+        "chunkKey": "h1.MmPZBtiTN32aiFnkXGVK-bKE-yaJ-3IOFbP2ZP2T3ClCnZ34rO3n85u50ZP4hUBs0IsPPqyVbclTabJMmTlTAucjyxg5cbCHmz2KIMbpyV8ipJdF_2-23XtnkY32IoUYrsOiDDfQWFzj0qh1D0yi",
+        "page": 153,
+        "chainStart": 0,
+        "chainEnd": 8,
+        "text": "Ces jeux"
+      },
+      {
+        "chunkKey": "h1.yVUnxWiXGUUXOxYAvi8z6OfxSXK-yVPPCwiT_aKvoG5rvedyBjvZEDgOA8-Vfr0R1sANvDsFL8-tv5QZgi5TzMFJv6tJt-uIBNnU8GirrTAU_waV0sgkdDTPvOiX8V4cGXmMkS6s9tc3QgjmL-o",
+        "page": 80,
+        "chainStart": 3,
+        "chainEnd": 34,
+        "text": "Cartographies schizoanalytiques"
+      },
+      {
+        "chunkKey": "h1.YYA0dzCa2n-3etFKk4KmjX0yip8yjEcxtBxxlbMaOnMCVyvnGSLJN_zn_o-xfpnnU9P4tCtruByJj9Z7sNFrR6fHsVTnaSAXFJ-bo4hhx6aHvsqh6zJLIvIwsOPk8_aerlQ5ueD_SFMUJCHB7SQ",
+        "page": 80,
+        "chainStart": 0,
+        "chainEnd": 147,
+        "text": "A partir du moment où il y a décollement fractal d'une fluctuation signalétique (ou de code), deux parties distinctes doivent être prises en compte"
+      },
+      {
+        "chunkKey": "h1.BebBte6uzTAHEXARwA3adhCUZGyx6oIxDkTD6YvNALd8dcXUJlLeS15p1dJqC0_vKCRYD1nl9398yoTKJLxrMEh7NqPgmfFb9nNPhdqaHMYWjdBWWN7qBFrHdBVwPwaW2I-OnjhRLBG8r-qDWtc",
+        "page": 81,
+        "chainStart": 0,
+        "chainEnd": 13,
+        "text": "la contingent"
+      },
+      {
+        "chunkKey": "h1.kI71tvy2Cf6AJ0ttJIWkWUXvT_02N5hjk5WZJeKYbHdPuQBAZY5_XkpSCwKg7_6OnDrPfcXWk_b98K5mPfRBKMBzCudgZS9XPlpsMy8sg5TZ2D2jNy9OZzZUnVYqaCh5WdrVvXR3sVtKQZ2e9Q",
+        "page": 4,
+        "chainStart": 411,
+        "chainEnd": 499,
+        "text": "son côté, nous ouvre l'horizon tout différent d'une processualité considérée comme point"
+      },
+      {
+        "chunkKey": "h1.NiQFU4cA7_icQ2X7PaChKC_y1wgqMwGiIUjDHxTuK-ln4GaSyJE4VvQ0VZaqDYG-gdR-nDvs7K2GEBxSGPs10FRur_yc_E8Vp5xCb-0ynemCv4SjTENTIE-jLtWxgLfrggqxgpiWrMyyfECt6WVZ",
+        "page": 40,
+        "chainStart": 65,
+        "chainEnd": 79,
+        "text": "les Structures"
+      },
+      {
+        "chunkKey": "h1.t2YjwwTikRBB97gZwK-cndyLoINBB8feLqLV4291VfEzsNMcdtBBtu05JMwc3ag2sljP7qHmJ8MNL7bglGZpSGBsUjrlIT2nV-SoA7JpV96Sr34U5PmwboStLacdQA8nAuUpge603UVO1Qdy1qM",
+        "page": 40,
+        "chainStart": 0,
+        "chainEnd": 90,
+        "text": "A ce niveau secondaire de l'Inconscien, le travail schizonaïlique porte sur les composants"
+      },
+      {
+        "chunkKey": "h1.qijlDFdcjo_BSsbub8YRbdzX3wMlG4t3azXL05mcbc0q-rpMWxduhEaDBrujejmqnLxQ20OJcGgGc_YgRWLJTD0xgem8W7T4-ugpmDS3gRZ1Dxhr44BFF8WxaxzgG2zk1g2aUd6HXET9W9dA8Uw",
+        "page": 14,
+        "chainStart": 50,
+        "chainEnd": 197,
+        "text": "une opposition du type : processus primaire-élaboration secondaire. Surtout, si elle doit être fondée, comme dans la seconde topique freudienne (Ça"
+      },
+      {
+        "chunkKey": "h1.RYrpSTDF3I20NO_a-DhJMFNvxTgjKqcp2JfkcdU8_AJGJpnMBzM6raXcGlJ5OjjD7CPA6zSxr1O28w77t0Dnu_FMm5Hi_sd026TBsB8kntyYVrMJibqPsp_O9b89BicX2q00QZLmNURMzcOG5yWV",
+        "page": 158,
+        "chainStart": 476,
+        "chainEnd": 532,
+        "text": "point) et a établi une différence entre le punctum fondé"
+      },
+      {
+        "chunkKey": "h1.iSZ1wvt3w3fekaDdYXauiU632XJ8Bxo2ooFfezI2GM2hCrYfEPkD-Ct2E0wFPGjbt2bKJYNjSgcwSlv6JfLCKOsQQWJ6UqENoVmAwWIeGDwwbWFRW_2zk4I1WyhE3vLWqKn3GjyES4sgFXwylxiW",
+        "page": 110,
+        "chainStart": 103,
+        "chainEnd": 225,
+        "text": "travers l'héterogene intensive. Il nous faut ici accepter le paradoxé d'une différenciation s'inserant au sein de systèmes"
+      }
+    ]
+  }
+]

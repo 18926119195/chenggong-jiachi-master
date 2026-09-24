@@ -1,0 +1,850 @@
+[
+  {
+    "surface": "son mari",
+    "valid": true
+  },
+  {
+    "surface": "Jean Gallard, à plusieurs reprises à Mexico, puis à Paris, Amsterdam",
+    "valid": false,
+    "reason": "含标点与多个成分，非单一候选名词"
+  },
+  {
+    "surface": "une vive sympathe",
+    "valid": true
+  },
+  {
+    "surface": "ce couple",
+    "valid": true
+  },
+  {
+    "surface": "peut-être même une sorte",
+    "valid": false,
+    "reason": "含副词与连词，非单一实词"
+  },
+  {
+    "surface": "fascination",
+    "valid": true
+  },
+  {
+    "surface": "certaines difficultés",
+    "valid": true
+  },
+  {
+    "surface": "la circulation",
+    "valid": true
+  },
+  {
+    "surface": "## La place rectangulaire",
+    "valid": false,
+    "reason": "含标记符号##"
+  },
+  {
+    "surface": "surimpression",
+    "valid": true
+  },
+  {
+    "surface": "la représentation figurale",
+    "valid": true
+  },
+  {
+    "surface": "deux composantes formatives",
+    "valid": true
+  },
+  {
+    "surface": "la place principale",
+    "valid": true
+  },
+  {
+    "surface": "une ville mexicaine",
+    "valid": true
+  },
+  {
+    "surface": "une province",
+    "valid": true
+  },
+  {
+    "surface": "l'Est",
+    "valid": true
+  },
+  {
+    "surface": "écrire",
+    "valid": false,
+    "reason": "动词不定式，非名词"
+  },
+  {
+    "surface": "le rive",
+    "valid": true
+  },
+  {
+    "surface": "retrouver",
+    "valid": false,
+    "reason": "动词不定式，非名词"
+  },
+  {
+    "surface": "Michaouac",
+    "valid": true
+  },
+  {
+    "surface": "la ville",
+    "valid": true
+  },
+  {
+    "surface": "Pascauro",
+    "valid": true
+  },
+  {
+    "surface": "un hotel",
+    "valid": true
+  },
+  {
+    "surface": "une étage",
+    "valid": true
+  },
+  {
+    "surface": "une forte impression",
+    "valid": true
+  },
+  {
+    "surface": "son charme provincial",
+    "valid": true
+  },
+  {
+    "surface": "les siècles identiques",
+    "valid": true
+  },
+  {
+    "surface": "Me",
+    "valid": false,
+    "reason": "缩写/代词形式，非名词"
+  },
+  {
+    "surface": "que «",
+    "valid": false,
+    "reason": "连词与标点碎片"
+  },
+  {
+    "surface": "mes jours",
+    "valid": true
+  },
+  {
+    "surface": "arrieure",
+    "valid": false,
+    "reason": "拼写残缺，非有效名词"
+  },
+  {
+    "surface": "cette évolution mexicaine",
+    "valid": true
+  },
+  {
+    "surface": "la souvenir très ancien",
+    "valid": true
+  },
+  {
+    "surface": "ceilui",
+    "valid": false,
+    "reason": "拼写错误/代词碎片"
+  },
+  {
+    "surface": "une grande place",
+    "valid": true
+  },
+  {
+    "surface": "Louviers",
+    "valid": true
+  },
+  {
+    "surface": "rue",
+    "valid": true
+  },
+  {
+    "surface": "Coq",
+    "valid": true
+  },
+  {
+    "surface": "ma grand-mère maternelle",
+    "valid": true
+  },
+  {
+    "surface": "plusieurs jours",
+    "valid": true
+  },
+  {
+    "surface": "ce rive",
+    "valid": true
+  },
+  {
+    "surface": "surprise",
+    "valid": true
+  },
+  {
+    "surface": "la nouvelle évidence",
+    "valid": true
+  },
+  {
+    "surface": "petite ville",
+    "valid": true
+  },
+  {
+    "surface": "bords",
+    "valid": true
+  },
+  {
+    "surface": "la Loire",
+    "valid": true
+  },
+  {
+    "surface": "l'endroit",
+    "valid": true
+  },
+  {
+    "surface": "la motié",
+    "valid": true
+  },
+  {
+    "surface": "la semaine",
+    "valid": true
+  },
+  {
+    "surface": "Toutfois",
+    "valid": false,
+    "reason": "拼写错误，应为连词/副词"
+  },
+  {
+    "surface": "ajourd'hui",
+    "valid": false,
+    "reason": "拼写错误，应为副词"
+  },
+  {
+    "surface": "le reste",
+    "valid": true
+  },
+  {
+    "surface": "anse ans",
+    "valid": false,
+    "reason": "拼写错误/非名词短语"
+  },
+  {
+    "surface": "ou des millions",
+    "valid": false,
+    "reason": "含连词ou与冠词des，非单一实词"
+  },
+  {
+    "surface": "français",
+    "valid": true
+  },
+  {
+    "surface": "l'invasion allemande",
+    "valid": true
+  },
+  {
+    "surface": "Mens parents",
+    "valid": false,
+    "reason": "拼写错误，应为mes parents"
+  },
+  {
+    "surface": "une petite maison",
+    "valid": true
+  },
+  {
+    "surface": "la represente",
+    "valid": false,
+    "reason": "动词变位形式，非名词"
+  },
+  {
+    "surface": "mon rive",
+    "valid": true
+  },
+  {
+    "surface": "la guerre",
+    "valid": true
+  },
+  {
+    "surface": "sud",
+    "valid": true
+  },
+  {
+    "surface": "Laoire",
+    "valid": true
+  },
+  {
+    "surface": "Ce perspective",
+    "valid": true
+  },
+  {
+    "surface": "tout ce boulevement",
+    "valid": true
+  },
+  {
+    "surface": "une aventure extraordinaire",
+    "valid": true
+  },
+  {
+    "surface": "Mais des l'aube",
+    "valid": false,
+    "reason": "含连词Mais与介词des，非单一实词"
+  },
+  {
+    "surface": "le lendemain",
+    "valid": true
+  },
+  {
+    "surface": "l'annonce",
+    "valid": true
+  },
+  {
+    "surface": "l'avance allemande",
+    "valid": true
+  },
+  {
+    "surface": "Un rive",
+    "valid": true
+  },
+  {
+    "surface": "antérieure",
+    "valid": false,
+    "reason": "形容词，非名词"
+  },
+  {
+    "surface": "un an",
+    "valid": true
+  },
+  {
+    "surface": "bal",
+    "valid": true
+  },
+  {
+    "surface": "parquet",
+    "valid": true
+  },
+  {
+    "surface": "fils",
+    "valid": true
+  },
+  {
+    "surface": "un climat",
+    "valid": true
+  },
+  {
+    "surface": "forte tension",
+    "valid": true
+  },
+  {
+    "surface": "un bal",
+    "valid": true
+  },
+  {
+    "surface": "un grand mouton",
+    "valid": true
+  },
+  {
+    "surface": "une difficile traverse",
+    "valid": true
+  },
+  {
+    "surface": "gauche",
+    "valid": true
+  },
+  {
+    "surface": "drome",
+    "valid": true
+  },
+  {
+    "surface": "parmes",
+    "valid": false,
+    "reason": "拼写错误/非名词"
+  },
+  {
+    "surface": "fans",
+    "valid": true
+  },
+  {
+    "surface": "scurs",
+    "valid": false,
+    "reason": "拼写错误/非名词"
+  },
+  {
+    "surface": "Un graphe",
+    "valid": true
+  },
+  {
+    "surface": "une rédefinition",
+    "valid": true
+  },
+  {
+    "surface": "l'Inconciert",
+    "valid": false,
+    "reason": "拼写错误/非有效名词"
+  },
+  {
+    "surface": "Luxes",
+    "valid": true
+  },
+  {
+    "surface": "les Territories",
+    "valid": true
+  },
+  {
+    "surface": "incorporels1",
+    "valid": false,
+    "reason": "含数字后缀，非纯名词"
+  },
+  {
+    "surface": "une question",
+    "valid": true
+  },
+  {
+    "surface": "ce graphe",
+    "valid": true
+  },
+  {
+    "surface": "la composition formelle",
+    "valid": true
+  },
+  {
+    "surface": "mon bord",
+    "valid": true
+  },
+  {
+    "surface": "la formelle",
+    "valid": true
+  },
+  {
+    "surface": "mon schéma",
+    "valid": true
+  },
+  {
+    "surface": "La dans le rive",
+    "valid": false,
+    "reason": "含冠词与介词，非单一实词"
+  },
+  {
+    "surface": "la parisse supérieure",
+    "valid": true
+  },
+  {
+    "surface": "circuit",
+    "valid": true
+  },
+  {
+    "surface": ", une zone",
+    "valid": false,
+    "reason": "含标点碎片"
+  },
+  {
+    "surface": "un détour",
+    "valid": true
+  },
+  {
+    "surface": "Les hésitations",
+    "valid": true
+  },
+  {
+    "surface": "les incertitudes",
+    "valid": true
+  },
+  {
+    "surface": "les inhibibles",
+    "valid": true
+  },
+  {
+    "surface": "cette même zone",
+    "valid": true
+  },
+  {
+    "surface": "L'oubli",
+    "valid": true
+  },
+  {
+    "surface": "l'automobile",
+    "valid": true
+  },
+  {
+    "surface": "un double titre",
+    "valid": true
+  },
+  {
+    "surface": "dans sa denomination",
+    "valid": false,
+    "reason": "含介词dans与限定词sa，非单一实词"
+  },
+  {
+    "surface": "sa transcription",
+    "valid": true
+  },
+  {
+    "surface": "BMW",
+    "valid": true
+  },
+  {
+    "surface": "*Renault*.",
+    "valid": false,
+    "reason": "含星号与句点标点"
+  },
+  {
+    "surface": "Cette substitution",
+    "valid": true
+  },
+  {
+    "surface": "une marque",
+    "valid": true
+  },
+  {
+    "surface": "il y a vingt ans",
+    "valid": false,
+    "reason": "含代词与动词结构，非单一实词"
+  },
+  {
+    "surface": "un autre rêve",
+    "valid": true
+  },
+  {
+    "surface": "rêves",
+    "valid": true
+  },
+  {
+    "surface": "un corpus significatif",
+    "valid": true
+  },
+  {
+    "surface": "fermer山",
+    "valid": false,
+    "reason": "含汉字与动词，非名词"
+  },
+  {
+    "surface": "lui-même",
+    "valid": false,
+    "reason": "代词，非名词"
+  },
+  {
+    "surface": ", une modalité",
+    "valid": false,
+    "reason": "含标点碎片"
+  },
+  {
+    "surface": "l'activité onirique",
+    "valid": true
+  },
+  {
+    "surface": "croit",
+    "valid": false,
+    "reason": "动词变位形式，非名词"
+  },
+  {
+    "surface": "cet autre rêve",
+    "valid": true
+  },
+  {
+    "surface": "auton",
+    "valid": false,
+    "reason": "拼写错误/非名词"
+  },
+  {
+    "surface": "le corpus",
+    "valid": true
+  },
+  {
+    "surface": "événements",
+    "valid": true
+  },
+  {
+    "surface": "la rue",
+    "valid": true
+  },
+  {
+    "surface": "Gay",
+    "valid": true
+  },
+  {
+    "surface": "Lusac",
+    "valid": true
+  },
+  {
+    "surface": "- nom",
+    "valid": false,
+    "reason": "含标点碎片"
+  },
+  {
+    "surface": "mon chemin",
+    "valid": true
+  },
+  {
+    "surface": "velo",
+    "valid": true
+  },
+  {
+    "surface": "l'autre côté",
+    "valid": true
+  },
+  {
+    "surface": "boulevard",
+    "valid": true
+  },
+  {
+    "surface": "saint",
+    "valid": true
+  },
+  {
+    "surface": "Michel²",
+    "valid": false,
+    "reason": "含上标数字"
+  },
+  {
+    "surface": "une réunion",
+    "valid": true
+  },
+  {
+    "surface": "parti",
+    "valid": true
+  },
+  {
+    "surface": "les veres français",
+    "valid": true
+  },
+  {
+    "surface": "la tribune",
+    "valid": true
+  },
+  {
+    "surface": "un service",
+    "valid": true
+  },
+  {
+    "surface": "ordre musculaire",
+    "valid": true
+  },
+  {
+    "surface": "Lionel Jospin",
+    "valid": true
+  },
+  {
+    "surface": "quatre indices",
+    "valid": true
+  },
+  {
+    "surface": "signifiants",
+    "valid": true
+  },
+  {
+    "surface": "l'oublie",
+    "valid": true
+  },
+  {
+    "surface": "la Renault",
+    "valid": true
+  },
+  {
+    "surface": "oubli",
+    "valid": true
+  },
+  {
+    "surface": "l'auto",
+    "valid": true
+  },
+  {
+    "surface": "Cette hésitation",
+    "valid": true
+  },
+  {
+    "surface": "ma perplexité",
+    "valid": true
+  },
+  {
+    "surface": "l'assertion",
+    "valid": true
+  },
+  {
+    "surface": "silence",
+    "valid": true
+  },
+  {
+    "surface": "l'association mecanique",
+    "valid": true
+  },
+  {
+    "surface": "la plus stupidie",
+    "valid": false,
+    "reason": "含比较副词plus，非名词短语"
+  },
+  {
+    "surface": "l'oubi",
+    "valid": false,
+    "reason": "拼写残缺，非有效名词"
+  },
+  {
+    "surface": "nui",
+    "valid": false,
+    "reason": "拼写错误/非名词"
+  },
+  {
+    "surface": "aute",
+    "valid": false,
+    "reason": "拼写错误/非名词"
+  },
+  {
+    "surface": "ces derniers temps",
+    "valid": true
+  },
+  {
+    "surface": "la correspondance",
+    "valid": true
+  },
+  {
+    "surface": "Fliess",
+    "valid": true
+  },
+  {
+    "surface": "cette cure",
+    "valid": true
+  },
+  {
+    "surface": "relation homosexuale",
+    "valid": true
+  },
+  {
+    "surface": "son auto-analyse",
+    "valid": true
+  },
+  {
+    "surface": "A la place",
+    "valid": false,
+    "reason": "含介词与冠词，非单一实词"
+  },
+  {
+    "surface": "Gilles Deleuze qui s'impose dans ce forintier redouble que je me suis constitué dans ce rêve",
+    "valid": false,
+    "reason": "完整从句，非单一实词"
+  },
+  {
+    "surface": "d'énoncion",
+    "valid": true
+  },
+  {
+    "surface": "un objet familier",
+    "valid": true
+  },
+  {
+    "surface": "mon Moi",
+    "valid": true
+  },
+  {
+    "surface": "en écho",
+    "valid": false,
+    "reason": "含介词en，非单一实词"
+  },
+  {
+    "surface": "la maison",
+    "valid": true
+  },
+  {
+    "surface": "- des series polyphoniques",
+    "valid": false,
+    "reason": "含标点碎片"
+  },
+  {
+    "surface": "Mikhail Bakhitine",
+    "valid": true
+  },
+  {
+    "surface": "des personnels fémins",
+    "valid": true
+  },
+  {
+    "surface": "Adelaide",
+    "valid": true
+  },
+  {
+    "surface": "Arlette",
+    "valid": true
+  },
+  {
+    "surface": "Donati",
+    "valid": true
+  },
+  {
+    "surface": "Alena Gallard, Micheline Kao, ma mère, ma grand-mère",
+    "valid": false,
+    "reason": "含标点与多个成分，非单一候选名词"
+  },
+  {
+    "surface": "Cette mise",
+    "valid": true
+  },
+  {
+    "surface": "parenthèses",
+    "valid": true
+  },
+  {
+    "surface": "un objet moique",
+    "valid": true
+  },
+  {
+    "surface": "ne l'entame",
+    "valid": false,
+    "reason": "含否定副词与代词，非名词"
+  },
+  {
+    "surface": "rêve n",
+    "valid": false,
+    "reason": "含孤立字母n"
+  },
+  {
+    "surface": "une Renault",
+    "valid": true
+  },
+  {
+    "surface": "- des constellations harmoniques de niveaux d'énonciation hétérogènes",
+    "valid": false,
+    "reason": "含标点碎片"
+  },
+  {
+    "surface": "affecté",
+    "valid": false,
+    "reason": "分词/形容词，非名词"
+  },
+  {
+    "surface": "une certaine qualité",
+    "valid": true
+  },
+  {
+    "surface": "la dénomination",
+    "valid": true
+  },
+  {
+    "surface": "toute lettre",
+    "valid": true
+  },
+  {
+    "surface": "Renault",
+    "valid": true
+  },
+  {
+    "surface": "une dénomination",
+    "valid": true
+  },
+  {
+    "surface": "sigle",
+    "valid": true
+  },
+  {
+    "surface": "Le gouffre",
+    "valid": true
+  },
+  {
+    "surface": "une hesitation",
+    "valid": true
+  },
+  {
+    "surface": "Trois directions associatives",
+    "valid": true
+  },
+  {
+    "surface": "- une référence spéléologique",
+    "valid": false,
+    "reason": "含标点碎片"
+  },
+  {
+    "surface": "- un texte",
+    "valid": false,
+    "reason": "含标点碎片"
+  }
+]

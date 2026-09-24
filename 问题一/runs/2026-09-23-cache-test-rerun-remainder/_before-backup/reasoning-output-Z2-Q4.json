@@ -1,0 +1,148 @@
+{
+  "questionId": "Z2-Q4",
+  "question": "为什么说主体性是被建构的而非先验的？",
+  "model": "deepseek-v4-flash",
+  "thinking": "disabled",
+  "elapsedSecs": 6,
+  "tokenUsage": {
+    "prompt_tokens": 9738,
+    "completion_tokens": 878,
+    "total_tokens": 10616,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 9738
+  },
+  "truncated": false,
+  "llmOutput": "# 路径一：从“机器依赖”与“集体装备”看主体性的外在建构\n\n步骤1：使用【【3】】，提取“主体性的内容越来越依赖于大量机器系统”这一判断，说明主体性并非内在自生，而是由外部机器性系统所规定。\n\n步骤2：综合【【4】】【【5】】，对比“主体性的新机器依赖”与“进入机器”这一说法，指出主体性像“进入宗教”一样，是被某种外部装置所捕获和塑造的过程。\n\n步骤3：使用【【75】】，提取“集体主体性装备”概念，说明主体性是通过集体性装置被生产出来的，而非先验存在于个体之中。\n\n步骤4：综合【【49】】【【57】】，交叉验证“主体性生产”不是少数人的问题，而是与集体装备和历史性装置密切相关，进一步说明其建构性。\n\n结论：主体性依赖于机器系统与集体装备，是被外部装置持续生产与塑造的结果，而非先验给定。\n\n---\n\n# 路径二：从“异质性与多中心”看主体性的非先验统一\n\n步骤1：使用【【2】】，提取“主体性的具体生产是本质上异质的、多中心的过程”，说明主体性没有单一先验源头。\n\n步骤2：综合【【70】】【【101】】，对比“主体化的异质发生”与“主体性生产是分形机器”这一说法，指出主体性由多样、分散的机制生成。\n\n步骤3：使用【【185】】，提取“异质发生”与“特定异质发生过程”的表述，进一步说明主体性生产具有内在的异质性，无法还原为先验统一体。\n\n步骤4：综合【【93】】【【94】】，交叉验证“资本主义主体性生产模式”与“双重张力”说明主体性是被特定历史社会模式所建构，而非普遍先验。\n\n结论：主体性生产是异质、多中心、分形化的过程，不存在先验的统一主体，其统一性是事后建构的效果。\n\n---\n\n# 路径三：从“权力-知识装置”看主体性的被控制与可解放\n\n步骤1：使用【【19】】，提取“权力主体性不是从天上掉下来的，也不是写在染色体里的”，直接否定主体性的先验性。\n\n步骤2：综合【【20】】【【45】】，对比“主体性被权力与知识装置大规模控制”与“主体性能够掌握自身命运”两种表述，说明主体性虽被建构，但并非完全被动。\n\n步骤3：使用【【33】】，提取“一神教试图将主体性束缚在符合资本主义逻辑的伦理公理中”，说明主体性被伦理-政治装置所规训。\n\n步骤4：综合【【240】】【【113】】，交叉验证“替代性主体性生产装配”与“后媒体时代的新主体化实践”，指出主体性可以被重新建构为解放性形式。\n\n结论：主体性被权力-知识装置所建构和控制，但这种建构并非不可逆，存在被重新装配与解放的可能，进一步证明其非先验性。\n\n---\n\n# 路径四：从“过程性与存在性函数”看主体性的生成性\n\n步骤1：使用【【24】】，提取“主体性工作”如同“炼铁”或“弹钢琴”的比喻，说明主体性是通过过程性实践被加工出来的。\n\n步骤2：综合【【227】】【【267】】，对比“自组织过程”与“表达断裂后存在性再限定”的机制，说明主体性是在过程中被不断生成与再限定的。\n\n步骤3：使用【【265】】【【266】】，提取“存在性再限定”与“存在性函数”概念，说明主体性通过表达函数与存在函数的交互被建构。\n\n步骤4：综合【【108】】【【159】】，交叉验证“自我生产的主体性实例”与“主体化操作者”说明主体性具有自我生产性，但这种自我生产仍依赖于过程性机制，而非先验本质。\n\n结论：主体性是通过过程性、函数性与自组织机制被不断生成的，其存在是操作性与生成性的，而非先验给定的。",
+  "totalMaterialsAvailable": 274,
+  "materialsUsedCount": 25,
+  "traceback": {
+    "2": {
+      "chunkKey": "h1.o5LU2R7mEdy-Zdwxb23308ZTbn6FL0bY3W2JB3eKm1lnhjlkIkCBH2Hlcd48t3eo5Y78IShmNt2BQZv_OnB5f3psdpd53KqNx2l4yrsg2B-yOOW6_EmGd56jjuWgJtER0OUlp2cOOR4cQggM1rU",
+      "nounCount": 0,
+      "hits": []
+    },
+    "3": {
+      "chunkKey": "h1.hvWIqXNrIrFrEjyHqpJzztUkpyHN344WRXyk6LtXQxJHt4BCwrbJSUqqtIzamoj7Jml-Y3wnS2eCWsymy9XJdVXxTlUKduo4-yuNFEGA36soZrb2prp_jTylQ7KXRXgdEo7fxEYbA12JhB4kjA",
+      "nounCount": 0,
+      "hits": []
+    },
+    "4": {
+      "chunkKey": "h1.hvWIqXNrIrFrEjyHqpJzztUkpyHN344WRXyk6LtXQxJHt4BCwrbJSUqqtIzamoj7Jml-Y3wnS2eCWsymy9XJdVXxTlUKduo4-yuNFEGA36soZrb2prp_jTylQ7KXRXgdEo7fxEYbA12JhB4kjA",
+      "nounCount": 0,
+      "hits": []
+    },
+    "5": {
+      "chunkKey": "h1.5BfJW34TI4XoY7772Ir6CJNFpVyIzVSiYkPMbkfnksTJ12k07-gQHBiqzyLCDQsgqfWo9eRIiTC_EnCQ0vFEbnzjFLAfe5VpUtOVHWGJHP458AE00KN-xn2Y45ylw_7TT0Bg1fKczomeqifK8w",
+      "nounCount": 0,
+      "hits": []
+    },
+    "19": {
+      "chunkKey": "h1.j8JZzkSiSEOdmBsJ1rPEIAb3EGcFsDXen4L8MkaIGiV1fRVgo_1chPc5uWSdalOYY-siqWNH6ca3-x9H_GfQ3CuyYESG-b8A2UySIOa-Sdt94HsPxHnoRGF4EdHlZhKDaY4eMB7Fff0ueft-iQc",
+      "nounCount": 0,
+      "hits": []
+    },
+    "20": {
+      "chunkKey": "h1.j8JZzkSiSEOdmBsJ1rPEIAb3EGcFsDXen4L8MkaIGiV1fRVgo_1chPc5uWSdalOYY-siqWNH6ca3-x9H_GfQ3CuyYESG-b8A2UySIOa-Sdt94HsPxHnoRGF4EdHlZhKDaY4eMB7Fff0ueft-iQc",
+      "nounCount": 0,
+      "hits": []
+    },
+    "24": {
+      "chunkKey": "h1.l_-Ir38WOsOUNl-gRDjWZVZ5RglybhUDK55YOLqXGQqp6EDWhwmc66EPPCAw4yBeD96ogYCw_lQx8PEV8-tT_5TKEdW0Yb67EmEEMChg0zZxEecIM2e_IVtycCwaD0pkVGva14J0FZ_rUpngHZc",
+      "nounCount": 0,
+      "hits": []
+    },
+    "33": {
+      "chunkKey": "h1.r72kf9hj0gV9wjSBlfZetl83LESbjvkZwc0PGAov09GyeseJtWSo8S7vm0ecAlGZkYrzlldqRbhHygAe1nwDjgMnZbtjOUh7m1DNplMrIWOYPzVb4uV2zqFp_Qibn5ndqPmJMek0NQXGTRDbhP8",
+      "nounCount": 0,
+      "hits": []
+    },
+    "45": {
+      "chunkKey": "h1.-OHjdfEuLjTt9LtgcWK1GOMG85RjH7kwavKYfNQhN7c2BJjz0BH6ak-d603f-cX5BMjrO_x9fWiaoqXnmwgePZXQCS7QN87b62dWojdcD4rn8yHj84eYmi_QkDOg1qLiUqLJKoXeeH8I4A1lFyzG",
+      "nounCount": 0,
+      "hits": []
+    },
+    "49": {
+      "chunkKey": "h1.z5PokQkM_xl7C9ab5U-RSwqXF-0Bie5UPjoXYX4P0QKyW1gdcToBdV_eh3d9Xe_qLTIBoRix4JoSswHW7fTCLK5GcJ2c0q4bA1a6tTyUTKRZycFcj4X3bllON825tlr7KK_o2HZiD-NM6fZaPg",
+      "nounCount": 0,
+      "hits": []
+    },
+    "57": {
+      "chunkKey": "h1.gAEZAs5w9582andAm4rVfoO-ZV_veKOcqf2rBZJk58ERcZ6vmILSKzHQx0GA_hDLFP9PPpncYG3zKovlMx4rK-CkMD7jRU0lbTbejecxzP-GR0XrJJjgr7pipxmq6nJNOhV2WdUg7uy9-vmMEw",
+      "nounCount": 0,
+      "hits": []
+    },
+    "70": {
+      "chunkKey": "h1.-RR0nVeIRF0SIpJpFHiYYJCgTqLLg6jXJOCehCYSPeNeil7KyD4AwOT16unxAo783Xr5G0i8K-moaP8AgdDiYDFGk25hveouOxD90IjVXndecphdv09bjMlrJli3paAjKjw93Od9zLYz9SBKlveh",
+      "nounCount": 0,
+      "hits": []
+    },
+    "75": {
+      "chunkKey": "h1.ZcWQgNga4fbnYIVZxRfwe_1BwvSrt-2pk7nGI0Ki46StQy0u95wNItpB6Hm-M1Cy_5bKBFIsLFTywH9UvGTu0nvmC8QlzG0sN1QL5byUQgnCVb2cyfX1n8B13qSd7L52QxtNIrszWX9NKDUWtg",
+      "nounCount": 0,
+      "hits": []
+    },
+    "93": {
+      "chunkKey": "h1.wDS5pRMFkDdvPVDOVBASzvMI8MnnD1alhf56Yz-4m9zY8YeZITGIapmGTApalUsS2gNZVhKsBuMeBbFP-NEVtCumFbZGgiRWKBx3vy0uFyJPHRpx-0Nar31-xz6zOVSHCGHzUIOf8LRqGQs9G9s",
+      "nounCount": 0,
+      "hits": []
+    },
+    "94": {
+      "chunkKey": "h1.xxBbOjUsYa1IakAZXzUk22_2EahD8N335Ol8i9ZUKlx0UAsrO96Ezq2TUsDNm8QCvFasA594ArQd45kmz9Ivep4lglYr91_BLKeSQdXmwwBcDu52aGtjTl_rdvSohc_QKZv8cWNDqJkOyBEqTZI",
+      "nounCount": 0,
+      "hits": []
+    },
+    "101": {
+      "chunkKey": "h1.b9ngdoa8lTurF_eZ7qrGpKAZmnuHrFXY-B70U-oBFhjqQcBPS400Zh67p4gjYfuJJ45IdvdF1TPXdJPXuUlMrTPbZtKAJPHm-iEd6WVJlTD7ARsipXtozjFwmB7ObWC39A5POVVrFtDZkQ8N7AcI",
+      "nounCount": 0,
+      "hits": []
+    },
+    "108": {
+      "chunkKey": "h1.bA_BreOIH65lT4Dv5M2Rjl1fzQ24Mi1hI2p0kahCK08AiJ1njXTJC-6r6QlsXYgF75n26WL-3oh0sSH6hPdQLVOZtogZJILVg1WLdK2wjlpl974nMHx59EQirHQ9LVTbKh81kh5xB00VtLfyRFms",
+      "nounCount": 0,
+      "hits": []
+    },
+    "113": {
+      "chunkKey": "h1.wWuzv0BAYjamrbtyRpxjF49JzCIwfvZVPn9ItmEbskXzR_Q78hdPEwvV4hntwcLwslQgCbp7RU_DRdeuAS0BesbV8s_5TQiUFKmmHG21vAacNXCjyaKZcpX_JZWUTIA1JTe_8r4CcfAsEaPKskjy",
+      "nounCount": 0,
+      "hits": []
+    },
+    "159": {
+      "chunkKey": "h1.3DgE3FLKzcXvbM8lmUX3weWcNAixbplLgaSQmXFRRK3Cuh-UzF3WgV88Ev6_eSd6U6z_XUJmriEjA3CJlk-qW4u4hMVIeR318zm4aTpG6HXirjHzUtbsKfeSlCiDQmcN0vxGwVihl6jHxQUk6Whe",
+      "nounCount": 0,
+      "hits": []
+    },
+    "185": {
+      "chunkKey": "h1.0A6TWicTCKG9fh0I9xIReLDXYKWza5JowWikzY9DwCAFFuqYLxa4TmEW79915M05f-g-aY72HU6m-OIf8L6PUOMFXosRA9HmP5T4N-hh1Q6zQ2LRlWFL1-Tn8pF-BCpD7HZxjyvVvAFpnJ-iU5_Q",
+      "nounCount": 0,
+      "hits": []
+    },
+    "227": {
+      "chunkKey": "h1.0giWXeGOq5gDcsbYXkG5WibMElsA4GYLfcNiTcxGQNpsN2TM2RR4Qow1dQGV07xtZw57vYgNtziy9Yy7CrHdL-WM6eUVL5RCUM7JK0sdtKbAq-g6Ijl6jfKh3c8x7JKH_OEAN0N5hGEXt8phLdk",
+      "nounCount": 0,
+      "hits": []
+    },
+    "240": {
+      "chunkKey": "h1.ryfTA7kAgYkY4GnXJYAnrCtaJaD_SbRe67Igvyiia164i5Q5p6SNqfo3CmkdPezgKOxSIYxHh4O_7nnfUid6APL1kgUX0y6RFSVkWASQRGYU_YXgMHJEEuyCAxD9M1EstuXbRhc38QOQw-CCx-A",
+      "nounCount": 0,
+      "hits": []
+    },
+    "265": {
+      "chunkKey": "h1.YgmcFjdw15VgugxL53__IOEsvsOe9QwKAgyUdvjSAdWLxp_LJRrP2f1sZ32W2Y0LhcI1cb8WG1jWLblTyvNtG_Sq5Hvg7GTREq0qsQvCPiGYHA6oeOx1REjZrB1qyHDxTDLjj_7mSW2UFzfvITY",
+      "nounCount": 0,
+      "hits": []
+    },
+    "266": {
+      "chunkKey": "h1.gQpCedD3PvUbuh-AW-1ev8HEoUZAQ5288dNe5oFukhAgZGkXy6VmNBZJO6z0_HDvGXwC_L40PmaP3Pu39Hu3g_3uqdXlkQdXRO9HfeFgaSmgWVsgIRAMTqou9id93vhavC5ZxK3duA8gP4k12f8",
+      "nounCount": 0,
+      "hits": []
+    },
+    "267": {
+      "chunkKey": "h1.gQpCedD3PvUbuh-AW-1ev8HEoUZAQ5288dNe5oFukhAgZGkXy6VmNBZJO6z0_HDvGXwC_L40PmaP3Pu39Hu3g_3uqdXlkQdXRO9HfeFgaSmgWVsgIRAMTqou9id93vhavC5ZxK3duA8gP4k12f8",
+      "nounCount": 0,
+      "hits": []
+    }
+  }
+}

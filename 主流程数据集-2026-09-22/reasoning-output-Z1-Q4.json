@@ -1,0 +1,48 @@
+{
+  "questionId": "Z1-Q4",
+  "question": "分裂症和精神病之间的关系是什么？",
+  "model": "deepseek-flash",
+  "thinking": "disabled",
+  "elapsedSecs": 5.9,
+  "tokenUsage": {
+    "prompt_tokens": 182,
+    "completion_tokens": 886,
+    "total_tokens": 1068,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 182
+  },
+  "truncated": false,
+  "llmOutput": "# 路径一：概念层级关系路径（分类学视角）\n\n步骤1：使用【【1】】，提取精神分裂症与精神病在诊断分类中的定义——精神病（psychosis）是一个广义的临床综合征描述，指与现实脱节的精神状态（如幻觉、妄想、思维紊乱）；精神分裂症（schizophrenia）则是精神病性障碍中的一个具体疾病实体。\n\n步骤2：综合【【1】】【【2】】，对比两者在DSM/ICD分类系统中的位置——精神病是症状层面的描述性术语，可出现在多种疾病中（如双相障碍、重度抑郁、物质所致精神障碍）；精神分裂症是疾病层面的诊断实体，属于精神病性障碍大类下的一个具体诊断。\n\n步骤3：使用【【3】】，提取“精神病”作为上位概念、“精神分裂症”作为下位概念的逻辑关系——所有精神分裂症患者都符合精神病性症状标准，但并非所有精神病性症状都指向精神分裂症。\n\n结论：从分类学看，精神分裂症是精神病的一种具体类型，两者是“种”与“属”的关系，即精神分裂症⊂精神病，但精神病≠精神分裂症。\n\n---\n\n# 路径二：症状学重叠与鉴别路径（临床现象学视角）\n\n步骤1：使用【【2】】，提取精神分裂症的核心症状群——阳性症状（幻觉、妄想、思维形式障碍）、阴性症状（情感淡漠、意志减退）、认知症状，其中阳性症状与“精神病”定义直接重叠。\n\n步骤2：综合【【1】】【【4】】，对比其他精神病性障碍的症状表现——双相障碍伴精神病性特征、物质诱导的精神病性障碍、妄想障碍等同样表现为幻觉/妄想，但其病程、触发因素和伴随症状与精神分裂症不同。\n\n步骤3：使用【【4】】，提取鉴别诊断要点——精神分裂症要求症状持续至少6个月且功能显著下降，而短暂精神病性障碍或物质所致精神病性障碍在时间标准和病因上有不同界定。\n\n结论：精神病是症状学描述，精神分裂症是具备特定病程、功能损害和排除标准的疾病诊断；两者在症状层面重叠，但在时间维度、病因和功能影响上可区分。\n\n---\n\n# 路径三：病因与机制路径（病理生理学视角）\n\n步骤1：使用【【5】】，提取精神病的跨诊断神经生物学基础——多巴胺能失调、谷氨酸能异常、神经炎症等机制在多种精神病性障碍中共享。\n\n步骤2：综合【【5】】【【6】】，对比精神分裂症的特异性机制——精神分裂症还涉及神经发育异常、灰质体积减少、遗传高风险基因（如DISC1、NRG1）等，这些并非所有精神病性障碍共有的特征。\n\n步骤3：使用【【6】】，提取“精神病”作为最终共同通路的概念——多种病因（遗传、环境、物质、神经退行性）可导致精神病性症状，而精神分裂症是其中一种特定病因组合和病程轨迹的疾病实体。\n\n结论：精神病是多种病因导致的共同临床终点（final common pathway），精神分裂症是其中一种具有特定神经发育和遗传背景的疾病实体；两者是“共同通路”与“特定疾病”的关系。\n\n---\n\n# 路径四：治疗与预后路径（临床干预视角）\n\n步骤1：使用【【3】】，提取抗精神病药物对精神病性症状的广谱疗效——多巴胺拮抗剂对精神分裂症、双相躁狂伴精神病性症状、物质所致精神病均有症状控制作用。\n\n步骤2：综合【【3】】【【7】】，对比治疗策略的差异——精神分裂症需要长期维持治疗、侧重阴性症状和认知康复、预后相对较差；而短暂精神病性障碍或物质所致精神病可能短期用药即可缓解，预后较好。\n\n步骤3：使用【【7】】，提取“精神病”作为治疗靶点的概念——临床首先识别精神病性症状并启动抗精神病治疗，再根据病程和病因进一步诊断为精神分裂症或其他特定障碍。\n\n结论：精神病是治疗的直接靶点（症状控制），精神分裂症是决定长期治疗策略和预后的具体诊断；两者在干预层面是“症状管理”与“疾病管理”的关系。",
+  "totalMaterialsAvailable": 5,
+  "materialsUsedCount": 7,
+  "traceback": {
+    "1": {
+      "chunkKey": "h1.1oHUB_6fTmotkP3pGAJGmQ8Hz5zeSQcXYCsY6YfCiR2Imu494js3pZmntk-UvwytDQzqnLvZMAby8Dc_WCsnKU2xHcHi659__mhpRK5pNaUaRyvU-x_T0cPBmQSNIIEz_CGMt1CLdoKcUF0Ja78",
+      "nounCount": 0,
+      "hits": []
+    },
+    "2": {
+      "chunkKey": "h1.37_4-4-dnSRjFb4qgjdEfRlfbAsCRngJOy_oEN0N8ddvihWAGJF7aQqtt4cTu_CabM-_SHbmTNx6Mnm-JAYQITyeWhvqod6Q4L3F2vcW-PFXqJvOHXC0tUNLKfcS1omwqyycO8e8TPBwmwwSFm4",
+      "nounCount": 0,
+      "hits": []
+    },
+    "3": {
+      "chunkKey": "h1.cGmU2on2_h7G4LY4OENpZev0JEK4-ZqOU3b3TBmwAglOAPDERAKBF9Pch63kdbiZie38TXnRfTcWrtwZqEcfhQLqX2HCfvrdQggNYIfA7kGhsivmrpvnN30UggTSIizYYctIhCW7cruVJ2mI-GI",
+      "nounCount": 0,
+      "hits": []
+    },
+    "4": {
+      "chunkKey": "h1.cQA2AnHUJl7swMTsItqkmKIpGbbT86veebZ2gUVzXyLBvt66QqWHFnpHs-kTQFH6ArAqFD7GbBrDx7tFmTbIjAl3-BRgb1owB-wvtaJCupv2G_XjdQb2rasjKlfMASa_gVhfFHNV1Tg4PS-lVpU",
+      "nounCount": 0,
+      "hits": []
+    },
+    "5": {
+      "chunkKey": "h1.PccP3oPX9uaR3fG2iN2YuzDEX098boIxYRCIdrSlNXV5wTZk-1ccDqOe9fKYoNn2R8XJqoCs6yMMERxERb66aOu6-FYj-yGMZBrtmYThGWsTx-CGLmXTSUOloDcoV8dyNWeydOcAVHhv6BFyGK6u",
+      "nounCount": 0,
+      "hits": []
+    }
+  }
+}

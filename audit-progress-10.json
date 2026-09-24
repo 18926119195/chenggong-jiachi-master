@@ -1,0 +1,897 @@
+[
+  {
+    "surface": "relevant",
+    "valid": false,
+    "reason": "动词变位形式，非名词"
+  },
+  {
+    "surface": "a-signifiant",
+    "valid": false,
+    "reason": "含连字符的形容词/分词形式，非名词"
+  },
+  {
+    "surface": "- un inconscient relatif",
+    "valid": false,
+    "reason": "含冠词与形容词的短语碎片，非独立名词"
+  },
+  {
+    "surface": "un niveau molaire",
+    "valid": true
+  },
+  {
+    "surface": "s'organiserait",
+    "valid": false,
+    "reason": "代词式动词变位"
+  },
+  {
+    "surface": ", en représentations",
+    "valid": false,
+    "reason": "含标点与介词的短语碎片"
+  },
+  {
+    "surface": "stables",
+    "valid": false,
+    "reason": "形容词复数形式"
+  },
+  {
+    "surface": "crains",
+    "valid": false,
+    "reason": "动词变位形式"
+  },
+  {
+    "surface": "tomber",
+    "valid": false,
+    "reason": "动词不定式"
+  },
+  {
+    "surface": "mon tour",
+    "valid": true
+  },
+  {
+    "surface": "une pétération topique",
+    "valid": true
+  },
+  {
+    "surface": "instances psychiques",
+    "valid": true
+  },
+  {
+    "surface": "Freud",
+    "valid": true
+  },
+  {
+    "surface": "séparer",
+    "valid": false,
+    "reason": "动词不定式"
+  },
+  {
+    "surface": "versants",
+    "valid": true
+  },
+  {
+    "surface": "opposés",
+    "valid": false,
+    "reason": "形容词/分词复数形式"
+  },
+  {
+    "surface": "l'incognisant",
+    "valid": true
+  },
+  {
+    "surface": "le Conscient",
+    "valid": true
+  },
+  {
+    "surface": "accompagné",
+    "valid": false,
+    "reason": "过去分词形式"
+  },
+  {
+    "surface": "Précisionist",
+    "valid": false,
+    "reason": "疑似拼写错误或非标准形式"
+  },
+  {
+    "surface": "puis, ulterieurement: le Ca",
+    "valid": false,
+    "reason": "含副词、标点与冠词的短语碎片"
+  },
+  {
+    "surface": "le Moi",
+    "valid": true
+  },
+  {
+    "surface": "ses annexes",
+    "valid": true
+  },
+  {
+    "surface": "ou bien Lacan",
+    "valid": false,
+    "reason": "含连词与专有名词的短语碎片"
+  },
+  {
+    "surface": "ériger",
+    "valid": false,
+    "reason": "动词不定式"
+  },
+  {
+    "surface": "un ordre symbolique",
+    "valid": true
+  },
+  {
+    "surface": "armature",
+    "valid": true
+  },
+  {
+    "surface": "Réel",
+    "valid": true
+  },
+  {
+    "surface": "de l'Imaginaire",
+    "valid": false,
+    "reason": "含介词的短语碎片"
+  },
+  {
+    "surface": "essentiel",
+    "valid": false,
+    "reason": "形容词形式"
+  },
+  {
+    "surface": "reinstaurer",
+    "valid": false,
+    "reason": "动词不定式"
+  },
+  {
+    "surface": "une opposition",
+    "valid": true
+  },
+  {
+    "surface": "type",
+    "valid": true
+  },
+  {
+    "surface": "processus primaire",
+    "valid": true
+  },
+  {
+    "surface": "fondée",
+    "valid": false,
+    "reason": "过去分词/形容词形式"
+  },
+  {
+    "surface": "topique",
+    "valid": true
+  },
+  {
+    "surface": "Ça",
+    "valid": true
+  },
+  {
+    "surface": "Moi",
+    "valid": true
+  },
+  {
+    "surface": "Surmoi",
+    "valid": true
+  },
+  {
+    "surface": "correspondait",
+    "valid": false,
+    "reason": "动词变位形式"
+  },
+  {
+    "surface": "une rupture",
+    "valid": true
+  },
+  {
+    "surface": "niveau",
+    "valid": true
+  },
+  {
+    "surface": "modes",
+    "valid": true
+  },
+  {
+    "surface": "diffrén-",
+    "valid": false,
+    "reason": "截断词碎片"
+  },
+  {
+    "surface": "magnière",
+    "valid": false,
+    "reason": "疑似拼写错误，非标准名词"
+  },
+  {
+    "surface": "le premier examen",
+    "valid": true
+  },
+  {
+    "surface": "une telle circonSCRIPTion",
+    "valid": true
+  },
+  {
+    "surface": "l'Inconscient moléculaire",
+    "valid": true
+  },
+  {
+    "surface": "révèle",
+    "valid": false,
+    "reason": "动词变位形式"
+  },
+  {
+    "surface": "boiseuse",
+    "valid": false,
+    "reason": "形容词形式"
+  },
+  {
+    "surface": "effet",
+    "valid": true
+  },
+  {
+    "surface": "ce type",
+    "valid": true
+  },
+  {
+    "surface": "parfaitement",
+    "valid": false,
+    "reason": "副词"
+  },
+  {
+    "surface": "s'accommoder",
+    "valid": false,
+    "reason": "代词式动词不定式"
+  },
+  {
+    "surface": "composantes conscientielles",
+    "valid": true
+  },
+  {
+    "surface": "sait",
+    "valid": false,
+    "reason": "动词变位形式"
+  },
+  {
+    "surface": "une névrose hystérique",
+    "valid": true
+  },
+  {
+    "surface": "chas",
+    "valid": false,
+    "reason": "疑似拼写错误或非标准形式"
+  },
+  {
+    "surface": "primaire",
+    "valid": false,
+    "reason": "形容词形式"
+  },
+  {
+    "surface": "la structuration",
+    "valid": true
+  },
+  {
+    "surface": "secondaire",
+    "valid": false,
+    "reason": "形容词形式"
+  },
+  {
+    "surface": "parce",
+    "valid": false,
+    "reason": "连词碎片"
+  },
+  {
+    "surface": "un accès digitalisé",
+    "valid": true
+  },
+  {
+    "surface": "binariisé",
+    "valid": false,
+    "reason": "过去分词/形容词形式"
+  },
+  {
+    "surface": "autant",
+    "valid": false,
+    "reason": "副词"
+  },
+  {
+    "surface": "condamnés",
+    "valid": false,
+    "reason": "过去分词/形容词形式"
+  },
+  {
+    "surface": "sombrer",
+    "valid": false,
+    "reason": "动词不定式"
+  },
+  {
+    "surface": "un gouffre entropique de désordre",
+    "valid": true
+  },
+  {
+    "surface": "tessiture",
+    "valid": true
+  },
+  {
+    "surface": "met",
+    "valid": false,
+    "reason": "动词变位形式"
+  },
+  {
+    "surface": "détonner",
+    "valid": false,
+    "reason": "动词不定式"
+  },
+  {
+    "surface": "ses compétences",
+    "valid": true
+  },
+  {
+    "surface": "interpretation",
+    "valid": true
+  },
+  {
+    "surface": "parasitement",
+    "valid": false,
+    "reason": "副词形式"
+  },
+  {
+    "surface": "brusquet",
+    "valid": false,
+    "reason": "疑似拼写错误或形容词形式"
+  },
+  {
+    "surface": "sesdutude",
+    "valid": false,
+    "reason": "疑似拼写错误，非标准形式"
+  },
+  {
+    "surface": "La chant",
+    "valid": false,
+    "reason": "冠词与名词性数不一致的短语碎片"
+  },
+  {
+    "surface": "cette femme",
+    "valid": true
+  },
+  {
+    "surface": "s'était",
+    "valid": false,
+    "reason": "代词式助动词变位"
+  },
+  {
+    "surface": "instauré",
+    "valid": false,
+    "reason": "过去分词形式"
+  },
+  {
+    "surface": "passaient",
+    "valid": false,
+    "reason": "动词变位形式"
+  },
+  {
+    "surface": "sa personne",
+    "valid": true
+  },
+  {
+    "surface": "la composante",
+    "valid": true
+  },
+  {
+    "surface": "énoncération",
+    "valid": true
+  },
+  {
+    "surface": "s'est",
+    "valid": false,
+    "reason": "代词式助动词变位"
+  },
+  {
+    "surface": "sa relation",
+    "valid": true
+  },
+  {
+    "surface": "sa mérite",
+    "valid": false,
+    "reason": "语法错误短语（mérite为动词/阳性名词）"
+  },
+  {
+    "surface": "subit",
+    "valid": false,
+    "reason": "动词变位形式"
+  },
+  {
+    "surface": "l'épreuve",
+    "valid": true
+  },
+  {
+    "surface": "son extinction",
+    "valid": true
+  },
+  {
+    "surface": "Sa part inactuelle",
+    "valid": true
+  },
+  {
+    "surface": "repreendre",
+    "valid": false,
+    "reason": "拼写错误，动词不定式"
+  },
+  {
+    "surface": "ayant",
+    "valid": false,
+    "reason": "现在分词/助动词形式"
+  },
+  {
+    "surface": "pris",
+    "valid": false,
+    "reason": "过去分词形式"
+  },
+  {
+    "surface": "le dessus",
+    "valid": true
+  },
+  {
+    "surface": "sa part possible",
+    "valid": true
+  },
+  {
+    "surface": "ouvert",
+    "valid": false,
+    "reason": "过去分词/形容词形式"
+  },
+  {
+    "surface": "une représentation",
+    "valid": true
+  },
+  {
+    "surface": "sa mère",
+    "valid": true
+  },
+  {
+    "surface": "erratique",
+    "valid": false,
+    "reason": "形容词形式"
+  },
+  {
+    "surface": "vaguement",
+    "valid": false,
+    "reason": "副词"
+  },
+  {
+    "surface": "menacante",
+    "valid": false,
+    "reason": "形容词形式（拼写错误）"
+  },
+  {
+    "surface": "trouve",
+    "valid": false,
+    "reason": "动词变位形式"
+  },
+  {
+    "surface": "Cette image",
+    "valid": true
+  },
+  {
+    "surface": "l'abri",
+    "valid": true
+  },
+  {
+    "surface": "toute épreuve",
+    "valid": true
+  },
+  {
+    "surface": "périfération",
+    "valid": true
+  },
+  {
+    "surface": "Le sujet",
+    "valid": true
+  },
+  {
+    "surface": "l'écrit",
+    "valid": true
+  },
+  {
+    "surface": "crampone",
+    "valid": false,
+    "reason": "动词变位形式"
+  },
+  {
+    "surface": "l'objet",
+    "valid": true
+  },
+  {
+    "surface": "ce cas particulier",
+    "valid": true
+  },
+  {
+    "surface": "la seule conséquence manifeste",
+    "valid": true
+  },
+  {
+    "surface": "contraction",
+    "valid": true
+  },
+  {
+    "surface": "s'être",
+    "valid": false,
+    "reason": "代词式助动词不定式"
+  },
+  {
+    "surface": "localisée",
+    "valid": false,
+    "reason": "过去分词/形容词形式"
+  },
+  {
+    "surface": "la partie vocale",
+    "valid": true
+  },
+  {
+    "surface": "l'activité musicale",
+    "valid": true
+  },
+  {
+    "surface": "concevable",
+    "valid": false,
+    "reason": "形容词形式"
+  },
+  {
+    "surface": "exploration",
+    "valid": true
+  },
+  {
+    "surface": "soutenue",
+    "valid": false,
+    "reason": "过去分词/形容词形式"
+  },
+  {
+    "surface": "d'autres incidences",
+    "valid": true
+  },
+  {
+    "surface": "enquête",
+    "valid": true
+  },
+  {
+    "surface": "culte-elle",
+    "valid": false,
+    "reason": "含连字符的代词式碎片"
+  },
+  {
+    "surface": "été",
+    "valid": false,
+    "reason": "助动词过去分词形式"
+  },
+  {
+    "surface": "absolument",
+    "valid": false,
+    "reason": "副词"
+  },
+  {
+    "surface": "croyons",
+    "valid": false,
+    "reason": "动词变位形式"
+  },
+  {
+    "surface": "redressement",
+    "valid": true
+  },
+  {
+    "surface": "formations",
+    "valid": true
+  },
+  {
+    "surface": "l'Inconscion",
+    "valid": true
+  },
+  {
+    "surface": "d'economiser",
+    "valid": false,
+    "reason": "含介词与动词不定式的碎片"
+  },
+  {
+    "surface": "notions",
+    "valid": true
+  },
+  {
+    "surface": "signification",
+    "valid": true
+  },
+  {
+    "surface": "entités transcendentales",
+    "valid": true
+  },
+  {
+    "surface": "imperméables",
+    "valid": false,
+    "reason": "形容词复数形式"
+  },
+  {
+    "surface": "situations concretes",
+    "valid": true
+  },
+  {
+    "surface": "Les références les plus abstraites",
+    "valid": true
+  },
+  {
+    "surface": ", les plus radicalement incorporelles sont en prise",
+    "valid": false,
+    "reason": "含标点、副词与动词的句子碎片"
+  },
+  {
+    "surface": "le réel",
+    "valid": true
+  },
+  {
+    "surface": "les traversen",
+    "valid": false,
+    "reason": "含动词变位的短语碎片"
+  },
+  {
+    "surface": "les Flux",
+    "valid": true
+  },
+  {
+    "surface": "ce fait",
+    "valid": true
+  },
+  {
+    "surface": "prémium",
+    "valid": false,
+    "reason": "非标准形式或拼写错误"
+  },
+  {
+    "surface": "les alterations historiques",
+    "valid": true
+  },
+  {
+    "surface": "les mutations",
+    "valid": true
+  },
+  {
+    "surface": "cosmogénetiques",
+    "valid": false,
+    "reason": "形容词复数形式（拼写错误）"
+  },
+  {
+    "surface": "la structure signifique",
+    "valid": true
+  },
+  {
+    "surface": "transcende",
+    "valid": false,
+    "reason": "动词变位形式"
+  },
+  {
+    "surface": "la libido",
+    "valid": true
+  },
+  {
+    "surface": "pourrait",
+    "valid": false,
+    "reason": "助动词/动词变位形式"
+  },
+  {
+    "surface": "ce propos",
+    "valid": true
+  },
+  {
+    "surface": "aisément",
+    "valid": false,
+    "reason": "副词"
+  },
+  {
+    "surface": "démontrer",
+    "valid": false,
+    "reason": "动词不定式"
+  },
+  {
+    "surface": "Lacan",
+    "valid": true
+  },
+  {
+    "surface": "progressivement",
+    "valid": false,
+    "reason": "副词"
+  },
+  {
+    "surface": "substitue",
+    "valid": false,
+    "reason": "动词变位形式"
+  },
+  {
+    "surface": "ce concept",
+    "valid": true
+  },
+  {
+    "surface": "libido",
+    "valid": true
+  },
+  {
+    "surface": "certains contextes",
+    "valid": true
+  },
+  {
+    "surface": "le sens",
+    "valid": true
+  },
+  {
+    "surface": "massivement",
+    "valid": false,
+    "reason": "副词"
+  },
+  {
+    "surface": "des Flux matériels et signalétiques",
+    "valid": true
+  },
+  {
+    "surface": "conçus",
+    "valid": false,
+    "reason": "过去分词形式"
+  },
+  {
+    "surface": "un mode essentielles",
+    "valid": false,
+    "reason": "性数不一致的短语碎片"
+  },
+  {
+    "surface": "passifs",
+    "valid": false,
+    "reason": "形容词复数形式"
+  },
+  {
+    "surface": "d'autres contextes",
+    "valid": true
+  },
+  {
+    "surface": "fluctuations",
+    "valid": true
+  },
+  {
+    "surface": "les stratés",
+    "valid": true
+  },
+  {
+    "surface": "homestiasies",
+    "valid": false,
+    "reason": "拼写错误，非标准形式"
+  },
+  {
+    "surface": "option",
+    "valid": true
+  },
+  {
+    "surface": ", ce refus",
+    "valid": false,
+    "reason": "含标点的短语碎片"
+  },
+  {
+    "surface": "une économie généralisée",
+    "valid": true
+  },
+  {
+    "surface": "equivalences",
+    "valid": true
+  },
+  {
+    "surface": "ce choix",
+    "valid": true
+  },
+  {
+    "surface": "un « cinlamen",
+    "valid": false,
+    "reason": "含标点与疑似拼写错误的碎片"
+  },
+  {
+    "surface": "singularisant",
+    "valid": false,
+    "reason": "现在分词形式"
+  },
+  {
+    "surface": "la répétition",
+    "valid": true
+  },
+  {
+    "surface": "récuser",
+    "valid": false,
+    "reason": "动词不定式"
+  },
+  {
+    "surface": "les cartographies fixes",
+    "valid": true
+  },
+  {
+    "surface": "les invariants",
+    "valid": true
+  },
+  {
+    "surface": "le domaine",
+    "valid": true
+  },
+  {
+    "surface": "s'instrument",
+    "valid": false,
+    "reason": "代词式动词变位"
+  },
+  {
+    "surface": "certaines aires",
+    "valid": true
+  },
+  {
+    "surface": "la triangulation edipienne",
+    "valid": true
+  },
+  {
+    "surface": "le champ",
+    "valid": true
+  },
+  {
+    "surface": "la production capitalisateur",
+    "valid": false,
+    "reason": "性数不一致的短语碎片"
+  },
+  {
+    "surface": "avons",
+    "valid": false,
+    "reason": "助动词变位形式"
+  },
+  {
+    "surface": "notre partie",
+    "valid": true
+  },
+  {
+    "surface": "considérer",
+    "valid": false,
+    "reason": "动词不定式"
+  },
+  {
+    "surface": "les situations",
+    "valid": true
+  },
+  {
+    "surface": "que sous l'angle",
+    "valid": false,
+    "reason": "含连词与介词的短语碎片"
+  },
+  {
+    "surface": "secrétent",
+    "valid": false,
+    "reason": "动词变位形式"
+  },
+  {
+    "surface": "jusqu'",
+    "valid": false,
+    "reason": "介词碎片"
+  },
+  {
+    "surface": "à un certain point",
+    "valid": true
+  },
+  {
+    "surface": ", leurs propriés",
+    "valid": false,
+    "reason": "含标点与拼写错误的碎片"
+  },
+  {
+    "surface": "Un carrefour",
+    "valid": true
+  },
+  {
+    "surface": "certes",
+    "valid": false,
+    "reason": "副词"
+  },
+  {
+    "surface": "imposer",
+    "valid": false,
+    "reason": "动词不定式"
+  },
+  {
+    "surface": "des connexions",
+    "valid": true
+  },
+  {
+    "surface": "une contrainte fixe",
+    "valid": true
+  }
+]

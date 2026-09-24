@@ -1,0 +1,860 @@
+[
+  {
+    "surface": "efficacité",
+    "valid": true
+  },
+  {
+    "surface": "les ordinateurs",
+    "valid": true
+  },
+  {
+    "surface": "les rembères",
+    "valid": true
+  },
+  {
+    "surface": "* machine volante *",
+    "valid": false,
+    "reason": "含星号标点碎片"
+  },
+  {
+    "surface": "leurs * abres",
+    "valid": false,
+    "reason": "含星号标点碎片"
+  },
+  {
+    "surface": "implication *",
+    "valid": false,
+    "reason": "含星号标点碎片"
+  },
+  {
+    "surface": "une véritable forcé",
+    "valid": true
+  },
+  {
+    "surface": "pailiers successifs",
+    "valid": true
+  },
+  {
+    "surface": "sa diagramation",
+    "valid": true
+  },
+  {
+    "surface": "son domain initial",
+    "valid": true
+  },
+  {
+    "surface": "révue",
+    "valid": true
+  },
+  {
+    "surface": "fantaisie",
+    "valid": true
+  },
+  {
+    "surface": "les ressorts",
+    "valid": true
+  },
+  {
+    "surface": "vitaux",
+    "valid": true
+  },
+  {
+    "surface": "des sociétés modernes",
+    "valid": true
+  },
+  {
+    "surface": "Cest la qu'il faut s'arrètter;",
+    "valid": false,
+    "reason": "整句含标点与动词变位"
+  },
+  {
+    "surface": "juste à ce point",
+    "valid": false,
+    "reason": "含介词与限定词，非名词短语"
+  },
+  {
+    "surface": "la discursive expressive",
+    "valid": true
+  },
+  {
+    "surface": "travers les mécanismes",
+    "valid": false,
+    "reason": "含介词travers"
+  },
+  {
+    "surface": "commutation paradigmatique",
+    "valid": true
+  },
+  {
+    "surface": "son rapport",
+    "valid": true
+  },
+  {
+    "surface": "d'arbirette",
+    "valid": true
+  },
+  {
+    "surface": "Référent",
+    "valid": true
+  },
+  {
+    "surface": "force",
+    "valid": true
+  },
+  {
+    "surface": "les stratifications modulaires",
+    "valid": true
+  },
+  {
+    "surface": "tous les jours",
+    "valid": false,
+    "reason": "含限定词与介词，非名词短语"
+  },
+  {
+    "surface": ", de l'Expression",
+    "valid": false,
+    "reason": "含逗号与介词碎片"
+  },
+  {
+    "surface": "une efficiency pragmatique que l'on ne se contentera pas, à la façon des linguistes, d'ajouter comme une bouche de sauvetage aux composantes de dénation et de signification",
+    "valid": false,
+    "reason": "整句含连词代词助动词"
+  },
+  {
+    "surface": "encore plus la linguistique",
+    "valid": false,
+    "reason": "含副词与冠词，非名词短语"
+  },
+  {
+    "surface": "une axiomatisation spécifique",
+    "valid": true
+  },
+  {
+    "surface": "que, pour sa part, Hjelmslev",
+    "valid": false,
+    "reason": "含连词介词代词"
+  },
+  {
+    "surface": "des raisons",
+    "valid": true
+  },
+  {
+    "surface": "différentes des nôres",
+    "valid": false,
+    "reason": "含介词des与形容词"
+  },
+  {
+    "surface": "ressorts pragmatiques",
+    "valid": true
+  },
+  {
+    "surface": "des mutations existentieles",
+    "valid": true
+  },
+  {
+    "surface": ", enoncion",
+    "valid": false,
+    "reason": "含逗号标点碎片"
+  },
+  {
+    "surface": "mêmes dispositifs",
+    "valid": true
+  },
+  {
+    "surface": "sont même, au sens",
+    "valid": false,
+    "reason": "含助动词与介词"
+  },
+  {
+    "surface": ", des expressions",
+    "valid": false,
+    "reason": "含逗号标点碎片"
+  },
+  {
+    "surface": "des fonctions expressives",
+    "valid": true
+  },
+  {
+    "surface": "la requalification existentielle",
+    "valid": true
+  },
+  {
+    "surface": "LA FONCTION EXISTENTIELLE f(exi",
+    "valid": false,
+    "reason": "含括号与截断符号"
+  },
+  {
+    "surface": "médaille",
+    "valid": true
+  },
+  {
+    "surface": "Impossible",
+    "valid": false,
+    "reason": "形容词，非名词"
+  },
+  {
+    "surface": "une direction",
+    "valid": true
+  },
+  {
+    "surface": "le contre-effet",
+    "valid": true
+  },
+  {
+    "surface": "l'avancée",
+    "valid": true
+  },
+  {
+    "surface": "le point",
+    "valid": true
+  },
+  {
+    "surface": "dépliage fractal",
+    "valid": true
+  },
+  {
+    "surface": "cette incidence",
+    "valid": true
+  },
+  {
+    "surface": "les modules territoriales",
+    "valid": true
+  },
+  {
+    "surface": "par seuils",
+    "valid": false,
+    "reason": "含介词par"
+  },
+  {
+    "surface": "attracteurs",
+    "valid": true
+  },
+  {
+    "surface": "Lorsque Léonard",
+    "valid": false,
+    "reason": "含连词Lorsque"
+  },
+  {
+    "surface": "volantes",
+    "valid": true
+  },
+  {
+    "surface": "dessine",
+    "valid": false,
+    "reason": "动词变位"
+  },
+  {
+    "surface": "Il en fait",
+    "valid": false,
+    "reason": "含代词与动词"
+  },
+  {
+    "surface": "des plans",
+    "valid": true
+  },
+  {
+    "surface": "sa tête",
+    "valid": true
+  },
+  {
+    "surface": "choses technico",
+    "valid": true
+  },
+  {
+    "surface": "f(mod",
+    "valid": false,
+    "reason": "含括号与截断符号"
+  },
+  {
+    "surface": "monte",
+    "valid": false,
+    "reason": "动词变位"
+  },
+  {
+    "surface": "cette révénue",
+    "valid": true
+  },
+  {
+    "surface": "trajectoire",
+    "valid": true
+  },
+  {
+    "surface": "une phase",
+    "valid": true
+  },
+  {
+    "surface": "attraction",
+    "valid": true
+  },
+  {
+    "surface": "Notons",
+    "valid": false,
+    "reason": "动词变位"
+  },
+  {
+    "surface": "une des intuitions fondamentales",
+    "valid": true
+  },
+  {
+    "surface": "Hjelmslev",
+    "valid": true
+  },
+  {
+    "surface": "cet aller",
+    "valid": true
+  },
+  {
+    "surface": "après un enrichissement",
+    "valid": false,
+    "reason": "含介词après"
+  },
+  {
+    "surface": "leurs potentiales",
+    "valid": true
+  },
+  {
+    "surface": "une nouvelle espèce",
+    "valid": true
+  },
+  {
+    "surface": "territorialise existentielle",
+    "valid": true
+  },
+  {
+    "surface": "2) point",
+    "valid": false,
+    "reason": "含数字与括号碎片"
+  },
+  {
+    "surface": "tenseur expressif",
+    "valid": true
+  },
+  {
+    "surface": "conversion",
+    "valid": true
+  },
+  {
+    "surface": "leur fonction denotative",
+    "valid": true
+  },
+  {
+    "surface": "être-à-lui",
+    "valid": false,
+    "reason": "含助动词être与介词à"
+  },
+  {
+    "surface": "trans-fins",
+    "valid": true
+  },
+  {
+    "surface": "une existentialité",
+    "valid": true
+  },
+  {
+    "surface": "les chaines",
+    "valid": true
+  },
+  {
+    "surface": "Délégation",
+    "valid": true
+  },
+  {
+    "surface": "la Délégation ontologique",
+    "valid": true
+  },
+  {
+    "surface": "Vorstellungserpensantz",
+    "valid": true
+  },
+  {
+    "surface": "la pulSION freudienne",
+    "valid": true
+  },
+  {
+    "surface": "un Corps-existent-sans-organne,",
+    "valid": false,
+    "reason": "含逗号标点碎片"
+  },
+  {
+    "surface": "parties distinctes",
+    "valid": true
+  },
+  {
+    "surface": "externe discernabilis",
+    "valid": true
+  },
+  {
+    "surface": "une organicité",
+    "valid": true
+  },
+  {
+    "surface": "procuration",
+    "valid": true
+  },
+  {
+    "surface": "un soma",
+    "valid": true
+  },
+  {
+    "surface": "emprunt",
+    "valid": true
+  },
+  {
+    "surface": "exemples",
+    "valid": true
+  },
+  {
+    "surface": "chainons discursifs",
+    "valid": true
+  },
+  {
+    "surface": "office",
+    "valid": true
+  },
+  {
+    "surface": "sceneshifte",
+    "valid": true
+  },
+  {
+    "surface": "visageité",
+    "valid": true
+  },
+  {
+    "surface": "signatures",
+    "valid": true
+  },
+  {
+    "surface": "la rubrique générique",
+    "valid": true
+  },
+  {
+    "surface": "ritournelles",
+    "valid": true
+  },
+  {
+    "surface": "existentielle1",
+    "valid": false,
+    "reason": "含数字后缀"
+  },
+  {
+    "surface": "aborde",
+    "valid": false,
+    "reason": "动词变位"
+  },
+  {
+    "surface": "structures modulaires",
+    "valid": true
+  },
+  {
+    "surface": "visage humain",
+    "valid": true
+  },
+  {
+    "surface": "la dérive",
+    "valid": true
+  },
+  {
+    "surface": "la gueule animale",
+    "valid": true
+  },
+  {
+    "surface": "leur caractère",
+    "valid": true
+  },
+  {
+    "surface": "gueule",
+    "valid": true
+  },
+  {
+    "surface": "un code",
+    "valid": true
+  },
+  {
+    "surface": "potentialités théoriquement illimitées",
+    "valid": true
+  },
+  {
+    "surface": "la grille",
+    "valid": true
+  },
+  {
+    "surface": "significations dominantes",
+    "valid": true
+  },
+  {
+    "surface": "Un rire",
+    "valid": true
+  },
+  {
+    "surface": "la folie",
+    "valid": true
+  },
+  {
+    "surface": "sédusains",
+    "valid": true
+  },
+  {
+    "surface": "une speakerine",
+    "valid": true
+  },
+  {
+    "surface": "télévision",
+    "valid": true
+  },
+  {
+    "surface": "laudience",
+    "valid": true
+  },
+  {
+    "surface": "laue",
+    "valid": true
+  },
+  {
+    "surface": ", la clé diagrammatique",
+    "valid": false,
+    "reason": "含逗号标点碎片"
+  },
+  {
+    "surface": "signature",
+    "valid": true
+  },
+  {
+    "surface": "un individu particulier",
+    "valid": true
+  },
+  {
+    "surface": "ou encore d'un groupe",
+    "valid": false,
+    "reason": "含连词ou与介词d'"
+  },
+  {
+    "surface": "sa star",
+    "valid": true
+  },
+  {
+    "surface": "même le catalyseur",
+    "valid": false,
+    "reason": "含副词même"
+  },
+  {
+    "surface": "une effusion culturelle",
+    "valid": true
+  },
+  {
+    "surface": "delimitation précise",
+    "valid": true
+  },
+  {
+    "surface": "lat",
+    "valid": true
+  },
+  {
+    "surface": "L'inversion",
+    "valid": true
+  },
+  {
+    "surface": "la danse",
+    "valid": true
+  },
+  {
+    "surface": "les modalités réfétérentielles",
+    "valid": true
+  },
+  {
+    "surface": "les conditions extrinseures",
+    "valid": true
+  },
+  {
+    "surface": "redefinies",
+    "valid": true
+  },
+  {
+    "surface": "contresens",
+    "valid": true
+  },
+  {
+    "surface": "Flux actuels",
+    "valid": true
+  },
+  {
+    "surface": "le domaine virtuel",
+    "valid": true
+  },
+  {
+    "surface": "extraordinaires conversions",
+    "valid": true
+  },
+  {
+    "surface": "le siege",
+    "valid": true
+  },
+  {
+    "surface": "zone",
+    "valid": true
+  },
+  {
+    "surface": "les requalifications successives",
+    "valid": true
+  },
+  {
+    "surface": "1) point",
+    "valid": false,
+    "reason": "含数字与括号碎片"
+  },
+  {
+    "surface": "aboutissement formel du tenseur matière-forme de la fonction modulaire f(mod",
+    "valid": false,
+    "reason": "含介词与括号截断符号"
+  },
+  {
+    "surface": "Moyen Age, ave le visage du Christ Pantocrator qui se mit à hanter littérairement les horizons multiples de la chrétient.",
+    "valid": false,
+    "reason": "整句含连词代词介词"
+  },
+  {
+    "surface": "Il en ira",
+    "valid": false,
+    "reason": "含代词与动词"
+  },
+  {
+    "surface": "l'emblème",
+    "valid": true
+  },
+  {
+    "surface": "la signature",
+    "valid": true
+  },
+  {
+    "surface": "tout à la fois",
+    "valid": false,
+    "reason": "含副词与介词"
+  },
+  {
+    "surface": "les catalyses enonétiques",
+    "valid": true
+  },
+  {
+    "surface": "des ritournelles",
+    "valid": true
+  },
+  {
+    "surface": "la souliング encore les diférences",
+    "valid": false,
+    "reason": "含副词encore与混合字符"
+  },
+  {
+    "surface": "ce *retour",
+    "valid": false,
+    "reason": "含星号标点碎片"
+  },
+  {
+    "surface": "* diagrammatique",
+    "valid": false,
+    "reason": "含星号标点碎片"
+  },
+  {
+    "surface": "deterritorialisme",
+    "valid": true
+  },
+  {
+    "surface": "quelque d'irresistible",
+    "valid": false,
+    "reason": "含介词d'"
+  },
+  {
+    "surface": "un fractalisme",
+    "valid": true
+  },
+  {
+    "surface": "f(diag",
+    "valid": false,
+    "reason": "含括号与截断符号"
+  },
+  {
+    "surface": "la marge",
+    "valid": true
+  },
+  {
+    "surface": "manqueleur",
+    "valid": true
+  },
+  {
+    "surface": "les ritournelles",
+    "valid": true
+  },
+  {
+    "surface": "celles-ci",
+    "valid": false,
+    "reason": "指示代词"
+  },
+  {
+    "surface": "possibilites d-∞",
+    "valid": false,
+    "reason": "含数学符号∞"
+  },
+  {
+    "surface": "striages modulaires",
+    "valid": true
+  },
+  {
+    "surface": "caisse",
+    "valid": true
+  },
+  {
+    "surface": "tension existentielle",
+    "valid": true
+  },
+  {
+    "surface": "l'enoncissement",
+    "valid": true
+  },
+  {
+    "surface": "une fois de plus",
+    "valid": false,
+    "reason": "含介词de与副词plus"
+  },
+  {
+    "surface": "détour",
+    "valid": true
+  },
+  {
+    "surface": "le cycle complet",
+    "valid": true
+  },
+  {
+    "surface": "la déterminabilité extrinsèque",
+    "valid": true
+  },
+  {
+    "surface": "fonction diagrammatique",
+    "valid": true
+  },
+  {
+    "surface": "charge",
+    "valid": true
+  },
+  {
+    "surface": "point Pc, des Signe-partiques (SP) (fig.",
+    "valid": false,
+    "reason": "含标点括号与缩写"
+  },
+  {
+    "surface": "Avece",
+    "valid": true
+  },
+  {
+    "surface": "ce rabat",
+    "valid": true
+  },
+  {
+    "surface": "repasse",
+    "valid": false,
+    "reason": "动词变位"
+  },
+  {
+    "surface": "moléculaire",
+    "valid": false,
+    "reason": "形容词，非名词"
+  },
+  {
+    "surface": "registre modulaire-molaire",
+    "valid": true
+  },
+  {
+    "surface": "autant à la case",
+    "valid": false,
+    "reason": "含副词与介词"
+  },
+  {
+    "surface": "la nouvelle",
+    "valid": true
+  },
+  {
+    "surface": "position existente",
+    "valid": true
+  },
+  {
+    "surface": "des potentialités sémiotiques",
+    "valid": true
+  },
+  {
+    "surface": ", de catalyse",
+    "valid": false,
+    "reason": "含逗号与介词碎片"
+  },
+  {
+    "surface": "continents",
+    "valid": true
+  },
+  {
+    "surface": "Suivons",
+    "valid": false,
+    "reason": "动词变位"
+  },
+  {
+    "surface": "ce retour",
+    "valid": true
+  },
+  {
+    "surface": "résiduelles",
+    "valid": false,
+    "reason": "形容词，非名词"
+  },
+  {
+    "surface": "la fractalisation restaient",
+    "valid": false,
+    "reason": "含动词变位restaient"
+  },
+  {
+    "surface": "tensions",
+    "valid": true
+  },
+  {
+    "surface": "génératrice",
+    "valid": true
+  },
+  {
+    "surface": "routielles",
+    "valid": true
+  },
+  {
+    "surface": "une tout autre façon",
+    "valid": false,
+    "reason": "含副词tout与形容词autre"
+  },
+  {
+    "surface": "stratifications",
+    "valid": true
+  },
+  {
+    "surface": "recroquevillees",
+    "valid": true
+  },
+  {
+    "surface": "coupees",
+    "valid": true
+  },
+  {
+    "surface": "leurs anciens rapports",
+    "valid": true
+  },
+  {
+    "surface": "anciens striagages modulaires",
+    "valid": true
+  },
+  {
+    "surface": ", une nouvelle mémoire",
+    "valid": false,
+    "reason": "含逗号标点碎片"
+  },
+  {
+    "surface": "être, hyper-active, virulente",
+    "valid": false,
+    "reason": "含助动词être与逗号"
+  },
+  {
+    "surface": ", du fait",
+    "valid": false,
+    "reason": "含逗号与介词碎片"
+  }
+]

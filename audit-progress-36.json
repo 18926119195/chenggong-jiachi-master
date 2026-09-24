@@ -1,0 +1,893 @@
+[
+  {
+    "surface": "ces trois fonctions",
+    "valid": true
+  },
+  {
+    "surface": ", d'acélération",
+    "valid": false,
+    "reason": "标点开头且为介词短语碎片"
+  },
+  {
+    "surface": "de specification",
+    "valid": false,
+    "reason": "介词短语碎片，非独立名词"
+  },
+  {
+    "surface": "consécutivement",
+    "valid": false,
+    "reason": "副词"
+  },
+  {
+    "surface": "opérateurs catalytiques",
+    "valid": true
+  },
+  {
+    "surface": ", de polarisation",
+    "valid": false,
+    "reason": "标点开头且为介词短语碎片"
+  },
+  {
+    "surface": "le terme générique",
+    "valid": true
+  },
+  {
+    "surface": "crible",
+    "valid": true
+  },
+  {
+    "surface": "une perte",
+    "valid": true
+  },
+  {
+    "surface": "consistence ontologique",
+    "valid": true
+  },
+  {
+    "surface": "une ouverture déterritorialisante",
+    "valid": true
+  },
+  {
+    "surface": "de nouveaux Phylum possibilistes: ici, en occurrance, avec la déterritorialisante enzymatique, à la accession à rien moins qu'aux champs de possible (♂) et aux mutations de virtualité (U.) propres à la matié vivante",
+    "valid": false,
+    "reason": "过长短语碎片，含标点与符号，非规范名词短语"
+  },
+  {
+    "surface": "le concept",
+    "valid": true
+  },
+  {
+    "surface": "une constance*",
+    "valid": false,
+    "reason": "含星号符号碎片"
+  },
+  {
+    "surface": "portue",
+    "valid": false,
+    "reason": "拼写错误/非标准词形"
+  },
+  {
+    "surface": "héterogénité",
+    "valid": false,
+    "reason": "拼写错误/非标准词形"
+  },
+  {
+    "surface": "de précarité",
+    "valid": false,
+    "reason": "介词短语碎片"
+  },
+  {
+    "surface": "un renonement",
+    "valid": false,
+    "reason": "拼写错误/非标准词形"
+  },
+  {
+    "surface": "opposition massives",
+    "valid": false,
+    "reason": "语法不一致的短语碎片"
+  },
+  {
+    "surface": "/Néant",
+    "valid": false,
+    "reason": "含斜杠符号碎片"
+  },
+  {
+    "surface": "l'ontologie sartienne",
+    "valid": true
+  },
+  {
+    "surface": "la détailisation",
+    "valid": true
+  },
+  {
+    "surface": "demurieu indisocible",
+    "valid": false,
+    "reason": "拼写错误/非标准词形"
+  },
+  {
+    "surface": "la néantisation",
+    "valid": true
+  },
+  {
+    "surface": "un axe",
+    "valid": true
+  },
+  {
+    "surface": "référence proto-spatial",
+    "valid": true
+  },
+  {
+    "surface": "référence modulaire",
+    "valid": true
+  },
+  {
+    "surface": "T.F.",
+    "valid": false,
+    "reason": "缩写/符号碎片"
+  },
+  {
+    "surface": "foncièrement héterogène",
+    "valid": false,
+    "reason": "副词+形容词，非名词短语"
+  },
+  {
+    "surface": "constances proto-tempo-relles",
+    "valid": true
+  },
+  {
+    "surface": "les paliers",
+    "valid": true
+  },
+  {
+    "surface": "Expression fractale",
+    "valid": true
+  },
+  {
+    "surface": "la censure brutale",
+    "valid": true
+  },
+  {
+    "surface": "la gomme ouverte des intensités existentieles",
+    "valid": true
+  },
+  {
+    "surface": "une autre manière",
+    "valid": true
+  },
+  {
+    "surface": "des mythes ancestrales",
+    "valid": false,
+    "reason": "语法不一致的短语碎片"
+  },
+  {
+    "surface": "la perrennite",
+    "valid": false,
+    "reason": "拼写错误/非标准词形"
+  },
+  {
+    "surface": "au ceux",
+    "valid": false,
+    "reason": "语法错误碎片"
+  },
+  {
+    "surface": ", plus récents",
+    "valid": false,
+    "reason": "标点开头且为比较短语碎片"
+  },
+  {
+    "surface": "la conservation",
+    "valid": true
+  },
+  {
+    "surface": "aucune forme",
+    "valid": true
+  },
+  {
+    "surface": "etre brut",
+    "valid": false,
+    "reason": "动词不定式+形容词，非名词短语"
+  },
+  {
+    "surface": "l'Agence",
+    "valid": true
+  },
+  {
+    "surface": "approchement",
+    "valid": false,
+    "reason": "拼写错误/非标准词形"
+  },
+  {
+    "surface": "les détails",
+    "valid": true
+  },
+  {
+    "surface": "trajet",
+    "valid": true
+  },
+  {
+    "surface": "la trajectoire",
+    "valid": true
+  },
+  {
+    "surface": "de la destinie",
+    "valid": false,
+    "reason": "介词短语碎片且拼写错误"
+  },
+  {
+    "surface": "Il est modulation",
+    "valid": false,
+    "reason": "含代词与助动词的句子碎片"
+  },
+  {
+    "surface": "montage",
+    "valid": true
+  },
+  {
+    "surface": "de démontage",
+    "valid": false,
+    "reason": "介词短语碎片"
+  },
+  {
+    "surface": "Sa cohéion",
+    "valid": false,
+    "reason": "拼写错误/非标准词形"
+  },
+  {
+    "surface": "sa cohéence",
+    "valid": false,
+    "reason": "拼写错误/非标准词形"
+  },
+  {
+    "surface": "n'un principe interne",
+    "valid": false,
+    "reason": "语法错误碎片"
+  },
+  {
+    "surface": "eternité",
+    "valid": true
+  },
+  {
+    "surface": "d'cadrage",
+    "valid": false,
+    "reason": "介词短语碎片且拼写错误"
+  },
+  {
+    "surface": "les existants",
+    "valid": true
+  },
+  {
+    "surface": "à la conjugation",
+    "valid": false,
+    "reason": "介词短语碎片"
+  },
+  {
+    "surface": "processualités",
+    "valid": true
+  },
+  {
+    "surface": "transversalité existentielle",
+    "valid": true
+  },
+  {
+    "surface": "des vitesses",
+    "valid": true
+  },
+  {
+    "surface": "recursivité",
+    "valid": true
+  },
+  {
+    "surface": "un balayage",
+    "valid": true
+  },
+  {
+    "surface": "tous les espaces",
+    "valid": true
+  },
+  {
+    "surface": "à un lissage",
+    "valid": false,
+    "reason": "介词短语碎片"
+  },
+  {
+    "surface": "toutes les temporalties possibles",
+    "valid": false,
+    "reason": "拼写错误/非标准词形"
+  },
+  {
+    "surface": "une autre part",
+    "valid": true
+  },
+  {
+    "surface": "le straîge",
+    "valid": false,
+    "reason": "拼写错误/非标准词形"
+  },
+  {
+    "surface": "vitesses relatives de référence",
+    "valid": true
+  },
+  {
+    "surface": "CRIBLES",
+    "valid": true
+  },
+  {
+    "surface": "un instant ce",
+    "valid": false,
+    "reason": "语法错误碎片"
+  },
+  {
+    "surface": "un catalyseur ordinaire",
+    "valid": true
+  },
+  {
+    "surface": "la chimie minérale",
+    "valid": true
+  },
+  {
+    "surface": "un catalyseur enzymatique",
+    "valid": true
+  },
+  {
+    "surface": "chimie organique",
+    "valid": true
+  },
+  {
+    "surface": "Essentiellement la vitesse",
+    "valid": false,
+    "reason": "副词+名词短语碎片"
+  },
+  {
+    "surface": "la réaction catalyseuse",
+    "valid": true
+  },
+  {
+    "surface": ", sa spécifique",
+    "valid": false,
+    "reason": "标点开头且为限定词+形容词碎片"
+  },
+  {
+    "surface": "ses implications processuelles",
+    "valid": true
+  },
+  {
+    "surface": "Les enzymes",
+    "valid": true
+  },
+  {
+    "surface": "les réactions",
+    "valid": true
+  },
+  {
+    "surface": "des facteurs",
+    "valid": true
+  },
+  {
+    "surface": "états entitaires",
+    "valid": true
+  },
+  {
+    "surface": "- les multiplicités chaotiques",
+    "valid": false,
+    "reason": "连字符开头碎片"
+  },
+  {
+    "surface": "des viteses infinies",
+    "valid": false,
+    "reason": "拼写错误/非标准词形"
+  },
+  {
+    "surface": "arrangements complexes",
+    "valid": true
+  },
+  {
+    "surface": "les cribles existentiels",
+    "valid": true
+  },
+  {
+    "surface": "des ensembles relativement homogènes d'arrangements caractérisés par des ralentissements itératifs locaux et localisants",
+    "valid": true
+  },
+  {
+    "surface": "les valeurs",
+    "valid": true
+  },
+  {
+    "surface": "alternatives",
+    "valid": true
+  },
+  {
+    "surface": "binaries exclusives",
+    "valid": false,
+    "reason": "拼写错误/非标准词形"
+  },
+  {
+    "surface": "oppositions",
+    "valid": true
+  },
+  {
+    "surface": "La consistance existente",
+    "valid": false,
+    "reason": "拼写错误/非标准词形"
+  },
+  {
+    "surface": "catégories pathiques",
+    "valid": true
+  },
+  {
+    "surface": "Viktor",
+    "valid": true
+  },
+  {
+    "surface": "Weizsacker",
+    "valid": true
+  },
+  {
+    "surface": "catégories ontiques",
+    "valid": true
+  },
+  {
+    "surface": "voulu",
+    "valid": false,
+    "reason": "过去分词"
+  },
+  {
+    "surface": "aux divers modèles",
+    "valid": true
+  },
+  {
+    "surface": "mutuellement",
+    "valid": false,
+    "reason": "副词"
+  },
+  {
+    "surface": "que von",
+    "valid": false,
+    "reason": "连词+介词碎片"
+  },
+  {
+    "surface": "mouvement",
+    "valid": true
+  },
+  {
+    "surface": "la approuiture",
+    "valid": false,
+    "reason": "拼写错误/非标准词形"
+  },
+  {
+    "surface": "Grundverhältnis",
+    "valid": true
+  },
+  {
+    "surface": ", l'amorce",
+    "valid": false,
+    "reason": "标点开头碎片"
+  },
+  {
+    "surface": "une théorie",
+    "valid": true
+  },
+  {
+    "surface": "'appropriation existente et du transfert graphique généralisé",
+    "valid": false,
+    "reason": "撇号开头且为短语碎片"
+  },
+  {
+    "surface": "proposions",
+    "valid": false,
+    "reason": "动词变位形式"
+  },
+  {
+    "surface": "nos catégories",
+    "valid": true
+  },
+  {
+    "surface": "Territoire existentiel",
+    "valid": true
+  },
+  {
+    "surface": "d'Univers",
+    "valid": false,
+    "reason": "介词短语碎片"
+  },
+  {
+    "surface": "référence1",
+    "valid": false,
+    "reason": "含数字后缀碎片"
+  },
+  {
+    "surface": "Les cribes",
+    "valid": false,
+    "reason": "拼写错误/非标准词形"
+  },
+  {
+    "surface": "multiplicités chaotiques",
+    "valid": true
+  },
+  {
+    "surface": "englancert",
+    "valid": false,
+    "reason": "拼写错误/非标准词形"
+  },
+  {
+    "surface": "l'un l'autre",
+    "valid": false,
+    "reason": "代词短语"
+  },
+  {
+    "surface": "ces deux états",
+    "valid": true
+  },
+  {
+    "surface": "le décroissement",
+    "valid": true
+  },
+  {
+    "surface": "cribes",
+    "valid": false,
+    "reason": "拼写错误/非标准词形"
+  },
+  {
+    "surface": "une stabilité relative aux séquences de prises de constance",
+    "valid": true
+  },
+  {
+    "surface": "les multiplicités",
+    "valid": true
+  },
+  {
+    "surface": "tache",
+    "valid": true
+  },
+  {
+    "surface": "stades",
+    "valid": true
+  },
+  {
+    "surface": "décroissement",
+    "valid": true
+  },
+  {
+    "surface": "cense",
+    "valid": false,
+    "reason": "拼写错误/非标准词形"
+  },
+  {
+    "surface": "des mariages",
+    "valid": true
+  },
+  {
+    "surface": "de nouvelles compositions",
+    "valid": true
+  },
+  {
+    "surface": "l'infin",
+    "valid": false,
+    "reason": "拼写错误/非标准词形"
+  },
+  {
+    "surface": "régimes",
+    "valid": true
+  },
+  {
+    "surface": "uns",
+    "valid": false,
+    "reason": "非标准词形"
+  },
+  {
+    "surface": "supremie",
+    "valid": false,
+    "reason": "拼写错误/非标准词形"
+  },
+  {
+    "surface": "que tous dans le domaine",
+    "valid": false,
+    "reason": "连词开头短语碎片"
+  },
+  {
+    "surface": "qu'à l'inverse une supremie",
+    "valid": false,
+    "reason": "连词开头短语碎片且拼写错误"
+  },
+  {
+    "surface": "virtuel",
+    "valid": false,
+    "reason": "形容词"
+  },
+  {
+    "surface": "l'espece",
+    "valid": true
+  },
+  {
+    "surface": "litres",
+    "valid": true
+  },
+  {
+    "surface": ", des barrages",
+    "valid": false,
+    "reason": "标点开头碎片"
+  },
+  {
+    "surface": ", des moules",
+    "valid": false,
+    "reason": "标点开头碎片"
+  },
+  {
+    "surface": "des attracteurs pontuels",
+    "valid": false,
+    "reason": "拼写错误/非标准词形"
+  },
+  {
+    "surface": ", circulaires",
+    "valid": false,
+    "reason": "标点开头且为形容词碎片"
+  },
+  {
+    "surface": "étranges",
+    "valid": false,
+    "reason": "形容词"
+  },
+  {
+    "surface": "fractures",
+    "valid": true
+  },
+  {
+    "surface": "des catalyseurs",
+    "valid": true
+  },
+  {
+    "surface": ", des enzymes",
+    "valid": false,
+    "reason": "标点开头碎片"
+  },
+  {
+    "surface": "des codages génétiques",
+    "valid": true
+  },
+  {
+    "surface": ", des perceptions",
+    "valid": false,
+    "reason": "标点开头碎片"
+  },
+  {
+    "surface": "étayages",
+    "valid": true
+  },
+  {
+    "surface": "des contraintes poétiques",
+    "valid": true
+  },
+  {
+    "surface": ", des procédures",
+    "valid": false,
+    "reason": "标点开头碎片"
+  },
+  {
+    "surface": "aussi des échangeurs",
+    "valid": false,
+    "reason": "副词开头短语碎片"
+  },
+  {
+    "surface": "routiers",
+    "valid": false,
+    "reason": "形容词"
+  },
+  {
+    "surface": "des institutions bourisculaires",
+    "valid": false,
+    "reason": "拼写错误/非标准词形"
+  },
+  {
+    "surface": "tous les registres",
+    "valid": true
+  },
+  {
+    "surface": "des cribes",
+    "valid": false,
+    "reason": "拼写错误/非标准词形"
+  },
+  {
+    "surface": "inter-face",
+    "valid": true
+  },
+  {
+    "surface": "les virtualités virulentes",
+    "valid": true
+  },
+  {
+    "surface": ", les proliferations",
+    "valid": false,
+    "reason": "标点开头碎片"
+  },
+  {
+    "surface": "les potentialités actuelles",
+    "valid": true
+  },
+  {
+    "surface": "Non seulement une même concaténation entitie",
+    "valid": false,
+    "reason": "连词短语碎片且拼写错误"
+  },
+  {
+    "surface": "des constances",
+    "valid": true
+  },
+  {
+    "surface": "définitions antagonistes",
+    "valid": true
+  },
+  {
+    "surface": "jumelage",
+    "valid": true
+  },
+  {
+    "surface": "constances nulles",
+    "valid": true
+  },
+  {
+    "surface": "rapides",
+    "valid": false,
+    "reason": "形容词"
+  },
+  {
+    "surface": "des constances ralenties et relativement déterritorialisations",
+    "valid": false,
+    "reason": "语法不一致的短语碎片"
+  },
+  {
+    "surface": "*Agence",
+    "valid": false,
+    "reason": "含星号符号碎片"
+  },
+  {
+    "surface": "énonciation*.",
+    "valid": false,
+    "reason": "含星号与句点符号碎片"
+  },
+  {
+    "surface": "une autre série",
+    "valid": true
+  },
+  {
+    "surface": "paradoxes",
+    "valid": true
+  },
+  {
+    "surface": "incarne",
+    "valid": false,
+    "reason": "动词变位形式"
+  },
+  {
+    "surface": "concurrenment",
+    "valid": false,
+    "reason": "拼写错误/非标准词形"
+  },
+  {
+    "surface": "ondulatoire",
+    "valid": false,
+    "reason": "形容词"
+  },
+  {
+    "surface": "leur manière",
+    "valid": true
+  },
+  {
+    "surface": "les schizoanalyses",
+    "valid": true
+  },
+  {
+    "surface": "les composantes disjonctrices",
+    "valid": true
+  },
+  {
+    "surface": "une psychose",
+    "valid": true
+  },
+  {
+    "surface": "les espaces",
+    "valid": true
+  },
+  {
+    "surface": "régime",
+    "valid": true
+  },
+  {
+    "surface": "les identités respectives",
+    "valid": true
+  },
+  {
+    "surface": "une *portée*",
+    "valid": false,
+    "reason": "含星号符号碎片"
+  },
+  {
+    "surface": "un espace vital",
+    "valid": true
+  },
+  {
+    "surface": "la *constantisation",
+    "valid": false,
+    "reason": "含星号符号碎片"
+  },
+  {
+    "surface": "une constance",
+    "valid": true
+  },
+  {
+    "surface": "Le régime",
+    "valid": true
+  },
+  {
+    "surface": "étape inaugurale",
+    "valid": true
+  },
+  {
+    "surface": "- d'un Territoire moique",
+    "valid": false,
+    "reason": "连字符开头碎片且拼写错误"
+  },
+  {
+    "surface": "corporel",
+    "valid": false,
+    "reason": "形容词"
+  },
+  {
+    "surface": "ce Territoire",
+    "valid": true
+  },
+  {
+    "surface": "rapide",
+    "valid": false,
+    "reason": "形容词"
+  },
+  {
+    "surface": "un délire",
+    "valid": true
+  },
+  {
+    "surface": "héterogène",
+    "valid": false,
+    "reason": "形容词"
+  },
+  {
+    "surface": "dégagement",
+    "valid": true
+  },
+  {
+    "surface": "ultérieurement la portée",
+    "valid": false,
+    "reason": "副词开头短语碎片"
+  },
+  {
+    "surface": "la capitalisation",
+    "valid": true
+  },
+  {
+    "surface": "les rapportes",
+    "valid": false,
+    "reason": "拼写错误/非标准词形"
+  },
+  {
+    "surface": "Phylum possibiliste",
+    "valid": true
+  },
+  {
+    "surface": ", une game",
+    "valid": false,
+    "reason": "标点开头碎片且拼写错误"
+  },
+  {
+    "surface": "de cibles",
+    "valid": false,
+    "reason": "介词短语碎片"
+  },
+  {
+    "surface": "trans-entitaires",
+    "valid": false,
+    "reason": "形容词"
+  },
+  {
+    "surface": "anticipation",
+    "valid": true
+  }
+]

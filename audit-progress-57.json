@@ -1,0 +1,899 @@
+[
+  {
+    "surface": "un champ enonciatif",
+    "valid": true
+  },
+  {
+    "surface": "expression dominante",
+    "valid": true
+  },
+  {
+    "surface": "les arrie",
+    "valid": false,
+    "reason": "碎片/拼写不完整，非有效名词短语"
+  },
+  {
+    "surface": "Cette composante iconique",
+    "valid": true
+  },
+  {
+    "surface": "un certain syncritisme phonologique",
+    "valid": true
+  },
+  {
+    "surface": "deux points",
+    "valid": true
+  },
+  {
+    "surface": "Les lignes polyphoniques",
+    "valid": true
+  },
+  {
+    "surface": "leurs propres espaces",
+    "valid": true
+  },
+  {
+    "surface": "serties",
+    "valid": false,
+    "reason": "形容词/分词形式，非名词"
+  },
+  {
+    "surface": "extrinsees",
+    "valid": false,
+    "reason": "形容词/分词形式，非名词"
+  },
+  {
+    "surface": "Ainsi la place",
+    "valid": false,
+    "reason": "含连词/副词 Ainsi，非纯名词短语"
+  },
+  {
+    "surface": "en père",
+    "valid": false,
+    "reason": "含介词 en，非纯名词短语"
+  },
+  {
+    "surface": "merc",
+    "valid": false,
+    "reason": "碎片/拼写不完整"
+  },
+  {
+    "surface": "mite",
+    "valid": true
+  },
+  {
+    "surface": "les noyaux énocissifes",
+    "valid": true
+  },
+  {
+    "surface": "deterritorialisés",
+    "valid": false,
+    "reason": "形容词/分词形式，非名词"
+  },
+  {
+    "surface": "que dans la réalité",
+    "valid": false,
+    "reason": "含连词/介词，非纯名词短语"
+  },
+  {
+    "surface": "des contenus inconscients",
+    "valid": true
+  },
+  {
+    "surface": "d'enoncés",
+    "valid": true
+  },
+  {
+    "surface": "conscientivement",
+    "valid": false,
+    "reason": "副词，非名词"
+  },
+  {
+    "surface": "explicités",
+    "valid": false,
+    "reason": "形容词/分词形式，非名词"
+  },
+  {
+    "surface": "Ces affectants",
+    "valid": true
+  },
+  {
+    "surface": "interprétants",
+    "valid": true
+  },
+  {
+    "surface": "Pierce",
+    "valid": true
+  },
+  {
+    "surface": "des modes hétergéniques",
+    "valid": true
+  },
+  {
+    "surface": "séismotion",
+    "valid": false,
+    "reason": "疑似拼写错误/非标准词"
+  },
+  {
+    "surface": "Michoacan",
+    "valid": true
+  },
+  {
+    "surface": "Micheline Kao qui fut, en quelque sorte, ma première épouse bien que je n'aie pas été formellement marié avec elle",
+    "valid": false,
+    "reason": "含关系从句/连词，非名词短语"
+  },
+  {
+    "surface": "Ces arrêté",
+    "valid": false,
+    "reason": "碎片/搭配不完整"
+  },
+  {
+    "surface": "-mondes",
+    "valid": false,
+    "reason": "碎片/带连字符片段"
+  },
+  {
+    "surface": "superposés",
+    "valid": false,
+    "reason": "形容词/分词形式，非名词"
+  },
+  {
+    "surface": "un palais",
+    "valid": true
+  },
+  {
+    "surface": "glace",
+    "valid": true
+  },
+  {
+    "surface": "goufre",
+    "valid": false,
+    "reason": "拼写错误，疑似 gouffre"
+  },
+  {
+    "surface": "l'incertitude",
+    "valid": true
+  },
+  {
+    "surface": "la césure relatifs",
+    "valid": false,
+    "reason": "搭配不一致/语法异常"
+  },
+  {
+    "surface": "une telle hétrégénéité",
+    "valid": true
+  },
+  {
+    "surface": "des fragments enonétici",
+    "valid": false,
+    "reason": "碎片/拼写不完整"
+  },
+  {
+    "surface": "le passage Renault au sigle BMW ou le glissement",
+    "valid": false,
+    "reason": "含连词 ou，非纯名词短语"
+  },
+  {
+    "surface": "Arlette Donati",
+    "valid": true
+  },
+  {
+    "surface": "l'abriéviation",
+    "valid": false,
+    "reason": "拼写错误，疑似 abréviation"
+  },
+  {
+    "surface": "une reterritorialisation phonologique",
+    "valid": true
+  },
+  {
+    "surface": "Le Territoire existentiel",
+    "valid": true
+  },
+  {
+    "surface": "Mer demeure",
+    "valid": false,
+    "reason": "疑似动词搭配/非名词短语"
+  },
+  {
+    "surface": "un circuit cycliste",
+    "valid": true
+  },
+  {
+    "surface": "un gouffre vibre",
+    "valid": false,
+    "reason": "含动词 vibre，非名词短语"
+  },
+  {
+    "surface": "façon tangentielle",
+    "valid": true
+  },
+  {
+    "surface": "ce gouffre",
+    "valid": true
+  },
+  {
+    "surface": "que de façon extérieure",
+    "valid": false,
+    "reason": "含连词/介词，非纯名词短语"
+  },
+  {
+    "surface": "1984RenaultA.D.Yasha",
+    "valid": false,
+    "reason": "纯数字/符号/拼接碎片"
+  },
+  {
+    "surface": "David1968BMWArlette",
+    "valid": false,
+    "reason": "纯数字/符号/拼接碎片"
+  },
+  {
+    "surface": "DonatiGilles Deleuze",
+    "valid": false,
+    "reason": "拼接碎片/非规范名词短语"
+  },
+  {
+    "surface": "travers les noms propres",
+    "valid": false,
+    "reason": "含介词 travers，非纯名词短语"
+  },
+  {
+    "surface": "retrouve",
+    "valid": false,
+    "reason": "动词变位，非名词"
+  },
+  {
+    "surface": "l'ambivalence",
+    "valid": true
+  },
+  {
+    "surface": "de Gilles",
+    "valid": false,
+    "reason": "含介词 de，非纯名词短语"
+  },
+  {
+    "surface": "comme noyau",
+    "valid": false,
+    "reason": "含连词 comme，非纯名词短语"
+  },
+  {
+    "surface": "Il résultat",
+    "valid": false,
+    "reason": "含代词 Il，非纯名词短语"
+  },
+  {
+    "surface": "l'application",
+    "valid": true
+  },
+  {
+    "surface": "la composante III",
+    "valid": true
+  },
+  {
+    "surface": "la seconde composante machinique et la cinquième composante affective",
+    "valid": false,
+    "reason": "含连词 et，非纯名词短语"
+  },
+  {
+    "surface": "un monde régressif",
+    "valid": true
+  },
+  {
+    "surface": "parcours initiatif",
+    "valid": true
+  },
+  {
+    "surface": "Lussac",
+    "valid": true
+  },
+  {
+    "surface": "à bicyclette",
+    "valid": false,
+    "reason": "含介词 à，非纯名词短语"
+  },
+  {
+    "surface": "l'homosexualité",
+    "valid": true
+  },
+  {
+    "surface": "cette rue",
+    "valid": true
+  },
+  {
+    "surface": "le souvenir",
+    "valid": true
+  },
+  {
+    "surface": "la vie des plus violentes",
+    "valid": true
+  },
+  {
+    "surface": "la Mal",
+    "valid": false,
+    "reason": "搭配异常/疑似拼写错误"
+  },
+  {
+    "surface": "le matin",
+    "valid": true
+  },
+  {
+    "surface": "mai",
+    "valid": true
+  },
+  {
+    "surface": "la bataille",
+    "valid": true
+  },
+  {
+    "surface": "amis",
+    "valid": true
+  },
+  {
+    "surface": "blessés",
+    "valid": true
+  },
+  {
+    "surface": "toute façon",
+    "valid": true
+  },
+  {
+    "surface": "l'aise",
+    "valid": true
+  },
+  {
+    "surface": "combats",
+    "valid": true
+  },
+  {
+    "surface": "l'affrontement physique",
+    "valid": true
+  },
+  {
+    "surface": "les policiers",
+    "valid": true
+  },
+  {
+    "surface": "ici une double matrice",
+    "valid": false,
+    "reason": "含副词 ici，非纯名词短语"
+  },
+  {
+    "surface": "coarté",
+    "valid": false,
+    "reason": "疑似拼写错误/非标准词"
+  },
+  {
+    "surface": "face au combat",
+    "valid": false,
+    "reason": "含介词短语 face au，非纯名词短语"
+  },
+  {
+    "surface": "face à l'homosexualité",
+    "valid": false,
+    "reason": "含介词 à，非纯名词短语"
+  },
+  {
+    "surface": "terres natales",
+    "valid": true
+  },
+  {
+    "surface": "problématique",
+    "valid": true
+  },
+  {
+    "surface": "des lignes",
+    "valid": true
+  },
+  {
+    "surface": "processuselles",
+    "valid": false,
+    "reason": "疑似拼写错误/形容词形式"
+  },
+  {
+    "surface": "un uobli",
+    "valid": false,
+    "reason": "拼写错误/碎片"
+  },
+  {
+    "surface": ", une inhibition",
+    "valid": false,
+    "reason": "含标点碎片"
+  },
+  {
+    "surface": "l'auto-analyse",
+    "valid": true
+  },
+  {
+    "surface": "de l'oubli",
+    "valid": false,
+    "reason": "含介词 de，非纯名词短语"
+  },
+  {
+    "surface": "seau",
+    "valid": true
+  },
+  {
+    "surface": "seul moyen",
+    "valid": true
+  },
+  {
+    "surface": "un angoise",
+    "valid": false,
+    "reason": "拼写错误，疑似 angoisse"
+  },
+  {
+    "surface": "le lege",
+    "valid": false,
+    "reason": "疑似拼写错误/非标准词"
+  },
+  {
+    "surface": "mourant",
+    "valid": false,
+    "reason": "分词/形容词形式，非名词"
+  },
+  {
+    "surface": "les arrêtements mendesent",
+    "valid": false,
+    "reason": "拼写错误/搭配异常"
+  },
+  {
+    "surface": "dans un mirroir",
+    "valid": false,
+    "reason": "含介词 dans，非纯名词短语"
+  },
+  {
+    "surface": "le meeting",
+    "valid": true
+  },
+  {
+    "surface": "les Verts",
+    "valid": true
+  },
+  {
+    "surface": "l'alteration",
+    "valid": true
+  },
+  {
+    "surface": "Jospin",
+    "valid": true
+  },
+  {
+    "surface": "une continuité",
+    "valid": true
+  },
+  {
+    "surface": "évocation",
+    "valid": true
+  },
+  {
+    "surface": "mes amis ethnologues",
+    "valid": true
+  },
+  {
+    "surface": "Cartyr",
+    "valid": false,
+    "reason": "疑似拼写错误/非标准专名"
+  },
+  {
+    "surface": ", pristine",
+    "valid": false,
+    "reason": "含标点碎片"
+  },
+  {
+    "surface": ", Adler",
+    "valid": false,
+    "reason": "含标点碎片"
+  },
+  {
+    "surface": "du premier malade",
+    "valid": true
+  },
+  {
+    "surface": "motocyclete",
+    "valid": false,
+    "reason": "拼写错误，疑似 motocyclette"
+  },
+  {
+    "surface": "précisément de l'autre côté",
+    "valid": false,
+    "reason": "含副词/介词，非纯名词短语"
+  },
+  {
+    "surface": "savoir rue",
+    "valid": false,
+    "reason": "搭配异常/非名词短语"
+  },
+  {
+    "surface": "Monsieur-le-Prince",
+    "valid": true
+  },
+  {
+    "surface": "Lucien",
+    "valid": true
+  },
+  {
+    "surface": "un autre siège situe",
+    "valid": false,
+    "reason": "含动词 situe，非名词短语"
+  },
+  {
+    "surface": "face à la salle",
+    "valid": false,
+    "reason": "含介词 à，非纯名词短语"
+  },
+  {
+    "surface": "Mutualité",
+    "valid": true
+  },
+  {
+    "surface": "le thème",
+    "valid": true
+  },
+  {
+    "surface": "de la musique",
+    "valid": false,
+    "reason": "含介词 de，非纯名词短语"
+  },
+  {
+    "surface": "Bref, tout un monde",
+    "valid": false,
+    "reason": "含副词 Bref 和标点"
+  },
+  {
+    "surface": "activités diverses",
+    "valid": true
+  },
+  {
+    "surface": "enchainements machiniques",
+    "valid": true
+  },
+  {
+    "surface": "diversification",
+    "valid": true
+  },
+  {
+    "surface": "le jeau",
+    "valid": false,
+    "reason": "拼写错误/非标准词"
+  },
+  {
+    "surface": "graphème",
+    "valid": true
+  },
+  {
+    "surface": "de phonème",
+    "valid": false,
+    "reason": "含介词 de，非纯名词短语"
+  },
+  {
+    "surface": "dans un mot",
+    "valid": false,
+    "reason": "含介词 dans，非纯名词短语"
+  },
+  {
+    "surface": "croisé",
+    "valid": false,
+    "reason": "分词/形容词形式，非名词"
+  },
+  {
+    "surface": "le blocage imaginaire",
+    "valid": true
+  },
+  {
+    "surface": "terrifiée",
+    "valid": false,
+    "reason": "形容词/分词形式，非名词"
+  },
+  {
+    "surface": "Céa",
+    "valid": false,
+    "reason": "疑似拼写错误/非标准专名"
+  },
+  {
+    "surface": "une reterritorialisation résiduelle",
+    "valid": true
+  },
+  {
+    "surface": "ces diverses époques",
+    "valid": true
+  },
+  {
+    "surface": "Arlette Donati et d'A.D.",
+    "valid": false,
+    "reason": "含连词 et，非纯名词短语"
+  },
+  {
+    "surface": "partain",
+    "valid": false,
+    "reason": "疑似拼写错误/非标准词"
+  },
+  {
+    "surface": "la libération sexuelle",
+    "valid": true
+  },
+  {
+    "surface": "mes partenaires",
+    "valid": true
+  },
+  {
+    "surface": "cette liberté",
+    "valid": true
+  },
+  {
+    "surface": "Ce noyau",
+    "valid": true
+  },
+  {
+    "surface": "plusieurs fois",
+    "valid": true
+  },
+  {
+    "surface": "la rechercher",
+    "valid": false,
+    "reason": "含动词不定式 rechercher，非名词短语"
+  },
+  {
+    "surface": "un rêve",
+    "valid": true
+  },
+  {
+    "surface": "brigands",
+    "valid": true
+  },
+  {
+    "surface": "les brigands",
+    "valid": true
+  },
+  {
+    "surface": "peau",
+    "valid": true
+  },
+  {
+    "surface": "rêves¹.",
+    "valid": false,
+    "reason": "含上标/标点碎片"
+  },
+  {
+    "surface": "un message",
+    "valid": true
+  },
+  {
+    "surface": "oniqure",
+    "valid": false,
+    "reason": "疑似拼写错误/非标准词"
+  },
+  {
+    "surface": "itre",
+    "valid": false,
+    "reason": "碎片/拼写不完整"
+  },
+  {
+    "surface": "transforme",
+    "valid": false,
+    "reason": "动词变位，非名词"
+  },
+  {
+    "surface": "pas a dimension",
+    "valid": false,
+    "reason": "含否定副词/介词，非名词短语"
+  },
+  {
+    "surface": "sa composante thymique",
+    "valid": true
+  },
+  {
+    "surface": "L'affect colle",
+    "valid": false,
+    "reason": "含动词 colle，非名词短语"
+  },
+  {
+    "surface": "glischroïdique",
+    "valid": false,
+    "reason": "形容词形式，非名词"
+  },
+  {
+    "surface": "un qualificatif",
+    "valid": true
+  },
+  {
+    "surface": "Minkowski",
+    "valid": true
+  },
+  {
+    "surface": "l'épilepsie",
+    "valid": true
+  },
+  {
+    "surface": "énoncieur",
+    "valid": false,
+    "reason": "拼写错误，疑似 énonciateur"
+  },
+  {
+    "surface": "destinataire",
+    "valid": true
+  },
+  {
+    "surface": "la dichotomie",
+    "valid": true
+  },
+  {
+    "surface": "ennocivie",
+    "valid": false,
+    "reason": "疑似拼写错误/非标准词"
+  },
+  {
+    "surface": "locuteur",
+    "valid": true
+  },
+  {
+    "surface": "auiteur",
+    "valid": false,
+    "reason": "拼写错误，疑似 auteur"
+  },
+  {
+    "surface": "transitiviste",
+    "valid": false,
+    "reason": "形容词/学派标签，非典型名词"
+  },
+  {
+    "surface": "une émulation",
+    "valid": true
+  },
+  {
+    "surface": "compositions affectives multiplaires",
+    "valid": true
+  },
+  {
+    "surface": "la tristesse",
+    "valid": true
+  },
+  {
+    "surface": "travers celle",
+    "valid": false,
+    "reason": "含指示代词 celle，非名词短语"
+  },
+  {
+    "surface": "l'autre devient commisération",
+    "valid": false,
+    "reason": "含动词 devient，非名词短语"
+  },
+  {
+    "surface": "la haine ennes",
+    "valid": false,
+    "reason": "碎片/搭配异常"
+  },
+  {
+    "surface": "notre semblable",
+    "valid": true
+  },
+  {
+    "surface": "le hair",
+    "valid": false,
+    "reason": "含动词不定式 hair，非名词短语"
+  },
+  {
+    "surface": "notre tour",
+    "valid": true
+  },
+  {
+    "surface": "cette haine",
+    "valid": true
+  },
+  {
+    "surface": "restrecher",
+    "valid": false,
+    "reason": "拼写错误/动词形式"
+  },
+  {
+    "surface": "la colère",
+    "valid": true
+  },
+  {
+    "surface": "la cruauté¹.",
+    "valid": false,
+    "reason": "含上标/标点碎片"
+  },
+  {
+    "surface": "pre-personnelle",
+    "valid": false,
+    "reason": "形容词形式，非名词"
+  },
+  {
+    "surface": "la circonscronation",
+    "valid": false,
+    "reason": "拼写错误，疑似 circonscription"
+  },
+  {
+    "surface": "identités",
+    "valid": true
+  },
+  {
+    "surface": "transferts illocalisables",
+    "valid": true
+  },
+  {
+    "surface": "tant du point",
+    "valid": false,
+    "reason": "含副词 tant/介词，非名词短语"
+  },
+  {
+    "surface": "que de leur destination",
+    "valid": false,
+    "reason": "含连词/介词/代词，非名词短语"
+  },
+  {
+    "surface": "la haine",
+    "valid": true
+  },
+  {
+    "surface": "les sociétés animistes",
+    "valid": true
+  },
+  {
+    "surface": "circulent",
+    "valid": false,
+    "reason": "动词变位，非名词"
+  },
+  {
+    "surface": "influences bénéfiques ou nocives",
+    "valid": false,
+    "reason": "含连词 ou，非纯名词短语"
+  },
+  {
+    "surface": "travers l'esprit",
+    "valid": false,
+    "reason": "含介词 travers，非纯名词短语"
+  },
+  {
+    "surface": "ancêtères",
+    "valid": false,
+    "reason": "拼写错误，疑似 ancêtres"
+  },
+  {
+    "surface": ", concurriment",
+    "valid": false,
+    "reason": "含标点碎片/拼写错误"
+  },
+  {
+    "surface": "des animaux totemiques",
+    "valid": true
+  },
+  {
+    "surface": "à travers le *mana",
+    "valid": false,
+    "reason": "含介词/符号碎片"
+  },
+  {
+    "surface": "sacré",
+    "valid": true
+  },
+  {
+    "surface": ", la puissance",
+    "valid": false,
+    "reason": "含标点碎片"
+  },
+  {
+    "surface": "un tatouage rituel",
+    "valid": true
+  },
+  {
+    "surface": "une danse cérémonielle",
+    "valid": true
+  },
+  {
+    "surface": ", le récit",
+    "valid": false,
+    "reason": "含标点碎片"
+  },
+  {
+    "surface": "Polyvendic",
+    "valid": false,
+    "reason": "疑似拼写错误/非标准专名"
+  },
+  {
+    "surface": ", des composantes",
+    "valid": false,
+    "reason": "含标点碎片"
+  }
+]

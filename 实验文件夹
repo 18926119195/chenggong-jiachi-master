@@ -1,0 +1,18 @@
+import fs from 'fs';
+const dedup = JSON.parse(fs.readFileSync('./final-noun-index.json', 'utf-8'));
+
+const page1Entries = dedup.nouns.filter((n) => n.offsets[0].page === 1);
+const targetChunkKey = page1Entries[0].offsets[0].chunkKey;
+
+const sameChunk = page1Entries.filter((n) => n.offsets[0].chunkKey === targetChunkKey).slice(0, 30);
+
+let prevStart = -1;
+let violations = 0;
+for (const n of sameChunk) {
+  const off = n.offsets[0];
+  const ok = off.start >= prevStart;
+  if (!ok) violations++;
+  console.log('start=' + String(off.start).padStart(4) + ' ok=' + ok + ' | ' + n.surface);
+  prevStart = off.start;
+}
+console.log('\n同chunk内start偏移量违反单调递增: ' + violations + ' 次');

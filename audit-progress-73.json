@@ -1,0 +1,852 @@
+[
+  {
+    "surface": "son incarnation",
+    "valid": true
+  },
+  {
+    "surface": "tant que personage",
+    "valid": false,
+    "reason": "包含连词tant que及拼写错误，非单一实词"
+  },
+  {
+    "surface": "projets",
+    "valid": true
+  },
+  {
+    "surface": "un gouffre noir",
+    "valid": true
+  },
+  {
+    "surface": "une dernière fois",
+    "valid": true
+  },
+  {
+    "surface": "juste le temps",
+    "valid": true
+  },
+  {
+    "surface": "Faut",
+    "valid": false,
+    "reason": "助动词/动词形式，非名词"
+  },
+  {
+    "surface": "même ou son objet迪瞒i",
+    "valid": false,
+    "reason": "含连词、代词及乱码"
+  },
+  {
+    "surface": "savoir la femme",
+    "valid": false,
+    "reason": "包含动词savoir及冠词，非名词短语"
+  },
+  {
+    "surface": "production esthétique",
+    "valid": true
+  },
+  {
+    "surface": "Méfance",
+    "valid": true
+  },
+  {
+    "surface": "sublimation",
+    "valid": true
+  },
+  {
+    "surface": "odeur",
+    "valid": true
+  },
+  {
+    "surface": "saintte",
+    "valid": true
+  },
+  {
+    "surface": "clochard",
+    "valid": true
+  },
+  {
+    "surface": "abstinent",
+    "valid": true
+  },
+  {
+    "surface": "une transmutation directe",
+    "valid": true
+  },
+  {
+    "surface": "des ordres",
+    "valid": true
+  },
+  {
+    "surface": "realité héterogènes",
+    "valid": true
+  },
+  {
+    "surface": "la sauvagerie",
+    "valid": true
+  },
+  {
+    "surface": "désir blanc",
+    "valid": true
+  },
+  {
+    "surface": "la princesse",
+    "valid": true
+  },
+  {
+    "surface": "cathartique",
+    "valid": true
+  },
+  {
+    "surface": "à la condition",
+    "valid": false,
+    "reason": "介词短语，非名词"
+  },
+  {
+    "surface": "tout autant contre une menace endogène",
+    "valid": false,
+    "reason": "包含副词、介词等，非名词短语"
+  },
+  {
+    "surface": "les entreprises",
+    "valid": true
+  },
+  {
+    "surface": "réadaptation psychologiques",
+    "valid": true
+  },
+  {
+    "surface": "de re-socialisation",
+    "valid": false,
+    "reason": "以介词de开头，非独立名词"
+  },
+  {
+    "surface": "Son objectif proclamé",
+    "valid": true
+  },
+  {
+    "surface": "la cruauté",
+    "valid": true
+  },
+  {
+    "surface": "dadaisme",
+    "valid": true
+  },
+  {
+    "surface": "pas seulement l'creuvre",
+    "valid": false,
+    "reason": "包含否定副词及拼写错误，非名词"
+  },
+  {
+    "surface": "Disney",
+    "valid": true
+  },
+  {
+    "surface": "anse ouverte, prospective,",
+    "valid": false,
+    "reason": "含标点且结构不完整"
+  },
+  {
+    "surface": "re-singularisante",
+    "valid": true
+  },
+  {
+    "surface": "La machine visagéitaire",
+    "valid": true
+  },
+  {
+    "surface": "Keiichi Tahara *",
+    "valid": true
+  },
+  {
+    "surface": "portrait",
+    "valid": true
+  },
+  {
+    "surface": "L'emprinte",
+    "valid": true
+  },
+  {
+    "surface": "un visage",
+    "valid": true
+  },
+  {
+    "surface": "une representation",
+    "valid": true
+  },
+  {
+    "surface": "aussi bien, l'emprunt",
+    "valid": false,
+    "reason": "含连词短语及标点，非单一实词"
+  },
+  {
+    "surface": "certains traits",
+    "valid": true
+  },
+  {
+    "surface": "ce visage",
+    "valid": true
+  },
+  {
+    "surface": "de toutes autres frins",
+    "valid": false,
+    "reason": "以介词de开头，非独立名词"
+  },
+  {
+    "surface": "dénation",
+    "valid": true
+  },
+  {
+    "surface": "un souvenir",
+    "valid": true
+  },
+  {
+    "surface": "le déclenchement",
+    "valid": true
+  },
+  {
+    "surface": "versage",
+    "valid": true
+  },
+  {
+    "surface": "ses que les traits",
+    "valid": false,
+    "reason": "含代词、连词及冠词，非名词"
+  },
+  {
+    "surface": "paysages",
+    "valid": true
+  },
+  {
+    "surface": "surtout à l'obtention",
+    "valid": false,
+    "reason": "含副词及介词，非名词"
+  },
+  {
+    "surface": "un certain effet",
+    "valid": true
+  },
+  {
+    "surface": "subjectivement",
+    "valid": false,
+    "reason": "副词，非名词"
+  },
+  {
+    "surface": "son œuvre parle",
+    "valid": false,
+    "reason": "包含动词parle，非名词短语"
+  },
+  {
+    "surface": "dictionation",
+    "valid": true
+  },
+  {
+    "surface": "spectateur",
+    "valid": true
+  },
+  {
+    "surface": "la photographie",
+    "valid": true
+  },
+  {
+    "surface": "au fond",
+    "valid": false,
+    "reason": "介词短语，非名词"
+  },
+  {
+    "surface": "A travers la centaine",
+    "valid": false,
+    "reason": "介词短语，非名词"
+  },
+  {
+    "surface": "personalités",
+    "valid": true
+  },
+  {
+    "surface": "le présent",
+    "valid": true
+  },
+  {
+    "surface": "album",
+    "valid": true
+  },
+  {
+    "surface": "la machine taharienne",
+    "valid": true
+  },
+  {
+    "surface": "trois composantes",
+    "valid": true
+  },
+  {
+    "surface": "- une découpe déterritorialisante",
+    "valid": true
+  },
+  {
+    "surface": "- une rupture fractale",
+    "valid": true
+  },
+  {
+    "surface": "- l'accroche",
+    "valid": true
+  },
+  {
+    "surface": "une prolifération inédite de significations qui se trouvent ainsi rattachées au nom propre",
+    "valid": false,
+    "reason": "包含关系从句，非名词短语"
+  },
+  {
+    "surface": "Considéré",
+    "valid": false,
+    "reason": "过去分词，非名词"
+  },
+  {
+    "surface": "qualification esthétique",
+    "valid": true
+  },
+  {
+    "surface": "le visage humain",
+    "valid": true
+  },
+  {
+    "surface": "détachement",
+    "valid": true
+  },
+  {
+    "surface": "une gestalt",
+    "valid": true
+  },
+  {
+    "surface": "guelle animal",
+    "valid": true
+  },
+  {
+    "surface": ", culturellement",
+    "valid": false,
+    "reason": "副词，非名词"
+  },
+  {
+    "surface": "écarts",
+    "valid": true
+  },
+  {
+    "surface": "mouvements significatifs",
+    "valid": true
+  },
+  {
+    "surface": "un certain seil",
+    "valid": true
+  },
+  {
+    "surface": "elargement",
+    "valid": true
+  },
+  {
+    "surface": "la grime",
+    "valid": true
+  },
+  {
+    "surface": "un autiste",
+    "valid": true
+  },
+  {
+    "surface": "d'un débil",
+    "valid": false,
+    "reason": "以介词d'un开头，非独立名词"
+  },
+  {
+    "surface": "travailleur",
+    "valid": true
+  },
+  {
+    "surface": "cadrage",
+    "valid": true
+  },
+  {
+    "surface": "d'effets",
+    "valid": false,
+    "reason": "以介词d'开头，非独立名词"
+  },
+  {
+    "surface": "montages pédiculés",
+    "valid": true
+  },
+  {
+    "surface": "des initialités inédites",
+    "valid": true
+  },
+  {
+    "surface": "les visages",
+    "valid": true
+  },
+  {
+    "surface": "des devenirs non humains",
+    "valid": true
+  },
+  {
+    "surface": ", de composition",
+    "valid": false,
+    "reason": "以介词de开头，非独立名词"
+  },
+  {
+    "surface": "des dimensions inconscientes",
+    "valid": true
+  },
+  {
+    "surface": "Ces jeux",
+    "valid": true
+  },
+  {
+    "surface": "un niveau global",
+    "valid": true
+  },
+  {
+    "surface": "le cadre général",
+    "valid": true
+  },
+  {
+    "surface": "la photo",
+    "valid": true
+  },
+  {
+    "surface": "une fenêtre",
+    "valid": true
+  },
+  {
+    "surface": "Christian Boltanski¹) ou encore d'un mirror²",
+    "valid": false,
+    "reason": "包含专名、连词、介词及数字上标，非单一实词"
+  },
+  {
+    "surface": "implantation",
+    "valid": true
+  },
+  {
+    "surface": "cadres latéraux",
+    "valid": true
+  },
+  {
+    "surface": "au personnage",
+    "valid": false,
+    "reason": "介词短语，非独立名词"
+  },
+  {
+    "surface": "tableau³",
+    "valid": true
+  },
+  {
+    "surface": ", ou encore en rectangle",
+    "valid": false,
+    "reason": "含连词、副词及介词，非名词"
+  },
+  {
+    "surface": "Les combinaisons",
+    "valid": true
+  },
+  {
+    "surface": "les deux procédes",
+    "valid": true
+  },
+  {
+    "surface": "plaquette",
+    "valid": true
+  },
+  {
+    "surface": "enveloppe",
+    "valid": true
+  },
+  {
+    "surface": "autres fenêtres",
+    "valid": true
+  },
+  {
+    "surface": "ces trois premiers étages",
+    "valid": true
+  },
+  {
+    "surface": "cadrages",
+    "valid": true
+  },
+  {
+    "surface": "prolongés",
+    "valid": false,
+    "reason": "过去分词/形容词，非名词"
+  },
+  {
+    "surface": "la multitude",
+    "valid": true
+  },
+  {
+    "surface": "feuilles",
+    "valid": true
+  },
+  {
+    "surface": "de branches",
+    "valid": false,
+    "reason": "以介词de开头，非独立名词"
+  },
+  {
+    "surface": "le personnage",
+    "valid": true
+  },
+  {
+    "surface": "plan americain",
+    "valid": true
+  },
+  {
+    "surface": "Cette fractalisation",
+    "valid": true
+  },
+  {
+    "surface": "un bouleversement",
+    "valid": true
+  },
+  {
+    "surface": "D'autres fois",
+    "valid": false,
+    "reason": "含限定词及副词，非名词"
+  },
+  {
+    "surface": "Bram vanelelle¹",
+    "valid": true
+  },
+  {
+    "surface": "cachet",
+    "valid": true
+  },
+  {
+    "surface": "pétrification",
+    "valid": true
+  },
+  {
+    "surface": "d'déternité",
+    "valid": false,
+    "reason": "以介词开头，非独立名词"
+  },
+  {
+    "surface": "Ricardo BOFILL",
+    "valid": true
+  },
+  {
+    "surface": "Laura BETTI Paris.1987",
+    "valid": true
+  },
+  {
+    "surface": "François",
+    "valid": true
+  },
+  {
+    "surface": "TRUFFAULT",
+    "valid": true
+  },
+  {
+    "surface": "Joseph BEUYS Paris.1981",
+    "valid": true
+  },
+  {
+    "surface": "## La machine visagéitaire de Keiichi Tahara",
+    "valid": false,
+    "reason": "含标题符号及介词短语，非单一实词"
+  },
+  {
+    "surface": "la moitié",
+    "valid": true
+  },
+  {
+    "surface": "portraits",
+    "valid": true
+  },
+  {
+    "surface": "opérent",
+    "valid": false,
+    "reason": "动词变位，非名词"
+  },
+  {
+    "surface": "coupe verticale",
+    "valid": true
+  },
+  {
+    "surface": "ombre fractale",
+    "valid": true
+  },
+  {
+    "surface": "Le cas le plus typique",
+    "valid": true
+  },
+  {
+    "surface": "Ricardo Bofill qui ouvre le volume",
+    "valid": false,
+    "reason": "包含关系从句及动词，非名词短语"
+  },
+  {
+    "surface": "son visage",
+    "valid": true
+  },
+  {
+    "surface": "qu'une étoile bande verticale",
+    "valid": false,
+    "reason": "含连词、冠词及名词，结构不完整"
+  },
+  {
+    "surface": "peine",
+    "valid": true
+  },
+  {
+    "surface": "un quart",
+    "valid": true
+  },
+  {
+    "surface": "le sourcil gauche",
+    "valid": true
+  },
+  {
+    "surface": ", l'oil",
+    "valid": true
+  },
+  {
+    "surface": "une ride transversale",
+    "valid": true
+  },
+  {
+    "surface": "le coin",
+    "valid": true
+  },
+  {
+    "surface": "la bouche",
+    "valid": true
+  },
+  {
+    "surface": "la masse lumineuse",
+    "valid": true
+  },
+  {
+    "surface": "la coupe verticale",
+    "valid": true
+  },
+  {
+    "surface": "visage¹",
+    "valid": true
+  },
+  {
+    "surface": "également l'oeil",
+    "valid": false,
+    "reason": "含副词，非独立名词"
+  },
+  {
+    "surface": "Buren³",
+    "valid": true
+  },
+  {
+    "surface": "la façon colonelades¹.",
+    "valid": true
+  },
+  {
+    "surface": "Ianis Xenakis⁴ ou elle évoque alors une partition musicale coupe",
+    "valid": false,
+    "reason": "包含专名、连词、代词及动词，非名词短语"
+  },
+  {
+    "surface": "une clef",
+    "valid": true
+  },
+  {
+    "surface": "Maurice Rheims¹",
+    "valid": true
+  },
+  {
+    "surface": "croisement horizontal",
+    "valid": true
+  },
+  {
+    "surface": "François Truffaut⁴",
+    "valid": true
+  },
+  {
+    "surface": "un détachment pur et simple",
+    "valid": true
+  },
+  {
+    "surface": "la tête",
+    "valid": true
+  },
+  {
+    "surface": "deterrimerisation",
+    "valid": true
+  },
+  {
+    "surface": "une large",
+    "valid": false,
+    "reason": "冠词+形容词，缺少名词中心语"
+  },
+  {
+    "surface": "masse",
+    "valid": true
+  },
+  {
+    "surface": "l'utilisation",
+    "valid": true
+  },
+  {
+    "surface": "du凳",
+    "valid": false,
+    "reason": "含乱码字符，非有效名词"
+  },
+  {
+    "surface": "la focale",
+    "valid": true
+  },
+  {
+    "surface": "bouge local",
+    "valid": true
+  },
+  {
+    "surface": "par utilisation",
+    "valid": false,
+    "reason": "介词短语，非独立名词"
+  },
+  {
+    "surface": "une fumée",
+    "valid": true
+  },
+  {
+    "surface": "cigarette",
+    "valid": true
+  },
+  {
+    "surface": "le visage flou en premier plan du flou général 11",
+    "valid": false,
+    "reason": "包含形容词、介词及数字，非单一实词"
+  },
+  {
+    "surface": "ces procédés",
+    "valid": true
+  },
+  {
+    "surface": "découpe deterritorialisante",
+    "valid": true
+  },
+  {
+    "surface": "leur effet",
+    "valid": true
+  },
+  {
+    "surface": ", en association",
+    "valid": false,
+    "reason": "介词短语，非名词"
+  },
+  {
+    "surface": "préparent le terrain",
+    "valid": false,
+    "reason": "包含动词préparent，非名词短语"
+  },
+  {
+    "surface": "le cadre spatial",
+    "valid": true
+  },
+  {
+    "surface": "également l'Agencement",
+    "valid": false,
+    "reason": "含副词，非独立名词"
+  },
+  {
+    "surface": "ARMAN",
+    "valid": true
+  },
+  {
+    "surface": "New York",
+    "valid": true
+  },
+  {
+    "surface": "Philippe Soupault et Romain Weingarten.",
+    "valid": false,
+    "reason": "含连词et及标点，非单一实词"
+  },
+  {
+    "surface": "Carzou",
+    "valid": true
+  },
+  {
+    "surface": "Roland",
+    "valid": true
+  },
+  {
+    "surface": "Topor",
+    "valid": true
+  },
+  {
+    "surface": "d'autres modes",
+    "valid": true
+  },
+  {
+    "surface": "ce même effet existentiel",
+    "valid": true
+  },
+  {
+    "surface": "Désire le premier portrait",
+    "valid": false,
+    "reason": "包含动词Désire，非名词短语"
+  },
+  {
+    "surface": "n'cu",
+    "valid": false,
+    "reason": "拼写碎片，非有效名词"
+  },
+  {
+    "surface": "le ceur",
+    "valid": true
+  },
+  {
+    "surface": "la visée esthétique",
+    "valid": true
+  },
+  {
+    "surface": "Keiichi Tahara",
+    "valid": true
+  },
+  {
+    "surface": "complementarité",
+    "valid": true
+  },
+  {
+    "surface": "l'oïle visible",
+    "valid": true
+  },
+  {
+    "surface": "visage gauche",
+    "valid": true
+  },
+  {
+    "surface": "l'oïle",
+    "valid": true
+  },
+  {
+    "surface": "visage droit",
+    "valid": true
+  },
+  {
+    "surface": "façon fugitive mais fulgurante",
+    "valid": true
+  },
+  {
+    "surface": "vaintomique",
+    "valid": true
+  },
+  {
+    "surface": "subsiste",
+    "valid": false,
+    "reason": "动词变位，非名词"
+  },
+  {
+    "surface": "ce va-et-l",
+    "valid": false,
+    "reason": "结构不完整，非有效名词"
+  },
+  {
+    "surface": "pel",
+    "valid": false,
+    "reason": "拼写碎片，非有效名词"
+  },
+  {
+    "surface": "lo",
+    "valid": false,
+    "reason": "拼写碎片，非有效名词"
+  }
+]

@@ -1,0 +1,212 @@
+{
+  "meta": {
+    "description": "non-high 分布模式诊断与重跑建议",
+    "trueDriftBatches": 19,
+    "needRerunBatches": 10,
+    "canSkipBatches": 9
+  },
+  "diagnostics": [
+    {
+      "batchId": 1,
+      "totalTruncations": 257,
+      "totalNonHigh": 2,
+      "notInText": 2,
+      "notInTextRatio": 100,
+      "consecutiveRuns": 0,
+      "pattern": "孤立错误型（兜底可处理）",
+      "firstDriftTruncId": 44
+    },
+    {
+      "batchId": 3,
+      "totalTruncations": 252,
+      "totalNonHigh": 7,
+      "notInText": 1,
+      "notInTextRatio": 14.3,
+      "consecutiveRuns": 0,
+      "pattern": "孤立错误型（兜底可处理）",
+      "firstDriftTruncId": 37
+    },
+    {
+      "batchId": 8,
+      "totalTruncations": 246,
+      "totalNonHigh": 1,
+      "notInText": 1,
+      "notInTextRatio": 100,
+      "consecutiveRuns": 0,
+      "pattern": "孤立错误型（兜底可处理）",
+      "firstDriftTruncId": 239
+    },
+    {
+      "batchId": 10,
+      "totalTruncations": 255,
+      "totalNonHigh": 34,
+      "notInText": 31,
+      "notInTextRatio": 91.2,
+      "consecutiveRuns": 1,
+      "pattern": "整体偏移型",
+      "firstDriftTruncId": 55
+    },
+    {
+      "batchId": 11,
+      "totalTruncations": 252,
+      "totalNonHigh": 43,
+      "notInText": 41,
+      "notInTextRatio": 95.3,
+      "consecutiveRuns": 1,
+      "pattern": "整体偏移型",
+      "firstDriftTruncId": 34
+    },
+    {
+      "batchId": 12,
+      "totalTruncations": 276,
+      "totalNonHigh": 15,
+      "notInText": 15,
+      "notInTextRatio": 100,
+      "consecutiveRuns": 0,
+      "pattern": "混合型（需重跑）",
+      "firstDriftTruncId": 81
+    },
+    {
+      "batchId": 17,
+      "totalTruncations": 263,
+      "totalNonHigh": 25,
+      "notInText": 24,
+      "notInTextRatio": 96,
+      "consecutiveRuns": 1,
+      "pattern": "整体偏移型",
+      "firstDriftTruncId": 107
+    },
+    {
+      "batchId": 19,
+      "totalTruncations": 275,
+      "totalNonHigh": 48,
+      "notInText": 47,
+      "notInTextRatio": 97.9,
+      "consecutiveRuns": 2,
+      "pattern": "整体偏移型",
+      "firstDriftTruncId": 41
+    },
+    {
+      "batchId": 23,
+      "totalTruncations": 254,
+      "totalNonHigh": 1,
+      "notInText": 1,
+      "notInTextRatio": 100,
+      "consecutiveRuns": 0,
+      "pattern": "孤立错误型（兜底可处理）",
+      "firstDriftTruncId": 24
+    },
+    {
+      "batchId": 24,
+      "totalTruncations": 249,
+      "totalNonHigh": 7,
+      "notInText": 1,
+      "notInTextRatio": 14.3,
+      "consecutiveRuns": 0,
+      "pattern": "孤立错误型（兜底可处理）",
+      "firstDriftTruncId": 53
+    },
+    {
+      "batchId": 25,
+      "totalTruncations": 264,
+      "totalNonHigh": 34,
+      "notInText": 34,
+      "notInTextRatio": 100,
+      "consecutiveRuns": 1,
+      "pattern": "整体偏移型",
+      "firstDriftTruncId": 98
+    },
+    {
+      "batchId": 27,
+      "totalTruncations": 261,
+      "totalNonHigh": 2,
+      "notInText": 1,
+      "notInTextRatio": 50,
+      "consecutiveRuns": 0,
+      "pattern": "孤立错误型（兜底可处理）",
+      "firstDriftTruncId": 6
+    },
+    {
+      "batchId": 31,
+      "totalTruncations": 256,
+      "totalNonHigh": 2,
+      "notInText": 2,
+      "notInTextRatio": 100,
+      "consecutiveRuns": 0,
+      "pattern": "孤立错误型（兜底可处理）",
+      "firstDriftTruncId": 25
+    },
+    {
+      "batchId": 34,
+      "totalTruncations": 250,
+      "totalNonHigh": 1,
+      "notInText": 1,
+      "notInTextRatio": 100,
+      "consecutiveRuns": 0,
+      "pattern": "孤立错误型（兜底可处理）",
+      "firstDriftTruncId": 181
+    },
+    {
+      "batchId": 35,
+      "totalTruncations": 259,
+      "totalNonHigh": 75,
+      "notInText": 73,
+      "notInTextRatio": 97.3,
+      "consecutiveRuns": 7,
+      "pattern": "整体偏移型",
+      "firstDriftTruncId": 57
+    },
+    {
+      "batchId": 36,
+      "totalTruncations": 248,
+      "totalNonHigh": 14,
+      "notInText": 12,
+      "notInTextRatio": 85.7,
+      "consecutiveRuns": 0,
+      "pattern": "混合型（需重跑）",
+      "firstDriftTruncId": 8
+    },
+    {
+      "batchId": 38,
+      "totalTruncations": 259,
+      "totalNonHigh": 3,
+      "notInText": 3,
+      "notInTextRatio": 100,
+      "consecutiveRuns": 0,
+      "pattern": "孤立错误型（兜底可处理）",
+      "firstDriftTruncId": 81
+    },
+    {
+      "batchId": 45,
+      "totalTruncations": 258,
+      "totalNonHigh": 35,
+      "notInText": 35,
+      "notInTextRatio": 100,
+      "consecutiveRuns": 0,
+      "pattern": "混合型（需重跑）",
+      "firstDriftTruncId": 88
+    },
+    {
+      "batchId": 46,
+      "totalTruncations": 258,
+      "totalNonHigh": 34,
+      "notInText": 34,
+      "notInTextRatio": 100,
+      "consecutiveRuns": 2,
+      "pattern": "整体偏移型",
+      "firstDriftTruncId": 33
+    }
+  ],
+  "needRerun": [
+    10,
+    11,
+    12,
+    17,
+    19,
+    25,
+    35,
+    36,
+    45,
+    46
+  ]
+}

@@ -1,0 +1,892 @@
+[
+  {
+    "surface": "une ennociation",
+    "valid": false,
+    "reason": "包含冠词且拼写疑似错误，非规范名词短语"
+  },
+  {
+    "surface": "transfert générali",
+    "valid": false,
+    "reason": "拼写不完整/错误，非规范名词短语"
+  },
+  {
+    "surface": "les ex-modules sensibles",
+    "valid": true
+  },
+  {
+    "surface": "un ombre fractal",
+    "valid": false,
+    "reason": "冠词与名词性数不一致，非规范名词短语"
+  },
+  {
+    "surface": "étage",
+    "valid": true
+  },
+  {
+    "surface": "aydure sorte",
+    "valid": false,
+    "reason": "拼写疑似错误，非规范名词短语"
+  },
+  {
+    "surface": "intra-monde",
+    "valid": true
+  },
+  {
+    "surface": "une moulération",
+    "valid": false,
+    "reason": "疑似生造/拼写错误词，非规范名词"
+  },
+  {
+    "surface": "aspect",
+    "valid": true
+  },
+  {
+    "surface": "holographique",
+    "valid": false,
+    "reason": "形容词，不是名词"
+  },
+  {
+    "surface": "métaphore",
+    "valid": true
+  },
+  {
+    "surface": "Edgar Morin",
+    "valid": true
+  },
+  {
+    "surface": "la complexité",
+    "valid": true
+  },
+  {
+    "surface": "leurs intents",
+    "valid": false,
+    "reason": "包含代词且名词拼写/用法可疑，非规范名词短语"
+  },
+  {
+    "surface": "les considérés",
+    "valid": false,
+    "reason": "过去分词作名词化使用，非典型实词名词短语"
+  },
+  {
+    "surface": "determinations",
+    "valid": true
+  },
+  {
+    "surface": "détérination",
+    "valid": false,
+    "reason": "拼写错误，非规范名词"
+  },
+  {
+    "surface": "demureur",
+    "valid": false,
+    "reason": "拼写错误，非规范名词"
+  },
+  {
+    "surface": "extrinsique",
+    "valid": false,
+    "reason": "形容词，不是名词"
+  },
+  {
+    "surface": "si apreuse existence",
+    "valid": false,
+    "reason": "包含虚词且拼写可疑，非规范名词短语"
+  },
+  {
+    "surface": "existique",
+    "valid": false,
+    "reason": "疑似生造/拼写错误词，非规范名词"
+  },
+  {
+    "surface": "Les quatre opérateurs",
+    "valid": true
+  },
+  {
+    "surface": "L'hyper-complexité énonciative",
+    "valid": true
+  },
+  {
+    "surface": "A titre",
+    "valid": false,
+    "reason": "介词短语片段，非名词"
+  },
+  {
+    "surface": "dernière anticipation",
+    "valid": true
+  },
+  {
+    "surface": "ces quatre dimensions fondamentales",
+    "valid": true
+  },
+  {
+    "surface": "l'hypercomplexité enoncative",
+    "valid": true
+  },
+  {
+    "surface": "présent prisonirie n",
+    "valid": false,
+    "reason": "拼写错误且含孤立字母，非规范名词短语"
+  },
+  {
+    "surface": "une durée éternitaire",
+    "valid": false,
+    "reason": "含疑似生造形容词，非规范名词短语"
+  },
+  {
+    "surface": "significationnelle",
+    "valid": false,
+    "reason": "形容词，不是名词"
+  },
+  {
+    "surface": "tous ses instances",
+    "valid": false,
+    "reason": "限定词与名词性数不一致，非规范名词短语"
+  },
+  {
+    "surface": "La nécessitation",
+    "valid": true
+  },
+  {
+    "surface": "la contingence modulaire",
+    "valid": true
+  },
+  {
+    "surface": "sa discursivité",
+    "valid": true
+  },
+  {
+    "surface": "la coupure",
+    "valid": true
+  },
+  {
+    "surface": "trames discursives",
+    "valid": true
+  },
+  {
+    "surface": "la finitude mort",
+    "valid": false,
+    "reason": "名词并置不自然，非规范名词短语"
+  },
+  {
+    "surface": "naissance propre à toute machine non triviale",
+    "valid": true
+  },
+  {
+    "surface": "un match",
+    "valid": true
+  },
+  {
+    "surface": "la télé",
+    "valid": true
+  },
+  {
+    "surface": "virtualités",
+    "valid": true
+  },
+  {
+    "surface": "rivage",
+    "valid": true
+  },
+  {
+    "surface": "expression poétique",
+    "valid": true
+  },
+  {
+    "surface": "L'HÉTÉROGENÈSE",
+    "valid": true
+  },
+  {
+    "surface": "quelques illustrations",
+    "valid": true
+  },
+  {
+    "surface": "nécessitation",
+    "valid": true
+  },
+  {
+    "surface": ", les opérateurs pathiques",
+    "valid": false,
+    "reason": "含标点碎片，非规范名词短语"
+  },
+  {
+    "surface": "héterogénese apportent",
+    "valid": false,
+    "reason": "拼写错误且含动词，非规范名词短语"
+  },
+  {
+    "surface": "leurs cristaux",
+    "valid": true
+  },
+  {
+    "surface": "auto-organisation",
+    "valid": true
+  },
+  {
+    "surface": "la dimension entropique",
+    "valid": true
+  },
+  {
+    "surface": "sites énergétiques",
+    "valid": true
+  },
+  {
+    "surface": "une pseudoidentité",
+    "valid": true
+  },
+  {
+    "surface": "parties",
+    "valid": true
+  },
+  {
+    "surface": "constitutives",
+    "valid": false,
+    "reason": "形容词，不是名词"
+  },
+  {
+    "surface": "grasping",
+    "valid": false,
+    "reason": "外语词/非规范法语名词"
+  },
+  {
+    "surface": "l'encontre",
+    "valid": true
+  },
+  {
+    "surface": "toute vellétie",
+    "valid": true
+  },
+  {
+    "surface": "beaucoup plus affirmation",
+    "valid": false,
+    "reason": "包含副词比较结构，非规范名词短语"
+  },
+  {
+    "surface": "si positionalité",
+    "valid": false,
+    "reason": "包含虚词且搭配异常，非规范名词短语"
+  },
+  {
+    "surface": "une difference",
+    "valid": true
+  },
+  {
+    "surface": "tant que : dispositif scénique",
+    "valid": false,
+    "reason": "含连词和标点，非规范名词短语"
+  },
+  {
+    "surface": "intensités",
+    "valid": true
+  },
+  {
+    "surface": ", datation",
+    "valid": false,
+    "reason": "含标点碎片，非规范名词"
+  },
+  {
+    "surface": "foyer partiel",
+    "valid": true
+  },
+  {
+    "surface": "partir du plus simple, considérons",
+    "valid": false,
+    "reason": "含动词和标点，非名词短语"
+  },
+  {
+    "surface": "' abord de la décalage",
+    "valid": false,
+    "reason": "含标点碎片和虚词，非规范名词短语"
+  },
+  {
+    "surface": "le dehors",
+    "valid": true
+  },
+  {
+    "surface": "le dedans",
+    "valid": true
+  },
+  {
+    "surface": "une maison",
+    "valid": true
+  },
+  {
+    "surface": "titre personnel",
+    "valid": true
+  },
+  {
+    "surface": "moins huit cents metres",
+    "valid": false,
+    "reason": "数量表达，非名词短语"
+  },
+  {
+    "surface": "l'accommodation visuelle",
+    "valid": true
+  },
+  {
+    "surface": "surtout par le régime",
+    "valid": false,
+    "reason": "含副词和介词，非名词短语"
+  },
+  {
+    "surface": "poumons",
+    "valid": true
+  },
+  {
+    "surface": "mon habitacle",
+    "valid": true
+  },
+  {
+    "surface": "zone limitée",
+    "valid": true
+  },
+  {
+    "surface": "dehors commence",
+    "valid": false,
+    "reason": "含动词，非名词短语"
+  },
+  {
+    "surface": "travers mes affects",
+    "valid": false,
+    "reason": "含介词片段和代词，非规范名词短语"
+  },
+  {
+    "surface": ", mes réveries",
+    "valid": false,
+    "reason": "含标点碎片，非规范名词短语"
+  },
+  {
+    "surface": "mes pensées",
+    "valid": true
+  },
+  {
+    "surface": "l'acte également modulaire et prototypique",
+    "valid": true
+  },
+  {
+    "surface": ", s'il en l'ultime",
+    "valid": false,
+    "reason": "含标点和虚词，非名词短语"
+  },
+  {
+    "surface": "Gottfried Galle",
+    "valid": true
+  },
+  {
+    "surface": "astronome",
+    "valid": true
+  },
+  {
+    "surface": "l'observatoire",
+    "valid": true
+  },
+  {
+    "surface": "Berlin",
+    "valid": true
+  },
+  {
+    "surface": "les calculs",
+    "valid": true
+  },
+  {
+    "surface": "Le Verrier relatifs",
+    "valid": false,
+    "reason": "专名与形容词搭配异常，非规范名词短语"
+  },
+  {
+    "surface": "la trajectorie présumée",
+    "valid": false,
+    "reason": "拼写错误，非规范名词短语"
+  },
+  {
+    "surface": "Neptune",
+    "valid": true
+  },
+  {
+    "surface": "quelques mois",
+    "valid": true
+  },
+  {
+    "surface": "un jeune astronome",
+    "valid": true
+  },
+  {
+    "surface": "anglais",
+    "valid": false,
+    "reason": "形容词/语言名，非典型名词"
+  },
+  {
+    "surface": "John",
+    "valid": true
+  },
+  {
+    "surface": "Couch Adams",
+    "valid": true
+  },
+  {
+    "surface": "lui mêmes résultats",
+    "valid": false,
+    "reason": "含代词且搭配异常，非规范名词短语"
+  },
+  {
+    "surface": "l'astronome",
+    "valid": true
+  },
+  {
+    "surface": "royal",
+    "valid": false,
+    "reason": "形容词，不是名词"
+  },
+  {
+    "surface": "Georges",
+    "valid": true
+  },
+  {
+    "surface": "Biddell",
+    "valid": true
+  },
+  {
+    "surface": "Airy",
+    "valid": true
+  },
+  {
+    "surface": "ses hypotheses",
+    "valid": true
+  },
+  {
+    "surface": "Les positions",
+    "valid": true
+  },
+  {
+    "surface": "singulaires",
+    "valid": false,
+    "reason": "拼写错误/形容词，非规范名词"
+  },
+  {
+    "surface": "hégemoniquement",
+    "valid": false,
+    "reason": "副词，不是名词"
+  },
+  {
+    "surface": "existentialisantes",
+    "valid": false,
+    "reason": "形容词/分词，不是名词"
+  },
+  {
+    "surface": "négocies",
+    "valid": false,
+    "reason": "动词变位/拼写错误，不是名词"
+  },
+  {
+    "surface": "travers l'héterogene intensive",
+    "valid": false,
+    "reason": "含介词片段且搭配异常，非规范名词短语"
+  },
+  {
+    "surface": "une différenciation",
+    "valid": true
+  },
+  {
+    "surface": "auto-ordonnances",
+    "valid": true
+  },
+  {
+    "surface": "éléments partes",
+    "valid": false,
+    "reason": "含疑似拼写错误词，非规范名词短语"
+  },
+  {
+    "surface": "extra",
+    "valid": false,
+    "reason": "形容词/前缀片段，不是名词"
+  },
+  {
+    "surface": "partes",
+    "valid": false,
+    "reason": "拼写错误，非规范名词"
+  },
+  {
+    "surface": "mais par disposition",
+    "valid": false,
+    "reason": "含连词和介词，非名词短语"
+  },
+  {
+    "surface": "chaque point",
+    "valid": true
+  },
+  {
+    "surface": "Ce regard",
+    "valid": true
+  },
+  {
+    "surface": "par la video",
+    "valid": false,
+    "reason": "含介词，非名词短语"
+  },
+  {
+    "surface": "déclarant",
+    "valid": false,
+    "reason": "分词/动词形式，不是名词"
+  },
+  {
+    "surface": "les théoriciens systémistes",
+    "valid": true
+  },
+  {
+    "surface": "agglomération",
+    "valid": true
+  },
+  {
+    "surface": "l'exterieur",
+    "valid": true
+  },
+  {
+    "surface": "'Agencement ennociatif",
+    "valid": false,
+    "reason": "含标点碎片且拼写错误，非规范名词短语"
+  },
+  {
+    "surface": "La fuite",
+    "valid": true
+  },
+  {
+    "surface": "voyeurie-persécutive",
+    "valid": false,
+    "reason": "疑似生造/拼写错误词，非规范名词"
+  },
+  {
+    "surface": "des éléments",
+    "valid": true
+  },
+  {
+    "surface": "déhiscence",
+    "valid": true
+  },
+  {
+    "surface": "parole hormonale",
+    "valid": true
+  },
+  {
+    "surface": "pubertaire",
+    "valid": false,
+    "reason": "形容词，不是名词"
+  },
+  {
+    "surface": "gonados sexuelles",
+    "valid": false,
+    "reason": "拼写错误且搭配异常，非规范名词短语"
+  },
+  {
+    "surface": "un adolescent",
+    "valid": true
+  },
+  {
+    "surface": "à l'incidence",
+    "valid": false,
+    "reason": "含介词，非名词短语"
+  },
+  {
+    "surface": "une « matire",
+    "valid": false,
+    "reason": "含标点且拼写错误，非规范名词短语"
+  },
+  {
+    "surface": "une auto",
+    "valid": true
+  },
+  {
+    "surface": "un instrument",
+    "valid": true
+  },
+  {
+    "surface": "torialement",
+    "valid": false,
+    "reason": "副词/拼写错误，不是名词"
+  },
+  {
+    "surface": "endogènes",
+    "valid": false,
+    "reason": "形容词，不是名词"
+  },
+  {
+    "surface": "extra-territorialement",
+    "valid": false,
+    "reason": "副词，不是名词"
+  },
+  {
+    "surface": "une éponge",
+    "valid": true
+  },
+  {
+    "surface": "être la, épars",
+    "valid": false,
+    "reason": "含动词和标点，非名词短语"
+  },
+  {
+    "surface": "hyper-fractale",
+    "valid": false,
+    "reason": "形容词，不是名词"
+  },
+  {
+    "surface": "un nombre",
+    "valid": true
+  },
+  {
+    "surface": "phiage",
+    "valid": false,
+    "reason": "疑似生造/拼写错误词，非规范名词"
+  },
+  {
+    "surface": "un chiffre",
+    "valid": true
+  },
+  {
+    "surface": "complexité morphologique",
+    "valid": true
+  },
+  {
+    "surface": "une formule abstraite",
+    "valid": true
+  },
+  {
+    "surface": "événement",
+    "valid": true
+  },
+  {
+    "surface": "les voies",
+    "valid": true
+  },
+  {
+    "surface": "passage transversales",
+    "valid": false,
+    "reason": "性数搭配异常，非规范名词短语"
+  },
+  {
+    "surface": "La datation",
+    "valid": true
+  },
+  {
+    "surface": "la Recherche*",
+    "valid": false,
+    "reason": "含标点符号，非规范名词短语"
+  },
+  {
+    "surface": ", c'est l'instant",
+    "valid": false,
+    "reason": "含标点和动词，非名词短语"
+  },
+  {
+    "surface": "le pied",
+    "valid": true
+  },
+  {
+    "surface": "narrateur",
+    "valid": true
+  },
+  {
+    "surface": "un pain",
+    "valid": true
+  },
+  {
+    "surface": "Guermantes",
+    "valid": true
+  },
+  {
+    "surface": "l'registrement",
+    "valid": false,
+    "reason": "冠词与名词缩合错误，非规范名词短语"
+  },
+  {
+    "surface": "toutes les voies",
+    "valid": true
+  },
+  {
+    "surface": "divers composantes expressives",
+    "valid": false,
+    "reason": "限定词与名词性数搭配异常，非规范名词短语"
+  },
+  {
+    "surface": "harmonie",
+    "valid": true
+  },
+  {
+    "surface": "polyphonie",
+    "valid": true
+  },
+  {
+    "surface": "métodie",
+    "valid": false,
+    "reason": "拼写错误，非规范名词"
+  },
+  {
+    "surface": "L'hyper-fractalisation qualitative agglomère",
+    "valid": false,
+    "reason": "含动词，非名词短语"
+  },
+  {
+    "surface": "les qualifications hétrogenes",
+    "valid": true
+  },
+  {
+    "surface": "contrepôt",
+    "valid": false,
+    "reason": "拼写错误，非规范名词"
+  },
+  {
+    "surface": "la fractalisation synaptique",
+    "valid": true
+  },
+  {
+    "surface": "topique produit",
+    "valid": false,
+    "reason": "搭配异常，非规范名词短语"
+  },
+  {
+    "surface": "toute pièce",
+    "valid": true
+  },
+  {
+    "surface": "nouvelles procédures",
+    "valid": true
+  },
+  {
+    "surface": "Une matire",
+    "valid": false,
+    "reason": "拼写错误，非规范名词短语"
+  },
+  {
+    "surface": "toute une monadantie",
+    "valid": false,
+    "reason": "疑似生造/拼写错误词，非规范名词短语"
+  },
+  {
+    "surface": "hantee",
+    "valid": false,
+    "reason": "分词/形容词，不是名词"
+  },
+  {
+    "surface": "une subjective énicoiracier",
+    "valid": false,
+    "reason": "搭配异常且疑似生造词，非规范名词短语"
+  },
+  {
+    "surface": "jouets",
+    "valid": true
+  },
+  {
+    "surface": "extra-terrestres",
+    "valid": true
+  },
+  {
+    "surface": "le film E.T.",
+    "valid": true
+  },
+  {
+    "surface": "Spielberg",
+    "valid": true
+  },
+  {
+    "surface": "ce envahissement",
+    "valid": false,
+    "reason": "指示词与名词搭配异常，非规范名词短语"
+  },
+  {
+    "surface": "occasion",
+    "valid": true
+  },
+  {
+    "surface": "un rentalement",
+    "valid": false,
+    "reason": "疑似生造/拼写错误词，非规范名词短语"
+  },
+  {
+    "surface": "temporalières intermédiaires",
+    "valid": false,
+    "reason": "疑似生造/拼写错误词，非规范名词短语"
+  },
+  {
+    "surface": "T. A.",
+    "valid": false,
+    "reason": "缩写/标点碎片，非规范名词"
+  },
+  {
+    "surface": "de fractalité",
+    "valid": false,
+    "reason": "含介词，非名词短语"
+  },
+  {
+    "surface": "regime",
+    "valid": true
+  },
+  {
+    "surface": "les determinables",
+    "valid": false,
+    "reason": "形容词名词化使用，非典型实词名词短语"
+  },
+  {
+    "surface": "crochent",
+    "valid": false,
+    "reason": "动词变位，不是名词"
+  },
+  {
+    "surface": "régime synapique",
+    "valid": true
+  },
+  {
+    "surface": "Le régime française",
+    "valid": false,
+    "reason": "性数搭配异常，非规范名词短语"
+  },
+  {
+    "surface": "la plurie religante",
+    "valid": false,
+    "reason": "疑似生造/拼写错误词，非规范名词短语"
+  },
+  {
+    "surface": "arrêtés",
+    "valid": false,
+    "reason": "分词/形容词，不是典型名词"
+  },
+  {
+    "surface": "les represides",
+    "valid": false,
+    "reason": "疑似生造/拼写错误词，非规范名词短语"
+  },
+  {
+    "surface": "la mesure",
+    "valid": true
+  },
+  {
+    "surface": "cette musique",
+    "valid": true
+  },
+  {
+    "surface": "La baguette",
+    "valid": true
+  },
+  {
+    "surface": "les entrées",
+    "valid": true
+  },
+  {
+    "surface": "les cesations",
+    "valid": false,
+    "reason": "拼写错误，非规范名词短语"
+  },
+  {
+    "surface": "determination",
+    "valid": true
+  },
+  {
+    "surface": "les tours",
+    "valid": true
+  },
+  {
+    "surface": "riturnes",
+    "valid": false,
+    "reason": "拼写错误，非规范名词"
+  },
+  {
+    "surface": "bien comme une oxyde rationale",
+    "valid": false,
+    "reason": "含副词和搭配异常，非规范名词短语"
+  }
+]

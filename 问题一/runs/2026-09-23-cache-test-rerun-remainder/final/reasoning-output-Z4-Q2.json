@@ -1,0 +1,218 @@
+{
+  "questionId": "Z4-Q2",
+  "question": "精神分析和精神分裂分析（schizoanalyse）的核心差异是什么？",
+  "model": "deepseek-flash",
+  "thinking": "disabled",
+  "elapsedSecs": 10.4,
+  "tokenUsage": {
+    "prompt_tokens": 9489,
+    "completion_tokens": 1288,
+    "total_tokens": 10777,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 9489
+  },
+  "truncated": false,
+  "llmOutput": "# 路径一：理论根基与无意识模型的差异\n\n步骤1：使用【【42】】，提取精神分析将主体性事实还原为“冲动、情感”等既定范畴的倾向；使用【【83】】，提取拉康派精神分析坚持无意识必须通过语言网络（“rets du langage”）来理解，否则便不配称为“真正的无意识”。\n\n步骤2：综合【【41】】【【59】】【【60】】，对比精神分裂分析对无意识的重构：部分对象不再被“象征性阉割”所切割，而是作为“操作项”开放；无意识被设想为“无器官的身体”，没有区分性部分，也没有可辨识的外部参照；这直接否定了弗洛伊德式冲动对象的“部分性”及其背后的象征阉割逻辑。\n\n步骤3：综合【【193】】【【229】】【【231】】，提取精神分裂分析将无意识重新分层为：第一层是“强度性实体的场所”，第三层由“语用学突触”构成，其基础材料是“未被编程的潜能”——这与精神分析的象征系统、语言结构形成根本对立。\n\n结论：精神分析（尤其拉康派）将无意识锚定在语言结构与象征阉割之上，而精神分裂分析将无意识重构为分层的、机器性的、非象征化的强度与潜能系统，二者在本体论根基上不可调和。\n\n# 路径二：主体性生产与还原主义的对立\n\n步骤1：使用【【1】】，提取瓜塔里明确表示要从“其他理论脚手架”出发重新思考精神分析中仍可站立的部分，且这些脚手架“尽可能少还原主义”；使用【【174】】，提取结构主义（精神分析的理论盟友）的诉求恰恰是“还原主体性”。\n\n步骤2：综合【【88】】【【109】】【【125】】，交叉验证精神分裂分析的核心主张：主体性内容越来越依赖于“多重机器系统”；主体性生产本质上是“异质的、多中心的”；主体性被权力与知识装置大规模控制，但也可以被“解放性道路”所弯折。\n\n步骤3：综合【【19】】【【22】】【【26】】，对比精神分析与宗教的共性：二者都试图将主体性“锁闭在符合资本主义逻辑的伦理公理中”；精神分析以更“阴险”的方式（而非宗教的公开束缚）实现这一锁闭；其手段是“能指还原的实践”。\n\n步骤4：使用【【45】】，提取精神分裂分析的自我定位：作为“所有异质领域的元模型化装置”，将这些领域视为“可选材料”，而非用俄狄浦斯三角和象征阉割去统摄一切。\n\n结论：精神分析通过象征还原将主体性锁闭在资本主义伦理公理中，精神分裂分析则拒绝一切还原主义，将主体性生产视为异质、多中心、机器性的过程，并以元模型化姿态尊重各领域的特异性。\n\n# 路径三：临床实践与社会介入的分野\n\n步骤1：使用【【50】】【【51】】，提取精神分析实践“通常以家庭化习性的主体性为中心”，局限于“治疗的封闭空间”；精神分裂分析则“相反地努力动员”更广泛的形成物。\n\n步骤2：综合【【5】】【【17】】【【27】】，交叉验证精神分析的社会介入方式：它通过“社会中的评论”进行干预，在大学、媒体等机构中“重新限定其制度化小教堂的使命”——这是一种体制内的、话语性的介入。\n\n步骤3：综合【【34】】【【44】】【【90】】，提取精神分裂分析的实践取向：它“本质上是偏离实践的”，面向“事实的阐明”，关注“主体性的工作”（如同打铁一般）；使用【【52】】，进一步提取其拒绝将主体性“中心化于人格之上”，拒绝“中立距离与善意”。\n\n步骤4：使用【【62】】【【37】】，提取精神分裂分析关注的领域：童年、精神分裂灾难、药物经验，以及“精神病、人类学”等所有精神病理学领域；它要“尊重这些领域的特殊特征”，而非用俄狄浦斯框架强行统摄。\n\n结论：精神分析是家庭化、体制内、话语性的临床实践，精神分裂分析则是偏离性的、面向多元异质领域的社会介入与元模型化实践，二者在实践场域与介入方式上根本不同。\n\n# 路径四：能量学与符号学的范式冲突\n\n步骤1：使用【【160】】【【91】】，提取弗洛伊德的原创性在于“发明了一种符号学能量学”，其早期理论化试图在科学主义框架内安置心理能量；使用【【77】】【【78】】，提取这种能量学遵循“恒常性原则”，能量释放受制于某种平衡逻辑。\n\n步骤2：综合【【94】】【【95】】【【171】】，交叉验证拉康对弗洛伊德能量学的改造：拉康逐步用“能指”概念替代“力比多”概念，但保留了某种“量”的维度；然而这种量已脱离弗洛伊德的性色彩，被结构主义符号学所收编。\n\n步骤3：综合【【130】】【【47】】【【225】】，对比精神分裂分析的能量学：它拒绝“单义的质料与能量基底”；提出“力比多-门”的概念（而非个体化的力比多）；将无意识重新奠基在“解域化”之上，而非象征系统之上。\n\n步骤4：使用【【96】】，提取精神分裂分析对“资本主义冲动”的分析：它始终包含两个基本成分——这与弗洛伊德式冲动的性色彩和拉康式能指的逻辑都不同，指向一种机器性的、社会历史性的能量经济学。\n\n结论：精神分析从弗洛伊德的符号学能量学到拉康的能指逻辑，始终在象征系统内安置能量；精神分裂分析则提出一种非单义的、机器性的、解域化的能量学，将力比多重新锚定在社会历史性的资本主义冲动之上，二者在能量学范式上根本异质。",
+  "totalMaterialsAvailable": 267,
+  "materialsUsedCount": 39,
+  "traceback": {
+    "1": {
+      "chunkKey": "h1.AyMz7WGtxP0PLFwypV7_9Sk_nv0f7XnJQytf_L4wZNyUUmnwuelGmdTZ_idp1k2aA70vGzrYTjQRPfVx2eGYNDpyfGqnObo76rnVloASo2jY7U_quSycU9jzKFzANLwccpSMwlDUbQ-AjCcxXnU",
+      "nounCount": 0,
+      "hits": []
+    },
+    "5": {
+      "chunkKey": "h1.9_EYi0DS1vAeWDPCQbTJzuMt7X20GUewneK8k6l-PaaOY3oiKnFBcWQfnzUjVIBe3ij1KPpPzbMKFN2qAJFwmEHwHUZlTR6hFo0TxbrdqJq1S1HO4EeEtRMBci7CRN8ktihy3EP3rjVL3Ee2wb0",
+      "nounCount": 0,
+      "hits": []
+    },
+    "17": {
+      "chunkKey": "h1.EJNZLZ4AXZWc8oGXi0-kIyLSJUOqXvC7hpKdzGNHemTZ5T0IQRD6Li_MBSCpvZKiRgrkdh0mZ1F2tba8OnU5xb0sjkn9YKEx4Opj2MHQjGZ4orwNBXDT7ZzBliqXZG7kwR8GsXBSCOGVyrBTqZ0",
+      "nounCount": 0,
+      "hits": []
+    },
+    "19": {
+      "chunkKey": "h1.r72kf9hj0gV9wjSBlfZetl83LESbjvkZwc0PGAov09GyeseJtWSo8S7vm0ecAlGZkYrzlldqRbhHygAe1nwDjgMnZbtjOUh7m1DNplMrIWOYPzVb4uV2zqFp_Qibn5ndqPmJMek0NQXGTRDbhP8",
+      "nounCount": 0,
+      "hits": []
+    },
+    "22": {
+      "chunkKey": "h1.r72kf9hj0gV9wjSBlfZetl83LESbjvkZwc0PGAov09GyeseJtWSo8S7vm0ecAlGZkYrzlldqRbhHygAe1nwDjgMnZbtjOUh7m1DNplMrIWOYPzVb4uV2zqFp_Qibn5ndqPmJMek0NQXGTRDbhP8",
+      "nounCount": 0,
+      "hits": []
+    },
+    "26": {
+      "chunkKey": "h1.8kmfDmRle-3zP5MuQ0YID9V_8W3Ff5DUwtQUxAYKUH50rxrSY3SbBzYC_4Zxs8ZYxC6avRXV2bvjMqA0-iWRuU5EwvnzcuFn3v4dlEQRHoITFip9msv7tVJjF246z2lhpWAnJuqwt17QrhKgVu0",
+      "nounCount": 0,
+      "hits": []
+    },
+    "27": {
+      "chunkKey": "h1.lDCSMtvu1y1o3cNEebGMVw7Vf_LmhgPLJ0XS-18slDKKBrTSK6U1864SYoEAjyymEnwV5yidDguWy8m-ZL_H5bdz-WlCe3aSpZYTEW3pkcrEwUKSCKcwCxZ9Ur1ywZlOfQsxncdjcLD-MN8_PAE",
+      "nounCount": 0,
+      "hits": []
+    },
+    "34": {
+      "chunkKey": "h1.x0XgGXIBTZ4HWQS7eys7p6ZwpUv6IXendKUCaA1_SuIJpi8eX0JIdzk_AFon4uv2GVgYOVf2oVHsMmlSfMVU9Sk1eS8GUv8RtDNvYcyh6wqIKoHxa4_X_DvzSFym5Dik0wJS9x51oTcgK3fIDA",
+      "nounCount": 0,
+      "hits": []
+    },
+    "37": {
+      "chunkKey": "h1.cGmU2on2_h7G4LY4OENpZev0JEK4-ZqOU3b3TBmwAglOAPDERAKBF9Pch63kdbiZie38TXnRfTcWrtwZqEcfhQLqX2HCfvrdQggNYIfA7kGhsivmrpvnN30UggTSIizYYctIhCW7cruVJ2mI-GI",
+      "nounCount": 0,
+      "hits": []
+    },
+    "41": {
+      "chunkKey": "h1.hXnPkgPGJi-0K49yarGXWEsF6Ykz1vW8g5dnh6jGN1tpIRIbJCJTxrToZsPSGbffb0J6Jjq155SrL6FEPTiBhXJekPYembBJAEB5HX3bjIuKIAfPymF2WNtaEbEWWI5oCKMUkFBfSAdObECPqV7B",
+      "nounCount": 0,
+      "hits": []
+    },
+    "42": {
+      "chunkKey": "h1.W6cdAesjgD3LUeqF8y5s1wiN8V4sRsljs1hYpw6O0aVfeHb8mIXIyDdX5yz5X7_KAIV6No2FRHd9TlMUe6_VU9qhiYImGRPsNCf4tmPxfu9wuPDbi8si0fv26L5sb7tMkzwMJonRQDbZJVUT5JM",
+      "nounCount": 0,
+      "hits": []
+    },
+    "44": {
+      "chunkKey": "h1.wMVGuY22fDi5fR4L7hbHZqqpkZEv-DzDisPX136l05RI2BMQRGkGC4laUcEvi26gGl_WwNl9rcdMqSjhHOSxGiH3q8BT_il8iMnxnetrMRkoJ1qdqfDIQWNh7XvHzQCmvLTFoca8H0p933Hk_fY",
+      "nounCount": 0,
+      "hits": []
+    },
+    "45": {
+      "chunkKey": "h1.LxTVEqjEfHi3DyHIS36az6vbp2snDjOlUzBOoRcUgADRHmHroAshX69hlAEptTdOfPd5suYFlEY4LztVBNHtO26gB8sykA_GBL7b_GIke_yzC_J0qf9-2itiaAoPcSU5MOGx5iR1EevzrLGisto",
+      "nounCount": 0,
+      "hits": []
+    },
+    "47": {
+      "chunkKey": "h1.jaIlyZkN1s7UhVTXQcO9MiKhlNtHd2CaO1lw2zr-aTwRKADrP0tvyiNZpHCJ1_e10X_eQvt2Os1hgb8NHurhq35bnwhKo1GfEsZWr7M8oTl1AsMsL4vTCXvBrvGzirVdCV_5h2kqDznsHX9_vlM",
+      "nounCount": 0,
+      "hits": []
+    },
+    "50": {
+      "chunkKey": "h1.fHwq5w8eDMaMtW13HAtgQbklZHBj_T-eSdHxHqztirZZz6Ecq5A4mdmw6J15OkgIBabNLdQ7dtGKNryoGrMJZc0M9OZ86p9zmlLW_iHMBzQpXPe42Zu-8iiWr5-IYgcWKzePUJpkL1ocnKvFC3Y",
+      "nounCount": 0,
+      "hits": []
+    },
+    "51": {
+      "chunkKey": "h1.fHwq5w8eDMaMtW13HAtgQbklZHBj_T-eSdHxHqztirZZz6Ecq5A4mdmw6J15OkgIBabNLdQ7dtGKNryoGrMJZc0M9OZ86p9zmlLW_iHMBzQpXPe42Zu-8iiWr5-IYgcWKzePUJpkL1ocnKvFC3Y",
+      "nounCount": 0,
+      "hits": []
+    },
+    "52": {
+      "chunkKey": "h1.fHwq5w8eDMaMtW13HAtgQbklZHBj_T-eSdHxHqztirZZz6Ecq5A4mdmw6J15OkgIBabNLdQ7dtGKNryoGrMJZc0M9OZ86p9zmlLW_iHMBzQpXPe42Zu-8iiWr5-IYgcWKzePUJpkL1ocnKvFC3Y",
+      "nounCount": 0,
+      "hits": []
+    },
+    "59": {
+      "chunkKey": "h1._iV1KD8MgklC1YhnKvAR3trp9inUCASxvTV0_7d6p4I_8JLbi4CebchmHMHMcnSskDxBnAy6XEkjlnJn_8EazyEUTrboJYIs7fgqw_OMdh1hcaUKJTkuh7WEt3o_fncGVUq2qVGPXMNe8z-6Su0",
+      "nounCount": 0,
+      "hits": []
+    },
+    "60": {
+      "chunkKey": "h1.ef_oFzmwwgeGvW4GO-a9KmzNWGZY8o1bHq6iQ9o9aGKufpSutOmXuCSfEkUgp6Otn4M97Gk1A-rxshbcR9BkPOeSuPQrfhMG9YofUDqLcMFqxUh_xn19wZdW6T9dGDe5WQpS7RWAqeAB1qw-Phw",
+      "nounCount": 0,
+      "hits": []
+    },
+    "62": {
+      "chunkKey": "h1.J9jzre4qgpIj7VnA8MYkblwcuRGlD_zPHv--owj7Re7lva53zO5sP-DndTyV0lmNf4r_NczRTQfZ9-KSuAokB8Valt3DDO3eWhl0gp13P5N-FAgSzSCqYM11S90ZifX8om0KEMvxfBL01Q0jTSZS",
+      "nounCount": 0,
+      "hits": []
+    },
+    "77": {
+      "chunkKey": "h1.Np3LpmFVV4J8Tgvys2d5wbYTVed6_kC-ZPGPMc7IGHCDxknce_ePPLCozJG4qsX-f5AP46ArEuABLrXI_Z4t0yuvVj0OnMdeEPcenl9dsir6q6C4sDCGoPntLtaHknaa4ZVIO-M1g1DDfVSE834",
+      "nounCount": 0,
+      "hits": []
+    },
+    "78": {
+      "chunkKey": "h1.Np3LpmFVV4J8Tgvys2d5wbYTVed6_kC-ZPGPMc7IGHCDxknce_ePPLCozJG4qsX-f5AP46ArEuABLrXI_Z4t0yuvVj0OnMdeEPcenl9dsir6q6C4sDCGoPntLtaHknaa4ZVIO-M1g1DDfVSE834",
+      "nounCount": 0,
+      "hits": []
+    },
+    "83": {
+      "chunkKey": "h1.ShoqKrbVGneb6N1uppI929cIwlhWrQhAhVjJXTWMtO2nGxK4v7LaCvMkXs-aqxRWwMIwLgwqinuapPOh_0ZG5XAXn9IZ2Q7fHAbIZMXQK7sFrfNOS8ob1Q8Lq8v0WOVoQe1N-nSGgdybKzmnB6s_",
+      "nounCount": 0,
+      "hits": []
+    },
+    "88": {
+      "chunkKey": "h1.hvWIqXNrIrFrEjyHqpJzztUkpyHN344WRXyk6LtXQxJHt4BCwrbJSUqqtIzamoj7Jml-Y3wnS2eCWsymy9XJdVXxTlUKduo4-yuNFEGA36soZrb2prp_jTylQ7KXRXgdEo7fxEYbA12JhB4kjA",
+      "nounCount": 0,
+      "hits": []
+    },
+    "90": {
+      "chunkKey": "h1.l_-Ir38WOsOUNl-gRDjWZVZ5RglybhUDK55YOLqXGQqp6EDWhwmc66EPPCAw4yBeD96ogYCw_lQx8PEV8-tT_5TKEdW0Yb67EmEEMChg0zZxEecIM2e_IVtycCwaD0pkVGva14J0FZ_rUpngHZc",
+      "nounCount": 0,
+      "hits": []
+    },
+    "91": {
+      "chunkKey": "h1.z99_M8pWEoy_gDJcP_gfvOg4z7pe2vKZb0WskA_qlNHyWBxyGKfrM1S57u9HAegIsMy0fPqVcnyXyVebD0Ax3zEtRsGtL3v2tEpaGx8aqTjS9xrvMo0nkNHs42knPZacW_m0GkHsMB8XbbSNCR4",
+      "nounCount": 0,
+      "hits": []
+    },
+    "94": {
+      "chunkKey": "h1.em0D7i-CKorDflKcdGwIbC6i2uJM44DdQoNSHJzrELGTCOtSsjL01Y439g1N98SxbCFRUmSUPJtjV3Lw2cuLcNSEt6eEqnzIwIZwlxP3lKqMWoFIt8JNmlCeOGlB6cTUkiiFKJWiqu2-LYjy0kk",
+      "nounCount": 0,
+      "hits": []
+    },
+    "95": {
+      "chunkKey": "h1.em0D7i-CKorDflKcdGwIbC6i2uJM44DdQoNSHJzrELGTCOtSsjL01Y439g1N98SxbCFRUmSUPJtjV3Lw2cuLcNSEt6eEqnzIwIZwlxP3lKqMWoFIt8JNmlCeOGlB6cTUkiiFKJWiqu2-LYjy0kk",
+      "nounCount": 0,
+      "hits": []
+    },
+    "96": {
+      "chunkKey": "h1.rTWCpVGxU8jSpf5DSjR6VBvBx0vN-9mKOH20y3JMIPJyZ0Qa8p7z58Lb7HGg52fMTyDvyqjTOtCxcSDPV9hqKZGmaXpINdYhwH5VlA7jhQpA2juEnukE_fh-F1iNduMZ1sAD522I2IdsjakVPTs",
+      "nounCount": 0,
+      "hits": []
+    },
+    "109": {
+      "chunkKey": "h1.o5LU2R7mEdy-Zdwxb23308ZTbn6FL0bY3W2JB3eKm1lnhjlkIkCBH2Hlcd48t3eo5Y78IShmNt2BQZv_OnB5f3psdpd53KqNx2l4yrsg2B-yOOW6_EmGd56jjuWgJtER0OUlp2cOOR4cQggM1rU",
+      "nounCount": 0,
+      "hits": []
+    },
+    "125": {
+      "chunkKey": "h1.j8JZzkSiSEOdmBsJ1rPEIAb3EGcFsDXen4L8MkaIGiV1fRVgo_1chPc5uWSdalOYY-siqWNH6ca3-x9H_GfQ3CuyYESG-b8A2UySIOa-Sdt94HsPxHnoRGF4EdHlZhKDaY4eMB7Fff0ueft-iQc",
+      "nounCount": 0,
+      "hits": []
+    },
+    "130": {
+      "chunkKey": "h1.jr3fRlc24vwHYHecHw40Wne_Fwdanu7ksZ-SYatlRDeZHKct_k_TRdIazntIKV6AxcKheZfGTcHQjKv461eaLtkzquTuESQE6NYnsD7EQSuPRyOhg9K19XEQvLU2o_stBZHcH15PPA0R5fWHa-I",
+      "nounCount": 0,
+      "hits": []
+    },
+    "160": {
+      "chunkKey": "h1.pbsmtcp0z1jAzLITBzcta_IgTgXzxlfqJB-0KmO109e8oyj2zb_ShPSdzwETcpItnFmkKX3Ot79zg-rSUhq1qr3Zt47y9f-1DyXLTVFdKTBgnRCGzhGOWqWHoNnlJ-KLW4AKSfyN15bLKxXRA6c",
+      "nounCount": 0,
+      "hits": []
+    },
+    "171": {
+      "chunkKey": "h1.Mph0M_xFR7Zv5cm2ntkFPFn-DsENbLkX45PYSSfmLus-G0mQgir4BIkPZJ9MorHitN-EP0Y3GiFGh7nVdgPAtCtqJzre9BDzMxp4hbZG15oK8IP-H-wD197mxxxdKZDqoOBCTkBxbosY43ta-60",
+      "nounCount": 0,
+      "hits": []
+    },
+    "174": {
+      "chunkKey": "h1.-RR0nVeIRF0SIpJpFHiYYJCgTqLLg6jXJOCehCYSPeNeil7KyD4AwOT16unxAo783Xr5G0i8K-moaP8AgdDiYDFGk25hveouOxD90IjVXndecphdv09bjMlrJli3paAjKjw93Od9zLYz9SBKlveh",
+      "nounCount": 0,
+      "hits": []
+    },
+    "193": {
+      "chunkKey": "h1.HD6TjuGj8vJD9zkvfgTJLG31VpA5GBYJl7Wt0fncQIyz1UM6Xfb2ctifuQM10A74ZIQDYFMRx6OKnwVc7w5HC8F_U3ER3PdjuoVS9dDliAtTKykqTnr4F74xA5SxR-lFeWX5iVFiMzc3Sk8-1HU",
+      "nounCount": 0,
+      "hits": []
+    },
+    "225": {
+      "chunkKey": "h1.aF5vZFFOclTJXQKYsOqak6amjYcpHAwCq-FK_adHQcnhPHc1-erzLI66zYvvLd-RjPOaEXrupbXN4D7E5UPLp2NuwUn3cdRb3HUlppL7-ZCKncS9nbfZFtRynK-dMiNZKWpP90mz3g605Ktl8BU",
+      "nounCount": 0,
+      "hits": []
+    },
+    "229": {
+      "chunkKey": "h1.IPFKb8xeh_Ei7Z0U-NyhE8QkhorvmlRIpgEACMTN5fLfwnm_K701TtPiT3MHNyfZtim-Wba4hP_Hv328bxkS3F2iq6BNGcgm6CWTnsuH35R36dbczZ_5P98F-il_k870DV0IWpiMuaqsD0Ztm8hg",
+      "nounCount": 0,
+      "hits": []
+    },
+    "231": {
+      "chunkKey": "h1.5ALt5Pl-7mVHICV0A-d5Ks1EHq_UAnJhZlb1dNBn2c_klThctZvjINShAN_Onxf0o4QGXH5S5RglZxE6a4MllV511Itkj4BY99q9q3aX3HGjFTSeEwr3hT1v3BTV_o3tFcz8Tm3ViMYK2mZfg3X5",
+      "nounCount": 0,
+      "hits": []
+    }
+  }
+}

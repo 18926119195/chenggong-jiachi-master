@@ -1,0 +1,2922 @@
+{
+  "experimentGroup": "实验组二（带兜底）",
+  "batchId": 47,
+  "timestamp": "2026-09-21T05:08:18.777Z",
+  "prompt": "你是一个精确的语言学名词提取器。请从以下文本截断中提取**所有名词性成分**（名词、专有名词、名词短语）。\n\n**要求**：\n- 只提取名词及名词短语\n- 不要提取纯动词、形容词、副词、连接词\n- 保持原文形式（含重音符号、大小写）\n- 用【【N】】引用截断编号\n\n**输出格式**：\n【【1】】名词1, 名词2\n【【2】】名词3\n（无名词时直接跳过该行，不要写 NONE 或留空）\n\n**待处理截断**：\n\n【【1】】\ndes autres et, de plus en plus, en compliqué de\n【【2】】\nJ'imagine que certaines\n【【3】】\nendurcies à la rude\n【【4】】\nlogique à'accepter pendant s'\n【【5】】\nqu'on puisse recourir, comme je l'ai fait, à des\n【【6】】\nqualifiées d'\n【【7】】\n, pour etayer une\n【【8】】\nexistientielle Ne prétendant auucenement fonder scientifiquement ma\n【【9】】\n. Ce que je voudrais seulement dire lire, c'est que je crois savoir qu'aucune\n【【10】】\nsubjectifs ne saurait contourner cette\n【【11】】\n, qui excède de beaucoup le\n【【12】】\n, toutes ses\n【【13】】\nqui d'une autre, à rendre\n【【14】】\neuropéenne ... 16 L'\n【【15】】\ncapitalistique des\n【【16】】\nde la l'informatique\n【【17】】\nanalytiques** ... 27 Les\n【【18】】\n... 39 Inconscient versus\n【【19】】\nà l'pre\n【【20】】\nschizoanalytiques ... 61 **2. Les\n【【21】】\nsémiotiques** ... 67 Le\n【【22】】\nentropique ... 67 L'energetique\n【【23】】\nfreudienne ... 70 L'inconscient schizoanalytique ... 72 Non-separabilité,\n【【24】】\n... 81 Les trois\n【【25】】\n... 81 Les quatre\n【【26】】\nprimaire ... 86\n【【27】】\nschizoanalytiques\n【【28】】\nsémiotiques de l'\n【【29】】\nsecondaire ... 87\n【【30】】\nter-\n【【31】】\n: pourquoi partir de quatre\n【【32】】\nmachinique ... 98\n【【33】】\ndes quatre premières\n【【34】】\nsensible : la\n【【35】】\ninstantiel des\n【【36】】\nmachinique : la\n【【37】】\nrhizomatique : la\n【【38】】\nconcrète ... 123 **4.\n【【39】】\nchaotique ... 133 Le\n【【40】】\nentitaires ... 135 Les\n【【41】】\nproto-énonciatifs ... 142\n【【42】】\nsensible ou\n【【43】】\nextrinsèque ... 163 La\n【【44】】\nexpressive :\n【【45】】\nexistentielle f(exi) et la\n【【46】】\ndiag- grammatique f(diag) ... 176 Les\n【【47】】\nexistentielles ... 181 Le\n【【48】】\nvirtuels ... 196 La dis-\n【【49】】\nsynaptique ... 199 **8. La\n【【50】】\nenonciative** ... 207 Les\n【【51】】\nénergétiques ... 208 Les quatre\n【【52】】\nrecursives ... 210 Les\n【【53】】\nintermédiaires ... 215 La\n【【54】】\nenonciative ... 218 La\n【【55】】\nexistentiels** ... 251 **\n【【56】】\nretrouvé** ... 269 **L'\n【【57】】\narchitecturale** ... 291 **Les ritournelles éthico-esthétiques dans le\n【【58】】\nvisagéitaire de\n【【59】】\nin the street » ... 319 **\n【【60】】\nanalytiques ... 27 1.\n【【61】】\n2. Croisement\n【【62】】\ndes quatre\n【【63】】\ndes quatre\n【【64】】\nsémiotiques ... 67 1. Les\n【【65】】\nrelative ... 77 2.\n【【66】】\ndes quatre\n【【67】】\nintensive ... 80 3.\n【【68】】\nentre les trois\n【【69】】\ndes quatre\n【【70】】\nprofondes Φ: et\n【【71】】\nsynaptique ... 95 3.\n【【72】】\n, Réal,\n【【73】】\nbipolaire d'une\n【【74】】\nexpressive ... 103\n【【75】】\nschizoanalytiques\n【【76】】\n6. Les trois\n【【77】】\nsériel ... 154 6.\n【【78】】\nsérielle et\n【【79】】\n... 155 7. Les deux\n【【80】】\nmodulaire ... 163 2. Lissage\n【【81】】\nde la plus-value machinique ... 164 4.\n【【82】】\nextrinsèque ... 170 6. Chevauchement des\n【【83】】\nexistentielle ... 182 10.\n【【84】】\ndiagrammatique et tenseurs existentiels ... 183 11. Les\n【【85】】\nexistentielles ... 185 ## 7. Le\n【【86】】\nvirtuelle ... 190 5. Les\n【【87】】\nextensionnelles ... 194 6.\n【【88】】\nsynaptique ...\n【【89】】\nabstraites ... 203 ## 8. La\n【【90】】\nénonciative ... 207 1. Les quatre\n【【91】】\n... 208 2. Les quatre\n【【92】】\ndiscursive ... 212 3.\n【【93】】\nà quatre\n【【94】】\n... 221 7. Les quatre\n【【95】】\nschizoanalytiques\n【【96】】\nénonciative ... 224 9. Les\n【【97】】\nénonciatives ... 234 **Les\n【【98】】\nen pointillé ... 236 **\n【【99】】\nexistentiels** ... 251 1.\n【【100】】\nGEORGES PEREC\n【【101】】\nDREYFUS La\n【【102】】\ndisciplinaire\n【【103】】\nBAUDRILLARD\n【【104】】\n, JEAN-PIERRE BUFFARD\n【【105】】\n, TOMASO REGAZZOLA Situations migratores\n【【106】】\nDUVIGNAUD Lieux et\n【【107】】\nMEDAM\n【【108】】\nVIRILIO\n【【109】】\nVIRILIO\n【【110】】\npopulaire et\n【【111】】\nécologiques\n【【112】】\nDUFRACNATEL,\n【【113】】\nFRASSE MICHELLE\n【【114】】\n, GÉRARD SALVARESI PASCALE WERNER L'\n【【115】】\nBAUDRILLARD De la\n【【116】】\nJOXE Le\n【【117】】\nMEDAM",
+  "truncations": [
+    {
+      "truncId": 1,
+      "machineCode": "【【1】】",
+      "chunkKey": "h1.ANkV8hMSsahEhqMAduZITV8kheTpfUqnizPu1oG2am_3AcqqojfDAdRymfZPOgLPr6eRjjsIABmQ-81xlh8mvYPD6ysM1xLxuFXjvk_Nx0Vn9nmFwLQGMYje_YjH7HElfthBp9MD88SLmjD3niEC",
+      "start": 358,
+      "end": 407,
+      "page": 168,
+      "text": "des autres et, de plus en plus, en compliqué de"
+    },
+    {
+      "truncId": 2,
+      "machineCode": "【【2】】",
+      "chunkKey": "h1.R_CtagucE6AD_PEy7I3T7dStio-wbRiK9wGBe7g4ktUTJSTZ1mbAPz2IqHWq_3RlIY9zwEHwmEeKxErnQ2z-u2IaiueCcyKEVziIW_Pz3xiLVi90B-1NjVFQ5Y59hiNXjNACX9DkME5AlBEZ3N8b",
+      "start": 0,
+      "end": 24,
+      "page": 168,
+      "text": "J'imagine que certaines"
+    },
+    {
+      "truncId": 3,
+      "machineCode": "【【3】】",
+      "chunkKey": "h1.R_CtagucE6AD_PEy7I3T7dStio-wbRiK9wGBe7g4ktUTJSTZ1mbAPz2IqHWq_3RlIY9zwEHwmEeKxErnQ2z-u2IaiueCcyKEVziIW_Pz3xiLVi90B-1NjVFQ5Y59hiNXjNACX9DkME5AlBEZ3N8b",
+      "start": 28,
+      "end": 49,
+      "page": 168,
+      "text": "endurcies à la rude"
+    },
+    {
+      "truncId": 4,
+      "machineCode": "【【4】】",
+      "chunkKey": "h1.R_CtagucE6AD_PEy7I3T7dStio-wbRiK9wGBe7g4ktUTJSTZ1mbAPz2IqHWq_3RlIY9zwEHwmEeKxErnQ2z-u2IaiueCcyKEVziIW_Pz3xiLVi90B-1NjVFQ5Y59hiNXjNACX9DkME5AlBEZ3N8b",
+      "start": 91,
+      "end": 121,
+      "page": 168,
+      "text": "logique à'accepter pendant s'"
+    },
+    {
+      "truncId": 5,
+      "machineCode": "【【5】】",
+      "chunkKey": "h1.R_CtagucE6AD_PEy7I3T7dStio-wbRiK9wGBe7g4ktUTJSTZ1mbAPz2IqHWq_3RlIY9zwEHwmEeKxErnQ2z-u2IaiueCcyKEVziIW_Pz3xiLVi90B-1NjVFQ5Y59hiNXjNACX9DkME5AlBEZ3N8b",
+      "start": 131,
+      "end": 181,
+      "page": 168,
+      "text": "qu'on puisse recourir, comme je l'ai fait, à des"
+    },
+    {
+      "truncId": 6,
+      "machineCode": "【【6】】",
+      "chunkKey": "h1.R_CtagucE6AD_PEy7I3T7dStio-wbRiK9wGBe7g4ktUTJSTZ1mbAPz2IqHWq_3RlIY9zwEHwmEeKxErnQ2z-u2IaiueCcyKEVziIW_Pz3xiLVi90B-1NjVFQ5Y59hiNXjNACX9DkME5AlBEZ3N8b",
+      "start": 189,
+      "end": 203,
+      "page": 168,
+      "text": "qualifiées d'"
+    },
+    {
+      "truncId": 7,
+      "machineCode": "【【7】】",
+      "chunkKey": "h1.R_CtagucE6AD_PEy7I3T7dStio-wbRiK9wGBe7g4ktUTJSTZ1mbAPz2IqHWq_3RlIY9zwEHwmEeKxErnQ2z-u2IaiueCcyKEVziIW_Pz3xiLVi90B-1NjVFQ5Y59hiNXjNACX9DkME5AlBEZ3N8b",
+      "start": 257,
+      "end": 275,
+      "page": 168,
+      "text": ", pour etayer une"
+    },
+    {
+      "truncId": 8,
+      "machineCode": "【【8】】",
+      "chunkKey": "h1.R_CtagucE6AD_PEy7I3T7dStio-wbRiK9wGBe7g4ktUTJSTZ1mbAPz2IqHWq_3RlIY9zwEHwmEeKxErnQ2z-u2IaiueCcyKEVziIW_Pz3xiLVi90B-1NjVFQ5Y59hiNXjNACX9DkME5AlBEZ3N8b",
+      "start": 283,
+      "end": 352,
+      "page": 168,
+      "text": "existientielle Ne prétendant auucenement fonder scientifiquement ma"
+    },
+    {
+      "truncId": 9,
+      "machineCode": "【【9】】",
+      "chunkKey": "h1.R_CtagucE6AD_PEy7I3T7dStio-wbRiK9wGBe7g4ktUTJSTZ1mbAPz2IqHWq_3RlIY9zwEHwmEeKxErnQ2z-u2IaiueCcyKEVziIW_Pz3xiLVi90B-1NjVFQ5Y59hiNXjNACX9DkME5AlBEZ3N8b",
+      "start": 431,
+      "end": 509,
+      "page": 168,
+      "text": ". Ce que je voudrais seulement dire lire, c'est que je crois savoir qu'aucune"
+    },
+    {
+      "truncId": 10,
+      "machineCode": "【【10】】",
+      "chunkKey": "h1.R_CtagucE6AD_PEy7I3T7dStio-wbRiK9wGBe7g4ktUTJSTZ1mbAPz2IqHWq_3RlIY9zwEHwmEeKxErnQ2z-u2IaiueCcyKEVziIW_Pz3xiLVi90B-1NjVFQ5Y59hiNXjNACX9DkME5AlBEZ3N8b",
+      "start": 562,
+      "end": 602,
+      "page": 168,
+      "text": "subjectifs ne saurait contourner cette"
+    },
+    {
+      "truncId": 11,
+      "machineCode": "【【11】】",
+      "chunkKey": "h1.R_CtagucE6AD_PEy7I3T7dStio-wbRiK9wGBe7g4ktUTJSTZ1mbAPz2IqHWq_3RlIY9zwEHwmEeKxErnQ2z-u2IaiueCcyKEVziIW_Pz3xiLVi90B-1NjVFQ5Y59hiNXjNACX9DkME5AlBEZ3N8b",
+      "start": 615,
+      "end": 643,
+      "page": 168,
+      "text": ", qui excède de beaucoup le"
+    },
+    {
+      "truncId": 12,
+      "machineCode": "【【12】】",
+      "chunkKey": "h1.R_CtagucE6AD_PEy7I3T7dStio-wbRiK9wGBe7g4ktUTJSTZ1mbAPz2IqHWq_3RlIY9zwEHwmEeKxErnQ2z-u2IaiueCcyKEVziIW_Pz3xiLVi90B-1NjVFQ5Y59hiNXjNACX9DkME5AlBEZ3N8b",
+      "start": 701,
+      "end": 714,
+      "page": 168,
+      "text": ", toutes ses"
+    },
+    {
+      "truncId": 13,
+      "machineCode": "【【13】】",
+      "chunkKey": "h1.R_CtagucE6AD_PEy7I3T7dStio-wbRiK9wGBe7g4ktUTJSTZ1mbAPz2IqHWq_3RlIY9zwEHwmEeKxErnQ2z-u2IaiueCcyKEVziIW_Pz3xiLVi90B-1NjVFQ5Y59hiNXjNACX9DkME5AlBEZ3N8b",
+      "start": 737,
+      "end": 763,
+      "page": 168,
+      "text": "qui d'une autre, à rendre"
+    },
+    {
+      "truncId": 14,
+      "machineCode": "【【14】】",
+      "chunkKey": "h1.KcMTr9g9t93FFaHnl-KzAf1axCaaMHyc6u12UX4HwRPAEvRC8p7YY2HUZcQ8hSVsHwXy4tLiCU-HEaFVTyhcTHCesR9grRuNvdA-jofkaEUh3GMmTYGaJqZ2ukzlmiV68c60y6IKA0zTHtY2VuAR",
+      "start": 40,
+      "end": 61,
+      "page": 169,
+      "text": "européenne ... 16 L'"
+    },
+    {
+      "truncId": 15,
+      "machineCode": "【【15】】",
+      "chunkKey": "h1.KcMTr9g9t93FFaHnl-KzAf1axCaaMHyc6u12UX4HwRPAEvRC8p7YY2HUZcQ8hSVsHwXy4tLiCU-HEaFVTyhcTHCesR9grRuNvdA-jofkaEUh3GMmTYGaJqZ2ukzlmiV68c60y6IKA0zTHtY2VuAR",
+      "start": 91,
+      "end": 111,
+      "page": 169,
+      "text": "capitalistique des"
+    },
+    {
+      "truncId": 16,
+      "machineCode": "【【16】】",
+      "chunkKey": "h1.KcMTr9g9t93FFaHnl-KzAf1axCaaMHyc6u12UX4HwRPAEvRC8p7YY2HUZcQ8hSVsHwXy4tLiCU-HEaFVTyhcTHCesR9grRuNvdA-jofkaEUh3GMmTYGaJqZ2ukzlmiV68c60y6IKA0zTHtY2VuAR",
+      "start": 149,
+      "end": 171,
+      "page": 169,
+      "text": "de la l'informatique"
+    },
+    {
+      "truncId": 17,
+      "machineCode": "【【17】】",
+      "chunkKey": "h1.KcMTr9g9t93FFaHnl-KzAf1axCaaMHyc6u12UX4HwRPAEvRC8p7YY2HUZcQ8hSVsHwXy4tLiCU-HEaFVTyhcTHCesR9grRuNvdA-jofkaEUh3GMmTYGaJqZ2ukzlmiV68c60y6IKA0zTHtY2VuAR",
+      "start": 211,
+      "end": 237,
+      "page": 169,
+      "text": "analytiques** ... 27 Les"
+    },
+    {
+      "truncId": 18,
+      "machineCode": "【【18】】",
+      "chunkKey": "h1.KcMTr9g9t93FFaHnl-KzAf1axCaaMHyc6u12UX4HwRPAEvRC8p7YY2HUZcQ8hSVsHwXy4tLiCU-HEaFVTyhcTHCesR9grRuNvdA-jofkaEUh3GMmTYGaJqZ2ukzlmiV68c60y6IKA0zTHtY2VuAR",
+      "start": 338,
+      "end": 365,
+      "page": 169,
+      "text": "... 39 Inconscient versus"
+    },
+    {
+      "truncId": 19,
+      "machineCode": "【【19】】",
+      "chunkKey": "h1.KcMTr9g9t93FFaHnl-KzAf1axCaaMHyc6u12UX4HwRPAEvRC8p7YY2HUZcQ8hSVsHwXy4tLiCU-HEaFVTyhcTHCesR9grRuNvdA-jofkaEUh3GMmTYGaJqZ2ukzlmiV68c60y6IKA0zTHtY2VuAR",
+      "start": 441,
+      "end": 450,
+      "page": 169,
+      "text": "à l'pre"
+    },
+    {
+      "truncId": 20,
+      "machineCode": "【【20】】",
+      "chunkKey": "h1.KcMTr9g9t93FFaHnl-KzAf1axCaaMHyc6u12UX4HwRPAEvRC8p7YY2HUZcQ8hSVsHwXy4tLiCU-HEaFVTyhcTHCesR9grRuNvdA-jofkaEUh3GMmTYGaJqZ2ukzlmiV68c60y6IKA0zTHtY2VuAR",
+      "start": 490,
+      "end": 525,
+      "page": 169,
+      "text": "schizoanalytiques ... 61 **2. Les"
+    },
+    {
+      "truncId": 21,
+      "machineCode": "【【21】】",
+      "chunkKey": "h1.KcMTr9g9t93FFaHnl-KzAf1axCaaMHyc6u12UX4HwRPAEvRC8p7YY2HUZcQ8hSVsHwXy4tLiCU-HEaFVTyhcTHCesR9grRuNvdA-jofkaEUh3GMmTYGaJqZ2ukzlmiV68c60y6IKA0zTHtY2VuAR",
+      "start": 537,
+      "end": 562,
+      "page": 169,
+      "text": "sémiotiques** ... 67 Le"
+    },
+    {
+      "truncId": 22,
+      "machineCode": "【【22】】",
+      "chunkKey": "h1.KcMTr9g9t93FFaHnl-KzAf1axCaaMHyc6u12UX4HwRPAEvRC8p7YY2HUZcQ8hSVsHwXy4tLiCU-HEaFVTyhcTHCesR9grRuNvdA-jofkaEUh3GMmTYGaJqZ2ukzlmiV68c60y6IKA0zTHtY2VuAR",
+      "start": 568,
+      "end": 601,
+      "page": 169,
+      "text": "entropique ... 67 L'energetique"
+    },
+    {
+      "truncId": 23,
+      "machineCode": "【【23】】",
+      "chunkKey": "h1.KcMTr9g9t93FFaHnl-KzAf1axCaaMHyc6u12UX4HwRPAEvRC8p7YY2HUZcQ8hSVsHwXy4tLiCU-HEaFVTyhcTHCesR9grRuNvdA-jofkaEUh3GMmTYGaJqZ2ukzlmiV68c60y6IKA0zTHtY2VuAR",
+      "start": 611,
+      "end": 686,
+      "page": 169,
+      "text": "freudienne ... 70 L'inconscient schizoanalytique ... 72 Non-separabilité,"
+    },
+    {
+      "truncId": 24,
+      "machineCode": "【【24】】",
+      "chunkKey": "h1.KcMTr9g9t93FFaHnl-KzAf1axCaaMHyc6u12UX4HwRPAEvRC8p7YY2HUZcQ8hSVsHwXy4tLiCU-HEaFVTyhcTHCesR9grRuNvdA-jofkaEUh3GMmTYGaJqZ2ukzlmiV68c60y6IKA0zTHtY2VuAR",
+      "start": 753,
+      "end": 771,
+      "page": 169,
+      "text": "... 81 Les trois"
+    },
+    {
+      "truncId": 25,
+      "machineCode": "【【25】】",
+      "chunkKey": "h1.KcMTr9g9t93FFaHnl-KzAf1axCaaMHyc6u12UX4HwRPAEvRC8p7YY2HUZcQ8hSVsHwXy4tLiCU-HEaFVTyhcTHCesR9grRuNvdA-jofkaEUh3GMmTYGaJqZ2ukzlmiV68c60y6IKA0zTHtY2VuAR",
+      "start": 792,
+      "end": 811,
+      "page": 169,
+      "text": "... 81 Les quatre"
+    },
+    {
+      "truncId": 26,
+      "machineCode": "【【26】】",
+      "chunkKey": "h1.KcMTr9g9t93FFaHnl-KzAf1axCaaMHyc6u12UX4HwRPAEvRC8p7YY2HUZcQ8hSVsHwXy4tLiCU-HEaFVTyhcTHCesR9grRuNvdA-jofkaEUh3GMmTYGaJqZ2ukzlmiV68c60y6IKA0zTHtY2VuAR",
+      "start": 888,
+      "end": 904,
+      "page": 169,
+      "text": "primaire ... 86"
+    },
+    {
+      "truncId": 27,
+      "machineCode": "【【27】】",
+      "chunkKey": "h1.azkyQolcpyzU463PzKy4DmnYLm2v7f900KyjHcKnK3LEincpszzxO530Cmy4tvjYhiw-6TRHkFQNXbk85_VRj-rbVDGEBwI5JAdLQmMajgLq3jOMmhtPUEWen4LrwhPN4LOPdMK6UFlbN01etnF-",
+      "start": 16,
+      "end": 34,
+      "page": 170,
+      "text": "schizoanalytiques"
+    },
+    {
+      "truncId": 28,
+      "machineCode": "【【28】】",
+      "chunkKey": "h1.ebp2D8ItiNISVKQTF8kdAGLC4Ip6z31EBFX36fMjYTacu1PA7W-NqgLY2g_Hi7LxeVc0hjxn6_3w5yifqccm-qMx8lYhCr1lHvK-VK1gmI3ewu3Cicm7kri0kEMOdjb_e6AJHNVCtyKDF9FY59vS",
+      "start": 12,
+      "end": 30,
+      "page": 170,
+      "text": "sémiotiques de l'"
+    },
+    {
+      "truncId": 29,
+      "machineCode": "【【29】】",
+      "chunkKey": "h1.ebp2D8ItiNISVKQTF8kdAGLC4Ip6z31EBFX36fMjYTacu1PA7W-NqgLY2g_Hi7LxeVc0hjxn6_3w5yifqccm-qMx8lYhCr1lHvK-VK1gmI3ewu3Cicm7kri0kEMOdjb_e6AJHNVCtyKDF9FY59vS",
+      "start": 41,
+      "end": 60,
+      "page": 170,
+      "text": "secondaire ... 87"
+    },
+    {
+      "truncId": 30,
+      "machineCode": "【【30】】",
+      "chunkKey": "h1.ebp2D8ItiNISVKQTF8kdAGLC4Ip6z31EBFX36fMjYTacu1PA7W-NqgLY2g_Hi7LxeVc0hjxn6_3w5yifqccm-qMx8lYhCr1lHvK-VK1gmI3ewu3Cicm7kri0kEMOdjb_e6AJHNVCtyKDF9FY59vS",
+      "start": 104,
+      "end": 109,
+      "page": 170,
+      "text": "ter-"
+    },
+    {
+      "truncId": 31,
+      "machineCode": "【【31】】",
+      "chunkKey": "h1.ebp2D8ItiNISVKQTF8kdAGLC4Ip6z31EBFX36fMjYTacu1PA7W-NqgLY2g_Hi7LxeVc0hjxn6_3w5yifqccm-qMx8lYhCr1lHvK-VK1gmI3ewu3Cicm7kri0kEMOdjb_e6AJHNVCtyKDF9FY59vS",
+      "start": 170,
+      "end": 199,
+      "page": 170,
+      "text": ": pourquoi partir de quatre"
+    },
+    {
+      "truncId": 32,
+      "machineCode": "【【32】】",
+      "chunkKey": "h1.ebp2D8ItiNISVKQTF8kdAGLC4Ip6z31EBFX36fMjYTacu1PA7W-NqgLY2g_Hi7LxeVc0hjxn6_3w5yifqccm-qMx8lYhCr1lHvK-VK1gmI3ewu3Cicm7kri0kEMOdjb_e6AJHNVCtyKDF9FY59vS",
+      "start": 387,
+      "end": 406,
+      "page": 170,
+      "text": "machinique ... 98"
+    },
+    {
+      "truncId": 33,
+      "machineCode": "【【33】】",
+      "chunkKey": "h1.ebp2D8ItiNISVKQTF8kdAGLC4Ip6z31EBFX36fMjYTacu1PA7W-NqgLY2g_Hi7LxeVc0hjxn6_3w5yifqccm-qMx8lYhCr1lHvK-VK1gmI3ewu3Cicm7kri0kEMOdjb_e6AJHNVCtyKDF9FY59vS",
+      "start": 475,
+      "end": 497,
+      "page": 170,
+      "text": "des quatre premières"
+    },
+    {
+      "truncId": 34,
+      "machineCode": "【【34】】",
+      "chunkKey": "h1.ebp2D8ItiNISVKQTF8kdAGLC4Ip6z31EBFX36fMjYTacu1PA7W-NqgLY2g_Hi7LxeVc0hjxn6_3w5yifqccm-qMx8lYhCr1lHvK-VK1gmI3ewu3Cicm7kri0kEMOdjb_e6AJHNVCtyKDF9FY59vS",
+      "start": 558,
+      "end": 573,
+      "page": 170,
+      "text": "sensible : la"
+    },
+    {
+      "truncId": 35,
+      "machineCode": "【【35】】",
+      "chunkKey": "h1.ebp2D8ItiNISVKQTF8kdAGLC4Ip6z31EBFX36fMjYTacu1PA7W-NqgLY2g_Hi7LxeVc0hjxn6_3w5yifqccm-qMx8lYhCr1lHvK-VK1gmI3ewu3Cicm7kri0kEMOdjb_e6AJHNVCtyKDF9FY59vS",
+      "start": 604,
+      "end": 620,
+      "page": 170,
+      "text": "instantiel des"
+    },
+    {
+      "truncId": 36,
+      "machineCode": "【【36】】",
+      "chunkKey": "h1.ebp2D8ItiNISVKQTF8kdAGLC4Ip6z31EBFX36fMjYTacu1PA7W-NqgLY2g_Hi7LxeVc0hjxn6_3w5yifqccm-qMx8lYhCr1lHvK-VK1gmI3ewu3Cicm7kri0kEMOdjb_e6AJHNVCtyKDF9FY59vS",
+      "start": 661,
+      "end": 678,
+      "page": 170,
+      "text": "machinique : la"
+    },
+    {
+      "truncId": 37,
+      "machineCode": "【【37】】",
+      "chunkKey": "h1.ebp2D8ItiNISVKQTF8kdAGLC4Ip6z31EBFX36fMjYTacu1PA7W-NqgLY2g_Hi7LxeVc0hjxn6_3w5yifqccm-qMx8lYhCr1lHvK-VK1gmI3ewu3Cicm7kri0kEMOdjb_e6AJHNVCtyKDF9FY59vS",
+      "start": 709,
+      "end": 728,
+      "page": 170,
+      "text": "rhizomatique : la"
+    },
+    {
+      "truncId": 38,
+      "machineCode": "【【38】】",
+      "chunkKey": "h1.ebp2D8ItiNISVKQTF8kdAGLC4Ip6z31EBFX36fMjYTacu1PA7W-NqgLY2g_Hi7LxeVc0hjxn6_3w5yifqccm-qMx8lYhCr1lHvK-VK1gmI3ewu3Cicm7kri0kEMOdjb_e6AJHNVCtyKDF9FY59vS",
+      "start": 779,
+      "end": 802,
+      "page": 170,
+      "text": "concrète ... 123 **4."
+    },
+    {
+      "truncId": 39,
+      "machineCode": "【【39】】",
+      "chunkKey": "h1.ebp2D8ItiNISVKQTF8kdAGLC4Ip6z31EBFX36fMjYTacu1PA7W-NqgLY2g_Hi7LxeVc0hjxn6_3w5yifqccm-qMx8lYhCr1lHvK-VK1gmI3ewu3Cicm7kri0kEMOdjb_e6AJHNVCtyKDF9FY59vS",
+      "start": 854,
+      "end": 876,
+      "page": 170,
+      "text": "chaotique ... 133 Le"
+    },
+    {
+      "truncId": 40,
+      "machineCode": "【【40】】",
+      "chunkKey": "h1.ebp2D8ItiNISVKQTF8kdAGLC4Ip6z31EBFX36fMjYTacu1PA7W-NqgLY2g_Hi7LxeVc0hjxn6_3w5yifqccm-qMx8lYhCr1lHvK-VK1gmI3ewu3Cicm7kri0kEMOdjb_e6AJHNVCtyKDF9FY59vS",
+      "start": 901,
+      "end": 925,
+      "page": 170,
+      "text": "entitaires ... 135 Les"
+    },
+    {
+      "truncId": 41,
+      "machineCode": "【【41】】",
+      "chunkKey": "h1.ebp2D8ItiNISVKQTF8kdAGLC4Ip6z31EBFX36fMjYTacu1PA7W-NqgLY2g_Hi7LxeVc0hjxn6_3w5yifqccm-qMx8lYhCr1lHvK-VK1gmI3ewu3Cicm7kri0kEMOdjb_e6AJHNVCtyKDF9FY59vS",
+      "start": 954,
+      "end": 981,
+      "page": 170,
+      "text": "proto-énonciatifs ... 142"
+    },
+    {
+      "truncId": 42,
+      "machineCode": "【【42】】",
+      "chunkKey": "h1.ebp2D8ItiNISVKQTF8kdAGLC4Ip6z31EBFX36fMjYTacu1PA7W-NqgLY2g_Hi7LxeVc0hjxn6_3w5yifqccm-qMx8lYhCr1lHvK-VK1gmI3ewu3Cicm7kri0kEMOdjb_e6AJHNVCtyKDF9FY59vS",
+      "start": 1055,
+      "end": 1068,
+      "page": 170,
+      "text": "sensible ou"
+    },
+    {
+      "truncId": 43,
+      "machineCode": "【【43】】",
+      "chunkKey": "h1.ebp2D8ItiNISVKQTF8kdAGLC4Ip6z31EBFX36fMjYTacu1PA7W-NqgLY2g_Hi7LxeVc0hjxn6_3w5yifqccm-qMx8lYhCr1lHvK-VK1gmI3ewu3Cicm7kri0kEMOdjb_e6AJHNVCtyKDF9FY59vS",
+      "start": 1200,
+      "end": 1224,
+      "page": 170,
+      "text": "extrinsèque ... 163 La"
+    },
+    {
+      "truncId": 44,
+      "machineCode": "【【44】】",
+      "chunkKey": "h1.ebp2D8ItiNISVKQTF8kdAGLC4Ip6z31EBFX36fMjYTacu1PA7W-NqgLY2g_Hi7LxeVc0hjxn6_3w5yifqccm-qMx8lYhCr1lHvK-VK1gmI3ewu3Cicm7kri0kEMOdjb_e6AJHNVCtyKDF9FY59vS",
+      "start": 1232,
+      "end": 1246,
+      "page": 170,
+      "text": "expressive :"
+    },
+    {
+      "truncId": 45,
+      "machineCode": "【【45】】",
+      "chunkKey": "h1.06-42uAicP3AtQZuFuBLpUUPeHMG-8icArQ3-o5TC58AYGOic9wqd9Pmfc_80f2_dGQMl3KdXaqwnf7uX6Nz7Q10fkT7hI31foyq9rnold-iVxb44lHHwRHP7nRwRqENCp-RVS-7wLxTenoDpljS",
+      "start": 11,
+      "end": 39,
+      "page": 170,
+      "text": "existentielle f(exi) et la"
+    },
+    {
+      "truncId": 46,
+      "machineCode": "【【46】】",
+      "chunkKey": "h1.06-42uAicP3AtQZuFuBLpUUPeHMG-8icArQ3-o5TC58AYGOic9wqd9Pmfc_80f2_dGQMl3KdXaqwnf7uX6Nz7Q10fkT7hI31foyq9rnold-iVxb44lHHwRHP7nRwRqENCp-RVS-7wLxTenoDpljS",
+      "start": 47,
+      "end": 86,
+      "page": 170,
+      "text": "diag- grammatique f(diag) ... 176 Les"
+    },
+    {
+      "truncId": 47,
+      "machineCode": "【【47】】",
+      "chunkKey": "h1.06-42uAicP3AtQZuFuBLpUUPeHMG-8icArQ3-o5TC58AYGOic9wqd9Pmfc_80f2_dGQMl3KdXaqwnf7uX6Nz7Q10fkT7hI31foyq9rnold-iVxb44lHHwRHP7nRwRqENCp-RVS-7wLxTenoDpljS",
+      "start": 98,
+      "end": 125,
+      "page": 170,
+      "text": "existentielles ... 181 Le"
+    },
+    {
+      "truncId": 48,
+      "machineCode": "【【48】】",
+      "chunkKey": "h1.06-42uAicP3AtQZuFuBLpUUPeHMG-8icArQ3-o5TC58AYGOic9wqd9Pmfc_80f2_dGQMl3KdXaqwnf7uX6Nz7Q10fkT7hI31foyq9rnold-iVxb44lHHwRHP7nRwRqENCp-RVS-7wLxTenoDpljS",
+      "start": 293,
+      "end": 318,
+      "page": 170,
+      "text": "virtuels ... 196 La dis-"
+    },
+    {
+      "truncId": 49,
+      "machineCode": "【【49】】",
+      "chunkKey": "h1.06-42uAicP3AtQZuFuBLpUUPeHMG-8icArQ3-o5TC58AYGOic9wqd9Pmfc_80f2_dGQMl3KdXaqwnf7uX6Nz7Q10fkT7hI31foyq9rnold-iVxb44lHHwRHP7nRwRqENCp-RVS-7wLxTenoDpljS",
+      "start": 326,
+      "end": 354,
+      "page": 170,
+      "text": "synaptique ... 199 **8. La"
+    },
+    {
+      "truncId": 50,
+      "machineCode": "【【50】】",
+      "chunkKey": "h1.06-42uAicP3AtQZuFuBLpUUPeHMG-8icArQ3-o5TC58AYGOic9wqd9Pmfc_80f2_dGQMl3KdXaqwnf7uX6Nz7Q10fkT7hI31foyq9rnold-iVxb44lHHwRHP7nRwRqENCp-RVS-7wLxTenoDpljS",
+      "start": 363,
+      "end": 390,
+      "page": 170,
+      "text": "enonciative** ... 207 Les"
+    },
+    {
+      "truncId": 51,
+      "machineCode": "【【51】】",
+      "chunkKey": "h1.06-42uAicP3AtQZuFuBLpUUPeHMG-8icArQ3-o5TC58AYGOic9wqd9Pmfc_80f2_dGQMl3KdXaqwnf7uX6Nz7Q10fkT7hI31foyq9rnold-iVxb44lHHwRHP7nRwRqENCp-RVS-7wLxTenoDpljS",
+      "start": 406,
+      "end": 439,
+      "page": 170,
+      "text": "énergétiques ... 208 Les quatre"
+    },
+    {
+      "truncId": 52,
+      "machineCode": "【【52】】",
+      "chunkKey": "h1.06-42uAicP3AtQZuFuBLpUUPeHMG-8icArQ3-o5TC58AYGOic9wqd9Pmfc_80f2_dGQMl3KdXaqwnf7uX6Nz7Q10fkT7hI31foyq9rnold-iVxb44lHHwRHP7nRwRqENCp-RVS-7wLxTenoDpljS",
+      "start": 449,
+      "end": 473,
+      "page": 170,
+      "text": "recursives ... 210 Les"
+    },
+    {
+      "truncId": 53,
+      "machineCode": "【【53】】",
+      "chunkKey": "h1.06-42uAicP3AtQZuFuBLpUUPeHMG-8icArQ3-o5TC58AYGOic9wqd9Pmfc_80f2_dGQMl3KdXaqwnf7uX6Nz7Q10fkT7hI31foyq9rnold-iVxb44lHHwRHP7nRwRqENCp-RVS-7wLxTenoDpljS",
+      "start": 484,
+      "end": 511,
+      "page": 170,
+      "text": "intermédiaires ... 215 La"
+    },
+    {
+      "truncId": 54,
+      "machineCode": "【【54】】",
+      "chunkKey": "h1.06-42uAicP3AtQZuFuBLpUUPeHMG-8icArQ3-o5TC58AYGOic9wqd9Pmfc_80f2_dGQMl3KdXaqwnf7uX6Nz7Q10fkT7hI31foyq9rnold-iVxb44lHHwRHP7nRwRqENCp-RVS-7wLxTenoDpljS",
+      "start": 525,
+      "end": 549,
+      "page": 170,
+      "text": "enonciative ... 218 La"
+    },
+    {
+      "truncId": 55,
+      "machineCode": "【【55】】",
+      "chunkKey": "h1.06-42uAicP3AtQZuFuBLpUUPeHMG-8icArQ3-o5TC58AYGOic9wqd9Pmfc_80f2_dGQMl3KdXaqwnf7uX6Nz7Q10fkT7hI31foyq9rnold-iVxb44lHHwRHP7nRwRqENCp-RVS-7wLxTenoDpljS",
+      "start": 720,
+      "end": 746,
+      "page": 170,
+      "text": "existentiels** ... 251 **"
+    },
+    {
+      "truncId": 56,
+      "machineCode": "【【56】】",
+      "chunkKey": "h1.06-42uAicP3AtQZuFuBLpUUPeHMG-8icArQ3-o5TC58AYGOic9wqd9Pmfc_80f2_dGQMl3KdXaqwnf7uX6Nz7Q10fkT7hI31foyq9rnold-iVxb44lHHwRHP7nRwRqENCp-RVS-7wLxTenoDpljS",
+      "start": 751,
+      "end": 775,
+      "page": 170,
+      "text": "retrouvé** ... 269 **L'"
+    },
+    {
+      "truncId": 57,
+      "machineCode": "【【57】】",
+      "chunkKey": "h1.06-42uAicP3AtQZuFuBLpUUPeHMG-8icArQ3-o5TC58AYGOic9wqd9Pmfc_80f2_dGQMl3KdXaqwnf7uX6Nz7Q10fkT7hI31foyq9rnold-iVxb44lHHwRHP7nRwRqENCp-RVS-7wLxTenoDpljS",
+      "start": 786,
+      "end": 858,
+      "page": 170,
+      "text": "architecturale** ... 291 **Les ritournelles éthico-esthétiques dans le"
+    },
+    {
+      "truncId": 58,
+      "machineCode": "【【58】】",
+      "chunkKey": "h1.06-42uAicP3AtQZuFuBLpUUPeHMG-8icArQ3-o5TC58AYGOic9wqd9Pmfc_80f2_dGQMl3KdXaqwnf7uX6Nz7Q10fkT7hI31foyq9rnold-iVxb44lHHwRHP7nRwRqENCp-RVS-7wLxTenoDpljS",
+      "start": 902,
+      "end": 919,
+      "page": 170,
+      "text": "visagéitaire de"
+    },
+    {
+      "truncId": 59,
+      "machineCode": "【【59】】",
+      "chunkKey": "h1.06-42uAicP3AtQZuFuBLpUUPeHMG-8icArQ3-o5TC58AYGOic9wqd9Pmfc_80f2_dGQMl3KdXaqwnf7uX6Nz7Q10fkT7hI31foyq9rnold-iVxb44lHHwRHP7nRwRqENCp-RVS-7wLxTenoDpljS",
+      "start": 952,
+      "end": 979,
+      "page": 170,
+      "text": "in the street » ... 319 **"
+    },
+    {
+      "truncId": 60,
+      "machineCode": "【【60】】",
+      "chunkKey": "h1.UyMQ6IoimHTbZ6DZMJHRBoWBsend-GeXnspsh1ZvTmGLLyRe-MwMOoEcSw27dzv4vFSTLwKLsjNJpRuzIJGQhErZmsyqPEpph1u0vCqZM8a9seYOvguVxGAT7pcWr8rPmcKsbwApT5j-SgAjOrOi",
+      "start": 20,
+      "end": 43,
+      "page": 171,
+      "text": "analytiques ... 27 1."
+    },
+    {
+      "truncId": 61,
+      "machineCode": "【【61】】",
+      "chunkKey": "h1.UyMQ6IoimHTbZ6DZMJHRBoWBsend-GeXnspsh1ZvTmGLLyRe-MwMOoEcSw27dzv4vFSTLwKLsjNJpRuzIJGQhErZmsyqPEpph1u0vCqZM8a9seYOvguVxGAT7pcWr8rPmcKsbwApT5j-SgAjOrOi",
+      "start": 86,
+      "end": 101,
+      "page": 171,
+      "text": "2. Croisement"
+    },
+    {
+      "truncId": 62,
+      "machineCode": "【【62】】",
+      "chunkKey": "h1.UyMQ6IoimHTbZ6DZMJHRBoWBsend-GeXnspsh1ZvTmGLLyRe-MwMOoEcSw27dzv4vFSTLwKLsjNJpRuzIJGQhErZmsyqPEpph1u0vCqZM8a9seYOvguVxGAT7pcWr8rPmcKsbwApT5j-SgAjOrOi",
+      "start": 110,
+      "end": 122,
+      "page": 171,
+      "text": "des quatre"
+    },
+    {
+      "truncId": 63,
+      "machineCode": "【【63】】",
+      "chunkKey": "h1.UyMQ6IoimHTbZ6DZMJHRBoWBsend-GeXnspsh1ZvTmGLLyRe-MwMOoEcSw27dzv4vFSTLwKLsjNJpRuzIJGQhErZmsyqPEpph1u0vCqZM8a9seYOvguVxGAT7pcWr8rPmcKsbwApT5j-SgAjOrOi",
+      "start": 154,
+      "end": 166,
+      "page": 171,
+      "text": "des quatre"
+    },
+    {
+      "truncId": 64,
+      "machineCode": "【【64】】",
+      "chunkKey": "h1.UyMQ6IoimHTbZ6DZMJHRBoWBsend-GeXnspsh1ZvTmGLLyRe-MwMOoEcSw27dzv4vFSTLwKLsjNJpRuzIJGQhErZmsyqPEpph1u0vCqZM8a9seYOvguVxGAT7pcWr8rPmcKsbwApT5j-SgAjOrOi",
+      "start": 252,
+      "end": 279,
+      "page": 171,
+      "text": "sémiotiques ... 67 1. Les"
+    },
+    {
+      "truncId": 65,
+      "machineCode": "【【65】】",
+      "chunkKey": "h1.UyMQ6IoimHTbZ6DZMJHRBoWBsend-GeXnspsh1ZvTmGLLyRe-MwMOoEcSw27dzv4vFSTLwKLsjNJpRuzIJGQhErZmsyqPEpph1u0vCqZM8a9seYOvguVxGAT7pcWr8rPmcKsbwApT5j-SgAjOrOi",
+      "start": 326,
+      "end": 346,
+      "page": 171,
+      "text": "relative ... 77 2."
+    },
+    {
+      "truncId": 66,
+      "machineCode": "【【66】】",
+      "chunkKey": "h1.UyMQ6IoimHTbZ6DZMJHRBoWBsend-GeXnspsh1ZvTmGLLyRe-MwMOoEcSw27dzv4vFSTLwKLsjNJpRuzIJGQhErZmsyqPEpph1u0vCqZM8a9seYOvguVxGAT7pcWr8rPmcKsbwApT5j-SgAjOrOi",
+      "start": 358,
+      "end": 370,
+      "page": 171,
+      "text": "des quatre"
+    },
+    {
+      "truncId": 67,
+      "machineCode": "【【67】】",
+      "chunkKey": "h1.UyMQ6IoimHTbZ6DZMJHRBoWBsend-GeXnspsh1ZvTmGLLyRe-MwMOoEcSw27dzv4vFSTLwKLsjNJpRuzIJGQhErZmsyqPEpph1u0vCqZM8a9seYOvguVxGAT7pcWr8rPmcKsbwApT5j-SgAjOrOi",
+      "start": 395,
+      "end": 416,
+      "page": 171,
+      "text": "intensive ... 80 3."
+    },
+    {
+      "truncId": 68,
+      "machineCode": "【【68】】",
+      "chunkKey": "h1.UyMQ6IoimHTbZ6DZMJHRBoWBsend-GeXnspsh1ZvTmGLLyRe-MwMOoEcSw27dzv4vFSTLwKLsjNJpRuzIJGQhErZmsyqPEpph1u0vCqZM8a9seYOvguVxGAT7pcWr8rPmcKsbwApT5j-SgAjOrOi",
+      "start": 443,
+      "end": 460,
+      "page": 171,
+      "text": "entre les trois"
+    },
+    {
+      "truncId": 69,
+      "machineCode": "【【69】】",
+      "chunkKey": "h1.UyMQ6IoimHTbZ6DZMJHRBoWBsend-GeXnspsh1ZvTmGLLyRe-MwMOoEcSw27dzv4vFSTLwKLsjNJpRuzIJGQhErZmsyqPEpph1u0vCqZM8a9seYOvguVxGAT7pcWr8rPmcKsbwApT5j-SgAjOrOi",
+      "start": 625,
+      "end": 637,
+      "page": 171,
+      "text": "des quatre"
+    },
+    {
+      "truncId": 70,
+      "machineCode": "【【70】】",
+      "chunkKey": "h1.UyMQ6IoimHTbZ6DZMJHRBoWBsend-GeXnspsh1ZvTmGLLyRe-MwMOoEcSw27dzv4vFSTLwKLsjNJpRuzIJGQhErZmsyqPEpph1u0vCqZM8a9seYOvguVxGAT7pcWr8rPmcKsbwApT5j-SgAjOrOi",
+      "start": 705,
+      "end": 722,
+      "page": 171,
+      "text": "profondes Φ: et"
+    },
+    {
+      "truncId": 71,
+      "machineCode": "【【71】】",
+      "chunkKey": "h1.UyMQ6IoimHTbZ6DZMJHRBoWBsend-GeXnspsh1ZvTmGLLyRe-MwMOoEcSw27dzv4vFSTLwKLsjNJpRuzIJGQhErZmsyqPEpph1u0vCqZM8a9seYOvguVxGAT7pcWr8rPmcKsbwApT5j-SgAjOrOi",
+      "start": 731,
+      "end": 753,
+      "page": 171,
+      "text": "synaptique ... 95 3."
+    },
+    {
+      "truncId": 72,
+      "machineCode": "【【72】】",
+      "chunkKey": "h1.UyMQ6IoimHTbZ6DZMJHRBoWBsend-GeXnspsh1ZvTmGLLyRe-MwMOoEcSw27dzv4vFSTLwKLsjNJpRuzIJGQhErZmsyqPEpph1u0vCqZM8a9seYOvguVxGAT7pcWr8rPmcKsbwApT5j-SgAjOrOi",
+      "start": 770,
+      "end": 778,
+      "page": 171,
+      "text": ", Réal,"
+    },
+    {
+      "truncId": 73,
+      "machineCode": "【【73】】",
+      "chunkKey": "h1.UyMQ6IoimHTbZ6DZMJHRBoWBsend-GeXnspsh1ZvTmGLLyRe-MwMOoEcSw27dzv4vFSTLwKLsjNJpRuzIJGQhErZmsyqPEpph1u0vCqZM8a9seYOvguVxGAT7pcWr8rPmcKsbwApT5j-SgAjOrOi",
+      "start": 852,
+      "end": 869,
+      "page": 171,
+      "text": "bipolaire d'une"
+    },
+    {
+      "truncId": 74,
+      "machineCode": "【【74】】",
+      "chunkKey": "h1.UyMQ6IoimHTbZ6DZMJHRBoWBsend-GeXnspsh1ZvTmGLLyRe-MwMOoEcSw27dzv4vFSTLwKLsjNJpRuzIJGQhErZmsyqPEpph1u0vCqZM8a9seYOvguVxGAT7pcWr8rPmcKsbwApT5j-SgAjOrOi",
+      "start": 889,
+      "end": 908,
+      "page": 171,
+      "text": "expressive ... 103"
+    },
+    {
+      "truncId": 75,
+      "machineCode": "【【75】】",
+      "chunkKey": "h1.ijzox3h3-ZOrImbJhC0Vy2Wu-8uO6Tl5LF9H5ymCtMqlqj40a_WXZ_1D-yITL7JEU9AHS51cbwRuuwGtp7sdtalmxHJXdwd9GZzyjRpH5QE1KA9nz1bGs2TMqSiPG7Djjwub-lJOJm08vcP9n0P_",
+      "start": 16,
+      "end": 34,
+      "page": 172,
+      "text": "schizoanalytiques"
+    },
+    {
+      "truncId": 76,
+      "machineCode": "【【76】】",
+      "chunkKey": "h1.DCnT_EcSvjTNWLay1F-ibYoE1K3jYt7y_8MXp9pFJe053yaHmd5o52R-FfSOb_rqZyLSaIZUzzKdceXloCV2udF3aT2xvLMnHM5Lxp7YSQeudKbUdjBOBfHpQoYXmO-zVHKCPm37AWqua1Y_JM9Y",
+      "start": 0,
+      "end": 13,
+      "page": 172,
+      "text": "6. Les trois"
+    },
+    {
+      "truncId": 77,
+      "machineCode": "【【77】】",
+      "chunkKey": "h1.MGGGTWTzjNMONmH23cDugrcpSENtXPaWBHnr1twJ_4fyFcfjuWTTinfVwgL6-Ixzec7VYge9deHachrQdQ45RCBqVs9HidSXeAl2AxKjr9v05RE8ppRg8AfKzaQyVwyehB1vmfoHvapLKdFM8iHc",
+      "start": 13,
+      "end": 32,
+      "page": 172,
+      "text": "sériel ... 154 6."
+    },
+    {
+      "truncId": 78,
+      "machineCode": "【【78】】",
+      "chunkKey": "h1.MGGGTWTzjNMONmH23cDugrcpSENtXPaWBHnr1twJ_4fyFcfjuWTTinfVwgL6-Ixzec7VYge9deHachrQdQ45RCBqVs9HidSXeAl2AxKjr9v05RE8ppRg8AfKzaQyVwyehB1vmfoHvapLKdFM8iHc",
+      "start": 43,
+      "end": 56,
+      "page": 172,
+      "text": "sérielle et"
+    },
+    {
+      "truncId": 79,
+      "machineCode": "【【79】】",
+      "chunkKey": "h1.MGGGTWTzjNMONmH23cDugrcpSENtXPaWBHnr1twJ_4fyFcfjuWTTinfVwgL6-Ixzec7VYge9deHachrQdQ45RCBqVs9HidSXeAl2AxKjr9v05RE8ppRg8AfKzaQyVwyehB1vmfoHvapLKdFM8iHc",
+      "start": 78,
+      "end": 99,
+      "page": 172,
+      "text": "... 155 7. Les deux"
+    },
+    {
+      "truncId": 80,
+      "machineCode": "【【80】】",
+      "chunkKey": "h1.MGGGTWTzjNMONmH23cDugrcpSENtXPaWBHnr1twJ_4fyFcfjuWTTinfVwgL6-Ixzec7VYge9deHachrQdQ45RCBqVs9HidSXeAl2AxKjr9v05RE8ppRg8AfKzaQyVwyehB1vmfoHvapLKdFM8iHc",
+      "start": 183,
+      "end": 213,
+      "page": 172,
+      "text": "modulaire ... 163 2. Lissage"
+    },
+    {
+      "truncId": 81,
+      "machineCode": "【【81】】",
+      "chunkKey": "h1.MGGGTWTzjNMONmH23cDugrcpSENtXPaWBHnr1twJ_4fyFcfjuWTTinfVwgL6-Ixzec7VYge9deHachrQdQ45RCBqVs9HidSXeAl2AxKjr9v05RE8ppRg8AfKzaQyVwyehB1vmfoHvapLKdFM8iHc",
+      "start": 243,
+      "end": 283,
+      "page": 172,
+      "text": "de la plus-value machinique ... 164 4."
+    },
+    {
+      "truncId": 82,
+      "machineCode": "【【82】】",
+      "chunkKey": "h1.MGGGTWTzjNMONmH23cDugrcpSENtXPaWBHnr1twJ_4fyFcfjuWTTinfVwgL6-Ixzec7VYge9deHachrQdQ45RCBqVs9HidSXeAl2AxKjr9v05RE8ppRg8AfKzaQyVwyehB1vmfoHvapLKdFM8iHc",
+      "start": 332,
+      "end": 374,
+      "page": 172,
+      "text": "extrinsèque ... 170 6. Chevauchement des"
+    },
+    {
+      "truncId": 83,
+      "machineCode": "【【83】】",
+      "chunkKey": "h1.MGGGTWTzjNMONmH23cDugrcpSENtXPaWBHnr1twJ_4fyFcfjuWTTinfVwgL6-Ixzec7VYge9deHachrQdQ45RCBqVs9HidSXeAl2AxKjr9v05RE8ppRg8AfKzaQyVwyehB1vmfoHvapLKdFM8iHc",
+      "start": 532,
+      "end": 559,
+      "page": 172,
+      "text": "existentielle ... 182 10."
+    },
+    {
+      "truncId": 84,
+      "machineCode": "【【84】】",
+      "chunkKey": "h1.MGGGTWTzjNMONmH23cDugrcpSENtXPaWBHnr1twJ_4fyFcfjuWTTinfVwgL6-Ixzec7VYge9deHachrQdQ45RCBqVs9HidSXeAl2AxKjr9v05RE8ppRg8AfKzaQyVwyehB1vmfoHvapLKdFM8iHc",
+      "start": 570,
+      "end": 627,
+      "page": 172,
+      "text": "diagrammatique et tenseurs existentiels ... 183 11. Les"
+    },
+    {
+      "truncId": 85,
+      "machineCode": "【【85】】",
+      "chunkKey": "h1.MGGGTWTzjNMONmH23cDugrcpSENtXPaWBHnr1twJ_4fyFcfjuWTTinfVwgL6-Ixzec7VYge9deHachrQdQ45RCBqVs9HidSXeAl2AxKjr9v05RE8ppRg8AfKzaQyVwyehB1vmfoHvapLKdFM8iHc",
+      "start": 639,
+      "end": 672,
+      "page": 172,
+      "text": "existentielles ... 185 ## 7. Le"
+    },
+    {
+      "truncId": 86,
+      "machineCode": "【【86】】",
+      "chunkKey": "h1.MGGGTWTzjNMONmH23cDugrcpSENtXPaWBHnr1twJ_4fyFcfjuWTTinfVwgL6-Ixzec7VYge9deHachrQdQ45RCBqVs9HidSXeAl2AxKjr9v05RE8ppRg8AfKzaQyVwyehB1vmfoHvapLKdFM8iHc",
+      "start": 849,
+      "end": 875,
+      "page": 172,
+      "text": "virtuelle ... 190 5. Les"
+    },
+    {
+      "truncId": 87,
+      "machineCode": "【【87】】",
+      "chunkKey": "h1.MGGGTWTzjNMONmH23cDugrcpSENtXPaWBHnr1twJ_4fyFcfjuWTTinfVwgL6-Ixzec7VYge9deHachrQdQ45RCBqVs9HidSXeAl2AxKjr9v05RE8ppRg8AfKzaQyVwyehB1vmfoHvapLKdFM8iHc",
+      "start": 884,
+      "end": 912,
+      "page": 172,
+      "text": "extensionnelles ... 194 6."
+    },
+    {
+      "truncId": 88,
+      "machineCode": "【【88】】",
+      "chunkKey": "h1.MGGGTWTzjNMONmH23cDugrcpSENtXPaWBHnr1twJ_4fyFcfjuWTTinfVwgL6-Ixzec7VYge9deHachrQdQ45RCBqVs9HidSXeAl2AxKjr9v05RE8ppRg8AfKzaQyVwyehB1vmfoHvapLKdFM8iHc",
+      "start": 961,
+      "end": 977,
+      "page": 172,
+      "text": "synaptique ..."
+    },
+    {
+      "truncId": 89,
+      "machineCode": "【【89】】",
+      "chunkKey": "h1.MGGGTWTzjNMONmH23cDugrcpSENtXPaWBHnr1twJ_4fyFcfjuWTTinfVwgL6-Ixzec7VYge9deHachrQdQ45RCBqVs9HidSXeAl2AxKjr9v05RE8ppRg8AfKzaQyVwyehB1vmfoHvapLKdFM8iHc",
+      "start": 1043,
+      "end": 1072,
+      "page": 172,
+      "text": "abstraites ... 203 ## 8. La"
+    },
+    {
+      "truncId": 90,
+      "machineCode": "【【90】】",
+      "chunkKey": "h1.MGGGTWTzjNMONmH23cDugrcpSENtXPaWBHnr1twJ_4fyFcfjuWTTinfVwgL6-Ixzec7VYge9deHachrQdQ45RCBqVs9HidSXeAl2AxKjr9v05RE8ppRg8AfKzaQyVwyehB1vmfoHvapLKdFM8iHc",
+      "start": 1081,
+      "end": 1116,
+      "page": 172,
+      "text": "énonciative ... 207 1. Les quatre"
+    },
+    {
+      "truncId": 91,
+      "machineCode": "【【91】】",
+      "chunkKey": "h1.MGGGTWTzjNMONmH23cDugrcpSENtXPaWBHnr1twJ_4fyFcfjuWTTinfVwgL6-Ixzec7VYge9deHachrQdQ45RCBqVs9HidSXeAl2AxKjr9v05RE8ppRg8AfKzaQyVwyehB1vmfoHvapLKdFM8iHc",
+      "start": 1157,
+      "end": 1180,
+      "page": 172,
+      "text": "... 208 2. Les quatre"
+    },
+    {
+      "truncId": 92,
+      "machineCode": "【【92】】",
+      "chunkKey": "h1.MGGGTWTzjNMONmH23cDugrcpSENtXPaWBHnr1twJ_4fyFcfjuWTTinfVwgL6-Ixzec7VYge9deHachrQdQ45RCBqVs9HidSXeAl2AxKjr9v05RE8ppRg8AfKzaQyVwyehB1vmfoHvapLKdFM8iHc",
+      "start": 1202,
+      "end": 1225,
+      "page": 172,
+      "text": "discursive ... 212 3."
+    },
+    {
+      "truncId": 93,
+      "machineCode": "【【93】】",
+      "chunkKey": "h1.MGGGTWTzjNMONmH23cDugrcpSENtXPaWBHnr1twJ_4fyFcfjuWTTinfVwgL6-Ixzec7VYge9deHachrQdQ45RCBqVs9HidSXeAl2AxKjr9v05RE8ppRg8AfKzaQyVwyehB1vmfoHvapLKdFM8iHc",
+      "start": 1277,
+      "end": 1287,
+      "page": 172,
+      "text": "à quatre"
+    },
+    {
+      "truncId": 94,
+      "machineCode": "【【94】】",
+      "chunkKey": "h1.MGGGTWTzjNMONmH23cDugrcpSENtXPaWBHnr1twJ_4fyFcfjuWTTinfVwgL6-Ixzec7VYge9deHachrQdQ45RCBqVs9HidSXeAl2AxKjr9v05RE8ppRg8AfKzaQyVwyehB1vmfoHvapLKdFM8iHc",
+      "start": 1361,
+      "end": 1384,
+      "page": 172,
+      "text": "... 221 7. Les quatre"
+    },
+    {
+      "truncId": 95,
+      "machineCode": "【【95】】",
+      "chunkKey": "h1.10IR0f88IZIGyUorOQ28VBWgT9qNUqsERqpigyV8V_vlIEV3cML5gvd88UgEwCIVIHGwIAVxV6OhFEfVgsl2gwz-WizAmLE_qW1PaPXxac_KoTJMKRh5UhcqNWOTpdUdX9jpSYCX-tq0uT5XGUGV",
+      "start": 16,
+      "end": 34,
+      "page": 173,
+      "text": "schizoanalytiques"
+    },
+    {
+      "truncId": 96,
+      "machineCode": "【【96】】",
+      "chunkKey": "h1.NtkZzLTejZuJRj-tU_mkldknH05Q0HMlqeCXz4IuRLEDIKyd8KygBi7fFt3YnJwQP404CDAsQ9xPpZhR-kXd5oXAKvlzq6twBV042-h1QFapa0eexqBIVFaIx7qUdO-_CQH-oNhSfTHos10CQ-Re",
+      "start": 21,
+      "end": 49,
+      "page": 173,
+      "text": "énonciative ... 224 9. Les"
+    },
+    {
+      "truncId": 97,
+      "machineCode": "【【97】】",
+      "chunkKey": "h1.NtkZzLTejZuJRj-tU_mkldknH05Q0HMlqeCXz4IuRLEDIKyd8KygBi7fFt3YnJwQP404CDAsQ9xPpZhR-kXd5oXAKvlzq6twBV042-h1QFapa0eexqBIVFaIx7qUdO-_CQH-oNhSfTHos10CQ-Re",
+      "start": 59,
+      "end": 87,
+      "page": 173,
+      "text": "énonciatives ... 234 **Les"
+    },
+    {
+      "truncId": 98,
+      "machineCode": "【【98】】",
+      "chunkKey": "h1.NtkZzLTejZuJRj-tU_mkldknH05Q0HMlqeCXz4IuRLEDIKyd8KygBi7fFt3YnJwQP404CDAsQ9xPpZhR-kXd5oXAKvlzq6twBV042-h1QFapa0eexqBIVFaIx7qUdO-_CQH-oNhSfTHos10CQ-Re",
+      "start": 150,
+      "end": 174,
+      "page": 173,
+      "text": "en pointillé ... 236 **"
+    },
+    {
+      "truncId": 99,
+      "machineCode": "【【99】】",
+      "chunkKey": "h1.NtkZzLTejZuJRj-tU_mkldknH05Q0HMlqeCXz4IuRLEDIKyd8KygBi7fFt3YnJwQP404CDAsQ9xPpZhR-kXd5oXAKvlzq6twBV042-h1QFapa0eexqBIVFaIx7qUdO-_CQH-oNhSfTHos10CQ-Re",
+      "start": 197,
+      "end": 224,
+      "page": 173,
+      "text": "existentiels** ... 251 1."
+    },
+    {
+      "truncId": 100,
+      "machineCode": "【【100】】",
+      "chunkKey": "h1.07Ke7f4ODhHo_p3rlt1q-1VBZYpAOCM59QhhFD-IJHtZfwdLC8i6im5k-qhj1r6lFJqthg5-p5BFCZxqKk7o7mQcne4rYtw_IgId_kUiBi9kpb0p_j93x5--39vYnNX7lu3_oV1pOf6wdOGJTVBr",
+      "start": 0,
+      "end": 14,
+      "page": 173,
+      "text": "GEORGES PEREC"
+    },
+    {
+      "truncId": 101,
+      "machineCode": "【【101】】",
+      "chunkKey": "h1.RUWevtiACVHvUm_Rj9Mbh5vlMJSuphMT0Hk5yo7kiMEOdS5arcncGYnJ57KvGXLfOl8j4rIw6i2fEit-S6LP844kq0neOChITbA3jQVRsx_jG559F0S8bHWeNUyiL6OVxQE8aOisfgLqdMwLroRK",
+      "start": 7,
+      "end": 19,
+      "page": 173,
+      "text": "DREYFUS La"
+    },
+    {
+      "truncId": 102,
+      "machineCode": "【【102】】",
+      "chunkKey": "h1.RUWevtiACVHvUm_Rj9Mbh5vlMJSuphMT0Hk5yo7kiMEOdS5arcncGYnJ57KvGXLfOl8j4rIw6i2fEit-S6LP844kq0neOChITbA3jQVRsx_jG559F0S8bHWeNUyiL6OVxQE8aOisfgLqdMwLroRK",
+      "start": 24,
+      "end": 38,
+      "page": 173,
+      "text": "disciplinaire"
+    },
+    {
+      "truncId": 103,
+      "machineCode": "【【103】】",
+      "chunkKey": "h1.bF3z8nPxkO4Z_FgE9XMNy5LJ-RI-5GJEXC0fC5QFR5bAtUhswQskAmNdZ9craHUQlUnURZcp8u6b24ANa3AXSg4Uq7KX43Van2Ki6Hl_MIkBCfOtcIon_gMQEvzdhayN9MO645IbgllYWsesgX78",
+      "start": 4,
+      "end": 17,
+      "page": 173,
+      "text": "BAUDRILLARD"
+    },
+    {
+      "truncId": 104,
+      "machineCode": "【【104】】",
+      "chunkKey": "h1.V3kaKjZJJTGb2qSBuLG3L88s9k8SBqEHU4LUPtIRsqbTDWPES1rX82Ygj4wKDwVcUaLNT5jPCcSlH6aXZ8VoPcewmeKW3U3vOZ9WGToGzs1M8jCjXgAMPOl7bXYOzhkJpNoIiCbAmZbOZn6VfZlS",
+      "start": 12,
+      "end": 34,
+      "page": 173,
+      "text": ", JEAN-PIERRE BUFFARD"
+    },
+    {
+      "truncId": 105,
+      "machineCode": "【【105】】",
+      "chunkKey": "h1.V3kaKjZJJTGb2qSBuLG3L88s9k8SBqEHU4LUPtIRsqbTDWPES1rX82Ygj4wKDwVcUaLNT5jPCcSlH6aXZ8VoPcewmeKW3U3vOZ9WGToGzs1M8jCjXgAMPOl7bXYOzhkJpNoIiCbAmZbOZn6VfZlS",
+      "start": 46,
+      "end": 86,
+      "page": 173,
+      "text": ", TOMASO REGAZZOLA Situations migratores"
+    },
+    {
+      "truncId": 106,
+      "machineCode": "【【106】】",
+      "chunkKey": "h1.O3OP3k9EqKR-eBJt6-oxI46v9CY53tq_ve-znw-d8gaoFPkELAkQSLcUfNJBwOm4q74pXRuDnNOsQpvGOmsg_5_kQ_Hsv0DxMDYNcuq1KPk4VUT_7MQo2JHltHoQdeBfMBzYGN692_-7lKXtIBXw",
+      "start": 4,
+      "end": 24,
+      "page": 173,
+      "text": "DUVIGNAUD Lieux et"
+    },
+    {
+      "truncId": 107,
+      "machineCode": "【【107】】",
+      "chunkKey": "h1.VHSRrHDT9PcjqaPaE0xJ0J-2ZnFgkhiAAXmAKQbBv84jM_TdyQnlODvWckcp-YwGzDFL7Pt2AEzE-4b_LDSOUCXQTiHdQ8SyjDnNLd8u_4LEbCWhr80OInmvHMdLfOLIoRprsgFqee3n2_fryHPp",
+      "start": 5,
+      "end": 12,
+      "page": 173,
+      "text": "MEDAM"
+    },
+    {
+      "truncId": 108,
+      "machineCode": "【【108】】",
+      "chunkKey": "h1.iJdIQGRH8ePDiBmNUZ7ngyDQiYJMQ8o0a1L9es6BTNhVpcS7ww-7lMaKzbEaavch-H6PD2CtkImGdfIy6aZ1rjogQztlEtlLbPtTGpoXIx8PyymNj2gtc2qrLldmZbnia6rdu2QH4dmgV4dq0Y6oGA",
+      "start": 4,
+      "end": 13,
+      "page": 173,
+      "text": "VIRILIO"
+    },
+    {
+      "truncId": 109,
+      "machineCode": "【【109】】",
+      "chunkKey": "h1.Rfrtl5gmAnYOhSbMtb9ANGlcLfS1W1UgTelk5yV0_VZ8eJzcc-WbxaHNNiiL9Ko6r9AtDcLgNUHPOR-wqmajaDuQERIna3gknAY6lmHRuX2xtkhC7tGFHqOlyaNjxkwtrXoder-GF96dFp-poYYIzA",
+      "start": 4,
+      "end": 13,
+      "page": 173,
+      "text": "VIRILIO"
+    },
+    {
+      "truncId": 110,
+      "machineCode": "【【110】】",
+      "chunkKey": "h1.Rfrtl5gmAnYOhSbMtb9ANGlcLfS1W1UgTelk5yV0_VZ8eJzcc-WbxaHNNiiL9Ko6r9AtDcLgNUHPOR-wqmajaDuQERIna3gknAY6lmHRuX2xtkhC7tGFHqOlyaNjxkwtrXoder-GF96dFp-poYYIzA",
+      "start": 20,
+      "end": 34,
+      "page": 173,
+      "text": "populaire et"
+    },
+    {
+      "truncId": 111,
+      "machineCode": "【【111】】",
+      "chunkKey": "h1.Rfrtl5gmAnYOhSbMtb9ANGlcLfS1W1UgTelk5yV0_VZ8eJzcc-WbxaHNNiiL9Ko6r9AtDcLgNUHPOR-wqmajaDuQERIna3gknAY6lmHRuX2xtkhC7tGFHqOlyaNjxkwtrXoder-GF96dFp-poYYIzA",
+      "start": 40,
+      "end": 52,
+      "page": 173,
+      "text": "écologiques"
+    },
+    {
+      "truncId": 112,
+      "machineCode": "【【112】】",
+      "chunkKey": "h1.-uKQ0RAg_HGI8D_JGuf0DJcS-AikF32z7mHRuxoMHU-S8JAKe63O_qXjtuftj3J71g2lw5sNjS3NDeRw8Pmbx5P-xqFz26X9AeGakqXQ49dLAXbb0ujPgENccfWqhA0hKhP1u3WAwQqyn0szy9yW5g",
+      "start": 10,
+      "end": 24,
+      "page": 173,
+      "text": "DUFRACNATEL,"
+    },
+    {
+      "truncId": 113,
+      "machineCode": "【【113】】",
+      "chunkKey": "h1.-uKQ0RAg_HGI8D_JGuf0DJcS-AikF32z7mHRuxoMHU-S8JAKe63O_qXjtuftj3J71g2lw5sNjS3NDeRw8Pmbx5P-xqFz26X9AeGakqXQ49dLAXbb0ujPgENccfWqhA0hKhP1u3WAwQqyn0szy9yW5g",
+      "start": 68,
+      "end": 85,
+      "page": 173,
+      "text": "FRASSE MICHELLE"
+    },
+    {
+      "truncId": 114,
+      "machineCode": "【【114】】",
+      "chunkKey": "h1.-uKQ0RAg_HGI8D_JGuf0DJcS-AikF32z7mHRuxoMHU-S8JAKe63O_qXjtuftj3J71g2lw5sNjS3NDeRw8Pmbx5P-xqFz26X9AeGakqXQ49dLAXbb0ujPgENccfWqhA0hKhP1u3WAwQqyn0szy9yW5g",
+      "start": 90,
+      "end": 126,
+      "page": 173,
+      "text": ", GÉRARD SALVARESI PASCALE WERNER L'"
+    },
+    {
+      "truncId": 115,
+      "machineCode": "【【115】】",
+      "chunkKey": "h1.VFVBPHllN3ZahvU6YYitl-HOM0bg6kk8T9iPgsqIYt9dpHUENBDUTRlOrLOl8-6XajkLco-J3Iy2bLGKFfKWGUrSUXQgbCtczTlGnO5JPgp2bHhwwknmg70zTbOcHbkk0n8-aAY2yn_o9wAkehQRQw",
+      "start": 4,
+      "end": 23,
+      "page": 173,
+      "text": "BAUDRILLARD De la"
+    },
+    {
+      "truncId": 116,
+      "machineCode": "【【116】】",
+      "chunkKey": "h1.ujxDZtne0-b_CPOulL_Vy5FxwGQYy-3FenrLBOzxse4gKx4xCxvYKV8uepQ9GECoxwvMSPP_AyU4i0umj-0UwcQ5elE-UKELGNyB7OqxJQ6KBxxQfNd0IVgNAq3MDmMfH1oAoQqrnwFGnQkE4244-g",
+      "start": 5,
+      "end": 14,
+      "page": 173,
+      "text": "JOXE Le"
+    },
+    {
+      "truncId": 117,
+      "machineCode": "【【117】】",
+      "chunkKey": "h1.BFHVkJ0HWsNnqCsO1pUL1tXNX6q_gJeY4DC7egi3Cd-yyUESUvpuNFC5w_oLyF9uG6btXoaOXhh9OExQY2ZW8YPip-9zDPoditj3e1kJJEy1Yv6s0ZohkzBO_jt6Ndza3aOwlZuyau4WNveSz_l9wQ",
+      "start": 5,
+      "end": 12,
+      "page": 173,
+      "text": "MEDAM"
+    }
+  ],
+  "llmRawOutput": "【【1】】autres, compliqué\n【【2】】J'imagine\n【【3】】rude\n【【4】】logique\n【【5】】je, fait, des\n【【6】】qualifiées\n【【7】】etayer\n【【8】】existientielle, Ne, ma\n【【9】】Ce, je, lire, je, savoir, aucune\n【【10】】subjectifs\n【【11】】beaucoup\n【【12】】toutes, ses\n【【13】】autre\n【【14】】européenne, L'\n【【15】】capitalistique\n【【16】】l'informatique\n【【17】】analytiques, Les\n【【18】】Inconscient\n【【19】】l'pre\n【【20】】schizoanalytiques, Les\n【【21】】sémiotiques, Le\n【【22】】entropique, L'energetique\n【【23】】freudienne, L'inconscient schizoanalytique, Non-separabilité\n【【24】】Les trois\n【【25】】Les quatre\n【【26】】primaire\n【【27】】schizoanalytiques\n【【28】】sémiotiques, l'\n【【29】】secondaire\n【【30】】ter-\n【【31】】quatre\n【【32】】machinique\n【【33】】quatre premières\n【【34】】sensible, la\n【【35】】instantiel, des\n【【36】】machinique, la\n【【37】】rhizomatique, la\n【【38】】concrète\n【【39】】chaotique, Le\n【【40】】entitaires, Les\n【【41】】proto-énonciatifs\n【【42】】sensible\n【【43】】extrinsèque, La\n【【44】】expressive\n【【45】】existentielle f(exi), la\n【【46】】diag- grammatique f(diag), Les\n【【47】】existentielles, Le\n【【48】】virtuels, La dis-\n【【49】】synaptique, La\n【【50】】enonciative, Les\n【【51】】énergétiques, Les quatre\n【【52】】recursives, Les\n【【53】】intermédiaires, La\n【【54】】enonciative, La\n【【55】】existentiels\n【【56】】retrouvé, L'\n【【57】】architecturale, Les ritournelles éthico-esthétiques, le\n【【58】】visagéitaire\n【【59】】in the street\n【【60】】analytiques, Croisement\n【【61】】Croisement\n【【62】】quatre\n【【63】】quatre\n【【64】】sémiotiques, Les\n【【65】】relative\n【【66】】quatre\n【【67】】intensive\n【【68】】trois\n【【69】】quatre\n【【70】】profondes Φ\n【【71】】synaptique\n【【72】】Réal\n【【73】】bipolaire\n【【74】】expressive\n【【75】】schizoanalytiques\n【【76】】Les trois\n【【77】】sériel\n【【78】】sérielle\n【【79】】Les deux\n【【80】】modulaire, Lissage\n【【81】】plus-value machinique\n【【82】】extrinsèque, Chevauchement, des\n【【83】】existentielle\n【【84】】diagrammatique, tenseurs existentiels, Les\n【【85】】existentielles, Le\n【【86】】virtuelle, Les\n【【87】】extensionnelles\n【【88】】synaptique\n【【89】】abstraites, La\n【【90】】énonciative, Les quatre\n【【91】】Les quatre\n【【92】】discursive\n【【93】】quatre\n【【94】】Les quatre\n【【95】】schizoanalytiques\n【【96】】énonciative, Les\n【【97】】énonciatives, Les\n【【98】】pointillé\n【【99】】existentiels\n【【100】】GEORGES PEREC\n【【101】】DREYFUS, La\n【【102】】disciplinaire\n【【103】】BAUDRILLARD\n【【104】】JEAN-PIERRE BUFFARD\n【【105】】TOMASO REGAZZOLA, Situations migratores\n【【106】】DUVIGNAUD, Lieux\n【【107】】MEDAM\n【【108】】VIRILIO\n【【109】】VIRILIO\n【【110】】populaire\n【【111】】écologiques\n【【112】】DUFRACNATEL\n【【113】】FRASSE MICHELLE\n【【114】】GÉRARD SALVARESI PASCALE WERNER, L'\n【【115】】BAUDRILLARD, la\n【【116】】JOXE, Le\n【【117】】MEDAM",
+  "parsedNouns": [
+    {
+      "truncId": 1,
+      "machineCode": "【【1】】",
+      "noun": "autres",
+      "found": true,
+      "offsets": [
+        {
+          "start": 363,
+          "end": 369,
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "truncId": 1,
+      "machineCode": "【【1】】",
+      "noun": "compliqué",
+      "found": true,
+      "offsets": [
+        {
+          "start": 394,
+          "end": 403,
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "truncId": 2,
+      "machineCode": "【【2】】",
+      "noun": "J'imagine",
+      "found": true,
+      "offsets": [
+        {
+          "start": 0,
+          "end": 9,
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "truncId": 3,
+      "machineCode": "【【3】】",
+      "noun": "rude",
+      "found": false,
+      "offsets": []
+    },
+    {
+      "truncId": 4,
+      "machineCode": "【【4】】",
+      "noun": "logique",
+      "found": true,
+      "offsets": [
+        {
+          "start": 92,
+          "end": 99,
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "truncId": 5,
+      "machineCode": "【【5】】",
+      "noun": "je",
+      "found": false,
+      "offsets": []
+    },
+    {
+      "truncId": 5,
+      "machineCode": "【【5】】",
+      "noun": "fait",
+      "found": false,
+      "offsets": []
+    },
+    {
+      "truncId": 5,
+      "machineCode": "【【5】】",
+      "noun": "des",
+      "found": false,
+      "offsets": []
+    },
+    {
+      "truncId": 6,
+      "machineCode": "【【6】】",
+      "noun": "qualifiées",
+      "found": true,
+      "offsets": [
+        {
+          "start": 190,
+          "end": 200,
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "truncId": 7,
+      "machineCode": "【【7】】",
+      "noun": "etayer",
+      "found": true,
+      "offsets": [
+        {
+          "start": 264,
+          "end": 270,
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "truncId": 8,
+      "machineCode": "【【8】】",
+      "noun": "existientielle",
+      "found": false,
+      "offsets": []
+    },
+    {
+      "truncId": 8,
+      "machineCode": "【【8】】",
+      "noun": "Ne",
+      "found": false,
+      "offsets": []
+    },
+    {
+      "truncId": 8,
+      "machineCode": "【【8】】",
+      "noun": "ma",
+      "found": false,
+      "offsets": []
+    },
+    {
+      "truncId": 9,
+      "machineCode": "【【9】】",
+      "noun": "Ce",
+      "found": false,
+      "offsets": []
+    },
+    {
+      "truncId": 9,
+      "machineCode": "【【9】】",
+      "noun": "je",
+      "found": false,
+      "offsets": []
+    },
+    {
+      "truncId": 9,
+      "machineCode": "【【9】】",
+      "noun": "lire",
+      "found": true,
+      "offsets": [
+        {
+          "start": 467,
+          "end": 471,
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "truncId": 9,
+      "machineCode": "【【9】】",
+      "noun": "je",
+      "found": false,
+      "offsets": []
+    },
+    {
+      "truncId": 9,
+      "machineCode": "【【9】】",
+      "noun": "savoir",
+      "found": true,
+      "offsets": [
+        {
+          "start": 492,
+          "end": 498,
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "truncId": 9,
+      "machineCode": "【【9】】",
+      "noun": "aucune",
+      "found": false,
+      "offsets": []
+    },
+    {
+      "truncId": 10,
+      "machineCode": "【【10】】",
+      "noun": "subjectifs",
+      "found": false,
+      "offsets": []
+    },
+    {
+      "truncId": 11,
+      "machineCode": "【【11】】",
+      "noun": "beaucoup",
+      "found": false,
+      "offsets": []
+    },
+    {
+      "truncId": 12,
+      "machineCode": "【【12】】",
+      "noun": "toutes",
+      "found": true,
+      "offsets": [
+        {
+          "start": 703,
+          "end": 709,
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "truncId": 12,
+      "machineCode": "【【12】】",
+      "noun": "ses",
+      "found": false,
+      "offsets": []
+    },
+    {
+      "truncId": 13,
+      "machineCode": "【【13】】",
+      "noun": "autre",
+      "found": true,
+      "offsets": [
+        {
+          "start": 748,
+          "end": 753,
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "truncId": 14,
+      "machineCode": "【【14】】",
+      "noun": "européenne",
+      "found": false,
+      "offsets": []
+    },
+    {
+      "truncId": 14,
+      "machineCode": "【【14】】",
+      "noun": "L'",
+      "found": false,
+      "offsets": []
+    },
+    {
+      "truncId": 15,
+      "machineCode": "【【15】】",
+      "noun": "capitalistique",
+      "found": true,
+      "offsets": [
+        {
+          "start": 92,
+          "end": 106,
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "truncId": 16,
+      "machineCode": "【【16】】",
+      "noun": "l'informatique",
+      "found": false,
+      "offsets": []
+    },
+    {
+      "truncId": 17,
+      "machineCode": "【【17】】",
+      "noun": "analytiques",
+      "found": true,
+      "offsets": [
+        {
+          "start": 497,
+          "end": 508,
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "truncId": 17,
+      "machineCode": "【【17】】",
+      "noun": "Les",
+      "found": false,
+      "offsets": []
+    },
+    {
+      "truncId": 18,
+      "machineCode": "【【18】】",
+      "noun": "Inconscient",
+      "found": true,
+      "offsets": [
+        {
+          "start": 346,
+          "end": 357,
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "truncId": 19,
+      "machineCode": "【【19】】",
+      "noun": "l'pre",
+      "found": false,
+      "offsets": []
+    },
+    {
+      "truncId": 20,
+      "machineCode": "【【20】】",
+      "noun": "schizoanalytiques",
+      "found": true,
+      "offsets": [
+        {
+          "start": 491,
+          "end": 508,
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "truncId": 20,
+      "machineCode": "【【20】】",
+      "noun": "Les",
+      "found": false,
+      "offsets": []
+    },
+    {
+      "truncId": 21,
+      "machineCode": "【【21】】",
+      "noun": "sémiotiques",
+      "found": false,
+      "offsets": []
+    },
+    {
+      "truncId": 21,
+      "machineCode": "【【21】】",
+      "noun": "Le",
+      "found": false,
+      "offsets": []
+    },
+    {
+      "truncId": 22,
+      "machineCode": "【【22】】",
+      "noun": "entropique",
+      "found": true,
+      "offsets": [
+        {
+          "start": 569,
+          "end": 579,
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "truncId": 22,
+      "machineCode": "【【22】】",
+      "noun": "L'energetique",
+      "found": true,
+      "offsets": [
+        {
+          "start": 587,
+          "end": 600,
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "truncId": 23,
+      "machineCode": "【【23】】",
+      "noun": "freudienne",
+      "found": true,
+      "offsets": [
+        {
+          "start": 612,
+          "end": 622,
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "truncId": 23,
+      "machineCode": "【【23】】",
+      "noun": "L'inconscient",
+      "found": true,
+      "offsets": [
+        {
+          "start": 630,
+          "end": 643,
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "truncId": 23,
+      "machineCode": "【【23】】",
+      "noun": "schizoanalytique",
+      "found": true,
+      "offsets": [
+        {
+          "start": 644,
+          "end": 660,
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "truncId": 23,
+      "machineCode": "【【23】】",
+      "noun": "Non-separabilité",
+      "found": true,
+      "offsets": [
+        {
+          "start": 668,
+          "end": 684,
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "truncId": 24,
+      "machineCode": "【【24】】",
+      "noun": "Les",
+      "found": false,
+      "offsets": []
+    },
+    {
+      "truncId": 24,
+      "machineCode": "【【24】】",
+      "noun": "trois",
+      "found": false,
+      "offsets": []
+    },
+    {
+      "truncId": 25,
+      "machineCode": "【【25】】",
+      "noun": "Les",
+      "found": false,
+      "offsets": []
+    },
+    {
+      "truncId": 25,
+      "machineCode": "【【25】】",
+      "noun": "quatre",
+      "found": true,
+      "offsets": [
+        {
+          "start": 804,
+          "end": 810,
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "truncId": 26,
+      "machineCode": "【【26】】",
+      "noun": "primaire",
+      "found": false,
+      "offsets": []
+    },
+    {
+      "truncId": 27,
+      "machineCode": "【【27】】",
+      "noun": "schizoanalytiques",
+      "found": false,
+      "offsets": []
+    },
+    {
+      "truncId": 28,
+      "machineCode": "【【28】】",
+      "noun": "sémiotiques",
+      "found": false,
+      "offsets": []
+    },
+    {
+      "truncId": 28,
+      "machineCode": "【【28】】",
+      "noun": "l'",
+      "found": false,
+      "offsets": []
+    },
+    {
+      "truncId": 29,
+      "machineCode": "【【29】】",
+      "noun": "secondaire",
+      "found": false,
+      "offsets": []
+    },
+    {
+      "truncId": 30,
+      "machineCode": "【【30】】",
+      "noun": "ter",
+      "found": true,
+      "offsets": [
+        {
+          "start": 105,
+          "end": 108,
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "truncId": 31,
+      "machineCode": "【【31】】",
+      "noun": "quatre",
+      "found": true,
+      "offsets": [
+        {
+          "start": 192,
+          "end": 198,
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "truncId": 32,
+      "machineCode": "【【32】】",
+      "noun": "machinique",
+      "found": true,
+      "offsets": [
+        {
+          "start": 388,
+          "end": 398,
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "truncId": 33,
+      "machineCode": "【【33】】",
+      "noun": "quatre",
+      "found": true,
+      "offsets": [
+        {
+          "start": 192,
+          "end": 198,
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "truncId": 33,
+      "machineCode": "【【33】】",
+      "noun": "premières",
+      "found": false,
+      "offsets": []
+    },
+    {
+      "truncId": 34,
+      "machineCode": "【【34】】",
+      "noun": "sensible",
+      "found": false,
+      "offsets": []
+    },
+    {
+      "truncId": 34,
+      "machineCode": "【【34】】",
+      "noun": "la",
+      "found": false,
+      "offsets": []
+    },
+    {
+      "truncId": 35,
+      "machineCode": "【【35】】",
+      "noun": "instantiel",
+      "found": false,
+      "offsets": []
+    },
+    {
+      "truncId": 35,
+      "machineCode": "【【35】】",
+      "noun": "des",
+      "found": false,
+      "offsets": []
+    },
+    {
+      "truncId": 36,
+      "machineCode": "【【36】】",
+      "noun": "machinique",
+      "found": true,
+      "offsets": [
+        {
+          "start": 388,
+          "end": 398,
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "truncId": 36,
+      "machineCode": "【【36】】",
+      "noun": "la",
+      "found": false,
+      "offsets": []
+    },
+    {
+      "truncId": 37,
+      "machineCode": "【【37】】",
+      "noun": "rhizomatique",
+      "found": true,
+      "offsets": [
+        {
+          "start": 710,
+          "end": 722,
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "truncId": 37,
+      "machineCode": "【【37】】",
+      "noun": "la",
+      "found": false,
+      "offsets": []
+    },
+    {
+      "truncId": 38,
+      "machineCode": "【【38】】",
+      "noun": "concrète",
+      "found": true,
+      "offsets": [
+        {
+          "start": 780,
+          "end": 788,
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "truncId": 39,
+      "machineCode": "【【39】】",
+      "noun": "chaotique",
+      "found": false,
+      "offsets": []
+    },
+    {
+      "truncId": 39,
+      "machineCode": "【【39】】",
+      "noun": "Le",
+      "found": false,
+      "offsets": []
+    },
+    {
+      "truncId": 40,
+      "machineCode": "【【40】】",
+      "noun": "entitaires",
+      "found": false,
+      "offsets": []
+    },
+    {
+      "truncId": 40,
+      "machineCode": "【【40】】",
+      "noun": "Les",
+      "found": false,
+      "offsets": []
+    },
+    {
+      "truncId": 41,
+      "machineCode": "【【41】】",
+      "noun": "proto-énonciatifs",
+      "found": false,
+      "offsets": []
+    },
+    {
+      "truncId": 42,
+      "machineCode": "【【42】】",
+      "noun": "sensible",
+      "found": false,
+      "offsets": []
+    },
+    {
+      "truncId": 43,
+      "machineCode": "【【43】】",
+      "noun": "extrinsèque",
+      "found": false,
+      "offsets": []
+    },
+    {
+      "truncId": 43,
+      "machineCode": "【【43】】",
+      "noun": "La",
+      "found": false,
+      "offsets": []
+    },
+    {
+      "truncId": 44,
+      "machineCode": "【【44】】",
+      "noun": "expressive",
+      "found": false,
+      "offsets": []
+    },
+    {
+      "truncId": 45,
+      "machineCode": "【【45】】",
+      "noun": "existentielle",
+      "found": false,
+      "offsets": []
+    },
+    {
+      "truncId": 45,
+      "machineCode": "【【45】】",
+      "noun": "f(exi)",
+      "found": true,
+      "offsets": [
+        {
+          "start": 26,
+          "end": 32,
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "truncId": 45,
+      "machineCode": "【【45】】",
+      "noun": "la",
+      "found": false,
+      "offsets": []
+    },
+    {
+      "truncId": 46,
+      "machineCode": "【【46】】",
+      "noun": "diag",
+      "found": true,
+      "offsets": [
+        {
+          "start": 48,
+          "end": 52,
+          "confidence": "high"
+        },
+        {
+          "start": 68,
+          "end": 72,
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "truncId": 46,
+      "machineCode": "【【46】】",
+      "noun": "grammatique",
+      "found": true,
+      "offsets": [
+        {
+          "start": 54,
+          "end": 65,
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "truncId": 46,
+      "machineCode": "【【46】】",
+      "noun": "f(diag)",
+      "found": true,
+      "offsets": [
+        {
+          "start": 66,
+          "end": 73,
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "truncId": 46,
+      "machineCode": "【【46】】",
+      "noun": "Les",
+      "found": false,
+      "offsets": []
+    },
+    {
+      "truncId": 47,
+      "machineCode": "【【47】】",
+      "noun": "existentielles",
+      "found": false,
+      "offsets": []
+    },
+    {
+      "truncId": 47,
+      "machineCode": "【【47】】",
+      "noun": "Le",
+      "found": false,
+      "offsets": []
+    },
+    {
+      "truncId": 48,
+      "machineCode": "【【48】】",
+      "noun": "virtuels",
+      "found": true,
+      "offsets": [
+        {
+          "start": 294,
+          "end": 302,
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "truncId": 48,
+      "machineCode": "【【48】】",
+      "noun": "La",
+      "found": false,
+      "offsets": []
+    },
+    {
+      "truncId": 48,
+      "machineCode": "【【48】】",
+      "noun": "dis",
+      "found": true,
+      "offsets": [
+        {
+          "start": 314,
+          "end": 317,
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "truncId": 49,
+      "machineCode": "【【49】】",
+      "noun": "synaptique",
+      "found": false,
+      "offsets": []
+    },
+    {
+      "truncId": 49,
+      "machineCode": "【【49】】",
+      "noun": "La",
+      "found": false,
+      "offsets": []
+    },
+    {
+      "truncId": 50,
+      "machineCode": "【【50】】",
+      "noun": "enonciative",
+      "found": true,
+      "offsets": [
+        {
+          "start": 526,
+          "end": 537,
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "truncId": 50,
+      "machineCode": "【【50】】",
+      "noun": "Les",
+      "found": false,
+      "offsets": []
+    },
+    {
+      "truncId": 51,
+      "machineCode": "【【51】】",
+      "noun": "énergétiques",
+      "found": false,
+      "offsets": []
+    },
+    {
+      "truncId": 51,
+      "machineCode": "【【51】】",
+      "noun": "Les",
+      "found": false,
+      "offsets": []
+    },
+    {
+      "truncId": 51,
+      "machineCode": "【【51】】",
+      "noun": "quatre",
+      "found": false,
+      "offsets": []
+    },
+    {
+      "truncId": 52,
+      "machineCode": "【【52】】",
+      "noun": "recursives",
+      "found": false,
+      "offsets": []
+    },
+    {
+      "truncId": 52,
+      "machineCode": "【【52】】",
+      "noun": "Les",
+      "found": false,
+      "offsets": []
+    },
+    {
+      "truncId": 53,
+      "machineCode": "【【53】】",
+      "noun": "intermédiaires",
+      "found": false,
+      "offsets": []
+    },
+    {
+      "truncId": 53,
+      "machineCode": "【【53】】",
+      "noun": "La",
+      "found": false,
+      "offsets": []
+    },
+    {
+      "truncId": 54,
+      "machineCode": "【【54】】",
+      "noun": "enonciative",
+      "found": true,
+      "offsets": [
+        {
+          "start": 526,
+          "end": 537,
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "truncId": 54,
+      "machineCode": "【【54】】",
+      "noun": "La",
+      "found": false,
+      "offsets": []
+    },
+    {
+      "truncId": 55,
+      "machineCode": "【【55】】",
+      "noun": "existentiels",
+      "found": true,
+      "offsets": [
+        {
+          "start": 721,
+          "end": 733,
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "truncId": 56,
+      "machineCode": "【【56】】",
+      "noun": "retrouvé",
+      "found": true,
+      "offsets": [
+        {
+          "start": 752,
+          "end": 760,
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "truncId": 56,
+      "machineCode": "【【56】】",
+      "noun": "L'",
+      "found": false,
+      "offsets": []
+    },
+    {
+      "truncId": 57,
+      "machineCode": "【【57】】",
+      "noun": "architecturale",
+      "found": false,
+      "offsets": []
+    },
+    {
+      "truncId": 57,
+      "machineCode": "【【57】】",
+      "noun": "Les",
+      "found": false,
+      "offsets": []
+    },
+    {
+      "truncId": 57,
+      "machineCode": "【【57】】",
+      "noun": "ritournelles",
+      "found": false,
+      "offsets": []
+    },
+    {
+      "truncId": 57,
+      "machineCode": "【【57】】",
+      "noun": "éthico-esthétiques",
+      "found": false,
+      "offsets": []
+    },
+    {
+      "truncId": 57,
+      "machineCode": "【【57】】",
+      "noun": "le",
+      "found": false,
+      "offsets": []
+    },
+    {
+      "truncId": 58,
+      "machineCode": "【【58】】",
+      "noun": "visagéitaire",
+      "found": false,
+      "offsets": []
+    },
+    {
+      "truncId": 59,
+      "machineCode": "【【59】】",
+      "noun": "in",
+      "found": false,
+      "offsets": []
+    },
+    {
+      "truncId": 59,
+      "machineCode": "【【59】】",
+      "noun": "the",
+      "found": false,
+      "offsets": []
+    },
+    {
+      "truncId": 59,
+      "machineCode": "【【59】】",
+      "noun": "street",
+      "found": true,
+      "offsets": [
+        {
+          "start": 960,
+          "end": 966,
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "truncId": 60,
+      "machineCode": "【【60】】",
+      "noun": "analytiques",
+      "found": false,
+      "offsets": []
+    },
+    {
+      "truncId": 60,
+      "machineCode": "【【60】】",
+      "noun": "Croisement",
+      "found": true,
+      "offsets": [
+        {
+          "start": 90,
+          "end": 100,
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "truncId": 61,
+      "machineCode": "【【61】】",
+      "noun": "Croisement",
+      "found": true,
+      "offsets": [
+        {
+          "start": 90,
+          "end": 100,
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "truncId": 62,
+      "machineCode": "【【62】】",
+      "noun": "quatre",
+      "found": false,
+      "offsets": []
+    },
+    {
+      "truncId": 63,
+      "machineCode": "【【63】】",
+      "noun": "quatre",
+      "found": false,
+      "offsets": []
+    },
+    {
+      "truncId": 64,
+      "machineCode": "【【64】】",
+      "noun": "sémiotiques",
+      "found": false,
+      "offsets": []
+    },
+    {
+      "truncId": 64,
+      "machineCode": "【【64】】",
+      "noun": "Les",
+      "found": false,
+      "offsets": []
+    },
+    {
+      "truncId": 65,
+      "machineCode": "【【65】】",
+      "noun": "relative",
+      "found": true,
+      "offsets": [
+        {
+          "start": 327,
+          "end": 335,
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "truncId": 66,
+      "machineCode": "【【66】】",
+      "noun": "quatre",
+      "found": false,
+      "offsets": []
+    },
+    {
+      "truncId": 67,
+      "machineCode": "【【67】】",
+      "noun": "intensive",
+      "found": false,
+      "offsets": []
+    },
+    {
+      "truncId": 68,
+      "machineCode": "【【68】】",
+      "noun": "trois",
+      "found": false,
+      "offsets": []
+    },
+    {
+      "truncId": 69,
+      "machineCode": "【【69】】",
+      "noun": "quatre",
+      "found": false,
+      "offsets": []
+    },
+    {
+      "truncId": 70,
+      "machineCode": "【【70】】",
+      "noun": "profondes",
+      "found": true,
+      "offsets": [
+        {
+          "start": 706,
+          "end": 715,
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "truncId": 71,
+      "machineCode": "【【71】】",
+      "noun": "synaptique",
+      "found": true,
+      "offsets": [
+        {
+          "start": 732,
+          "end": 742,
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "truncId": 72,
+      "machineCode": "【【72】】",
+      "noun": "Réal",
+      "found": true,
+      "offsets": [
+        {
+          "start": 772,
+          "end": 776,
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "truncId": 73,
+      "machineCode": "【【73】】",
+      "noun": "bipolaire",
+      "found": true,
+      "offsets": [
+        {
+          "start": 853,
+          "end": 862,
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "truncId": 74,
+      "machineCode": "【【74】】",
+      "noun": "expressive",
+      "found": false,
+      "offsets": []
+    },
+    {
+      "truncId": 75,
+      "machineCode": "【【75】】",
+      "noun": "schizoanalytiques",
+      "found": false,
+      "offsets": []
+    },
+    {
+      "truncId": 76,
+      "machineCode": "【【76】】",
+      "noun": "Les",
+      "found": false,
+      "offsets": []
+    },
+    {
+      "truncId": 76,
+      "machineCode": "【【76】】",
+      "noun": "trois",
+      "found": false,
+      "offsets": []
+    },
+    {
+      "truncId": 77,
+      "machineCode": "【【77】】",
+      "noun": "sériel",
+      "found": false,
+      "offsets": []
+    },
+    {
+      "truncId": 78,
+      "machineCode": "【【78】】",
+      "noun": "sérielle",
+      "found": false,
+      "offsets": []
+    },
+    {
+      "truncId": 79,
+      "machineCode": "【【79】】",
+      "noun": "Les",
+      "found": false,
+      "offsets": []
+    },
+    {
+      "truncId": 79,
+      "machineCode": "【【79】】",
+      "noun": "deux",
+      "found": false,
+      "offsets": []
+    },
+    {
+      "truncId": 80,
+      "machineCode": "【【80】】",
+      "noun": "modulaire",
+      "found": false,
+      "offsets": []
+    },
+    {
+      "truncId": 80,
+      "machineCode": "【【80】】",
+      "noun": "Lissage",
+      "found": false,
+      "offsets": []
+    },
+    {
+      "truncId": 81,
+      "machineCode": "【【81】】",
+      "noun": "plus-value",
+      "found": true,
+      "offsets": [
+        {
+          "start": 250,
+          "end": 260,
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "truncId": 81,
+      "machineCode": "【【81】】",
+      "noun": "machinique",
+      "found": true,
+      "offsets": [
+        {
+          "start": 261,
+          "end": 271,
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "truncId": 82,
+      "machineCode": "【【82】】",
+      "noun": "extrinsèque",
+      "found": false,
+      "offsets": []
+    },
+    {
+      "truncId": 82,
+      "machineCode": "【【82】】",
+      "noun": "Chevauchement",
+      "found": true,
+      "offsets": [
+        {
+          "start": 356,
+          "end": 369,
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "truncId": 82,
+      "machineCode": "【【82】】",
+      "noun": "des",
+      "found": false,
+      "offsets": []
+    },
+    {
+      "truncId": 83,
+      "machineCode": "【【83】】",
+      "noun": "existentielle",
+      "found": true,
+      "offsets": [
+        {
+          "start": 533,
+          "end": 546,
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "truncId": 84,
+      "machineCode": "【【84】】",
+      "noun": "diagrammatique",
+      "found": false,
+      "offsets": []
+    },
+    {
+      "truncId": 84,
+      "machineCode": "【【84】】",
+      "noun": "tenseurs",
+      "found": false,
+      "offsets": []
+    },
+    {
+      "truncId": 84,
+      "machineCode": "【【84】】",
+      "noun": "existentiels",
+      "found": true,
+      "offsets": [
+        {
+          "start": 598,
+          "end": 610,
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "truncId": 84,
+      "machineCode": "【【84】】",
+      "noun": "Les",
+      "found": false,
+      "offsets": []
+    },
+    {
+      "truncId": 85,
+      "machineCode": "【【85】】",
+      "noun": "existentielles",
+      "found": false,
+      "offsets": []
+    },
+    {
+      "truncId": 85,
+      "machineCode": "【【85】】",
+      "noun": "Le",
+      "found": false,
+      "offsets": []
+    },
+    {
+      "truncId": 86,
+      "machineCode": "【【86】】",
+      "noun": "virtuelle",
+      "found": false,
+      "offsets": []
+    },
+    {
+      "truncId": 86,
+      "machineCode": "【【86】】",
+      "noun": "Les",
+      "found": false,
+      "offsets": []
+    },
+    {
+      "truncId": 87,
+      "machineCode": "【【87】】",
+      "noun": "extensionnelles",
+      "found": true,
+      "offsets": [
+        {
+          "start": 885,
+          "end": 900,
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "truncId": 88,
+      "machineCode": "【【88】】",
+      "noun": "synaptique",
+      "found": false,
+      "offsets": []
+    },
+    {
+      "truncId": 89,
+      "machineCode": "【【89】】",
+      "noun": "abstraites",
+      "found": false,
+      "offsets": []
+    },
+    {
+      "truncId": 89,
+      "machineCode": "【【89】】",
+      "noun": "La",
+      "found": false,
+      "offsets": []
+    },
+    {
+      "truncId": 90,
+      "machineCode": "【【90】】",
+      "noun": "énonciative",
+      "found": false,
+      "offsets": []
+    },
+    {
+      "truncId": 90,
+      "machineCode": "【【90】】",
+      "noun": "Les",
+      "found": false,
+      "offsets": []
+    },
+    {
+      "truncId": 90,
+      "machineCode": "【【90】】",
+      "noun": "quatre",
+      "found": false,
+      "offsets": []
+    },
+    {
+      "truncId": 91,
+      "machineCode": "【【91】】",
+      "noun": "Les",
+      "found": false,
+      "offsets": []
+    },
+    {
+      "truncId": 91,
+      "machineCode": "【【91】】",
+      "noun": "quatre",
+      "found": false,
+      "offsets": []
+    },
+    {
+      "truncId": 92,
+      "machineCode": "【【92】】",
+      "noun": "discursive",
+      "found": true,
+      "offsets": [
+        {
+          "start": 1203,
+          "end": 1213,
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "truncId": 93,
+      "machineCode": "【【93】】",
+      "noun": "quatre",
+      "found": false,
+      "offsets": []
+    },
+    {
+      "truncId": 94,
+      "machineCode": "【【94】】",
+      "noun": "Les",
+      "found": false,
+      "offsets": []
+    },
+    {
+      "truncId": 94,
+      "machineCode": "【【94】】",
+      "noun": "quatre",
+      "found": false,
+      "offsets": []
+    },
+    {
+      "truncId": 95,
+      "machineCode": "【【95】】",
+      "noun": "schizoanalytiques",
+      "found": false,
+      "offsets": []
+    },
+    {
+      "truncId": 96,
+      "machineCode": "【【96】】",
+      "noun": "énonciative",
+      "found": false,
+      "offsets": []
+    },
+    {
+      "truncId": 96,
+      "machineCode": "【【96】】",
+      "noun": "Les",
+      "found": false,
+      "offsets": []
+    },
+    {
+      "truncId": 97,
+      "machineCode": "【【97】】",
+      "noun": "énonciatives",
+      "found": false,
+      "offsets": []
+    },
+    {
+      "truncId": 97,
+      "machineCode": "【【97】】",
+      "noun": "Les",
+      "found": false,
+      "offsets": []
+    },
+    {
+      "truncId": 98,
+      "machineCode": "【【98】】",
+      "noun": "pointillé",
+      "found": true,
+      "offsets": [
+        {
+          "start": 154,
+          "end": 163,
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "truncId": 99,
+      "machineCode": "【【99】】",
+      "noun": "existentiels",
+      "found": true,
+      "offsets": [
+        {
+          "start": 198,
+          "end": 210,
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "truncId": 100,
+      "machineCode": "【【100】】",
+      "noun": "GEORGES",
+      "found": true,
+      "offsets": [
+        {
+          "start": 0,
+          "end": 7,
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "truncId": 100,
+      "machineCode": "【【100】】",
+      "noun": "PEREC",
+      "found": true,
+      "offsets": [
+        {
+          "start": 8,
+          "end": 13,
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "truncId": 101,
+      "machineCode": "【【101】】",
+      "noun": "DREYFUS",
+      "found": true,
+      "offsets": [
+        {
+          "start": 8,
+          "end": 15,
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "truncId": 101,
+      "machineCode": "【【101】】",
+      "noun": "La",
+      "found": false,
+      "offsets": []
+    },
+    {
+      "truncId": 102,
+      "machineCode": "【【102】】",
+      "noun": "disciplinaire",
+      "found": false,
+      "offsets": []
+    },
+    {
+      "truncId": 103,
+      "machineCode": "【【103】】",
+      "noun": "BAUDRILLARD",
+      "found": true,
+      "offsets": [
+        {
+          "start": 5,
+          "end": 16,
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "truncId": 104,
+      "machineCode": "【【104】】",
+      "noun": "JEAN-PIERRE",
+      "found": false,
+      "offsets": []
+    },
+    {
+      "truncId": 104,
+      "machineCode": "【【104】】",
+      "noun": "BUFFARD",
+      "found": false,
+      "offsets": []
+    },
+    {
+      "truncId": 105,
+      "machineCode": "【【105】】",
+      "noun": "TOMASO",
+      "found": true,
+      "offsets": [
+        {
+          "start": 48,
+          "end": 54,
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "truncId": 105,
+      "machineCode": "【【105】】",
+      "noun": "REGAZZOLA",
+      "found": true,
+      "offsets": [
+        {
+          "start": 55,
+          "end": 64,
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "truncId": 105,
+      "machineCode": "【【105】】",
+      "noun": "Situations",
+      "found": true,
+      "offsets": [
+        {
+          "start": 65,
+          "end": 75,
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "truncId": 105,
+      "machineCode": "【【105】】",
+      "noun": "migratores",
+      "found": true,
+      "offsets": [
+        {
+          "start": 76,
+          "end": 86,
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "truncId": 106,
+      "machineCode": "【【106】】",
+      "noun": "DUVIGNAUD",
+      "found": true,
+      "offsets": [
+        {
+          "start": 5,
+          "end": 14,
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "truncId": 106,
+      "machineCode": "【【106】】",
+      "noun": "Lieux",
+      "found": true,
+      "offsets": [
+        {
+          "start": 15,
+          "end": 20,
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "truncId": 107,
+      "machineCode": "【【107】】",
+      "noun": "MEDAM",
+      "found": false,
+      "offsets": []
+    },
+    {
+      "truncId": 108,
+      "machineCode": "【【108】】",
+      "noun": "VIRILIO",
+      "found": true,
+      "offsets": [
+        {
+          "start": 5,
+          "end": 12,
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "truncId": 109,
+      "machineCode": "【【109】】",
+      "noun": "VIRILIO",
+      "found": true,
+      "offsets": [
+        {
+          "start": 5,
+          "end": 12,
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "truncId": 110,
+      "machineCode": "【【110】】",
+      "noun": "populaire",
+      "found": false,
+      "offsets": []
+    },
+    {
+      "truncId": 111,
+      "machineCode": "【【111】】",
+      "noun": "écologiques",
+      "found": false,
+      "offsets": []
+    },
+    {
+      "truncId": 112,
+      "machineCode": "【【112】】",
+      "noun": "DUFRACNATEL",
+      "found": true,
+      "offsets": [
+        {
+          "start": 11,
+          "end": 22,
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "truncId": 113,
+      "machineCode": "【【113】】",
+      "noun": "FRASSE",
+      "found": false,
+      "offsets": []
+    },
+    {
+      "truncId": 113,
+      "machineCode": "【【113】】",
+      "noun": "MICHELLE",
+      "found": false,
+      "offsets": []
+    },
+    {
+      "truncId": 114,
+      "machineCode": "【【114】】",
+      "noun": "GÉRARD",
+      "found": false,
+      "offsets": []
+    },
+    {
+      "truncId": 114,
+      "machineCode": "【【114】】",
+      "noun": "SALVARESI",
+      "found": true,
+      "offsets": [
+        {
+          "start": 99,
+          "end": 108,
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "truncId": 114,
+      "machineCode": "【【114】】",
+      "noun": "PASCALE",
+      "found": true,
+      "offsets": [
+        {
+          "start": 109,
+          "end": 116,
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "truncId": 114,
+      "machineCode": "【【114】】",
+      "noun": "WERNER",
+      "found": true,
+      "offsets": [
+        {
+          "start": 117,
+          "end": 123,
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "truncId": 114,
+      "machineCode": "【【114】】",
+      "noun": "L'",
+      "found": false,
+      "offsets": []
+    },
+    {
+      "truncId": 115,
+      "machineCode": "【【115】】",
+      "noun": "BAUDRILLARD",
+      "found": false,
+      "offsets": []
+    },
+    {
+      "truncId": 115,
+      "machineCode": "【【115】】",
+      "noun": "la",
+      "found": false,
+      "offsets": []
+    },
+    {
+      "truncId": 116,
+      "machineCode": "【【116】】",
+      "noun": "JOXE",
+      "found": true,
+      "offsets": [
+        {
+          "start": 6,
+          "end": 10,
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "truncId": 116,
+      "machineCode": "【【116】】",
+      "noun": "Le",
+      "found": false,
+      "offsets": []
+    },
+    {
+      "truncId": 117,
+      "machineCode": "【【117】】",
+      "noun": "MEDAM",
+      "found": false,
+      "offsets": []
+    }
+  ]
+}

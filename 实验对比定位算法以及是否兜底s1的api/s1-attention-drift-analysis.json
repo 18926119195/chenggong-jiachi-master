@@ -1,0 +1,4010 @@
+{
+  "meta": {
+    "experimentGroup": "实验组二（有兜底）",
+    "totalNouns": 1884,
+    "generatedAt": "2026-09-21T05:21:35.793Z"
+  },
+  "globalStats": {
+    "totalBatchesWithDrift": 34,
+    "totalBatches": 47,
+    "driftBatchRatio": "72.3%",
+    "avgFirstDriftTruncId": "70.4",
+    "minFirstDriftTruncId": 2,
+    "maxFirstDriftTruncId": 253,
+    "avgPromptCharPositionRatio": "28.7%"
+  },
+  "batchAnalysis": [
+    {
+      "batchId": 1,
+      "totalTruncations": 257,
+      "totalDrifts": 2,
+      "mediumCount": 1,
+      "lowCount": 1,
+      "firstDrift": {
+        "truncId": 43,
+        "machineCode": "【【43】】",
+        "noun": "macro-processus",
+        "confidence": "low",
+        "promptCharPosition": 1523,
+        "promptCharPositionRatio": "17.3%"
+      },
+      "allDrifts": [
+        {
+          "truncId": 43,
+          "machineCode": "【【43】】",
+          "noun": "macro-processus",
+          "confidence": "low"
+        },
+        {
+          "truncId": 164,
+          "machineCode": "【【164】】",
+          "noun": "speculaires",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "batchId": 2,
+      "totalTruncations": 269,
+      "totalDrifts": 28,
+      "mediumCount": 13,
+      "lowCount": 15,
+      "firstDrift": {
+        "truncId": 36,
+        "machineCode": "【【36】】",
+        "noun": "subjective",
+        "confidence": "medium",
+        "promptCharPosition": 1523,
+        "promptCharPositionRatio": "17.3%"
+      },
+      "allDrifts": [
+        {
+          "truncId": 36,
+          "machineCode": "【【36】】",
+          "noun": "subjective",
+          "confidence": "medium"
+        },
+        {
+          "truncId": 70,
+          "machineCode": "【【70】】",
+          "noun": "instable",
+          "confidence": "medium"
+        },
+        {
+          "truncId": 102,
+          "machineCode": "【【102】】",
+          "noun": "libre",
+          "confidence": "medium"
+        },
+        {
+          "truncId": 103,
+          "machineCode": "【【103】】",
+          "noun": "savoir",
+          "confidence": "medium"
+        },
+        {
+          "truncId": 104,
+          "machineCode": "【【104】】",
+          "noun": "monétaires",
+          "confidence": "medium"
+        },
+        {
+          "truncId": 105,
+          "machineCode": "【【105】】",
+          "noun": "esthétiques",
+          "confidence": "low"
+        },
+        {
+          "truncId": 109,
+          "machineCode": "【【109】】",
+          "noun": "pouvoir",
+          "confidence": "medium"
+        },
+        {
+          "truncId": 109,
+          "machineCode": "【【109】】",
+          "noun": "deterritorialisée",
+          "confidence": "low"
+        },
+        {
+          "truncId": 109,
+          "machineCode": "【【109】】",
+          "noun": "subjectif",
+          "confidence": "medium"
+        },
+        {
+          "truncId": 148,
+          "machineCode": "【【148】】",
+          "noun": "premier",
+          "confidence": "medium"
+        },
+        {
+          "truncId": 160,
+          "machineCode": "【【160】】",
+          "noun": "capitalistique",
+          "confidence": "low"
+        },
+        {
+          "truncId": 166,
+          "machineCode": "【【166】】",
+          "noun": "physique",
+          "confidence": "low"
+        },
+        {
+          "truncId": 166,
+          "machineCode": "【【166】】",
+          "noun": "sociale",
+          "confidence": "low"
+        },
+        {
+          "truncId": 169,
+          "machineCode": "【【169】】",
+          "noun": "segmentaire",
+          "confidence": "low"
+        },
+        {
+          "truncId": 188,
+          "machineCode": "【【188】】",
+          "noun": "constante",
+          "confidence": "medium"
+        },
+        {
+          "truncId": 204,
+          "machineCode": "【【204】】",
+          "noun": "asservies",
+          "confidence": "medium"
+        },
+        {
+          "truncId": 209,
+          "machineCode": "【【209】】",
+          "noun": "territorial",
+          "confidence": "medium"
+        },
+        {
+          "truncId": 210,
+          "machineCode": "【【210】】",
+          "noun": "enrichissantes",
+          "confidence": "medium"
+        },
+        {
+          "truncId": 214,
+          "machineCode": "【【214】】",
+          "noun": "portues",
+          "confidence": "medium"
+        },
+        {
+          "truncId": 221,
+          "machineCode": "【【221】】",
+          "noun": "régent",
+          "confidence": "low"
+        },
+        {
+          "truncId": 222,
+          "machineCode": "【【222】】",
+          "noun": "pouvoir",
+          "confidence": "low"
+        },
+        {
+          "truncId": 222,
+          "machineCode": "【【222】】",
+          "noun": "savoir",
+          "confidence": "low"
+        },
+        {
+          "truncId": 223,
+          "machineCode": "【【223】】",
+          "noun": "machiniques",
+          "confidence": "low"
+        },
+        {
+          "truncId": 223,
+          "machineCode": "【【223】】",
+          "noun": "poussées",
+          "confidence": "low"
+        },
+        {
+          "truncId": 237,
+          "machineCode": "【【237】】",
+          "noun": "asocié",
+          "confidence": "low"
+        },
+        {
+          "truncId": 239,
+          "machineCode": "【【239】】",
+          "noun": "nouveau",
+          "confidence": "low"
+        },
+        {
+          "truncId": 240,
+          "machineCode": "【【240】】",
+          "noun": "capitalistique",
+          "confidence": "low"
+        },
+        {
+          "truncId": 244,
+          "machineCode": "【【244】】",
+          "noun": "hyper-individues",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "batchId": 3,
+      "totalTruncations": 252,
+      "totalDrifts": 6,
+      "mediumCount": 1,
+      "lowCount": 5,
+      "firstDrift": {
+        "truncId": 36,
+        "machineCode": "【【36】】",
+        "noun": "Esprit",
+        "confidence": "medium",
+        "promptCharPosition": 1426,
+        "promptCharPositionRatio": "16.2%"
+      },
+      "allDrifts": [
+        {
+          "truncId": 36,
+          "machineCode": "【【36】】",
+          "noun": "Esprit",
+          "confidence": "medium"
+        },
+        {
+          "truncId": 66,
+          "machineCode": "【【66】】",
+          "noun": "créateurs",
+          "confidence": "low"
+        },
+        {
+          "truncId": 96,
+          "machineCode": "【【96】】",
+          "noun": "processus",
+          "confidence": "low"
+        },
+        {
+          "truncId": 193,
+          "machineCode": "【【193】】",
+          "noun": "ancien",
+          "confidence": "low"
+        },
+        {
+          "truncId": 213,
+          "machineCode": "【【213】】",
+          "noun": "machinique",
+          "confidence": "low"
+        },
+        {
+          "truncId": 248,
+          "machineCode": "【【248】】",
+          "noun": "huppé",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "batchId": 4,
+      "totalTruncations": 243,
+      "totalDrifts": 4,
+      "mediumCount": 0,
+      "lowCount": 4,
+      "firstDrift": {
+        "truncId": 142,
+        "machineCode": "【【142】】",
+        "noun": "subjectives",
+        "confidence": "low",
+        "promptCharPosition": 5268,
+        "promptCharPositionRatio": "59.7%"
+      },
+      "allDrifts": [
+        {
+          "truncId": 142,
+          "machineCode": "【【142】】",
+          "noun": "subjectives",
+          "confidence": "low"
+        },
+        {
+          "truncId": 143,
+          "machineCode": "【【143】】",
+          "noun": "subjectives",
+          "confidence": "low"
+        },
+        {
+          "truncId": 166,
+          "machineCode": "【【166】】",
+          "noun": "machinique",
+          "confidence": "low"
+        },
+        {
+          "truncId": 172,
+          "machineCode": "【【172】】",
+          "noun": "humaine",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "batchId": 5,
+      "totalTruncations": 251,
+      "totalDrifts": 8,
+      "mediumCount": 1,
+      "lowCount": 7,
+      "firstDrift": {
+        "truncId": 24,
+        "machineCode": "【【24】】",
+        "noun": "siémiotiques",
+        "confidence": "low",
+        "promptCharPosition": 1058,
+        "promptCharPositionRatio": "12.0%"
+      },
+      "allDrifts": [
+        {
+          "truncId": 24,
+          "machineCode": "【【24】】",
+          "noun": "siémiotiques",
+          "confidence": "low"
+        },
+        {
+          "truncId": 40,
+          "machineCode": "【【40】】",
+          "noun": "différents",
+          "confidence": "low"
+        },
+        {
+          "truncId": 74,
+          "machineCode": "【【74】】",
+          "noun": "somatique",
+          "confidence": "low"
+        },
+        {
+          "truncId": 107,
+          "machineCode": "【【107】】",
+          "noun": "d'un",
+          "confidence": "low"
+        },
+        {
+          "truncId": 107,
+          "machineCode": "【【107】】",
+          "noun": "d'une",
+          "confidence": "low"
+        },
+        {
+          "truncId": 108,
+          "machineCode": "【【108】】",
+          "noun": "qu'",
+          "confidence": "medium"
+        },
+        {
+          "truncId": 157,
+          "machineCode": "【【157】】",
+          "noun": "moléculaire",
+          "confidence": "low"
+        },
+        {
+          "truncId": 220,
+          "machineCode": "【【220】】",
+          "noun": "certain",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "batchId": 8,
+      "totalTruncations": 246,
+      "totalDrifts": 1,
+      "mediumCount": 1,
+      "lowCount": 0,
+      "firstDrift": {
+        "truncId": 238,
+        "machineCode": "【【238】】",
+        "noun": "signifant",
+        "confidence": "medium",
+        "promptCharPosition": 8428,
+        "promptCharPositionRatio": "95.3%"
+      },
+      "allDrifts": [
+        {
+          "truncId": 238,
+          "machineCode": "【【238】】",
+          "noun": "signifant",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "batchId": 10,
+      "totalTruncations": 255,
+      "totalDrifts": 33,
+      "mediumCount": 20,
+      "lowCount": 13,
+      "firstDrift": {
+        "truncId": 54,
+        "machineCode": "【【54】】",
+        "noun": "purificatrices",
+        "confidence": "medium",
+        "promptCharPosition": 1925,
+        "promptCharPositionRatio": "21.8%"
+      },
+      "allDrifts": [
+        {
+          "truncId": 54,
+          "machineCode": "【【54】】",
+          "noun": "purificatrices",
+          "confidence": "medium"
+        },
+        {
+          "truncId": 54,
+          "machineCode": "【【54】】",
+          "noun": "sécuritéaires",
+          "confidence": "medium"
+        },
+        {
+          "truncId": 63,
+          "machineCode": "【【63】】",
+          "noun": "ultime",
+          "confidence": "low"
+        },
+        {
+          "truncId": 69,
+          "machineCode": "【【69】】",
+          "noun": "cartographie",
+          "confidence": "low"
+        },
+        {
+          "truncId": 69,
+          "machineCode": "【【69】】",
+          "noun": "schizanalytique",
+          "confidence": "low"
+        },
+        {
+          "truncId": 73,
+          "machineCode": "【【73】】",
+          "noun": "sociales",
+          "confidence": "medium"
+        },
+        {
+          "truncId": 75,
+          "machineCode": "【【75】】",
+          "noun": "folie",
+          "confidence": "medium"
+        },
+        {
+          "truncId": 77,
+          "machineCode": "【【77】】",
+          "noun": "premières",
+          "confidence": "medium"
+        },
+        {
+          "truncId": 82,
+          "machineCode": "【【82】】",
+          "noun": "sociau",
+          "confidence": "medium"
+        },
+        {
+          "truncId": 85,
+          "machineCode": "【【85】】",
+          "noun": "tous",
+          "confidence": "medium"
+        },
+        {
+          "truncId": 85,
+          "machineCode": "【【85】】",
+          "noun": "tique",
+          "confidence": "medium"
+        },
+        {
+          "truncId": 86,
+          "machineCode": "【【86】】",
+          "noun": "régionaux",
+          "confidence": "medium"
+        },
+        {
+          "truncId": 88,
+          "machineCode": "【【88】】",
+          "noun": "intrinsèques",
+          "confidence": "low"
+        },
+        {
+          "truncId": 89,
+          "machineCode": "【【89】】",
+          "noun": "certains",
+          "confidence": "medium"
+        },
+        {
+          "truncId": 90,
+          "machineCode": "【【90】】",
+          "noun": "extrêmes",
+          "confidence": "medium"
+        },
+        {
+          "truncId": 94,
+          "machineCode": "【【94】】",
+          "noun": "sociales",
+          "confidence": "low"
+        },
+        {
+          "truncId": 94,
+          "machineCode": "【【94】】",
+          "noun": "mentales",
+          "confidence": "medium"
+        },
+        {
+          "truncId": 105,
+          "machineCode": "【【105】】",
+          "noun": "sociales",
+          "confidence": "medium"
+        },
+        {
+          "truncId": 111,
+          "machineCode": "【【111】】",
+          "noun": "entropique",
+          "confidence": "medium"
+        },
+        {
+          "truncId": 165,
+          "machineCode": "【【165】】",
+          "noun": "psychique",
+          "confidence": "low"
+        },
+        {
+          "truncId": 189,
+          "machineCode": "【【189】】",
+          "noun": "psychique",
+          "confidence": "low"
+        },
+        {
+          "truncId": 205,
+          "machineCode": "【【205】】",
+          "noun": "topique",
+          "confidence": "medium"
+        },
+        {
+          "truncId": 205,
+          "machineCode": "【【205】】",
+          "noun": "premire",
+          "confidence": "medium"
+        },
+        {
+          "truncId": 210,
+          "machineCode": "【【210】】",
+          "noun": "Inconsel",
+          "confidence": "medium"
+        },
+        {
+          "truncId": 224,
+          "machineCode": "【【224】】",
+          "noun": "énergétique",
+          "confidence": "medium"
+        },
+        {
+          "truncId": 227,
+          "machineCode": "【【227】】",
+          "noun": "biochimique",
+          "confidence": "medium"
+        },
+        {
+          "truncId": 234,
+          "machineCode": "【【234】】",
+          "noun": "intersubjectives",
+          "confidence": "low"
+        },
+        {
+          "truncId": 237,
+          "machineCode": "【【237】】",
+          "noun": "prit",
+          "confidence": "medium"
+        },
+        {
+          "truncId": 240,
+          "machineCode": "【【240】】",
+          "noun": "simple",
+          "confidence": "low"
+        },
+        {
+          "truncId": 248,
+          "machineCode": "【【248】】",
+          "noun": "axusexime",
+          "confidence": "low"
+        },
+        {
+          "truncId": 248,
+          "machineCode": "【【248】】",
+          "noun": "immortelle",
+          "confidence": "low"
+        },
+        {
+          "truncId": 255,
+          "machineCode": "【【255】】",
+          "noun": "aisé",
+          "confidence": "low"
+        },
+        {
+          "truncId": 255,
+          "machineCode": "【【255】】",
+          "noun": "d'autant",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "batchId": 11,
+      "totalTruncations": 252,
+      "totalDrifts": 41,
+      "mediumCount": 2,
+      "lowCount": 39,
+      "firstDrift": {
+        "truncId": 31,
+        "machineCode": "【【31】】",
+        "noun": "toute",
+        "confidence": "low",
+        "promptCharPosition": 1334,
+        "promptCharPositionRatio": "15.2%"
+      },
+      "allDrifts": [
+        {
+          "truncId": 31,
+          "machineCode": "【【31】】",
+          "noun": "toute",
+          "confidence": "low"
+        },
+        {
+          "truncId": 54,
+          "machineCode": "【【54】】",
+          "noun": "énergétique",
+          "confidence": "low"
+        },
+        {
+          "truncId": 57,
+          "machineCode": "【【57】】",
+          "noun": "beaucoup",
+          "confidence": "low"
+        },
+        {
+          "truncId": 63,
+          "machineCode": "【【63】】",
+          "noun": "iconiques",
+          "confidence": "low"
+        },
+        {
+          "truncId": 73,
+          "machineCode": "【【73】】",
+          "noun": "anima",
+          "confidence": "low"
+        },
+        {
+          "truncId": 74,
+          "machineCode": "【【74】】",
+          "noun": "créatrice",
+          "confidence": "medium"
+        },
+        {
+          "truncId": 82,
+          "machineCode": "【【82】】",
+          "noun": "abstraits",
+          "confidence": "low"
+        },
+        {
+          "truncId": 83,
+          "machineCode": "【【83】】",
+          "noun": "objectives",
+          "confidence": "low"
+        },
+        {
+          "truncId": 85,
+          "machineCode": "【【85】】",
+          "noun": "d'elle-même",
+          "confidence": "low"
+        },
+        {
+          "truncId": 88,
+          "machineCode": "【【88】】",
+          "noun": "légales",
+          "confidence": "low"
+        },
+        {
+          "truncId": 89,
+          "machineCode": "【【89】】",
+          "noun": "existentiels",
+          "confidence": "low"
+        },
+        {
+          "truncId": 113,
+          "machineCode": "【【113】】",
+          "noun": "flous",
+          "confidence": "low"
+        },
+        {
+          "truncId": 113,
+          "machineCode": "【【113】】",
+          "noun": "sous-semblés",
+          "confidence": "low"
+        },
+        {
+          "truncId": 117,
+          "machineCode": "【【117】】",
+          "noun": "autant",
+          "confidence": "low"
+        },
+        {
+          "truncId": 118,
+          "machineCode": "【【118】】",
+          "noun": "energetique",
+          "confidence": "low"
+        },
+        {
+          "truncId": 120,
+          "machineCode": "【【120】】",
+          "noun": "chacune",
+          "confidence": "low"
+        },
+        {
+          "truncId": 120,
+          "machineCode": "【【120】】",
+          "noun": "entités",
+          "confidence": "low"
+        },
+        {
+          "truncId": 123,
+          "machineCode": "【【123】】",
+          "noun": "intensives",
+          "confidence": "low"
+        },
+        {
+          "truncId": 124,
+          "machineCode": "【【124】】",
+          "noun": "energetique",
+          "confidence": "low"
+        },
+        {
+          "truncId": 124,
+          "machineCode": "【【124】】",
+          "noun": "energetiques",
+          "confidence": "medium"
+        },
+        {
+          "truncId": 127,
+          "machineCode": "【【127】】",
+          "noun": "símiotique",
+          "confidence": "low"
+        },
+        {
+          "truncId": 141,
+          "machineCode": "【【141】】",
+          "noun": "physiques",
+          "confidence": "low"
+        },
+        {
+          "truncId": 142,
+          "machineCode": "【【142】】",
+          "noun": "logiques",
+          "confidence": "low"
+        },
+        {
+          "truncId": 159,
+          "machineCode": "【【159】】",
+          "noun": "Van",
+          "confidence": "low"
+        },
+        {
+          "truncId": 161,
+          "machineCode": "【【161】】",
+          "noun": "lône",
+          "confidence": "low"
+        },
+        {
+          "truncId": 164,
+          "machineCode": "【【164】】",
+          "noun": "Van",
+          "confidence": "low"
+        },
+        {
+          "truncId": 167,
+          "machineCode": "【【167】】",
+          "noun": "laisser-alter",
+          "confidence": "low"
+        },
+        {
+          "truncId": 170,
+          "machineCode": "【【170】】",
+          "noun": "programmées",
+          "confidence": "low"
+        },
+        {
+          "truncId": 172,
+          "machineCode": "【【172】】",
+          "noun": "médias",
+          "confidence": "low"
+        },
+        {
+          "truncId": 173,
+          "machineCode": "【【173】】",
+          "noun": "rien",
+          "confidence": "low"
+        },
+        {
+          "truncId": 175,
+          "machineCode": "【【175】】",
+          "noun": "répétitives",
+          "confidence": "low"
+        },
+        {
+          "truncId": 177,
+          "machineCode": "【【177】】",
+          "noun": "narcissisme",
+          "confidence": "low"
+        },
+        {
+          "truncId": 182,
+          "machineCode": "【【182】】",
+          "noun": "L'energetique",
+          "confidence": "low"
+        },
+        {
+          "truncId": 182,
+          "machineCode": "【【182】】",
+          "noun": "généricale",
+          "confidence": "low"
+        },
+        {
+          "truncId": 197,
+          "machineCode": "【【197】】",
+          "noun": "sémiotique",
+          "confidence": "low"
+        },
+        {
+          "truncId": 208,
+          "machineCode": "【【208】】",
+          "noun": "telle",
+          "confidence": "low"
+        },
+        {
+          "truncId": 209,
+          "machineCode": "【【209】】",
+          "noun": "producteurs",
+          "confidence": "low"
+        },
+        {
+          "truncId": 211,
+          "machineCode": "【【211】】",
+          "noun": "sectoriel",
+          "confidence": "low"
+        },
+        {
+          "truncId": 221,
+          "machineCode": "【【221】】",
+          "noun": "nombrant",
+          "confidence": "low"
+        },
+        {
+          "truncId": 233,
+          "machineCode": "【【233】】",
+          "noun": "tels",
+          "confidence": "low"
+        },
+        {
+          "truncId": 233,
+          "machineCode": "【【233】】",
+          "noun": "paramètres",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "batchId": 12,
+      "totalTruncations": 276,
+      "totalDrifts": 13,
+      "mediumCount": 0,
+      "lowCount": 13,
+      "firstDrift": {
+        "truncId": 84,
+        "machineCode": "【【84】】",
+        "noun": "dernière",
+        "confidence": "low",
+        "promptCharPosition": 2887,
+        "promptCharPositionRatio": "32.8%"
+      },
+      "allDrifts": [
+        {
+          "truncId": 84,
+          "machineCode": "【【84】】",
+          "noun": "dernière",
+          "confidence": "low"
+        },
+        {
+          "truncId": 84,
+          "machineCode": "【【84】】",
+          "noun": "contrainte",
+          "confidence": "low"
+        },
+        {
+          "truncId": 87,
+          "machineCode": "【【87】】",
+          "noun": "intrinseque",
+          "confidence": "low"
+        },
+        {
+          "truncId": 88,
+          "machineCode": "【【88】】",
+          "noun": "structurele",
+          "confidence": "low"
+        },
+        {
+          "truncId": 88,
+          "machineCode": "【【88】】",
+          "noun": "systemique",
+          "confidence": "low"
+        },
+        {
+          "truncId": 89,
+          "machineCode": "【【89】】",
+          "noun": "II",
+          "confidence": "low"
+        },
+        {
+          "truncId": 91,
+          "machineCode": "【【91】】",
+          "noun": "ontologique",
+          "confidence": "low"
+        },
+        {
+          "truncId": 116,
+          "machineCode": "【【116】】",
+          "noun": "registre",
+          "confidence": "low"
+        },
+        {
+          "truncId": 118,
+          "machineCode": "【【118】】",
+          "noun": "stoïcienne",
+          "confidence": "low"
+        },
+        {
+          "truncId": 184,
+          "machineCode": "【【184】】",
+          "noun": "manifeste",
+          "confidence": "low"
+        },
+        {
+          "truncId": 189,
+          "machineCode": "【【189】】",
+          "noun": "trait",
+          "confidence": "low"
+        },
+        {
+          "truncId": 254,
+          "machineCode": "【【254】】",
+          "noun": "abstraits",
+          "confidence": "low"
+        },
+        {
+          "truncId": 268,
+          "machineCode": "【【268】】",
+          "noun": "capitalistiques",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "batchId": 15,
+      "totalTruncations": 286,
+      "totalDrifts": 8,
+      "mediumCount": 2,
+      "lowCount": 6,
+      "firstDrift": {
+        "truncId": 25,
+        "machineCode": "【【25】】",
+        "noun": "mémoiresés",
+        "confidence": "low",
+        "promptCharPosition": 868,
+        "promptCharPositionRatio": "9.9%"
+      },
+      "allDrifts": [
+        {
+          "truncId": 25,
+          "machineCode": "【【25】】",
+          "noun": "mémoiresés",
+          "confidence": "low"
+        },
+        {
+          "truncId": 67,
+          "machineCode": "【【67】】",
+          "noun": "autre",
+          "confidence": "low"
+        },
+        {
+          "truncId": 67,
+          "machineCode": "【【67】】",
+          "noun": "autre",
+          "confidence": "low"
+        },
+        {
+          "truncId": 90,
+          "machineCode": "【【90】】",
+          "noun": "continue",
+          "confidence": "low"
+        },
+        {
+          "truncId": 148,
+          "machineCode": "【【148】】",
+          "noun": "toutes",
+          "confidence": "low"
+        },
+        {
+          "truncId": 154,
+          "machineCode": "【【154】】",
+          "noun": "machinique",
+          "confidence": "medium"
+        },
+        {
+          "truncId": 181,
+          "machineCode": "【【181】】",
+          "noun": "ontologique",
+          "confidence": "low"
+        },
+        {
+          "truncId": 181,
+          "machineCode": "【【181】】",
+          "noun": "ontologiques",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "batchId": 16,
+      "totalTruncations": 273,
+      "totalDrifts": 4,
+      "mediumCount": 1,
+      "lowCount": 3,
+      "firstDrift": {
+        "truncId": 8,
+        "machineCode": "【【8】】",
+        "noun": "énergétique",
+        "confidence": "low",
+        "promptCharPosition": 400,
+        "promptCharPositionRatio": "4.6%"
+      },
+      "allDrifts": [
+        {
+          "truncId": 8,
+          "machineCode": "【【8】】",
+          "noun": "énergétique",
+          "confidence": "low"
+        },
+        {
+          "truncId": 13,
+          "machineCode": "【【13】】",
+          "noun": "actif",
+          "confidence": "low"
+        },
+        {
+          "truncId": 14,
+          "machineCode": "【【14】】",
+          "noun": "E.C",
+          "confidence": "low"
+        },
+        {
+          "truncId": 231,
+          "machineCode": "【【231】】",
+          "noun": "dis",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "batchId": 17,
+      "totalTruncations": 263,
+      "totalDrifts": 31,
+      "mediumCount": 10,
+      "lowCount": 21,
+      "firstDrift": {
+        "truncId": 106,
+        "machineCode": "【【106】】",
+        "noun": "mathematique",
+        "confidence": "medium",
+        "promptCharPosition": 3602,
+        "promptCharPositionRatio": "41.0%"
+      },
+      "allDrifts": [
+        {
+          "truncId": 106,
+          "machineCode": "【【106】】",
+          "noun": "mathematique",
+          "confidence": "medium"
+        },
+        {
+          "truncId": 107,
+          "machineCode": "【【107】】",
+          "noun": "appliquée",
+          "confidence": "medium"
+        },
+        {
+          "truncId": 111,
+          "machineCode": "【【111】】",
+          "noun": "ordinaires",
+          "confidence": "medium"
+        },
+        {
+          "truncId": 112,
+          "machineCode": "【【112】】",
+          "noun": "initial",
+          "confidence": "medium"
+        },
+        {
+          "truncId": 113,
+          "machineCode": "【【113】】",
+          "noun": "terminal",
+          "confidence": "medium"
+        },
+        {
+          "truncId": 114,
+          "machineCode": "【【114】】",
+          "noun": "big",
+          "confidence": "medium"
+        },
+        {
+          "truncId": 153,
+          "machineCode": "【【153】】",
+          "noun": "concrentes",
+          "confidence": "low"
+        },
+        {
+          "truncId": 164,
+          "machineCode": "【【164】】",
+          "noun": "double",
+          "confidence": "low"
+        },
+        {
+          "truncId": 173,
+          "machineCode": "【【173】】",
+          "noun": "serrure",
+          "confidence": "medium"
+        },
+        {
+          "truncId": 195,
+          "machineCode": "【【195】】",
+          "noun": "Figure",
+          "confidence": "low"
+        },
+        {
+          "truncId": 199,
+          "machineCode": "【【199】】",
+          "noun": "concrete",
+          "confidence": "medium"
+        },
+        {
+          "truncId": 216,
+          "machineCode": "【【216】】",
+          "noun": "existentiels",
+          "confidence": "low"
+        },
+        {
+          "truncId": 221,
+          "machineCode": "【【221】】",
+          "noun": "existentiels",
+          "confidence": "low"
+        },
+        {
+          "truncId": 228,
+          "machineCode": "【【228】】",
+          "noun": "abstraites",
+          "confidence": "low"
+        },
+        {
+          "truncId": 229,
+          "machineCode": "【【229】】",
+          "noun": "existentiels",
+          "confidence": "low"
+        },
+        {
+          "truncId": 231,
+          "machineCode": "【【231】】",
+          "noun": "existentiels",
+          "confidence": "low"
+        },
+        {
+          "truncId": 238,
+          "machineCode": "【【238】】",
+          "noun": "signalétiques",
+          "confidence": "medium"
+        },
+        {
+          "truncId": 240,
+          "machineCode": "【【240】】",
+          "noun": "relative",
+          "confidence": "low"
+        },
+        {
+          "truncId": 242,
+          "machineCode": "【【242】】",
+          "noun": "F+F",
+          "confidence": "medium"
+        },
+        {
+          "truncId": 243,
+          "machineCode": "【【243】】",
+          "noun": "connue",
+          "confidence": "low"
+        },
+        {
+          "truncId": 243,
+          "machineCode": "【【243】】",
+          "noun": "maxime",
+          "confidence": "low"
+        },
+        {
+          "truncId": 246,
+          "machineCode": "【【246】】",
+          "noun": "relative",
+          "confidence": "low"
+        },
+        {
+          "truncId": 246,
+          "machineCode": "【【246】】",
+          "noun": "reproductible",
+          "confidence": "low"
+        },
+        {
+          "truncId": 246,
+          "machineCode": "【【246】】",
+          "noun": "reproductible",
+          "confidence": "low"
+        },
+        {
+          "truncId": 246,
+          "machineCode": "【【246】】",
+          "noun": "reproductibles",
+          "confidence": "low"
+        },
+        {
+          "truncId": 246,
+          "machineCode": "【【246】】",
+          "noun": "reproductibles",
+          "confidence": "low"
+        },
+        {
+          "truncId": 249,
+          "machineCode": "【【249】】",
+          "noun": "evolutives",
+          "confidence": "low"
+        },
+        {
+          "truncId": 250,
+          "machineCode": "【【250】】",
+          "noun": "absolue",
+          "confidence": "low"
+        },
+        {
+          "truncId": 250,
+          "machineCode": "【【250】】",
+          "noun": "solipsise",
+          "confidence": "low"
+        },
+        {
+          "truncId": 251,
+          "machineCode": "【【251】】",
+          "noun": "relative",
+          "confidence": "low"
+        },
+        {
+          "truncId": 251,
+          "machineCode": "【【251】】",
+          "noun": "reproductible",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "batchId": 18,
+      "totalTruncations": 269,
+      "totalDrifts": 31,
+      "mediumCount": 3,
+      "lowCount": 28,
+      "firstDrift": {
+        "truncId": 48,
+        "machineCode": "【【48】】",
+        "noun": "discursive",
+        "confidence": "low",
+        "promptCharPosition": 1616,
+        "promptCharPositionRatio": "18.3%"
+      },
+      "allDrifts": [
+        {
+          "truncId": 48,
+          "machineCode": "【【48】】",
+          "noun": "discursive",
+          "confidence": "low"
+        },
+        {
+          "truncId": 69,
+          "machineCode": "【【69】】",
+          "noun": "brutele",
+          "confidence": "low"
+        },
+        {
+          "truncId": 76,
+          "machineCode": "【【76】】",
+          "noun": "extensite",
+          "confidence": "medium"
+        },
+        {
+          "truncId": 78,
+          "machineCode": "【【78】】",
+          "noun": "SENSIBLE",
+          "confidence": "medium"
+        },
+        {
+          "truncId": 80,
+          "machineCode": "【【80】】",
+          "noun": "ordinationModule",
+          "confidence": "medium"
+        },
+        {
+          "truncId": 81,
+          "machineCode": "【【81】】",
+          "noun": "intracitation",
+          "confidence": "low"
+        },
+        {
+          "truncId": 82,
+          "machineCode": "【【82】】",
+          "noun": "Ex-ordinationmachines",
+          "confidence": "low"
+        },
+        {
+          "truncId": 91,
+          "machineCode": "【【91】】",
+          "noun": "cannément",
+          "confidence": "low"
+        },
+        {
+          "truncId": 91,
+          "machineCode": "【【91】】",
+          "noun": "procédent",
+          "confidence": "low"
+        },
+        {
+          "truncId": 91,
+          "machineCode": "【【91】】",
+          "noun": "relatif",
+          "confidence": "low"
+        },
+        {
+          "truncId": 93,
+          "machineCode": "【【93】】",
+          "noun": "quant",
+          "confidence": "low"
+        },
+        {
+          "truncId": 94,
+          "machineCode": "【【94】】",
+          "noun": "discursibles",
+          "confidence": "low"
+        },
+        {
+          "truncId": 95,
+          "machineCode": "【【95】】",
+          "noun": "opérationnels",
+          "confidence": "low"
+        },
+        {
+          "truncId": 96,
+          "machineCode": "【【96】】",
+          "noun": "organisées",
+          "confidence": "low"
+        },
+        {
+          "truncId": 97,
+          "machineCode": "【【97】】",
+          "noun": "spécifiques",
+          "confidence": "low"
+        },
+        {
+          "truncId": 98,
+          "machineCode": "【【98】】",
+          "noun": "spatio-temperole",
+          "confidence": "low"
+        },
+        {
+          "truncId": 100,
+          "machineCode": "【【100】】",
+          "noun": "terminal",
+          "confidence": "low"
+        },
+        {
+          "truncId": 104,
+          "machineCode": "【【104】】",
+          "noun": "virtuels",
+          "confidence": "low"
+        },
+        {
+          "truncId": 122,
+          "machineCode": "【【122】】",
+          "noun": "deterritorialisation",
+          "confidence": "low"
+        },
+        {
+          "truncId": 122,
+          "machineCode": "【【122】】",
+          "noun": "proportionnel",
+          "confidence": "low"
+        },
+        {
+          "truncId": 123,
+          "machineCode": "【【123】】",
+          "noun": "machinique",
+          "confidence": "low"
+        },
+        {
+          "truncId": 123,
+          "machineCode": "【【123】】",
+          "noun": "machiniques",
+          "confidence": "low"
+        },
+        {
+          "truncId": 123,
+          "machineCode": "【【123】】",
+          "noun": "moléaires",
+          "confidence": "low"
+        },
+        {
+          "truncId": 127,
+          "machineCode": "【【127】】",
+          "noun": "nécessaires",
+          "confidence": "low"
+        },
+        {
+          "truncId": 130,
+          "machineCode": "【【130】】",
+          "noun": "suffisant",
+          "confidence": "low"
+        },
+        {
+          "truncId": 133,
+          "machineCode": "【【133】】",
+          "noun": "domestique",
+          "confidence": "low"
+        },
+        {
+          "truncId": 135,
+          "machineCode": "【【135】】",
+          "noun": "quelque",
+          "confidence": "low"
+        },
+        {
+          "truncId": 165,
+          "machineCode": "【【165】】",
+          "noun": "stratifiées",
+          "confidence": "low"
+        },
+        {
+          "truncId": 170,
+          "machineCode": "【【170】】",
+          "noun": "entro",
+          "confidence": "low"
+        },
+        {
+          "truncId": 197,
+          "machineCode": "【【197】】",
+          "noun": "trop",
+          "confidence": "low"
+        },
+        {
+          "truncId": 197,
+          "machineCode": "【【197】】",
+          "noun": "entropiques",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "batchId": 19,
+      "totalTruncations": 275,
+      "totalDrifts": 48,
+      "mediumCount": 33,
+      "lowCount": 15,
+      "firstDrift": {
+        "truncId": 33,
+        "machineCode": "【【33】】",
+        "noun": "d'un",
+        "confidence": "low",
+        "promptCharPosition": 1276,
+        "promptCharPositionRatio": "14.5%"
+      },
+      "allDrifts": [
+        {
+          "truncId": 33,
+          "machineCode": "【【33】】",
+          "noun": "d'un",
+          "confidence": "low"
+        },
+        {
+          "truncId": 33,
+          "machineCode": "【【33】】",
+          "noun": "d'un",
+          "confidence": "low"
+        },
+        {
+          "truncId": 33,
+          "machineCode": "【【33】】",
+          "noun": "d'un",
+          "confidence": "low"
+        },
+        {
+          "truncId": 40,
+          "machineCode": "【【40】】",
+          "noun": "chaos",
+          "confidence": "low"
+        },
+        {
+          "truncId": 40,
+          "machineCode": "【【40】】",
+          "noun": "sustant",
+          "confidence": "low"
+        },
+        {
+          "truncId": 122,
+          "machineCode": "【【122】】",
+          "noun": "passive",
+          "confidence": "medium"
+        },
+        {
+          "truncId": 126,
+          "machineCode": "【【126】】",
+          "noun": "ambiante",
+          "confidence": "medium"
+        },
+        {
+          "truncId": 128,
+          "machineCode": "【【128】】",
+          "noun": "carbonique",
+          "confidence": "low"
+        },
+        {
+          "truncId": 132,
+          "machineCode": "【【132】】",
+          "noun": "molécule",
+          "confidence": "medium"
+        },
+        {
+          "truncId": 134,
+          "machineCode": "【【134】】",
+          "noun": "*reconnaitant*",
+          "confidence": "medium"
+        },
+        {
+          "truncId": 135,
+          "machineCode": "【【135】】",
+          "noun": "d'autres",
+          "confidence": "medium"
+        },
+        {
+          "truncId": 139,
+          "machineCode": "【【139】】",
+          "noun": "double",
+          "confidence": "medium"
+        },
+        {
+          "truncId": 180,
+          "machineCode": "【【180】】",
+          "noun": "toutes",
+          "confidence": "low"
+        },
+        {
+          "truncId": 185,
+          "machineCode": "【【185】】",
+          "noun": "extrinsque",
+          "confidence": "low"
+        },
+        {
+          "truncId": 185,
+          "machineCode": "【【185】】",
+          "noun": "causale",
+          "confidence": "low"
+        },
+        {
+          "truncId": 186,
+          "machineCode": "【【186】】",
+          "noun": "intrinsque",
+          "confidence": "medium"
+        },
+        {
+          "truncId": 187,
+          "machineCode": "【【187】】",
+          "noun": "généralisés",
+          "confidence": "medium"
+        },
+        {
+          "truncId": 190,
+          "machineCode": "【【190】】",
+          "noun": "infinies",
+          "confidence": "medium"
+        },
+        {
+          "truncId": 192,
+          "machineCode": "【【192】】",
+          "noun": "récursif",
+          "confidence": "medium"
+        },
+        {
+          "truncId": 206,
+          "machineCode": "【【206】】",
+          "noun": "primitive",
+          "confidence": "medium"
+        },
+        {
+          "truncId": 216,
+          "machineCode": "【【216】】",
+          "noun": "immanentes",
+          "confidence": "medium"
+        },
+        {
+          "truncId": 219,
+          "machineCode": "【【219】】",
+          "noun": "distinctes",
+          "confidence": "medium"
+        },
+        {
+          "truncId": 220,
+          "machineCode": "【【220】】",
+          "noun": "systémique",
+          "confidence": "medium"
+        },
+        {
+          "truncId": 223,
+          "machineCode": "【【223】】",
+          "noun": "von",
+          "confidence": "medium"
+        },
+        {
+          "truncId": 228,
+          "machineCode": "【【228】】",
+          "noun": "travissant",
+          "confidence": "low"
+        },
+        {
+          "truncId": 230,
+          "machineCode": "【【230】】",
+          "noun": "dialectables",
+          "confidence": "low"
+        },
+        {
+          "truncId": 234,
+          "machineCode": "【【234】】",
+          "noun": "discursives",
+          "confidence": "medium"
+        },
+        {
+          "truncId": 237,
+          "machineCode": "【【237】】",
+          "noun": "«acroche",
+          "confidence": "medium"
+        },
+        {
+          "truncId": 239,
+          "machineCode": "【【239】】",
+          "noun": "continue",
+          "confidence": "medium"
+        },
+        {
+          "truncId": 241,
+          "machineCode": "【【241】】",
+          "noun": "décrites",
+          "confidence": "medium"
+        },
+        {
+          "truncId": 241,
+          "machineCode": "【【241】】",
+          "noun": "précédemment",
+          "confidence": "medium"
+        },
+        {
+          "truncId": 245,
+          "machineCode": "【【245】】",
+          "noun": "recharger",
+          "confidence": "low"
+        },
+        {
+          "truncId": 246,
+          "machineCode": "【【246】】",
+          "noun": "considérés",
+          "confidence": "low"
+        },
+        {
+          "truncId": 248,
+          "machineCode": "【【248】】",
+          "noun": "s'operent",
+          "confidence": "medium"
+        },
+        {
+          "truncId": 249,
+          "machineCode": "【【249】】",
+          "noun": "entitiaires",
+          "confidence": "medium"
+        },
+        {
+          "truncId": 250,
+          "machineCode": "【【250】】",
+          "noun": "cela",
+          "confidence": "low"
+        },
+        {
+          "truncId": 250,
+          "machineCode": "【【250】】",
+          "noun": "perde",
+          "confidence": "medium"
+        },
+        {
+          "truncId": 251,
+          "machineCode": "【【251】】",
+          "noun": "constamment",
+          "confidence": "medium"
+        },
+        {
+          "truncId": 251,
+          "machineCode": "【【251】】",
+          "noun": "s'enveloppen",
+          "confidence": "medium"
+        },
+        {
+          "truncId": 252,
+          "machineCode": "【【252】】",
+          "noun": "autres",
+          "confidence": "medium"
+        },
+        {
+          "truncId": 252,
+          "machineCode": "【【252】】",
+          "noun": "telle",
+          "confidence": "medium"
+        },
+        {
+          "truncId": 257,
+          "machineCode": "【【257】】",
+          "noun": "gestalistes",
+          "confidence": "medium"
+        },
+        {
+          "truncId": 258,
+          "machineCode": "【【258】】",
+          "noun": "mnémotechniques",
+          "confidence": "medium"
+        },
+        {
+          "truncId": 260,
+          "machineCode": "【【260】】",
+          "noun": "cognitives",
+          "confidence": "low"
+        },
+        {
+          "truncId": 264,
+          "machineCode": "【【264】】",
+          "noun": "stochastiques",
+          "confidence": "medium"
+        },
+        {
+          "truncId": 270,
+          "machineCode": "【【270】】",
+          "noun": "déterritorialisations",
+          "confidence": "medium"
+        },
+        {
+          "truncId": 273,
+          "machineCode": "【【273】】",
+          "noun": "nouveau",
+          "confidence": "medium"
+        },
+        {
+          "truncId": 273,
+          "machineCode": "【【273】】",
+          "noun": "*simpose",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "batchId": 21,
+      "totalTruncations": 261,
+      "totalDrifts": 53,
+      "mediumCount": 13,
+      "lowCount": 40,
+      "firstDrift": {
+        "truncId": 143,
+        "machineCode": "【【143】】",
+        "noun": "fini",
+        "confidence": "low",
+        "promptCharPosition": 4905,
+        "promptCharPositionRatio": "55.8%"
+      },
+      "allDrifts": [
+        {
+          "truncId": 143,
+          "machineCode": "【【143】】",
+          "noun": "fini",
+          "confidence": "low"
+        },
+        {
+          "truncId": 146,
+          "machineCode": "【【146】】",
+          "noun": "continues",
+          "confidence": "medium"
+        },
+        {
+          "truncId": 156,
+          "machineCode": "【【156】】",
+          "noun": "fini",
+          "confidence": "medium"
+        },
+        {
+          "truncId": 158,
+          "machineCode": "【【158】】",
+          "noun": "indécidable",
+          "confidence": "low"
+        },
+        {
+          "truncId": 161,
+          "machineCode": "【【161】】",
+          "noun": "passive",
+          "confidence": "low"
+        },
+        {
+          "truncId": 166,
+          "machineCode": "【【166】】",
+          "noun": "active",
+          "confidence": "medium"
+        },
+        {
+          "truncId": 168,
+          "machineCode": "【【168】】",
+          "noun": "mémoire",
+          "confidence": "low"
+        },
+        {
+          "truncId": 168,
+          "machineCode": "【【168】】",
+          "noun": "hôme",
+          "confidence": "low"
+        },
+        {
+          "truncId": 168,
+          "machineCode": "【【168】】",
+          "noun": "jusqu'ài",
+          "confidence": "medium"
+        },
+        {
+          "truncId": 171,
+          "machineCode": "【【171】】",
+          "noun": "quantifiées",
+          "confidence": "low"
+        },
+        {
+          "truncId": 171,
+          "machineCode": "【【171】】",
+          "noun": "schématiquement",
+          "confidence": "low"
+        },
+        {
+          "truncId": 182,
+          "machineCode": "【【182】】",
+          "noun": "possible",
+          "confidence": "medium"
+        },
+        {
+          "truncId": 183,
+          "machineCode": "【【183】】",
+          "noun": "digitalisés",
+          "confidence": "medium"
+        },
+        {
+          "truncId": 184,
+          "machineCode": "【【184】】",
+          "noun": "toutes",
+          "confidence": "medium"
+        },
+        {
+          "truncId": 184,
+          "machineCode": "【【184】】",
+          "noun": "eux",
+          "confidence": "medium"
+        },
+        {
+          "truncId": 184,
+          "machineCode": "【【184】】",
+          "noun": "toute",
+          "confidence": "low"
+        },
+        {
+          "truncId": 185,
+          "machineCode": "【【185】】",
+          "noun": "incapable",
+          "confidence": "medium"
+        },
+        {
+          "truncId": 189,
+          "machineCode": "【【189】】",
+          "noun": "fig",
+          "confidence": "medium"
+        },
+        {
+          "truncId": 196,
+          "machineCode": "【【196】】",
+          "noun": "territorialisée",
+          "confidence": "medium"
+        },
+        {
+          "truncId": 197,
+          "machineCode": "【【197】】",
+          "noun": "virtuelles",
+          "confidence": "low"
+        },
+        {
+          "truncId": 198,
+          "machineCode": "【【198】】",
+          "noun": "fig",
+          "confidence": "medium"
+        },
+        {
+          "truncId": 203,
+          "machineCode": "【【203】】",
+          "noun": "possible",
+          "confidence": "medium"
+        },
+        {
+          "truncId": 204,
+          "machineCode": "【【204】】",
+          "noun": "*pref-possible*",
+          "confidence": "low"
+        },
+        {
+          "truncId": 205,
+          "machineCode": "【【205】】",
+          "noun": "muette",
+          "confidence": "low"
+        },
+        {
+          "truncId": 218,
+          "machineCode": "【【218】】",
+          "noun": "discontinue",
+          "confidence": "low"
+        },
+        {
+          "truncId": 220,
+          "machineCode": "【【220】】",
+          "noun": "continues",
+          "confidence": "low"
+        },
+        {
+          "truncId": 220,
+          "machineCode": "【【220】】",
+          "noun": "transfrais",
+          "confidence": "low"
+        },
+        {
+          "truncId": 224,
+          "machineCode": "【【224】】",
+          "noun": "infiniment",
+          "confidence": "low"
+        },
+        {
+          "truncId": 224,
+          "machineCode": "【【224】】",
+          "noun": "lentes",
+          "confidence": "low"
+        },
+        {
+          "truncId": 225,
+          "machineCode": "【【225】】",
+          "noun": "infiniment",
+          "confidence": "low"
+        },
+        {
+          "truncId": 225,
+          "machineCode": "【【225】】",
+          "noun": "rapides",
+          "confidence": "low"
+        },
+        {
+          "truncId": 230,
+          "machineCode": "【【230】】",
+          "noun": "qu'il",
+          "confidence": "low"
+        },
+        {
+          "truncId": 230,
+          "machineCode": "【【230】】",
+          "noun": "généraux",
+          "confidence": "low"
+        },
+        {
+          "truncId": 235,
+          "machineCode": "【【235】】",
+          "noun": "chargée",
+          "confidence": "low"
+        },
+        {
+          "truncId": 237,
+          "machineCode": "【【237】】",
+          "noun": "proto-génétiques",
+          "confidence": "low"
+        },
+        {
+          "truncId": 238,
+          "machineCode": "【【238】】",
+          "noun": "possible",
+          "confidence": "low"
+        },
+        {
+          "truncId": 241,
+          "machineCode": "【【241】】",
+          "noun": "permanente",
+          "confidence": "low"
+        },
+        {
+          "truncId": 242,
+          "machineCode": "【【242】】",
+          "noun": "venir",
+          "confidence": "low"
+        },
+        {
+          "truncId": 245,
+          "machineCode": "【【245】】",
+          "noun": "possible",
+          "confidence": "low"
+        },
+        {
+          "truncId": 245,
+          "machineCode": "【【245】】",
+          "noun": "d'un",
+          "confidence": "low"
+        },
+        {
+          "truncId": 245,
+          "machineCode": "【【245】】",
+          "noun": "venir",
+          "confidence": "low"
+        },
+        {
+          "truncId": 245,
+          "machineCode": "【【245】】",
+          "noun": "l'ad-venir",
+          "confidence": "low"
+        },
+        {
+          "truncId": 249,
+          "machineCode": "【【249】】",
+          "noun": "générées",
+          "confidence": "low"
+        },
+        {
+          "truncId": 250,
+          "machineCode": "【【250】】",
+          "noun": "nécessairement",
+          "confidence": "low"
+        },
+        {
+          "truncId": 251,
+          "machineCode": "【【251】】",
+          "noun": "a-sinifiantes",
+          "confidence": "low"
+        },
+        {
+          "truncId": 252,
+          "machineCode": "【【252】】",
+          "noun": "aléatoire",
+          "confidence": "low"
+        },
+        {
+          "truncId": 252,
+          "machineCode": "【【252】】",
+          "noun": "stochastique",
+          "confidence": "low"
+        },
+        {
+          "truncId": 254,
+          "machineCode": "【【254】】",
+          "noun": "attestée",
+          "confidence": "low"
+        },
+        {
+          "truncId": 255,
+          "machineCode": "【【255】】",
+          "noun": "possible",
+          "confidence": "low"
+        },
+        {
+          "truncId": 255,
+          "machineCode": "【【255】】",
+          "noun": "avant",
+          "confidence": "low"
+        },
+        {
+          "truncId": 255,
+          "machineCode": "【【255】】",
+          "noun": "possibles",
+          "confidence": "low"
+        },
+        {
+          "truncId": 256,
+          "machineCode": "【【256】】",
+          "noun": "au-delà",
+          "confidence": "low"
+        },
+        {
+          "truncId": 257,
+          "machineCode": "【【257】】",
+          "noun": "actuelles",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "batchId": 23,
+      "totalTruncations": 254,
+      "totalDrifts": 1,
+      "mediumCount": 1,
+      "lowCount": 0,
+      "firstDrift": {
+        "truncId": 23,
+        "machineCode": "【【23】】",
+        "noun": "plis",
+        "confidence": "medium",
+        "promptCharPosition": 888,
+        "promptCharPositionRatio": "10.1%"
+      },
+      "allDrifts": [
+        {
+          "truncId": 23,
+          "machineCode": "【【23】】",
+          "noun": "plis",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "batchId": 24,
+      "totalTruncations": 249,
+      "totalDrifts": 7,
+      "mediumCount": 1,
+      "lowCount": 6,
+      "firstDrift": {
+        "truncId": 52,
+        "machineCode": "【【52】】",
+        "noun": "chaines",
+        "confidence": "low",
+        "promptCharPosition": 2145,
+        "promptCharPositionRatio": "24.4%"
+      },
+      "allDrifts": [
+        {
+          "truncId": 52,
+          "machineCode": "【【52】】",
+          "noun": "chaines",
+          "confidence": "low"
+        },
+        {
+          "truncId": 185,
+          "machineCode": "【【185】】",
+          "noun": "existentielle",
+          "confidence": "low"
+        },
+        {
+          "truncId": 186,
+          "machineCode": "【【186】】",
+          "noun": "expressive",
+          "confidence": "low"
+        },
+        {
+          "truncId": 193,
+          "machineCode": "【【193】】",
+          "noun": "existentielle",
+          "confidence": "low"
+        },
+        {
+          "truncId": 210,
+          "machineCode": "【【210】】",
+          "noun": "registre",
+          "confidence": "medium"
+        },
+        {
+          "truncId": 225,
+          "machineCode": "【【225】】",
+          "noun": "modulaires",
+          "confidence": "low"
+        },
+        {
+          "truncId": 237,
+          "machineCode": "【【237】】",
+          "noun": "expressive",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "batchId": 25,
+      "totalTruncations": 264,
+      "totalDrifts": 33,
+      "mediumCount": 10,
+      "lowCount": 23,
+      "firstDrift": {
+        "truncId": 99,
+        "machineCode": "【【99】】",
+        "noun": "fondement",
+        "confidence": "medium",
+        "promptCharPosition": 3230,
+        "promptCharPositionRatio": "36.6%"
+      },
+      "allDrifts": [
+        {
+          "truncId": 99,
+          "machineCode": "【【99】】",
+          "noun": "fondement",
+          "confidence": "medium"
+        },
+        {
+          "truncId": 99,
+          "machineCode": "【【99】】",
+          "noun": "héterogénes",
+          "confidence": "medium"
+        },
+        {
+          "truncId": 103,
+          "machineCode": "【【103】】",
+          "noun": "structuraliste",
+          "confidence": "medium"
+        },
+        {
+          "truncId": 103,
+          "machineCode": "【【103】】",
+          "noun": "trop",
+          "confidence": "medium"
+        },
+        {
+          "truncId": 104,
+          "machineCode": "【【104】】",
+          "noun": "partiels",
+          "confidence": "medium"
+        },
+        {
+          "truncId": 105,
+          "machineCode": "【【105】】",
+          "noun": "fractalis",
+          "confidence": "medium"
+        },
+        {
+          "truncId": 107,
+          "machineCode": "【【107】】",
+          "noun": "institutionnels",
+          "confidence": "medium"
+        },
+        {
+          "truncId": 110,
+          "machineCode": "【【110】】",
+          "noun": "étatique",
+          "confidence": "medium"
+        },
+        {
+          "truncId": 112,
+          "machineCode": "【【112】】",
+          "noun": "baroquer",
+          "confidence": "medium"
+        },
+        {
+          "truncId": 112,
+          "machineCode": "【【112】】",
+          "noun": "Prendre",
+          "confidence": "medium"
+        },
+        {
+          "truncId": 114,
+          "machineCode": "【【114】】",
+          "noun": "normal",
+          "confidence": "low"
+        },
+        {
+          "truncId": 117,
+          "machineCode": "【【117】】",
+          "noun": "paradigmatiques",
+          "confidence": "low"
+        },
+        {
+          "truncId": 117,
+          "machineCode": "【【117】】",
+          "noun": "amarres",
+          "confidence": "low"
+        },
+        {
+          "truncId": 127,
+          "machineCode": "【【127】】",
+          "noun": "perdu",
+          "confidence": "low"
+        },
+        {
+          "truncId": 139,
+          "machineCode": "【【139】】",
+          "noun": "deux",
+          "confidence": "low"
+        },
+        {
+          "truncId": 140,
+          "machineCode": "【【140】】",
+          "noun": "propres",
+          "confidence": "low"
+        },
+        {
+          "truncId": 144,
+          "machineCode": "【【144】】",
+          "noun": "monothése-capitalistique",
+          "confidence": "low"
+        },
+        {
+          "truncId": 156,
+          "machineCode": "【【156】】",
+          "noun": "coordonnées",
+          "confidence": "low"
+        },
+        {
+          "truncId": 156,
+          "machineCode": "【【156】】",
+          "noun": "temporelles",
+          "confidence": "low"
+        },
+        {
+          "truncId": 166,
+          "machineCode": "【【166】】",
+          "noun": "possiblistes",
+          "confidence": "low"
+        },
+        {
+          "truncId": 170,
+          "machineCode": "【【170】】",
+          "noun": "séparative",
+          "confidence": "low"
+        },
+        {
+          "truncId": 172,
+          "machineCode": "【【172】】",
+          "noun": "agregative",
+          "confidence": "low"
+        },
+        {
+          "truncId": 173,
+          "machineCode": "【【173】】",
+          "noun": "spéciques",
+          "confidence": "low"
+        },
+        {
+          "truncId": 178,
+          "machineCode": "【【178】】",
+          "noun": "radical",
+          "confidence": "low"
+        },
+        {
+          "truncId": 180,
+          "machineCode": "【【180】】",
+          "noun": "synchroniques",
+          "confidence": "low"
+        },
+        {
+          "truncId": 180,
+          "machineCode": "【【180】】",
+          "noun": "homothétiques",
+          "confidence": "low"
+        },
+        {
+          "truncId": 187,
+          "machineCode": "【【187】】",
+          "noun": "autres",
+          "confidence": "low"
+        },
+        {
+          "truncId": 193,
+          "machineCode": "【【193】】",
+          "noun": "infini",
+          "confidence": "low"
+        },
+        {
+          "truncId": 196,
+          "machineCode": "【【196】】",
+          "noun": "chaosmous",
+          "confidence": "low"
+        },
+        {
+          "truncId": 237,
+          "machineCode": "【【237】】",
+          "noun": "fractal",
+          "confidence": "low"
+        },
+        {
+          "truncId": 243,
+          "machineCode": "【【243】】",
+          "noun": "migrate",
+          "confidence": "low"
+        },
+        {
+          "truncId": 244,
+          "machineCode": "【【244】】",
+          "noun": "échelont",
+          "confidence": "low"
+        },
+        {
+          "truncId": 249,
+          "machineCode": "【【249】】",
+          "noun": "actualisée",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "batchId": 27,
+      "totalTruncations": 261,
+      "totalDrifts": 2,
+      "mediumCount": 1,
+      "lowCount": 1,
+      "firstDrift": {
+        "truncId": 7,
+        "machineCode": "【【7】】",
+        "noun": "incorporels",
+        "confidence": "medium",
+        "promptCharPosition": 477,
+        "promptCharPositionRatio": "5.4%"
+      },
+      "allDrifts": [
+        {
+          "truncId": 7,
+          "machineCode": "【【7】】",
+          "noun": "incorporels",
+          "confidence": "medium"
+        },
+        {
+          "truncId": 9,
+          "machineCode": "【【9】】",
+          "noun": "essentielle",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "batchId": 30,
+      "totalTruncations": 261,
+      "totalDrifts": 3,
+      "mediumCount": 0,
+      "lowCount": 3,
+      "firstDrift": {
+        "truncId": 50,
+        "machineCode": "【【50】】",
+        "noun": "ultime",
+        "confidence": "low",
+        "promptCharPosition": 1705,
+        "promptCharPositionRatio": "19.3%"
+      },
+      "allDrifts": [
+        {
+          "truncId": 50,
+          "machineCode": "【【50】】",
+          "noun": "ultime",
+          "confidence": "low"
+        },
+        {
+          "truncId": 81,
+          "machineCode": "【【81】】",
+          "noun": "mouléculaire",
+          "confidence": "low"
+        },
+        {
+          "truncId": 136,
+          "machineCode": "【【136】】",
+          "noun": "autres",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "batchId": 31,
+      "totalTruncations": 256,
+      "totalDrifts": 2,
+      "mediumCount": 0,
+      "lowCount": 2,
+      "firstDrift": {
+        "truncId": 24,
+        "machineCode": "【【24】】",
+        "noun": "divers",
+        "confidence": "low",
+        "promptCharPosition": 858,
+        "promptCharPositionRatio": "9.8%"
+      },
+      "allDrifts": [
+        {
+          "truncId": 24,
+          "machineCode": "【【24】】",
+          "noun": "divers",
+          "confidence": "low"
+        },
+        {
+          "truncId": 24,
+          "machineCode": "【【24】】",
+          "noun": "ustensiles",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "batchId": 34,
+      "totalTruncations": 250,
+      "totalDrifts": 1,
+      "mediumCount": 0,
+      "lowCount": 1,
+      "firstDrift": {
+        "truncId": 180,
+        "machineCode": "【【180】】",
+        "noun": "corréat",
+        "confidence": "low",
+        "promptCharPosition": 6217,
+        "promptCharPositionRatio": "70.4%"
+      },
+      "allDrifts": [
+        {
+          "truncId": 180,
+          "machineCode": "【【180】】",
+          "noun": "corréat",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "batchId": 35,
+      "totalTruncations": 259,
+      "totalDrifts": 73,
+      "mediumCount": 5,
+      "lowCount": 68,
+      "firstDrift": {
+        "truncId": 56,
+        "machineCode": "【【56】】",
+        "noun": "percutant",
+        "confidence": "medium",
+        "promptCharPosition": 1821,
+        "promptCharPositionRatio": "20.6%"
+      },
+      "allDrifts": [
+        {
+          "truncId": 56,
+          "machineCode": "【【56】】",
+          "noun": "percutant",
+          "confidence": "medium"
+        },
+        {
+          "truncId": 65,
+          "machineCode": "【【65】】",
+          "noun": "certaines",
+          "confidence": "low"
+        },
+        {
+          "truncId": 106,
+          "machineCode": "【【106】】",
+          "noun": "pouvoir",
+          "confidence": "medium"
+        },
+        {
+          "truncId": 107,
+          "machineCode": "【【107】】",
+          "noun": "économiques",
+          "confidence": "low"
+        },
+        {
+          "truncId": 107,
+          "machineCode": "【【107】】",
+          "noun": "institutionnelles",
+          "confidence": "low"
+        },
+        {
+          "truncId": 107,
+          "machineCode": "【【107】】",
+          "noun": "mythographiques",
+          "confidence": "low"
+        },
+        {
+          "truncId": 110,
+          "machineCode": "【【110】】",
+          "noun": "normal",
+          "confidence": "medium"
+        },
+        {
+          "truncId": 111,
+          "machineCode": "【【111】】",
+          "noun": "discipinés",
+          "confidence": "low"
+        },
+        {
+          "truncId": 112,
+          "machineCode": "【【112】】",
+          "noun": "généralisée",
+          "confidence": "low"
+        },
+        {
+          "truncId": 115,
+          "machineCode": "【【115】】",
+          "noun": "rététatives",
+          "confidence": "medium"
+        },
+        {
+          "truncId": 116,
+          "machineCode": "【【116】】",
+          "noun": "ayant",
+          "confidence": "low"
+        },
+        {
+          "truncId": 122,
+          "machineCode": "【【122】】",
+          "noun": "invocatoires",
+          "confidence": "low"
+        },
+        {
+          "truncId": 123,
+          "machineCode": "【【123】】",
+          "noun": "*ritournelles",
+          "confidence": "low"
+        },
+        {
+          "truncId": 124,
+          "machineCode": "【【124】】",
+          "noun": "perdu",
+          "confidence": "low"
+        },
+        {
+          "truncId": 126,
+          "machineCode": "【【126】】",
+          "noun": "SENSIBLE",
+          "confidence": "low"
+        },
+        {
+          "truncId": 128,
+          "machineCode": "【【128】】",
+          "noun": "thè",
+          "confidence": "medium"
+        },
+        {
+          "truncId": 129,
+          "machineCode": "【【129】】",
+          "noun": "*petite",
+          "confidence": "low"
+        },
+        {
+          "truncId": 129,
+          "machineCode": "【【129】】",
+          "noun": "phrase*",
+          "confidence": "low"
+        },
+        {
+          "truncId": 130,
+          "machineCode": "【【130】】",
+          "noun": "thè",
+          "confidence": "low"
+        },
+        {
+          "truncId": 136,
+          "machineCode": "【【136】】",
+          "noun": "l'esthétique",
+          "confidence": "low"
+        },
+        {
+          "truncId": 141,
+          "machineCode": "【【141】】",
+          "noun": "existentiels",
+          "confidence": "low"
+        },
+        {
+          "truncId": 142,
+          "machineCode": "【【142】】",
+          "noun": "rien",
+          "confidence": "low"
+        },
+        {
+          "truncId": 143,
+          "machineCode": "【【143】】",
+          "noun": "structuraliste",
+          "confidence": "low"
+        },
+        {
+          "truncId": 144,
+          "machineCode": "【【144】】",
+          "noun": "contingents",
+          "confidence": "low"
+        },
+        {
+          "truncId": 150,
+          "machineCode": "【【150】】",
+          "noun": "formellement",
+          "confidence": "low"
+        },
+        {
+          "truncId": 156,
+          "machineCode": "【【156】】",
+          "noun": "coignit",
+          "confidence": "low"
+        },
+        {
+          "truncId": 157,
+          "machineCode": "【【157】】",
+          "noun": "parfaits",
+          "confidence": "low"
+        },
+        {
+          "truncId": 158,
+          "machineCode": "【【158】】",
+          "noun": "existentiels",
+          "confidence": "low"
+        },
+        {
+          "truncId": 158,
+          "machineCode": "【【158】】",
+          "noun": "hautement",
+          "confidence": "low"
+        },
+        {
+          "truncId": 158,
+          "machineCode": "【【158】】",
+          "noun": "enrichissantes",
+          "confidence": "low"
+        },
+        {
+          "truncId": 167,
+          "machineCode": "【【167】】",
+          "noun": "véritablement",
+          "confidence": "low"
+        },
+        {
+          "truncId": 169,
+          "machineCode": "【【169】】",
+          "noun": "avisés",
+          "confidence": "low"
+        },
+        {
+          "truncId": 169,
+          "machineCode": "【【169】】",
+          "noun": "seraient",
+          "confidence": "low"
+        },
+        {
+          "truncId": 173,
+          "machineCode": "【【173】】",
+          "noun": "qu'ils",
+          "confidence": "low"
+        },
+        {
+          "truncId": 175,
+          "machineCode": "【【175】】",
+          "noun": "s'accroit",
+          "confidence": "low"
+        },
+        {
+          "truncId": 180,
+          "machineCode": "【【180】】",
+          "noun": "abstraits",
+          "confidence": "low"
+        },
+        {
+          "truncId": 191,
+          "machineCode": "【【191】】",
+          "noun": "existentiel",
+          "confidence": "low"
+        },
+        {
+          "truncId": 193,
+          "machineCode": "【【193】】",
+          "noun": "Hjelmsel",
+          "confidence": "low"
+        },
+        {
+          "truncId": 194,
+          "machineCode": "【【194】】",
+          "noun": "souligné",
+          "confidence": "low"
+        },
+        {
+          "truncId": 195,
+          "machineCode": "【【195】】",
+          "noun": "autres",
+          "confidence": "low"
+        },
+        {
+          "truncId": 196,
+          "machineCode": "【【196】】",
+          "noun": "semiotiques",
+          "confidence": "low"
+        },
+        {
+          "truncId": 204,
+          "machineCode": "【【204】】",
+          "noun": "aura",
+          "confidence": "low"
+        },
+        {
+          "truncId": 205,
+          "machineCode": "【【205】】",
+          "noun": "punctum",
+          "confidence": "low"
+        },
+        {
+          "truncId": 207,
+          "machineCode": "【【207】】",
+          "noun": "singularisante",
+          "confidence": "low"
+        },
+        {
+          "truncId": 207,
+          "machineCode": "【【207】】",
+          "noun": "alle",
+          "confidence": "low"
+        },
+        {
+          "truncId": 208,
+          "machineCode": "【【208】】",
+          "noun": "détails",
+          "confidence": "low"
+        },
+        {
+          "truncId": 208,
+          "machineCode": "【【208】】",
+          "noun": "queloquefois",
+          "confidence": "low"
+        },
+        {
+          "truncId": 211,
+          "machineCode": "【【211】】",
+          "noun": "mornes",
+          "confidence": "low"
+        },
+        {
+          "truncId": 214,
+          "machineCode": "【【214】】",
+          "noun": "aura",
+          "confidence": "low"
+        },
+        {
+          "truncId": 225,
+          "machineCode": "【【225】】",
+          "noun": "s'affirme",
+          "confidence": "low"
+        },
+        {
+          "truncId": 230,
+          "machineCode": "【【230】】",
+          "noun": "autres",
+          "confidence": "low"
+        },
+        {
+          "truncId": 230,
+          "machineCode": "【【230】】",
+          "noun": "autre",
+          "confidence": "low"
+        },
+        {
+          "truncId": 232,
+          "machineCode": "【【232】】",
+          "noun": "première",
+          "confidence": "low"
+        },
+        {
+          "truncId": 235,
+          "machineCode": "【【235】】",
+          "noun": "celui-ci",
+          "confidence": "low"
+        },
+        {
+          "truncId": 236,
+          "machineCode": "【【236】】",
+          "noun": "visagièreit",
+          "confidence": "low"
+        },
+        {
+          "truncId": 237,
+          "machineCode": "【【237】】",
+          "noun": "qu'elle",
+          "confidence": "low"
+        },
+        {
+          "truncId": 237,
+          "machineCode": "【【237】】",
+          "noun": "shifter",
+          "confidence": "low"
+        },
+        {
+          "truncId": 238,
+          "machineCode": "【【238】】",
+          "noun": "Changer",
+          "confidence": "low"
+        },
+        {
+          "truncId": 239,
+          "machineCode": "【【239】】",
+          "noun": "superposent",
+          "confidence": "low"
+        },
+        {
+          "truncId": 242,
+          "machineCode": "【【242】】",
+          "noun": "etc",
+          "confidence": "low"
+        },
+        {
+          "truncId": 242,
+          "machineCode": "【【242】】",
+          "noun": "domestique",
+          "confidence": "low"
+        },
+        {
+          "truncId": 242,
+          "machineCode": "【【242】】",
+          "noun": "conjugale",
+          "confidence": "low"
+        },
+        {
+          "truncId": 242,
+          "machineCode": "【【242】】",
+          "noun": "ethnique",
+          "confidence": "low"
+        },
+        {
+          "truncId": 243,
+          "machineCode": "【【243】】",
+          "noun": "apposée",
+          "confidence": "low"
+        },
+        {
+          "truncId": 247,
+          "machineCode": "【【247】】",
+          "noun": "pouvoir",
+          "confidence": "low"
+        },
+        {
+          "truncId": 247,
+          "machineCode": "【【247】】",
+          "noun": "qu'elle",
+          "confidence": "low"
+        },
+        {
+          "truncId": 256,
+          "machineCode": "【【256】】",
+          "noun": "affect",
+          "confidence": "low"
+        },
+        {
+          "truncId": 256,
+          "machineCode": "【【256】】",
+          "noun": "affect",
+          "confidence": "low"
+        },
+        {
+          "truncId": 256,
+          "machineCode": "【【256】】",
+          "noun": "affect",
+          "confidence": "low"
+        },
+        {
+          "truncId": 256,
+          "machineCode": "【【256】】",
+          "noun": "christique",
+          "confidence": "low"
+        },
+        {
+          "truncId": 256,
+          "machineCode": "【【256】】",
+          "noun": "debusysse",
+          "confidence": "low"
+        },
+        {
+          "truncId": 256,
+          "machineCode": "【【256】】",
+          "noun": "léniniste",
+          "confidence": "low"
+        },
+        {
+          "truncId": 259,
+          "machineCode": "【【259】】",
+          "noun": "engageant",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "batchId": 36,
+      "totalTruncations": 248,
+      "totalDrifts": 12,
+      "mediumCount": 9,
+      "lowCount": 3,
+      "firstDrift": {
+        "truncId": 7,
+        "machineCode": "【【7】】",
+        "noun": "Léon",
+        "confidence": "medium",
+        "promptCharPosition": 427,
+        "promptCharPositionRatio": "4.8%"
+      },
+      "allDrifts": [
+        {
+          "truncId": 7,
+          "machineCode": "【【7】】",
+          "noun": "Léon",
+          "confidence": "medium"
+        },
+        {
+          "truncId": 8,
+          "machineCode": "【【8】】",
+          "noun": "seul",
+          "confidence": "medium"
+        },
+        {
+          "truncId": 48,
+          "machineCode": "【【48】】",
+          "noun": "individuation",
+          "confidence": "medium"
+        },
+        {
+          "truncId": 78,
+          "machineCode": "【【78】】",
+          "noun": "*psy*",
+          "confidence": "medium"
+        },
+        {
+          "truncId": 167,
+          "machineCode": "【【167】】",
+          "noun": "perpetuel",
+          "confidence": "medium"
+        },
+        {
+          "truncId": 174,
+          "machineCode": "【【174】】",
+          "noun": "inconscient",
+          "confidence": "medium"
+        },
+        {
+          "truncId": 174,
+          "machineCode": "【【174】】",
+          "noun": "fantasieat",
+          "confidence": "medium"
+        },
+        {
+          "truncId": 196,
+          "machineCode": "【【196】】",
+          "noun": "inconscient",
+          "confidence": "medium"
+        },
+        {
+          "truncId": 196,
+          "machineCode": "【【196】】",
+          "noun": "freudien",
+          "confidence": "medium"
+        },
+        {
+          "truncId": 245,
+          "machineCode": "【【245】】",
+          "noun": "rénchantement",
+          "confidence": "low"
+        },
+        {
+          "truncId": 247,
+          "machineCode": "【【247】】",
+          "noun": "généralisé",
+          "confidence": "low"
+        },
+        {
+          "truncId": 247,
+          "machineCode": "【【247】】",
+          "noun": "équivaloir",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "batchId": 37,
+      "totalTruncations": 262,
+      "totalDrifts": 7,
+      "mediumCount": 1,
+      "lowCount": 6,
+      "firstDrift": {
+        "truncId": 30,
+        "machineCode": "【【30】】",
+        "noun": "mêmes",
+        "confidence": "medium",
+        "promptCharPosition": 1141,
+        "promptCharPositionRatio": "13.0%"
+      },
+      "allDrifts": [
+        {
+          "truncId": 30,
+          "machineCode": "【【30】】",
+          "noun": "mêmes",
+          "confidence": "medium"
+        },
+        {
+          "truncId": 161,
+          "machineCode": "【【161】】",
+          "noun": "qu'",
+          "confidence": "low"
+        },
+        {
+          "truncId": 164,
+          "machineCode": "【【164】】",
+          "noun": "qu'",
+          "confidence": "low"
+        },
+        {
+          "truncId": 185,
+          "machineCode": "【【185】】",
+          "noun": "aucun",
+          "confidence": "low"
+        },
+        {
+          "truncId": 190,
+          "machineCode": "【【190】】",
+          "noun": "litteraire",
+          "confidence": "low"
+        },
+        {
+          "truncId": 216,
+          "machineCode": "【【216】】",
+          "noun": "litteraire",
+          "confidence": "low"
+        },
+        {
+          "truncId": 238,
+          "machineCode": "【【238】】",
+          "noun": "autre",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "batchId": 38,
+      "totalTruncations": 259,
+      "totalDrifts": 3,
+      "mediumCount": 2,
+      "lowCount": 1,
+      "firstDrift": {
+        "truncId": 80,
+        "machineCode": "【【80】】",
+        "noun": "captif",
+        "confidence": "low",
+        "promptCharPosition": 2898,
+        "promptCharPositionRatio": "32.8%"
+      },
+      "allDrifts": [
+        {
+          "truncId": 80,
+          "machineCode": "【【80】】",
+          "noun": "captif",
+          "confidence": "low"
+        },
+        {
+          "truncId": 81,
+          "machineCode": "【【81】】",
+          "noun": "militante",
+          "confidence": "medium"
+        },
+        {
+          "truncId": 177,
+          "machineCode": "【【177】】",
+          "noun": "piles",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "batchId": 40,
+      "totalTruncations": 246,
+      "totalDrifts": 1,
+      "mediumCount": 0,
+      "lowCount": 1,
+      "firstDrift": {
+        "truncId": 2,
+        "machineCode": "【【2】】",
+        "noun": "fixe",
+        "confidence": "low",
+        "promptCharPosition": 157,
+        "promptCharPositionRatio": "1.8%"
+      },
+      "allDrifts": [
+        {
+          "truncId": 2,
+          "machineCode": "【【2】】",
+          "noun": "fixe",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "batchId": 41,
+      "totalTruncations": 270,
+      "totalDrifts": 2,
+      "mediumCount": 0,
+      "lowCount": 2,
+      "firstDrift": {
+        "truncId": 226,
+        "machineCode": "【【226】】",
+        "noun": "labyrinthique",
+        "confidence": "low",
+        "promptCharPosition": 7234,
+        "promptCharPositionRatio": "82.3%"
+      },
+      "allDrifts": [
+        {
+          "truncId": 226,
+          "machineCode": "【【226】】",
+          "noun": "labyrinthique",
+          "confidence": "low"
+        },
+        {
+          "truncId": 236,
+          "machineCode": "【【236】】",
+          "noun": "esthétiques",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "batchId": 42,
+      "totalTruncations": 256,
+      "totalDrifts": 39,
+      "mediumCount": 22,
+      "lowCount": 17,
+      "firstDrift": {
+        "truncId": 105,
+        "machineCode": "【【105】】",
+        "noun": "abstraites",
+        "confidence": "medium",
+        "promptCharPosition": 3748,
+        "promptCharPositionRatio": "42.3%"
+      },
+      "allDrifts": [
+        {
+          "truncId": 105,
+          "machineCode": "【【105】】",
+          "noun": "abstraites",
+          "confidence": "medium"
+        },
+        {
+          "truncId": 105,
+          "machineCode": "【【105】】",
+          "noun": "sensibles",
+          "confidence": "low"
+        },
+        {
+          "truncId": 109,
+          "machineCode": "【【109】】",
+          "noun": "latents",
+          "confidence": "medium"
+        },
+        {
+          "truncId": 109,
+          "machineCode": "【【109】】",
+          "noun": "contenus",
+          "confidence": "medium"
+        },
+        {
+          "truncId": 112,
+          "machineCode": "【【112】】",
+          "noun": "existentiels",
+          "confidence": "medium"
+        },
+        {
+          "truncId": 113,
+          "machineCode": "【【113】】",
+          "noun": "mettre",
+          "confidence": "medium"
+        },
+        {
+          "truncId": 116,
+          "machineCode": "【【116】】",
+          "noun": "seul",
+          "confidence": "medium"
+        },
+        {
+          "truncId": 116,
+          "machineCode": "【【116】】",
+          "noun": "symptomes",
+          "confidence": "low"
+        },
+        {
+          "truncId": 120,
+          "machineCode": "【【120】】",
+          "noun": "rituellement",
+          "confidence": "low"
+        },
+        {
+          "truncId": 120,
+          "machineCode": "【【120】】",
+          "noun": "minimale",
+          "confidence": "medium"
+        },
+        {
+          "truncId": 120,
+          "machineCode": "【【120】】",
+          "noun": "vaginaire",
+          "confidence": "low"
+        },
+        {
+          "truncId": 124,
+          "machineCode": "【【124】】",
+          "noun": "pentatonicque",
+          "confidence": "low"
+        },
+        {
+          "truncId": 129,
+          "machineCode": "【【129】】",
+          "noun": "morbide",
+          "confidence": "medium"
+        },
+        {
+          "truncId": 145,
+          "machineCode": "【【145】】",
+          "noun": "asexue",
+          "confidence": "low"
+        },
+        {
+          "truncId": 154,
+          "machineCode": "【【154】】",
+          "noun": "associatif",
+          "confidence": "low"
+        },
+        {
+          "truncId": 155,
+          "machineCode": "【【155】】",
+          "noun": "double",
+          "confidence": "low"
+        },
+        {
+          "truncId": 174,
+          "machineCode": "【【174】】",
+          "noun": "deux",
+          "confidence": "low"
+        },
+        {
+          "truncId": 182,
+          "machineCode": "【【182】】",
+          "noun": "syntagmatique",
+          "confidence": "medium"
+        },
+        {
+          "truncId": 189,
+          "machineCode": "【【189】】",
+          "noun": "durant",
+          "confidence": "medium"
+        },
+        {
+          "truncId": 191,
+          "machineCode": "【【191】】",
+          "noun": "durant",
+          "confidence": "medium"
+        },
+        {
+          "truncId": 196,
+          "machineCode": "【【196】】",
+          "noun": "signeifice",
+          "confidence": "medium"
+        },
+        {
+          "truncId": 200,
+          "machineCode": "【【200】】",
+          "noun": "seule",
+          "confidence": "medium"
+        },
+        {
+          "truncId": 203,
+          "machineCode": "【【203】】",
+          "noun": "quasi",
+          "confidence": "low"
+        },
+        {
+          "truncId": 203,
+          "machineCode": "【【203】】",
+          "noun": "bestiale",
+          "confidence": "low"
+        },
+        {
+          "truncId": 203,
+          "machineCode": "【【203】】",
+          "noun": "farouche",
+          "confidence": "low"
+        },
+        {
+          "truncId": 204,
+          "machineCode": "【【204】】",
+          "noun": "rituellement",
+          "confidence": "medium"
+        },
+        {
+          "truncId": 205,
+          "machineCode": "【【205】】",
+          "noun": "J'ai",
+          "confidence": "low"
+        },
+        {
+          "truncId": 206,
+          "machineCode": "【【206】】",
+          "noun": "assortis",
+          "confidence": "medium"
+        },
+        {
+          "truncId": 207,
+          "machineCode": "【【207】】",
+          "noun": "divers",
+          "confidence": "low"
+        },
+        {
+          "truncId": 208,
+          "machineCode": "【【208】】",
+          "noun": "quelque",
+          "confidence": "low"
+        },
+        {
+          "truncId": 208,
+          "machineCode": "【【208】】",
+          "noun": "peu",
+          "confidence": "low"
+        },
+        {
+          "truncId": 210,
+          "machineCode": "【【210】】",
+          "noun": "abstinents",
+          "confidence": "medium"
+        },
+        {
+          "truncId": 214,
+          "machineCode": "【【214】】",
+          "noun": "furent",
+          "confidence": "medium"
+        },
+        {
+          "truncId": 223,
+          "machineCode": "【【223】】",
+          "noun": "pragmatiste",
+          "confidence": "medium"
+        },
+        {
+          "truncId": 228,
+          "machineCode": "【【228】】",
+          "noun": "immobilisée",
+          "confidence": "medium"
+        },
+        {
+          "truncId": 229,
+          "machineCode": "【【229】】",
+          "noun": "grande",
+          "confidence": "medium"
+        },
+        {
+          "truncId": 232,
+          "machineCode": "【【232】】",
+          "noun": "certaine",
+          "confidence": "medium"
+        },
+        {
+          "truncId": 233,
+          "machineCode": "【【233】】",
+          "noun": "toutes",
+          "confidence": "medium"
+        },
+        {
+          "truncId": 241,
+          "machineCode": "【【241】】",
+          "noun": "violente",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "batchId": 43,
+      "totalTruncations": 257,
+      "totalDrifts": 2,
+      "mediumCount": 0,
+      "lowCount": 2,
+      "firstDrift": {
+        "truncId": 7,
+        "machineCode": "【【7】】",
+        "noun": "chinoise",
+        "confidence": "low",
+        "promptCharPosition": 347,
+        "promptCharPositionRatio": "3.9%"
+      },
+      "allDrifts": [
+        {
+          "truncId": 7,
+          "machineCode": "【【7】】",
+          "noun": "chinoise",
+          "confidence": "low"
+        },
+        {
+          "truncId": 24,
+          "machineCode": "【【24】】",
+          "noun": "tous",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "batchId": 44,
+      "totalTruncations": 267,
+      "totalDrifts": 1,
+      "mediumCount": 0,
+      "lowCount": 1,
+      "firstDrift": {
+        "truncId": 253,
+        "machineCode": "【【253】】",
+        "noun": "Par la",
+        "confidence": "low",
+        "promptCharPosition": 8260,
+        "promptCharPositionRatio": "94.0%"
+      },
+      "allDrifts": [
+        {
+          "truncId": 253,
+          "machineCode": "【【253】】",
+          "noun": "Par la",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "batchId": 45,
+      "totalTruncations": 258,
+      "totalDrifts": 33,
+      "mediumCount": 2,
+      "lowCount": 31,
+      "firstDrift": {
+        "truncId": 89,
+        "machineCode": "【【89】】",
+        "noun": "huit",
+        "confidence": "low",
+        "promptCharPosition": 2995,
+        "promptCharPositionRatio": "34.0%"
+      },
+      "allDrifts": [
+        {
+          "truncId": 89,
+          "machineCode": "【【89】】",
+          "noun": "huit",
+          "confidence": "low"
+        },
+        {
+          "truncId": 91,
+          "machineCode": "【【91】】",
+          "noun": "blanc",
+          "confidence": "medium"
+        },
+        {
+          "truncId": 101,
+          "machineCode": "【【101】】",
+          "noun": "inanimées",
+          "confidence": "medium"
+        },
+        {
+          "truncId": 107,
+          "machineCode": "【【107】】",
+          "noun": "autre",
+          "confidence": "low"
+        },
+        {
+          "truncId": 107,
+          "machineCode": "【【107】】",
+          "noun": "d'une",
+          "confidence": "low"
+        },
+        {
+          "truncId": 108,
+          "machineCode": "【【108】】",
+          "noun": "seule",
+          "confidence": "low"
+        },
+        {
+          "truncId": 115,
+          "machineCode": "【【115】】",
+          "noun": "ontologique",
+          "confidence": "low"
+        },
+        {
+          "truncId": 116,
+          "machineCode": "【【116】】",
+          "noun": "dernier",
+          "confidence": "low"
+        },
+        {
+          "truncId": 125,
+          "machineCode": "【【125】】",
+          "noun": "citirement",
+          "confidence": "low"
+        },
+        {
+          "truncId": 126,
+          "machineCode": "【【126】】",
+          "noun": "floue",
+          "confidence": "low"
+        },
+        {
+          "truncId": 128,
+          "machineCode": "【【128】】",
+          "noun": "aura",
+          "confidence": "low"
+        },
+        {
+          "truncId": 132,
+          "machineCode": "【【132】】",
+          "noun": "génératrice",
+          "confidence": "low"
+        },
+        {
+          "truncId": 132,
+          "machineCode": "【【132】】",
+          "noun": "significante",
+          "confidence": "low"
+        },
+        {
+          "truncId": 133,
+          "machineCode": "【【133】】",
+          "noun": "dites",
+          "confidence": "low"
+        },
+        {
+          "truncId": 135,
+          "machineCode": "【【135】】",
+          "noun": "chaines",
+          "confidence": "low"
+        },
+        {
+          "truncId": 135,
+          "machineCode": "【【135】】",
+          "noun": "discursives",
+          "confidence": "low"
+        },
+        {
+          "truncId": 140,
+          "machineCode": "【【140】】",
+          "noun": "autres",
+          "confidence": "low"
+        },
+        {
+          "truncId": 153,
+          "machineCode": "【【153】】",
+          "noun": "cultures",
+          "confidence": "low"
+        },
+        {
+          "truncId": 154,
+          "machineCode": "【【154】】",
+          "noun": "a-signifiante",
+          "confidence": "low"
+        },
+        {
+          "truncId": 157,
+          "machineCode": "【【157】】",
+          "noun": "fonctionnelle",
+          "confidence": "low"
+        },
+        {
+          "truncId": 159,
+          "machineCode": "【【159】】",
+          "noun": "auucie",
+          "confidence": "low"
+        },
+        {
+          "truncId": 163,
+          "machineCode": "【【163】】",
+          "noun": "surtout",
+          "confidence": "low"
+        },
+        {
+          "truncId": 175,
+          "machineCode": "【【175】】",
+          "noun": "simple",
+          "confidence": "low"
+        },
+        {
+          "truncId": 187,
+          "machineCode": "【【187】】",
+          "noun": "abstraites",
+          "confidence": "low"
+        },
+        {
+          "truncId": 191,
+          "machineCode": "【【191】】",
+          "noun": "existentialiste",
+          "confidence": "low"
+        },
+        {
+          "truncId": 193,
+          "machineCode": "【【193】】",
+          "noun": "SENSIBLE",
+          "confidence": "low"
+        },
+        {
+          "truncId": 200,
+          "machineCode": "【【200】】",
+          "noun": "certaines",
+          "confidence": "low"
+        },
+        {
+          "truncId": 220,
+          "machineCode": "【【220】】",
+          "noun": "significatifs",
+          "confidence": "low"
+        },
+        {
+          "truncId": 235,
+          "machineCode": "【【235】】",
+          "noun": "nous-mêmes",
+          "confidence": "low"
+        },
+        {
+          "truncId": 242,
+          "machineCode": "【【242】】",
+          "noun": "registre",
+          "confidence": "low"
+        },
+        {
+          "truncId": 243,
+          "machineCode": "【【243】】",
+          "noun": "registre",
+          "confidence": "low"
+        },
+        {
+          "truncId": 243,
+          "machineCode": "【【243】】",
+          "noun": "formelle",
+          "confidence": "low"
+        },
+        {
+          "truncId": 246,
+          "machineCode": "【【246】】",
+          "noun": "symboles",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "batchId": 46,
+      "totalTruncations": 258,
+      "totalDrifts": 33,
+      "mediumCount": 11,
+      "lowCount": 22,
+      "firstDrift": {
+        "truncId": 34,
+        "machineCode": "【【34】】",
+        "noun": "deux",
+        "confidence": "medium",
+        "promptCharPosition": 1273,
+        "promptCharPositionRatio": "14.4%"
+      },
+      "allDrifts": [
+        {
+          "truncId": 34,
+          "machineCode": "【【34】】",
+          "noun": "deux",
+          "confidence": "medium"
+        },
+        {
+          "truncId": 35,
+          "machineCode": "【【35】】",
+          "noun": "précédents",
+          "confidence": "medium"
+        },
+        {
+          "truncId": 36,
+          "machineCode": "【【36】】",
+          "noun": "exacerbé",
+          "confidence": "medium"
+        },
+        {
+          "truncId": 75,
+          "machineCode": "【【75】】",
+          "noun": "autre",
+          "confidence": "low"
+        },
+        {
+          "truncId": 75,
+          "machineCode": "【【75】】",
+          "noun": "invisible",
+          "confidence": "low"
+        },
+        {
+          "truncId": 75,
+          "machineCode": "【【75】】",
+          "noun": "celle-là",
+          "confidence": "low"
+        },
+        {
+          "truncId": 75,
+          "machineCode": "【【75】】",
+          "noun": "franchement",
+          "confidence": "low"
+        },
+        {
+          "truncId": 75,
+          "machineCode": "【【75】】",
+          "noun": "visible",
+          "confidence": "low"
+        },
+        {
+          "truncId": 77,
+          "machineCode": "【【77】】",
+          "noun": "Benoit",
+          "confidence": "medium"
+        },
+        {
+          "truncId": 78,
+          "machineCode": "【【78】】",
+          "noun": "fractal",
+          "confidence": "low"
+        },
+        {
+          "truncId": 78,
+          "machineCode": "【【78】】",
+          "noun": "fractals*",
+          "confidence": "medium"
+        },
+        {
+          "truncId": 83,
+          "machineCode": "【【83】】",
+          "noun": "fixe",
+          "confidence": "medium"
+        },
+        {
+          "truncId": 85,
+          "machineCode": "【【85】】",
+          "noun": "physiques",
+          "confidence": "low"
+        },
+        {
+          "truncId": 85,
+          "machineCode": "【【85】】",
+          "noun": "cadres",
+          "confidence": "medium"
+        },
+        {
+          "truncId": 85,
+          "machineCode": "【【85】】",
+          "noun": "géométriques",
+          "confidence": "medium"
+        },
+        {
+          "truncId": 92,
+          "machineCode": "【【92】】",
+          "noun": "voir",
+          "confidence": "low"
+        },
+        {
+          "truncId": 93,
+          "machineCode": "【【93】】",
+          "noun": "voisin",
+          "confidence": "medium"
+        },
+        {
+          "truncId": 95,
+          "machineCode": "【【95】】",
+          "noun": "téléguider",
+          "confidence": "medium"
+        },
+        {
+          "truncId": 97,
+          "machineCode": "【【97】】",
+          "noun": "possible",
+          "confidence": "low"
+        },
+        {
+          "truncId": 98,
+          "machineCode": "【【98】】",
+          "noun": "seconde",
+          "confidence": "low"
+        },
+        {
+          "truncId": 113,
+          "machineCode": "【【113】】",
+          "noun": "surmoqué",
+          "confidence": "low"
+        },
+        {
+          "truncId": 124,
+          "machineCode": "【【124】】",
+          "noun": "autre",
+          "confidence": "medium"
+        },
+        {
+          "truncId": 181,
+          "machineCode": "【【181】】",
+          "noun": "processuelle",
+          "confidence": "low"
+        },
+        {
+          "truncId": 189,
+          "machineCode": "【【189】】",
+          "noun": "ituurnelles",
+          "confidence": "low"
+        },
+        {
+          "truncId": 192,
+          "machineCode": "【【192】】",
+          "noun": "partiels",
+          "confidence": "low"
+        },
+        {
+          "truncId": 192,
+          "machineCode": "【【192】】",
+          "noun": "transitionnels",
+          "confidence": "low"
+        },
+        {
+          "truncId": 195,
+          "machineCode": "【【195】】",
+          "noun": "existentielle",
+          "confidence": "low"
+        },
+        {
+          "truncId": 233,
+          "machineCode": "【【233】】",
+          "noun": "timbres",
+          "confidence": "low"
+        },
+        {
+          "truncId": 234,
+          "machineCode": "【【234】】",
+          "noun": "transfigurés",
+          "confidence": "low"
+        },
+        {
+          "truncId": 237,
+          "machineCode": "【【237】】",
+          "noun": "contemporaine",
+          "confidence": "low"
+        },
+        {
+          "truncId": 237,
+          "machineCode": "【【237】】",
+          "noun": "musicale",
+          "confidence": "low"
+        },
+        {
+          "truncId": 241,
+          "machineCode": "【【241】】",
+          "noun": "déterritorialisés",
+          "confidence": "low"
+        },
+        {
+          "truncId": 242,
+          "machineCode": "【【242】】",
+          "noun": "Prout",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "batchId": 47,
+      "totalTruncations": 117,
+      "totalDrifts": 3,
+      "mediumCount": 0,
+      "lowCount": 3,
+      "firstDrift": {
+        "truncId": 20,
+        "machineCode": "【【20】】",
+        "noun": "analytiques",
+        "confidence": "low",
+        "promptCharPosition": 904,
+        "promptCharPositionRatio": "24.2%"
+      },
+      "allDrifts": [
+        {
+          "truncId": 20,
+          "machineCode": "【【20】】",
+          "noun": "analytiques",
+          "confidence": "low"
+        },
+        {
+          "truncId": 31,
+          "machineCode": "【【31】】",
+          "noun": "quatre",
+          "confidence": "low"
+        },
+        {
+          "truncId": 32,
+          "machineCode": "【【32】】",
+          "noun": "machinique",
+          "confidence": "low"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,769 @@
+{
+  "meta": {
+    "description": "实验组二每批次注意力飘散起始点分析",
+    "totalBatches": 47,
+    "batchesWithDrift": 35,
+    "analysisDate": "2026-09-21T05:23:43.693Z"
+  },
+  "batches": [
+    {
+      "batchIndex": 1,
+      "totalTruncations": 257,
+      "promptTotalChars": 8072,
+      "firstDriftTruncIndex": 35,
+      "firstDriftNoun": "macro-processus",
+      "firstDriftConfidence": "low",
+      "driftStartChar": 1025,
+      "driftStartPercent": 12.7,
+      "confidenceDistribution": {
+        "high": 62,
+        "medium": 1,
+        "low": 1
+      },
+      "hasDrift": true
+    },
+    {
+      "batchIndex": 2,
+      "totalTruncations": 269,
+      "promptTotalChars": 8078,
+      "firstDriftTruncIndex": 23,
+      "firstDriftNoun": "subjective",
+      "firstDriftConfidence": "medium",
+      "driftStartChar": 831,
+      "driftStartPercent": 10.3,
+      "confidenceDistribution": {
+        "high": 53,
+        "medium": 13,
+        "low": 15
+      },
+      "hasDrift": true
+    },
+    {
+      "batchIndex": 3,
+      "totalTruncations": 252,
+      "promptTotalChars": 8072,
+      "firstDriftTruncIndex": 26,
+      "firstDriftNoun": "Esprit",
+      "firstDriftConfidence": "medium",
+      "driftStartChar": 750,
+      "driftStartPercent": 9.3,
+      "confidenceDistribution": {
+        "high": 58,
+        "medium": 1,
+        "low": 5
+      },
+      "hasDrift": true
+    },
+    {
+      "batchIndex": 4,
+      "totalTruncations": 243,
+      "promptTotalChars": 8132,
+      "firstDriftTruncIndex": 1,
+      "firstDriftNoun": "huppé",
+      "firstDriftConfidence": "low",
+      "driftStartChar": 0,
+      "driftStartPercent": 0,
+      "confidenceDistribution": {
+        "high": 75,
+        "medium": 0,
+        "low": 5
+      },
+      "hasDrift": true
+    },
+    {
+      "batchIndex": 5,
+      "totalTruncations": 251,
+      "promptTotalChars": 8131,
+      "firstDriftTruncIndex": 20,
+      "firstDriftNoun": "siémiotiques",
+      "firstDriftConfidence": "low",
+      "driftStartChar": 666,
+      "driftStartPercent": 8.2,
+      "confidenceDistribution": {
+        "high": 290,
+        "medium": 1,
+        "low": 7
+      },
+      "hasDrift": true
+    },
+    {
+      "batchIndex": 6,
+      "totalTruncations": 256,
+      "promptTotalChars": 8098,
+      "firstDriftTruncIndex": null,
+      "firstDriftNoun": null,
+      "firstDriftConfidence": null,
+      "driftStartChar": null,
+      "driftStartPercent": null,
+      "confidenceDistribution": {
+        "high": 3,
+        "medium": 0,
+        "low": 0
+      },
+      "hasDrift": false
+    },
+    {
+      "batchIndex": 7,
+      "totalTruncations": 248,
+      "promptTotalChars": 8136,
+      "firstDriftTruncIndex": null,
+      "firstDriftNoun": null,
+      "firstDriftConfidence": null,
+      "driftStartChar": null,
+      "driftStartPercent": null,
+      "confidenceDistribution": {
+        "high": 5,
+        "medium": 0,
+        "low": 0
+      },
+      "hasDrift": false
+    },
+    {
+      "batchIndex": 8,
+      "totalTruncations": 246,
+      "promptTotalChars": 8144,
+      "firstDriftTruncIndex": 229,
+      "firstDriftNoun": "signifant",
+      "firstDriftConfidence": "medium",
+      "driftStartChar": 7513,
+      "driftStartPercent": 92.3,
+      "confidenceDistribution": {
+        "high": 33,
+        "medium": 1,
+        "low": 0
+      },
+      "hasDrift": true
+    },
+    {
+      "batchIndex": 9,
+      "totalTruncations": 256,
+      "promptTotalChars": 8095,
+      "firstDriftTruncIndex": null,
+      "firstDriftNoun": null,
+      "firstDriftConfidence": null,
+      "driftStartChar": null,
+      "driftStartPercent": null,
+      "confidenceDistribution": {
+        "high": 4,
+        "medium": 0,
+        "low": 0
+      },
+      "hasDrift": false
+    },
+    {
+      "batchIndex": 10,
+      "totalTruncations": 255,
+      "promptTotalChars": 8118,
+      "firstDriftTruncIndex": 48,
+      "firstDriftNoun": "ultime",
+      "firstDriftConfidence": "low",
+      "driftStartChar": 1445,
+      "driftStartPercent": 17.8,
+      "confidenceDistribution": {
+        "high": 48,
+        "medium": 20,
+        "low": 13
+      },
+      "hasDrift": true
+    },
+    {
+      "batchIndex": 11,
+      "totalTruncations": 252,
+      "promptTotalChars": 8092,
+      "firstDriftTruncIndex": 1,
+      "firstDriftNoun": "simple",
+      "firstDriftConfidence": "low",
+      "driftStartChar": 0,
+      "driftStartPercent": 0,
+      "confidenceDistribution": {
+        "high": 39,
+        "medium": 3,
+        "low": 44
+      },
+      "hasDrift": true
+    },
+    {
+      "batchIndex": 12,
+      "totalTruncations": 276,
+      "promptTotalChars": 8034,
+      "firstDriftTruncIndex": 81,
+      "firstDriftNoun": "ontologique",
+      "firstDriftConfidence": "low",
+      "driftStartChar": 2351,
+      "driftStartPercent": 29.3,
+      "confidenceDistribution": {
+        "high": 22,
+        "medium": 1,
+        "low": 13
+      },
+      "hasDrift": true
+    },
+    {
+      "batchIndex": 13,
+      "totalTruncations": 297,
+      "promptTotalChars": 7990,
+      "firstDriftTruncIndex": null,
+      "firstDriftNoun": null,
+      "firstDriftConfidence": null,
+      "driftStartChar": null,
+      "driftStartPercent": null,
+      "confidenceDistribution": {
+        "high": 3,
+        "medium": 0,
+        "low": 0
+      },
+      "hasDrift": false
+    },
+    {
+      "batchIndex": 14,
+      "totalTruncations": 288,
+      "promptTotalChars": 8022,
+      "firstDriftTruncIndex": null,
+      "firstDriftNoun": null,
+      "firstDriftConfidence": null,
+      "driftStartChar": null,
+      "driftStartPercent": null,
+      "confidenceDistribution": {
+        "high": 0,
+        "medium": 0,
+        "low": 0
+      },
+      "hasDrift": false
+    },
+    {
+      "batchIndex": 15,
+      "totalTruncations": 286,
+      "promptTotalChars": 7997,
+      "firstDriftTruncIndex": 19,
+      "firstDriftNoun": "mémoiresés",
+      "firstDriftConfidence": "low",
+      "driftStartChar": 457,
+      "driftStartPercent": 5.7,
+      "confidenceDistribution": {
+        "high": 296,
+        "medium": 2,
+        "low": 9
+      },
+      "hasDrift": true
+    },
+    {
+      "batchIndex": 16,
+      "totalTruncations": 273,
+      "promptTotalChars": 8036,
+      "firstDriftTruncIndex": 1,
+      "firstDriftNoun": "énergétique",
+      "firstDriftConfidence": "low",
+      "driftStartChar": 0,
+      "driftStartPercent": 0,
+      "confidenceDistribution": {
+        "high": 77,
+        "medium": 1,
+        "low": 3
+      },
+      "hasDrift": true
+    },
+    {
+      "batchIndex": 17,
+      "totalTruncations": 263,
+      "promptTotalChars": 8046,
+      "firstDriftTruncIndex": 105,
+      "firstDriftNoun": "terminal",
+      "firstDriftConfidence": "medium",
+      "driftStartChar": 3154,
+      "driftStartPercent": 39.2,
+      "confidenceDistribution": {
+        "high": 37,
+        "medium": 10,
+        "low": 21
+      },
+      "hasDrift": true
+    },
+    {
+      "batchIndex": 18,
+      "totalTruncations": 269,
+      "promptTotalChars": 8071,
+      "firstDriftTruncIndex": 45,
+      "firstDriftNoun": "discursive",
+      "firstDriftConfidence": "low",
+      "driftStartChar": 1231,
+      "driftStartPercent": 15.3,
+      "confidenceDistribution": {
+        "high": 33,
+        "medium": 3,
+        "low": 28
+      },
+      "hasDrift": true
+    },
+    {
+      "batchIndex": 19,
+      "totalTruncations": 275,
+      "promptTotalChars": 8045,
+      "firstDriftTruncIndex": 27,
+      "firstDriftNoun": "d'un",
+      "firstDriftConfidence": "low",
+      "driftStartChar": 768,
+      "driftStartPercent": 9.5,
+      "confidenceDistribution": {
+        "high": 53,
+        "medium": 33,
+        "low": 15
+      },
+      "hasDrift": true
+    },
+    {
+      "batchIndex": 20,
+      "totalTruncations": 270,
+      "promptTotalChars": 8057,
+      "firstDriftTruncIndex": 1,
+      "firstDriftNoun": "nouveau",
+      "firstDriftConfidence": "medium",
+      "driftStartChar": 0,
+      "driftStartPercent": 0,
+      "confidenceDistribution": {
+        "high": 45,
+        "medium": 3,
+        "low": 0
+      },
+      "hasDrift": true
+    },
+    {
+      "batchIndex": 21,
+      "totalTruncations": 261,
+      "promptTotalChars": 8057,
+      "firstDriftTruncIndex": 143,
+      "firstDriftNoun": "fini",
+      "firstDriftConfidence": "low",
+      "driftStartChar": 4416,
+      "driftStartPercent": 54.8,
+      "confidenceDistribution": {
+        "high": 67,
+        "medium": 13,
+        "low": 40
+      },
+      "hasDrift": true
+    },
+    {
+      "batchIndex": 22,
+      "totalTruncations": 250,
+      "promptTotalChars": 8124,
+      "firstDriftTruncIndex": null,
+      "firstDriftNoun": null,
+      "firstDriftConfidence": null,
+      "driftStartChar": null,
+      "driftStartPercent": null,
+      "confidenceDistribution": {
+        "high": 8,
+        "medium": 0,
+        "low": 0
+      },
+      "hasDrift": false
+    },
+    {
+      "batchIndex": 23,
+      "totalTruncations": 254,
+      "promptTotalChars": 8066,
+      "firstDriftTruncIndex": 17,
+      "firstDriftNoun": "plis",
+      "firstDriftConfidence": "medium",
+      "driftStartChar": 478,
+      "driftStartPercent": 5.9,
+      "confidenceDistribution": {
+        "high": 17,
+        "medium": 1,
+        "low": 0
+      },
+      "hasDrift": true
+    },
+    {
+      "batchIndex": 24,
+      "totalTruncations": 249,
+      "promptTotalChars": 8088,
+      "firstDriftTruncIndex": 48,
+      "firstDriftNoun": "chaines",
+      "firstDriftConfidence": "low",
+      "driftStartChar": 1749,
+      "driftStartPercent": 21.6,
+      "confidenceDistribution": {
+        "high": 77,
+        "medium": 1,
+        "low": 6
+      },
+      "hasDrift": true
+    },
+    {
+      "batchIndex": 25,
+      "totalTruncations": 264,
+      "promptTotalChars": 8094,
+      "firstDriftTruncIndex": 1,
+      "firstDriftNoun": "expressive",
+      "firstDriftConfidence": "low",
+      "driftStartChar": 0,
+      "driftStartPercent": 0,
+      "confidenceDistribution": {
+        "high": 45,
+        "medium": 10,
+        "low": 25
+      },
+      "hasDrift": true
+    },
+    {
+      "batchIndex": 26,
+      "totalTruncations": 262,
+      "promptTotalChars": 8101,
+      "firstDriftTruncIndex": null,
+      "firstDriftNoun": null,
+      "firstDriftConfidence": null,
+      "driftStartChar": null,
+      "driftStartPercent": null,
+      "confidenceDistribution": {
+        "high": 5,
+        "medium": 0,
+        "low": 0
+      },
+      "hasDrift": false
+    },
+    {
+      "batchIndex": 27,
+      "totalTruncations": 261,
+      "promptTotalChars": 8085,
+      "firstDriftTruncIndex": 4,
+      "firstDriftNoun": "essentielle",
+      "firstDriftConfidence": "low",
+      "driftStartChar": 72,
+      "driftStartPercent": 0.9,
+      "confidenceDistribution": {
+        "high": 22,
+        "medium": 1,
+        "low": 1
+      },
+      "hasDrift": true
+    },
+    {
+      "batchIndex": 28,
+      "totalTruncations": 266,
+      "promptTotalChars": 8090,
+      "firstDriftTruncIndex": null,
+      "firstDriftNoun": null,
+      "firstDriftConfidence": null,
+      "driftStartChar": null,
+      "driftStartPercent": null,
+      "confidenceDistribution": {
+        "high": 1,
+        "medium": 0,
+        "low": 0
+      },
+      "hasDrift": false
+    },
+    {
+      "batchIndex": 29,
+      "totalTruncations": 263,
+      "promptTotalChars": 8075,
+      "firstDriftTruncIndex": null,
+      "firstDriftNoun": null,
+      "firstDriftConfidence": null,
+      "driftStartChar": null,
+      "driftStartPercent": null,
+      "confidenceDistribution": {
+        "high": 2,
+        "medium": 0,
+        "low": 0
+      },
+      "hasDrift": false
+    },
+    {
+      "batchIndex": 30,
+      "totalTruncations": 261,
+      "promptTotalChars": 8119,
+      "firstDriftTruncIndex": 34,
+      "firstDriftNoun": "ultime",
+      "firstDriftConfidence": "low",
+      "driftStartChar": 907,
+      "driftStartPercent": 11.2,
+      "confidenceDistribution": {
+        "high": 66,
+        "medium": 0,
+        "low": 3
+      },
+      "hasDrift": true
+    },
+    {
+      "batchIndex": 31,
+      "totalTruncations": 256,
+      "promptTotalChars": 8046,
+      "firstDriftTruncIndex": 4,
+      "firstDriftNoun": "divers",
+      "firstDriftConfidence": "low",
+      "driftStartChar": 87,
+      "driftStartPercent": 1.1,
+      "confidenceDistribution": {
+        "high": 17,
+        "medium": 0,
+        "low": 2
+      },
+      "hasDrift": true
+    },
+    {
+      "batchIndex": 32,
+      "totalTruncations": 248,
+      "promptTotalChars": 8122,
+      "firstDriftTruncIndex": null,
+      "firstDriftNoun": null,
+      "firstDriftConfidence": null,
+      "driftStartChar": null,
+      "driftStartPercent": null,
+      "confidenceDistribution": {
+        "high": 2,
+        "medium": 0,
+        "low": 0
+      },
+      "hasDrift": false
+    },
+    {
+      "batchIndex": 33,
+      "totalTruncations": 266,
+      "promptTotalChars": 8093,
+      "firstDriftTruncIndex": null,
+      "firstDriftNoun": null,
+      "firstDriftConfidence": null,
+      "driftStartChar": null,
+      "driftStartPercent": null,
+      "confidenceDistribution": {
+        "high": 3,
+        "medium": 0,
+        "low": 0
+      },
+      "hasDrift": false
+    },
+    {
+      "batchIndex": 34,
+      "totalTruncations": 250,
+      "promptTotalChars": 8127,
+      "firstDriftTruncIndex": 174,
+      "firstDriftNoun": "corréat",
+      "firstDriftConfidence": "low",
+      "driftStartChar": 5503,
+      "driftStartPercent": 67.7,
+      "confidenceDistribution": {
+        "high": 52,
+        "medium": 0,
+        "low": 1
+      },
+      "hasDrift": true
+    },
+    {
+      "batchIndex": 35,
+      "totalTruncations": 259,
+      "promptTotalChars": 8102,
+      "firstDriftTruncIndex": 55,
+      "firstDriftNoun": "certaines",
+      "firstDriftConfidence": "low",
+      "driftStartChar": 1473,
+      "driftStartPercent": 18.2,
+      "confidenceDistribution": {
+        "high": 38,
+        "medium": 5,
+        "low": 68
+      },
+      "hasDrift": true
+    },
+    {
+      "batchIndex": 36,
+      "totalTruncations": 248,
+      "promptTotalChars": 8125,
+      "firstDriftTruncIndex": 1,
+      "firstDriftNoun": "affect",
+      "firstDriftConfidence": "low",
+      "driftStartChar": 0,
+      "driftStartPercent": 0,
+      "confidenceDistribution": {
+        "high": 51,
+        "medium": 9,
+        "low": 12
+      },
+      "hasDrift": true
+    },
+    {
+      "batchIndex": 37,
+      "totalTruncations": 262,
+      "promptTotalChars": 8071,
+      "firstDriftTruncIndex": 1,
+      "firstDriftNoun": "d'une",
+      "firstDriftConfidence": "low",
+      "driftStartChar": 0,
+      "driftStartPercent": 0,
+      "confidenceDistribution": {
+        "high": 268,
+        "medium": 1,
+        "low": 11
+      },
+      "hasDrift": true
+    },
+    {
+      "batchIndex": 38,
+      "totalTruncations": 259,
+      "promptTotalChars": 8107,
+      "firstDriftTruncIndex": 62,
+      "firstDriftNoun": "captif",
+      "firstDriftConfidence": "low",
+      "driftStartChar": 2043,
+      "driftStartPercent": 25.2,
+      "confidenceDistribution": {
+        "high": 36,
+        "medium": 2,
+        "low": 1
+      },
+      "hasDrift": true
+    },
+    {
+      "batchIndex": 39,
+      "totalTruncations": 273,
+      "promptTotalChars": 8070,
+      "firstDriftTruncIndex": null,
+      "firstDriftNoun": null,
+      "firstDriftConfidence": null,
+      "driftStartChar": null,
+      "driftStartPercent": null,
+      "confidenceDistribution": {
+        "high": 0,
+        "medium": 0,
+        "low": 0
+      },
+      "hasDrift": false
+    },
+    {
+      "batchIndex": 40,
+      "totalTruncations": 246,
+      "promptTotalChars": 8096,
+      "firstDriftTruncIndex": 1,
+      "firstDriftNoun": "fixe",
+      "firstDriftConfidence": "low",
+      "driftStartChar": 0,
+      "driftStartPercent": 0,
+      "confidenceDistribution": {
+        "high": 29,
+        "medium": 0,
+        "low": 1
+      },
+      "hasDrift": true
+    },
+    {
+      "batchIndex": 41,
+      "totalTruncations": 270,
+      "promptTotalChars": 8048,
+      "firstDriftTruncIndex": 215,
+      "firstDriftNoun": "labyrinthique",
+      "firstDriftConfidence": "low",
+      "driftStartChar": 6308,
+      "driftStartPercent": 78.4,
+      "confidenceDistribution": {
+        "high": 63,
+        "medium": 0,
+        "low": 2
+      },
+      "hasDrift": true
+    },
+    {
+      "batchIndex": 42,
+      "totalTruncations": 256,
+      "promptTotalChars": 8144,
+      "firstDriftTruncIndex": 105,
+      "firstDriftNoun": "abstraites",
+      "firstDriftConfidence": "medium",
+      "driftStartChar": 3335,
+      "driftStartPercent": 41,
+      "confidenceDistribution": {
+        "high": 48,
+        "medium": 22,
+        "low": 19
+      },
+      "hasDrift": true
+    },
+    {
+      "batchIndex": 43,
+      "totalTruncations": 257,
+      "promptTotalChars": 8104,
+      "firstDriftTruncIndex": 1,
+      "firstDriftNoun": "tous",
+      "firstDriftConfidence": "low",
+      "driftStartChar": 0,
+      "driftStartPercent": 0,
+      "confidenceDistribution": {
+        "high": 4,
+        "medium": 0,
+        "low": 3
+      },
+      "hasDrift": true
+    },
+    {
+      "batchIndex": 44,
+      "totalTruncations": 267,
+      "promptTotalChars": 8045,
+      "firstDriftTruncIndex": 231,
+      "firstDriftNoun": "Par la",
+      "firstDriftConfidence": "low",
+      "driftStartChar": 6859,
+      "driftStartPercent": 85.3,
+      "confidenceDistribution": {
+        "high": 11,
+        "medium": 0,
+        "low": 1
+      },
+      "hasDrift": true
+    },
+    {
+      "batchIndex": 45,
+      "totalTruncations": 258,
+      "promptTotalChars": 8098,
+      "firstDriftTruncIndex": 88,
+      "firstDriftNoun": "autre",
+      "firstDriftConfidence": "low",
+      "driftStartChar": 2600,
+      "driftStartPercent": 32.1,
+      "confidenceDistribution": {
+        "high": 37,
+        "medium": 2,
+        "low": 31
+      },
+      "hasDrift": true
+    },
+    {
+      "batchIndex": 46,
+      "totalTruncations": 258,
+      "promptTotalChars": 8103,
+      "firstDriftTruncIndex": 33,
+      "firstDriftNoun": "deux",
+      "firstDriftConfidence": "medium",
+      "driftStartChar": 974,
+      "driftStartPercent": 12,
+      "confidenceDistribution": {
+        "high": 18,
+        "medium": 11,
+        "low": 22
+      },
+      "hasDrift": true
+    },
+    {
+      "batchIndex": 47,
+      "totalTruncations": 117,
+      "promptTotalChars": 3299,
+      "firstDriftTruncIndex": 14,
+      "firstDriftNoun": "analytiques",
+      "firstDriftConfidence": "low",
+      "driftStartChar": 511,
+      "driftStartPercent": 15.5,
+      "confidenceDistribution": {
+        "high": 66,
+        "medium": 0,
+        "low": 3
+      },
+      "hasDrift": true
+    }
+  ],
+  "summary": {
+    "avgDriftStartTruncIndex": 54.114285714285714,
+    "avgDriftStartPercent": 20.585714285714285,
+    "avgPromptChars": 7982.234042553191,
+    "earliestDrift": 1,
+    "latestDrift": 231
+  }
+}

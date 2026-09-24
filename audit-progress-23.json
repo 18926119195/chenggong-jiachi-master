@@ -1,0 +1,868 @@
+[
+  {
+    "surface": "deux dimensions",
+    "valid": true
+  },
+  {
+    "surface": "une surface topologique",
+    "valid": true
+  },
+  {
+    "surface": "sous-ensements",
+    "valid": true
+  },
+  {
+    "surface": "une ligne complexe",
+    "valid": true
+  },
+  {
+    "surface": "discontinuites",
+    "valid": true
+  },
+  {
+    "surface": "ruptures introduites",
+    "valid": true
+  },
+  {
+    "surface": "trois",
+    "valid": false,
+    "reason": "数词，非名词"
+  },
+  {
+    "surface": "exclusion",
+    "valid": true
+  },
+  {
+    "surface": "les relations tensorielle",
+    "valid": true
+  },
+  {
+    "surface": "directes",
+    "valid": false,
+    "reason": "形容词，非名词"
+  },
+  {
+    "surface": ", les consistance",
+    "valid": false,
+    "reason": "含标点碎片，非规范名词短语"
+  },
+  {
+    "surface": ", d'autre part, les consistance",
+    "valid": false,
+    "reason": "含标点与连接成分，非名词短语"
+  },
+  {
+    "surface": "un *principie",
+    "valid": false,
+    "reason": "含星号碎片，非规范名词短语"
+  },
+  {
+    "surface": "dyschronie*",
+    "valid": false,
+    "reason": "含星号碎片"
+  },
+  {
+    "surface": "ces relations tensorielles",
+    "valid": true
+  },
+  {
+    "surface": "l'axe",
+    "valid": true
+  },
+  {
+    "surface": "deteriorialisation",
+    "valid": true
+  },
+  {
+    "surface": "tenseurs bijectifs",
+    "valid": true
+  },
+  {
+    "surface": "projectif-dichroniques",
+    "valid": false,
+    "reason": "形容词性复合形式，非名词"
+  },
+  {
+    "surface": "la distinction",
+    "valid": true
+  },
+  {
+    "surface": "le niveau I",
+    "valid": true
+  },
+  {
+    "surface": "entités intensives",
+    "valid": true
+  },
+  {
+    "surface": "un poids",
+    "valid": true
+  },
+  {
+    "surface": "intrinseque",
+    "valid": false,
+    "reason": "形容词，非名词"
+  },
+  {
+    "surface": ", une «",
+    "valid": false,
+    "reason": "标点与残缺冠词碎片"
+  },
+  {
+    "surface": "vêtir",
+    "valid": false,
+    "reason": "动词不定式，非名词"
+  },
+  {
+    "surface": "systemique",
+    "valid": false,
+    "reason": "形容词，非名词"
+  },
+  {
+    "surface": "structurele",
+    "valid": false,
+    "reason": "形容词，非名词"
+  },
+  {
+    "surface": "le niveau",
+    "valid": true
+  },
+  {
+    "surface": "II",
+    "valid": false,
+    "reason": "罗马数字碎片，非名词"
+  },
+  {
+    "surface": "ces mêmes sites",
+    "valid": true
+  },
+  {
+    "surface": "ontologique",
+    "valid": false,
+    "reason": "形容词，非名词"
+  },
+  {
+    "surface": "aléas",
+    "valid": true
+  },
+  {
+    "surface": "de nouvelles potentialités",
+    "valid": true
+  },
+  {
+    "surface": "cristallisation",
+    "valid": true
+  },
+  {
+    "surface": "Feuilleletage",
+    "valid": true
+  },
+  {
+    "surface": "quatre niveaux",
+    "valid": true
+  },
+  {
+    "surface": "intensive",
+    "valid": false,
+    "reason": "形容词，非名词"
+  },
+  {
+    "surface": "présupposition",
+    "valid": true
+  },
+  {
+    "surface": "les niveaux tel que",
+    "valid": false,
+    "reason": "含连接成分，非规范名词短语"
+  },
+  {
+    "surface": "aucun autre niveau",
+    "valid": true
+  },
+  {
+    "surface": "le niveau II",
+    "valid": true
+  },
+  {
+    "surface": "le niveau III",
+    "valid": true
+  },
+  {
+    "surface": "présuppose",
+    "valid": false,
+    "reason": "动词变位，非名词"
+  },
+  {
+    "surface": "les niveaux I et II",
+    "valid": true
+  },
+  {
+    "surface": "domaines",
+    "valid": true
+  },
+  {
+    "surface": "plan",
+    "valid": true
+  },
+  {
+    "surface": "La segmentation",
+    "valid": true
+  },
+  {
+    "surface": "ou résultat",
+    "valid": false,
+    "reason": "含连词，非名词短语"
+  },
+  {
+    "surface": "quatre domaines F.",
+    "valid": true
+  },
+  {
+    "surface": ", U.",
+    "valid": false,
+    "reason": "标点与单字母碎片"
+  },
+  {
+    "surface": "deux arguments",
+    "valid": true
+  },
+  {
+    "surface": "les trois niveaux inconscients",
+    "valid": true
+  },
+  {
+    "surface": "la discursiveit",
+    "valid": true
+  },
+  {
+    "surface": "un argument ontologique",
+    "valid": true
+  },
+  {
+    "surface": "suit",
+    "valid": false,
+    "reason": "动词变位，非名词"
+  },
+  {
+    "surface": "donné",
+    "valid": true
+  },
+  {
+    "surface": "la découlent",
+    "valid": false,
+    "reason": "含动词变位，非规范名词短语"
+  },
+  {
+    "surface": "- des valeurs unaires",
+    "valid": false,
+    "reason": "含标点碎片，非规范名词短语"
+  },
+  {
+    "surface": "correspondance",
+    "valid": true
+  },
+  {
+    "surface": "le Donnant",
+    "valid": true
+  },
+  {
+    "surface": "une dimension irréductible",
+    "valid": true
+  },
+  {
+    "surface": "discontinuité",
+    "valid": true
+  },
+  {
+    "surface": "d'appropriation",
+    "valid": true
+  },
+  {
+    "surface": "(grasping)",
+    "valid": false,
+    "reason": "括号与英文碎片"
+  },
+  {
+    "surface": "l'alternative",
+    "valid": true
+  },
+  {
+    "surface": "minimale",
+    "valid": false,
+    "reason": "形容词，非名词"
+  },
+  {
+    "surface": "n'y",
+    "valid": false,
+    "reason": "代词与副词组合，非名词"
+  },
+  {
+    "surface": "concaténation",
+    "valid": true
+  },
+  {
+    "surface": "les entités",
+    "valid": true
+  },
+  {
+    "surface": "nommés",
+    "valid": false,
+    "reason": "形容词/分词，非名词"
+  },
+  {
+    "surface": "* Découpe",
+    "valid": false,
+    "reason": "含星号碎片"
+  },
+  {
+    "surface": "* Constellation",
+    "valid": false,
+    "reason": "含星号碎片"
+  },
+  {
+    "surface": "la mixie",
+    "valid": true
+  },
+  {
+    "surface": "stoïcienne",
+    "valid": false,
+    "reason": "形容词，非名词"
+  },
+  {
+    "surface": "une inter-penetration totale",
+    "valid": true
+  },
+  {
+    "surface": "interaction directe",
+    "valid": true
+  },
+  {
+    "surface": "dans le respect",
+    "valid": false,
+    "reason": "含介词短语，非名词短语"
+  },
+  {
+    "surface": "l'héterogénède",
+    "valid": true
+  },
+  {
+    "surface": "leurs composants",
+    "valid": true
+  },
+  {
+    "surface": "des valeurs *",
+    "valid": false,
+    "reason": "含星号碎片"
+  },
+  {
+    "surface": "plurieuse",
+    "valid": false,
+    "reason": "形容词，非名词"
+  },
+  {
+    "surface": "une dimension",
+    "valid": true
+  },
+  {
+    "surface": "de multiplicité",
+    "valid": true
+  },
+  {
+    "surface": "la prolifération",
+    "valid": true
+  },
+  {
+    "surface": ", en principe",
+    "valid": false,
+    "reason": "含标点与介词短语"
+  },
+  {
+    "surface": "limite",
+    "valid": true
+  },
+  {
+    "surface": "genres",
+    "valid": true
+  },
+  {
+    "surface": "especes",
+    "valid": true
+  },
+  {
+    "surface": ", de différences",
+    "valid": false,
+    "reason": "含标点碎片"
+  },
+  {
+    "surface": ", d'accidents",
+    "valid": false,
+    "reason": "含标点碎片"
+  },
+  {
+    "surface": "autres attributs",
+    "valid": true
+  },
+  {
+    "surface": "conca-",
+    "valid": false,
+    "reason": "残缺词片段"
+  },
+  {
+    "surface": "carte",
+    "valid": true
+  },
+  {
+    "surface": "ténation",
+    "valid": true
+  },
+  {
+    "surface": "Complexion",
+    "valid": true
+  },
+  {
+    "surface": "le domaine F.",
+    "valid": true
+  },
+  {
+    "surface": "Rhizome",
+    "valid": true
+  },
+  {
+    "surface": "la fusion",
+    "valid": true
+  },
+  {
+    "surface": "la synchisis",
+    "valid": true
+  },
+  {
+    "surface": "stocienice)1",
+    "valid": false,
+    "reason": "含括号与数字碎片"
+  },
+  {
+    "surface": "des délimitations relatives",
+    "valid": true
+  },
+  {
+    "surface": ", des rémanances",
+    "valid": false,
+    "reason": "含标点碎片"
+  },
+  {
+    "surface": "tre",
+    "valid": false,
+    "reason": "残缺词片段"
+  },
+  {
+    "surface": ", des trajectoires",
+    "valid": false,
+    "reason": "含标点碎片"
+  },
+  {
+    "surface": "la du Donne",
+    "valid": false,
+    "reason": "冠词与介词混杂，非规范名词短语"
+  },
+  {
+    "surface": "la Donnant",
+    "valid": true
+  },
+  {
+    "surface": "assujettis",
+    "valid": false,
+    "reason": "分词/形容词，非名词"
+  },
+  {
+    "surface": "et des domaines",
+    "valid": false,
+    "reason": "含连词，非名词短语"
+  },
+  {
+    "surface": "existe",
+    "valid": false,
+    "reason": "动词变位，非名词"
+  },
+  {
+    "surface": "des systèmes propres",
+    "valid": true
+  },
+  {
+    "surface": "intersection",
+    "valid": true
+  },
+  {
+    "surface": "les Helmlev denomène",
+    "valid": true
+  },
+  {
+    "surface": "fonction simétrique",
+    "valid": true
+  },
+  {
+    "surface": "Solidarité",
+    "valid": true
+  },
+  {
+    "surface": "encentre",
+    "valid": false,
+    "reason": "疑似副词/介词组合，非名词"
+  },
+  {
+    "surface": "Saussure",
+    "valid": true
+  },
+  {
+    "surface": "les deux fontifs",
+    "valid": true
+  },
+  {
+    "surface": "d'Expression",
+    "valid": true
+  },
+  {
+    "surface": "E)²",
+    "valid": false,
+    "reason": "符号与数字碎片"
+  },
+  {
+    "surface": "le Donné",
+    "valid": true
+  },
+  {
+    "surface": "tableau",
+    "valid": true
+  },
+  {
+    "surface": "Correspondances",
+    "valid": true
+  },
+  {
+    "surface": "les catégories",
+    "valid": true
+  },
+  {
+    "surface": "appartenance",
+    "valid": true
+  },
+  {
+    "surface": "même Plan",
+    "valid": true
+  },
+  {
+    "surface": "les translations",
+    "valid": true
+  },
+  {
+    "surface": "révélations",
+    "valid": true
+  },
+  {
+    "surface": "ces systèmes",
+    "valid": true
+  },
+  {
+    "surface": ", ces structures",
+    "valid": false,
+    "reason": "含标点碎片"
+  },
+  {
+    "surface": "ces fonctifs",
+    "valid": true
+  },
+  {
+    "surface": "la solidariété siémiotique",
+    "valid": true
+  },
+  {
+    "surface": "un argument cosmologique",
+    "valid": true
+  },
+  {
+    "surface": ", à la réflexion",
+    "valid": false,
+    "reason": "含标点与介词短语"
+  },
+  {
+    "surface": "intersection immédiate",
+    "valid": true
+  },
+  {
+    "surface": "soit par des tenseurs",
+    "valid": false,
+    "reason": "含连词与介词，非名词短语"
+  },
+  {
+    "surface": "Cet argument",
+    "valid": true
+  },
+  {
+    "surface": "un Référent systémique",
+    "valid": true
+  },
+  {
+    "surface": "Rsy",
+    "valid": false,
+    "reason": "缩写/符号碎片"
+  },
+  {
+    "surface": "un Référent structural",
+    "valid": true
+  },
+  {
+    "surface": "Rst",
+    "valid": false,
+    "reason": "缩写/符号碎片"
+  },
+  {
+    "surface": "déterritorialisations",
+    "valid": true
+  },
+  {
+    "surface": "son tour",
+    "valid": true
+  },
+  {
+    "surface": "deux segments",
+    "valid": true
+  },
+  {
+    "surface": "deux types",
+    "valid": true
+  },
+  {
+    "surface": "valeurs génériques",
+    "valid": true
+  },
+  {
+    "surface": "- des valeurs finies",
+    "valid": false,
+    "reason": "含标点碎片"
+  },
+  {
+    "surface": "déterritorialisation réversibles",
+    "valid": true
+  },
+  {
+    "surface": "- des valeurs infinies",
+    "valid": false,
+    "reason": "含标点碎片"
+  },
+  {
+    "surface": "de tout point",
+    "valid": false,
+    "reason": "含限定词与介词，非名词短语"
+  },
+  {
+    "surface": "caractéristiques",
+    "valid": true
+  },
+  {
+    "surface": "Rm",
+    "valid": false,
+    "reason": "缩写/符号碎片"
+  },
+  {
+    "surface": "philogénétiquement",
+    "valid": false,
+    "reason": "副词，非名词"
+  },
+  {
+    "surface": "les tenseurs structuraux",
+    "valid": true
+  },
+  {
+    "surface": "le versant",
+    "valid": true
+  },
+  {
+    "surface": "Donant",
+    "valid": true
+  },
+  {
+    "surface": "des musicales",
+    "valid": true
+  },
+  {
+    "surface": "des sites",
+    "valid": true
+  },
+  {
+    "surface": "ex",
+    "valid": false,
+    "reason": "缩写/碎片"
+  },
+  {
+    "surface": ": une structure musicale",
+    "valid": false,
+    "reason": "含标点碎片"
+  },
+  {
+    "surface": "des Univers incorpores",
+    "valid": true
+  },
+  {
+    "surface": "harmonique",
+    "valid": false,
+    "reason": "形容词，非名词"
+  },
+  {
+    "surface": "des coordonnées energetic",
+    "valid": true
+  },
+  {
+    "surface": "co",
+    "valid": false,
+    "reason": "残缺词片段"
+  },
+  {
+    "surface": "sa datation *",
+    "valid": false,
+    "reason": "含星号碎片"
+  },
+  {
+    "surface": "l'Inconscient secondaire",
+    "valid": true
+  },
+  {
+    "surface": "Les tensures",
+    "valid": true
+  },
+  {
+    "surface": "référence extrinsure",
+    "valid": true
+  },
+  {
+    "surface": "des vecteurs projectifs",
+    "valid": true
+  },
+  {
+    "surface": "la différence",
+    "valid": true
+  },
+  {
+    "surface": "précédents",
+    "valid": false,
+    "reason": "形容词/分词，非名词"
+  },
+  {
+    "surface": "une entité",
+    "valid": true
+  },
+  {
+    "surface": "arrivee",
+    "valid": true
+  },
+  {
+    "surface": "entité semiotique",
+    "valid": true
+  },
+  {
+    "surface": "la réciproque",
+    "valid": true
+  },
+  {
+    "surface": "l'Inconscient primaire",
+    "valid": true
+  },
+  {
+    "surface": "A ce niveau secondaire",
+    "valid": false,
+    "reason": "含介词与指示词，非名词短语"
+  },
+  {
+    "surface": "l'Inconscien",
+    "valid": true
+  },
+  {
+    "surface": "le travail schizonaïlique",
+    "valid": true
+  },
+  {
+    "surface": "les composants",
+    "valid": true
+  },
+  {
+    "surface": "une réduction",
+    "valid": true
+  },
+  {
+    "surface": "leur nombre",
+    "valid": true
+  },
+  {
+    "surface": "une discernabilisation accrue ou une globalisation de leurs opérations",
+    "valid": false,
+    "reason": "含连词与复杂动词性结构，非单一名词短语"
+  },
+  {
+    "surface": "une accélération",
+    "valid": true
+  },
+  {
+    "surface": "un raentissement",
+    "valid": true
+  },
+  {
+    "surface": "leur mode",
+    "valid": true
+  },
+  {
+    "surface": "temporalisation",
+    "valid": true
+  },
+  {
+    "surface": "un réticissement",
+    "valid": true
+  },
+  {
+    "surface": "leur objet",
+    "valid": true
+  },
+  {
+    "surface": "un dépouillement",
+    "valid": true
+  },
+  {
+    "surface": "leur matière",
+    "valid": true
+  },
+  {
+    "surface": "référence intrinseque",
+    "valid": true
+  },
+  {
+    "surface": "des couples",
+    "valid": true
+  },
+  {
+    "surface": "veectures bijectifs",
+    "valid": true
+  },
+  {
+    "surface": "-Inconscionne primaire",
+    "valid": false,
+    "reason": "含标点碎片"
+  },
+  {
+    "surface": "la mediation",
+    "valid": true
+  },
+  {
+    "surface": "niveaux secondaires et tertiaires",
+    "valid": true
+  },
+  {
+    "surface": "les bras",
+    "valid": true
+  },
+  {
+    "surface": "It est même essentiel",
+    "valid": false,
+    "reason": "完整句子片段，非名词短语"
+  },
+  {
+    "surface": "les domains",
+    "valid": true
+  }
+]

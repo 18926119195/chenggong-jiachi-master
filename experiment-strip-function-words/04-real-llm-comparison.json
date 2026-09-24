@@ -1,0 +1,1491 @@
+{
+  "sampleSize": 80,
+  "newSchemeUsage": {
+    "prompt_tokens": 1079,
+    "completion_tokens": 682,
+    "total_tokens": 1761,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 1079
+  },
+  "stats": {
+    "original": {
+      "total": 115,
+      "stopwords": 0,
+      "stopwordTypes": [],
+      "realNounUnique": 114
+    },
+    "stripped": {
+      "total": 68,
+      "stopwords": 0,
+      "stopwordTypes": [],
+      "realNounUnique": 68
+    }
+  },
+  "diff": {
+    "both": [
+      "humaines",
+      "post-mediaque",
+      "similaires",
+      "absolu",
+      "ouvert",
+      "collectives",
+      "complémentaire",
+      "mimétique",
+      "quatre",
+      "seconds",
+      "identitarisante",
+      "expressive",
+      "spontanés",
+      "concretisée",
+      "propre",
+      "statistiques",
+      "essentielle",
+      "principaux",
+      "derritorialisées",
+      "opérationnelle",
+      "inter-entitiare",
+      "intermédiaire",
+      "infini",
+      "paradoxal",
+      "ultime",
+      "a-signifiant",
+      "deterritorialisés",
+      "diachroniques",
+      "pacifiée",
+      "écrit",
+      "aucune",
+      "structurel"
+    ],
+    "onlyOrig": [
+      "corporels",
+      "rouages",
+      "fétiches",
+      "transitionnels",
+      "esthétique",
+      "scientifique",
+      "pouvoir",
+      "subjectif",
+      "deterritorialisée",
+      "illustrer",
+      "passent",
+      "insiparables",
+      "freudienne",
+      "surtout",
+      "topique",
+      "fondée",
+      "secondaire",
+      "aisément",
+      "démontrer",
+      "constitue",
+      "échappant",
+      "sociales",
+      "simple",
+      "cache",
+      "libidinal",
+      "paramètre",
+      "correspond",
+      "laquelle",
+      "serrure",
+      "devenir",
+      "multicolores",
+      "tirer",
+      "relatives",
+      "devaient",
+      "essentiellement",
+      "extrayait",
+      "énergétique",
+      "quantum",
+      "opérateurs",
+      "intensifs",
+      "φ.u",
+      "chagrin",
+      "m-q",
+      "généralisé",
+      "d'équivaloir",
+      "fondatrice",
+      "pose",
+      "dire",
+      "seria",
+      "nulle",
+      "aléatoire",
+      "désormais",
+      "indistincte",
+      "imagematrique",
+      "existentialisantes",
+      "hégemoniquement",
+      "singulaires",
+      "pre-personnelle",
+      "économiques",
+      "institutionnelles",
+      "mythographiques",
+      "informationnelles",
+      "logiques",
+      "argumente",
+      "d'abord",
+      "affirmer",
+      "appartient",
+      "renoncé",
+      "qu'on",
+      "complaisamment",
+      "prétait",
+      "écrire",
+      "j'ai",
+      "passerait",
+      "anéantissement",
+      "endu",
+      "collectifs",
+      "détour",
+      "esthetique",
+      "ritournelles",
+      "l'avant",
+      "troisième"
+    ],
+    "onlyNew": [
+      "rouages corporels",
+      "transitionnels fétiches",
+      "technique scientifique esthétique",
+      "pouvoir subjectif portée",
+      "subjectives",
+      "obsessionnelle insiparables",
+      "secondaire topique freudienne",
+      "contrainte",
+      "artistiques sociales",
+      "paramètre libidinal • cache",
+      "serrure cente",
+      "devenir multicolores",
+      "environnementales",
+      "l",
+      "quantum énergétique",
+      "chauceφu opérateurs intensifs",
+      "-chagrin",
+      "m-f m-q n d",
+      "déquivaloir généralisé vide",
+      "pose fondatrice",
+      "horizontale",
+      "virulents seria",
+      "aléatoire n nulle",
+      "indistincte l",
+      "dimagematrique",
+      "singulaires hégemoniquement existentialisantes",
+      "pre-personnelle sintuissant",
+      "mythographiques institutionnelles économiques",
+      "logiques informationnelles",
+      "danéantissement tous",
+      "germé",
+      "individuels collectifs",
+      "détour esthetique",
+      "ritournelles règle générale",
+      "massifs l",
+      "troisième dernière"
+    ]
+  },
+  "avgCompressionRatio": 0.6590164773308771,
+  "perResidual": [
+    {
+      "original": "des rouages corporels. De leur",
+      "cleaned": "rouages corporels",
+      "nounsOrig": [
+        "corporels",
+        "rouages"
+      ],
+      "nounsNew": [
+        "rouages corporels"
+      ],
+      "realOrig": [
+        "corporels",
+        "rouages"
+      ],
+      "realNew": [
+        "rouages corporels"
+      ]
+    },
+    {
+      "original": "transitionnels, fétiches de toute",
+      "cleaned": "transitionnels fétiches toute",
+      "nounsOrig": [
+        "fétiches",
+        "transitionnels"
+      ],
+      "nounsNew": [
+        "transitionnels fétiches"
+      ],
+      "realOrig": [
+        "fétiches",
+        "transitionnels"
+      ],
+      "realNew": [
+        "transitionnels fétiches"
+      ]
+    },
+    {
+      "original": "technique, scientifique et esthétique. On peut doncenter de dater ces",
+      "cleaned": "technique scientifique esthétique doncenter dater",
+      "nounsOrig": [
+        "esthétique",
+        "scientifique"
+      ],
+      "nounsNew": [
+        "technique scientifique esthétique"
+      ],
+      "realOrig": [
+        "esthétique",
+        "scientifique"
+      ],
+      "realNew": [
+        "technique scientifique esthétique"
+      ]
+    },
+    {
+      "original": "deterritorialisée de pouvoir subjectif portée par l'",
+      "cleaned": "deterritorialisée pouvoir subjectif portée l",
+      "nounsOrig": [
+        "pouvoir",
+        "subjectif",
+        "deterritorialisée"
+      ],
+      "nounsNew": [
+        "pouvoir subjectif portée"
+      ],
+      "realOrig": [
+        "pouvoir",
+        "subjectif",
+        "deterritorialisée"
+      ],
+      "realNew": [
+        "pouvoir subjectif portée"
+      ]
+    },
+    {
+      "original": "humaines et son",
+      "cleaned": "humaines",
+      "nounsOrig": [
+        "humaines"
+      ],
+      "nounsNew": [
+        "humaines"
+      ],
+      "realOrig": [
+        "humaines"
+      ],
+      "realNew": [
+        "humaines"
+      ]
+    },
+    {
+      "original": "post-mediaque – permettra à chacun d'assurer pleinement des",
+      "cleaned": "post-mediaque – permettra à dassurer pleinement",
+      "nounsOrig": [
+        "post-mediaque"
+      ],
+      "nounsNew": [
+        "post-mediaque"
+      ],
+      "realOrig": [
+        "post-mediaque"
+      ],
+      "realNew": [
+        "post-mediaque"
+      ]
+    },
+    {
+      "original": "similaires, tels que des",
+      "cleaned": "similaires",
+      "nounsOrig": [
+        "similaires"
+      ],
+      "nounsNew": [
+        "similaires"
+      ],
+      "realOrig": [
+        "similaires"
+      ],
+      "realNew": [
+        "similaires"
+      ]
+    },
+    {
+      "original": ", pour illustrer ces",
+      "cleaned": "illustrer",
+      "nounsOrig": [
+        "illustrer"
+      ],
+      "nounsNew": [],
+      "realOrig": [
+        "illustrer"
+      ],
+      "realNew": []
+    },
+    {
+      "original": "subjectives passent ici « à",
+      "cleaned": "subjectives passent à",
+      "nounsOrig": [
+        "passent"
+      ],
+      "nounsNew": [
+        "subjectives"
+      ],
+      "realOrig": [
+        "passent"
+      ],
+      "realNew": [
+        "subjectives"
+      ]
+    },
+    {
+      "original": "obsessionnelle, sont insiparables d'un",
+      "cleaned": "obsessionnelle insiparables d",
+      "nounsOrig": [
+        "insiparables"
+      ],
+      "nounsNew": [
+        "obsessionnelle insiparables"
+      ],
+      "realOrig": [
+        "insiparables"
+      ],
+      "realNew": [
+        "obsessionnelle insiparables"
+      ]
+    },
+    {
+      "original": "absolu d'une",
+      "cleaned": "absolu d",
+      "nounsOrig": [
+        "absolu"
+      ],
+      "nounsNew": [
+        "absolu"
+      ],
+      "realOrig": [
+        "absolu"
+      ],
+      "realNew": [
+        "absolu"
+      ]
+    },
+    {
+      "original": "secondaire. Surtout, si elle doit être fondée, comme dans la seconde topique freudienne (",
+      "cleaned": "secondaire Surtout fondée topique freudienne",
+      "nounsOrig": [
+        "freudienne",
+        "surtout",
+        "topique",
+        "fondée",
+        "secondaire"
+      ],
+      "nounsNew": [
+        "secondaire topique freudienne"
+      ],
+      "realOrig": [
+        "freudienne",
+        "surtout",
+        "topique",
+        "fondée",
+        "secondaire"
+      ],
+      "realNew": [
+        "secondaire topique freudienne"
+      ]
+    },
+    {
+      "original": "possible ouvert, une",
+      "cleaned": "ouvert",
+      "nounsOrig": [
+        "ouvert"
+      ],
+      "nounsNew": [
+        "ouvert"
+      ],
+      "realOrig": [
+        "ouvert"
+      ],
+      "realNew": [
+        "ouvert"
+      ]
+    },
+    {
+      "original": ", aisément démontrer que",
+      "cleaned": "aisément démontrer",
+      "nounsOrig": [
+        "aisément",
+        "démontrer"
+      ],
+      "nounsNew": [],
+      "realOrig": [
+        "aisément",
+        "démontrer"
+      ],
+      "realNew": []
+    },
+    {
+      "original": "; mais il ne constitue pas une contrainte",
+      "cleaned": "ne constitue contrainte",
+      "nounsOrig": [
+        "constitue"
+      ],
+      "nounsNew": [
+        "contrainte"
+      ],
+      "realOrig": [
+        "constitue"
+      ],
+      "realNew": [
+        "contrainte"
+      ]
+    },
+    {
+      "original": "de possible échappant à la",
+      "cleaned": "échappant à",
+      "nounsOrig": [
+        "échappant"
+      ],
+      "nounsNew": [],
+      "realOrig": [
+        "échappant"
+      ],
+      "realNew": []
+    },
+    {
+      "original": "collectives et des",
+      "cleaned": "collectives",
+      "nounsOrig": [
+        "collectives"
+      ],
+      "nounsNew": [
+        "collectives"
+      ],
+      "realOrig": [
+        "collectives"
+      ],
+      "realNew": [
+        "collectives"
+      ]
+    },
+    {
+      "original": "artistiques et sociales ne sauraient plus déboucher que sur un",
+      "cleaned": "artistiques sociales ne sauraient déboucher",
+      "nounsOrig": [
+        "sociales"
+      ],
+      "nounsNew": [
+        "artistiques sociales"
+      ],
+      "realOrig": [
+        "sociales"
+      ],
+      "realNew": [
+        "artistiques sociales"
+      ]
+    },
+    {
+      "original": "de complémentaire entre les",
+      "cleaned": "complémentaire",
+      "nounsOrig": [
+        "complémentaire"
+      ],
+      "nounsNew": [
+        "complémentaire"
+      ],
+      "realOrig": [
+        "complémentaire"
+      ],
+      "realNew": [
+        "complémentaire"
+      ]
+    },
+    {
+      "original": "n'était qu'un simple",
+      "cleaned": "n qu simple",
+      "nounsOrig": [
+        "simple"
+      ],
+      "nounsNew": [],
+      "realOrig": [
+        "simple"
+      ],
+      "realNew": []
+    },
+    {
+      "original": "qui, tout en renonçant au paramètre libidinal • cache • (qui échappait en",
+      "cleaned": "en renonçant paramètre libidinal • cache • échappait en",
+      "nounsOrig": [
+        "cache",
+        "libidinal",
+        "paramètre"
+      ],
+      "nounsNew": [
+        "paramètre libidinal • cache"
+      ],
+      "realOrig": [
+        "cache",
+        "libidinal",
+        "paramètre"
+      ],
+      "realNew": [
+        "paramètre libidinal • cache"
+      ]
+    },
+    {
+      "original": "mimétique, ni leur",
+      "cleaned": "mimétique",
+      "nounsOrig": [
+        "mimétique"
+      ],
+      "nounsNew": [
+        "mimétique"
+      ],
+      "realOrig": [
+        "mimétique"
+      ],
+      "realNew": [
+        "mimétique"
+      ]
+    },
+    {
+      "original": "Les quatre",
+      "cleaned": "quatre",
+      "nounsOrig": [
+        "quatre"
+      ],
+      "nounsNew": [
+        "quatre"
+      ],
+      "realOrig": [
+        "quatre"
+      ],
+      "realNew": [
+        "quatre"
+      ]
+    },
+    {
+      "original": "seconds du",
+      "cleaned": "seconds",
+      "nounsOrig": [
+        "seconds"
+      ],
+      "nounsNew": [
+        "seconds"
+      ],
+      "realOrig": [
+        "seconds"
+      ],
+      "realNew": [
+        "seconds"
+      ]
+    },
+    {
+      "original": "« identitarisante » de",
+      "cleaned": "identitarisante",
+      "nounsOrig": [
+        "identitarisante"
+      ],
+      "nounsNew": [
+        "identitarisante"
+      ],
+      "realOrig": [
+        "identitarisante"
+      ],
+      "realNew": [
+        "identitarisante"
+      ]
+    },
+    {
+      "original": "expressive.",
+      "cleaned": "expressive",
+      "nounsOrig": [
+        "expressive"
+      ],
+      "nounsNew": [
+        "expressive"
+      ],
+      "realOrig": [
+        "expressive"
+      ],
+      "realNew": [
+        "expressive"
+      ]
+    },
+    {
+      "original": "« spontanés » et les",
+      "cleaned": "spontanés",
+      "nounsOrig": [
+        "spontanés"
+      ],
+      "nounsNew": [
+        "spontanés"
+      ],
+      "realOrig": [
+        "spontanés"
+      ],
+      "realNew": [
+        "spontanés"
+      ]
+    },
+    {
+      "original": "de la serrure à laquelle elle correspond. Cente",
+      "cleaned": "serrure à laquelle correspond Cente",
+      "nounsOrig": [
+        "correspond",
+        "laquelle",
+        "serrure"
+      ],
+      "nounsNew": [
+        "serrure Cente"
+      ],
+      "realOrig": [
+        "correspond",
+        "laquelle",
+        "serrure"
+      ],
+      "realNew": [
+        "serrure Cente"
+      ]
+    },
+    {
+      "original": ", et de devenir multicolores. Ici, par",
+      "cleaned": "devenir multicolores",
+      "nounsOrig": [
+        "devenir",
+        "multicolores"
+      ],
+      "nounsNew": [
+        "devenir multicolores"
+      ],
+      "realOrig": [
+        "devenir",
+        "multicolores"
+      ],
+      "realNew": [
+        "devenir multicolores"
+      ]
+    },
+    {
+      "original": "Fait lui tirer toutes les",
+      "cleaned": "tirer toutes",
+      "nounsOrig": [
+        "tirer"
+      ],
+      "nounsNew": [],
+      "realOrig": [
+        "tirer"
+      ],
+      "realNew": []
+    },
+    {
+      "original": "et celle concretisée dans la",
+      "cleaned": "concretisée",
+      "nounsOrig": [
+        "concretisée"
+      ],
+      "nounsNew": [
+        "concretisée"
+      ],
+      "realOrig": [
+        "concretisée"
+      ],
+      "realNew": [
+        "concretisée"
+      ]
+    },
+    {
+      "original": "environnementales relatives à la",
+      "cleaned": "environnementales relatives à",
+      "nounsOrig": [
+        "relatives"
+      ],
+      "nounsNew": [
+        "environnementales"
+      ],
+      "realOrig": [
+        "relatives"
+      ],
+      "realNew": [
+        "environnementales"
+      ]
+    },
+    {
+      "original": "devaient être",
+      "cleaned": "devaient",
+      "nounsOrig": [
+        "devaient"
+      ],
+      "nounsNew": [],
+      "realOrig": [
+        "devaient"
+      ],
+      "realNew": []
+    },
+    {
+      "original": ", de possible et de nécessaire, est essentiellement un",
+      "cleaned": "essentiellement",
+      "nounsOrig": [
+        "essentiellement"
+      ],
+      "nounsNew": [],
+      "realOrig": [
+        "essentiellement"
+      ],
+      "realNew": []
+    },
+    {
+      "original": "qui « extrayait » l'",
+      "cleaned": "extrayait l",
+      "nounsOrig": [
+        "extrayait"
+      ],
+      "nounsNew": [
+        "l"
+      ],
+      "realOrig": [
+        "extrayait"
+      ],
+      "realNew": [
+        "l"
+      ]
+    },
+    {
+      "original": "propre au second",
+      "cleaned": "propre",
+      "nounsOrig": [
+        "propre"
+      ],
+      "nounsNew": [
+        "propre"
+      ],
+      "realOrig": [
+        "propre"
+      ],
+      "realNew": [
+        "propre"
+      ]
+    },
+    {
+      "original": "statistiques et toutes autres",
+      "cleaned": "statistiques toutes",
+      "nounsOrig": [
+        "statistiques"
+      ],
+      "nounsNew": [
+        "statistiques"
+      ],
+      "realOrig": [
+        "statistiques"
+      ],
+      "realNew": [
+        "statistiques"
+      ]
+    },
+    {
+      "original": "nous était apparu précédemment comme ayant essentielle une",
+      "cleaned": "apparu précédemment ayant essentielle",
+      "nounsOrig": [
+        "essentielle"
+      ],
+      "nounsNew": [
+        "essentielle"
+      ],
+      "realOrig": [
+        "essentielle"
+      ],
+      "realNew": [
+        "essentielle"
+      ]
+    },
+    {
+      "original": "principaux que les",
+      "cleaned": "principaux",
+      "nounsOrig": [
+        "principaux"
+      ],
+      "nounsNew": [
+        "principaux"
+      ],
+      "realOrig": [
+        "principaux"
+      ],
+      "realNew": [
+        "principaux"
+      ]
+    },
+    {
+      "original": "derritorialisées balayant sur le",
+      "cleaned": "derritorialisées balayant",
+      "nounsOrig": [
+        "derritorialisées"
+      ],
+      "nounsNew": [
+        "derritorialisées"
+      ],
+      "realOrig": [
+        "derritorialisées"
+      ],
+      "realNew": [
+        "derritorialisées"
+      ]
+    },
+    {
+      "original": "un même quantum énergétique sous des",
+      "cleaned": "quantum énergétique",
+      "nounsOrig": [
+        "énergétique",
+        "quantum"
+      ],
+      "nounsNew": [
+        "quantum énergétique"
+      ],
+      "realOrig": [
+        "énergétique",
+        "quantum"
+      ],
+      "realNew": [
+        "quantum énergétique"
+      ]
+    },
+    {
+      "original": "(nulle et chauce)Φ.U. opérateurs intensifs de",
+      "cleaned": "nulle chauceΦU opérateurs intensifs",
+      "nounsOrig": [
+        "opérateurs",
+        "intensifs",
+        "Φ.U"
+      ],
+      "nounsNew": [
+        "chauceΦU opérateurs intensifs"
+      ],
+      "realOrig": [
+        "opérateurs",
+        "intensifs",
+        "Φ.U"
+      ],
+      "realNew": [
+        "chauceΦU opérateurs intensifs"
+      ]
+    },
+    {
+      "original": "opérationnelle.",
+      "cleaned": "opérationnelle",
+      "nounsOrig": [
+        "opérationnelle"
+      ],
+      "nounsNew": [
+        "opérationnelle"
+      ],
+      "realOrig": [
+        "opérationnelle"
+      ],
+      "realNew": [
+        "opérationnelle"
+      ]
+    },
+    {
+      "original": "inter-entitiare n's abolit plus, mais elle consolide son",
+      "cleaned": "inter-entitiare ns abolit consolide",
+      "nounsOrig": [
+        "inter-entitiare"
+      ],
+      "nounsNew": [
+        "inter-entitiare"
+      ],
+      "realOrig": [
+        "inter-entitiare"
+      ],
+      "realNew": [
+        "inter-entitiare"
+      ]
+    },
+    {
+      "original": "intermédiaire procédant par",
+      "cleaned": "intermédiaire procédant",
+      "nounsOrig": [
+        "intermédiaire"
+      ],
+      "nounsNew": [
+        "intermédiaire"
+      ],
+      "realOrig": [
+        "intermédiaire"
+      ],
+      "realNew": [
+        "intermédiaire"
+      ]
+    },
+    {
+      "original": "-chagrin du",
+      "cleaned": "-chagrin",
+      "nounsOrig": [
+        "chagrin"
+      ],
+      "nounsNew": [
+        "-chagrin"
+      ],
+      "realOrig": [
+        "chagrin"
+      ],
+      "realNew": [
+        "-chagrin"
+      ]
+    },
+    {
+      "original": "m-f et m-q et n'a *plus d'autre",
+      "cleaned": "m-f m-q n d",
+      "nounsOrig": [
+        "m-q"
+      ],
+      "nounsNew": [
+        "m-f m-q n d"
+      ],
+      "realOrig": [
+        "m-q"
+      ],
+      "realNew": [
+        "m-f m-q n d"
+      ]
+    },
+    {
+      "original": "infini des",
+      "cleaned": "infini",
+      "nounsOrig": [
+        "infini"
+      ],
+      "nounsNew": [
+        "infini"
+      ],
+      "realOrig": [
+        "infini"
+      ],
+      "realNew": [
+        "infini"
+      ]
+    },
+    {
+      "original": "paradoxal du",
+      "cleaned": "paradoxal",
+      "nounsOrig": [
+        "paradoxal"
+      ],
+      "nounsNew": [
+        "paradoxal"
+      ],
+      "realOrig": [
+        "paradoxal"
+      ],
+      "realNew": [
+        "paradoxal"
+      ]
+    },
+    {
+      "original": "d'équivaloir généralisé qui ronge et vide tout sur son",
+      "cleaned": "déquivaloir généralisé ronge vide",
+      "nounsOrig": [
+        "généralisé",
+        "d'équivaloir"
+      ],
+      "nounsNew": [
+        "déquivaloir généralisé vide"
+      ],
+      "realOrig": [
+        "généralisé",
+        "d'équivaloir"
+      ],
+      "realNew": [
+        "déquivaloir généralisé vide"
+      ]
+    },
+    {
+      "original": "se pose comme fondatrice tout à la",
+      "cleaned": "pose fondatrice à",
+      "nounsOrig": [
+        "fondatrice",
+        "pose"
+      ],
+      "nounsNew": [
+        "pose fondatrice"
+      ],
+      "realOrig": [
+        "fondatrice",
+        "pose"
+      ],
+      "realNew": [
+        "pose fondatrice"
+      ]
+    },
+    {
+      "original": "horizontale. Dire qu'il chaque",
+      "cleaned": "horizontale Dire qu",
+      "nounsOrig": [
+        "dire"
+      ],
+      "nounsNew": [
+        "horizontale"
+      ],
+      "realOrig": [
+        "dire"
+      ],
+      "realNew": [
+        "horizontale"
+      ]
+    },
+    {
+      "original": "virulents je seria",
+      "cleaned": "virulents seria",
+      "nounsOrig": [
+        "seria"
+      ],
+      "nounsNew": [
+        "virulents seria"
+      ],
+      "realOrig": [
+        "seria"
+      ],
+      "realNew": [
+        "virulents seria"
+      ]
+    },
+    {
+      "original": "» aléatoire qui n'a nulle",
+      "cleaned": "aléatoire n nulle",
+      "nounsOrig": [
+        "nulle",
+        "aléatoire"
+      ],
+      "nounsNew": [
+        "aléatoire n nulle"
+      ],
+      "realOrig": [
+        "nulle",
+        "aléatoire"
+      ],
+      "realNew": [
+        "aléatoire n nulle"
+      ]
+    },
+    {
+      "original": ", laquelle devient, désormais, indistincte de l'",
+      "cleaned": "laquelle devient désormais indistincte l",
+      "nounsOrig": [
+        "laquelle",
+        "Désormais",
+        "indistincte"
+      ],
+      "nounsNew": [
+        "indistincte l"
+      ],
+      "realOrig": [
+        "laquelle",
+        "Désormais",
+        "indistincte"
+      ],
+      "realNew": [
+        "indistincte l"
+      ]
+    },
+    {
+      "original": "d'imagematrique. Le",
+      "cleaned": "dimagematrique",
+      "nounsOrig": [
+        "imagematrique"
+      ],
+      "nounsNew": [
+        "dimagematrique"
+      ],
+      "realOrig": [
+        "imagematrique"
+      ],
+      "realNew": [
+        "dimagematrique"
+      ]
+    },
+    {
+      "original": "ultime à son",
+      "cleaned": "ultime à",
+      "nounsOrig": [
+        "ultime"
+      ],
+      "nounsNew": [
+        "ultime"
+      ],
+      "realOrig": [
+        "ultime"
+      ],
+      "realNew": [
+        "ultime"
+      ]
+    },
+    {
+      "original": "a-signifiant, les",
+      "cleaned": "a-signifiant",
+      "nounsOrig": [
+        "a-signifiant"
+      ],
+      "nounsNew": [
+        "a-signifiant"
+      ],
+      "realOrig": [
+        "a-signifiant"
+      ],
+      "realNew": [
+        "a-signifiant"
+      ]
+    },
+    {
+      "original": "singulaires hégemoniquement existentialisantes se trouvent en quelque",
+      "cleaned": "singulaires hégemoniquement existentialisantes trouvent en",
+      "nounsOrig": [
+        "existentialisantes",
+        "hégemoniquement",
+        "singulaires"
+      ],
+      "nounsNew": [
+        "singulaires hégemoniquement existentialisantes"
+      ],
+      "realOrig": [
+        "existentialisantes",
+        "hégemoniquement",
+        "singulaires"
+      ],
+      "realNew": [
+        "singulaires hégemoniquement existentialisantes"
+      ]
+    },
+    {
+      "original": "deterritorialisés qui prenent la",
+      "cleaned": "deterritorialisés prenent",
+      "nounsOrig": [
+        "deterritorialisés"
+      ],
+      "nounsNew": [
+        "deterritorialisés"
+      ],
+      "realOrig": [
+        "deterritorialisés"
+      ],
+      "realNew": [
+        "deterritorialisés"
+      ]
+    },
+    {
+      "original": "pre-personnelle, s'intuissant « avant la",
+      "cleaned": "pre-personnelle sintuissant",
+      "nounsOrig": [
+        "pre-personnelle"
+      ],
+      "nounsNew": [
+        "pre-personnelle sintuissant"
+      ],
+      "realOrig": [
+        "pre-personnelle"
+      ],
+      "realNew": [
+        "pre-personnelle sintuissant"
+      ]
+    },
+    {
+      "original": "diachroniques.",
+      "cleaned": "diachroniques",
+      "nounsOrig": [
+        "diachroniques"
+      ],
+      "nounsNew": [
+        "diachroniques"
+      ],
+      "realOrig": [
+        "diachroniques"
+      ],
+      "realNew": [
+        "diachroniques"
+      ]
+    },
+    {
+      "original": ", mythographiques, institutionnelles, économiques,",
+      "cleaned": "mythographiques institutionnelles économiques",
+      "nounsOrig": [
+        "économiques",
+        "institutionnelles",
+        "mythographiques"
+      ],
+      "nounsNew": [
+        "mythographiques institutionnelles économiques"
+      ],
+      "realOrig": [
+        "économiques",
+        "institutionnelles",
+        "mythographiques"
+      ],
+      "realNew": [
+        "mythographiques institutionnelles économiques"
+      ]
+    },
+    {
+      "original": "des logiques informationnelles et",
+      "cleaned": "logiques informationnelles",
+      "nounsOrig": [
+        "informationnelles",
+        "logiques"
+      ],
+      "nounsNew": [
+        "logiques informationnelles"
+      ],
+      "realOrig": [
+        "informationnelles",
+        "logiques"
+      ],
+      "realNew": [
+        "logiques informationnelles"
+      ]
+    },
+    {
+      "original": "pacifiée. +",
+      "cleaned": "pacifiée +",
+      "nounsOrig": [
+        "pacifiée"
+      ],
+      "nounsNew": [
+        "pacifiée"
+      ],
+      "realOrig": [
+        "pacifiée"
+      ],
+      "realNew": [
+        "pacifiée"
+      ]
+    },
+    {
+      "original": ". Il y argumente par une",
+      "cleaned": "y argumente",
+      "nounsOrig": [
+        "argumente"
+      ],
+      "nounsNew": [],
+      "realOrig": [
+        "argumente"
+      ],
+      "realNew": []
+    },
+    {
+      "original": "a d'abord écrit affirmer sa",
+      "cleaned": "dabord écrit affirmer",
+      "nounsOrig": [
+        "d'abord",
+        "affirmer",
+        "écrit"
+      ],
+      "nounsNew": [
+        "écrit"
+      ],
+      "realOrig": [
+        "d'abord",
+        "affirmer",
+        "écrit"
+      ],
+      "realNew": [
+        "écrit"
+      ]
+    },
+    {
+      "original": "appartient aussi au",
+      "cleaned": "appartient",
+      "nounsOrig": [
+        "appartient"
+      ],
+      "nounsNew": [],
+      "realOrig": [
+        "appartient"
+      ],
+      "realNew": []
+    },
+    {
+      "original": "n' a renoncé à aucune de ses",
+      "cleaned": "n renoncé à aucune",
+      "nounsOrig": [
+        "aucune",
+        "renoncé"
+      ],
+      "nounsNew": [
+        "aucune"
+      ],
+      "realOrig": [
+        "aucune",
+        "renoncé"
+      ],
+      "realNew": [
+        "aucune"
+      ]
+    },
+    {
+      "original": ", dont certains, à ce qu'on dit, se prétait complaisamment à la",
+      "cleaned": "à qu prétait complaisamment à",
+      "nounsOrig": [
+        "qu'on",
+        "complaisamment",
+        "prétait"
+      ],
+      "nounsNew": [],
+      "realOrig": [
+        "qu'on",
+        "complaisamment",
+        "prétait"
+      ],
+      "realNew": []
+    },
+    {
+      "original": ", que j'ai pu écrire, il y a un",
+      "cleaned": "jai pu écrire y",
+      "nounsOrig": [
+        "écrire",
+        "j'ai"
+      ],
+      "nounsNew": [],
+      "realOrig": [
+        "écrire",
+        "j'ai"
+      ],
+      "realNew": []
+    },
+    {
+      "original": ". On passerait ainsi de",
+      "cleaned": "passerait",
+      "nounsOrig": [
+        "passerait"
+      ],
+      "nounsNew": [],
+      "realOrig": [
+        "passerait"
+      ],
+      "realNew": []
+    },
+    {
+      "original": "d'anéantissement. Tous ces",
+      "cleaned": "danéantissement Tous",
+      "nounsOrig": [
+        "anéantissement"
+      ],
+      "nounsNew": [
+        "danéantissement Tous"
+      ],
+      "realOrig": [
+        "anéantissement"
+      ],
+      "realNew": [
+        "danéantissement Tous"
+      ]
+    },
+    {
+      "original": "avait germé, c'était en endu qui pendant quatorant",
+      "cleaned": "avait germé c en endu quatorant",
+      "nounsOrig": [
+        "endu"
+      ],
+      "nounsNew": [
+        "germé"
+      ],
+      "realOrig": [
+        "endu"
+      ],
+      "realNew": [
+        "germé"
+      ]
+    },
+    {
+      "original": "individuels et collectifs en singularisant constam-",
+      "cleaned": "individuels collectifs en singularisant constam-",
+      "nounsOrig": [
+        "collectifs"
+      ],
+      "nounsNew": [
+        "individuels collectifs"
+      ],
+      "realOrig": [
+        "collectifs"
+      ],
+      "realNew": [
+        "individuels collectifs"
+      ]
+    },
+    {
+      "original": "structurel, pour autant que ceux-ci se mettent à émettre",
+      "cleaned": "structurel autant ceux-ci mettent à émettre",
+      "nounsOrig": [
+        "structurel"
+      ],
+      "nounsNew": [
+        "structurel"
+      ],
+      "realOrig": [
+        "structurel"
+      ],
+      "realNew": [
+        "structurel"
+      ]
+    },
+    {
+      "original": ", par détour esthetique, par",
+      "cleaned": "détour esthetique",
+      "nounsOrig": [
+        "détour",
+        "esthetique"
+      ],
+      "nounsNew": [
+        "détour esthetique"
+      ],
+      "realOrig": [
+        "détour",
+        "esthetique"
+      ],
+      "realNew": [
+        "détour esthetique"
+      ]
+    },
+    {
+      "original": ", qu'est-ce qui caractérise de telles ritournelles, qu'est-ce qui permet de les reconnaître? En règle générale, il s'agit de",
+      "cleaned": "quest-ce caractérise ritournelles quest-ce permet reconnaître En règle générale sagit",
+      "nounsOrig": [
+        "ritournelles"
+      ],
+      "nounsNew": [
+        "ritournelles règle générale"
+      ],
+      "realOrig": [
+        "ritournelles"
+      ],
+      "realNew": [
+        "ritournelles règle générale"
+      ]
+    },
+    {
+      "original": "plus massifs, du moins ceux qui se trouvent à l'avant de la",
+      "cleaned": "massifs trouvent à l",
+      "nounsOrig": [
+        "l'avant"
+      ],
+      "nounsNew": [
+        "massifs l"
+      ],
+      "realOrig": [
+        "l'avant"
+      ],
+      "realNew": [
+        "massifs l"
+      ]
+    },
+    {
+      "original": "est venu de passer à ma troisième et dernière",
+      "cleaned": "venu passer à troisième dernière",
+      "nounsOrig": [
+        "troisième"
+      ],
+      "nounsNew": [
+        "troisième dernière"
+      ],
+      "realOrig": [
+        "troisième"
+      ],
+      "realNew": [
+        "troisième dernière"
+      ]
+    }
+  ],
+  "rawNew": "【【1】】rouages corporels\n【【2】】transitionnels fétiches\n【【3】】technique scientifique esthétique\n【【4】】pouvoir subjectif portée\n【【5】】humaines\n【【6】】post-mediaque\n【【7】】similaires\n【【9】】subjectives\n【【10】】obsessionnelle insiparables\n【【11】】absolu\n【【12】】secondaire topique freudienne\n【【13】】ouvert\n【【15】】contrainte\n【【17】】collectives\n【【18】】artistiques sociales\n【【19】】complémentaire\n【【21】】paramètre libidinal • cache\n【【22】】mimétique\n【【23】】quatre\n【【24】】seconds\n【【25】】identitarisante\n【【26】】expressive\n【【27】】spontanés\n【【28】】serrure Cente\n【【29】】devenir multicolores\n【【31】】concretisée\n【【32】】environnementales\n【【35】】l\n【【36】】propre\n【【37】】statistiques\n【【38】】essentielle\n【【39】】principaux\n【【40】】derritorialisées\n【【41】】quantum énergétique\n【【42】】chauceΦU opérateurs intensifs\n【【43】】opérationnelle\n【【44】】inter-entitiare\n【【45】】intermédiaire\n【【46】】-chagrin\n【【47】】m-f m-q n d\n【【48】】infini\n【【49】】paradoxal\n【【50】】déquivaloir généralisé vide\n【【51】】pose fondatrice\n【【52】】horizontale\n【【53】】virulents seria\n【【54】】aléatoire n nulle\n【【55】】indistincte l\n【【56】】dimagematrique\n【【57】】ultime\n【【58】】a-signifiant\n【【59】】singulaires hégemoniquement existentialisantes\n【【60】】deterritorialisés\n【【61】】pre-personnelle sintuissant\n【【62】】diachroniques\n【【63】】mythographiques institutionnelles économiques\n【【64】】logiques informationnelles\n【【65】】pacifiée\n【【67】】écrit\n【【69】】aucune\n【【73】】danéantissement Tous\n【【74】】germé\n【【75】】individuels collectifs\n【【76】】structurel\n【【77】】détour esthetique\n【【78】】ritournelles règle générale\n【【79】】massifs l\n【【80】】troisième dernière"
+}

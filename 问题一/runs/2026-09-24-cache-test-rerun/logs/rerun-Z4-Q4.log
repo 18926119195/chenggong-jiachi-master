@@ -1,0 +1,609 @@
+
+[2026-09-24 11:47:50] === recall-nouns-llm.js Z4-Q4 ===
+[llmClient] 快照根目录: C:\Users\Administrator\Desktop\chenggong-jiachi-master\问题一\runs\2026-09-24-cache-test-rerun\snapshots
+LLM: https://api.deepseek.com model=deepseek-flash thinking=disabled
+加载数据...
+  chunk 数: 1446（无全局拼接）
+  名词数（原始）: 16244, 问题数: 15
+  ⚠️ FILTER_BLACKLIST=1 但黑名单文件不存在: C:\Users\Administrator\Desktop\chenggong-jiachi-master\完整的运作\noun-blacklist.json（跳过过滤）
+========== 拓扑链召回引擎（两步架构）==========
+全量名词: 16244, 问题数: 1
+Token预算分批: 最多2500 tokens/批次, 并发: 8, 拓扑窗口: 2 名词, 分数阈值: 80
+
+保留 14 个未参与本次运行的结果:
+  - Z1-Q1
+  - Z1-Q2
+  - Z1-Q3
+  - Z1-Q4
+  - Z2-Q1
+  - Z2-Q2
+  - Z2-Q3
+  - Z2-Q4
+  - Z3-Q1
+  - Z3-Q2
+  - Z3-Q3
+  - Z4-Q1
+  - Z4-Q2
+  - Z4-Q3
+
+--- [Z4-Q4] 根据本文档，拉康派的临床技术手册在哪里可以下载？ ---
+[llmClient] [Z4-Q4] 全新子目录，从 call-0001 开始编号
+
+[call-0001] LLM 调用开始...
+  QuestionId: Z4-Q4
+  子目录: C:\Users\Administrator\Desktop\chenggong-jiachi-master\问题一\runs\2026-09-24-cache-test-rerun\snapshots\Z4-Q4
+  Prompt 长度: 8277 字符
+  Max tokens: 32768
+  重试策略: 最多 3 次（仅网络错误/5xx/408/429）
+
+[call-0002] LLM 调用开始...
+  QuestionId: Z4-Q4
+  子目录: C:\Users\Administrator\Desktop\chenggong-jiachi-master\问题一\runs\2026-09-24-cache-test-rerun\snapshots\Z4-Q4
+  Prompt 长度: 8279 字符
+  Max tokens: 32768
+  重试策略: 最多 3 次（仅网络错误/5xx/408/429）
+
+[call-0003] LLM 调用开始...
+  QuestionId: Z4-Q4
+  子目录: C:\Users\Administrator\Desktop\chenggong-jiachi-master\问题一\runs\2026-09-24-cache-test-rerun\snapshots\Z4-Q4
+  Prompt 长度: 8325 字符
+  Max tokens: 32768
+  重试策略: 最多 3 次（仅网络错误/5xx/408/429）
+
+[call-0004] LLM 调用开始...
+  QuestionId: Z4-Q4
+  子目录: C:\Users\Administrator\Desktop\chenggong-jiachi-master\问题一\runs\2026-09-24-cache-test-rerun\snapshots\Z4-Q4
+  Prompt 长度: 8362 字符
+  Max tokens: 32768
+  重试策略: 最多 3 次（仅网络错误/5xx/408/429）
+
+[call-0005] LLM 调用开始...
+  QuestionId: Z4-Q4
+  子目录: C:\Users\Administrator\Desktop\chenggong-jiachi-master\问题一\runs\2026-09-24-cache-test-rerun\snapshots\Z4-Q4
+  Prompt 长度: 8348 字符
+  Max tokens: 32768
+  重试策略: 最多 3 次（仅网络错误/5xx/408/429）
+
+[call-0006] LLM 调用开始...
+  QuestionId: Z4-Q4
+  子目录: C:\Users\Administrator\Desktop\chenggong-jiachi-master\问题一\runs\2026-09-24-cache-test-rerun\snapshots\Z4-Q4
+  Prompt 长度: 8335 字符
+  Max tokens: 32768
+  重试策略: 最多 3 次（仅网络错误/5xx/408/429）
+
+[call-0007] LLM 调用开始...
+  QuestionId: Z4-Q4
+  子目录: C:\Users\Administrator\Desktop\chenggong-jiachi-master\问题一\runs\2026-09-24-cache-test-rerun\snapshots\Z4-Q4
+  Prompt 长度: 8304 字符
+  Max tokens: 32768
+  重试策略: 最多 3 次（仅网络错误/5xx/408/429）
+
+[call-0008] LLM 调用开始...
+  QuestionId: Z4-Q4
+  子目录: C:\Users\Administrator\Desktop\chenggong-jiachi-master\问题一\runs\2026-09-24-cache-test-rerun\snapshots\Z4-Q4
+  Prompt 长度: 8276 字符
+  Max tokens: 32768
+  重试策略: 最多 3 次（仅网络错误/5xx/408/429）
+[call-0001] ✓ 第 1/3 次成功 (0.3s)
+[call-0001] ✓ 完成 (总计 0.3s, 尝试 1 次)
+  Token: prompt=3648 completion=2 total=3650
+  输出长度: 4 字符
+  粗筛: 0 个 YES / 16244, 批次 1/46          
+[call-0009] LLM 调用开始...
+  QuestionId: Z4-Q4
+  子目录: C:\Users\Administrator\Desktop\chenggong-jiachi-master\问题一\runs\2026-09-24-cache-test-rerun\snapshots\Z4-Q4
+  Prompt 长度: 8343 字符
+  Max tokens: 32768
+  重试策略: 最多 3 次（仅网络错误/5xx/408/429）
+[call-0005] ✓ 第 1/3 次成功 (0.4s)
+[call-0005] ✓ 完成 (总计 0.4s, 尝试 1 次)
+  Token: prompt=3537 completion=2 total=3539
+  输出长度: 4 字符
+  粗筛: 0 个 YES / 16244, 批次 5/46          
+[call-0010] LLM 调用开始...
+  QuestionId: Z4-Q4
+  子目录: C:\Users\Administrator\Desktop\chenggong-jiachi-master\问题一\runs\2026-09-24-cache-test-rerun\snapshots\Z4-Q4
+  Prompt 长度: 8305 字符
+  Max tokens: 32768
+  重试策略: 最多 3 次（仅网络错误/5xx/408/429）
+[call-0002] ✓ 第 1/3 次成功 (0.4s)
+[call-0002] ✓ 完成 (总计 0.4s, 尝试 1 次)
+  Token: prompt=3671 completion=2 total=3673
+  输出长度: 4 字符
+  粗筛: 0 个 YES / 16244, 批次 2/46          
+[call-0011] LLM 调用开始...
+  QuestionId: Z4-Q4
+  子目录: C:\Users\Administrator\Desktop\chenggong-jiachi-master\问题一\runs\2026-09-24-cache-test-rerun\snapshots\Z4-Q4
+  Prompt 长度: 8376 字符
+  Max tokens: 32768
+  重试策略: 最多 3 次（仅网络错误/5xx/408/429）
+[call-0003] ✓ 第 1/3 次成功 (0.5s)
+[call-0003] ✓ 完成 (总计 0.5s, 尝试 1 次)
+  Token: prompt=3598 completion=17 total=3615
+  输出长度: 27 字符
+  粗筛: 4 个 YES / 16244, 批次 3/46          
+[call-0012] LLM 调用开始...
+  QuestionId: Z4-Q4
+  子目录: C:\Users\Administrator\Desktop\chenggong-jiachi-master\问题一\runs\2026-09-24-cache-test-rerun\snapshots\Z4-Q4
+  Prompt 长度: 8319 字符
+  Max tokens: 32768
+  重试策略: 最多 3 次（仅网络错误/5xx/408/429）
+[call-0004] ✓ 第 1/3 次成功 (0.5s)
+[call-0004] ✓ 完成 (总计 0.5s, 尝试 1 次)
+  Token: prompt=3620 completion=2 total=3622
+  输出长度: 4 字符
+  粗筛: 4 个 YES / 16244, 批次 4/46          
+[call-0013] LLM 调用开始...
+  QuestionId: Z4-Q4
+  子目录: C:\Users\Administrator\Desktop\chenggong-jiachi-master\问题一\runs\2026-09-24-cache-test-rerun\snapshots\Z4-Q4
+  Prompt 长度: 8277 字符
+  Max tokens: 32768
+  重试策略: 最多 3 次（仅网络错误/5xx/408/429）
+[call-0007] ✓ 第 1/3 次成功 (0.5s)
+[call-0007] ✓ 完成 (总计 0.5s, 尝试 1 次)
+  Token: prompt=3692 completion=2 total=3694
+  输出长度: 4 字符
+  粗筛: 4 个 YES / 16244, 批次 7/46          
+[call-0014] LLM 调用开始...
+  QuestionId: Z4-Q4
+  子目录: C:\Users\Administrator\Desktop\chenggong-jiachi-master\问题一\runs\2026-09-24-cache-test-rerun\snapshots\Z4-Q4
+  Prompt 长度: 8289 字符
+  Max tokens: 32768
+  重试策略: 最多 3 次（仅网络错误/5xx/408/429）
+[call-0008] ✓ 第 1/3 次成功 (0.6s)
+[call-0008] ✓ 完成 (总计 0.6s, 尝试 1 次)
+  Token: prompt=3620 completion=2 total=3622
+  输出长度: 4 字符
+  粗筛: 4 个 YES / 16244, 批次 8/46          
+[call-0015] LLM 调用开始...
+  QuestionId: Z4-Q4
+  子目录: C:\Users\Administrator\Desktop\chenggong-jiachi-master\问题一\runs\2026-09-24-cache-test-rerun\snapshots\Z4-Q4
+  Prompt 长度: 8315 字符
+  Max tokens: 32768
+  重试策略: 最多 3 次（仅网络错误/5xx/408/429）
+[call-0006] ✓ 第 1/3 次成功 (0.6s)
+[call-0006] ✓ 完成 (总计 0.6s, 尝试 1 次)
+  Token: prompt=3689 completion=2 total=3691
+  输出长度: 4 字符
+  粗筛: 4 个 YES / 16244, 批次 6/46          
+[call-0016] LLM 调用开始...
+  QuestionId: Z4-Q4
+  子目录: C:\Users\Administrator\Desktop\chenggong-jiachi-master\问题一\runs\2026-09-24-cache-test-rerun\snapshots\Z4-Q4
+  Prompt 长度: 8321 字符
+  Max tokens: 32768
+  重试策略: 最多 3 次（仅网络错误/5xx/408/429）
+[call-0012] ✓ 第 1/3 次成功 (0.3s)
+[call-0012] ✓ 完成 (总计 0.3s, 尝试 1 次)
+  Token: prompt=3675 completion=2 total=3677
+  输出长度: 4 字符
+  粗筛: 4 个 YES / 16244, 批次 12/46          
+[call-0017] LLM 调用开始...
+  QuestionId: Z4-Q4
+  子目录: C:\Users\Administrator\Desktop\chenggong-jiachi-master\问题一\runs\2026-09-24-cache-test-rerun\snapshots\Z4-Q4
+  Prompt 长度: 8324 字符
+  Max tokens: 32768
+  重试策略: 最多 3 次（仅网络错误/5xx/408/429）
+[call-0010] ✓ 第 1/3 次成功 (0.5s)
+[call-0010] ✓ 完成 (总计 0.5s, 尝试 1 次)
+  Token: prompt=3604 completion=2 total=3606
+  输出长度: 4 字符
+  粗筛: 4 个 YES / 16244, 批次 10/46          
+[call-0018] LLM 调用开始...
+  QuestionId: Z4-Q4
+  子目录: C:\Users\Administrator\Desktop\chenggong-jiachi-master\问题一\runs\2026-09-24-cache-test-rerun\snapshots\Z4-Q4
+  Prompt 长度: 8318 字符
+  Max tokens: 32768
+  重试策略: 最多 3 次（仅网络错误/5xx/408/429）
+[call-0016] ✓ 第 1/3 次成功 (0.3s)
+[call-0016] ✓ 完成 (总计 0.3s, 尝试 1 次)
+  Token: prompt=3586 completion=2 total=3588
+  输出长度: 4 字符
+  粗筛: 4 个 YES / 16244, 批次 16/46          
+[call-0019] LLM 调用开始...
+  QuestionId: Z4-Q4
+  子目录: C:\Users\Administrator\Desktop\chenggong-jiachi-master\问题一\runs\2026-09-24-cache-test-rerun\snapshots\Z4-Q4
+  Prompt 长度: 8339 字符
+  Max tokens: 32768
+  重试策略: 最多 3 次（仅网络错误/5xx/408/429）
+[call-0013] ✓ 第 1/3 次成功 (0.5s)
+[call-0013] ✓ 完成 (总计 0.5s, 尝试 1 次)
+  Token: prompt=3813 completion=2 total=3815
+  输出长度: 4 字符
+  粗筛: 4 个 YES / 16244, 批次 13/46          
+[call-0020] LLM 调用开始...
+  QuestionId: Z4-Q4
+  子目录: C:\Users\Administrator\Desktop\chenggong-jiachi-master\问题一\runs\2026-09-24-cache-test-rerun\snapshots\Z4-Q4
+  Prompt 长度: 8347 字符
+  Max tokens: 32768
+  重试策略: 最多 3 次（仅网络错误/5xx/408/429）
+[call-0014] ✓ 第 1/3 次成功 (0.5s)
+[call-0014] ✓ 完成 (总计 0.5s, 尝试 1 次)
+  Token: prompt=3769 completion=2 total=3771
+  输出长度: 4 字符
+  粗筛: 4 个 YES / 16244, 批次 14/46          
+[call-0021] LLM 调用开始...
+  QuestionId: Z4-Q4
+  子目录: C:\Users\Administrator\Desktop\chenggong-jiachi-master\问题一\runs\2026-09-24-cache-test-rerun\snapshots\Z4-Q4
+  Prompt 长度: 8360 字符
+  Max tokens: 32768
+  重试策略: 最多 3 次（仅网络错误/5xx/408/429）
+[call-0011] ✓ 第 1/3 次成功 (0.6s)
+[call-0011] ✓ 完成 (总计 0.6s, 尝试 1 次)
+  Token: prompt=3634 completion=2 total=3636
+  输出长度: 4 字符
+  粗筛: 4 个 YES / 16244, 批次 11/46          
+[call-0022] LLM 调用开始...
+  QuestionId: Z4-Q4
+  子目录: C:\Users\Administrator\Desktop\chenggong-jiachi-master\问题一\runs\2026-09-24-cache-test-rerun\snapshots\Z4-Q4
+  Prompt 长度: 8308 字符
+  Max tokens: 32768
+  重试策略: 最多 3 次（仅网络错误/5xx/408/429）
+[call-0009] ✓ 第 1/3 次成功 (0.7s)
+[call-0009] ✓ 完成 (总计 0.7s, 尝试 1 次)
+  Token: prompt=3579 completion=5 total=3584
+  输出长度: 6 字符
+  粗筛: 5 个 YES / 16244, 批次 9/46          
+[call-0023] LLM 调用开始...
+  QuestionId: Z4-Q4
+  子目录: C:\Users\Administrator\Desktop\chenggong-jiachi-master\问题一\runs\2026-09-24-cache-test-rerun\snapshots\Z4-Q4
+  Prompt 长度: 8342 字符
+  Max tokens: 32768
+  重试策略: 最多 3 次（仅网络错误/5xx/408/429）
+[call-0018] ✓ 第 1/3 次成功 (0.3s)
+[call-0018] ✓ 完成 (总计 0.3s, 尝试 1 次)
+  Token: prompt=3655 completion=2 total=3657
+  输出长度: 4 字符
+  粗筛: 5 个 YES / 16244, 批次 18/46          
+[call-0024] LLM 调用开始...
+  QuestionId: Z4-Q4
+  子目录: C:\Users\Administrator\Desktop\chenggong-jiachi-master\问题一\runs\2026-09-24-cache-test-rerun\snapshots\Z4-Q4
+  Prompt 长度: 8376 字符
+  Max tokens: 32768
+  重试策略: 最多 3 次（仅网络错误/5xx/408/429）
+[call-0015] ✓ 第 1/3 次成功 (0.7s)
+[call-0015] ✓ 完成 (总计 0.7s, 尝试 1 次)
+  Token: prompt=3677 completion=2 total=3679
+  输出长度: 4 字符
+  粗筛: 5 个 YES / 16244, 批次 15/46          
+[call-0025] LLM 调用开始...
+  QuestionId: Z4-Q4
+  子目录: C:\Users\Administrator\Desktop\chenggong-jiachi-master\问题一\runs\2026-09-24-cache-test-rerun\snapshots\Z4-Q4
+  Prompt 长度: 8330 字符
+  Max tokens: 32768
+  重试策略: 最多 3 次（仅网络错误/5xx/408/429）
+[call-0019] ✓ 第 1/3 次成功 (0.4s)
+[call-0019] ✓ 完成 (总计 0.4s, 尝试 1 次)
+  Token: prompt=3624 completion=2 total=3626
+  输出长度: 4 字符
+  粗筛: 5 个 YES / 16244, 批次 19/46          
+[call-0026] LLM 调用开始...
+  QuestionId: Z4-Q4
+  子目录: C:\Users\Administrator\Desktop\chenggong-jiachi-master\问题一\runs\2026-09-24-cache-test-rerun\snapshots\Z4-Q4
+  Prompt 长度: 8327 字符
+  Max tokens: 32768
+  重试策略: 最多 3 次（仅网络错误/5xx/408/429）
+[call-0017] ✓ 第 1/3 次成功 (0.6s)
+[call-0017] ✓ 完成 (总计 0.6s, 尝试 1 次)
+  Token: prompt=3527 completion=2 total=3529
+  输出长度: 4 字符
+  粗筛: 5 个 YES / 16244, 批次 17/46          
+[call-0027] LLM 调用开始...
+  QuestionId: Z4-Q4
+  子目录: C:\Users\Administrator\Desktop\chenggong-jiachi-master\问题一\runs\2026-09-24-cache-test-rerun\snapshots\Z4-Q4
+  Prompt 长度: 8338 字符
+  Max tokens: 32768
+  重试策略: 最多 3 次（仅网络错误/5xx/408/429）
+[call-0021] ✓ 第 1/3 次成功 (0.5s)
+[call-0021] ✓ 完成 (总计 0.5s, 尝试 1 次)
+  Token: prompt=3785 completion=2 total=3787
+  输出长度: 4 字符
+  粗筛: 5 个 YES / 16244, 批次 21/46          
+[call-0028] LLM 调用开始...
+  QuestionId: Z4-Q4
+  子目录: C:\Users\Administrator\Desktop\chenggong-jiachi-master\问题一\runs\2026-09-24-cache-test-rerun\snapshots\Z4-Q4
+  Prompt 长度: 8341 字符
+  Max tokens: 32768
+  重试策略: 最多 3 次（仅网络错误/5xx/408/429）
+[call-0022] ✓ 第 1/3 次成功 (0.4s)
+[call-0022] ✓ 完成 (总计 0.4s, 尝试 1 次)
+  Token: prompt=3824 completion=2 total=3826
+  输出长度: 4 字符
+  粗筛: 5 个 YES / 16244, 批次 22/46          
+[call-0029] LLM 调用开始...
+  QuestionId: Z4-Q4
+  子目录: C:\Users\Administrator\Desktop\chenggong-jiachi-master\问题一\runs\2026-09-24-cache-test-rerun\snapshots\Z4-Q4
+  Prompt 长度: 8384 字符
+  Max tokens: 32768
+  重试策略: 最多 3 次（仅网络错误/5xx/408/429）
+[call-0020] ✓ 第 1/3 次成功 (0.5s)
+[call-0020] ✓ 完成 (总计 0.5s, 尝试 1 次)
+  Token: prompt=3575 completion=2 total=3577
+  输出长度: 4 字符
+  粗筛: 5 个 YES / 16244, 批次 20/46          
+[call-0030] LLM 调用开始...
+  QuestionId: Z4-Q4
+  子目录: C:\Users\Administrator\Desktop\chenggong-jiachi-master\问题一\runs\2026-09-24-cache-test-rerun\snapshots\Z4-Q4
+  Prompt 长度: 8356 字符
+  Max tokens: 32768
+  重试策略: 最多 3 次（仅网络错误/5xx/408/429）
+[call-0024] ✓ 第 1/3 次成功 (0.3s)
+[call-0024] ✓ 完成 (总计 0.3s, 尝试 1 次)
+  Token: prompt=3491 completion=2 total=3493
+  输出长度: 4 字符
+  粗筛: 5 个 YES / 16244, 批次 24/46          
+[call-0031] LLM 调用开始...
+  QuestionId: Z4-Q4
+  子目录: C:\Users\Administrator\Desktop\chenggong-jiachi-master\问题一\runs\2026-09-24-cache-test-rerun\snapshots\Z4-Q4
+  Prompt 长度: 8272 字符
+  Max tokens: 32768
+  重试策略: 最多 3 次（仅网络错误/5xx/408/429）
+[call-0025] ✓ 第 1/3 次成功 (0.3s)
+[call-0025] ✓ 完成 (总计 0.3s, 尝试 1 次)
+  Token: prompt=3528 completion=2 total=3530
+  输出长度: 4 字符
+  粗筛: 5 个 YES / 16244, 批次 25/46          
+[call-0032] LLM 调用开始...
+  QuestionId: Z4-Q4
+  子目录: C:\Users\Administrator\Desktop\chenggong-jiachi-master\问题一\runs\2026-09-24-cache-test-rerun\snapshots\Z4-Q4
+  Prompt 长度: 8318 字符
+  Max tokens: 32768
+  重试策略: 最多 3 次（仅网络错误/5xx/408/429）
+[call-0023] ✓ 第 1/3 次成功 (0.6s)
+[call-0023] ✓ 完成 (总计 0.6s, 尝试 1 次)
+  Token: prompt=3645 completion=2 total=3647
+  输出长度: 4 字符
+  粗筛: 5 个 YES / 16244, 批次 23/46          
+[call-0033] LLM 调用开始...
+  QuestionId: Z4-Q4
+  子目录: C:\Users\Administrator\Desktop\chenggong-jiachi-master\问题一\runs\2026-09-24-cache-test-rerun\snapshots\Z4-Q4
+  Prompt 长度: 8271 字符
+  Max tokens: 32768
+  重试策略: 最多 3 次（仅网络错误/5xx/408/429）
+[call-0028] ✓ 第 1/3 次成功 (0.4s)
+[call-0028] ✓ 完成 (总计 0.4s, 尝试 1 次)
+  Token: prompt=3620 completion=2 total=3622
+  输出长度: 4 字符
+  粗筛: 5 个 YES / 16244, 批次 28/46          
+[call-0034] LLM 调用开始...
+  QuestionId: Z4-Q4
+  子目录: C:\Users\Administrator\Desktop\chenggong-jiachi-master\问题一\runs\2026-09-24-cache-test-rerun\snapshots\Z4-Q4
+  Prompt 长度: 8324 字符
+  Max tokens: 32768
+  重试策略: 最多 3 次（仅网络错误/5xx/408/429）
+[call-0027] ✓ 第 1/3 次成功 (0.5s)
+[call-0027] ✓ 完成 (总计 0.5s, 尝试 1 次)
+  Token: prompt=3553 completion=2 total=3555
+  输出长度: 4 字符
+  粗筛: 5 个 YES / 16244, 批次 27/46          
+[call-0035] LLM 调用开始...
+  QuestionId: Z4-Q4
+  子目录: C:\Users\Administrator\Desktop\chenggong-jiachi-master\问题一\runs\2026-09-24-cache-test-rerun\snapshots\Z4-Q4
+  Prompt 长度: 8365 字符
+  Max tokens: 32768
+  重试策略: 最多 3 次（仅网络错误/5xx/408/429）
+[call-0031] ✓ 第 1/3 次成功 (0.4s)
+[call-0031] ✓ 完成 (总计 0.4s, 尝试 1 次)
+  Token: prompt=3700 completion=2 total=3702
+  输出长度: 4 字符
+  粗筛: 5 个 YES / 16244, 批次 31/46          
+[call-0036] LLM 调用开始...
+  QuestionId: Z4-Q4
+  子目录: C:\Users\Administrator\Desktop\chenggong-jiachi-master\问题一\runs\2026-09-24-cache-test-rerun\snapshots\Z4-Q4
+  Prompt 长度: 8352 字符
+  Max tokens: 32768
+  重试策略: 最多 3 次（仅网络错误/5xx/408/429）
+[call-0026] ✓ 第 1/3 次成功 (0.8s)
+[call-0026] ✓ 完成 (总计 0.8s, 尝试 1 次)
+  Token: prompt=3686 completion=2 total=3688
+  输出长度: 4 字符
+  粗筛: 5 个 YES / 16244, 批次 26/46          
+[call-0037] LLM 调用开始...
+  QuestionId: Z4-Q4
+  子目录: C:\Users\Administrator\Desktop\chenggong-jiachi-master\问题一\runs\2026-09-24-cache-test-rerun\snapshots\Z4-Q4
+  Prompt 长度: 8267 字符
+  Max tokens: 32768
+  重试策略: 最多 3 次（仅网络错误/5xx/408/429）
+[call-0033] ✓ 第 1/3 次成功 (0.4s)
+[call-0033] ✓ 完成 (总计 0.4s, 尝试 1 次)
+  Token: prompt=3980 completion=2 total=3982
+  输出长度: 4 字符
+  粗筛: 5 个 YES / 16244, 批次 33/46          
+[call-0038] LLM 调用开始...
+  QuestionId: Z4-Q4
+  子目录: C:\Users\Administrator\Desktop\chenggong-jiachi-master\问题一\runs\2026-09-24-cache-test-rerun\snapshots\Z4-Q4
+  Prompt 长度: 8224 字符
+  Max tokens: 32768
+  重试策略: 最多 3 次（仅网络错误/5xx/408/429）
+[call-0030] ✓ 第 1/3 次成功 (0.7s)
+[call-0030] ✓ 完成 (总计 0.7s, 尝试 1 次)
+  Token: prompt=3660 completion=2 total=3662
+  输出长度: 4 字符
+  粗筛: 5 个 YES / 16244, 批次 30/46          
+[call-0039] LLM 调用开始...
+  QuestionId: Z4-Q4
+  子目录: C:\Users\Administrator\Desktop\chenggong-jiachi-master\问题一\runs\2026-09-24-cache-test-rerun\snapshots\Z4-Q4
+  Prompt 长度: 8271 字符
+  Max tokens: 32768
+  重试策略: 最多 3 次（仅网络错误/5xx/408/429）
+[call-0032] ✓ 第 1/3 次成功 (0.6s)
+[call-0032] ✓ 完成 (总计 0.6s, 尝试 1 次)
+  Token: prompt=3833 completion=2 total=3835
+  输出长度: 4 字符
+  粗筛: 5 个 YES / 16244, 批次 32/46          
+[call-0040] LLM 调用开始...
+  QuestionId: Z4-Q4
+  子目录: C:\Users\Administrator\Desktop\chenggong-jiachi-master\问题一\runs\2026-09-24-cache-test-rerun\snapshots\Z4-Q4
+  Prompt 长度: 8329 字符
+  Max tokens: 32768
+  重试策略: 最多 3 次（仅网络错误/5xx/408/429）
+[call-0029] ✓ 第 1/3 次成功 (0.9s)
+[call-0029] ✓ 完成 (总计 0.9s, 尝试 1 次)
+  Token: prompt=3545 completion=2 total=3547
+  输出长度: 4 字符
+  粗筛: 5 个 YES / 16244, 批次 29/46          
+[call-0041] LLM 调用开始...
+  QuestionId: Z4-Q4
+  子目录: C:\Users\Administrator\Desktop\chenggong-jiachi-master\问题一\runs\2026-09-24-cache-test-rerun\snapshots\Z4-Q4
+  Prompt 长度: 8269 字符
+  Max tokens: 32768
+  重试策略: 最多 3 次（仅网络错误/5xx/408/429）
+[call-0034] ✓ 第 1/3 次成功 (0.5s)
+[call-0034] ✓ 完成 (总计 0.5s, 尝试 1 次)
+  Token: prompt=3696 completion=2 total=3698
+  输出长度: 4 字符
+  粗筛: 5 个 YES / 16244, 批次 34/46          
+[call-0042] LLM 调用开始...
+  QuestionId: Z4-Q4
+  子目录: C:\Users\Administrator\Desktop\chenggong-jiachi-master\问题一\runs\2026-09-24-cache-test-rerun\snapshots\Z4-Q4
+  Prompt 长度: 8272 字符
+  Max tokens: 32768
+  重试策略: 最多 3 次（仅网络错误/5xx/408/429）
+[call-0037] ✓ 第 1/3 次成功 (0.4s)
+[call-0037] ✓ 完成 (总计 0.4s, 尝试 1 次)
+  Token: prompt=3943 completion=2 total=3945
+  输出长度: 4 字符
+  粗筛: 5 个 YES / 16244, 批次 37/46          
+[call-0043] LLM 调用开始...
+  QuestionId: Z4-Q4
+  子目录: C:\Users\Administrator\Desktop\chenggong-jiachi-master\问题一\runs\2026-09-24-cache-test-rerun\snapshots\Z4-Q4
+  Prompt 长度: 8340 字符
+  Max tokens: 32768
+  重试策略: 最多 3 次（仅网络错误/5xx/408/429）
+[call-0040] ✓ 第 1/3 次成功 (0.3s)
+[call-0040] ✓ 完成 (总计 0.3s, 尝试 1 次)
+  Token: prompt=3597 completion=2 total=3599
+  输出长度: 4 字符
+  粗筛: 5 个 YES / 16244, 批次 40/46          
+[call-0044] LLM 调用开始...
+  QuestionId: Z4-Q4
+  子目录: C:\Users\Administrator\Desktop\chenggong-jiachi-master\问题一\runs\2026-09-24-cache-test-rerun\snapshots\Z4-Q4
+  Prompt 长度: 8325 字符
+  Max tokens: 32768
+  重试策略: 最多 3 次（仅网络错误/5xx/408/429）
+[call-0035] ✓ 第 1/3 次成功 (0.7s)
+[call-0035] ✓ 完成 (总计 0.7s, 尝试 1 次)
+  Token: prompt=3637 completion=2 total=3639
+  输出长度: 4 字符
+  粗筛: 5 个 YES / 16244, 批次 35/46          
+[call-0045] LLM 调用开始...
+  QuestionId: Z4-Q4
+  子目录: C:\Users\Administrator\Desktop\chenggong-jiachi-master\问题一\runs\2026-09-24-cache-test-rerun\snapshots\Z4-Q4
+  Prompt 长度: 8352 字符
+  Max tokens: 32768
+  重试策略: 最多 3 次（仅网络错误/5xx/408/429）
+[call-0036] ✓ 第 1/3 次成功 (0.7s)
+[call-0036] ✓ 完成 (总计 0.7s, 尝试 1 次)
+  Token: prompt=3670 completion=2 total=3672
+  输出长度: 4 字符
+  粗筛: 5 个 YES / 16244, 批次 36/46          
+[call-0046] LLM 调用开始...
+  QuestionId: Z4-Q4
+  子目录: C:\Users\Administrator\Desktop\chenggong-jiachi-master\问题一\runs\2026-09-24-cache-test-rerun\snapshots\Z4-Q4
+  Prompt 长度: 250 字符
+  Max tokens: 32768
+  重试策略: 最多 3 次（仅网络错误/5xx/408/429）
+[call-0038] ✓ 第 1/3 次成功 (0.7s)
+[call-0038] ✓ 完成 (总计 0.7s, 尝试 1 次)
+  Token: prompt=3965 completion=2 total=3967
+  输出长度: 4 字符
+  粗筛: 5 个 YES / 16244, 批次 38/46          [call-0041] ✓ 第 1/3 次成功 (0.6s)
+[call-0041] ✓ 完成 (总计 0.6s, 尝试 1 次)
+  Token: prompt=3535 completion=2 total=3537
+  输出长度: 4 字符
+  粗筛: 5 个 YES / 16244, 批次 41/46          [call-0039] ✓ 第 1/3 次成功 (0.7s)
+[call-0039] ✓ 完成 (总计 0.7s, 尝试 1 次)
+  Token: prompt=3867 completion=2 total=3869
+  输出长度: 4 字符
+  粗筛: 5 个 YES / 16244, 批次 39/46          [call-0043] ✓ 第 1/3 次成功 (0.5s)
+[call-0043] ✓ 完成 (总计 0.5s, 尝试 1 次)
+  Token: prompt=3746 completion=2 total=3748
+  输出长度: 4 字符
+  粗筛: 5 个 YES / 16244, 批次 43/46          [call-0045] ✓ 第 1/3 次成功 (0.4s)
+[call-0045] ✓ 完成 (总计 0.4s, 尝试 1 次)
+  Token: prompt=3618 completion=2 total=3620
+  输出长度: 4 字符
+  粗筛: 5 个 YES / 16244, 批次 45/46          [call-0044] ✓ 第 1/3 次成功 (0.6s)
+[call-0044] ✓ 完成 (总计 0.6s, 尝试 1 次)
+  Token: prompt=3689 completion=2 total=3691
+  输出长度: 4 字符
+  粗筛: 5 个 YES / 16244, 批次 44/46          [call-0042] ✓ 第 1/3 次成功 (0.9s)
+[call-0042] ✓ 完成 (总计 0.9s, 尝试 1 次)
+  Token: prompt=3770 completion=2 total=3772
+  输出长度: 4 字符
+  粗筛: 5 个 YES / 16244, 批次 42/46          [call-0046] ✓ 第 1/3 次成功 (0.6s)
+[call-0046] ✓ 完成 (总计 0.6s, 尝试 1 次)
+  Token: prompt=149 completion=5 total=154
+  输出长度: 5 字符
+  粗筛: 6 个 YES / 16244, 批次 46/46          
+  粗筛完成: 6/16244 个相关词 (失败: 0/46)
+  粗筛 tokens: prompt=165525 completion=113
+
+[call-0047] LLM 调用开始...
+  QuestionId: Z4-Q4
+  子目录: C:\Users\Administrator\Desktop\chenggong-jiachi-master\问题一\runs\2026-09-24-cache-test-rerun\snapshots\Z4-Q4
+  Prompt 长度: 377 字符
+  Max tokens: 32768
+  重试策略: 最多 3 次（仅网络错误/5xx/408/429）
+[call-0047] ✓ 第 1/3 次成功 (0.8s)
+[call-0047] ✓ 完成 (总计 0.8s, 尝试 1 次)
+  Token: prompt=229 completion=41 total=270
+  输出长度: 46 字符
+  精打: 6/6 个已打分, 批次 1/1          
+  精打完成: 6/6 个已打分
+  精打 tokens: prompt=229 completion=41
+  Top 10: techniques(90), - des techniques(85), guide(80), texte(20), question(10), Le rempart(5)
+  高分词(score>=80): 3/6 个, 取前 3 个构建拓扑
+  拓扑链总数: 5, 合并后区间: 5, 召回文本块: 5, 耗时: 4.2s
+  已增量保存到: C:\Users\Administrator\Desktop\chenggong-jiachi-master\问题一\runs\2026-09-24-cache-test-rerun\noun-recall-results.json
+
+完成，结果已保存: C:\Users\Administrator\Desktop\chenggong-jiachi-master\问题一\runs\2026-09-24-cache-test-rerun\noun-recall-results.json
+
+[2026-09-24 11:47:54] === build-prompt-with-traceback.js Z4-Q4 ===
+================================================================================
+构建带溯源映射的双输出（Exp32 移植版）
+================================================================================
+读取 C:\Users\Administrator\Desktop\chenggong-jiachi-master\问题一\runs\2026-09-24-cache-test-rerun\noun-recall-results.json：15 个问题，本次处理 1 个
+  [Z4-Q4] 根据本文档，拉康派的临床技术手册在哪里可以下载？ -> 5 个材料（已去重）
+
+================================================================================
+✅ LLM 输入文件: C:\Users\Administrator\Desktop\chenggong-jiachi-master\问题一\runs\2026-09-24-cache-test-rerun\candidate-texts-for-llm.json
+✅ 溯源映射文件: C:\Users\Administrator\Desktop\chenggong-jiachi-master\问题一\runs\2026-09-24-cache-test-rerun\material-traceback-map.json
+================================================================================
+下一步: node generate-multipath-prompt.js <questionId>
+
+[2026-09-24 11:47:55] === generate-multipath-prompt.js Z4-Q4 ===
+================================================================================
+生成多路径 Prompt: [Z4-Q4] 根据本文档，拉康派的临床技术手册在哪里可以下载？
+材料数: 5
+================================================================================
+
+✅ Prompt 已保存: C:\Users\Administrator\Desktop\chenggong-jiachi-master\完整的运作\multipath-prompt-Z4-Q4.txt
+   长度: 649 字符, 材料数: 5
+
+下一步: node run-reasoning.js Z4-Q4
+
+[2026-09-24 11:47:55] === run-reasoning.js Z4-Q4 ===
+[llmClient] 快照根目录: C:\Users\Administrator\Desktop\chenggong-jiachi-master\问题一\runs\2026-09-24-cache-test-rerun\snapshots
+================================================================================
+运行完整推理: [Z4-Q4] 根据本文档，拉康派的临床技术手册在哪里可以下载？
+LLM: https://api.deepseek.com model=deepseek-flash thinking=disabled
+材料数: 1, Prompt 长度: 649 字符
+================================================================================
+[llmClient] [Z4-Q4] 已有快照，从 call-0047 继续编号
+
+[call-0048] LLM 调用开始...
+  QuestionId: Z4-Q4
+  子目录: C:\Users\Administrator\Desktop\chenggong-jiachi-master\问题一\runs\2026-09-24-cache-test-rerun\snapshots\Z4-Q4
+  Prompt 长度: 649 字符
+  Max tokens: 32768
+  重试策略: 最多 3 次（仅网络错误/5xx/408/429）
+[call-0048] ✓ 第 1/3 次成功 (3.1s)
+[call-0048] ✓ 完成 (总计 3.1s, 尝试 1 次)
+  Token: prompt=303 completion=618 total=921
+  输出长度: 1266 字符
+
+✅ 推理完成，耗时 3.1s
+Token 用量: prompt=303 completion=618 total=921
+
+引用材料数: 5/1
+已保存: C:\Users\Administrator\Desktop\chenggong-jiachi-master\完整的运作\reasoning-output-Z4-Q4.json

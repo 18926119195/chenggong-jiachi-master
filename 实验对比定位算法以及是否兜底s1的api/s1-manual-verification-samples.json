@@ -1,0 +1,689 @@
+{
+  "samples": [
+    {
+      "batchId": 1,
+      "truncId": 44,
+      "machineCode": "【【44】】",
+      "noun": "macro-processus",
+      "truncation": {
+        "chunkKey": "h1.ZcWQgNga4fbnYIVZxRfwe_1BwvSrt-2pk7nGI0Ki46StQy0u95wNItpB6Hm-M1Cy_5bKBFIsLFTywH9UvGTu0nvmC8QlzG0sN1QL5byUQgnCVb2cyfX1n8B13qSd7L52QxtNIrszWX9NKDUWtg",
+        "start": 351,
+        "end": 369,
+        "page": 2,
+        "text": "ayant été à leur"
+      },
+      "mediumOffsets": [],
+      "lowOffsets": [
+        {
+          "start": 299,
+          "end": 314,
+          "confidence": "low"
+        }
+      ],
+      "verification": {
+        "isNounInTruncationText": false,
+        "conclusion": "✗ 名词不在截断内！注意力飘散：兜底算法匹配到了错误位置"
+      }
+    },
+    {
+      "batchId": 1,
+      "truncId": 165,
+      "machineCode": "【【165】】",
+      "noun": "speculaires",
+      "truncation": {
+        "chunkKey": "h1.o07zwuHzyG1zZa34QdaQ0InKqFvYXl_vQ-RtAC8CxZUXreEcSI8KDGzqDibot7GkQSKi-lpbumHAfMGbYFCz4rQCQXmtcQJkgXF56qMUmRXtF_tAbGmHKeUP4Sd1yWPPtFYqhhigUInh4PqDxw",
+        "start": 1834,
+        "end": 1869,
+        "page": 3,
+        "text": "qui ont cherché à appréhender ces"
+      },
+      "mediumOffsets": [
+        {
+          "start": 1788,
+          "end": 1799,
+          "confidence": "medium"
+        }
+      ],
+      "lowOffsets": [],
+      "verification": {
+        "isNounInTruncationText": false,
+        "conclusion": "✗ 名词不在截断内！注意力飘散：兜底算法匹配到了错误位置"
+      }
+    },
+    {
+      "batchId": 2,
+      "truncId": 33,
+      "machineCode": "【【33】】",
+      "noun": "sociales",
+      "truncation": {
+        "chunkKey": "h1.Rfo-y_j4FyvIywq9OPW8T7stwbfIzmI8OFr39rxAgRNz3-QDGmxaegbVQCp28nUpciZZJPO5ddzi0mDdc5M9fahr8a04tWj2XZSSs8t8-RtkrQKzT4wwvAaYoER6x_FZ8DaOVPlmby9Jd8uAcQ",
+        "start": 572,
+        "end": 582,
+        "page": 4,
+        "text": "sociales"
+      },
+      "mediumOffsets": [],
+      "lowOffsets": [
+        {
+          "start": 794,
+          "end": 802,
+          "confidence": "low"
+        }
+      ],
+      "verification": {
+        "isNounInTruncationText": true,
+        "conclusion": "✓ 名词在截断内，兜底算法正确扩展到了相邻区域"
+      }
+    },
+    {
+      "batchId": 2,
+      "truncId": 37,
+      "machineCode": "【【37】】",
+      "noun": "subjective",
+      "truncation": {
+        "chunkKey": "h1.Rfo-y_j4FyvIywq9OPW8T7stwbfIzmI8OFr39rxAgRNz3-QDGmxaegbVQCp28nUpciZZJPO5ddzi0mDdc5M9fahr8a04tWj2XZSSs8t8-RtkrQKzT4wwvAaYoER6x_FZ8DaOVPlmby9Jd8uAcQ",
+        "start": 730,
+        "end": 745,
+        "page": 4,
+        "text": "française, la"
+      },
+      "mediumOffsets": [
+        {
+          "start": 693,
+          "end": 703,
+          "confidence": "medium"
+        }
+      ],
+      "lowOffsets": [],
+      "verification": {
+        "isNounInTruncationText": false,
+        "conclusion": "✗ 名词不在截断内！注意力飘散：兜底算法匹配到了错误位置"
+      }
+    },
+    {
+      "batchId": 2,
+      "truncId": 71,
+      "machineCode": "【【71】】",
+      "noun": "instable",
+      "truncation": {
+        "chunkKey": "h1.v0b_cE85fuHu-Qp9AbzCYmWIaIwWMujdv58il5s9j7kRFDTXvkrqMm4qdhkzHuFS31vSS7ZYmJOrwkoZSAg3m1v7MtYq4-sCfzC4SK7PUMAhcreqZb_4YH-QMmK5ECNRmv0JHjbx9t1t_2LtmA",
+        "start": 96,
+        "end": 125,
+        "page": 5,
+        "text": "qui devait lui permettre de"
+      },
+      "mediumOffsets": [
+        {
+          "start": 50,
+          "end": 58,
+          "confidence": "medium"
+        }
+      ],
+      "lowOffsets": [],
+      "verification": {
+        "isNounInTruncationText": false,
+        "conclusion": "✗ 名词不在截断内！注意力飘散：兜底算法匹配到了错误位置"
+      }
+    },
+    {
+      "batchId": 3,
+      "truncId": 37,
+      "machineCode": "【【37】】",
+      "noun": "Esprit",
+      "truncation": {
+        "chunkKey": "h1.uhG1WcUYXjTBvOvw-SZOuunjw0vSfRV-JemTU1B25jyhLxtsHlNJkpbm0TT3AFlN9YmfRdxj0hN2jzt75KYPb0llScEKM7G_hFV6XZIXB1S55-S-9_e6fkCGNTrjab6TW1aQiz2XNov-W_Y8Kk0",
+        "start": 532,
+        "end": 551,
+        "page": 7,
+        "text": "* , qui a marqué l'"
+      },
+      "mediumOffsets": [
+        {
+          "start": 513,
+          "end": 519,
+          "confidence": "medium"
+        }
+      ],
+      "lowOffsets": [],
+      "verification": {
+        "isNounInTruncationText": false,
+        "conclusion": "✗ 名词不在截断内！注意力飘散：兜底算法匹配到了错误位置"
+      }
+    },
+    {
+      "batchId": 3,
+      "truncId": 83,
+      "machineCode": "【【83】】",
+      "noun": "sociales",
+      "truncation": {
+        "chunkKey": "h1.yJpTNdYZOwDTZVpI29NHcljnHxfFzXbl8_gJhKzrtDUdYFkD-eJ_SEo9TY6zG1Fqnz4g7fg7OHmrPevyNVSo2CMPnAZkTuJjpUmaY4cf-D5_0VOzbTB8bt51x4LjN3iKJbaH3jl847VtHn5P2g",
+        "start": 856,
+        "end": 925,
+        "page": 8,
+        "text": "sociales émancipantes, devront bien finir par être recentrés sur un"
+      },
+      "mediumOffsets": [],
+      "lowOffsets": [
+        {
+          "start": 1055,
+          "end": 1063,
+          "confidence": "low"
+        }
+      ],
+      "verification": {
+        "isNounInTruncationText": true,
+        "conclusion": "✓ 名词在截断内，兜底算法正确扩展到了相邻区域"
+      }
+    },
+    {
+      "batchId": 3,
+      "truncId": 103,
+      "machineCode": "【【103】】",
+      "noun": "processus",
+      "truncation": {
+        "chunkKey": "h1.yJpTNdYZOwDTZVpI29NHcljnHxfFzXbl8_gJhKzrtDUdYFkD-eJ_SEo9TY6zG1Fqnz4g7fg7OHmrPevyNVSo2CMPnAZkTuJjpUmaY4cf-D5_0VOzbTB8bt51x4LjN3iKJbaH3jl847VtHn5P2g",
+        "start": 1991,
+        "end": 2036,
+        "page": 8,
+        "text": "processus et peut-être de transformer cette"
+      },
+      "mediumOffsets": [],
+      "lowOffsets": [
+        {
+          "start": 1590,
+          "end": 1599,
+          "confidence": "low"
+        }
+      ],
+      "verification": {
+        "isNounInTruncationText": true,
+        "conclusion": "✓ 名词在截断内，兜底算法正确扩展到了相邻区域"
+      }
+    },
+    {
+      "batchId": 4,
+      "truncId": 2,
+      "machineCode": "【【2】】",
+      "noun": "huppé",
+      "truncation": {
+        "chunkKey": "h1.x2ymRKnt-ghPmtxTfLcoCLLWx4rQPvznAvtoL1Pil9tKKi9ikZhURXGMbNWMvMyALBtOnkmjq2qh2SY0-1bvf7997fdHMby6PamVJSLuxPAz0-N1G1zo0hnMXazfoOwrCjePGL1B_tUu2TCTGA",
+        "start": 1224,
+        "end": 1234,
+        "page": 9,
+        "text": "huppé de"
+      },
+      "mediumOffsets": [],
+      "lowOffsets": [
+        {
+          "start": 983,
+          "end": 988,
+          "confidence": "low"
+        }
+      ],
+      "verification": {
+        "isNounInTruncationText": true,
+        "conclusion": "✓ 名词在截断内，兜底算法正确扩展到了相邻区域"
+      }
+    },
+    {
+      "batchId": 4,
+      "truncId": 151,
+      "machineCode": "【【151】】",
+      "noun": "subjectives",
+      "truncation": {
+        "chunkKey": "h1.W6cdAesjgD3LUeqF8y5s1wiN8V4sRsljs1hYpw6O0aVfeHb8mIXIyDdX5yz5X7_KAIV6No2FRHd9TlMUe6_VU9qhiYImGRPsNCf4tmPxfu9wuPDbi8si0fv26L5sb7tMkzwMJonRQDbZJVUT5JM",
+        "start": 663,
+        "end": 703,
+        "page": 11,
+        "text": "subjectives, d'autres qui n'ont pas de"
+      },
+      "mediumOffsets": [],
+      "lowOffsets": [
+        {
+          "start": 256,
+          "end": 267,
+          "confidence": "low"
+        },
+        {
+          "start": 291,
+          "end": 302,
+          "confidence": "low"
+        }
+      ],
+      "verification": {
+        "isNounInTruncationText": true,
+        "conclusion": "✓ 名词在截断内，兜底算法正确扩展到了相邻区域"
+      }
+    },
+    {
+      "batchId": 4,
+      "truncId": 170,
+      "machineCode": "【【170】】",
+      "noun": "humaine",
+      "truncation": {
+        "chunkKey": "h1.6WEO3rEo-Df9yN0RnvDBoyo7q4QFikSkqkFiYFABMJy_Kkzaxlh6D_HOOpMsR9itJVGA1Aqa2gUuKaLUqYclpdF9XbsGL18UMzp2JeqKplKd0sz4HpjbaJ4o9ac-aJDKWkfofZv3GRUw4uw3MJU",
+        "start": 729,
+        "end": 748,
+        "page": 12,
+        "text": "humaine et qui la"
+      },
+      "mediumOffsets": [],
+      "lowOffsets": [
+        {
+          "start": 863,
+          "end": 870,
+          "confidence": "low"
+        }
+      ],
+      "verification": {
+        "isNounInTruncationText": true,
+        "conclusion": "✓ 名词在截断内，兜底算法正确扩展到了相邻区域"
+      }
+    },
+    {
+      "batchId": 5,
+      "truncId": 30,
+      "machineCode": "【【30】】",
+      "noun": "siémiotiques",
+      "truncation": {
+        "chunkKey": "h1.gly7bn9HxPlpZeoIL5KunCWmpfsK9DlWTct2HB1a3Cs8WoCRn-W9D9Nrjb5coYt8mG3GhFemQCw7GyAgMiVGIzEcePYdkjHuIX3MVh4X1ky04Ge57DYMz49m6t0Q1rdeEjLmyqqYa7C31Vzg0sE",
+        "start": 501,
+        "end": 545,
+        "page": 13,
+        "text": "siémiotiques. Je pense, en particulier, au"
+      },
+      "mediumOffsets": [],
+      "lowOffsets": [
+        {
+          "start": 207,
+          "end": 219,
+          "confidence": "low"
+        }
+      ],
+      "verification": {
+        "isNounInTruncationText": true,
+        "conclusion": "✓ 名词在截断内，兜底算法正确扩展到了相邻区域"
+      }
+    },
+    {
+      "batchId": 5,
+      "truncId": 48,
+      "machineCode": "【【48】】",
+      "noun": "d'autres",
+      "truncation": {
+        "chunkKey": "h1.lU1TkNoGOkZp4gBEmw-7v80Y9kDQPxhHoFuyQ3-Vd7_rR2sjkj8Akd-ajdzIXvxoIPXbpBw5-ZahiR_Jtv67EKRAuU2djoyWZhoq3gqJr6ici5VstMvitPKP7ExiQttkF2I3F4XVPCBIKDlGdd8",
+        "start": 579,
+        "end": 632,
+        "page": 13,
+        "text": ", ne sera qu'occasionnelle, facultative. En d'autres"
+      },
+      "mediumOffsets": [],
+      "lowOffsets": [
+        {
+          "start": 1331,
+          "end": 1339,
+          "confidence": "low"
+        }
+      ],
+      "verification": {
+        "isNounInTruncationText": true,
+        "conclusion": "✓ 名词在截断内，兜底算法正确扩展到了相邻区域"
+      }
+    },
+    {
+      "batchId": 5,
+      "truncId": 52,
+      "machineCode": "【【52】】",
+      "noun": "Différents",
+      "truncation": {
+        "chunkKey": "h1.lU1TkNoGOkZp4gBEmw-7v80Y9kDQPxhHoFuyQ3-Vd7_rR2sjkj8Akd-ajdzIXvxoIPXbpBw5-ZahiR_Jtv67EKRAuU2djoyWZhoq3gqJr6ici5VstMvitPKP7ExiQttkF2I3F4XVPCBIKDlGdd8",
+        "start": 838,
+        "end": 851,
+        "page": 13,
+        "text": ". Différents"
+      },
+      "mediumOffsets": [],
+      "lowOffsets": [
+        {
+          "start": 248,
+          "end": 258,
+          "confidence": "low"
+        }
+      ],
+      "verification": {
+        "isNounInTruncationText": true,
+        "conclusion": "✓ 名词在截断内，兜底算法正确扩展到了相邻区域"
+      }
+    },
+    {
+      "batchId": 8,
+      "truncId": 239,
+      "machineCode": "【【239】】",
+      "noun": "signifant",
+      "truncation": {
+        "chunkKey": "h1.qxG75KZwPOBw1M7cKmFiLSRnmxtGwqWyN0-PQWhoXx6evMe0aVpDs5Fz348lRekZ8McI6EDB7tX0m8fJNeoBQMoX_1pMK67RS1k-TSOxKIbnSTmGeAqV68qoup1fU8jfqAW0hm7LgiO_bacKpHg",
+        "start": 411,
+        "end": 426,
+        "page": 26,
+        "text": "pour un autre"
+      },
+      "mediumOffsets": [
+        {
+          "start": 382,
+          "end": 391,
+          "confidence": "medium"
+        }
+      ],
+      "lowOffsets": [],
+      "verification": {
+        "isNounInTruncationText": false,
+        "conclusion": "✗ 名词不在截断内！注意力飘散：兜底算法匹配到了错误位置"
+      }
+    },
+    {
+      "batchId": 10,
+      "truncId": 55,
+      "machineCode": "【【55】】",
+      "noun": "sécuritéaires",
+      "truncation": {
+        "chunkKey": "h1._tDUmd444hUf6OaHJzy7G-v8rYB7zHMf2oR4yLLg_NV3fvGaBFWX0mVu24bTg2lPvJLktTxCvHJF10pM2JYSqN0KJzn8mtEVaLBGF6dIiOdq0cU0Jr2Hocx6BSkf8UhcuaEzVpLXWcKH8c3koqc",
+        "start": 314,
+        "end": 333,
+        "page": 29,
+        "text": "structuraux de la"
+      },
+      "mediumOffsets": [
+        {
+          "start": 269,
+          "end": 282,
+          "confidence": "medium"
+        }
+      ],
+      "lowOffsets": [],
+      "verification": {
+        "isNounInTruncationText": false,
+        "conclusion": "✗ 名词不在截断内！注意力飘散：兜底算法匹配到了错误位置"
+      }
+    },
+    {
+      "batchId": 10,
+      "truncId": 55,
+      "machineCode": "【【55】】",
+      "noun": "purificatrices",
+      "truncation": {
+        "chunkKey": "h1._tDUmd444hUf6OaHJzy7G-v8rYB7zHMf2oR4yLLg_NV3fvGaBFWX0mVu24bTg2lPvJLktTxCvHJF10pM2JYSqN0KJzn8mtEVaLBGF6dIiOdq0cU0Jr2Hocx6BSkf8UhcuaEzVpLXWcKH8c3koqc",
+        "start": 314,
+        "end": 333,
+        "page": 29,
+        "text": "structuraux de la"
+      },
+      "mediumOffsets": [
+        {
+          "start": 283,
+          "end": 297,
+          "confidence": "medium"
+        }
+      ],
+      "lowOffsets": [],
+      "verification": {
+        "isNounInTruncationText": false,
+        "conclusion": "✗ 名词不在截断内！注意力飘散：兜底算法匹配到了错误位置"
+      }
+    },
+    {
+      "batchId": 10,
+      "truncId": 64,
+      "machineCode": "【【64】】",
+      "noun": "ultime",
+      "truncation": {
+        "chunkKey": "h1._tDUmd444hUf6OaHJzy7G-v8rYB7zHMf2oR4yLLg_NV3fvGaBFWX0mVu24bTg2lPvJLktTxCvHJF10pM2JYSqN0KJzn8mtEVaLBGF6dIiOdq0cU0Jr2Hocx6BSkf8UhcuaEzVpLXWcKH8c3koqc",
+        "start": 920,
+        "end": 943,
+        "page": 29,
+        "text": ". Il parait appartenir,"
+      },
+      "mediumOffsets": [],
+      "lowOffsets": [
+        {
+          "start": 862,
+          "end": 868,
+          "confidence": "low"
+        }
+      ],
+      "verification": {
+        "isNounInTruncationText": false,
+        "conclusion": "✗ 名词不在截断内！注意力飘散：兜底算法匹配到了错误位置"
+      }
+    },
+    {
+      "batchId": 11,
+      "truncId": 34,
+      "machineCode": "【【34】】",
+      "noun": "toute",
+      "truncation": {
+        "chunkKey": "h1.Np3LpmFVV4J8Tgvys2d5wbYTVed6_kC-ZPGPMc7IGHCDxknce_ePPLCozJG4qsX-f5AP46ArEuABLrXI_Z4t0yuvVj0OnMdeEPcenl9dsir6q6C4sDCGoPntLtaHknaa4ZVIO-M1g1DDfVSE834",
+        "start": 193,
+        "end": 268,
+        "page": 33,
+        "text": "qui, tout en renonçant au paramètre libidinal • cache • (qui échappait en"
+      },
+      "mediumOffsets": [],
+      "lowOffsets": [
+        {
+          "start": 23,
+          "end": 28,
+          "confidence": "low"
+        }
+      ],
+      "verification": {
+        "isNounInTruncationText": false,
+        "conclusion": "✗ 名词不在截断内！注意力飘散：兜底算法匹配到了错误位置"
+      }
+    },
+    {
+      "batchId": 11,
+      "truncId": 41,
+      "machineCode": "【【41】】",
+      "noun": "énergétique",
+      "truncation": {
+        "chunkKey": "h1.Np3LpmFVV4J8Tgvys2d5wbYTVed6_kC-ZPGPMc7IGHCDxknce_ePPLCozJG4qsX-f5AP46ArEuABLrXI_Z4t0yuvVj0OnMdeEPcenl9dsir6q6C4sDCGoPntLtaHknaa4ZVIO-M1g1DDfVSE834",
+        "start": 527,
+        "end": 557,
+        "page": 33,
+        "text": "énergétique associé à chaque"
+      },
+      "mediumOffsets": [],
+      "lowOffsets": [
+        {
+          "start": 1305,
+          "end": 1316,
+          "confidence": "low"
+        }
+      ],
+      "verification": {
+        "isNounInTruncationText": true,
+        "conclusion": "✓ 名词在截断内，兜底算法正确扩展到了相邻区域"
+      }
+    },
+    {
+      "batchId": 11,
+      "truncId": 56,
+      "machineCode": "【【56】】",
+      "noun": "beaucoup",
+      "truncation": {
+        "chunkKey": "h1.pdyS4xCO7sIyBGVUglsjOTJ9MwoG1FY4RvUoiYTnBHGnwKIQoBdWxpyaeoChy7YrrePgs7NzcgyYXvoQiux4_TGyQ0j8-7PP0YnTLtgoTlIvsnV4enymZH8TY4R1moGV0czhQXpO9Lx4OZlpyZs",
+        "start": 22,
+        "end": 50,
+        "page": 33,
+        "text": "n'est ici maintenu que par"
+      },
+      "mediumOffsets": [],
+      "lowOffsets": [
+        {
+          "start": 112,
+          "end": 120,
+          "confidence": "low"
+        }
+      ],
+      "verification": {
+        "isNounInTruncationText": false,
+        "conclusion": "✗ 名词不在截断内！注意力飘散：兜底算法匹配到了错误位置"
+      }
+    },
+    {
+      "batchId": 12,
+      "truncId": 81,
+      "machineCode": "【【81】】",
+      "noun": "dernière",
+      "truncation": {
+        "chunkKey": "h1.IPFKb8xeh_Ei7Z0U-NyhE8QkhorvmlRIpgEACMTN5fLfwnm_K701TtPiT3MHNyfZtim-Wba4hP_Hv328bxkS3F2iq6BNGcgm6CWTnsuH35R36dbczZ_5P98F-il_k870DV0IWpiMuaqsD0Ztm8hg",
+        "start": 30,
+        "end": 53,
+        "page": 37,
+        "text": "*, qui différencie ces"
+      },
+      "mediumOffsets": [],
+      "lowOffsets": [
+        {
+          "start": 294,
+          "end": 302,
+          "confidence": "low"
+        }
+      ],
+      "verification": {
+        "isNounInTruncationText": false,
+        "conclusion": "✗ 名词不在截断内！注意力飘散：兜底算法匹配到了错误位置"
+      }
+    },
+    {
+      "batchId": 12,
+      "truncId": 81,
+      "machineCode": "【【81】】",
+      "noun": "contrainte",
+      "truncation": {
+        "chunkKey": "h1.IPFKb8xeh_Ei7Z0U-NyhE8QkhorvmlRIpgEACMTN5fLfwnm_K701TtPiT3MHNyfZtim-Wba4hP_Hv328bxkS3F2iq6BNGcgm6CWTnsuH35R36dbczZ_5P98F-il_k870DV0IWpiMuaqsD0Ztm8hg",
+        "start": 30,
+        "end": 53,
+        "page": 37,
+        "text": "*, qui différencie ces"
+      },
+      "mediumOffsets": [],
+      "lowOffsets": [
+        {
+          "start": 303,
+          "end": 313,
+          "confidence": "low"
+        }
+      ],
+      "verification": {
+        "isNounInTruncationText": false,
+        "conclusion": "✗ 名词不在截断内！注意力飘散：兜底算法匹配到了错误位置"
+      }
+    },
+    {
+      "batchId": 12,
+      "truncId": 84,
+      "machineCode": "【【84】】",
+      "noun": "intrinseque",
+      "truncation": {
+        "chunkKey": "h1.IPFKb8xeh_Ei7Z0U-NyhE8QkhorvmlRIpgEACMTN5fLfwnm_K701TtPiT3MHNyfZtim-Wba4hP_Hv328bxkS3F2iq6BNGcgm6CWTnsuH35R36dbczZ_5P98F-il_k870DV0IWpiMuaqsD0Ztm8hg",
+        "start": 243,
+        "end": 331,
+        "page": 37,
+        "text": "(tenseurs projectif-dichroniques). C'est de cette dernière contrainte que découlera la"
+      },
+      "mediumOffsets": [],
+      "lowOffsets": [
+        {
+          "start": 444,
+          "end": 455,
+          "confidence": "low"
+        }
+      ],
+      "verification": {
+        "isNounInTruncationText": false,
+        "conclusion": "✗ 名词不在截断内！注意力飘散：兜底算法匹配到了错误位置"
+      }
+    },
+    {
+      "batchId": 15,
+      "truncId": 39,
+      "machineCode": "【【39】】",
+      "noun": "mémoiresés",
+      "truncation": {
+        "chunkKey": "h1.29ofsR3P8WxR5I7wuJRJnvm8e9FVKoNxYlXLdc2hhNDSg3BMZGaCx5fNZHs2Ii4XWCOwsmB46qkDFjpIZ6XqXYllgJl2goo9Q3xF2rqcNjPAp72PyMp4WvfAY5XHysuhPTGK7h7DchBAtjKNIWY",
+        "start": 844,
+        "end": 875,
+        "page": 51,
+        "text": "mémoiresés et contrôlés à des"
+      },
+      "mediumOffsets": [],
+      "lowOffsets": [
+        {
+          "start": 280,
+          "end": 290,
+          "confidence": "low"
+        }
+      ],
+      "verification": {
+        "isNounInTruncationText": true,
+        "conclusion": "✓ 名词在截断内，兜底算法正确扩展到了相邻区域"
+      }
+    },
+    {
+      "batchId": 15,
+      "truncId": 64,
+      "machineCode": "【【64】】",
+      "noun": "autre",
+      "truncation": {
+        "chunkKey": "h1.dWw26NzHua9maC9ZfZKDytvPbhxpS6NrF30vHn-Zhkaml05SAh-4SD-sSP5hj5ND-vAsrGgOcD6bKfv8giyzQ9iSGEVel_X-kYZA_p_19WCUOOZ2U3rV93r1x_xC-JSwdyei8TtBtBpsenYLNlI",
+        "start": 244,
+        "end": 256,
+        "page": 51,
+        "text": "bien autre"
+      },
+      "mediumOffsets": [],
+      "lowOffsets": [
+        {
+          "start": 363,
+          "end": 368,
+          "confidence": "low"
+        },
+        {
+          "start": 380,
+          "end": 385,
+          "confidence": "low"
+        }
+      ],
+      "verification": {
+        "isNounInTruncationText": true,
+        "conclusion": "✓ 名词在截断内，兜底算法正确扩展到了相邻区域"
+      }
+    },
+    {
+      "batchId": 15,
+      "truncId": 92,
+      "machineCode": "【【92】】",
+      "noun": "continue",
+      "truncation": {
+        "chunkKey": "h1.stEl7fQ3QsNiwGCIEkZZmFuwF9gc1pVXes5NERgBK_DmqerU7U98fqK1WRuWeXBBwycrfXUANFlSi2epPnWjgkTX8sK1oAaXZ28T_nDM_ndF90XrRIwIQsw2Prk0OsGNDEr23vsvYHOL4ovdLak",
+        "start": 170,
+        "end": 183,
+        "page": 52,
+        "text": "continue et"
+      },
+      "mediumOffsets": [],
+      "lowOffsets": [
+        {
+          "start": 75,
+          "end": 83,
+          "confidence": "low"
+        }
+      ],
+      "verification": {
+        "isNounInTruncationText": true,
+        "conclusion": "✓ 名词在截断内，兜底算法正确扩展到了相邻区域"
+      }
+    }
+  ]
+}

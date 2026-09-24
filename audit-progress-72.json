@@ -1,0 +1,833 @@
+[
+  {
+    "surface": "cheval",
+    "valid": true
+  },
+  {
+    "surface": "Adepe",
+    "valid": true
+  },
+  {
+    "surface": "diners",
+    "valid": true
+  },
+  {
+    "surface": "orgies",
+    "valid": true
+  },
+  {
+    "surface": ", de spiritisme",
+    "valid": false,
+    "reason": "含标点碎片和介词，非单一实词"
+  },
+  {
+    "surface": "d'excertants",
+    "valid": false,
+    "reason": "含缩合介词d'，非单一实词"
+  },
+  {
+    "surface": "ministre",
+    "valid": true
+  },
+  {
+    "surface": "poisons",
+    "valid": true
+  },
+  {
+    "surface": "contradictorie",
+    "valid": true
+  },
+  {
+    "surface": "patron",
+    "valid": true
+  },
+  {
+    "surface": "syndicat",
+    "valid": true
+  },
+  {
+    "surface": "abstinents",
+    "valid": true
+  },
+  {
+    "surface": "Tantôt l'sagra",
+    "valid": false,
+    "reason": "含副词和冠词碎片，非单一实词"
+  },
+  {
+    "surface": "clochards",
+    "valid": true
+  },
+  {
+    "surface": "tantôt d'abstinents mécanisés",
+    "valid": false,
+    "reason": "含副词、介词和多个词，非单一实词"
+  },
+  {
+    "surface": "dénionciation",
+    "valid": true
+  },
+  {
+    "surface": "cette pièce",
+    "valid": true
+  },
+  {
+    "surface": "jumelles",
+    "valid": true
+  },
+  {
+    "surface": "une certaine manie",
+    "valid": true
+  },
+  {
+    "surface": ", le national",
+    "valid": false,
+    "reason": "含标点碎片和冠词，非单一实词"
+  },
+  {
+    "surface": "Thomas Mann",
+    "valid": true
+  },
+  {
+    "surface": "cette engaine",
+    "valid": true
+  },
+  {
+    "surface": "la voix",
+    "valid": true
+  },
+  {
+    "surface": "personnages",
+    "valid": true
+  },
+  {
+    "surface": "La montagne magique",
+    "valid": true
+  },
+  {
+    "surface": "Trollest id'abord défini",
+    "valid": false,
+    "reason": "含动词变位和碎片，非单一实词"
+  },
+  {
+    "surface": "les coups",
+    "valid": true
+  },
+  {
+    "surface": "particulier dans le domaine",
+    "valid": false,
+    "reason": "含形容词、介词和冠词，非单一实词"
+  },
+  {
+    "surface": "quel truc",
+    "valid": true
+  },
+  {
+    "surface": "guoit",
+    "valid": true
+  },
+  {
+    "surface": "Sa dernière trouvaille",
+    "valid": true
+  },
+  {
+    "surface": "médiation",
+    "valid": true
+  },
+  {
+    "surface": "une sculpture non spatiale",
+    "valid": true
+  },
+  {
+    "surface": "une musique",
+    "valid": true
+  },
+  {
+    "surface": "un cabaret fantastique et macabre",
+    "valid": true
+  },
+  {
+    "surface": "club",
+    "valid": true
+  },
+  {
+    "surface": "choses bizarres",
+    "valid": true
+  },
+  {
+    "surface": "Plasphodore",
+    "valid": true
+  },
+  {
+    "surface": "le gerant",
+    "valid": true
+  },
+  {
+    "surface": "son refus",
+    "valid": true
+  },
+  {
+    "surface": "quelle entreprise",
+    "valid": true
+  },
+  {
+    "surface": "socialisation",
+    "valid": true
+  },
+  {
+    "surface": "d'adaptation",
+    "valid": false,
+    "reason": "含缩合介词d'，非单一实词"
+  },
+  {
+    "surface": "l'intrigue",
+    "valid": true
+  },
+  {
+    "surface": "dernier acte",
+    "valid": true
+  },
+  {
+    "surface": "tous les autres protagonistes",
+    "valid": true
+  },
+  {
+    "surface": "par mort",
+    "valid": false,
+    "reason": "含介词par，非单一实词"
+  },
+  {
+    "surface": "par dispartion",
+    "valid": false,
+    "reason": "含介词par，非单一实词"
+  },
+  {
+    "surface": "non-sens",
+    "valid": true
+  },
+  {
+    "surface": "une aile",
+    "valid": true
+  },
+  {
+    "surface": "l'espace sénique",
+    "valid": true
+  },
+  {
+    "surface": "la piece",
+    "valid": true
+  },
+  {
+    "surface": "le personage principal",
+    "valid": true
+  },
+  {
+    "surface": "cette monie chinoise",
+    "valid": true
+  },
+  {
+    "surface": "momie",
+    "valid": true
+  },
+  {
+    "surface": "cette machine rituelle",
+    "valid": true
+  },
+  {
+    "surface": "Trottek",
+    "valid": true
+  },
+  {
+    "surface": "quelque partie",
+    "valid": true
+  },
+  {
+    "surface": "cirque ambulant",
+    "valid": true
+  },
+  {
+    "surface": "cinq années",
+    "valid": true
+  },
+  {
+    "surface": "cabane",
+    "valid": true
+  },
+  {
+    "surface": "Saigon",
+    "valid": true
+  },
+  {
+    "surface": ", de surcrit",
+    "valid": false,
+    "reason": "含标点碎片和介词，非单一实词"
+  },
+  {
+    "surface": "le don",
+    "valid": true
+  },
+  {
+    "surface": "un silence définit",
+    "valid": false,
+    "reason": "含冠词和动词变位，非单一实词"
+  },
+  {
+    "surface": "la lier",
+    "valid": false,
+    "reason": "含冠词和动词不定式，非单一实词"
+  },
+  {
+    "surface": "Pourquoi ces vines",
+    "valid": false,
+    "reason": "含疑问副词和指示词，非单一实词"
+  },
+  {
+    "surface": "leur sang",
+    "valid": true
+  },
+  {
+    "surface": "éveuvre",
+    "valid": true
+  },
+  {
+    "surface": "princece",
+    "valid": true
+  },
+  {
+    "surface": "le Janus bifrons d'ennommé Witkiewitz-Wikacy",
+    "valid": true
+  },
+  {
+    "surface": "cette monie magique",
+    "valid": true
+  },
+  {
+    "surface": "l'ancien passion",
+    "valid": true
+  },
+  {
+    "surface": "création",
+    "valid": true
+  },
+  {
+    "surface": "Rien domine ni décaler",
+    "valid": false,
+    "reason": "含代词、动词和连词，非单一实词"
+  },
+  {
+    "surface": "le monde entier",
+    "valid": true
+  },
+  {
+    "surface": "eil",
+    "valid": true
+  },
+  {
+    "surface": "*Délème",
+    "valid": false,
+    "reason": "含星号符号碎片"
+  },
+  {
+    "surface": "melle",
+    "valid": true
+  },
+  {
+    "surface": "n'importe quel segment",
+    "valid": true
+  },
+  {
+    "surface": "Cette monie monie",
+    "valid": true
+  },
+  {
+    "surface": "ce nouvel opérateur",
+    "valid": true
+  },
+  {
+    "surface": "monde ordinaire",
+    "valid": true
+  },
+  {
+    "surface": "une machine",
+    "valid": true
+  },
+  {
+    "surface": "de Raymond",
+    "valid": false,
+    "reason": "含介词de，非单一实词"
+  },
+  {
+    "surface": "Roussel",
+    "valid": true
+  },
+  {
+    "surface": "Un horrible plastron convexe",
+    "valid": true
+  },
+  {
+    "surface": "Plasphone",
+    "valid": true
+  },
+  {
+    "surface": "son intermédiaire",
+    "valid": true
+  },
+  {
+    "surface": "fonce",
+    "valid": true
+  },
+  {
+    "surface": "abime",
+    "valid": true
+  },
+  {
+    "surface": "les deux beau-frères",
+    "valid": true
+  },
+  {
+    "surface": "rivalité",
+    "valid": true
+  },
+  {
+    "surface": "une ancienne relation incesteuse",
+    "valid": true
+  },
+  {
+    "surface": "Trotke",
+    "valid": true
+  },
+  {
+    "surface": "sa sour",
+    "valid": true
+  },
+  {
+    "surface": ", Mamalia",
+    "valid": false,
+    "reason": "含标点碎片"
+  },
+  {
+    "surface": "par une actuelle relation",
+    "valid": false,
+    "reason": "含介词par和冠词，非单一实词"
+  },
+  {
+    "surface": "Femellon",
+    "valid": true
+  },
+  {
+    "surface": "tous les domaines",
+    "valid": true
+  },
+  {
+    "surface": "triompher",
+    "valid": false,
+    "reason": "动词不定式，非名词"
+  },
+  {
+    "surface": "idealités passionsnes",
+    "valid": true
+  },
+  {
+    "surface": "ce von",
+    "valid": true
+  },
+  {
+    "surface": "« doux",
+    "valid": false,
+    "reason": "含引号符号碎片"
+  },
+  {
+    "surface": "du duvet",
+    "valid": true
+  },
+  {
+    "surface": "cette descente",
+    "valid": true
+  },
+  {
+    "surface": "supplice",
+    "valid": true
+  },
+  {
+    "surface": "sommeil",
+    "valid": true
+  },
+  {
+    "surface": "l'incarnation",
+    "valid": true
+  },
+  {
+    "surface": "châtiment",
+    "valid": true
+  },
+  {
+    "surface": "Ainsi la passion",
+    "valid": false,
+    "reason": "含副词Ainsi和冠词，非单一实词"
+  },
+  {
+    "surface": "un paradigme",
+    "valid": true
+  },
+  {
+    "surface": "la femme",
+    "valid": true
+  },
+  {
+    "surface": "une procédure",
+    "valid": true
+  },
+  {
+    "surface": "une tout autre nature",
+    "valid": true
+  },
+  {
+    "surface": "l'omnipréspense",
+    "valid": true
+  },
+  {
+    "surface": "une culpabilité",
+    "valid": true
+  },
+  {
+    "surface": "mélopée",
+    "valid": true
+  },
+  {
+    "surface": "l'armature phonologique",
+    "valid": true
+  },
+  {
+    "surface": "certaines poésies sonores",
+    "valid": true
+  },
+  {
+    "surface": "Antonin Artaud",
+    "valid": true
+  },
+  {
+    "surface": "cette tache",
+    "valid": true
+  },
+  {
+    "surface": "lotus bleu",
+    "valid": true
+  },
+  {
+    "surface": "couleur jaune",
+    "valid": true
+  },
+  {
+    "surface": "une palette",
+    "valid": true
+  },
+  {
+    "surface": "un registre pictural",
+    "valid": true
+  },
+  {
+    "surface": "dans un registre racial",
+    "valid": false,
+    "reason": "含介词dans和冠词，非单一实词"
+  },
+  {
+    "surface": "cette empire immédiate",
+    "valid": true
+  },
+  {
+    "surface": "couleurs",
+    "valid": true
+  },
+  {
+    "surface": "la trame narrative",
+    "valid": true
+  },
+  {
+    "surface": "l'œuvre théâtrale",
+    "valid": true
+  },
+  {
+    "surface": "costumes",
+    "valid": true
+  },
+  {
+    "surface": "des décors",
+    "valid": true
+  },
+  {
+    "surface": "Guybal Velleyar",
+    "valid": true
+  },
+  {
+    "surface": "le jaune",
+    "valid": true
+  },
+  {
+    "surface": "le rouge",
+    "valid": true
+  },
+  {
+    "surface": "La poule",
+    "valid": true
+  },
+  {
+    "surface": "parle",
+    "valid": false,
+    "reason": "动词变位，非名词"
+  },
+  {
+    "surface": "petites images",
+    "valid": true
+  },
+  {
+    "surface": "ses petites pastilles",
+    "valid": true
+  },
+  {
+    "surface": "une santé",
+    "valid": true
+  },
+  {
+    "surface": "les stérotypes",
+    "valid": true
+  },
+  {
+    "surface": "personages",
+    "valid": true
+  },
+  {
+    "surface": "une ritournelle problématique",
+    "valid": true
+  },
+  {
+    "surface": "le nexus suivant",
+    "valid": true
+  },
+  {
+    "surface": "les disposifs",
+    "valid": true
+  },
+  {
+    "surface": "la passion",
+    "valid": true
+  },
+  {
+    "surface": "creation esthetique",
+    "valid": true
+  },
+  {
+    "surface": "menaces",
+    "valid": true
+  },
+  {
+    "surface": "l'intusion",
+    "valid": true
+  },
+  {
+    "surface": "mémère",
+    "valid": true
+  },
+  {
+    "surface": "le femininité",
+    "valid": true
+  },
+  {
+    "surface": "petite échelle",
+    "valid": true
+  },
+  {
+    "surface": "Les pragmatiques",
+    "valid": true
+  },
+  {
+    "surface": ", à grande échelle",
+    "valid": false,
+    "reason": "含标点碎片和介词，非单一实词"
+  },
+  {
+    "surface": "Guyal",
+    "valid": true
+  },
+  {
+    "surface": "une répartition",
+    "valid": true
+  },
+  {
+    "surface": "les femmes virements",
+    "valid": true
+  },
+  {
+    "surface": "pitie",
+    "valid": true
+  },
+  {
+    "surface": "homie",
+    "valid": true
+  },
+  {
+    "surface": "la greffe",
+    "valid": true
+  },
+  {
+    "surface": "certaines glandes",
+    "valid": true
+  },
+  {
+    "surface": "Une autre solution",
+    "valid": true
+  },
+  {
+    "surface": "si possible à sa demande",
+    "valid": false,
+    "reason": "含连词、介词和限定词，非单一实词"
+  },
+  {
+    "surface": "l'une fantasique",
+    "valid": true
+  },
+  {
+    "surface": "façon répétitive,",
+    "valid": false,
+    "reason": "含标点碎片"
+  },
+  {
+    "surface": "Tension narrative",
+    "valid": true
+  },
+  {
+    "surface": "éternel retour",
+    "valid": true
+  },
+  {
+    "surface": "Erotisme obsessif",
+    "valid": true
+  },
+  {
+    "surface": "toujours la menace",
+    "valid": false,
+    "reason": "含副词toujours和冠词，非单一实词"
+  },
+  {
+    "surface": "une trape atroce",
+    "valid": true
+  },
+  {
+    "surface": "Mon système",
+    "valid": true
+  },
+  {
+    "surface": "Velleyter",
+    "valid": true
+  },
+  {
+    "surface": "mes propres tortures",
+    "valid": true
+  },
+  {
+    "surface": "valeurs universelles",
+    "valid": true
+  },
+  {
+    "surface": "martyr",
+    "valid": true
+  },
+  {
+    "surface": "mon continu",
+    "valid": true
+  },
+  {
+    "surface": "six dimensions",
+    "valid": true
+  },
+  {
+    "surface": "le droit",
+    "valid": true
+  },
+  {
+    "surface": "machins",
+    "valid": true
+  },
+  {
+    "surface": "torture",
+    "valid": true
+  },
+  {
+    "surface": "si fréquentes",
+    "valid": false,
+    "reason": "含连词si，非单一实词"
+  },
+  {
+    "surface": "un dernier expédient",
+    "valid": true
+  },
+  {
+    "surface": ", une ultime accroche de l'alterité",
+    "valid": false,
+    "reason": "含标点碎片和介词，非单一实词"
+  },
+  {
+    "surface": "toteufle",
+    "valid": true
+  },
+  {
+    "surface": "le théatre",
+    "valid": true
+  },
+  {
+    "surface": "la ra ra",
+    "valid": true
+  },
+  {
+    "surface": "ta ka",
+    "valid": true
+  },
+  {
+    "surface": "la Ma ga",
+    "valid": true
+  },
+  {
+    "surface": "ga",
+    "valid": true
+  },
+  {
+    "surface": "Ma ge ge ere",
+    "valid": true
+  },
+  {
+    "surface": "ka",
+    "valid": true
+  },
+  {
+    "surface": "la wa ta",
+    "valid": true
+  },
+  {
+    "surface": "pa",
+    "valid": true
+  },
+  {
+    "surface": "la première intervention",
+    "valid": true
+  },
+  {
+    "surface": "la momie",
+    "valid": true
+  },
+  {
+    "surface": "Son nouveau »traitement",
+    "valid": false,
+    "reason": "含引号符号碎片"
+  },
+  {
+    "surface": "une double deterritorialisation",
+    "valid": true
+  },
+  {
+    "surface": "son nom",
+    "valid": true
+  },
+  {
+    "surface": "une pure rythmique",
+    "valid": true
+  }
+]

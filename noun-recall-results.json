@@ -1,0 +1,7343 @@
+[
+  {
+    "questionId": "Z3-Q2",
+    "question": "精神分析如何处理精神病性结构？有哪些临床策略？",
+    "zone": 3,
+    "totalNouns": 15288,
+    "coarseYesCount": 932,
+    "scoredCount": 932,
+    "selectedCount": 932,
+    "highScoredCount": 27,
+    "scoreThreshold": 80,
+    "failedBatches": 0,
+    "skippedScoring": false,
+    "tokenCost": {
+      "coarsePromptTokens": 154891,
+      "coarseCompletionTokens": 3622,
+      "scorePromptTokens": 10510,
+      "scoreCompletionTokens": 6521,
+      "totalPromptTokens": 165401,
+      "totalCompletionTokens": 10143
+    },
+    "elapsedSecs": 12.9,
+    "scoredNouns": [
+      {
+        "id": "la_psychose",
+        "surface": "la psychose",
+        "df": 1,
+        "score": 90
+      },
+      {
+        "id": "l'inconciert",
+        "surface": "l'Inconciert",
+        "df": 1,
+        "score": 85
+      },
+      {
+        "id": "le_symbolique",
+        "surface": "le Symbolique",
+        "df": 1,
+        "score": 85
+      },
+      {
+        "id": "un_manque",
+        "surface": "un manque",
+        "df": 2,
+        "score": 85
+      },
+      {
+        "id": "structures",
+        "surface": "structures",
+        "df": 8,
+        "score": 85
+      },
+      {
+        "id": "transfert",
+        "surface": "transfert",
+        "df": 13,
+        "score": 85
+      },
+      {
+        "id": "réel",
+        "surface": "Réel",
+        "df": 10,
+        "score": 85
+      },
+      {
+        "id": "une_psychose",
+        "surface": "une psychose",
+        "df": 1,
+        "score": 85
+      },
+      {
+        "id": "la_psychanalyse_lacanienne",
+        "surface": "La psychanalyse lacanienne",
+        "df": 1,
+        "score": 85
+      },
+      {
+        "id": "une_interprétation",
+        "surface": "une interprétation",
+        "df": 1,
+        "score": 80
+      },
+      {
+        "id": "la_trame_structurelle",
+        "surface": "la trame structurelle",
+        "df": 1,
+        "score": 80
+      },
+      {
+        "id": "l'interprétation",
+        "surface": "l'interprétation",
+        "df": 1,
+        "score": 80
+      },
+      {
+        "id": "splitting",
+        "surface": "splitting",
+        "df": 2,
+        "score": 80
+      },
+      {
+        "id": "des_structures",
+        "surface": "des structures",
+        "df": 5,
+        "score": 80
+      },
+      {
+        "id": "résistance",
+        "surface": "résistance",
+        "df": 2,
+        "score": 80
+      },
+      {
+        "id": "un_ordre_symbolique",
+        "surface": "un ordre symbolique",
+        "df": 1,
+        "score": 80
+      },
+      {
+        "id": "interpretation",
+        "surface": "interpretation",
+        "df": 2,
+        "score": 80
+      },
+      {
+        "id": "le_réel",
+        "surface": "le réel",
+        "df": 7,
+        "score": 80
+      },
+      {
+        "id": "lacan",
+        "surface": "Lacan",
+        "df": 4,
+        "score": 80
+      },
+      {
+        "id": "interprétation",
+        "surface": "interprétation",
+        "df": 2,
+        "score": 80
+      },
+      {
+        "id": "la_tripartition_lacanienne",
+        "surface": "La tripartition lacanienne",
+        "df": 1,
+        "score": 80
+      },
+      {
+        "id": "du_symbolique",
+        "surface": "du Symbolique",
+        "df": 1,
+        "score": 80
+      },
+      {
+        "id": "la_cure",
+        "surface": "la cure",
+        "df": 2,
+        "score": 80
+      },
+      {
+        "id": "les_structures",
+        "surface": "les structures",
+        "df": 5,
+        "score": 80
+      },
+      {
+        "id": "un_délire",
+        "surface": "un délire",
+        "df": 1,
+        "score": 80
+      },
+      {
+        "id": "structural",
+        "surface": "structural",
+        "df": 1,
+        "score": 80
+      },
+      {
+        "id": "la_schizophrenie",
+        "surface": "la schizophrenie",
+        "df": 1,
+        "score": 80
+      },
+      {
+        "id": "voyeurie-persécutive",
+        "surface": "voyeurie-persécutive",
+        "df": 1,
+        "score": 75
+      },
+      {
+        "id": "une_castration_symbolique",
+        "surface": "une castration symbolique",
+        "df": 1,
+        "score": 75
+      },
+      {
+        "id": "noué",
+        "surface": "noué",
+        "df": 1,
+        "score": 75
+      },
+      {
+        "id": "transferts_illocalisables",
+        "surface": "transferts illocalisables",
+        "df": 1,
+        "score": 75
+      },
+      {
+        "id": "un_signifiant",
+        "surface": "un signifiant",
+        "df": 1,
+        "score": 75
+      },
+      {
+        "id": "angoisse",
+        "surface": "angoisse",
+        "df": 1,
+        "score": 75
+      },
+      {
+        "id": "clef_structureule",
+        "surface": "clef structureule",
+        "df": 1,
+        "score": 75
+      },
+      {
+        "id": "folie",
+        "surface": "folie",
+        "df": 2,
+        "score": 75
+      },
+      {
+        "id": "narcissisme",
+        "surface": "narcissisme",
+        "df": 1,
+        "score": 75
+      },
+      {
+        "id": "imaginaire",
+        "surface": "imaginaire",
+        "df": 2,
+        "score": 75
+      },
+      {
+        "id": "l'imaginaire",
+        "surface": "l'imaginaire",
+        "df": 1,
+        "score": 75
+      },
+      {
+        "id": "la_résistance",
+        "surface": "la résistance",
+        "df": 2,
+        "score": 75
+      },
+      {
+        "id": "la_félure",
+        "surface": "La félure",
+        "df": 1,
+        "score": 75
+      },
+      {
+        "id": "la_coupure_symbolique",
+        "surface": "la coupure symbolique",
+        "df": 1,
+        "score": 75
+      },
+      {
+        "id": "position",
+        "surface": "position",
+        "df": 28,
+        "score": 75
+      },
+      {
+        "id": "obédience_lacanienne",
+        "surface": "obédience lacanienne",
+        "df": 1,
+        "score": 75
+      },
+      {
+        "id": "lacanisme",
+        "surface": "lacanisme",
+        "df": 1,
+        "score": 75
+      },
+      {
+        "id": "ou_bien_lacan",
+        "surface": "ou bien Lacan",
+        "df": 1,
+        "score": 75
+      },
+      {
+        "id": "de_l'imaginaire",
+        "surface": "de l'Imaginaire",
+        "df": 1,
+        "score": 75
+      },
+      {
+        "id": "la_structuration",
+        "surface": "la structuration",
+        "df": 1,
+        "score": 75
+      },
+      {
+        "id": "le_sujet",
+        "surface": "Le sujet",
+        "df": 6,
+        "score": 75
+      },
+      {
+        "id": "castration_symbolique",
+        "surface": "castration symbolique",
+        "df": 1,
+        "score": 75
+      },
+      {
+        "id": "l'interpretation",
+        "surface": "l'interpretation",
+        "df": 3,
+        "score": 75
+      },
+      {
+        "id": "les_interprétations",
+        "surface": "les interprétations",
+        "df": 1,
+        "score": 75
+      },
+      {
+        "id": "au_du_transfert",
+        "surface": "au du transfert",
+        "df": 1,
+        "score": 75
+      },
+      {
+        "id": "la_relation",
+        "surface": "la relation",
+        "df": 1,
+        "score": 75
+      },
+      {
+        "id": "un_transfert",
+        "surface": "un transfert",
+        "df": 2,
+        "score": 75
+      },
+      {
+        "id": "structuralisme_lacanien",
+        "surface": "structuralisme lacanien",
+        "df": 2,
+        "score": 75
+      },
+      {
+        "id": "schizophrenique",
+        "surface": "schizophrenique",
+        "df": 1,
+        "score": 75
+      },
+      {
+        "id": "les_délires",
+        "surface": "les délires",
+        "df": 1,
+        "score": 75
+      },
+      {
+        "id": "des_ordonnées_psychotiques",
+        "surface": "des ordonnées psychotiques",
+        "df": 1,
+        "score": 75
+      },
+      {
+        "id": "délire",
+        "surface": "délire",
+        "df": 1,
+        "score": 75
+      },
+      {
+        "id": "refulement",
+        "surface": "refulement",
+        "df": 1,
+        "score": 70
+      },
+      {
+        "id": "psychopathologie",
+        "surface": "psychopathologie",
+        "df": 1,
+        "score": 70
+      },
+      {
+        "id": "une_position_deficiatrice",
+        "surface": "une position deficiatrice",
+        "df": 1,
+        "score": 70
+      },
+      {
+        "id": "le_blocage_imaginaire",
+        "surface": "le blocage imaginaire",
+        "df": 1,
+        "score": 70
+      },
+      {
+        "id": "opérations_signifiante",
+        "surface": "opérations signifiante",
+        "df": 1,
+        "score": 70
+      },
+      {
+        "id": "déferalisation",
+        "surface": "déferalisation",
+        "df": 1,
+        "score": 70
+      },
+      {
+        "id": "une_fabulation_déréalisante",
+        "surface": "une fabulation déréalisante",
+        "df": 1,
+        "score": 70
+      },
+      {
+        "id": "la_structure_originaire",
+        "surface": "la structure originaire",
+        "df": 1,
+        "score": 70
+      },
+      {
+        "id": "l'association_libre",
+        "surface": "l'association libre",
+        "df": 1,
+        "score": 70
+      },
+      {
+        "id": "ses_transferts",
+        "surface": "ses transferts",
+        "df": 1,
+        "score": 70
+      },
+      {
+        "id": "une_cure",
+        "surface": "une cure",
+        "df": 1,
+        "score": 70
+      },
+      {
+        "id": "l'_analyse",
+        "surface": "l' analyse",
+        "df": 1,
+        "score": 70
+      },
+      {
+        "id": "de_castration",
+        "surface": "de castration",
+        "df": 1,
+        "score": 70
+      },
+      {
+        "id": "l'imaginea",
+        "surface": "l'imaginea",
+        "df": 1,
+        "score": 70
+      },
+      {
+        "id": "un_imaginaire",
+        "surface": "Un imaginaire",
+        "df": 1,
+        "score": 70
+      },
+      {
+        "id": "imaginea",
+        "surface": "imaginea",
+        "df": 1,
+        "score": 70
+      },
+      {
+        "id": "la_stratégie",
+        "surface": "la stratégie",
+        "df": 2,
+        "score": 70
+      },
+      {
+        "id": "le_déclenchement",
+        "surface": "le déclenchement",
+        "df": 1,
+        "score": 70
+      },
+      {
+        "id": "des_dimensions_inconscientes",
+        "surface": "des dimensions inconscientes",
+        "df": 1,
+        "score": 70
+      },
+      {
+        "id": "morcellement",
+        "surface": "morcellement",
+        "df": 1,
+        "score": 70
+      },
+      {
+        "id": "certains_états_limites",
+        "surface": "certains états limites",
+        "df": 1,
+        "score": 70
+      },
+      {
+        "id": "castration",
+        "surface": "castration",
+        "df": 1,
+        "score": 70
+      },
+      {
+        "id": "structures_profondes",
+        "surface": "Structures profondes",
+        "df": 1,
+        "score": 70
+      },
+      {
+        "id": "l'inconscient",
+        "surface": "l'Inconscient",
+        "df": 10,
+        "score": 70
+      },
+      {
+        "id": "le_concept_d*inconscient*.",
+        "surface": "le concept d*Inconscient*.",
+        "df": 1,
+        "score": 70
+      },
+      {
+        "id": "kleinisme",
+        "surface": "kleinisme",
+        "df": 1,
+        "score": 70
+      },
+      {
+        "id": "positions_subjectives",
+        "surface": "positions subjectives",
+        "df": 1,
+        "score": 70
+      },
+      {
+        "id": "le_cadre",
+        "surface": "le cadre",
+        "df": 13,
+        "score": 70
+      },
+      {
+        "id": "la_psychanalyse",
+        "surface": "la psychanalyse",
+        "df": 18,
+        "score": 70
+      },
+      {
+        "id": "une_perspective_analytique",
+        "surface": "une perspective analytique",
+        "df": 1,
+        "score": 70
+      },
+      {
+        "id": "la_structure_signifique",
+        "surface": "la structure signifique",
+        "df": 1,
+        "score": 70
+      },
+      {
+        "id": "la_triangulation_edipienne",
+        "surface": "la triangulation edipienne",
+        "df": 1,
+        "score": 70
+      },
+      {
+        "id": "une_*psychose_hallucinatoire_de_desir*",
+        "surface": "une *psychose hallucinatoire de desir*",
+        "df": 1,
+        "score": 70
+      },
+      {
+        "id": "l'identification_primaire",
+        "surface": "l'identification primaire",
+        "df": 1,
+        "score": 70
+      },
+      {
+        "id": "la_perte",
+        "surface": "La perte",
+        "df": 1,
+        "score": 70
+      },
+      {
+        "id": "une_topique_structureale",
+        "surface": "une topique structureale",
+        "df": 1,
+        "score": 70
+      },
+      {
+        "id": "inconscient",
+        "surface": "Inconscient",
+        "df": 5,
+        "score": 70
+      },
+      {
+        "id": "un_père",
+        "surface": "un Père",
+        "df": 1,
+        "score": 70
+      },
+      {
+        "id": "neutralité",
+        "surface": "neutralité",
+        "df": 3,
+        "score": 70
+      },
+      {
+        "id": "l'exploration_psychanalytique",
+        "surface": "l'exploration psychanalytique",
+        "df": 1,
+        "score": 70
+      },
+      {
+        "id": "toute_intervention",
+        "surface": "toute intervention",
+        "df": 1,
+        "score": 70
+      },
+      {
+        "id": "psychanalyse",
+        "surface": "psychanalyse",
+        "df": 4,
+        "score": 70
+      },
+      {
+        "id": "intervention",
+        "surface": "intervention",
+        "df": 3,
+        "score": 70
+      },
+      {
+        "id": "de_transfer",
+        "surface": "de transfer",
+        "df": 1,
+        "score": 70
+      },
+      {
+        "id": "sa_pratique",
+        "surface": "sa pratique",
+        "df": 1,
+        "score": 70
+      },
+      {
+        "id": "l'interprétation_significante",
+        "surface": "l'interprétation significante",
+        "df": 1,
+        "score": 70
+      },
+      {
+        "id": "la_folie",
+        "surface": "la folie",
+        "df": 1,
+        "score": 70
+      },
+      {
+        "id": "une_castration_symbique",
+        "surface": "une castration symbique",
+        "df": 1,
+        "score": 70
+      },
+      {
+        "id": "les_distorsions_significantes",
+        "surface": "les distorsions significantes",
+        "df": 1,
+        "score": 65
+      },
+      {
+        "id": "catatonie",
+        "surface": "catatonie",
+        "df": 1,
+        "score": 65
+      },
+      {
+        "id": "affects_problématiques",
+        "surface": "Affects problématiques",
+        "df": 2,
+        "score": 65
+      },
+      {
+        "id": "la_psychopathologie",
+        "surface": "la psychopathologie",
+        "df": 1,
+        "score": 65
+      },
+      {
+        "id": "un_dialogue_imaginaire",
+        "surface": "un dialogue imaginaire",
+        "df": 1,
+        "score": 65
+      },
+      {
+        "id": "un_univers_interduit",
+        "surface": "un univers interduit",
+        "df": 1,
+        "score": 65
+      },
+      {
+        "id": "insight",
+        "surface": "insight",
+        "df": 1,
+        "score": 65
+      },
+      {
+        "id": "identifications_modifiantes",
+        "surface": "identifications modifiantes",
+        "df": 1,
+        "score": 65
+      },
+      {
+        "id": "freudien",
+        "surface": "freudien",
+        "df": 1,
+        "score": 65
+      },
+      {
+        "id": "fantasies",
+        "surface": "fantasies",
+        "df": 1,
+        "score": 65
+      },
+      {
+        "id": "concepions_freudiennes",
+        "surface": "concepions freudiennes",
+        "df": 1,
+        "score": 65
+      },
+      {
+        "id": "patient",
+        "surface": "patient",
+        "df": 1,
+        "score": 65
+      },
+      {
+        "id": "edipe",
+        "surface": "Edipe",
+        "df": 1,
+        "score": 65
+      },
+      {
+        "id": "carente",
+        "surface": "carente",
+        "df": 1,
+        "score": 65
+      },
+      {
+        "id": "archaque",
+        "surface": "archaque",
+        "df": 1,
+        "score": 65
+      },
+      {
+        "id": "fonction_irrealisante",
+        "surface": "fonction irrealisante",
+        "df": 1,
+        "score": 65
+      },
+      {
+        "id": "la_fabulation",
+        "surface": "la fabulation",
+        "df": 1,
+        "score": 65
+      },
+      {
+        "id": "mélanie_klein'",
+        "surface": "Mélanie Klein'",
+        "df": 1,
+        "score": 65
+      },
+      {
+        "id": "winnicott",
+        "surface": "Winnicott",
+        "df": 1,
+        "score": 65
+      },
+      {
+        "id": "collapsus",
+        "surface": "collapsus",
+        "df": 1,
+        "score": 65
+      },
+      {
+        "id": "la_barre",
+        "surface": "la barre",
+        "df": 2,
+        "score": 65
+      },
+      {
+        "id": "moment_fécond_du_délire",
+        "surface": "Moment fécond du délire",
+        "df": 1,
+        "score": 65
+      },
+      {
+        "id": "la_structure",
+        "surface": "la structure",
+        "df": 4,
+        "score": 65
+      },
+      {
+        "id": "l'analyse",
+        "surface": "l'analyse",
+        "df": 9,
+        "score": 65
+      },
+      {
+        "id": "psychoanalyse",
+        "surface": "psychoanalyse",
+        "df": 1,
+        "score": 65
+      },
+      {
+        "id": "des_«objets_partiels",
+        "surface": "des «objets partiels",
+        "df": 1,
+        "score": 65
+      },
+      {
+        "id": "une_fondation_structurale",
+        "surface": "une fondation structurale",
+        "df": 1,
+        "score": 65
+      },
+      {
+        "id": "freud",
+        "surface": "Freud",
+        "df": 28,
+        "score": 65
+      },
+      {
+        "id": "l'objet",
+        "surface": "l'objet",
+        "df": 15,
+        "score": 65
+      },
+      {
+        "id": "la_répétition",
+        "surface": "la répétition",
+        "df": 4,
+        "score": 65
+      },
+      {
+        "id": "fixation",
+        "surface": "fixation",
+        "df": 2,
+        "score": 65
+      },
+      {
+        "id": "incorporation_orale",
+        "surface": "incorporation orale",
+        "df": 1,
+        "score": 65
+      },
+      {
+        "id": "toute_induction_transférentielle",
+        "surface": "Toute induction transférentielle",
+        "df": 1,
+        "score": 65
+      },
+      {
+        "id": "l'introjection_mélancolique",
+        "surface": "l'introjection mélancolique",
+        "df": 1,
+        "score": 65
+      },
+      {
+        "id": "psychanalystes",
+        "surface": "psychanalystes",
+        "df": 3,
+        "score": 65
+      },
+      {
+        "id": "des_objets_partiels",
+        "surface": "des objets partiels",
+        "df": 1,
+        "score": 65
+      },
+      {
+        "id": "du_fantasme",
+        "surface": "du fantasme",
+        "df": 1,
+        "score": 65
+      },
+      {
+        "id": "sujet",
+        "surface": "sujet",
+        "df": 13,
+        "score": 65
+      },
+      {
+        "id": "séances",
+        "surface": "séances",
+        "df": 1,
+        "score": 65
+      },
+      {
+        "id": "son_analyse",
+        "surface": "son analyse",
+        "df": 1,
+        "score": 65
+      },
+      {
+        "id": "suggestion_directe",
+        "surface": "suggestion directe",
+        "df": 1,
+        "score": 65
+      },
+      {
+        "id": "la_psychoanalyse",
+        "surface": "la psychoanalyse",
+        "df": 1,
+        "score": 65
+      },
+      {
+        "id": "inconsciente",
+        "surface": "inconsciente",
+        "df": 2,
+        "score": 65
+      },
+      {
+        "id": "la_psychiatrie_phénoménologique",
+        "surface": "La psychiatrie phénoménologique",
+        "df": 1,
+        "score": 65
+      },
+      {
+        "id": "symptômes",
+        "surface": "symptômes",
+        "df": 1,
+        "score": 65
+      },
+      {
+        "id": "ce_dont_il_est_question_ici_c'est_d'un_transfert_généralisé",
+        "surface": "Ce dont il est question ici c'est d'un transfert généralisé",
+        "df": 1,
+        "score": 65
+      },
+      {
+        "id": "de_l'halhacination",
+        "surface": "de l'halhacination",
+        "df": 1,
+        "score": 65
+      },
+      {
+        "id": "une_subjection",
+        "surface": "une subjection",
+        "df": 2,
+        "score": 60
+      },
+      {
+        "id": "des_discordances",
+        "surface": "des discordances",
+        "df": 1,
+        "score": 60
+      },
+      {
+        "id": "auteurs_psychanalytiques",
+        "surface": "auteurs psychanalytiques",
+        "df": 1,
+        "score": 60
+      },
+      {
+        "id": "d'articuler",
+        "surface": "d'articuler",
+        "df": 1,
+        "score": 60
+      },
+      {
+        "id": "syndromes_psychopathologiques",
+        "surface": "syndromes psychopathologiques",
+        "df": 1,
+        "score": 60
+      },
+      {
+        "id": "les_syndromes_psychopathologiques",
+        "surface": "Les syndromes psychopathologiques",
+        "df": 1,
+        "score": 60
+      },
+      {
+        "id": "une_constance_subjective",
+        "surface": "une constance subjective",
+        "df": 1,
+        "score": 60
+      },
+      {
+        "id": "de_culpabilité",
+        "surface": "de culpabilité",
+        "df": 1,
+        "score": 60
+      },
+      {
+        "id": "cette_processualité_primaire",
+        "surface": "cette processualité primaire",
+        "df": 1,
+        "score": 60
+      },
+      {
+        "id": "schéma_modulaire",
+        "surface": "schéma modulaire",
+        "df": 1,
+        "score": 60
+      },
+      {
+        "id": "psychanalystes_traditionnels",
+        "surface": "psychanalystes traditionnels",
+        "df": 1,
+        "score": 60
+      },
+      {
+        "id": "gisela_pankof)_ou_avec_la_video,_le_cinéma",
+        "surface": "Gisela Pankof) ou avec la video, le cinéma",
+        "df": 1,
+        "score": 60
+      },
+      {
+        "id": "le_déplacement",
+        "surface": "le déplacement",
+        "df": 1,
+        "score": 60
+      },
+      {
+        "id": "la_guérison",
+        "surface": "la guérison",
+        "df": 1,
+        "score": 60
+      },
+      {
+        "id": "un_psychopathe_pervers",
+        "surface": "un psychopathe pervers",
+        "df": 1,
+        "score": 60
+      },
+      {
+        "id": "perversions",
+        "surface": "perversions",
+        "df": 1,
+        "score": 60
+      },
+      {
+        "id": "la_sublimation",
+        "surface": "La sublimation",
+        "df": 1,
+        "score": 60
+      },
+      {
+        "id": "freudiens",
+        "surface": "freudiens",
+        "df": 1,
+        "score": 60
+      },
+      {
+        "id": "l'image_matricielle",
+        "surface": "l'image matricielle",
+        "df": 1,
+        "score": 60
+      },
+      {
+        "id": "la_conscience_imagente",
+        "surface": "la conscience imagente",
+        "df": 1,
+        "score": 60
+      },
+      {
+        "id": "un_imagine",
+        "surface": "un imagine",
+        "df": 1,
+        "score": 60
+      },
+      {
+        "id": "personnalisation",
+        "surface": "personnalisation",
+        "df": 1,
+        "score": 60
+      },
+      {
+        "id": "theorie",
+        "surface": "theorie",
+        "df": 1,
+        "score": 60
+      },
+      {
+        "id": "sublimation",
+        "surface": "sublimation",
+        "df": 2,
+        "score": 60
+      },
+      {
+        "id": "deterrimentisation",
+        "surface": "deterrimentisation",
+        "df": 1,
+        "score": 60
+      },
+      {
+        "id": "dissolutions",
+        "surface": "dissolutions",
+        "df": 1,
+        "score": 60
+      },
+      {
+        "id": "du_complexe",
+        "surface": "du complexe",
+        "df": 1,
+        "score": 60
+      },
+      {
+        "id": "winniccot",
+        "surface": "Winniccot",
+        "df": 1,
+        "score": 60
+      },
+      {
+        "id": "complexes_infantiles",
+        "surface": "complexes infantiles",
+        "df": 1,
+        "score": 60
+      },
+      {
+        "id": "fixations",
+        "surface": "fixations",
+        "df": 1,
+        "score": 60
+      },
+      {
+        "id": "certaines_stases",
+        "surface": "certaines stases",
+        "df": 1,
+        "score": 60
+      },
+      {
+        "id": "67_le_surmoi",
+        "surface": "67 Le surmoi",
+        "df": 1,
+        "score": 60
+      },
+      {
+        "id": "l'inexistence",
+        "surface": "l'inexistence",
+        "df": 1,
+        "score": 60
+      },
+      {
+        "id": "une_énergie_non_transferable",
+        "surface": "une énergie non transferable",
+        "df": 1,
+        "score": 60
+      },
+      {
+        "id": "ambivalence",
+        "surface": "ambivalence",
+        "df": 1,
+        "score": 60
+      },
+      {
+        "id": "structure",
+        "surface": "structure",
+        "df": 2,
+        "score": 60
+      },
+      {
+        "id": "une_telle_position",
+        "surface": "une telle position",
+        "df": 1,
+        "score": 60
+      },
+      {
+        "id": "freud_«",
+        "surface": "Freud «",
+        "df": 1,
+        "score": 60
+      },
+      {
+        "id": "le_véritable_inconscient_psychoanalyse",
+        "surface": "le véritable Inconscient psychoanalyse",
+        "df": 1,
+        "score": 60
+      },
+      {
+        "id": "les_pulsions",
+        "surface": "les pulsions",
+        "df": 1,
+        "score": 60
+      },
+      {
+        "id": "puis,_ulterieurement:_le_ca",
+        "surface": "puis, ulterieurement: le Ca",
+        "df": 1,
+        "score": 60
+      },
+      {
+        "id": "le_moi",
+        "surface": "le Moi",
+        "df": 3,
+        "score": 60
+      },
+      {
+        "id": "processus_primaire",
+        "surface": "processus primaire",
+        "df": 1,
+        "score": 60
+      },
+      {
+        "id": "la_libido",
+        "surface": "la libido",
+        "df": 7,
+        "score": 60
+      },
+      {
+        "id": "libido",
+        "surface": "libido",
+        "df": 7,
+        "score": 60
+      },
+      {
+        "id": "ou_freud",
+        "surface": "ou Freud",
+        "df": 1,
+        "score": 60
+      },
+      {
+        "id": "de_la_psychanalyse",
+        "surface": "de la psychanalyse",
+        "df": 1,
+        "score": 60
+      },
+      {
+        "id": "objets_kleiniens",
+        "surface": "objets kleiniens",
+        "df": 1,
+        "score": 60
+      },
+      {
+        "id": "désintracion",
+        "surface": "désintracion",
+        "df": 1,
+        "score": 60
+      },
+      {
+        "id": "la_pulsion",
+        "surface": "la pulsion",
+        "df": 4,
+        "score": 60
+      },
+      {
+        "id": "la_representation",
+        "surface": "la representation",
+        "df": 1,
+        "score": 60
+      },
+      {
+        "id": "psychisme",
+        "surface": "psychisme",
+        "df": 1,
+        "score": 60
+      },
+      {
+        "id": "une_*scène*_inconsciente",
+        "surface": "une *scène* inconsciente",
+        "df": 1,
+        "score": 60
+      },
+      {
+        "id": "une_instance_topique",
+        "surface": "une instance topique",
+        "df": 1,
+        "score": 60
+      },
+      {
+        "id": "les_tableaux_psychopathologiques",
+        "surface": "les tableaux psychopathologiques",
+        "df": 1,
+        "score": 60
+      },
+      {
+        "id": "agencements_psychiques",
+        "surface": "Agencements psychiques",
+        "df": 1,
+        "score": 60
+      },
+      {
+        "id": "la_fixation",
+        "surface": "la fixation",
+        "df": 2,
+        "score": 60
+      },
+      {
+        "id": "instances_topiques",
+        "surface": "instances topiques",
+        "df": 1,
+        "score": 60
+      },
+      {
+        "id": "nouvelles_pratiques_analytiques",
+        "surface": "nouvelles pratiques analytiques",
+        "df": 1,
+        "score": 60
+      },
+      {
+        "id": "subjectivité",
+        "surface": "subjectivité",
+        "df": 34,
+        "score": 60
+      },
+      {
+        "id": "la_subjectivité",
+        "surface": "la subjectivité",
+        "df": 33,
+        "score": 60
+      },
+      {
+        "id": "transférentielle",
+        "surface": "transférentielle",
+        "df": 1,
+        "score": 60
+      },
+      {
+        "id": "répétition",
+        "surface": "répétition",
+        "df": 5,
+        "score": 60
+      },
+      {
+        "id": "l'intrusion",
+        "surface": "l'intrusion",
+        "df": 3,
+        "score": 60
+      },
+      {
+        "id": "que_la_prétendue_*libre_association*",
+        "surface": "que la prétendue *libre association*",
+        "df": 1,
+        "score": 60
+      },
+      {
+        "id": "divan-",
+        "surface": "divan-",
+        "df": 1,
+        "score": 60
+      },
+      {
+        "id": "une_causalité_pulsionnelle",
+        "surface": "une causalité pulsionnelle",
+        "df": 1,
+        "score": 60
+      },
+      {
+        "id": "rien_moins_que_de_sa_*liquidation*_qui_quasi_est_soume_de_forme_châne_significante",
+        "surface": "rien moins que de sa *liquidation* qui quasi est soume de forme châne significante",
+        "df": 1,
+        "score": 60
+      },
+      {
+        "id": "des_fantasmes",
+        "surface": "des fantasmes",
+        "df": 1,
+        "score": 60
+      },
+      {
+        "id": "les_psychanalystes",
+        "surface": "les psychanalystes",
+        "df": 1,
+        "score": 60
+      },
+      {
+        "id": "un_psychanalyste",
+        "surface": "un psychanalyste",
+        "df": 1,
+        "score": 60
+      },
+      {
+        "id": "l'exploration",
+        "surface": "l'exploration",
+        "df": 1,
+        "score": 60
+      },
+      {
+        "id": "défense",
+        "surface": "défense",
+        "df": 1,
+        "score": 60
+      },
+      {
+        "id": "un_inconscient",
+        "surface": "un Inconscient",
+        "df": 2,
+        "score": 60
+      },
+      {
+        "id": "analytiques",
+        "surface": "analytiques",
+        "df": 1,
+        "score": 60
+      },
+      {
+        "id": "l'abord_phénoménologique",
+        "surface": "L'abord phénoménologique",
+        "df": 1,
+        "score": 60
+      },
+      {
+        "id": "la_dichotomie",
+        "surface": "la dichotomie",
+        "df": 1,
+        "score": 55
+      },
+      {
+        "id": "les_structuralistes",
+        "surface": "les structuralistes",
+        "df": 1,
+        "score": 55
+      },
+      {
+        "id": "recueilisation_primaire",
+        "surface": "recueilisation primaire",
+        "df": 1,
+        "score": 55
+      },
+      {
+        "id": "ce_premier_niveau_modulaire",
+        "surface": "ce premier niveau modulaire",
+        "df": 1,
+        "score": 55
+      },
+      {
+        "id": "plusieurs_modules",
+        "surface": "plusieurs modules",
+        "df": 1,
+        "score": 55
+      },
+      {
+        "id": "le_freudisme",
+        "surface": "Le freudisme",
+        "df": 2,
+        "score": 55
+      },
+      {
+        "id": "un_divan",
+        "surface": "un divan",
+        "df": 1,
+        "score": 55
+      },
+      {
+        "id": "l'affect_chanypanalytique",
+        "surface": "l'affect chanypanalytique",
+        "df": 1,
+        "score": 55
+      },
+      {
+        "id": "latence",
+        "surface": "latence",
+        "df": 1,
+        "score": 55
+      },
+      {
+        "id": "infantes",
+        "surface": "infantes",
+        "df": 1,
+        "score": 55
+      },
+      {
+        "id": "le_schéma_psychogénetique",
+        "surface": "le schéma psychogénetique",
+        "df": 1,
+        "score": 55
+      },
+      {
+        "id": "les_stades_psychogénétiques",
+        "surface": "les stades psychogénétiques",
+        "df": 1,
+        "score": 55
+      },
+      {
+        "id": "le_processus_créateur",
+        "surface": "Le processus créateur",
+        "df": 1,
+        "score": 55
+      },
+      {
+        "id": "paroanlique",
+        "surface": "paroanlique",
+        "df": 1,
+        "score": 55
+      },
+      {
+        "id": "cathartique",
+        "surface": "cathartique",
+        "df": 1,
+        "score": 55
+      },
+      {
+        "id": "découpe_deterritorialisante",
+        "surface": "découpe deterritorialisante",
+        "df": 1,
+        "score": 55
+      },
+      {
+        "id": "le_traitement_deterritorialisant",
+        "surface": "le traitement deterritorialisant",
+        "df": 1,
+        "score": 55
+      },
+      {
+        "id": "deterritorialisier",
+        "surface": "deterritorialisier",
+        "df": 1,
+        "score": 55
+      },
+      {
+        "id": "l'experience",
+        "surface": "l'experience",
+        "df": 2,
+        "score": 55
+      },
+      {
+        "id": "l'acte",
+        "surface": "l'acte",
+        "df": 3,
+        "score": 55
+      },
+      {
+        "id": "le_mecanisme",
+        "surface": "le mecanisme",
+        "df": 1,
+        "score": 55
+      },
+      {
+        "id": "projection",
+        "surface": "projection",
+        "df": 1,
+        "score": 55
+      },
+      {
+        "id": "moment_fecond",
+        "surface": "moment fecond",
+        "df": 1,
+        "score": 55
+      },
+      {
+        "id": "coupure",
+        "surface": "coupure",
+        "df": 8,
+        "score": 55
+      },
+      {
+        "id": "type_psychanalytique",
+        "surface": "type psychanalytique",
+        "df": 1,
+        "score": 55
+      },
+      {
+        "id": "inconciens",
+        "surface": "Inconciens",
+        "df": 2,
+        "score": 55
+      },
+      {
+        "id": "formations_subjectives",
+        "surface": "formations subjectives",
+        "df": 2,
+        "score": 55
+      },
+      {
+        "id": "processualité",
+        "surface": "processualité",
+        "df": 4,
+        "score": 55
+      },
+      {
+        "id": "les_processus",
+        "surface": "les processus",
+        "df": 7,
+        "score": 55
+      },
+      {
+        "id": "des_fonctions",
+        "surface": "des fonctions",
+        "df": 1,
+        "score": 55
+      },
+      {
+        "id": "la_fonction",
+        "surface": "la fonction",
+        "df": 12,
+        "score": 55
+      },
+      {
+        "id": "ça",
+        "surface": "Ça",
+        "df": 2,
+        "score": 55
+      },
+      {
+        "id": "moi",
+        "surface": "Moi",
+        "df": 9,
+        "score": 55
+      },
+      {
+        "id": "surmoi",
+        "surface": "Surmoi",
+        "df": 6,
+        "score": 55
+      },
+      {
+        "id": "complexe",
+        "surface": "complexe",
+        "df": 6,
+        "score": 55
+      },
+      {
+        "id": "une_inhibition",
+        "surface": "une inhibition",
+        "df": 1,
+        "score": 55
+      },
+      {
+        "id": "cette_manifestation_symptomatique",
+        "surface": "cette manifestation symptomatique",
+        "df": 1,
+        "score": 55
+      },
+      {
+        "id": "théories_classiques",
+        "surface": "théories classiques",
+        "df": 1,
+        "score": 55
+      },
+      {
+        "id": "formations_psychiques",
+        "surface": "formations psychiques",
+        "df": 1,
+        "score": 55
+      },
+      {
+        "id": "pulsions",
+        "surface": "pulsions",
+        "df": 3,
+        "score": 55
+      },
+      {
+        "id": "après-coup",
+        "surface": "après-coup",
+        "df": 1,
+        "score": 55
+      },
+      {
+        "id": "surdértermination",
+        "surface": "surdértermination",
+        "df": 1,
+        "score": 55
+      },
+      {
+        "id": "l'object_pulsionnel",
+        "surface": "l'object pulsionnel",
+        "df": 1,
+        "score": 55
+      },
+      {
+        "id": "parce_que_de_*mauvais_objets*",
+        "surface": "parce que de *mauvais objets*",
+        "df": 1,
+        "score": 55
+      },
+      {
+        "id": "la_névrose",
+        "surface": "la névrose",
+        "df": 2,
+        "score": 55
+      },
+      {
+        "id": "la_cartographie_freudienne",
+        "surface": "la cartographie freudienne",
+        "df": 1,
+        "score": 55
+      },
+      {
+        "id": "le_processus_primaire",
+        "surface": "Le processus primaire",
+        "df": 2,
+        "score": 55
+      },
+      {
+        "id": "l'emprise_enhavissante",
+        "surface": "l'emprise enhavissante",
+        "df": 1,
+        "score": 55
+      },
+      {
+        "id": "élaboration",
+        "surface": "élaboration",
+        "df": 3,
+        "score": 55
+      },
+      {
+        "id": "assujettissement",
+        "surface": "assujettissement",
+        "df": 1,
+        "score": 55
+      },
+      {
+        "id": "subjectivation",
+        "surface": "subjectivation",
+        "df": 12,
+        "score": 55
+      },
+      {
+        "id": "processus",
+        "surface": "processus",
+        "df": 29,
+        "score": 55
+      },
+      {
+        "id": "l'affect",
+        "surface": "l'affect",
+        "df": 21,
+        "score": 55
+      },
+      {
+        "id": "*_schizies*",
+        "surface": "* schizies*",
+        "df": 1,
+        "score": 55
+      },
+      {
+        "id": "toute_métapsychologie",
+        "surface": "toute métapsychologie",
+        "df": 1,
+        "score": 55
+      },
+      {
+        "id": "topiques",
+        "surface": "topiques",
+        "df": 1,
+        "score": 55
+      },
+      {
+        "id": "supervision",
+        "surface": "supervision",
+        "df": 1,
+        "score": 55
+      },
+      {
+        "id": "alors_freud",
+        "surface": "alors Freud",
+        "df": 1,
+        "score": 55
+      },
+      {
+        "id": "le_*processus_primaire",
+        "surface": "le *processus primaire",
+        "df": 1,
+        "score": 55
+      },
+      {
+        "id": "surdetermination",
+        "surface": "surdetermination",
+        "df": 1,
+        "score": 55
+      },
+      {
+        "id": "des_instances",
+        "surface": "des instances",
+        "df": 4,
+        "score": 55
+      },
+      {
+        "id": "représentation_mentale",
+        "surface": "représentation mentale",
+        "df": 1,
+        "score": 55
+      },
+      {
+        "id": "topique",
+        "surface": "topique",
+        "df": 2,
+        "score": 55
+      },
+      {
+        "id": "dynamique",
+        "surface": "dynamique",
+        "df": 1,
+        "score": 55
+      },
+      {
+        "id": "representations",
+        "surface": "representations",
+        "df": 1,
+        "score": 55
+      },
+      {
+        "id": "ca",
+        "surface": "Ca",
+        "df": 3,
+        "score": 55
+      },
+      {
+        "id": "la_metapyschologie_freudienne",
+        "surface": "la metapyschologie freudienne",
+        "df": 1,
+        "score": 55
+      },
+      {
+        "id": "la_représentation",
+        "surface": "la représentation",
+        "df": 5,
+        "score": 55
+      },
+      {
+        "id": "transfert_existentiel",
+        "surface": "transfert existentiel",
+        "df": 1,
+        "score": 55
+      },
+      {
+        "id": "l'insistance_symptomatique",
+        "surface": "L'insistance symptomatique",
+        "df": 1,
+        "score": 55
+      },
+      {
+        "id": "surdétermination",
+        "surface": "surdétermination",
+        "df": 1,
+        "score": 55
+      },
+      {
+        "id": "a_travers_le_fantasie",
+        "surface": "A travers le fantasie",
+        "df": 1,
+        "score": 55
+      },
+      {
+        "id": "affect",
+        "surface": "affect",
+        "df": 11,
+        "score": 55
+      },
+      {
+        "id": "censé",
+        "surface": "censé",
+        "df": 1,
+        "score": 50
+      },
+      {
+        "id": "representer",
+        "surface": "representer",
+        "df": 1,
+        "score": 50
+      },
+      {
+        "id": "pierre_janet",
+        "surface": "Pierre Janet",
+        "df": 1,
+        "score": 50
+      },
+      {
+        "id": "karl_jaspers",
+        "surface": "Karl Jaspers",
+        "df": 1,
+        "score": 50
+      },
+      {
+        "id": "pre",
+        "surface": "pre",
+        "df": 1,
+        "score": 50
+      },
+      {
+        "id": "post-puertaire",
+        "surface": "post-puertaire",
+        "df": 1,
+        "score": 50
+      },
+      {
+        "id": "adulte",
+        "surface": "adulte",
+        "df": 1,
+        "score": 50
+      },
+      {
+        "id": "revus",
+        "surface": "revus",
+        "df": 1,
+        "score": 50
+      },
+      {
+        "id": "apréhension_hystérique",
+        "surface": "apréhension hystérique",
+        "df": 1,
+        "score": 50
+      },
+      {
+        "id": "obsessionnelle",
+        "surface": "obsessionnelle",
+        "df": 1,
+        "score": 50
+      },
+      {
+        "id": "retenons_les_deux_psychanalytique_qui_importe_ici_la_mise_en_scène_d'une_déhirure_ethico-politique_qui_n'a_cesse_dans_le_même_recueil",
+        "surface": "Retenons les deux psychanalytique qui importe ici la mise en scène d'une déhirure ethico-politique qui n'a cesse dans le même recueil",
+        "df": 1,
+        "score": 50
+      },
+      {
+        "id": "la_socialisation",
+        "surface": "la socialisation",
+        "df": 1,
+        "score": 50
+      },
+      {
+        "id": "socialisation",
+        "surface": "socialisation",
+        "df": 1,
+        "score": 50
+      },
+      {
+        "id": "d'adaptation",
+        "surface": "d'adaptation",
+        "df": 1,
+        "score": 50
+      },
+      {
+        "id": "réadaptation_psychologiques",
+        "surface": "réadaptation psychologiques",
+        "df": 1,
+        "score": 50
+      },
+      {
+        "id": "de_re-socialisation",
+        "surface": "de re-socialisation",
+        "df": 1,
+        "score": 50
+      },
+      {
+        "id": "schizoanalytique",
+        "surface": "schizoanalytique",
+        "df": 1,
+        "score": 50
+      },
+      {
+        "id": "l'héterogénie",
+        "surface": "l'héterogénie",
+        "df": 1,
+        "score": 50
+      },
+      {
+        "id": "soi_chargés_énergétiquement",
+        "surface": "soi chargés énergétiquement",
+        "df": 1,
+        "score": 50
+      },
+      {
+        "id": "agencements_complexes",
+        "surface": "Agencements complexes",
+        "df": 1,
+        "score": 50
+      },
+      {
+        "id": "des_agencements_complexes",
+        "surface": "des Agencements complexes",
+        "df": 1,
+        "score": 50
+      },
+      {
+        "id": "deux_étapes",
+        "surface": "deux étapes",
+        "df": 1,
+        "score": 50
+      },
+      {
+        "id": "caractère_sémiotique",
+        "surface": "caractère sémiotique",
+        "df": 1,
+        "score": 50
+      },
+      {
+        "id": "le_acte",
+        "surface": "Le acte",
+        "df": 1,
+        "score": 50
+      },
+      {
+        "id": "déterritorialise",
+        "surface": "déterritorialise",
+        "df": 1,
+        "score": 50
+      },
+      {
+        "id": "le_franchissement",
+        "surface": "le franchissement",
+        "df": 2,
+        "score": 50
+      },
+      {
+        "id": "les_composantes",
+        "surface": "les composantes",
+        "df": 4,
+        "score": 50
+      },
+      {
+        "id": "une_énergie_non_discursive",
+        "surface": "une énergie non discursive",
+        "df": 1,
+        "score": 50
+      },
+      {
+        "id": "une_operation_particulière",
+        "surface": "une operation particulière",
+        "df": 1,
+        "score": 50
+      },
+      {
+        "id": "paradoxe",
+        "surface": "paradoxe",
+        "df": 1,
+        "score": 50
+      },
+      {
+        "id": "la_même_fèure_déterritorialisante",
+        "surface": "la même fèure déterritorialisante",
+        "df": 1,
+        "score": 50
+      },
+      {
+        "id": "un_réel_attestable",
+        "surface": "un réel attestable",
+        "df": 1,
+        "score": 50
+      },
+      {
+        "id": "la_negativité",
+        "surface": "la negativité",
+        "df": 1,
+        "score": 50
+      },
+      {
+        "id": "plutôt_les_negativités",
+        "surface": "plutôt les negativités",
+        "df": 1,
+        "score": 50
+      },
+      {
+        "id": "enonction",
+        "surface": "enonction",
+        "df": 1,
+        "score": 50
+      },
+      {
+        "id": "françois_tosquelles,_instant_de_voir_selon_jacques_lacan,_minute_d'eternité_pour_les_surrealistes,_satori_zeni,_ou_plus_simplement_retournement_gestalistes,",
+        "surface": "François Tosquelles, instant de voir selon Jacques Lacan, minute d'eternité pour les surrealistes, Satori Zeni, ou plus simplement retournement gestalistes,",
+        "df": 1,
+        "score": 50
+      },
+      {
+        "id": "les_cartographies_schizonalytiques",
+        "surface": "les cartographies schizonalytiques",
+        "df": 1,
+        "score": 50
+      },
+      {
+        "id": "enoncination_analytiques",
+        "surface": "enoncination analytiques",
+        "df": 1,
+        "score": 50
+      },
+      {
+        "id": "les_formations",
+        "surface": "les formations",
+        "df": 1,
+        "score": 50
+      },
+      {
+        "id": "identificatoires",
+        "surface": "identificatoires",
+        "df": 1,
+        "score": 50
+      },
+      {
+        "id": "rapport",
+        "surface": "rapport",
+        "df": 48,
+        "score": 50
+      },
+      {
+        "id": "une_processualité",
+        "surface": "une processualité",
+        "df": 1,
+        "score": 50
+      },
+      {
+        "id": "la_libido_investie",
+        "surface": "la libido investie",
+        "df": 1,
+        "score": 50
+      },
+      {
+        "id": "inconscients",
+        "surface": "inconscients",
+        "df": 2,
+        "score": 50
+      },
+      {
+        "id": "une_libido",
+        "surface": "une libido",
+        "df": 3,
+        "score": 50
+      },
+      {
+        "id": "d'une_libido",
+        "surface": "d'une libido",
+        "df": 1,
+        "score": 50
+      },
+      {
+        "id": "la_poussée",
+        "surface": "la poussée",
+        "df": 1,
+        "score": 50
+      },
+      {
+        "id": "eros",
+        "surface": "Eros",
+        "df": 1,
+        "score": 50
+      },
+      {
+        "id": "thanatos",
+        "surface": "Thanatos",
+        "df": 3,
+        "score": 50
+      },
+      {
+        "id": "conscient",
+        "surface": "Conscient",
+        "df": 2,
+        "score": 50
+      },
+      {
+        "id": "préconscient",
+        "surface": "Préconscient",
+        "df": 1,
+        "score": 50
+      },
+      {
+        "id": "objets*",
+        "surface": "objets*",
+        "df": 2,
+        "score": 50
+      },
+      {
+        "id": "la_pervasion",
+        "surface": "la pervasion",
+        "df": 1,
+        "score": 50
+      },
+      {
+        "id": "l'incoscient",
+        "surface": "l'incoscient",
+        "df": 1,
+        "score": 50
+      },
+      {
+        "id": "l'assistance",
+        "surface": "l'assistance",
+        "df": 1,
+        "score": 50
+      },
+      {
+        "id": "énonciation",
+        "surface": "énonciation",
+        "df": 10,
+        "score": 50
+      },
+      {
+        "id": "recompositions_psychopathologiques",
+        "surface": "recompositions psychopathologiques",
+        "df": 1,
+        "score": 50
+      },
+      {
+        "id": "négociations_névrotiques",
+        "surface": "négociations névrotiques",
+        "df": 1,
+        "score": 50
+      },
+      {
+        "id": "dépalcement",
+        "surface": "dépalcement",
+        "df": 1,
+        "score": 50
+      },
+      {
+        "id": "monde_psychique",
+        "surface": "monde psychique",
+        "df": 1,
+        "score": 50
+      },
+      {
+        "id": "concept",
+        "surface": "concept",
+        "df": 2,
+        "score": 50
+      },
+      {
+        "id": "energie_libidinale",
+        "surface": "energie libidinale",
+        "df": 1,
+        "score": 50
+      },
+      {
+        "id": "psychique",
+        "surface": "psychique",
+        "df": 1,
+        "score": 50
+      },
+      {
+        "id": "une_économie",
+        "surface": "une économie",
+        "df": 4,
+        "score": 50
+      },
+      {
+        "id": "représentations_conflictuelles",
+        "surface": "représentations conflictuelles",
+        "df": 1,
+        "score": 50
+      },
+      {
+        "id": "les_complexes",
+        "surface": "les Complexes",
+        "df": 1,
+        "score": 50
+      },
+      {
+        "id": "*_processus_primaire",
+        "surface": "* processus primaire",
+        "df": 1,
+        "score": 50
+      },
+      {
+        "id": "travers_les_rituels_obsessionnels",
+        "surface": "travers les rituels obsessionnels",
+        "df": 1,
+        "score": 50
+      },
+      {
+        "id": "le_complexe",
+        "surface": "le complexe",
+        "df": 2,
+        "score": 50
+      },
+      {
+        "id": "un_affect",
+        "surface": "un Affect",
+        "df": 7,
+        "score": 50
+      },
+      {
+        "id": "la_non-discursivité",
+        "surface": "la non-discursivité",
+        "df": 1,
+        "score": 50
+      },
+      {
+        "id": "tous_distinctivement",
+        "surface": "tous distinctivement",
+        "df": 1,
+        "score": 45
+      },
+      {
+        "id": "d'autre_moyen",
+        "surface": "d'autre moyen",
+        "df": 1,
+        "score": 45
+      },
+      {
+        "id": "nécessairement_prestation_énergétique",
+        "surface": "nécessairement prestation énergétique",
+        "df": 1,
+        "score": 45
+      },
+      {
+        "id": "une_enoncion_évaluative",
+        "surface": "une enoncion évaluative",
+        "df": 1,
+        "score": 45
+      },
+      {
+        "id": "les_enregistements",
+        "surface": "les enregistements",
+        "df": 1,
+        "score": 45
+      },
+      {
+        "id": "les_mérorisations",
+        "surface": "les mérorisations",
+        "df": 1,
+        "score": 45
+      },
+      {
+        "id": "tout_passage",
+        "surface": "tout passage",
+        "df": 1,
+        "score": 45
+      },
+      {
+        "id": "encypation",
+        "surface": "Encypation",
+        "df": 1,
+        "score": 45
+      },
+      {
+        "id": "les_étafs",
+        "surface": "les étafs",
+        "df": 1,
+        "score": 45
+      },
+      {
+        "id": "choses_constatifs",
+        "surface": "choses constatifs",
+        "df": 1,
+        "score": 45
+      },
+      {
+        "id": "choses_pragmatiques",
+        "surface": "choses pragmatiques",
+        "df": 1,
+        "score": 45
+      },
+      {
+        "id": "une_forme_différente",
+        "surface": "une forme différente",
+        "df": 2,
+        "score": 45
+      },
+      {
+        "id": "les_plus_élémentaires",
+        "surface": "les plus élémentaires",
+        "df": 1,
+        "score": 45
+      },
+      {
+        "id": "effets_machiniques",
+        "surface": "Effets machiniques",
+        "df": 1,
+        "score": 45
+      },
+      {
+        "id": "les_quatre_requalifications",
+        "surface": "Les quatre requalifications",
+        "df": 2,
+        "score": 45
+      },
+      {
+        "id": "les_requalifications_énergétiques",
+        "surface": "LES REQUALIFICATIONS ÉNERGÉTIQUES",
+        "df": 2,
+        "score": 45
+      },
+      {
+        "id": "devenant",
+        "surface": "devenant",
+        "df": 1,
+        "score": 45
+      },
+      {
+        "id": "fonction_diagrammatique_f(diag",
+        "surface": "fonction diagrammatique f(diag",
+        "df": 1,
+        "score": 45
+      },
+      {
+        "id": "les_flux_matériels",
+        "surface": "les Flux matériels",
+        "df": 1,
+        "score": 45
+      },
+      {
+        "id": "des_«_choix_»_machiniques",
+        "surface": "des « choix » machiniques",
+        "df": 1,
+        "score": 45
+      },
+      {
+        "id": "des_changements",
+        "surface": "des changements",
+        "df": 1,
+        "score": 45
+      },
+      {
+        "id": "correlatifs",
+        "surface": "correlatifs",
+        "df": 1,
+        "score": 45
+      },
+      {
+        "id": "conversions_énergétiques",
+        "surface": "conversions énergétiques",
+        "df": 1,
+        "score": 45
+      },
+      {
+        "id": "une_phase_an",
+        "surface": "une phase an",
+        "df": 1,
+        "score": 45
+      },
+      {
+        "id": "machines_techniques_et_organiques",
+        "surface": "machines techniques et organiques",
+        "df": 1,
+        "score": 45
+      },
+      {
+        "id": "système_nerveux",
+        "surface": "système nerveux",
+        "df": 1,
+        "score": 45
+      },
+      {
+        "id": "préfiguration",
+        "surface": "préfiguration",
+        "df": 1,
+        "score": 45
+      },
+      {
+        "id": "interaction_énergetiséise",
+        "surface": "interaction énergetiséise",
+        "df": 1,
+        "score": 45
+      },
+      {
+        "id": "exception",
+        "surface": "exception",
+        "df": 2,
+        "score": 45
+      },
+      {
+        "id": "une_même_configuration_entitaine",
+        "surface": "une même configuration entitaine",
+        "df": 1,
+        "score": 45
+      },
+      {
+        "id": "une_radicale",
+        "surface": "une radicale",
+        "df": 2,
+        "score": 45
+      },
+      {
+        "id": "deux_propositions",
+        "surface": "Deux propositions",
+        "df": 1,
+        "score": 45
+      },
+      {
+        "id": "contradictories",
+        "surface": "contradictories",
+        "df": 1,
+        "score": 45
+      },
+      {
+        "id": "un_inevitable_décentrement_enonicatif",
+        "surface": "un inevitable décentrement enonicatif",
+        "df": 1,
+        "score": 45
+      },
+      {
+        "id": "dernier_lieu",
+        "surface": "dernier lieu",
+        "df": 1,
+        "score": 45
+      },
+      {
+        "id": "*_partialisation*",
+        "surface": "* partialisation*",
+        "df": 1,
+        "score": 45
+      },
+      {
+        "id": "en_rhizome",
+        "surface": "en Rhizome",
+        "df": 1,
+        "score": 45
+      },
+      {
+        "id": "ces_mêmes_composantes",
+        "surface": "ces mêmes composantes",
+        "df": 1,
+        "score": 45
+      },
+      {
+        "id": "irréversibilisation_diagrammaticque",
+        "surface": "irréversibilisation diagrammaticque",
+        "df": 1,
+        "score": 45
+      },
+      {
+        "id": "les_causes_formelles",
+        "surface": "les causes formelles",
+        "df": 2,
+        "score": 45
+      },
+      {
+        "id": "les_causes_finales",
+        "surface": "les causes finales",
+        "df": 2,
+        "score": 45
+      },
+      {
+        "id": "causalités",
+        "surface": "CAUSALITÉS",
+        "df": 1,
+        "score": 45
+      },
+      {
+        "id": "la_récursion_pathématique_d'hétérogenèse",
+        "surface": "la récursion pathématique d'hétérogenèse",
+        "df": 1,
+        "score": 45
+      },
+      {
+        "id": "les_causes",
+        "surface": "les causes",
+        "df": 1,
+        "score": 45
+      },
+      {
+        "id": "vu_ducha_réel",
+        "surface": "Vu ducha réel",
+        "df": 1,
+        "score": 45
+      },
+      {
+        "id": "la_chaosmose_virtuelle",
+        "surface": "la chaosmose virtuelle",
+        "df": 1,
+        "score": 45
+      },
+      {
+        "id": "la_récursion_ennocieive",
+        "surface": "la récursion ennocieive",
+        "df": 1,
+        "score": 45
+      },
+      {
+        "id": "une_consolidation",
+        "surface": "une consolidation",
+        "df": 1,
+        "score": 45
+      },
+      {
+        "id": "son_statut_cartographie",
+        "surface": "son statut cartographie",
+        "df": 1,
+        "score": 45
+      },
+      {
+        "id": "processus_chaosmotiques",
+        "surface": "processus chaosmotiques",
+        "df": 1,
+        "score": 45
+      },
+      {
+        "id": "tension",
+        "surface": "tension",
+        "df": 2,
+        "score": 45
+      },
+      {
+        "id": "tension_virtuelle",
+        "surface": "tension virtuelle",
+        "df": 1,
+        "score": 45
+      },
+      {
+        "id": "l'état_chaotique",
+        "surface": "l'état chaotique",
+        "df": 2,
+        "score": 45
+      },
+      {
+        "id": "deux_processus",
+        "surface": "deux processus",
+        "df": 1,
+        "score": 45
+      },
+      {
+        "id": "des_figures",
+        "surface": "des figures",
+        "df": 1,
+        "score": 45
+      },
+      {
+        "id": "l'économie_modulaire",
+        "surface": "l'économie modulaire",
+        "df": 1,
+        "score": 45
+      },
+      {
+        "id": "les_opérateurs_pathiques",
+        "surface": "les opérateurs pathiques",
+        "df": 2,
+        "score": 45
+      },
+      {
+        "id": "registres_sensibles_et_des_registres_signalétiques",
+        "surface": "registres sensibles et des registres signalétiques",
+        "df": 1,
+        "score": 45
+      },
+      {
+        "id": "la_déterminabilité_négative",
+        "surface": "la déterminabilité négative",
+        "df": 1,
+        "score": 45
+      },
+      {
+        "id": "la_déterminabilité_positive",
+        "surface": "la déterminabilité positive",
+        "df": 1,
+        "score": 45
+      },
+      {
+        "id": "les_registres_sensibles",
+        "surface": "les registres sensibles",
+        "df": 1,
+        "score": 45
+      },
+      {
+        "id": "territory_existientiel",
+        "surface": "Territory existientiel",
+        "df": 1,
+        "score": 45
+      },
+      {
+        "id": "la_determinabilité_negative",
+        "surface": "la determinabilité negative",
+        "df": 1,
+        "score": 45
+      },
+      {
+        "id": "dimensions_hétérogenes",
+        "surface": "dimensions hétérogenes",
+        "df": 1,
+        "score": 45
+      },
+      {
+        "id": "les_montages",
+        "surface": "les montages",
+        "df": 1,
+        "score": 45
+      },
+      {
+        "id": "composantes_temporales",
+        "surface": "composantes temporales",
+        "df": 1,
+        "score": 45
+      },
+      {
+        "id": "la_spécification",
+        "surface": "la spécification",
+        "df": 1,
+        "score": 45
+      },
+      {
+        "id": "liberté_créative",
+        "surface": "liberté créative",
+        "df": 1,
+        "score": 45
+      },
+      {
+        "id": "les_durées_existentielle",
+        "surface": "les durées existentielle",
+        "df": 1,
+        "score": 45
+      },
+      {
+        "id": "deux_opérations",
+        "surface": "deux opérations",
+        "df": 1,
+        "score": 45
+      },
+      {
+        "id": "discursives",
+        "surface": "discursives",
+        "df": 1,
+        "score": 45
+      },
+      {
+        "id": "une_nouvelle_définition",
+        "surface": "une nouvelle définition",
+        "df": 1,
+        "score": 45
+      },
+      {
+        "id": "discursivite",
+        "surface": "discursivite",
+        "df": 3,
+        "score": 45
+      },
+      {
+        "id": "les_structures_molaires",
+        "surface": "les structures molaires",
+        "df": 1,
+        "score": 45
+      },
+      {
+        "id": "les_opérateurs",
+        "surface": "les opérateurs",
+        "df": 3,
+        "score": 45
+      },
+      {
+        "id": "la_positionnalité_existentielle",
+        "surface": "la positionnalité existentielle",
+        "df": 1,
+        "score": 45
+      },
+      {
+        "id": "enoniations",
+        "surface": "enoniations",
+        "df": 1,
+        "score": 45
+      },
+      {
+        "id": "ces_procédures",
+        "surface": "ces procédures",
+        "df": 1,
+        "score": 45
+      },
+      {
+        "id": "les_articulations_systémiques",
+        "surface": "les articulations systémiques",
+        "df": 1,
+        "score": 45
+      },
+      {
+        "id": "les_lignes",
+        "surface": "les lignes",
+        "df": 2,
+        "score": 45
+      },
+      {
+        "id": "la_réduction",
+        "surface": "la réduction",
+        "df": 2,
+        "score": 45
+      },
+      {
+        "id": "..._82_structures",
+        "surface": "... 82 Structures",
+        "df": 1,
+        "score": 45
+      },
+      {
+        "id": "intensités_non_discursives",
+        "surface": "intensités non discursives",
+        "df": 1,
+        "score": 45
+      },
+      {
+        "id": "un_cadre",
+        "surface": "un cadre",
+        "df": 3,
+        "score": 45
+      },
+      {
+        "id": "meta-modélisation_schizoanalytique",
+        "surface": "meta-modélisation schizoanalytique",
+        "df": 1,
+        "score": 45
+      },
+      {
+        "id": "nevrose_obsessionnelle",
+        "surface": "nevrose obsessionnelle",
+        "df": 1,
+        "score": 45
+      },
+      {
+        "id": "les_cartographies",
+        "surface": "les cartographies",
+        "df": 2,
+        "score": 45
+      },
+      {
+        "id": "autoréfinition_subjective",
+        "surface": "autoréfinition subjective",
+        "df": 1,
+        "score": 45
+      },
+      {
+        "id": "l'autoriférence",
+        "surface": "l'autoriférence",
+        "df": 3,
+        "score": 45
+      },
+      {
+        "id": "des_savoirs",
+        "surface": "des savoirs",
+        "df": 2,
+        "score": 45
+      },
+      {
+        "id": "autoréférence",
+        "surface": "Autoréférence",
+        "df": 3,
+        "score": 45
+      },
+      {
+        "id": "processuelle",
+        "surface": "processuelle",
+        "df": 4,
+        "score": 45
+      },
+      {
+        "id": "autoriférence",
+        "surface": "autoriférence",
+        "df": 1,
+        "score": 45
+      },
+      {
+        "id": "la_auto-référence",
+        "surface": "la auto-référence",
+        "df": 1,
+        "score": 45
+      },
+      {
+        "id": "la_programmation_psychanalytique",
+        "surface": "la programmation psychanalytique",
+        "df": 1,
+        "score": 45
+      },
+      {
+        "id": "la_perception",
+        "surface": "la perception",
+        "df": 10,
+        "score": 45
+      },
+      {
+        "id": "la_source",
+        "surface": "la source",
+        "df": 1,
+        "score": 45
+      },
+      {
+        "id": "le_but",
+        "surface": "le but",
+        "df": 1,
+        "score": 45
+      },
+      {
+        "id": "la_sexualité_infantile",
+        "surface": "la sexualité infantile",
+        "df": 1,
+        "score": 45
+      },
+      {
+        "id": "la_théorie",
+        "surface": "la théorie",
+        "df": 7,
+        "score": 45
+      },
+      {
+        "id": "les_implications_réalistes_de_ses_premières_formulations_concernant_les_traumatismes_de_ses_précédence_précoce",
+        "surface": "les implications réalistes de ses premières formulations concernant les traumatismes de ses précédence précoce",
+        "df": 1,
+        "score": 45
+      },
+      {
+        "id": "refoule",
+        "surface": "refoule",
+        "df": 1,
+        "score": 45
+      },
+      {
+        "id": "la_censure",
+        "surface": "la censure",
+        "df": 1,
+        "score": 45
+      },
+      {
+        "id": "m-sur-moi",
+        "surface": "M-Sur-moi",
+        "df": 1,
+        "score": 45
+      },
+      {
+        "id": "cartographies_schizoanalytiques",
+        "surface": "Cartographies schizoanalytiques",
+        "df": 31,
+        "score": 45
+      },
+      {
+        "id": "une_processualité_capable",
+        "surface": "une processualité capable",
+        "df": 1,
+        "score": 45
+      },
+      {
+        "id": "schizoanalyse",
+        "surface": "schizoanalyse",
+        "df": 2,
+        "score": 45
+      },
+      {
+        "id": "la_cartographie",
+        "surface": "la cartographie",
+        "df": 2,
+        "score": 45
+      },
+      {
+        "id": "l'inconscient_schizanalytique",
+        "surface": "l'Inconscient schizanalytique",
+        "df": 1,
+        "score": 45
+      },
+      {
+        "id": "mort_freudienne",
+        "surface": "mort freudienne",
+        "df": 1,
+        "score": 45
+      },
+      {
+        "id": "sublimations",
+        "surface": "sublimations",
+        "df": 1,
+        "score": 45
+      },
+      {
+        "id": "des_effets_psychiques",
+        "surface": "des effets psychiques",
+        "df": 1,
+        "score": 45
+      },
+      {
+        "id": "la_librida_sexuelle",
+        "surface": "la librida sexuelle",
+        "df": 1,
+        "score": 45
+      },
+      {
+        "id": "éros",
+        "surface": "Éros",
+        "df": 1,
+        "score": 45
+      },
+      {
+        "id": "conscient*",
+        "surface": "Conscient*",
+        "df": 1,
+        "score": 45
+      },
+      {
+        "id": "la_triade",
+        "surface": "la triade",
+        "df": 2,
+        "score": 45
+      },
+      {
+        "id": "une_*poussée*",
+        "surface": "une *poussée*",
+        "df": 1,
+        "score": 45
+      },
+      {
+        "id": "excitation",
+        "surface": "excitation",
+        "df": 1,
+        "score": 45
+      },
+      {
+        "id": "cette_libido",
+        "surface": "cette libido",
+        "df": 1,
+        "score": 45
+      },
+      {
+        "id": "libidinal",
+        "surface": "libidinal",
+        "df": 1,
+        "score": 45
+      },
+      {
+        "id": "quantités_pulsionnelles",
+        "surface": "quantités pulsionnelles",
+        "df": 1,
+        "score": 45
+      },
+      {
+        "id": "d'un_dynamique",
+        "surface": "d'un dynamique",
+        "df": 1,
+        "score": 45
+      },
+      {
+        "id": "référenciation_pathique",
+        "surface": "référenciation pathique",
+        "df": 1,
+        "score": 45
+      },
+      {
+        "id": "la_condensation",
+        "surface": "la condensation",
+        "df": 1,
+        "score": 45
+      },
+      {
+        "id": "la_représentation_qu'on_se_fait_ordinairement_du_chaos,_la_chaosmose_échappe_à_la_théorie_des_ensembles_discursifs_et_relève_plutôt_des_métà-modélisations_de_ce_que_nous_appellons_:_les_agregats_ou_les_populations_entiaires",
+        "surface": "la représentation qu'on se fait ordinairement du chaos, la chaosmose échappe à la théorie des ensembles discursifs et relève plutôt des métà-modélisations de ce que nous appellons : les agregats ou les populations entiaires",
+        "df": 1,
+        "score": 40
+      },
+      {
+        "id": "les_lois",
+        "surface": "Les lois",
+        "df": 1,
+        "score": 40
+      },
+      {
+        "id": "composition_internes",
+        "surface": "composition internes",
+        "df": 1,
+        "score": 40
+      },
+      {
+        "id": "la_récursion_existentielle_et_de_nécessitation",
+        "surface": "la récursion existentielle et de nécessitation",
+        "df": 1,
+        "score": 40
+      },
+      {
+        "id": "les_causes_matérielles",
+        "surface": "les causes matérielles",
+        "df": 1,
+        "score": 40
+      },
+      {
+        "id": "ces_quatre_modalités",
+        "surface": "ces quatre modalités",
+        "df": 1,
+        "score": 40
+      },
+      {
+        "id": "caisse_récursive",
+        "surface": "caisse récursive",
+        "df": 1,
+        "score": 40
+      },
+      {
+        "id": "chaosmose",
+        "surface": "CHAOSMOSE",
+        "df": 2,
+        "score": 40
+      },
+      {
+        "id": "une_hyper-ordination",
+        "surface": "une hyper-ordination",
+        "df": 1,
+        "score": 40
+      },
+      {
+        "id": "determinabilité_d*-e",
+        "surface": "determinabilité d*-e",
+        "df": 1,
+        "score": 40
+      },
+      {
+        "id": "la_chasmosse",
+        "surface": "la chasmosse",
+        "df": 1,
+        "score": 40
+      },
+      {
+        "id": "l'immunità",
+        "surface": "l'immunità",
+        "df": 1,
+        "score": 40
+      },
+      {
+        "id": "son_ideal",
+        "surface": "son ideal",
+        "df": 1,
+        "score": 40
+      },
+      {
+        "id": "la_constitue",
+        "surface": "la constitue",
+        "df": 1,
+        "score": 40
+      },
+      {
+        "id": "les_quatre_modalités",
+        "surface": "Les quatre modalités",
+        "df": 2,
+        "score": 40
+      },
+      {
+        "id": "discursivees_staires",
+        "surface": "discursivees staires",
+        "df": 1,
+        "score": 40
+      },
+      {
+        "id": "des_faisceaux",
+        "surface": "des faisceaux",
+        "df": 1,
+        "score": 40
+      },
+      {
+        "id": "vitesse_hyper-ralentie",
+        "surface": "vitesse hyper-ralentie",
+        "df": 1,
+        "score": 40
+      },
+      {
+        "id": "figure_ontologique",
+        "surface": "figure ontologique",
+        "df": 1,
+        "score": 40
+      },
+      {
+        "id": "domaine_φ.",
+        "surface": "domaine Φ.",
+        "df": 1,
+        "score": 40
+      },
+      {
+        "id": "ontologie_modulaire",
+        "surface": "ontologie modulaire",
+        "df": 1,
+        "score": 40
+      },
+      {
+        "id": "traits_positifs",
+        "surface": "traits positifs",
+        "df": 1,
+        "score": 40
+      },
+      {
+        "id": "pure_discursure",
+        "surface": "pure discursure",
+        "df": 1,
+        "score": 40
+      },
+      {
+        "id": "constance_fractale",
+        "surface": "constance fractale",
+        "df": 1,
+        "score": 40
+      },
+      {
+        "id": "ton_pluot_que_l'unidimensionalité_d'une_temporalisation_réduite_à_la_linéarité_informationnelle_du_chronos_capitalistique,_puissance_d'voratrice_de_traductibilisation_et_de_mise_en_équivalant",
+        "surface": "Ton pluot que l'unidimensionalité d'une temporalisation réduite à la linéarité informationnelle du Chronos capitalistique, puissance d'voratrice de traductibilisation et de mise en équivalant",
+        "df": 1,
+        "score": 40
+      },
+      {
+        "id": "la_chimie_enonciative",
+        "surface": "la chimie enonciative",
+        "df": 1,
+        "score": 40
+      },
+      {
+        "id": "quatre_puissances",
+        "surface": "quatre puissances",
+        "df": 1,
+        "score": 40
+      },
+      {
+        "id": "causes_efficiens_de_l'autonico",
+        "surface": "causes efficiens de l'autonico",
+        "df": 1,
+        "score": 40
+      },
+      {
+        "id": "des_temporales_discursives",
+        "surface": "des temporales discursives",
+        "df": 1,
+        "score": 40
+      },
+      {
+        "id": "divers_temporales_organisants",
+        "surface": "divers temporales organisants",
+        "df": 1,
+        "score": 40
+      },
+      {
+        "id": "travaillors_alors_de_façon_relativement_autonomes",
+        "surface": "travaillors alors de façon relativement autonomes",
+        "df": 1,
+        "score": 40
+      },
+      {
+        "id": "asservissement_cybernetique",
+        "surface": "asservissement cybernetique",
+        "df": 1,
+        "score": 40
+      },
+      {
+        "id": "essentiellement_dans_l'agencement",
+        "surface": "essentiellement dans l'Agencement",
+        "df": 1,
+        "score": 40
+      },
+      {
+        "id": "recessuelles",
+        "surface": "recessuelles",
+        "df": 1,
+        "score": 40
+      },
+      {
+        "id": "phylum_possibilistes_(0·)",
+        "surface": "Phylum possibilistes (0·)",
+        "df": 1,
+        "score": 40
+      },
+      {
+        "id": "l'fabellisation",
+        "surface": "l'fabellisation",
+        "df": 1,
+        "score": 40
+      },
+      {
+        "id": "une_autre_procédure_fractale",
+        "surface": "une autre procédure fractale",
+        "df": 1,
+        "score": 40
+      },
+      {
+        "id": "univers_àioniques",
+        "surface": "Univers àioniques",
+        "df": 1,
+        "score": 40
+      },
+      {
+        "id": "la_fractalisation_chronique",
+        "surface": "La fractalisation chronique",
+        "df": 1,
+        "score": 40
+      },
+      {
+        "id": "terroritesorius_ophyl_deterritorialis",
+        "surface": "terroritesorius Ophyl deterritorialis",
+        "df": 1,
+        "score": 40
+      },
+      {
+        "id": "la_fractalisation_aionique",
+        "surface": "la fractalisation aionique",
+        "df": 1,
+        "score": 40
+      },
+      {
+        "id": "circonscription",
+        "surface": "circonSCRIPTion",
+        "df": 1,
+        "score": 40
+      },
+      {
+        "id": "dufracnatel",
+        "surface": "DUFRACNATEL",
+        "df": 1,
+        "score": 40
+      },
+      {
+        "id": "ouverture",
+        "surface": "ouverture",
+        "df": 4,
+        "score": 40
+      },
+      {
+        "id": "l'intrusion_énonciative",
+        "surface": "l'intrusion énonciative",
+        "df": 1,
+        "score": 40
+      },
+      {
+        "id": "le_ps",
+        "surface": "le PS",
+        "df": 1,
+        "score": 40
+      },
+      {
+        "id": "l'état_disjonctif",
+        "surface": "L'état disjonctif",
+        "df": 1,
+        "score": 40
+      },
+      {
+        "id": "appréhension_transférentielle",
+        "surface": "appréhension transférentielle",
+        "df": 1,
+        "score": 40
+      },
+      {
+        "id": "le_nom",
+        "surface": "le nom",
+        "df": 7,
+        "score": 40
+      },
+      {
+        "id": "un_modèle_aussi_sommaire_que_on_pourrait_prédire_aborder_les_cartographies_de_processus_concrets_de_subjectionivation",
+        "surface": "un modèle aussi sommaire que on pourrait prédire aborder les cartographies de processus concrets de subjectionivation",
+        "df": 1,
+        "score": 40
+      },
+      {
+        "id": "une_névrose_hystérique",
+        "surface": "une névrose hystérique",
+        "df": 1,
+        "score": 40
+      },
+      {
+        "id": "l'hystérie",
+        "surface": "l'hystérie",
+        "df": 2,
+        "score": 40
+      },
+      {
+        "id": "la_motricité",
+        "surface": "la motricité",
+        "df": 1,
+        "score": 40
+      },
+      {
+        "id": "stades_psychogénétiques",
+        "surface": "stades psychogénétiques",
+        "df": 1,
+        "score": 40
+      },
+      {
+        "id": "stades_psychogénetiques",
+        "surface": "stades psychogénetiques",
+        "df": 1,
+        "score": 40
+      },
+      {
+        "id": "ses_intuitions",
+        "surface": "ses intuitions",
+        "df": 1,
+        "score": 40
+      },
+      {
+        "id": "le_rève",
+        "surface": "le rève",
+        "df": 3,
+        "score": 40
+      },
+      {
+        "id": "la_*génitalité",
+        "surface": "la *génitalité",
+        "df": 1,
+        "score": 40
+      },
+      {
+        "id": "felix_guattari",
+        "surface": "Felix Guattari",
+        "df": 1,
+        "score": 40
+      },
+      {
+        "id": "systèmes_machiniques",
+        "surface": "systèmes machiniques",
+        "df": 1,
+        "score": 40
+      },
+      {
+        "id": "nouveaux_agencements",
+        "surface": "nouveaux Agencements",
+        "df": 2,
+        "score": 40
+      },
+      {
+        "id": "proto-subjectifs",
+        "surface": "proto-subjectifs",
+        "df": 1,
+        "score": 40
+      },
+      {
+        "id": "auto-reférence",
+        "surface": "auto-reférence",
+        "df": 1,
+        "score": 40
+      },
+      {
+        "id": "une_subjectivité_processuelle",
+        "surface": "une subjectivité processuelle",
+        "df": 1,
+        "score": 40
+      },
+      {
+        "id": "mutations_subjectives",
+        "surface": "mutations subjectives",
+        "df": 1,
+        "score": 40
+      },
+      {
+        "id": "les_agencements",
+        "surface": "les Agencements",
+        "df": 5,
+        "score": 40
+      },
+      {
+        "id": "des_agencements",
+        "surface": "des Agencements",
+        "df": 4,
+        "score": 40
+      },
+      {
+        "id": "subjectivité_individuels_et/ou_collectifs",
+        "surface": "subjectivité individuels et/ou collectifs",
+        "df": 1,
+        "score": 40
+      },
+      {
+        "id": "l'autoréfinition",
+        "surface": "l'autoréfinition",
+        "df": 1,
+        "score": 40
+      },
+      {
+        "id": "les_étages_somatiques_et_psychiques",
+        "surface": "les étages somatiques et psychiques",
+        "df": 1,
+        "score": 40
+      },
+      {
+        "id": "le_somatique",
+        "surface": "le somatique",
+        "df": 1,
+        "score": 40
+      },
+      {
+        "id": "le_mouvement_psychanalytique",
+        "surface": "le mouvement psychanalytique",
+        "df": 1,
+        "score": 40
+      },
+      {
+        "id": "érogénères",
+        "surface": "érogénères",
+        "df": 1,
+        "score": 40
+      },
+      {
+        "id": "but",
+        "surface": "but",
+        "df": 1,
+        "score": 40
+      },
+      {
+        "id": "inconscion",
+        "surface": "Inconscion",
+        "df": 1,
+        "score": 40
+      },
+      {
+        "id": "sexuelles",
+        "surface": "sexuelles",
+        "df": 1,
+        "score": 40
+      },
+      {
+        "id": "l'inconscient_schizoanalytique",
+        "surface": "L'INCONSCIENT SCHIZOANALYTIQUE",
+        "df": 1,
+        "score": 40
+      },
+      {
+        "id": "le_rêve",
+        "surface": "le rêve",
+        "df": 5,
+        "score": 40
+      },
+      {
+        "id": "les_schizoanalyses",
+        "surface": "les schizoanalyses",
+        "df": 1,
+        "score": 40
+      },
+      {
+        "id": "la_psyanalyse",
+        "surface": "la psyanalyse",
+        "df": 1,
+        "score": 40
+      },
+      {
+        "id": "schizo",
+        "surface": "schizo",
+        "df": 1,
+        "score": 40
+      },
+      {
+        "id": "du_donne_discursif",
+        "surface": "du Donne discursif",
+        "df": 1,
+        "score": 40
+      },
+      {
+        "id": "versant",
+        "surface": "versant",
+        "df": 3,
+        "score": 40
+      },
+      {
+        "id": "la_multiplicité_infinie",
+        "surface": "la multiplicité infinie",
+        "df": 1,
+        "score": 35
+      },
+      {
+        "id": "discontinuf.t.modélisation",
+        "surface": "discontinuF.T.modélisation",
+        "df": 1,
+        "score": 35
+      },
+      {
+        "id": "discursifs",
+        "surface": "discursifs",
+        "df": 1,
+        "score": 35
+      },
+      {
+        "id": "multiplicité",
+        "surface": "multiplicité",
+        "df": 1,
+        "score": 35
+      },
+      {
+        "id": "transferts",
+        "surface": "transferts",
+        "df": 2,
+        "score": 35
+      },
+      {
+        "id": "les_*machines_désirantes",
+        "surface": "les *machines désirantes",
+        "df": 1,
+        "score": 35
+      },
+      {
+        "id": "les_transferts",
+        "surface": "les transferts",
+        "df": 1,
+        "score": 35
+      },
+      {
+        "id": "existentiel",
+        "surface": "existentiel",
+        "df": 2,
+        "score": 35
+      },
+      {
+        "id": "une_ouverture_déterritorialisante",
+        "surface": "une ouverture déterritorialisante",
+        "df": 1,
+        "score": 35
+      },
+      {
+        "id": "catégories_pathiques",
+        "surface": "catégories pathiques",
+        "df": 1,
+        "score": 35
+      },
+      {
+        "id": "territoire_existentiel",
+        "surface": "Territoire existentiel",
+        "df": 2,
+        "score": 35
+      },
+      {
+        "id": "traiter",
+        "surface": "traiter",
+        "df": 1,
+        "score": 35
+      },
+      {
+        "id": "la_fractalisation_énonciative",
+        "surface": "LA FRACTALISATION ÉNONCIATIVE",
+        "df": 1,
+        "score": 35
+      },
+      {
+        "id": "la_récursion_énonciative",
+        "surface": "La récursion énonciative",
+        "df": 5,
+        "score": 35
+      },
+      {
+        "id": "distinctivité_non_discursif",
+        "surface": "distinctivité non discursif",
+        "df": 1,
+        "score": 35
+      },
+      {
+        "id": "territorialisation_structurale",
+        "surface": "territorialisation structurale",
+        "df": 1,
+        "score": 35
+      },
+      {
+        "id": "la_derritorialisation_fractale",
+        "surface": "la derritorialisation fractale",
+        "df": 1,
+        "score": 35
+      },
+      {
+        "id": "transfert_générali",
+        "surface": "transfert générali",
+        "df": 1,
+        "score": 35
+      },
+      {
+        "id": "a-signifiant",
+        "surface": "a-signifiant",
+        "df": 1,
+        "score": 35
+      },
+      {
+        "id": "l'hyper-complexité_énonciative",
+        "surface": "L'hyper-complexité énonciative",
+        "df": 2,
+        "score": 35
+      },
+      {
+        "id": "l'hypercomplexité_enoncative",
+        "surface": "l'hypercomplexité enoncative",
+        "df": 1,
+        "score": 35
+      },
+      {
+        "id": "des_lapsus",
+        "surface": "des lapsus",
+        "df": 1,
+        "score": 35
+      },
+      {
+        "id": "la_traumdeutung",
+        "surface": "la Traumdeutung",
+        "df": 3,
+        "score": 35
+      },
+      {
+        "id": "thérapie_familiale",
+        "surface": "thérapie familiale",
+        "df": 1,
+        "score": 35
+      },
+      {
+        "id": "sousjet",
+        "surface": "sousjet",
+        "df": 1,
+        "score": 35
+      },
+      {
+        "id": "la_machine",
+        "surface": "la machine",
+        "df": 13,
+        "score": 35
+      },
+      {
+        "id": "de_la_machine",
+        "surface": "de la machine",
+        "df": 2,
+        "score": 35
+      },
+      {
+        "id": "subjectivité_modulaire",
+        "surface": "subjectivité modulaire",
+        "df": 1,
+        "score": 35
+      },
+      {
+        "id": "auto-transcendance",
+        "surface": "auto-transcendance",
+        "df": 1,
+        "score": 35
+      },
+      {
+        "id": "par_saisie",
+        "surface": "par saisie",
+        "df": 1,
+        "score": 35
+      },
+      {
+        "id": "autofondatrice",
+        "surface": "autofondatrice",
+        "df": 1,
+        "score": 35
+      },
+      {
+        "id": "sémiotisation",
+        "surface": "sémiotisation",
+        "df": 10,
+        "score": 35
+      },
+      {
+        "id": "singularisation",
+        "surface": "singularisation",
+        "df": 15,
+        "score": 35
+      },
+      {
+        "id": "cette_double_capacité",
+        "surface": "Cette double capacité",
+        "df": 1,
+        "score": 35
+      },
+      {
+        "id": "territoires_existentiels",
+        "surface": "Territoires existentiels",
+        "df": 7,
+        "score": 35
+      },
+      {
+        "id": "les_occurrences_subjectives",
+        "surface": "les occurrences subjectives",
+        "df": 1,
+        "score": 35
+      },
+      {
+        "id": "la_schi",
+        "surface": "la schi",
+        "df": 1,
+        "score": 35
+      },
+      {
+        "id": "sémiotique_freudienne",
+        "surface": "SÉMIOTIQUE FREUDIENNE",
+        "df": 1,
+        "score": 35
+      },
+      {
+        "id": "auto-analyse",
+        "surface": "auto-analyse",
+        "df": 1,
+        "score": 35
+      },
+      {
+        "id": "une_homeostasie",
+        "surface": "une homeostasie",
+        "df": 1,
+        "score": 35
+      },
+      {
+        "id": "tensions_engrédresses_par_les_lesités_excitations",
+        "surface": "tensions engrédresses par les lesités excitations",
+        "df": 1,
+        "score": 35
+      },
+      {
+        "id": "l'opérateur_proto-existential",
+        "surface": "l'opérateur proto-existential",
+        "df": 1,
+        "score": 35
+      },
+      {
+        "id": "les_processus_proto-énonciatifs",
+        "surface": "LES PROCESSUS PROTO-ÉNONCIATIFS",
+        "df": 2,
+        "score": 35
+      },
+      {
+        "id": "proto-enonciation",
+        "surface": "proto-enonciation",
+        "df": 1,
+        "score": 35
+      },
+      {
+        "id": "tous_ces_operations_psychanalytiques_et_esthétiques_ressortissent",
+        "surface": "Tous ces operations psychanalytiques et esthétiques ressortissent",
+        "df": 1,
+        "score": 35
+      },
+      {
+        "id": "meta-models",
+        "surface": "meta-models",
+        "df": 1,
+        "score": 35
+      },
+      {
+        "id": "donnant_non_discursif",
+        "surface": "Donnant non discursif",
+        "df": 1,
+        "score": 35
+      },
+      {
+        "id": "ordre_séquentiel",
+        "surface": "ordre séquentiel",
+        "df": 1,
+        "score": 30
+      },
+      {
+        "id": "les_séquences_machiniques",
+        "surface": "Les séquences machiniques",
+        "df": 1,
+        "score": 30
+      },
+      {
+        "id": "questions",
+        "surface": "questions",
+        "df": 2,
+        "score": 30
+      },
+      {
+        "id": "discontinu",
+        "surface": "discontinu",
+        "df": 3,
+        "score": 30
+      },
+      {
+        "id": "la_machinique",
+        "surface": "La machinique",
+        "df": 2,
+        "score": 30
+      },
+      {
+        "id": "un_saut_particulièrement_difficile",
+        "surface": "Un saut particulièrement difficile",
+        "df": 1,
+        "score": 30
+      },
+      {
+        "id": "affect_virtuel",
+        "surface": "affect virtuel",
+        "df": 1,
+        "score": 30
+      },
+      {
+        "id": "le_continuum",
+        "surface": "Le continuum",
+        "df": 3,
+        "score": 30
+      },
+      {
+        "id": "tous_les_transferts_possibles",
+        "surface": "tous les transferts possibles",
+        "df": 1,
+        "score": 30
+      },
+      {
+        "id": "incidence",
+        "surface": "incidence",
+        "df": 1,
+        "score": 30
+      },
+      {
+        "id": "ces_transferts",
+        "surface": "ces transferts",
+        "df": 2,
+        "score": 30
+      },
+      {
+        "id": "actualisation_discursivevirtualisation",
+        "surface": "Actualisation discursiveVirtualisation",
+        "df": 1,
+        "score": 30
+      },
+      {
+        "id": "rétroaction",
+        "surface": "rétroaction",
+        "df": 4,
+        "score": 30
+      },
+      {
+        "id": "toute_discursivité",
+        "surface": "toute discursivité",
+        "df": 1,
+        "score": 30
+      },
+      {
+        "id": "déterritorialisée",
+        "surface": "déterritorialisée",
+        "df": 1,
+        "score": 30
+      },
+      {
+        "id": "une_auto-consistance",
+        "surface": "une auto-consistance",
+        "df": 2,
+        "score": 30
+      },
+      {
+        "id": "autoréfense",
+        "surface": "autoréfense",
+        "df": 1,
+        "score": 30
+      },
+      {
+        "id": "implication",
+        "surface": "implication",
+        "df": 3,
+        "score": 30
+      },
+      {
+        "id": "les_problèmes",
+        "surface": "Les problèmes",
+        "df": 1,
+        "score": 30
+      },
+      {
+        "id": "en_tant_que_multiplicité",
+        "surface": "en tant que multiplicité",
+        "df": 1,
+        "score": 30
+      },
+      {
+        "id": "sujet_souit",
+        "surface": "sujet souit",
+        "df": 1,
+        "score": 30
+      },
+      {
+        "id": "un_rapport_objet",
+        "surface": "un rapport objet",
+        "df": 1,
+        "score": 30
+      },
+      {
+        "id": "auto-affirmation_existentielle",
+        "surface": "auto-affirmation existentielle",
+        "df": 1,
+        "score": 30
+      },
+      {
+        "id": "la_fragilité",
+        "surface": "la fragilité",
+        "df": 2,
+        "score": 30
+      },
+      {
+        "id": "distinctivité_existentielle",
+        "surface": "distinctivité existentielle",
+        "df": 1,
+        "score": 30
+      },
+      {
+        "id": "dispositifs_entières_à_s'ouvrir_d'autres_formules_d'arrangement,_d'autres_axiomatiques,_d'autres_machins_absences",
+        "surface": "dispositifs entières à s'ouvrir d'autres formules d'arrangement, d'autres axiomatiques, d'autres machins absences",
+        "df": 1,
+        "score": 30
+      },
+      {
+        "id": "retortorialisation",
+        "surface": "retortorialisation",
+        "df": 1,
+        "score": 30
+      },
+      {
+        "id": "labilité_absolue",
+        "surface": "labilité absolue",
+        "df": 1,
+        "score": 30
+      },
+      {
+        "id": "territorialisation_associant",
+        "surface": "territorialisation associant",
+        "df": 1,
+        "score": 30
+      },
+      {
+        "id": "cette_structure_modulaire",
+        "surface": "Cette structure modulaire",
+        "df": 1,
+        "score": 30
+      },
+      {
+        "id": "la_reterritorialisation",
+        "surface": "la reterritorialisation",
+        "df": 1,
+        "score": 30
+      },
+      {
+        "id": "une_conjonctivité_active_et_processuelle",
+        "surface": "une conjonctivité active et processuelle",
+        "df": 1,
+        "score": 30
+      },
+      {
+        "id": "consistence_ontologique",
+        "surface": "consistence ontologique",
+        "df": 1,
+        "score": 30
+      },
+      {
+        "id": "la_censure_brutale",
+        "surface": "la censure brutale",
+        "df": 1,
+        "score": 30
+      },
+      {
+        "id": "transversalité_existentielle",
+        "surface": "transversalité existentielle",
+        "df": 1,
+        "score": 30
+      },
+      {
+        "id": "recursivité",
+        "surface": "recursivité",
+        "df": 1,
+        "score": 30
+      },
+      {
+        "id": "récursif",
+        "surface": "récursif",
+        "df": 1,
+        "score": 30
+      },
+      {
+        "id": "oppositions",
+        "surface": "oppositions",
+        "df": 1,
+        "score": 30
+      },
+      {
+        "id": "la_consistance_existente",
+        "surface": "La consistance existente",
+        "df": 1,
+        "score": 30
+      },
+      {
+        "id": "catégories_ontiques",
+        "surface": "catégories ontiques",
+        "df": 1,
+        "score": 30
+      },
+      {
+        "id": "les_multiplicités",
+        "surface": "les multiplicités",
+        "df": 1,
+        "score": 30
+      },
+      {
+        "id": "virtuel",
+        "surface": "virtuel",
+        "df": 3,
+        "score": 30
+      },
+      {
+        "id": "fractures",
+        "surface": "fractures",
+        "df": 1,
+        "score": 30
+      },
+      {
+        "id": "les_virtualités_virulentes",
+        "surface": "les virtualités virulentes",
+        "df": 1,
+        "score": 30
+      },
+      {
+        "id": "les_potentialités_actuelles",
+        "surface": "les potentialités actuelles",
+        "df": 1,
+        "score": 30
+      },
+      {
+        "id": "l'auto-analyse",
+        "surface": "l'auto-analyse",
+        "df": 1,
+        "score": 30
+      },
+      {
+        "id": "la_dependance",
+        "surface": "la dependance",
+        "df": 1,
+        "score": 30
+      },
+      {
+        "id": "la_condition_existentielle",
+        "surface": "la condition existentielle",
+        "df": 1,
+        "score": 30
+      },
+      {
+        "id": "des_pulsions_temporelles_chroniques_et_aioniques",
+        "surface": "des pulsions temporelles chroniques et aioniques",
+        "df": 1,
+        "score": 30
+      },
+      {
+        "id": "non-séparabilité_moléculaire",
+        "surface": "non-séparabilité moléculaire",
+        "df": 1,
+        "score": 30
+      },
+      {
+        "id": "la_génèse_processuelle",
+        "surface": "la génèse processuelle",
+        "df": 1,
+        "score": 30
+      },
+      {
+        "id": "mégalomanie_hegemonique",
+        "surface": "mégalomanie hegemonique",
+        "df": 1,
+        "score": 30
+      },
+      {
+        "id": "la_visagification",
+        "surface": "la visagification",
+        "df": 1,
+        "score": 30
+      },
+      {
+        "id": "le_visage",
+        "surface": "le visage",
+        "df": 3,
+        "score": 30
+      },
+      {
+        "id": "visagité",
+        "surface": "visagité",
+        "df": 1,
+        "score": 30
+      },
+      {
+        "id": "la_necessitation",
+        "surface": "LA NECESSITATION",
+        "df": 1,
+        "score": 30
+      },
+      {
+        "id": "l'énociation_dispositionnelle",
+        "surface": "L'énociation dispositionnelle",
+        "df": 1,
+        "score": 30
+      },
+      {
+        "id": "la_nécessitation",
+        "surface": "La nécessitation",
+        "df": 1,
+        "score": 30
+      },
+      {
+        "id": "l'hétérogenèse",
+        "surface": "L'HÉTÉROGENÈSE",
+        "df": 2,
+        "score": 30
+      },
+      {
+        "id": "nécessitation",
+        "surface": "nécessitation",
+        "df": 2,
+        "score": 30
+      },
+      {
+        "id": "auto-organisation",
+        "surface": "auto-organisation",
+        "df": 1,
+        "score": 30
+      },
+      {
+        "id": "tant_que_:_dispositif_scénique",
+        "surface": "tant que : dispositif scénique",
+        "df": 1,
+        "score": 30
+      },
+      {
+        "id": "existentialisantes",
+        "surface": "existentialisantes",
+        "df": 1,
+        "score": 30
+      },
+      {
+        "id": "'agencement_ennociatif",
+        "surface": "'Agencement ennociatif",
+        "df": 1,
+        "score": 30
+      },
+      {
+        "id": "l'incogniscent",
+        "surface": "l'incogniscent",
+        "df": 1,
+        "score": 30
+      },
+      {
+        "id": "l'incognisci",
+        "surface": "l'incognisci",
+        "df": 1,
+        "score": 30
+      },
+      {
+        "id": "une_subjectivité_aristocratique",
+        "surface": "une subjectivité aristocratique",
+        "df": 1,
+        "score": 30
+      },
+      {
+        "id": "tous_les_systèmes_machiniques",
+        "surface": "tous les systèmes machiniques",
+        "df": 1,
+        "score": 30
+      },
+      {
+        "id": "soit_par_coercion_directe_et_emprise_panoptique_sur_les_corps",
+        "surface": "soit par coercion directe et emprise panoptique sur les corps",
+        "df": 1,
+        "score": 30
+      },
+      {
+        "id": "les_subjectivités_«",
+        "surface": "Les subjectivités «",
+        "df": 1,
+        "score": 30
+      },
+      {
+        "id": "autoconsistancielle",
+        "surface": "autoconsistancielle",
+        "df": 1,
+        "score": 30
+      },
+      {
+        "id": "processus_proto-enoiensis",
+        "surface": "processus proto-enoiensis",
+        "df": 1,
+        "score": 30
+      },
+      {
+        "id": "donne_demeure",
+        "surface": "Donne demeure",
+        "df": 1,
+        "score": 30
+      },
+      {
+        "id": "contingents",
+        "surface": "contingents",
+        "df": 1,
+        "score": 25
+      },
+      {
+        "id": "rhizomatiques",
+        "surface": "rhizomatiques",
+        "df": 1,
+        "score": 25
+      },
+      {
+        "id": "suspens",
+        "surface": "suspens",
+        "df": 8,
+        "score": 25
+      },
+      {
+        "id": "dis-",
+        "surface": "dis-",
+        "df": 1,
+        "score": 25
+      },
+      {
+        "id": "continus",
+        "surface": "continus",
+        "df": 1,
+        "score": 25
+      },
+      {
+        "id": "l'immanence",
+        "surface": "l'immanence",
+        "df": 2,
+        "score": 25
+      },
+      {
+        "id": "nœuds_machiniques",
+        "surface": "Nœuds machiniques",
+        "df": 1,
+        "score": 25
+      },
+      {
+        "id": "catégorie",
+        "surface": "catégorie",
+        "df": 6,
+        "score": 25
+      },
+      {
+        "id": "les_mémoires",
+        "surface": "Les mémoires",
+        "df": 1,
+        "score": 25
+      },
+      {
+        "id": "flux_«",
+        "surface": "Flux «",
+        "df": 1,
+        "score": 25
+      },
+      {
+        "id": "ses_effets",
+        "surface": "ses effets",
+        "df": 1,
+        "score": 25
+      },
+      {
+        "id": "virtisation_enoncictive",
+        "surface": "Virtisation enoncictive",
+        "df": 1,
+        "score": 25
+      },
+      {
+        "id": "des_possibles",
+        "surface": "des possibles",
+        "df": 1,
+        "score": 25
+      },
+      {
+        "id": "les_conditions",
+        "surface": "les conditions",
+        "df": 3,
+        "score": 25
+      },
+      {
+        "id": "disponibilité",
+        "surface": "disponibilité",
+        "df": 1,
+        "score": 25
+      },
+      {
+        "id": "des_charges",
+        "surface": "des charges",
+        "df": 1,
+        "score": 25
+      },
+      {
+        "id": "charges",
+        "surface": "charges",
+        "df": 5,
+        "score": 25
+      },
+      {
+        "id": "potentialité_sémiotique",
+        "surface": "potentialité sémiotique",
+        "df": 1,
+        "score": 25
+      },
+      {
+        "id": "theorie_générale",
+        "surface": "theorie générale",
+        "df": 1,
+        "score": 25
+      },
+      {
+        "id": "un_effet_sémiotique",
+        "surface": "un effet sémiotique",
+        "df": 1,
+        "score": 25
+      },
+      {
+        "id": "l'impact",
+        "surface": "l'impact",
+        "df": 2,
+        "score": 25
+      },
+      {
+        "id": "déterminée",
+        "surface": "déterminée",
+        "df": 1,
+        "score": 25
+      },
+      {
+        "id": "une_boucle",
+        "surface": "une boucle",
+        "df": 1,
+        "score": 25
+      },
+      {
+        "id": "nécessité",
+        "surface": "nécessité",
+        "df": 6,
+        "score": 25
+      },
+      {
+        "id": "des_niveaux",
+        "surface": "des niveaux",
+        "df": 1,
+        "score": 25
+      },
+      {
+        "id": "des_mémoires_corporelles",
+        "surface": "des mémoires corporelles",
+        "df": 1,
+        "score": 25
+      },
+      {
+        "id": "toutes_les_discursivités",
+        "surface": "toutes les discursivités",
+        "df": 1,
+        "score": 25
+      },
+      {
+        "id": "la_réversibilité",
+        "surface": "la réversibilité",
+        "df": 2,
+        "score": 25
+      },
+      {
+        "id": "positions",
+        "surface": "positions",
+        "df": 3,
+        "score": 25
+      },
+      {
+        "id": "de_territoire",
+        "surface": "de Territoire",
+        "df": 2,
+        "score": 25
+      },
+      {
+        "id": "des_niveaux_problématiques",
+        "surface": "des niveaux problématiques",
+        "df": 1,
+        "score": 25
+      },
+      {
+        "id": "consistance_machinique",
+        "surface": "consistance machinique",
+        "df": 1,
+        "score": 25
+      },
+      {
+        "id": "des_positions_singulaires",
+        "surface": "des positions singulaires",
+        "df": 1,
+        "score": 25
+      },
+      {
+        "id": "une_double_perspective",
+        "surface": "une double perspective",
+        "df": 1,
+        "score": 25
+      },
+      {
+        "id": "une_dimension_diachronique",
+        "surface": "une dimension diachronique",
+        "df": 1,
+        "score": 25
+      },
+      {
+        "id": "implication_machinique",
+        "surface": "implication machinique",
+        "df": 1,
+        "score": 25
+      },
+      {
+        "id": "des_machines_abstraites",
+        "surface": "des machines abstraites",
+        "df": 2,
+        "score": 25
+      },
+      {
+        "id": "la_ligne_processuelle",
+        "surface": "la ligne processuelle",
+        "df": 1,
+        "score": 25
+      },
+      {
+        "id": "les_problématiques",
+        "surface": "les problématiques",
+        "df": 1,
+        "score": 25
+      },
+      {
+        "id": "une_dimension_synchronique",
+        "surface": "une dimension synchronique",
+        "df": 1,
+        "score": 25
+      },
+      {
+        "id": "la_fluctuation",
+        "surface": "La fluctuation",
+        "df": 1,
+        "score": 25
+      },
+      {
+        "id": "être-à-que",
+        "surface": "être-à-que",
+        "df": 1,
+        "score": 25
+      },
+      {
+        "id": "la_glue_existentielle",
+        "surface": "la glue existentielle",
+        "df": 1,
+        "score": 25
+      },
+      {
+        "id": "espace_essentiellement_glischroïdique",
+        "surface": "Espace essentiellement glischroïdique",
+        "df": 1,
+        "score": 25
+      },
+      {
+        "id": "la_double_aporie",
+        "surface": "la double aporie",
+        "df": 1,
+        "score": 25
+      },
+      {
+        "id": "c'est_aussi_à_des_fractures",
+        "surface": "C'est aussi à des fractures",
+        "df": 1,
+        "score": 25
+      },
+      {
+        "id": "cette_nouvelle_dimension_fondamentale",
+        "surface": "cette nouvelle dimension fondamentale",
+        "df": 1,
+        "score": 25
+      },
+      {
+        "id": "agglutination",
+        "surface": "agglutination",
+        "df": 1,
+        "score": 25
+      },
+      {
+        "id": "de_nouveaux_phylum_possibilistes:_ici,_en_occurrance,_avec_la_déterritorialisante_enzymatique,_à_la_accession_à_rien_moins_qu'aux_champs_de_possible_(♂)_et_aux_mutations_de_virtualité_(u.)_propres_à_la_matié_vivante",
+        "surface": "de nouveaux Phylum possibilistes: ici, en occurrance, avec la déterritorialisante enzymatique, à la accession à rien moins qu'aux champs de possible (♂) et aux mutations de virtualité (U.) propres à la matié vivante",
+        "df": 1,
+        "score": 25
+      },
+      {
+        "id": "héterogénité",
+        "surface": "héterogénité",
+        "df": 1,
+        "score": 25
+      },
+      {
+        "id": "de_précarité",
+        "surface": "de précarité",
+        "df": 1,
+        "score": 25
+      },
+      {
+        "id": "opposition_massives",
+        "surface": "opposition massives",
+        "df": 1,
+        "score": 25
+      },
+      {
+        "id": "foncièrement_héterogène",
+        "surface": "foncièrement héterogène",
+        "df": 1,
+        "score": 25
+      },
+      {
+        "id": "la_gomme_ouverte_des_intensités_existentieles",
+        "surface": "la gomme ouverte des intensités existentieles",
+        "df": 1,
+        "score": 25
+      },
+      {
+        "id": "l'agence",
+        "surface": "l'Agence",
+        "df": 1,
+        "score": 25
+      },
+      {
+        "id": "montage",
+        "surface": "montage",
+        "df": 2,
+        "score": 25
+      },
+      {
+        "id": "processualités",
+        "surface": "processualités",
+        "df": 1,
+        "score": 25
+      },
+      {
+        "id": "les_cribles_existentiels",
+        "surface": "les cribles existentiels",
+        "df": 1,
+        "score": 25
+      },
+      {
+        "id": "immanentes",
+        "surface": "immanentes",
+        "df": 1,
+        "score": 25
+      },
+      {
+        "id": "alternatives",
+        "surface": "alternatives",
+        "df": 1,
+        "score": 25
+      },
+      {
+        "id": "binaries_exclusives",
+        "surface": "binaries exclusives",
+        "df": 1,
+        "score": 25
+      },
+      {
+        "id": "systémique",
+        "surface": "systémique",
+        "df": 1,
+        "score": 25
+      },
+      {
+        "id": "oppose",
+        "surface": "oppose",
+        "df": 1,
+        "score": 25
+      },
+      {
+        "id": "dialectables",
+        "surface": "dialectables",
+        "df": 1,
+        "score": 25
+      },
+      {
+        "id": "mouvement",
+        "surface": "mouvement",
+        "df": 5,
+        "score": 25
+      },
+      {
+        "id": "une_théorie",
+        "surface": "une théorie",
+        "df": 2,
+        "score": 25
+      },
+      {
+        "id": "'appropriation_existente_et_du_transfert_graphique_généralisé",
+        "surface": "'appropriation existente et du transfert graphique généralisé",
+        "df": 1,
+        "score": 25
+      },
+      {
+        "id": "d'univers",
+        "surface": "d'Univers",
+        "df": 3,
+        "score": 25
+      },
+      {
+        "id": "une_stabilité_relative_aux_séquences_de_prises_de_constance",
+        "surface": "une stabilité relative aux séquences de prises de constance",
+        "df": 1,
+        "score": 25
+      },
+      {
+        "id": "entitiaires",
+        "surface": "entitiaires",
+        "df": 2,
+        "score": 25
+      },
+      {
+        "id": "régimes",
+        "surface": "régimes",
+        "df": 2,
+        "score": 25
+      },
+      {
+        "id": "des_constances",
+        "surface": "des constances",
+        "df": 1,
+        "score": 25
+      },
+      {
+        "id": "définitions_antagonistes",
+        "surface": "définitions antagonistes",
+        "df": 1,
+        "score": 25
+      },
+      {
+        "id": "des_constances_ralenties_et_relativement_déterritorialisations",
+        "surface": "des constances ralenties et relativement déterritorialisations",
+        "df": 1,
+        "score": 25
+      },
+      {
+        "id": "thérapepe",
+        "surface": "thérapepe",
+        "df": 1,
+        "score": 25
+      },
+      {
+        "id": "l'existe",
+        "surface": "l'existe",
+        "df": 1,
+        "score": 25
+      },
+      {
+        "id": "une_histoire_dialectique_trouble",
+        "surface": "une histoire dialectique trouble",
+        "df": 1,
+        "score": 25
+      },
+      {
+        "id": "le_sens_aionique",
+        "surface": "le sens aionique",
+        "df": 1,
+        "score": 25
+      },
+      {
+        "id": "héterogénese_apportent",
+        "surface": "héterogénese apportent",
+        "df": 1,
+        "score": 25
+      },
+      {
+        "id": "hégemoniquement",
+        "surface": "hégemoniquement",
+        "df": 1,
+        "score": 25
+      },
+      {
+        "id": "elles_n'elles_ne_sont,_après_tout,_d'autre_que_des_formes_hyperdéveloppées_et_hyperconcentrées_de_certains_aspects_de_sa_propre_subjectivité_et,_soulignons-le,_justement_pas_des_aspects_qui_le_polarise_sur_les_relations_de_domination_et_de_pouvoir",
+        "surface": "elles n'elles ne sont, après tout, d'autre que des formes hyperdéveloppées et hyperconcentrées de certains aspects de sa propre subjectivité et, soulignons-le, justement pas des aspects qui le polarise sur les relations de domination et de pouvoir",
+        "df": 1,
+        "score": 25
+      },
+      {
+        "id": "divers_machines_initiatesiens",
+        "surface": "divers machines initiatesiens",
+        "df": 1,
+        "score": 25
+      },
+      {
+        "id": "alexe",
+        "surface": "alexe",
+        "df": 1,
+        "score": 25
+      },
+      {
+        "id": "éculturation",
+        "surface": "éculturation",
+        "df": 1,
+        "score": 20
+      },
+      {
+        "id": "reféré",
+        "surface": "reféré",
+        "df": 1,
+        "score": 20
+      },
+      {
+        "id": "d'ouvertures_synaptiques",
+        "surface": "d'ouvertures synaptiques",
+        "df": 1,
+        "score": 20
+      },
+      {
+        "id": "grappes",
+        "surface": "grappes",
+        "df": 1,
+        "score": 20
+      },
+      {
+        "id": "reférence",
+        "surface": "reférence",
+        "df": 11,
+        "score": 20
+      },
+      {
+        "id": "phylum_φ.",
+        "surface": "Phylum Φ.",
+        "df": 1,
+        "score": 20
+      },
+      {
+        "id": "des_ensembles_algorithmiques",
+        "surface": "des ensembles algorithmiques",
+        "df": 1,
+        "score": 20
+      },
+      {
+        "id": "découpe_figurale",
+        "surface": "Découpe figurale",
+        "df": 1,
+        "score": 20
+      },
+      {
+        "id": "/fond_systémique",
+        "surface": "/Fond systémique",
+        "df": 1,
+        "score": 20
+      },
+      {
+        "id": "le_mode_particulier",
+        "surface": "Le mode particulier",
+        "df": 1,
+        "score": 20
+      },
+      {
+        "id": "propositions_machiniques",
+        "surface": "Propositions machiniques",
+        "df": 12,
+        "score": 20
+      },
+      {
+        "id": "enregistrements",
+        "surface": "enregistrements",
+        "df": 1,
+        "score": 20
+      },
+      {
+        "id": "composants",
+        "surface": "composants",
+        "df": 7,
+        "score": 20
+      },
+      {
+        "id": "le_phylum",
+        "surface": "le Phylum",
+        "df": 5,
+        "score": 20
+      },
+      {
+        "id": "composant",
+        "surface": "composant",
+        "df": 4,
+        "score": 20
+      },
+      {
+        "id": "trans-positions",
+        "surface": "trans-positions",
+        "df": 1,
+        "score": 20
+      },
+      {
+        "id": "l'entrée",
+        "surface": "l'entrée",
+        "df": 11,
+        "score": 20
+      },
+      {
+        "id": "une_équivalence",
+        "surface": "une équivalence",
+        "df": 1,
+        "score": 20
+      },
+      {
+        "id": "l'interaction",
+        "surface": "l'interaction",
+        "df": 1,
+        "score": 20
+      },
+      {
+        "id": "variables_potentielles",
+        "surface": "variables potentielles",
+        "df": 1,
+        "score": 20
+      },
+      {
+        "id": "toutes_les_expériences_potentielles",
+        "surface": "toutes les expériences potentielles",
+        "df": 1,
+        "score": 20
+      },
+      {
+        "id": "l'instant",
+        "surface": "l'instant",
+        "df": 8,
+        "score": 20
+      },
+      {
+        "id": "potentialité_matérielle",
+        "surface": "potentialité matérielle",
+        "df": 1,
+        "score": 20
+      },
+      {
+        "id": "moulage",
+        "surface": "moulage",
+        "df": 3,
+        "score": 20
+      },
+      {
+        "id": "énoncativeoccurrences_possiblesφ.u.occurrences",
+        "surface": "énoncativeOccurrences possiblesΦ.U.Occurrences",
+        "df": 1,
+        "score": 20
+      },
+      {
+        "id": "charges_signalétiques",
+        "surface": "charges signalétiques",
+        "df": 1,
+        "score": 20
+      },
+      {
+        "id": "effets_energetiques",
+        "surface": "effets energetiques",
+        "df": 1,
+        "score": 20
+      },
+      {
+        "id": "une_«_vie",
+        "surface": "une « vie",
+        "df": 1,
+        "score": 20
+      },
+      {
+        "id": "la_durée",
+        "surface": "la durée",
+        "df": 3,
+        "score": 20
+      },
+      {
+        "id": "très_hétérôme",
+        "surface": "très hétérôme",
+        "df": 1,
+        "score": 20
+      },
+      {
+        "id": "moïques",
+        "surface": "moïques",
+        "df": 1,
+        "score": 20
+      },
+      {
+        "id": "une_implication_energetique",
+        "surface": "une implication energetique",
+        "df": 1,
+        "score": 20
+      },
+      {
+        "id": "énergies_sémiotiques",
+        "surface": "énergies sémiotiques",
+        "df": 1,
+        "score": 20
+      },
+      {
+        "id": "énergie_matérielle",
+        "surface": "énergie matérielle",
+        "df": 1,
+        "score": 20
+      },
+      {
+        "id": "régions_machiniques",
+        "surface": "régions machiniques",
+        "df": 1,
+        "score": 20
+      },
+      {
+        "id": "uniquement_une_determination_extrinsère",
+        "surface": "uniquement une determination extrinsère",
+        "df": 1,
+        "score": 20
+      },
+      {
+        "id": "les_circonstances",
+        "surface": "les circonstances",
+        "df": 1,
+        "score": 20
+      },
+      {
+        "id": "ou_cette_question",
+        "surface": "ou cette question",
+        "df": 1,
+        "score": 20
+      },
+      {
+        "id": "le_lieu",
+        "surface": "le lieu",
+        "df": 2,
+        "score": 20
+      },
+      {
+        "id": "un_évolutionnisme_machinique",
+        "surface": "un évolutionnisme machinique",
+        "df": 1,
+        "score": 20
+      },
+      {
+        "id": "chaque_machine",
+        "surface": "Chaque machine",
+        "df": 2,
+        "score": 20
+      },
+      {
+        "id": "un_pont",
+        "surface": "un pont",
+        "df": 2,
+        "score": 20
+      },
+      {
+        "id": "l'efficience_diagrammatique_des_matieres_signalétiques",
+        "surface": "l'efficience diagrammatique des matieres signalétiques",
+        "df": 1,
+        "score": 20
+      },
+      {
+        "id": "les_operations",
+        "surface": "les operations",
+        "df": 1,
+        "score": 20
+      },
+      {
+        "id": "efficience",
+        "surface": "efficience",
+        "df": 2,
+        "score": 20
+      },
+      {
+        "id": "l'intégration_machine",
+        "surface": "l'intégration machine",
+        "df": 1,
+        "score": 20
+      },
+      {
+        "id": "la_défaction",
+        "surface": "la défaction",
+        "df": 1,
+        "score": 20
+      },
+      {
+        "id": "un_ex-position",
+        "surface": "un ex-position",
+        "df": 1,
+        "score": 20
+      },
+      {
+        "id": "contour",
+        "surface": "contour",
+        "df": 2,
+        "score": 20
+      },
+      {
+        "id": "la_consistance_expire",
+        "surface": "la consistance expire",
+        "df": 1,
+        "score": 20
+      },
+      {
+        "id": "/néant",
+        "surface": "/Néant",
+        "df": 2,
+        "score": 20
+      },
+      {
+        "id": "l'ontologie_sartienne",
+        "surface": "l'ontologie sartienne",
+        "df": 1,
+        "score": 20
+      },
+      {
+        "id": "la_néantisation",
+        "surface": "la néantisation",
+        "df": 1,
+        "score": 20
+      },
+      {
+        "id": "référence_proto-spatial",
+        "surface": "référence proto-spatial",
+        "df": 1,
+        "score": 20
+      },
+      {
+        "id": "référence_modulaire",
+        "surface": "référence modulaire",
+        "df": 2,
+        "score": 20
+      },
+      {
+        "id": "une_autre_manière",
+        "surface": "une autre manière",
+        "df": 1,
+        "score": 20
+      },
+      {
+        "id": "etre_brut",
+        "surface": "etre brut",
+        "df": 1,
+        "score": 20
+      },
+      {
+        "id": "de_démontage",
+        "surface": "de démontage",
+        "df": 1,
+        "score": 20
+      },
+      {
+        "id": "sa_cohéion",
+        "surface": "Sa cohéion",
+        "df": 1,
+        "score": 20
+      },
+      {
+        "id": "sa_cohéence",
+        "surface": "sa cohéence",
+        "df": 1,
+        "score": 20
+      },
+      {
+        "id": "n'un_principe_interne",
+        "surface": "n'un principe interne",
+        "df": 1,
+        "score": 20
+      },
+      {
+        "id": "d'cadrage",
+        "surface": "d'cadrage",
+        "df": 1,
+        "score": 20
+      },
+      {
+        "id": "causale",
+        "surface": "causale",
+        "df": 1,
+        "score": 20
+      },
+      {
+        "id": "extrinsque",
+        "surface": "extrinsque",
+        "df": 2,
+        "score": 20
+      },
+      {
+        "id": "les_existants",
+        "surface": "les existants",
+        "df": 1,
+        "score": 20
+      },
+      {
+        "id": "à_la_conjugation",
+        "surface": "à la conjugation",
+        "df": 1,
+        "score": 20
+      },
+      {
+        "id": "le_straîge",
+        "surface": "le straîge",
+        "df": 1,
+        "score": 20
+      },
+      {
+        "id": "sélectionnant",
+        "surface": "sélectionnant",
+        "df": 1,
+        "score": 20
+      },
+      {
+        "id": "des_ensembles_relativement_homogènes_d'arrangements_caractérisés_par_des_ralentissements_itératifs_locaux_et_localisants",
+        "surface": "des ensembles relativement homogènes d'arrangements caractérisés par des ralentissements itératifs locaux et localisants",
+        "df": 1,
+        "score": 20
+      },
+      {
+        "id": "les_valeurs",
+        "surface": "les valeurs",
+        "df": 2,
+        "score": 20
+      },
+      {
+        "id": "relèverait",
+        "surface": "relèverait",
+        "df": 1,
+        "score": 20
+      },
+      {
+        "id": "aux_divers_modèles",
+        "surface": "aux divers modèles",
+        "df": 1,
+        "score": 20
+      },
+      {
+        "id": "masquent",
+        "surface": "masquent",
+        "df": 1,
+        "score": 20
+      },
+      {
+        "id": "travissent",
+        "surface": "travissent",
+        "df": 1,
+        "score": 20
+      },
+      {
+        "id": "découptent",
+        "surface": "découptent",
+        "df": 1,
+        "score": 20
+      },
+      {
+        "id": "grundverhältnis",
+        "surface": "Grundverhältnis",
+        "df": 1,
+        "score": 20
+      },
+      {
+        "id": "nos_catégories",
+        "surface": "nos catégories",
+        "df": 1,
+        "score": 20
+      },
+      {
+        "id": "les_cribes",
+        "surface": "Les cribes",
+        "df": 3,
+        "score": 20
+      },
+      {
+        "id": "cribes",
+        "surface": "cribes",
+        "df": 1,
+        "score": 20
+      },
+      {
+        "id": "des_cribes",
+        "surface": "des cribes",
+        "df": 1,
+        "score": 20
+      },
+      {
+        "id": "non_seulement_une_même_concaténation_entitie",
+        "surface": "Non seulement une même concaténation entitie",
+        "df": 1,
+        "score": 20
+      },
+      {
+        "id": "riche",
+        "surface": "riche",
+        "df": 2,
+        "score": 20
+      },
+      {
+        "id": "d'un_état",
+        "surface": "d'un état",
+        "df": 2,
+        "score": 15
+      },
+      {
+        "id": "référéeméta",
+        "surface": "référéeméta",
+        "df": 1,
+        "score": 15
+      },
+      {
+        "id": "référée",
+        "surface": "référée",
+        "df": 1,
+        "score": 15
+      },
+      {
+        "id": "u.t.",
+        "surface": "U.T.",
+        "df": 2,
+        "score": 15
+      },
+      {
+        "id": "l'exo",
+        "surface": "L'exo",
+        "df": 5,
+        "score": 15
+      },
+      {
+        "id": "le_métabolisme",
+        "surface": "le métabolisme",
+        "df": 1,
+        "score": 15
+      },
+      {
+        "id": "toutes_les_mémoires",
+        "surface": "Toutes les mémoires",
+        "df": 1,
+        "score": 15
+      },
+      {
+        "id": "toutes_les_machines",
+        "surface": "Toutes les machines",
+        "df": 2,
+        "score": 15
+      },
+      {
+        "id": "plus-value",
+        "surface": "Plus-value",
+        "df": 1,
+        "score": 15
+      },
+      {
+        "id": "est_un_composant",
+        "surface": "est un composant",
+        "df": 1,
+        "score": 15
+      },
+      {
+        "id": "le_phylum_f._de",
+        "surface": "Le Phylum F. de",
+        "df": 1,
+        "score": 15
+      },
+      {
+        "id": "toutes_les_pro-positions",
+        "surface": "toutes les pro-positions",
+        "df": 1,
+        "score": 15
+      },
+      {
+        "id": "introduire",
+        "surface": "Introduire",
+        "df": 1,
+        "score": 15
+      },
+      {
+        "id": "potentiel_énergétique",
+        "surface": "potentiel énergétique",
+        "df": 2,
+        "score": 15
+      },
+      {
+        "id": "particule",
+        "surface": "particule",
+        "df": 3,
+        "score": 15
+      },
+      {
+        "id": "ces_proto-durées",
+        "surface": "ces proto-durées",
+        "df": 1,
+        "score": 15
+      },
+      {
+        "id": "la_cellule",
+        "surface": "la cellule",
+        "df": 1,
+        "score": 15
+      },
+      {
+        "id": "l'energie_expire",
+        "surface": "L'energie expire",
+        "df": 1,
+        "score": 15
+      },
+      {
+        "id": "l'intégrale",
+        "surface": "l'intégrale",
+        "df": 2,
+        "score": 15
+      },
+      {
+        "id": "qu'à_la_condition",
+        "surface": "qu'à la condition",
+        "df": 1,
+        "score": 15
+      },
+      {
+        "id": "hétéro",
+        "surface": "hétéro",
+        "df": 1,
+        "score": 15
+      },
+      {
+        "id": "genense",
+        "surface": "genense",
+        "df": 1,
+        "score": 15
+      },
+      {
+        "id": "notre_première_appréhension",
+        "surface": "Notre première appréhension",
+        "df": 1,
+        "score": 15
+      },
+      {
+        "id": "la_mécanosphère",
+        "surface": "la mécanosphère",
+        "df": 1,
+        "score": 15
+      },
+      {
+        "id": "des_constellations",
+        "surface": "des Constellations",
+        "df": 1,
+        "score": 15
+      },
+      {
+        "id": "arbre",
+        "surface": "arbre",
+        "df": 2,
+        "score": 15
+      },
+      {
+        "id": "les_mêmes_coordonnées",
+        "surface": "les mêmes coordonnées",
+        "df": 1,
+        "score": 15
+      },
+      {
+        "id": "première_génération",
+        "surface": "première génération",
+        "df": 1,
+        "score": 15
+      },
+      {
+        "id": "cessus",
+        "surface": "cessus",
+        "df": 1,
+        "score": 15
+      },
+      {
+        "id": "cette_traverse",
+        "surface": "cette traverse",
+        "df": 1,
+        "score": 15
+      },
+      {
+        "id": "planétaire",
+        "surface": "planétaire",
+        "df": 1,
+        "score": 15
+      },
+      {
+        "id": "qu'une_seule_machine",
+        "surface": "qu'une seule machine",
+        "df": 1,
+        "score": 15
+      },
+      {
+        "id": "fiction",
+        "surface": "fiction",
+        "df": 1,
+        "score": 15
+      },
+      {
+        "id": "tentative",
+        "surface": "tentative",
+        "df": 1,
+        "score": 15
+      },
+      {
+        "id": "la_dimension_«",
+        "surface": "la dimension «",
+        "df": 1,
+        "score": 15
+      },
+      {
+        "id": "la_détailisation",
+        "surface": "la détailisation",
+        "df": 1,
+        "score": 15
+      },
+      {
+        "id": "demurieu_indisocible",
+        "surface": "demurieu indisocible",
+        "df": 1,
+        "score": 15
+      },
+      {
+        "id": "tenir",
+        "surface": "tenir",
+        "df": 2,
+        "score": 15
+      },
+      {
+        "id": "procède",
+        "surface": "procède",
+        "df": 2,
+        "score": 15
+      },
+      {
+        "id": "devoir",
+        "surface": "devoir",
+        "df": 1,
+        "score": 15
+      },
+      {
+        "id": "mutuellement",
+        "surface": "mutuellement",
+        "df": 2,
+        "score": 15
+      },
+      {
+        "id": "travissant",
+        "surface": "travissant",
+        "df": 1,
+        "score": 15
+      },
+      {
+        "id": "proposions",
+        "surface": "proposions",
+        "df": 1,
+        "score": 15
+      },
+      {
+        "id": "cadran",
+        "surface": "cadran",
+        "df": 4,
+        "score": 10
+      },
+      {
+        "id": "allo",
+        "surface": "ALLO",
+        "df": 2,
+        "score": 10
+      },
+      {
+        "id": "est_une_catégorie",
+        "surface": "EST UNE CATÉGORIE",
+        "df": 1,
+        "score": 10
+      },
+      {
+        "id": "des_plus",
+        "surface": "des plus",
+        "df": 1,
+        "score": 10
+      },
+      {
+        "id": "plus_qu'une_simple_addition",
+        "surface": "plus qu'une simple addition",
+        "df": 1,
+        "score": 10
+      },
+      {
+        "id": "ф.",
+        "surface": "Ф.",
+        "df": 1,
+        "score": 10
+      },
+      {
+        "id": "deux_particules",
+        "surface": "deux particules",
+        "df": 1,
+        "score": 10
+      },
+      {
+        "id": "un_trou_noir_cosmologique",
+        "surface": "un trou noir cosmologique",
+        "df": 1,
+        "score": 10
+      },
+      {
+        "id": "big_bang",
+        "surface": "Big Bang",
+        "df": 1,
+        "score": 10
+      },
+      {
+        "id": "celle",
+        "surface": "Celle",
+        "df": 3,
+        "score": 10
+      },
+      {
+        "id": "le_moindre",
+        "surface": "le moindre",
+        "df": 1,
+        "score": 10
+      },
+      {
+        "id": "outu",
+        "surface": "outu",
+        "df": 1,
+        "score": 10
+      },
+      {
+        "id": "enème_degré",
+        "surface": "enème degré",
+        "df": 1,
+        "score": 10
+      },
+      {
+        "id": "ne_le_puts_*",
+        "surface": "ne le puts *",
+        "df": 1,
+        "score": 10
+      },
+      {
+        "id": "les_u.",
+        "surface": "les U.",
+        "df": 1,
+        "score": 10
+      },
+      {
+        "id": "kuhn",
+        "surface": "Kuhn",
+        "df": 1,
+        "score": 10
+      },
+      {
+        "id": "que_les_autres_étrés_vivants",
+        "surface": "que les autres étrés vivants",
+        "df": 1,
+        "score": 10
+      },
+      {
+        "id": "fur",
+        "surface": "fur",
+        "df": 1,
+        "score": 10
+      },
+      {
+        "id": "la_lime",
+        "surface": "la lime",
+        "df": 1,
+        "score": 10
+      },
+      {
+        "id": "pas_comme_la_science",
+        "surface": "Pas comme la science",
+        "df": 1,
+        "score": 10
+      },
+      {
+        "id": "l'imaginait",
+        "surface": "l'imaginait",
+        "df": 1,
+        "score": 10
+      },
+      {
+        "id": "méga",
+        "surface": "méga",
+        "df": 1,
+        "score": 10
+      },
+      {
+        "id": "la_figure_suivante",
+        "surface": "la figure suivante",
+        "df": 2,
+        "score": 10
+      }
+    ],
+    "highScoredNouns": [
+      {
+        "id": "la_psychose",
+        "surface": "la psychose",
+        "score": 90,
+        "df": 1,
+        "chainCount": 1,
+        "chainSample": [
+          {
+            "page": 26,
+            "neighbors": [
+              "la névrose",
+              "la pervasion",
+              "La tripartition lacanienne",
+              "Réel"
+            ],
+            "chainStart": 781,
+            "chainEnd": 886
+          }
+        ]
+      },
+      {
+        "id": "l'inconciert",
+        "surface": "l'Inconciert",
+        "score": 85,
+        "df": 1,
+        "chainCount": 1,
+        "chainSample": [
+          {
+            "page": 116,
+            "neighbors": [
+              "quadrangleulaire",
+              "une rédefinition",
+              "transformations",
+              "QUATRE ENTITÉS"
+            ],
+            "chainStart": 24,
+            "chainEnd": 131
+          }
+        ]
+      },
+      {
+        "id": "le_symbolique",
+        "surface": "le Symbolique",
+        "score": 85,
+        "df": 1,
+        "chainCount": 1,
+        "chainSample": [
+          {
+            "page": 133,
+            "neighbors": [
+              "imaginaire",
+              "la triade",
+              "l' evidence",
+              "son entrécime thrombale"
+            ],
+            "chainStart": 1065,
+            "chainEnd": 1182
+          }
+        ]
+      },
+      {
+        "id": "un_manque",
+        "surface": "un manque",
+        "score": 85,
+        "df": 2,
+        "chainCount": 3,
+        "chainSample": [
+          {
+            "page": 44,
+            "neighbors": [
+              "déterritorialisation",
+              "Donne demeure",
+              "éculturation",
+              "Agencements"
+            ],
+            "chainStart": 300,
+            "chainEnd": 390
+          },
+          {
+            "page": 117,
+            "neighbors": [
+              "d'énoncion",
+              "un espace",
+              "cette «",
+              "spatiale"
+            ],
+            "chainStart": 181,
+            "chainEnd": 191
+          }
+        ]
+      },
+      {
+        "id": "structures",
+        "surface": "structures",
+        "score": 85,
+        "df": 8,
+        "chainCount": 10,
+        "chainSample": [
+          {
+            "page": 8,
+            "neighbors": [
+              "une insertion rigide",
+              "sein",
+              "des fonctions",
+              "étatiques"
+            ],
+            "chainStart": 1088,
+            "chainEnd": 1158
+          },
+          {
+            "page": 31,
+            "neighbors": [
+              "l'ensemble",
+              "singularités",
+              "intrinsèques"
+            ],
+            "chainStart": 109,
+            "chainEnd": 175
+          }
+        ]
+      },
+      {
+        "id": "transfert",
+        "surface": "transfert",
+        "score": 85,
+        "df": 13,
+        "chainCount": 14,
+        "chainSample": [
+          {
+            "page": 10,
+            "neighbors": [
+              "méta-modélisation",
+              "la perspective",
+              "modé",
+              "non plus objection"
+            ],
+            "chainStart": 818,
+            "chainEnd": 888
+          },
+          {
+            "page": 10,
+            "neighbors": [
+              "méta-modélisation",
+              "la perspective",
+              "modé",
+              "non plus objection"
+            ],
+            "chainStart": 47,
+            "chainEnd": 65
+          }
+        ]
+      },
+      {
+        "id": "réel",
+        "surface": "Réel",
+        "score": 85,
+        "df": 10,
+        "chainCount": 13,
+        "chainSample": [
+          {
+            "page": 14,
+            "neighbors": [
+              "un ordre symbolique",
+              "armature",
+              "de l'Imaginaire",
+              "Cartographies schizoanalytiques"
+            ],
+            "chainStart": 299,
+            "chainEnd": 361
+          },
+          {
+            "page": 14,
+            "neighbors": [
+              "un ordre symbolique",
+              "armature",
+              "de l'Imaginaire",
+              "Cartographies schizoanalytiques"
+            ],
+            "chainStart": 3,
+            "chainEnd": 34
+          }
+        ]
+      },
+      {
+        "id": "une_psychose",
+        "surface": "une psychose",
+        "score": 85,
+        "df": 1,
+        "chainCount": 1,
+        "chainSample": [
+          {
+            "page": 67,
+            "neighbors": [
+              "les composantes disjonctrices",
+              "exemple",
+              "les espaces",
+              "apparment"
+            ],
+            "chainStart": 729,
+            "chainEnd": 814
+          }
+        ]
+      },
+      {
+        "id": "la_psychanalyse_lacanienne",
+        "surface": "La psychanalyse lacanienne",
+        "score": 85,
+        "df": 1,
+        "chainCount": 1,
+        "chainSample": [
+          {
+            "page": 97,
+            "neighbors": [
+              "présumées",
+              "des structures vécues",
+              "son côté",
+              "avait"
+            ],
+            "chainStart": 607,
+            "chainEnd": 687
+          }
+        ]
+      },
+      {
+        "id": "une_interprétation",
+        "surface": "une interprétation",
+        "score": 80,
+        "df": 1,
+        "chainCount": 1,
+        "chainSample": [
+          {
+            "page": 114,
+            "neighbors": [
+              "les distorsions significantes",
+              "rêve",
+              "profonds",
+              "machinique"
+            ],
+            "chainStart": 661,
+            "chainEnd": 789
+          }
+        ]
+      },
+      {
+        "id": "la_trame_structurelle",
+        "surface": "la trame structurelle",
+        "score": 80,
+        "df": 1,
+        "chainCount": 1,
+        "chainSample": [
+          {
+            "page": 126,
+            "neighbors": [
+              "compte",
+              "que ses effractions",
+              "processus semantico",
+              "syntaxiques"
+            ],
+            "chainStart": 1270,
+            "chainEnd": 1359
+          }
+        ]
+      },
+      {
+        "id": "l'interprétation",
+        "surface": "l'interprétation",
+        "score": 80,
+        "df": 1,
+        "chainCount": 1,
+        "chainSample": [
+          {
+            "page": 130,
+            "neighbors": [
+              "ces conditions",
+              "l'analyse",
+              "fantasies",
+              "le déplacement"
+            ],
+            "chainStart": 2220,
+            "chainEnd": 2315
+          }
+        ]
+      },
+      {
+        "id": "splitting",
+        "surface": "splitting",
+        "score": 80,
+        "df": 2,
+        "chainCount": 2,
+        "chainSample": [
+          {
+            "page": 12,
+            "neighbors": [
+              "L'Agencement",
+              "des processus",
+              "catastrophes",
+              "la matière analytique"
+            ],
+            "chainStart": 70,
+            "chainEnd": 198
+          },
+          {
+            "page": 165,
+            "neighbors": [
+              "dualisme",
+              "pulsions",
+              "Moi",
+              "la coupure symbolique"
+            ],
+            "chainStart": 76,
+            "chainEnd": 148
+          }
+        ]
+      },
+      {
+        "id": "des_structures",
+        "surface": "des structures",
+        "score": 80,
+        "df": 5,
+        "chainCount": 5,
+        "chainSample": [
+          {
+            "page": 6,
+            "neighbors": [
+              "reterritorialisation",
+              "activités humaines",
+              "les processus machiniques",
+              "Despote"
+            ],
+            "chainStart": 438,
+            "chainEnd": 585
+          },
+          {
+            "page": 11,
+            "neighbors": [
+              "des systèmes",
+              "énoncements",
+              "des Agencements",
+              "enoncipation capables"
+            ],
+            "chainStart": 106,
+            "chainEnd": 218
+          }
+        ]
+      },
+      {
+        "id": "résistance",
+        "surface": "résistance",
+        "score": 80,
+        "df": 2,
+        "chainCount": 2,
+        "chainSample": [
+          {
+            "page": 11,
+            "neighbors": [
+              "torchon",
+              "une poche",
+              "une perspective analytique",
+              "compte"
+            ],
+            "chainStart": 705,
+            "chainEnd": 806
+          },
+          {
+            "page": 118,
+            "neighbors": [
+              "un premier temps",
+              "c'est",
+              "faitrait",
+              "garder"
+            ],
+            "chainStart": 388,
+            "chainEnd": 473
+          }
+        ]
+      },
+      {
+        "id": "un_ordre_symbolique",
+        "surface": "un ordre symbolique",
+        "score": 80,
+        "df": 1,
+        "chainCount": 1,
+        "chainSample": [
+          {
+            "page": 14,
+            "neighbors": [
+              "ses annexes",
+              "ou bien Lacan",
+              "armature",
+              "Réel"
+            ],
+            "chainStart": 262,
+            "chainEnd": 342
+          }
+        ]
+      },
+      {
+        "id": "interpretation",
+        "surface": "interpretation",
+        "score": 80,
+        "df": 2,
+        "chainCount": 2,
+        "chainSample": [
+          {
+            "page": 15,
+            "neighbors": [
+              "tessiture",
+              "ses compétences",
+              "La chant",
+              "cette femme"
+            ],
+            "chainStart": 0,
+            "chainEnd": 127
+          },
+          {
+            "page": 168,
+            "neighbors": [
+              "toute leur vanité",
+              "tentatives",
+              "une œuvre",
+              "Balthus"
+            ],
+            "chainStart": 374,
+            "chainEnd": 460
+          }
+        ]
+      },
+      {
+        "id": "le_réel",
+        "surface": "le réel",
+        "score": 80,
+        "df": 7,
+        "chainCount": 8,
+        "chainSample": [
+          {
+            "page": 15,
+            "neighbors": [
+              "situations concretes",
+              "Les références les plus abstraites",
+              "les traversen",
+              "les Flux"
+            ],
+            "chainStart": 261,
+            "chainEnd": 404
+          },
+          {
+            "page": 17,
+            "neighbors": [
+              "le virtuel",
+              "le possible",
+              "croisement",
+              "Les cartographies analytiques"
+            ],
+            "chainStart": 863,
+            "chainEnd": 917
+          }
+        ]
+      },
+      {
+        "id": "lacan",
+        "surface": "Lacan",
+        "score": 80,
+        "df": 4,
+        "chainCount": 4,
+        "chainSample": [
+          {
+            "page": 15,
+            "neighbors": [
+              "la libido",
+              "ce propos",
+              "ce concept",
+              "libido"
+            ],
+            "chainStart": 609,
+            "chainEnd": 745
+          },
+          {
+            "page": 33,
+            "neighbors": [
+              "premiers",
+              "écrites",
+              "distance",
+              "la metapyschologie freudienne"
+            ],
+            "chainStart": 14,
+            "chainEnd": 90
+          }
+        ]
+      },
+      {
+        "id": "interprétation",
+        "surface": "interprétation",
+        "score": 80,
+        "df": 2,
+        "chainCount": 2,
+        "chainSample": [
+          {
+            "page": 15,
+            "neighbors": [
+              "nouveaux symptômes",
+              "transfert",
+              "Soit",
+              "les couleurs"
+            ],
+            "chainStart": 91,
+            "chainEnd": 186
+          },
+          {
+            "page": 130,
+            "neighbors": [
+              "énoncération",
+              "Ses techniques",
+              "ses interventions",
+              "les ritournelles oniques et psychopathologiques"
+            ],
+            "chainStart": 543,
+            "chainEnd": 659
+          }
+        ]
+      },
+      {
+        "id": "la_tripartition_lacanienne",
+        "surface": "La tripartition lacanienne",
+        "score": 80,
+        "df": 1,
+        "chainCount": 1,
+        "chainSample": [
+          {
+            "page": 26,
+            "neighbors": [
+              "la pervasion",
+              "la psychose",
+              "Réel",
+              "du Symbolique"
+            ],
+            "chainStart": 796,
+            "chainEnd": 920
+          }
+        ]
+      },
+      {
+        "id": "du_symbolique",
+        "surface": "du Symbolique",
+        "score": 80,
+        "df": 1,
+        "chainCount": 1,
+        "chainSample": [
+          {
+            "page": 26,
+            "neighbors": [
+              "La tripartition lacanienne",
+              "Réel",
+              "les choses",
+              "ce point"
+            ],
+            "chainStart": 852,
+            "chainEnd": 971
+          }
+        ]
+      },
+      {
+        "id": "la_cure",
+        "surface": "la cure",
+        "score": 80,
+        "df": 2,
+        "chainCount": 2,
+        "chainSample": [
+          {
+            "page": 28,
+            "neighbors": [
+              "affranchissement",
+              "dispositif",
+              "séances",
+              "transfert"
+            ],
+            "chainStart": 30,
+            "chainEnd": 140
+          },
+          {
+            "page": 33,
+            "neighbors": [
+              "2) des manifestations",
+              "l'espace étièle",
+              "La schizoanalyse",
+              "contraire"
+            ],
+            "chainStart": 233,
+            "chainEnd": 363
+          }
+        ]
+      },
+      {
+        "id": "les_structures",
+        "surface": "les structures",
+        "score": 80,
+        "df": 5,
+        "chainCount": 6,
+        "chainSample": [
+          {
+            "page": 31,
+            "neighbors": [
+              "la donné",
+              "systéme",
+              "expression",
+              "observatrices"
+            ],
+            "chainStart": 374,
+            "chainEnd": 436
+          },
+          {
+            "page": 35,
+            "neighbors": [
+              "deux configurations",
+              "les Systems",
+              "déterritorialisation extrinsèque"
+            ],
+            "chainStart": 575,
+            "chainEnd": 722
+          }
+        ]
+      },
+      {
+        "id": "un_délire",
+        "surface": "un délire",
+        "score": 80,
+        "df": 1,
+        "chainCount": 3,
+        "chainSample": [
+          {
+            "page": 68,
+            "neighbors": [
+              "vérité",
+              "recéler",
+              "LES PROCESSUS PROTO-ÉNONCIATIFS",
+              "la combination"
+            ],
+            "chainStart": 52,
+            "chainEnd": 85
+          },
+          {
+            "page": 68,
+            "neighbors": [
+              "vérité",
+              "recéler",
+              "LES PROCESSUS PROTO-ÉNONCIATIFS",
+              "la combination"
+            ],
+            "chainStart": 3,
+            "chainEnd": 34
+          }
+        ]
+      },
+      {
+        "id": "structural",
+        "surface": "structural",
+        "score": 80,
+        "df": 1,
+        "chainCount": 1,
+        "chainSample": [
+          {
+            "page": 97,
+            "neighbors": [
+              "causes complexuelles",
+              "cachées",
+              "lieu",
+              "leur rôle essentiel"
+            ],
+            "chainStart": 948,
+            "chainEnd": 1051
+          }
+        ]
+      },
+      {
+        "id": "la_schizophrenie",
+        "surface": "la schizophrenie",
+        "score": 80,
+        "df": 1,
+        "chainCount": 1,
+        "chainSample": [
+          {
+            "page": 112,
+            "neighbors": [
+              "exemple",
+              "reconnaître",
+              "résultat",
+              "une deduction cognitive"
+            ],
+            "chainStart": 76,
+            "chainEnd": 166
+          }
+        ]
+      }
+    ],
+    "mergedTopologyIntervals": [
+      {
+        "chunkKey": "h1.cQA2AnHUJl7swMTsItqkmKIpGbbT86veebZ2gUVzXyLBvt66QqWHFnpHs-kTQFH6ArAqFD7GbBrDx7tFmTbIjAl3-BRgb1owB-wvtaJCupv2G_XjdQb2rasjKlfMASa_gVhfFHNV1Tg4PS-lVpU",
+        "chainStart": 11,
+        "chainEnd": 111,
+        "page": 26
+      },
+      {
+        "chunkKey": "h1.cQA2AnHUJl7swMTsItqkmKIpGbbT86veebZ2gUVzXyLBvt66QqWHFnpHs-kTQFH6ArAqFD7GbBrDx7tFmTbIjAl3-BRgb1owB-wvtaJCupv2G_XjdQb2rasjKlfMASa_gVhfFHNV1Tg4PS-lVpU",
+        "chainStart": 781,
+        "chainEnd": 971,
+        "page": 26
+      },
+      {
+        "chunkKey": "h1.q57OfaI3YxHwL8HjYtoiIqcrLE0t8VJIoCtB7cTb-vWtBnoSTSGV06knQLK8zUM0shtSNXH-GZ3BzYjvPksNuyjSqHUCKVtcd5qGRRETtSyEDV0JDR9jV3ydcvmDSWQJpGJV8pIdFWqX34ZuJLjS",
+        "chainStart": 24,
+        "chainEnd": 131,
+        "page": 116
+      },
+      {
+        "chunkKey": "h1.XUYkmrGN8YoozfcV78VMq6yQ8PwHjBV9jxiopGN4JGXlzKODtP1UrDYuwTJ7EQ9EFR6mh_myzjYH3cSezQ1TXRmOKJWrYWlP6QafA6lI0LrQVFWLvBaXHgNlpaRwTSLSkbvRCFafB063ApbMqcwn",
+        "chainStart": 1000,
+        "chainEnd": 1182,
+        "page": 133
+      },
+      {
+        "chunkKey": "h1.tOhwxczCzcCQEf02KaFxqbCYXUpd5bPLpYuW3tUH3ISKpVPkl04EW2H5_Fh2EPyJEWoiKtVSgnPflyGgI_5a8jzCt0z_kVUJo5Tm4UZzB7kv_CMKJv4oogM0oymmWfpEQeH7hlvJHiYqmwJkX4Yd",
+        "chainStart": 300,
+        "chainEnd": 390,
+        "page": 44
+      },
+      {
+        "chunkKey": "h1.eJMf4hC2SHIQkGYDXe-S_lQ3233zXbnm4qDBgm-x55ferwZZjBbYv_QToVBqpNDTk-e9X8sF58TKYQHu8TbrcceQQUUH0kbLiOE9ctiFQkaR89xLOsHFGuvvOS2SRTupqleeA6NAo8r7LyDtDZWt",
+        "chainStart": 181,
+        "chainEnd": 191,
+        "page": 117
+      },
+      {
+        "chunkKey": "h1.hCZN2S-LlImYjsK-4NSZY6eoBw4u-S0ewKpfTOtXMhT9e0j93MgHA1bBjP6jwEcaeTYMJqT2N49vRegquZUFm3k4dmnMJ-iZ8LlgpO9Jv258tX1X7v-qH_pQYBV8GELp2eU07yKrchpyBEzdCNK-",
+        "chainStart": 13,
+        "chainEnd": 73,
+        "page": 117
+      },
+      {
+        "chunkKey": "h1.8KhozNQi1SLT0iPH8eqo7TtrHXa7LWZNCJw4k_bbwrvWyRpUHFPY8INJc7JAyeQ6Ul8De3J7ZG9o3S_N0knEYujZ9PAJNG33F_g_6wu1EM9z5dLd_GvhAtsihvhopAeum1p2hcnvn2whSWOAbw",
+        "chainStart": 1088,
+        "chainEnd": 1158,
+        "page": 8
+      },
+      {
+        "chunkKey": "h1.SilbcOgymRkj43hBU3Cb-wxim9btlJiFLMPIGq82AN1YEHCwYNmap4WSdYtikRJJMarsSUwq4jbrc_W-4MHuhoOFA-Q425pXCBAWsfDBdJGKkKwH6ckodBnH4iSbzB_RzT2yuoMAcVoJoBt5vVk",
+        "chainStart": 109,
+        "chainEnd": 175,
+        "page": 31
+      },
+      {
+        "chunkKey": "h1.fm2I79DuZdwjjd6pjF_xYIUqMERW6gwtVHxbI93wUwOOmTA2aLCaIkKeRL4UR6L3yGgWsW938Jz8Na1ULNPsmCRIpOhJDEjKsns0SM3HYksK2Xh95nrTzVxSsQgY-jbyEKHu-qH9Tq0gGgTJR4M",
+        "chainStart": 7,
+        "chainEnd": 55,
+        "page": 40
+      },
+      {
+        "chunkKey": "h1.I3cYujBk6SsT_4uvWNsAhWL95v-ej_cvNCPRIC2Xp1sC32kRN0Ucpzzln9nf7NjbOmvCRL80GsmRq2CMSMMUDXcjW4a30hRGJFAmcnyZOQ7XbPGUZeVAQhtE0F-PUlQtrE2ZOU657K28k1XOICw",
+        "chainStart": 3,
+        "chainEnd": 51,
+        "page": 40
+      },
+      {
+        "chunkKey": "h1.gwciPo77HidkQ2ZpQYpeOEm30-ml3BE-mjYf4crpk9PxeZUmChC9zZH21g_1w-CnjE4hhXdQEqcb71sncrpQn0YHIaM2Jjtu1RRxKf0BGWpjpRnRYxhzUPZQclv61SZ5s-nkrfFkeXHaXWKcRpk",
+        "chainStart": 23,
+        "chainEnd": 79,
+        "page": 41
+      },
+      {
+        "chunkKey": "h1.isGAPzR_EFyhC9t5pgZzasISGlPQ9U2hcI8g9vL72bZ2ocqVsY6BSbGuJOY0nUTerQgUZC-qiTWKfGRiqpCA_0U1g0CmG70rDT44zlOobrkWAchm_R5I2joAYFi7IMREDETWuKvHAZ_PprSXZ5s",
+        "chainStart": 4,
+        "chainEnd": 14,
+        "page": 41
+      },
+      {
+        "chunkKey": "h1.5ALt5Pl-7mVHICV0A-d5Ks1EHq_UAnJhZlb1dNBn2c_klThctZvjINShAN_Onxf0o4QGXH5S5RglZxE6a4MllV511Itkj4BY99q9q3aX3HGjFTSeEwr3hT1v3BTV_o3tFcz8Tm3ViMYK2mZfg3X5",
+        "chainStart": 344,
+        "chainEnd": 413,
+        "page": 41
+      },
+      {
+        "chunkKey": "h1.mDnlcnFqbTNBiYjXnufshzgiO5wzgk7eUpJcGf4hScEJJENIJDagVg7bLzlJcFw9T73Uzw-FjILIAsulihSwaWP-elV0kmhPbRVbcg59NmaJJGfgSpMVsFxg-_D3KstwuVO36rkm4T7xjkt631nk",
+        "chainStart": 761,
+        "chainEnd": 855,
+        "page": 108
+      },
+      {
+        "chunkKey": "h1._aWkTrBLMCeZ2YSPvlNOtuK3GSkzIj6t15uanS6p8f8hUGGfb2wj369ASvLr-tTjKJOKm1BMkMKgnukJzrXPDOmdfWUxP6R0QNVtjkF55YcK_94KDMZZ1rFj8K0BF75KshkDW_XUkZZHjckJNlYr",
+        "chainStart": 416,
+        "chainEnd": 498,
+        "page": 163
+      },
+      {
+        "chunkKey": "h1.UyMQ6IoimHTbZ6DZMJHRBoWBsend-GeXnspsh1ZvTmGLLyRe-MwMOoEcSw27dzv4vFSTLwKLsjNJpRuzIJGQhErZmsyqPEpph1u0vCqZM8a9seYOvguVxGAT7pcWr8rPmcKsbwApT5j-SgAjOrOi",
+        "chainStart": 648,
+        "chainEnd": 731,
+        "page": 171
+      },
+      {
+        "chunkKey": "h1.DZg0TC-LzN14DKky1oxQmDM5R5boVV7paI0Yo8YMG0RwDciEbVToReIudeG4d1u7kDuWUfGpxhLU0XZLZtEkm4uQBa0Jfh7_nzZ7z5Xb1M91jKO950LhSfu9VZOur-UjLnczFHX9hcegXRzCPSg",
+        "chainStart": 818,
+        "chainEnd": 888,
+        "page": 10
+      },
+      {
+        "chunkKey": "h1.j8JZzkSiSEOdmBsJ1rPEIAb3EGcFsDXen4L8MkaIGiV1fRVgo_1chPc5uWSdalOYY-siqWNH6ca3-x9H_GfQ3CuyYESG-b8A2UySIOa-Sdt94HsPxHnoRGF4EdHlZhKDaY4eMB7Fff0ueft-iQc",
+        "chainStart": 47,
+        "chainEnd": 65,
+        "page": 10
+      },
+      {
+        "chunkKey": "h1.1oHUB_6fTmotkP3pGAJGmQ8Hz5zeSQcXYCsY6YfCiR2Imu494js3pZmntk-UvwytDQzqnLvZMAby8Dc_WCsnKU2xHcHi659__mhpRK5pNaUaRyvU-x_T0cPBmQSNIIEz_CGMt1CLdoKcUF0Ja78",
+        "chainStart": 80,
+        "chainEnd": 186,
+        "page": 15
+      },
+      {
+        "chunkKey": "h1.1jGeVQE3jXzSXtrZbvbo1jPEPZD9awEeZHPyTmPQnHd8R_5AXpYs6TUo3dspyYGkEkmIRGvHuWCBmo2K4j9CiPCrNqqD9sYTo7YbF3wQRnyn505b1Fcv-EW1u2YkAf7RxAfwlQsxT_ESaNMfGHM",
+        "chainStart": 30,
+        "chainEnd": 173,
+        "page": 28
+      },
+      {
+        "chunkKey": "h1.Q7ATjQAKn2Y9JuFg-Q52-aONe2n1V03M-qgSBWwZvmquxxtEDCNqeLZj0bT-Kny2ZTxlYDJW_-jf27uGGNpIXVae5U3miqx6ZMqHap-1NSPz3UPxpqKbBEXoSrXXcsYLBOzpxwllTL8SbtYOa_A",
+        "chainStart": 366,
+        "chainEnd": 486,
+        "page": 61
+      },
+      {
+        "chunkKey": "h1.j4Vb6qK1XQ3tbAKq1HGwViTDWXZRJtDSPUYMhiURJOh7XYVkxs7ytFgF8auZfPPEkTmcmmTNBAaEDqultsWTu7G_R6UNY7YQyUPK_DK-idlDZ0aV6tgo3FIasqMR1Clv-0DYcQANYQOLXz4FMa4",
+        "chainStart": 103,
+        "chainEnd": 225,
+        "page": 62
+      },
+      {
+        "chunkKey": "h1.bYX5oFsITyS6QFMpOjSAtgsRrqF5eqmO5YCXsfPoHBAgOpjf9E7Ea7cHRwn70Gp0khMzD7TJgsS4hL2mHte9lIqx-6FMv6HUswSXLzZTrXIg_CyWJTS0y0IyuKm1LPEgJm6_gKzklCgSZw6XJkA",
+        "chainStart": 1764,
+        "chainEnd": 1839,
+        "page": 93
+      },
+      {
+        "chunkKey": "h1.gRYJ9w815_jt0sfmfYuvA994fAa6gu7lJDtQt3xvypHhFBIZ_t30f09KntFZrZSYFDilG2LLuCuNUSOQJAzT8NtONYfGVWpb5nh3dt-00fUHinLLxGSJILp7VxpBpnEsgmY2JVYdmP937ZLSH5bZ",
+        "chainStart": 111,
+        "chainEnd": 230,
+        "page": 101
+      },
+      {
+        "chunkKey": "h1.gRYJ9w815_jt0sfmfYuvA994fAa6gu7lJDtQt3xvypHhFBIZ_t30f09KntFZrZSYFDilG2LLuCuNUSOQJAzT8NtONYfGVWpb5nh3dt-00fUHinLLxGSJILp7VxpBpnEsgmY2JVYdmP937ZLSH5bZ",
+        "chainStart": 478,
+        "chainEnd": 586,
+        "page": 101
+      },
+      {
+        "chunkKey": "h1.i6K28vA-z3I0DZFjiMJCEwwPU8e-2HuNwF7yQwSwHXFki9jUVWhWIl1f_0MGqCoDC0WAclF5rQNm7GYvrUZmNMD5bZrQEb5_WtSnF4fgX0LIKt2yuq3MbVh-MBlzbUvEhdf-YAtbSjOrCrMGyilE",
+        "chainStart": 598,
+        "chainEnd": 707,
+        "page": 110
+      },
+      {
+        "chunkKey": "h1.UvennjG_6W-4XN05O2fCIq7u4Mm5J8vx3h-p9Fr6CZ1lEwLYbqNU66eFR3ZEF5WXdxHmsxfOffHV0jak5xmYSLLagYqHpztRCjo8q0C0hjCsmqnDv1fsLPIbOc-1_frMgBaLdKGkGc5pbw-orXNM",
+        "chainStart": 90,
+        "chainEnd": 180,
+        "page": 145
+      },
+      {
+        "chunkKey": "h1.ltGEAmz3MsdC73jVrz1D_uCjDS0brBMBpNDj-gB_7M29OQFECC1pdV7UPLQm2PI8sIf3gQ5y16mlzZ8vYJ-U7GXFJtnksxgeF3cOvDnE8n0xRP420CEj_t3Mq2CIEyMTTawfYb44uSrdtpgWGnHA",
+        "chainStart": 1391,
+        "chainEnd": 1538,
+        "page": 160
+      },
+      {
+        "chunkKey": "h1.CW6X6grNvhDkyODMeoSoOfDu58uNwF56nMUCaR0uixeuzffH4mBN5ZZAMIQLyyZPpZYsqYapzx165WYoYe8_9BxqGFBjHYHbGPXNykX62VGeX9VFGfbRbxQhkaWpTaj9dW9iJRonaGp2JSZGTIQ",
+        "chainStart": 262,
+        "chainEnd": 361,
+        "page": 14
+      },
+      {
+        "chunkKey": "h1.G_BHx9bCxas8gNhigNYD5mSflHBqpXj22BskxAKNVDWWzoXWigip47YdzuFbdNGq7bihnUHU65Yp4RnEEzFeMaZl8zfK3da5IF9xGyxFemeXFxjIhVQVHi3w-Fa71SI7TgvsF2qrCdLmAalrLz0",
+        "chainStart": 3,
+        "chainEnd": 34,
+        "page": 14
+      },
+      {
+        "chunkKey": "h1.9f43Z46WmlICSbL_boD6_GIX2XzzKqIo55QDdicADJXe5-_0U4L3cBgoOAjYf3jXnc9TOzAqI6KnVwbTTCn8zYcQc6cbEBA05Zt-DMU_uKBe26KGpiotgXq27qz_ulIeLAxqIlDgH13O9zHsAXbV",
+        "chainStart": 69,
+        "chainEnd": 139,
+        "page": 17
+      },
+      {
+        "chunkKey": "h1.CmqDcgFoCeURMWYwxjNKf8PBHUkfv253apFBx7ijjOGNXdMzW6WbCHCNLZx5VCzxilORsIf4I_UgQr5O7zxztW1m4QHhhKV-TyuHrvePzRv9tSfzErPlGK1SyvLRc241L0Ohl87VZsjq2kvgJxZx",
+        "chainStart": 24,
+        "chainEnd": 50,
+        "page": 17
+      },
+      {
+        "chunkKey": "h1.fq-jQhSEbwl6v7zFypnUF8GYNTDJnPGQLoanCtoMCOXAU_jZGQZaUosXEPiTGHZnOZJ2yA-vykbDavbuWBPCkf6CQx-av7O5Z0l-YG05faYaQ6DOr3vAPfPl_z9xV6jggOYsXr_1MxEg1kGxzG4",
+        "chainStart": 10,
+        "chainEnd": 34,
+        "page": 45
+      },
+      {
+        "chunkKey": "h1.G0XnYe6o0tF8TOQJn7kH4NsTYHZUyRE60mxJOOOrUYMXRnQddcdGBCF2ud30zbbYECm7VkoCJmaaR9HRjTmL8H6viN_NKAM_PrELiqv5YTCwgpnfIgd9dBsAEPGofuGBuf-gh2sLZznKZSL971k",
+        "chainStart": 0,
+        "chainEnd": 85,
+        "page": 45
+      },
+      {
+        "chunkKey": "h1.TPRT-iasgK-bYxmNa2Y8pBIQcTB6-sZnYQ3zqkCrzmhs7rxPZvWJjrs3v84dcN8mZWzH6FDRpexB5r-WbOfzznPcEj2J40bC3lvtk5h9WIH9Rf_wD8H_XZwSo71rMnqTCBbjSGcQwaNe8Ugh1iw",
+        "chainStart": 49,
+        "chainEnd": 159,
+        "page": 56
+      },
+      {
+        "chunkKey": "h1.TPRT-iasgK-bYxmNa2Y8pBIQcTB6-sZnYQ3zqkCrzmhs7rxPZvWJjrs3v84dcN8mZWzH6FDRpexB5r-WbOfzznPcEj2J40bC3lvtk5h9WIH9Rf_wD8H_XZwSo71rMnqTCBbjSGcQwaNe8Ugh1iw",
+        "chainStart": 522,
+        "chainEnd": 674,
+        "page": 56
+      },
+      {
+        "chunkKey": "h1.lL79SWjTZlDHyWkBbjFfZPsW276Kjci6eP5-SyMEGpKj31Bo7svQuQ3Awll_yjoX0iQNfPVKdemq_t2jXPCPBuPw8J16HVbvNbAZDzNK35kDs_IlsGjsZxK7DU7o0LaTVEOPQyz25eG7D04A9Ldj",
+        "chainStart": 2038,
+        "chainEnd": 2115,
+        "page": 135
+      },
+      {
+        "chunkKey": "h1.iB-IeVQak086p3h5mRRBC6eRTezGAgUzBoEcVwly4QJCeaCAcZiUSH4yfHkXSYLGVCDMxJKthDusjiLrLLTzfiCMyLJ1firV2oC0dAjH-65TRRXEeISEW78jmmt_sreiv95cFyRavrhPQSs0YBBs",
+        "chainStart": 197,
+        "chainEnd": 255,
+        "page": 136
+      },
+      {
+        "chunkKey": "h1.cGmU2on2_h7G4LY4OENpZev0JEK4-ZqOU3b3TBmwAglOAPDERAKBF9Pch63kdbiZie38TXnRfTcWrtwZqEcfhQLqX2HCfvrdQggNYIfA7kGhsivmrpvnN30UggTSIizYYctIhCW7cruVJ2mI-GI",
+        "chainStart": 729,
+        "chainEnd": 814,
+        "page": 67
+      },
+      {
+        "chunkKey": "h1.o5LU2R7mEdy-Zdwxb23308ZTbn6FL0bY3W2JB3eKm1lnhjlkIkCBH2Hlcd48t3eo5Y78IShmNt2BQZv_OnB5f3psdpd53KqNx2l4yrsg2B-yOOW6_EmGd56jjuWgJtER0OUlp2cOOR4cQggM1rU",
+        "chainStart": 607,
+        "chainEnd": 687,
+        "page": 97
+      },
+      {
+        "chunkKey": "h1.hXnPkgPGJi-0K49yarGXWEsF6Ykz1vW8g5dnh6jGN1tpIRIbJCJTxrToZsPSGbffb0J6Jjq155SrL6FEPTiBhXJekPYembBJAEB5HX3bjIuKIAfPymF2WNtaEbEWWI5oCKMUkFBfSAdObECPqV7B",
+        "chainStart": 661,
+        "chainEnd": 789,
+        "page": 114
+      },
+      {
+        "chunkKey": "h1.uzA99Fo2gldXyXf4YXgODQJzLMlYqjUb25r6wjTcrhYIY0FxbceoJ8iRWybuJ_-YkSbtgfeInizLUaFdaacl71L9E4fmiD4Uo8q7OsUWxGtHjDpwSceN_6oN0v7a1dJQsSwLR1272hqCUh4nlCgV",
+        "chainStart": 1270,
+        "chainEnd": 1359,
+        "page": 126
+      },
+      {
+        "chunkKey": "h1.GhGfBpguYOKrfBk2sVJ48Amz8h9GzvrQNdw-pxa0lWqSRHZFT6tSkQl1DClQcEvzAT5aJlxpHoeYySovTYr5WT560_A6RDTfPoWpx0LAonNFdwMcWGGiBCqV3XIE74dZE9v4NUT289ZS0rF0l13F",
+        "chainStart": 543,
+        "chainEnd": 659,
+        "page": 130
+      },
+      {
+        "chunkKey": "h1.GhGfBpguYOKrfBk2sVJ48Amz8h9GzvrQNdw-pxa0lWqSRHZFT6tSkQl1DClQcEvzAT5aJlxpHoeYySovTYr5WT560_A6RDTfPoWpx0LAonNFdwMcWGGiBCqV3XIE74dZE9v4NUT289ZS0rF0l13F",
+        "chainStart": 2220,
+        "chainEnd": 2315,
+        "page": 130
+      },
+      {
+        "chunkKey": "h1.l_-Ir38WOsOUNl-gRDjWZVZ5RglybhUDK55YOLqXGQqp6EDWhwmc66EPPCAw4yBeD96ogYCw_lQx8PEV8-tT_5TKEdW0Yb67EmEEMChg0zZxEecIM2e_IVtycCwaD0pkVGva14J0FZ_rUpngHZc",
+        "chainStart": 70,
+        "chainEnd": 198,
+        "page": 12
+      },
+      {
+        "chunkKey": "h1.BSjmv6m37WxXvTtvXw948_ay1cPE6XmRcnXrf--6ag0Iwi2OHr7bMYHPNZ9RckIhlV55Q0E04R3bAueMhIbZQlp4E4lpBol7urvRLG5W2D0oJch2brLmT6XH3LALmh7UpIbSnDsDQFBM2CvhUhRW",
+        "chainStart": 76,
+        "chainEnd": 148,
+        "page": 165
+      },
+      {
+        "chunkKey": "h1.JwTaWZabVbbi5gQ9ND3daiz0mBtsv77r-F31tg4295pXlQX_DOacwjZDbeSBVtXtMT-1fcNpf_r3hPrjyJ_anZxy0SWLo7BsOSXDYQKYJm4mD4EKHqmvl0IuOnUIjBFJi-FGngn0jnkpPP0GQg",
+        "chainStart": 438,
+        "chainEnd": 585,
+        "page": 6
+      },
+      {
+        "chunkKey": "h1.8q7rBf-SGyCvvoDO-Bxe-Y6iC_5dCvKcI2id87f29B_248RBeUmJzkyOjNteJt3bkQ_zQ550F4_SfDPESgm0H6GmvxxcB4dcttcoT5o4zEkDbzUHVH6UebAu4ij0ZcbFoti2vb0MQnyq8-snxIg",
+        "chainStart": 106,
+        "chainEnd": 218,
+        "page": 11
+      },
+      {
+        "chunkKey": "h1.AQop67CLdd3tWNVtygxnPCyKlitthiwGpLjQbtWaEYq-lp2HoRjPdCNNI8_cJvd7r8ZtfF35fbGaeNe2jKhpnYe3B7EdOMJ7R5SaxBp7gxJueSmwmyXAFiR0pODLWm1fOKSLCBrvUk6oUWWFTqM",
+        "chainStart": 705,
+        "chainEnd": 806,
+        "page": 11
+      },
+      {
+        "chunkKey": "h1.AQop67CLdd3tWNVtygxnPCyKlitthiwGpLjQbtWaEYq-lp2HoRjPdCNNI8_cJvd7r8ZtfF35fbGaeNe2jKhpnYe3B7EdOMJ7R5SaxBp7gxJueSmwmyXAFiR0pODLWm1fOKSLCBrvUk6oUWWFTqM",
+        "chainStart": 1441,
+        "chainEnd": 1556,
+        "page": 11
+      },
+      {
+        "chunkKey": "h1.lU1TkNoGOkZp4gBEmw-7v80Y9kDQPxhHoFuyQ3-Vd7_rR2sjkj8Akd-ajdzIXvxoIPXbpBw5-ZahiR_Jtv67EKRAuU2djoyWZhoq3gqJr6ici5VstMvitPKP7ExiQttkF2I3F4XVPCBIKDlGdd8",
+        "chainStart": 154,
+        "chainEnd": 225,
+        "page": 13
+      },
+      {
+        "chunkKey": "h1.fwqF_PZ0aS7VNneGfXkSB3YafP8sKUZQZRWC8hcEi_MNUkYNUI7ZJ-HskX2li_MAzpirFXZNnTbSWPeLQ0QsMIYZnBbcNYTEfy-9W1A4i8qszgOZI89wd87tumfhlRuWgxmXqe2dL-W_F_7YcVU",
+        "chainStart": 213,
+        "chainEnd": 276,
+        "page": 39
+      },
+      {
+        "chunkKey": "h1.Qw56d9P-FP5obetQtbKYRQWbChDmaBvHaFKjgw03Cu-9q8z4MWgw55Z_mwxU_-57KTTR4aPVcIDvNQhH3nmn7GrqD6NKCLn9F_63wW9Oqh9JJYhovOG8xmhQzVNMSHDWPtIJycn5OwA9Uu37dawC6w",
+        "chainStart": 388,
+        "chainEnd": 473,
+        "page": 118
+      },
+      {
+        "chunkKey": "h1.IUARsWYejz1SQixweSZkq2bH9i16xtqi3mAjwnt8M0vgqB0U3W9adLFT1vt7F-x0pkIdlAgiSWG2g3dHIeTMA5vCwr_Wl5ihT0-iW9u4xFqA1q3DuR37dzqnjdt0uDAoRFbU4Q1MWViWoeSjNWo",
+        "chainStart": 0,
+        "chainEnd": 127,
+        "page": 15
+      },
+      {
+        "chunkKey": "h1.9a_7wOQ0XKxAt_d0R4_cHEx38xNChaT6P9THCsG_2dEcx4DJbj6wDZs4_DFNV5qFiMcUxgMNBiB8TP7A2iPfNgehxrzSXtWSZYn8NYskg_gUIUWejRKsshWu8alQneTLsKUXRUKEISQWk9_LJtJ5",
+        "chainStart": 374,
+        "chainEnd": 460,
+        "page": 168
+      },
+      {
+        "chunkKey": "h1.Mph0M_xFR7Zv5cm2ntkFPFn-DsENbLkX45PYSSfmLus-G0mQgir4BIkPZJ9MorHitN-EP0Y3GiFGh7nVdgPAtCtqJzre9BDzMxp4hbZG15oK8IP-H-wD197mxxxdKZDqoOBCTkBxbosY43ta-60",
+        "chainStart": 261,
+        "chainEnd": 404,
+        "page": 15
+      },
+      {
+        "chunkKey": "h1.Mph0M_xFR7Zv5cm2ntkFPFn-DsENbLkX45PYSSfmLus-G0mQgir4BIkPZJ9MorHitN-EP0Y3GiFGh7nVdgPAtCtqJzre9BDzMxp4hbZG15oK8IP-H-wD197mxxxdKZDqoOBCTkBxbosY43ta-60",
+        "chainStart": 609,
+        "chainEnd": 745,
+        "page": 15
+      },
+      {
+        "chunkKey": "h1.v-GGrI5luzaLtm31XbdL_HX-JJc7RLd44QmoImEOTDcvmykUsiMjpNaLLkyVMJUK6-9e77ItZEGDKNoityD6hzHVaBeG0ThMy1ary1l17An41_1N9zwl6aG4CJT9-Z1B110-ATX_eF3OkIujoYg",
+        "chainStart": 863,
+        "chainEnd": 917,
+        "page": 17
+      },
+      {
+        "chunkKey": "h1.WO_bFamqEsHIMi0-GOp-CaeDJU5PuUnDWGHkehj4qe8Lk4vxxOwug2tbp5BQ58FRgmWiQ5zwuPl5Duo0BsXhxmKot7Wqp7ZtyQiDY20CcuC7WH9FoA2c22NI5xzuycBfV2abyDe07Jm7ZkUJzFM",
+        "chainStart": 3,
+        "chainEnd": 32,
+        "page": 17
+      },
+      {
+        "chunkKey": "h1.By9mriu_y5fQXWJ8whuBzXquN8lCCARh03J4DfaC7hJfVgAkuzHoZqRGDHJtQ6lIZS5BGjb0RSYRsNkFCVSoch-8j2_fZePh63kDrVLxAmUtwLfvCnjE6-PpDUZcD5ZBPiel6remB9_ElBzuHGOe",
+        "chainStart": 39,
+        "chainEnd": 131,
+        "page": 133
+      },
+      {
+        "chunkKey": "h1.By9mriu_y5fQXWJ8whuBzXquN8lCCARh03J4DfaC7hJfVgAkuzHoZqRGDHJtQ6lIZS5BGjb0RSYRsNkFCVSoch-8j2_fZePh63kDrVLxAmUtwLfvCnjE6-PpDUZcD5ZBPiel6remB9_ElBzuHGOe",
+        "chainStart": 365,
+        "chainEnd": 444,
+        "page": 133
+      },
+      {
+        "chunkKey": "h1.By9mriu_y5fQXWJ8whuBzXquN8lCCARh03J4DfaC7hJfVgAkuzHoZqRGDHJtQ6lIZS5BGjb0RSYRsNkFCVSoch-8j2_fZePh63kDrVLxAmUtwLfvCnjE6-PpDUZcD5ZBPiel6remB9_ElBzuHGOe",
+        "chainStart": 448,
+        "chainEnd": 568,
+        "page": 133
+      },
+      {
+        "chunkKey": "h1.oYGY4Q4gqek-UlF1O0C07vQ40u2PDsYW198Pu920NrPGnd9JxE3Np4VjVzgZDhbiAXQvqXMyxyQahf1RVsNO_T6qWNH8__1MHuR9ibADuqRMRen0V_PUIf9OuOks8ZD-XJCkRFoQPLSlMyXIkWpR",
+        "chainStart": 356,
+        "chainEnd": 404,
+        "page": 134
+      },
+      {
+        "chunkKey": "h1.em0D7i-CKorDflKcdGwIbC6i2uJM44DdQoNSHJzrELGTCOtSsjL01Y439g1N98SxbCFRUmSUPJtjV3Lw2cuLcNSEt6eEqnzIwIZwlxP3lKqMWoFIt8JNmlCeOGlB6cTUkiiFKJWiqu2-LYjy0kk",
+        "chainStart": 14,
+        "chainEnd": 90,
+        "page": 33
+      },
+      {
+        "chunkKey": "h1.em0D7i-CKorDflKcdGwIbC6i2uJM44DdQoNSHJzrELGTCOtSsjL01Y439g1N98SxbCFRUmSUPJtjV3Lw2cuLcNSEt6eEqnzIwIZwlxP3lKqMWoFIt8JNmlCeOGlB6cTUkiiFKJWiqu2-LYjy0kk",
+        "chainStart": 710,
+        "chainEnd": 829,
+        "page": 33
+      },
+      {
+        "chunkKey": "h1.-RR0nVeIRF0SIpJpFHiYYJCgTqLLg6jXJOCehCYSPeNeil7KyD4AwOT16unxAo783Xr5G0i8K-moaP8AgdDiYDFGk25hveouOxD90IjVXndecphdv09bjMlrJli3paAjKjw93Od9zLYz9SBKlveh",
+        "chainStart": 631,
+        "chainEnd": 710,
+        "page": 123
+      },
+      {
+        "chunkKey": "h1.fHwq5w8eDMaMtW13HAtgQbklZHBj_T-eSdHxHqztirZZz6Ecq5A4mdmw6J15OkgIBabNLdQ7dtGKNryoGrMJZc0M9OZ86p9zmlLW_iHMBzQpXPe42Zu-8iiWr5-IYgcWKzePUJpkL1ocnKvFC3Y",
+        "chainStart": 233,
+        "chainEnd": 363,
+        "page": 33
+      },
+      {
+        "chunkKey": "h1.ejNwETH2rogIuRj7wXzb8hIuY2IFJCXTMTjPdltUeZzVaoKgiWSC6fEymKQBUeYIxV02wK2-f0QZP5s4ogG3IFevfHNDZJ2Y7Y7Ku1qlxkbz2wooi4FCH-CTKkUfq5dkyj1a7CUlfEL7pkLEwHY",
+        "chainStart": 374,
+        "chainEnd": 436,
+        "page": 31
+      },
+      {
+        "chunkKey": "h1.JdWNszO-mSNsKKRQv_ch_oFmfgpCYzXR7W4qmWvdZrdvHSVt_s-nyv85llw4Ho9_PP7f7a-8V2OIcncaCgdV9D1kvzOWyleDpX9vAxSWXqNlTCA-GwLWxe1fptIeqzNNcequ0TK4hp8W_NDu4WU",
+        "chainStart": 575,
+        "chainEnd": 722,
+        "page": 35
+      },
+      {
+        "chunkKey": "h1.P6n9H6Gm3CRptX9o1h6N2DT9gq6RGXGP7LGsOyjtxD_2Ak3jpV06MXtbn7qqy7c3sZGJSsGY_n0Q3IoJbjjEAndj5Pze1SnLXzv2emIUejgORmErWjU0kG3jKA3IHc3cU_Rg7JbEHCV3pukF0p8",
+        "chainStart": 15,
+        "chainEnd": 102,
+        "page": 37
+      },
+      {
+        "chunkKey": "h1.NiQFU4cA7_icQ2X7PaChKC_y1wgqMwGiIUjDHxTuK-ln4GaSyJE4VvQ0VZaqDYG-gdR-nDvs7K2GEBxSGPs10FRur_yc_E8Vp5xCb-0ynemCv4SjTENTIE-jLtWxgLfrggqxgpiWrMyyfECt6WVZ",
+        "chainStart": 36,
+        "chainEnd": 79,
+        "page": 40
+      },
+      {
+        "chunkKey": "h1.t2YjwwTikRBB97gZwK-cndyLoINBB8feLqLV4291VfEzsNMcdtBBtu05JMwc3ag2sljP7qHmJ8MNL7bglGZpSGBsUjrlIT2nV-SoA7JpV96Sr34U5PmwboStLacdQA8nAuUpge603UVO1Qdy1qM",
+        "chainStart": 0,
+        "chainEnd": 38,
+        "page": 40
+      },
+      {
+        "chunkKey": "h1.4XP8YGjk2LlzvHAKA2JvXHjedjzjGj2Q_Ye1Nagq41h2gFI0jfjBz7ZiSmpZOe35I4kvBSDZr-fj93FLwRsehmUiSBpNxobqIjRjeQ0uu1QQZazVx50eIHzp4px8Lt3FENZScRcY0Cy268K03Mg",
+        "chainStart": 46,
+        "chainEnd": 147,
+        "page": 85
+      },
+      {
+        "chunkKey": "h1.ecZ-NmBd7Da4YOV5YhV4ktR9qf0jt2pP44u6vH3AXW1vw9zQeU8oQNPY6OQKn6WITHDwE647dO_7D2ucvb_qoWXX_r9tl18fJfp-dj4BCMv1wjlcYTS_mYxpozjhhDiEJT5OW2iiLIp8zPyye-4",
+        "chainStart": 52,
+        "chainEnd": 85,
+        "page": 68
+      },
+      {
+        "chunkKey": "h1.LzANBYNARH9IxS8Vk-aCO81VJN50MBx1ZrTKzivafjGcI-9FqSvK1CBx-xybp-VUsM428NlHfre2sbLZq5ggUQZWMSY_9_S8dMx465t-_0a6mYqCOfFtrkgvlsQYFKfziNV31LVm7oyvms-gbgS1",
+        "chainStart": 3,
+        "chainEnd": 34,
+        "page": 68
+      },
+      {
+        "chunkKey": "h1.pYCA_CId2QHUIiCEd9qwB6Uwj7Ui5A3BcgKJxaV1g2VR6MMl8tZX2gJzSU1ujjht1RfpjpHQ_MMCHAAgCTgr9afTNn6QIq5Zxe1jseEEWOVOhU4ZRpX2PuXF0po8QfmECG5rW-K_z9CsuVUnzRt7",
+        "chainStart": 5,
+        "chainEnd": 19,
+        "page": 68
+      },
+      {
+        "chunkKey": "h1.Kt9S9AgWZ_fg6DEwOp1PFLgDGk-pI4JfPY41eoMYVqVqNwPQ9vbr4POtvp3knCSGQFKVSL-zMAdArnWSCg74-PWTAQLddSNYW58p-e5de8JfzmK_biRhgPkXtEKoqmHvFqTwklzQx2tA6ZSzr0Q",
+        "chainStart": 948,
+        "chainEnd": 1051,
+        "page": 97
+      },
+      {
+        "chunkKey": "h1.PccP3oPX9uaR3fG2iN2YuzDEX098boIxYRCIdrSlNXV5wTZk-1ccDqOe9fKYoNn2R8XJqoCs6yMMERxERb66aOu6-FYj-yGMZBrtmYThGWsTx-CGLmXTSUOloDcoV8dyNWeydOcAVHhv6BFyGK6u",
+        "chainStart": 76,
+        "chainEnd": 166,
+        "page": 112
+      }
+    ],
+    "recalledTexts": [
+      {
+        "chunkKey": "h1.cQA2AnHUJl7swMTsItqkmKIpGbbT86veebZ2gUVzXyLBvt66QqWHFnpHs-kTQFH6ArAqFD7GbBrDx7tFmTbIjAl3-BRgb1owB-wvtaJCupv2G_XjdQb2rasjKlfMASa_gVhfFHNV1Tg4PS-lVpU",
+        "page": 26,
+        "chainStart": 11,
+        "chainEnd": 111,
+        "text": "Le processus primaire, l'identification, le transfert, les objets partiels, la fonction à après coup"
+      },
+      {
+        "chunkKey": "h1.cQA2AnHUJl7swMTsItqkmKIpGbbT86veebZ2gUVzXyLBvt66QqWHFnpHs-kTQFH6ArAqFD7GbBrDx7tFmTbIjAl3-BRgb1owB-wvtaJCupv2G_XjdQb2rasjKlfMASa_gVhfFHNV1Tg4PS-lVpU",
+        "page": 26,
+        "chainStart": 781,
+        "chainEnd": 971,
+        "text": "la névrose, de la pervasion, de la psychose, de la sublimation, etc.). La tripartition lacanienne du Réel, de l'Imaginaire et du Symbolique, loin d'arranger les choses, n'a fait, de ce point"
+      },
+      {
+        "chunkKey": "h1.q57OfaI3YxHwL8HjYtoiIqcrLE0t8VJIoCtB7cTb-vWtBnoSTSGV06knQLK8zUM0shtSNXH-GZ3BzYjvPksNuyjSqHUCKVtcd5qGRRETtSyEDV0JDR9jV3ydcvmDSWQJpGJV8pIdFWqX34ZuJLjS",
+        "page": 116,
+        "chainStart": 24,
+        "chainEnd": 131,
+        "text": "quadrangleulaire, proposant une rédefinition de l'Inconciert à partir des transformations de quatre entités"
+      },
+      {
+        "chunkKey": "h1.XUYkmrGN8YoozfcV78VMq6yQ8PwHjBV9jxiopGN4JGXlzKODtP1UrDYuwTJ7EQ9EFR6mh_myzjYH3cSezQ1TXRmOKJWrYWlP6QafA6lI0LrQVFWLvBaXHgNlpaRwTSLSkbvRCFafB063ApbMqcwn",
+        "page": 133,
+        "chainStart": 1000,
+        "chainEnd": 1182,
+        "text": "le schéma psychogénetique en recourant, non plus à la dyade Réel-Imaginaire, car à la triade structuraliste qui lui adjoint le Symbolique. Car, à l' evidence, son entrécime thrombale"
+      },
+      {
+        "chunkKey": "h1.tOhwxczCzcCQEf02KaFxqbCYXUpd5bPLpYuW3tUH3ISKpVPkl04EW2H5_Fh2EPyJEWoiKtVSgnPflyGgI_5a8jzCt0z_kVUJo5Tm4UZzB7kv_CMKJv4oogM0oymmWfpEQeH7hlvJHiYqmwJkX4Yd",
+        "page": 44,
+        "chainStart": 300,
+        "chainEnd": 390,
+        "text": "déterritorialisation du Donne demeure marquée par un manque d'éculturation des Agencements"
+      },
+      {
+        "chunkKey": "h1.eJMf4hC2SHIQkGYDXe-S_lQ3233zXbnm4qDBgm-x55ferwZZjBbYv_QToVBqpNDTk-e9X8sF58TKYQHu8TbrcceQQUUH0kbLiOE9ctiFQkaR89xLOsHFGuvvOS2SRTupqleeA6NAo8r7LyDtDZWt",
+        "page": 117,
+        "chainStart": 181,
+        "chainEnd": 191,
+        "text": "d'énoncion"
+      },
+      {
+        "chunkKey": "h1.hCZN2S-LlImYjsK-4NSZY6eoBw4u-S0ewKpfTOtXMhT9e0j93MgHA1bBjP6jwEcaeTYMJqT2N49vRegquZUFm3k4dmnMJ-iZ8LlgpO9Jv258tX1X7v-qH_pQYBV8GELp2eU07yKrchpyBEzdCNK-",
+        "page": 117,
+        "chainStart": 13,
+        "chainEnd": 73,
+        "text": "un espace trouvé par un manque et cette « découpe » spatiale"
+      },
+      {
+        "chunkKey": "h1.8KhozNQi1SLT0iPH8eqo7TtrHXa7LWZNCJw4k_bbwrvWyRpUHFPY8INJc7JAyeQ6Ul8De3J7ZG9o3S_N0knEYujZ9PAJNG33F_g_6wu1EM9z5dLd_GvhAtsihvhopAeum1p2hcnvn2whSWOAbw",
+        "page": 8,
+        "chainStart": 1088,
+        "chainEnd": 1158,
+        "text": "une insertion rigide au sein des structures et des fonctions étatiques"
+      },
+      {
+        "chunkKey": "h1.SilbcOgymRkj43hBU3Cb-wxim9btlJiFLMPIGq82AN1YEHCwYNmap4WSdYtikRJJMarsSUwq4jbrc_W-4MHuhoOFA-Q425pXCBAWsfDBdJGKkKwH6ckodBnH4iSbzB_RzT2yuoMAcVoJoBt5vVk",
+        "page": 31,
+        "chainStart": 109,
+        "chainEnd": 175,
+        "text": "l'ensemble des singularités et structures intrinsèques, l'ensemble"
+      },
+      {
+        "chunkKey": "h1.fm2I79DuZdwjjd6pjF_xYIUqMERW6gwtVHxbI93wUwOOmTA2aLCaIkKeRL4UR6L3yGgWsW938Jz8Na1ULNPsmCRIpOhJDEjKsns0SM3HYksK2Xh95nrTzVxSsQgY-jbyEKHu-qH9Tq0gGgTJR4M",
+        "page": 40,
+        "chainStart": 7,
+        "chainEnd": 55,
+        "text": "tenseurs sémiotiques de l'Inconscient secondaire"
+      },
+      {
+        "chunkKey": "h1.I3cYujBk6SsT_4uvWNsAhWL95v-ej_cvNCPRIC2Xp1sC32kRN0Ucpzzln9nf7NjbOmvCRL80GsmRq2CMSMMUDXcjW4a30hRGJFAmcnyZOQ7XbPGUZeVAQhtE0F-PUlQtrE2ZOU657K28k1XOICw",
+        "page": 40,
+        "chainStart": 3,
+        "chainEnd": 51,
+        "text": "Structures et Systèmes de l'Inconscient primaire"
+      },
+      {
+        "chunkKey": "h1.gwciPo77HidkQ2ZpQYpeOEm30-ml3BE-mjYf4crpk9PxeZUmChC9zZH21g_1w-CnjE4hhXdQEqcb71sncrpQn0YHIaM2Jjtu1RRxKf0BGWpjpRnRYxhzUPZQclv61SZ5s-nkrfFkeXHaXWKcRpk",
+        "page": 41,
+        "chainStart": 23,
+        "chainEnd": 79,
+        "text": "transistance vectorisés des Structures vers les Systèmes"
+      },
+      {
+        "chunkKey": "h1.isGAPzR_EFyhC9t5pgZzasISGlPQ9U2hcI8g9vL72bZ2ocqVsY6BSbGuJOY0nUTerQgUZC-qiTWKfGRiqpCA_0U1g0CmG70rDT44zlOobrkWAchm_R5I2joAYFi7IMREDETWuKvHAZ_PprSXZ5s",
+        "page": 41,
+        "chainStart": 4,
+        "chainEnd": 14,
+        "text": "son numéro"
+      },
+      {
+        "chunkKey": "h1.5ALt5Pl-7mVHICV0A-d5Ks1EHq_UAnJhZlb1dNBn2c_klThctZvjINShAN_Onxf0o4QGXH5S5RglZxE6a4MllV511Itkj4BY99q9q3aX3HGjFTSeEwr3hT1v3BTV_o3tFcz8Tm3ViMYK2mZfg3X5",
+        "page": 41,
+        "chainStart": 344,
+        "chainEnd": 413,
+        "text": "passifées » des Systemes et Structures de niveau I et les plus-values"
+      },
+      {
+        "chunkKey": "h1.mDnlcnFqbTNBiYjXnufshzgiO5wzgk7eUpJcGf4hScEJJENIJDagVg7bLzlJcFw9T73Uzw-FjILIAsulihSwaWP-elV0kmhPbRVbcg59NmaJJGfgSpMVsFxg-_D3KstwuVO36rkm4T7xjkt631nk",
+        "page": 108,
+        "chainStart": 761,
+        "chainEnd": 855,
+        "text": "objets du monde requiert ainsi qu'en deçà des structures de détermination et de prédictibilité"
+      },
+      {
+        "chunkKey": "h1._aWkTrBLMCeZ2YSPvlNOtuK3GSkzIj6t15uanS6p8f8hUGGfb2wj369ASvLr-tTjKJOKm1BMkMKgnukJzrXPDOmdfWUxP6R0QNVtjkF55YcK_94KDMZZ1rFj8K0BF75KshkDW_XUkZZHjckJNlYr",
+        "page": 163,
+        "chainStart": 416,
+        "chainEnd": 498,
+        "text": "du dépage. La félure des structures de sens fermées sur elles-mêmes, le détachment"
+      },
+      {
+        "chunkKey": "h1.UyMQ6IoimHTbZ6DZMJHRBoWBsend-GeXnspsh1ZvTmGLLyRe-MwMOoEcSw27dzv4vFSTLwKLsjNJpRuzIJGQhErZmsyqPEpph1u0vCqZM8a9seYOvguVxGAT7pcWr8rPmcKsbwApT5j-SgAjOrOi",
+        "page": 171,
+        "chainStart": 648,
+        "chainEnd": 731,
+        "text": "modélisation et de méta-modélisation ... 94 2. Structures profondes Φ: et ouverture"
+      },
+      {
+        "chunkKey": "h1.DZg0TC-LzN14DKky1oxQmDM5R5boVV7paI0Yo8YMG0RwDciEbVToReIudeG4d1u7kDuWUfGpxhLU0XZLZtEkm4uQBa0Jfh7_nzZ7z5Xb1M91jKO950LhSfu9VZOur-UjLnczFHX9hcegXRzCPSg",
+        "page": 10,
+        "chainStart": 818,
+        "chainEnd": 888,
+        "text": "méta-modélisation (dans la perspective proposée ici: transfert de modé"
+      },
+      {
+        "chunkKey": "h1.j8JZzkSiSEOdmBsJ1rPEIAb3EGcFsDXen4L8MkaIGiV1fRVgo_1chPc5uWSdalOYY-siqWNH6ca3-x9H_GfQ3CuyYESG-b8A2UySIOa-Sdt94HsPxHnoRGF4EdHlZhKDaY4eMB7Fff0ueft-iQc",
+        "page": 10,
+        "chainStart": 47,
+        "chainEnd": 65,
+        "text": "non plus objection"
+      },
+      {
+        "chunkKey": "h1.1oHUB_6fTmotkP3pGAJGmQ8Hz5zeSQcXYCsY6YfCiR2Imu494js3pZmntk-UvwytDQzqnLvZMAby8Dc_WCsnKU2xHcHi659__mhpRK5pNaUaRyvU-x_T0cPBmQSNIIEz_CGMt1CLdoKcUF0Ja78",
+        "page": 15,
+        "chainStart": 80,
+        "chainEnd": 186,
+        "text": "indirue de nouveaux symptômes à partir du transfert et de l'interprétation. (Soit, en forcant les couleurs"
+      },
+      {
+        "chunkKey": "h1.1jGeVQE3jXzSXtrZbvbo1jPEPZD9awEeZHPyTmPQnHd8R_5AXpYs6TUo3dspyYGkEkmIRGvHuWCBmo2K4j9CiPCrNqqD9sYTo7YbF3wQRnyn505b1Fcv-EW1u2YkAf7RxAfwlQsxT_ESaNMfGHM",
+        "page": 28,
+        "chainStart": 30,
+        "chainEnd": 173,
+        "text": "affranchissement de se heurtant au dispositif de la cure - le cérémoniel des séances, la camisole du transfert, les interprétations à l'emporte"
+      },
+      {
+        "chunkKey": "h1.Q7ATjQAKn2Y9JuFg-Q52-aONe2n1V03M-qgSBWwZvmquxxtEDCNqeLZj0bT-Kny2ZTxlYDJW_-jf27uGGNpIXVae5U3miqx6ZMqHap-1NSPz3UPxpqKbBEXoSrXXcsYLBOzpxwllTL8SbtYOa_A",
+        "page": 61,
+        "chainStart": 366,
+        "chainEnd": 486,
+        "text": "référence incorporels, dont il ne pourra être rendu compte que par transfert d'affects existentiels et meta-modification"
+      },
+      {
+        "chunkKey": "h1.j4Vb6qK1XQ3tbAKq1HGwViTDWXZRJtDSPUYMhiURJOh7XYVkxs7ytFgF8auZfPPEkTmcmmTNBAaEDqultsWTu7G_R6UNY7YQyUPK_DK-idlDZ0aV6tgo3FIasqMR1Clv-0DYcQANYQOLXz4FMa4",
+        "page": 62,
+        "chainStart": 103,
+        "chainEnd": 225,
+        "text": "signes-particules, de transfert de charges énergétiques indifférenciées mais de transfert de charges d'effets pragmatiques"
+      },
+      {
+        "chunkKey": "h1.bYX5oFsITyS6QFMpOjSAtgsRrqF5eqmO5YCXsfPoHBAgOpjf9E7Ea7cHRwn70Gp0khMzD7TJgsS4hL2mHte9lIqx-6FMv6HUswSXLzZTrXIg_CyWJTS0y0IyuKm1LPEgJm6_gKzklCgSZw6XJkA",
+        "page": 93,
+        "chainStart": 1764,
+        "chainEnd": 1839,
+        "text": "saissie, à au profit de transfert-énonciatif généralisé, d'une transitivity"
+      },
+      {
+        "chunkKey": "h1.gRYJ9w815_jt0sfmfYuvA994fAa6gu7lJDtQt3xvypHhFBIZ_t30f09KntFZrZSYFDilG2LLuCuNUSOQJAzT8NtONYfGVWpb5nh3dt-00fUHinLLxGSJILp7VxpBpnEsgmY2JVYdmP937ZLSH5bZ",
+        "page": 101,
+        "chainStart": 111,
+        "chainEnd": 230,
+        "text": "un changement d'état sans transfert d'énergie. Nous y voil! Mais il ne faudrait pas entendre notre première formulation"
+      },
+      {
+        "chunkKey": "h1.gRYJ9w815_jt0sfmfYuvA994fAa6gu7lJDtQt3xvypHhFBIZ_t30f09KntFZrZSYFDilG2LLuCuNUSOQJAzT8NtONYfGVWpb5nh3dt-00fUHinLLxGSJILp7VxpBpnEsgmY2JVYdmP937ZLSH5bZ",
+        "page": 101,
+        "chainStart": 478,
+        "chainEnd": 586,
+        "text": "tous distinctivement et, par conséquent, tout transfert d'un point au un autre. Je ne vois pas d'autre moyen"
+      },
+      {
+        "chunkKey": "h1.i6K28vA-z3I0DZFjiMJCEwwPU8e-2HuNwF7yQwSwHXFki9jUVWhWIl1f_0MGqCoDC0WAclF5rQNm7GYvrUZmNMD5bZrQEb5_WtSnF4fgX0LIKt2yuq3MbVh-MBlzbUvEhdf-YAtbSjOrCrMGyilE",
+        "page": 110,
+        "chainStart": 598,
+        "chainEnd": 707,
+        "text": "œuvre, processus fractal spécifique, datation existentielle, connaissance par transfert, foyer partiel d-auto"
+      },
+      {
+        "chunkKey": "h1.UvennjG_6W-4XN05O2fCIq7u4Mm5J8vx3h-p9Fr6CZ1lEwLYbqNU66eFR3ZEF5WXdxHmsxfOffHV0jak5xmYSLLagYqHpztRCjo8q0C0hjCsmqnDv1fsLPIbOc-1_frMgBaLdKGkGc5pbw-orXNM",
+        "page": 145,
+        "chainStart": 90,
+        "chainEnd": 180,
+        "text": "Urbanisme* est composé/décomposé par ces systèmes de transfert, de transit et de transfert"
+      },
+      {
+        "chunkKey": "h1.ltGEAmz3MsdC73jVrz1D_uCjDS0brBMBpNDj-gB_7M29OQFECC1pdV7UPLQm2PI8sIf3gQ5y16mlzZ8vYJ-U7GXFJtnksxgeF3cOvDnE8n0xRP420CEj_t3Mq2CIEyMTTawfYb44uSrdtpgWGnHA",
+        "page": 160,
+        "chainStart": 1391,
+        "chainEnd": 1538,
+        "text": "des communications mediatises. C'est d'embelle par transfert sans recul que se demandent à nous corps deterritorialisés, sans limite et sans organe"
+      },
+      {
+        "chunkKey": "h1.CW6X6grNvhDkyODMeoSoOfDu58uNwF56nMUCaR0uixeuzffH4mBN5ZZAMIQLyyZPpZYsqYapzx165WYoYe8_9BxqGFBjHYHbGPXNykX62VGeX9VFGfbRbxQhkaWpTaj9dW9iJRonaGp2JSZGTIQ",
+        "page": 14,
+        "chainStart": 262,
+        "chainEnd": 361,
+        "text": "ses annexes); ou bien Lacan à ériger un ordre symbolique, comme armature du Réel et de l'Imaginaire"
+      },
+      {
+        "chunkKey": "h1.G_BHx9bCxas8gNhigNYD5mSflHBqpXj22BskxAKNVDWWzoXWigip47YdzuFbdNGq7bihnUHU65Yp4RnEEzFeMaZl8zfK3da5IF9xGyxFemeXFxjIhVQVHi3w-Fa71SI7TgvsF2qrCdLmAalrLz0",
+        "page": 14,
+        "chainStart": 3,
+        "chainEnd": 34,
+        "text": "Cartographies schizoanalytiques"
+      },
+      {
+        "chunkKey": "h1.9f43Z46WmlICSbL_boD6_GIX2XzzKqIo55QDdicADJXe5-_0U4L3cBgoOAjYf3jXnc9TOzAqI6KnVwbTTCn8zYcQc6cbEBA05Zt-DMU_uKBe26KGpiotgXq27qz_ulIeLAxqIlDgH13O9zHsAXbV",
+        "page": 17,
+        "chainStart": 69,
+        "chainEnd": 139,
+        "text": "possi- sible virtuelRéelF.: Flux du réel actuelT.: Territoires du réel"
+      },
+      {
+        "chunkKey": "h1.CmqDcgFoCeURMWYwxjNKf8PBHUkfv253apFBx7ijjOGNXdMzW6WbCHCNLZx5VCzxilORsIf4I_UgQr5O7zxztW1m4QHhhKV-TyuHrvePzRv9tSfzErPlGK1SyvLRc241L0Ohl87VZsjq2kvgJxZx",
+        "page": 17,
+        "chainStart": 24,
+        "chainEnd": 50,
+        "text": "qualifiés de conscientiels"
+      },
+      {
+        "chunkKey": "h1.fq-jQhSEbwl6v7zFypnUF8GYNTDJnPGQLoanCtoMCOXAU_jZGQZaUosXEPiTGHZnOZJ2yA-vykbDavbuWBPCkf6CQx-av7O5Z0l-YG05faYaQ6DOr3vAPfPl_z9xV6jggOYsXr_1MxEg1kGxzG4",
+        "page": 45,
+        "chainStart": 10,
+        "chainEnd": 34,
+        "text": "Matrice : Possible, Réel"
+      },
+      {
+        "chunkKey": "h1.G0XnYe6o0tF8TOQJn7kH4NsTYHZUyRE60mxJOOOrUYMXRnQddcdGBCF2ud30zbbYECm7VkoCJmaaR9HRjTmL8H6viN_NKAM_PrELiqv5YTCwgpnfIgd9dBsAEPGofuGBuf-gh2sLZznKZSL971k",
+        "page": 45,
+        "chainStart": 0,
+        "chainEnd": 85,
+        "text": "Actualisation discursiveVirtualisation énoncativeOccurrences possiblesΦ.U.Occurrences"
+      },
+      {
+        "chunkKey": "h1.TPRT-iasgK-bYxmNa2Y8pBIQcTB6-sZnYQ3zqkCrzmhs7rxPZvWJjrs3v84dcN8mZWzH6FDRpexB5r-WbOfzznPcEj2J40bC3lvtk5h9WIH9Rf_wD8H_XZwSo71rMnqTCBbjSGcQwaNe8Ugh1iw",
+        "page": 56,
+        "chainStart": 49,
+        "chainEnd": 159,
+        "text": "l'enfant ne devrait pas être réduit à la réalité du réel mais devrait être élargi à la possibilité du possible"
+      },
+      {
+        "chunkKey": "h1.TPRT-iasgK-bYxmNa2Y8pBIQcTB6-sZnYQ3zqkCrzmhs7rxPZvWJjrs3v84dcN8mZWzH6FDRpexB5r-WbOfzznPcEj2J40bC3lvtk5h9WIH9Rf_wD8H_XZwSo71rMnqTCBbjSGcQwaNe8Ugh1iw",
+        "page": 56,
+        "chainStart": 522,
+        "chainEnd": 674,
+        "text": "être, pour autant qu'il est cristallisation de réel, de possible et de nécessaire, est essentiellement un produit machinique. Cette mutation ontologique"
+      },
+      {
+        "chunkKey": "h1.lL79SWjTZlDHyWkBbjFfZPsW276Kjci6eP5-SyMEGpKj31Bo7svQuQ3Awll_yjoX0iQNfPVKdemq_t2jXPCPBuPw8J16HVbvNbAZDzNK35kDs_IlsGjsZxK7DU7o0LaTVEOPQyz25eG7D04A9Ldj",
+        "page": 135,
+        "chainStart": 2038,
+        "chainEnd": 2115,
+        "text": "Genet est un homme du réel. J'ai envie de dire: un homme du futur réel. C'est"
+      },
+      {
+        "chunkKey": "h1.iB-IeVQak086p3h5mRRBC6eRTezGAgUzBoEcVwly4QJCeaCAcZiUSH4yfHkXSYLGVCDMxJKthDusjiLrLLTzfiCMyLJ1firV2oC0dAjH-65TRRXEeISEW78jmmt_sreiv95cFyRavrhPQSs0YBBs",
+        "page": 136,
+        "chainStart": 197,
+        "chainEnd": 255,
+        "text": "fabulues » productrices de réel. Trois niveaux – modulaire"
+      },
+      {
+        "chunkKey": "h1.cGmU2on2_h7G4LY4OENpZev0JEK4-ZqOU3b3TBmwAglOAPDERAKBF9Pch63kdbiZie38TXnRfTcWrtwZqEcfhQLqX2HCfvrdQggNYIfA7kGhsivmrpvnN30UggTSIizYYctIhCW7cruVJ2mI-GI",
+        "page": 67,
+        "chainStart": 729,
+        "chainEnd": 814,
+        "text": "les composantes disjonctrices par exemple, d'une psychose, sous les espaces apparment"
+      },
+      {
+        "chunkKey": "h1.o5LU2R7mEdy-Zdwxb23308ZTbn6FL0bY3W2JB3eKm1lnhjlkIkCBH2Hlcd48t3eo5Y78IShmNt2BQZv_OnB5f3psdpd53KqNx2l4yrsg2B-yOOW6_EmGd56jjuWgJtER0OUlp2cOOR4cQggM1rU",
+        "page": 97,
+        "chainStart": 607,
+        "chainEnd": 687,
+        "text": "présumées des structures vécues . La psychanalyse lacanienne, de son côté, avait"
+      },
+      {
+        "chunkKey": "h1.hXnPkgPGJi-0K49yarGXWEsF6Ykz1vW8g5dnh6jGN1tpIRIbJCJTxrToZsPSGbffb0J6Jjq155SrL6FEPTiBhXJekPYembBJAEB5HX3bjIuKIAfPymF2WNtaEbEWWI5oCKMUkFBfSAdObECPqV7B",
+        "page": 114,
+        "chainStart": 661,
+        "chainEnd": 789,
+        "text": "les distorsions significantes du rêve ne reflent plus d'une interprétation de contenus profonds mais participer d'une machinique"
+      },
+      {
+        "chunkKey": "h1.uzA99Fo2gldXyXf4YXgODQJzLMlYqjUb25r6wjTcrhYIY0FxbceoJ8iRWybuJ_-YkSbtgfeInizLUaFdaacl71L9E4fmiD4Uo8q7OsUWxGtHjDpwSceN_6oN0v7a1dJQsSwLR1272hqCUh4nlCgV",
+        "page": 126,
+        "chainStart": 1270,
+        "chainEnd": 1359,
+        "text": "compte que ses effractions dans la trame structurelle des processus semantico-syntaxiques"
+      },
+      {
+        "chunkKey": "h1.GhGfBpguYOKrfBk2sVJ48Amz8h9GzvrQNdw-pxa0lWqSRHZFT6tSkQl1DClQcEvzAT5aJlxpHoeYySovTYr5WT560_A6RDTfPoWpx0LAonNFdwMcWGGiBCqV3XIE74dZE9v4NUT289ZS0rF0l13F",
+        "page": 130,
+        "chainStart": 543,
+        "chainEnd": 659,
+        "text": "énoncération. Ses techniques d'interprétation, ses interventions sur les ritournelles oniques et psychopathologiques"
+      },
+      {
+        "chunkKey": "h1.GhGfBpguYOKrfBk2sVJ48Amz8h9GzvrQNdw-pxa0lWqSRHZFT6tSkQl1DClQcEvzAT5aJlxpHoeYySovTYr5WT560_A6RDTfPoWpx0LAonNFdwMcWGGiBCqV3XIE74dZE9v4NUT289ZS0rF0l13F",
+        "page": 130,
+        "chainStart": 2220,
+        "chainEnd": 2315,
+        "text": "ces conditions, l'analyse ne reposera plus sur l'interprétation des fantasies et le déplacement"
+      },
+      {
+        "chunkKey": "h1.l_-Ir38WOsOUNl-gRDjWZVZ5RglybhUDK55YOLqXGQqp6EDWhwmc66EPPCAw4yBeD96ogYCw_lQx8PEV8-tT_5TKEdW0Yb67EmEEMChg0zZxEecIM2e_IVtycCwaD0pkVGva14J0FZ_rUpngHZc",
+        "page": 12,
+        "chainStart": 70,
+        "chainEnd": 198,
+        "text": "l'Agencement, et positif, quand il engages des processus de splitting, voire des catastrophes, constituent la matière analytique"
+      },
+      {
+        "chunkKey": "h1.BSjmv6m37WxXvTtvXw948_ay1cPE6XmRcnXrf--6ag0Iwi2OHr7bMYHPNZ9RckIhlV55Q0E04R3bAueMhIbZQlp4E4lpBol7urvRLG5W2D0oJch2brLmT6XH3LALmh7UpIbSnDsDQFBM2CvhUhRW",
+        "page": 165,
+        "chainStart": 76,
+        "chainEnd": 148,
+        "text": "dualisme des pulsions, du *s splitting* du Moi, de la coupure symbolique"
+      },
+      {
+        "chunkKey": "h1.JwTaWZabVbbi5gQ9ND3daiz0mBtsv77r-F31tg4295pXlQX_DOacwjZDbeSBVtXtMT-1fcNpf_r3hPrjyJ_anZxy0SWLo7BsOSXDYQKYJm4mD4EKHqmvl0IuOnUIjBFJi-FGngn0jnkpPP0GQg",
+        "page": 6,
+        "chainStart": 438,
+        "chainEnd": 585,
+        "text": "reterritorialisation sémiotique des activités humaines et des structures boulevéesSES par les processus machiniques. Auparavant, c'était le Despote"
+      },
+      {
+        "chunkKey": "h1.8q7rBf-SGyCvvoDO-Bxe-Y6iC_5dCvKcI2id87f29B_248RBeUmJzkyOjNteJt3bkQ_zQ550F4_SfDPESgm0H6GmvxxcB4dcttcoT5o4zEkDbzUHVH6UebAu4ij0ZcbFoti2vb0MQnyq8-snxIg",
+        "page": 11,
+        "chainStart": 106,
+        "chainEnd": 218,
+        "text": "des systèmes d'énoncements et des structures subjectives préformées vers des Agencements d'enoncipation capables"
+      },
+      {
+        "chunkKey": "h1.AQop67CLdd3tWNVtygxnPCyKlitthiwGpLjQbtWaEYq-lp2HoRjPdCNNI8_cJvd7r8ZtfF35fbGaeNe2jKhpnYe3B7EdOMJ7R5SaxBp7gxJueSmwmyXAFiR0pODLWm1fOKSLCBrvUk6oUWWFTqM",
+        "page": 11,
+        "chainStart": 705,
+        "chainEnd": 806,
+        "text": "torchon sur une poche de résistance. Dans une perspective analytique classique, on ne prend en compte"
+      },
+      {
+        "chunkKey": "h1.AQop67CLdd3tWNVtygxnPCyKlitthiwGpLjQbtWaEYq-lp2HoRjPdCNNI8_cJvd7r8ZtfF35fbGaeNe2jKhpnYe3B7EdOMJ7R5SaxBp7gxJueSmwmyXAFiR0pODLWm1fOKSLCBrvUk6oUWWFTqM",
+        "page": 11,
+        "chainStart": 1441,
+        "chainEnd": 1556,
+        "text": "rapport à celle des imagés et des structures pretendument constitutives de la subjectivité. D'une façon contingente"
+      },
+      {
+        "chunkKey": "h1.lU1TkNoGOkZp4gBEmw-7v80Y9kDQPxhHoFuyQ3-Vd7_rR2sjkj8Akd-ajdzIXvxoIPXbpBw5-ZahiR_Jtv67EKRAuU2djoyWZhoq3gqJr6ici5VstMvitPKP7ExiQttkF2I3F4XVPCBIKDlGdd8",
+        "page": 13,
+        "chainStart": 154,
+        "chainEnd": 225,
+        "text": "faits de sens portés par des structures de représentation et de langage"
+      },
+      {
+        "chunkKey": "h1.fwqF_PZ0aS7VNneGfXkSB3YafP8sKUZQZRWC8hcEi_MNUkYNUI7ZJ-HskX2li_MAzpirFXZNnTbSWPeLQ0QsMIYZnBbcNYTEfy-9W1A4i8qszgOZI89wd87tumfhlRuWgxmXqe2dL-W_F_7YcVU",
+        "page": 39,
+        "chainStart": 213,
+        "chainEnd": 276,
+        "text": "Donné-non-Donnant et des structures propres Donnant-non-Donnant"
+      },
+      {
+        "chunkKey": "h1.Qw56d9P-FP5obetQtbKYRQWbChDmaBvHaFKjgw03Cu-9q8z4MWgw55Z_mwxU_-57KTTR4aPVcIDvNQhH3nmn7GrqD6NKCLn9F_63wW9Oqh9JJYhovOG8xmhQzVNMSHDWPtIJycn5OwA9Uu37dawC6w",
+        "page": 118,
+        "chainStart": 388,
+        "chainEnd": 473,
+        "text": "un premier temps, avant celles (C'est commençant à résistance). La faitrait se garder"
+      },
+      {
+        "chunkKey": "h1.IUARsWYejz1SQixweSZkq2bH9i16xtqi3mAjwnt8M0vgqB0U3W9adLFT1vt7F-x0pkIdlAgiSWG2g3dHIeTMA5vCwr_Wl5ihT0-iW9u4xFqA1q3DuR37dzqnjdt0uDAoRFbU4Q1MWViWoeSjNWo",
+        "page": 15,
+        "chainStart": 0,
+        "chainEnd": 127,
+        "text": "tessiture; elle se met à détonner; ses compétences d'interpretation parasitement brusquet en sesdutude. La chant de cette femme"
+      },
+      {
+        "chunkKey": "h1.9a_7wOQ0XKxAt_d0R4_cHEx38xNChaT6P9THCsG_2dEcx4DJbj6wDZs4_DFNV5qFiMcUxgMNBiB8TP7A2iPfNgehxrzSXtWSZYn8NYskg_gUIUWejRKsshWu8alQneTLsKUXRUKEISQWk9_LJtJ5",
+        "page": 168,
+        "chainStart": 374,
+        "chainEnd": 460,
+        "text": "toute leur vanité, les tentatives d'interpretation d'une œuvre, comme celle de Balthus"
+      },
+      {
+        "chunkKey": "h1.Mph0M_xFR7Zv5cm2ntkFPFn-DsENbLkX45PYSSfmLus-G0mQgir4BIkPZJ9MorHitN-EP0Y3GiFGh7nVdgPAtCtqJzre9BDzMxp4hbZG15oK8IP-H-wD197mxxxdKZDqoOBCTkBxbosY43ta-60",
+        "page": 15,
+        "chainStart": 261,
+        "chainEnd": 404,
+        "text": "situations concretes. Les références les plus abstraites, les plus radicalement incorporelles sont en prise sur le réel; les traversen les Flux"
+      },
+      {
+        "chunkKey": "h1.Mph0M_xFR7Zv5cm2ntkFPFn-DsENbLkX45PYSSfmLus-G0mQgir4BIkPZJ9MorHitN-EP0Y3GiFGh7nVdgPAtCtqJzre9BDzMxp4hbZG15oK8IP-H-wD197mxxxdKZDqoOBCTkBxbosY43ta-60",
+        "page": 15,
+        "chainStart": 609,
+        "chainEnd": 745,
+        "text": "la libido. On pourrait, à ce propos, aisément démontrer que Lacan a progressivement substitue ce concept de signifiant à celui de libido"
+      },
+      {
+        "chunkKey": "h1.v-GGrI5luzaLtm31XbdL_HX-JJc7RLd44QmoImEOTDcvmykUsiMjpNaLLkyVMJUK6-9e77ItZEGDKNoityD6hzHVaBeG0ThMy1ary1l17An41_1N9zwl6aG4CJT9-Z1B110-ATX_eF3OkIujoYg",
+        "page": 17,
+        "chainStart": 863,
+        "chainEnd": 917,
+        "text": "le virtuel, le possible et le réel, dont le croisement"
+      },
+      {
+        "chunkKey": "h1.WO_bFamqEsHIMi0-GOp-CaeDJU5PuUnDWGHkehj4qe8Lk4vxxOwug2tbp5BQ58FRgmWiQ5zwuPl5Duo0BsXhxmKot7Wqp7ZtyQiDY20CcuC7WH9FoA2c22NI5xzuycBfV2abyDe07Jm7ZkUJzFM",
+        "page": 17,
+        "chainStart": 3,
+        "chainEnd": 32,
+        "text": "Les cartographies analytiques"
+      },
+      {
+        "chunkKey": "h1.By9mriu_y5fQXWJ8whuBzXquN8lCCARh03J4DfaC7hJfVgAkuzHoZqRGDHJtQ6lIZS5BGjb0RSYRsNkFCVSoch-8j2_fZePh63kDrVLxAmUtwLfvCnjE6-PpDUZcD5ZBPiel6remB9_ElBzuHGOe",
+        "page": 133,
+        "chainStart": 39,
+        "chainEnd": 131,
+        "text": "s'orienter vers quelque chose qui ordonneraient autrement le réel, l'imaginea et la création"
+      },
+      {
+        "chunkKey": "h1.By9mriu_y5fQXWJ8whuBzXquN8lCCARh03J4DfaC7hJfVgAkuzHoZqRGDHJtQ6lIZS5BGjb0RSYRsNkFCVSoch-8j2_fZePh63kDrVLxAmUtwLfvCnjE6-PpDUZcD5ZBPiel6remB9_ElBzuHGOe",
+        "page": 133,
+        "chainStart": 365,
+        "chainEnd": 444,
+        "text": "imaginea vehiculeuses par le réel. On pourrait légitimement ajouter les phrases"
+      },
+      {
+        "chunkKey": "h1.By9mriu_y5fQXWJ8whuBzXquN8lCCARh03J4DfaC7hJfVgAkuzHoZqRGDHJtQ6lIZS5BGjb0RSYRsNkFCVSoch-8j2_fZePh63kDrVLxAmUtwLfvCnjE6-PpDUZcD5ZBPiel6remB9_ElBzuHGOe",
+        "page": 133,
+        "chainStart": 448,
+        "chainEnd": 568,
+        "text": "Genet ou il rabat sa subjectivité sur le réel le plus « borne » à celles ou, à l'inverse, le réel fait irruption hors l-"
+      },
+      {
+        "chunkKey": "h1.oYGY4Q4gqek-UlF1O0C07vQ40u2PDsYW198Pu920NrPGnd9JxE3Np4VjVzgZDhbiAXQvqXMyxyQahf1RVsNO_T6qWNH8__1MHuR9ibADuqRMRen0V_PUIf9OuOks8ZD-XJCkRFoQPLSlMyXIkWpR",
+        "page": 134,
+        "chainStart": 356,
+        "chainEnd": 404,
+        "text": "enfin, il s'avoue que le réel est *plus inventif"
+      },
+      {
+        "chunkKey": "h1.em0D7i-CKorDflKcdGwIbC6i2uJM44DdQoNSHJzrELGTCOtSsjL01Y439g1N98SxbCFRUmSUPJtjV3Lw2cuLcNSEt6eEqnzIwIZwlxP3lKqMWoFIt8JNmlCeOGlB6cTUkiiFKJWiqu2-LYjy0kk",
+        "page": 33,
+        "chainStart": 14,
+        "chainEnd": 90,
+        "text": "premiers écrites that Lacan prit distance avec la metapyschologie freudienne"
+      },
+      {
+        "chunkKey": "h1.em0D7i-CKorDflKcdGwIbC6i2uJM44DdQoNSHJzrELGTCOtSsjL01Y439g1N98SxbCFRUmSUPJtjV3Lw2cuLcNSEt6eEqnzIwIZwlxP3lKqMWoFIt8JNmlCeOGlB6cTUkiiFKJWiqu2-LYjy0kk",
+        "page": 33,
+        "chainStart": 710,
+        "chainEnd": 829,
+        "text": "l'évidence, que d'une énergie assez particulière, puisqu'elle était susceptible, comme Lacan le note, d'une quantiétrie"
+      },
+      {
+        "chunkKey": "h1.-RR0nVeIRF0SIpJpFHiYYJCgTqLLg6jXJOCehCYSPeNeil7KyD4AwOT16unxAo783Xr5G0i8K-moaP8AgdDiYDFGk25hveouOxD90IjVXndecphdv09bjMlrJli3paAjKjw93Od9zLYz9SBKlveh",
+        "page": 123,
+        "chainStart": 631,
+        "chainEnd": 710,
+        "text": "cégard, de la célébré formule de Lacan selon laquelle un signifiant était censé"
+      },
+      {
+        "chunkKey": "h1.fHwq5w8eDMaMtW13HAtgQbklZHBj_T-eSdHxHqztirZZz6Ecq5A4mdmw6J15OkgIBabNLdQ7dtGKNryoGrMJZc0M9OZ86p9zmlLW_iHMBzQpXPe42Zu-8iiWr5-IYgcWKzePUJpkL1ocnKvFC3Y",
+        "page": 33,
+        "chainStart": 233,
+        "chainEnd": 363,
+        "text": "2) des manifestations affectives circonscrites à l'espace étièle de la cure. La schizoanalyse s'efforce de mobiliser, au contraire"
+      },
+      {
+        "chunkKey": "h1.ejNwETH2rogIuRj7wXzb8hIuY2IFJCXTMTjPdltUeZzVaoKgiWSC6fEymKQBUeYIxV02wK2-f0QZP5s4ogG3IFevfHNDZJ2Y7Y7Ku1qlxkbz2wooi4FCH-CTKkUfq5dkyj1a7CUlfEL7pkLEwHY",
+        "page": 31,
+        "chainStart": 374,
+        "chainEnd": 436,
+        "text": "la donné systéme et les structures d'expression (observatrices"
+      },
+      {
+        "chunkKey": "h1.JdWNszO-mSNsKKRQv_ch_oFmfgpCYzXR7W4qmWvdZrdvHSVt_s-nyv85llw4Ho9_PP7f7a-8V2OIcncaCgdV9D1kvzOWyleDpX9vAxSWXqNlTCA-GwLWxe1fptIeqzNNcequ0TK4hp8W_NDu4WU",
+        "page": 35,
+        "chainStart": 575,
+        "chainEnd": 722,
+        "text": "deux configurations de *deterritorialisation intrinsèque* les Systems et les Structures, et deux configurations de déterritorialisation extrinsèque"
+      },
+      {
+        "chunkKey": "h1.P6n9H6Gm3CRptX9o1h6N2DT9gq6RGXGP7LGsOyjtxD_2Ak3jpV06MXtbn7qqy7c3sZGJSsGY_n0Q3IoJbjjEAndj5Pze1SnLXzv2emIUejgORmErWjU0kG3jKA3IHc3cU_Rg7JbEHCV3pukF0p8",
+        "page": 37,
+        "chainStart": 15,
+        "chainEnd": 102,
+        "text": "polarisées sur les Systèmes et les Structures. Une aggrégation peut, des lors, s'opérer"
+      },
+      {
+        "chunkKey": "h1.NiQFU4cA7_icQ2X7PaChKC_y1wgqMwGiIUjDHxTuK-ln4GaSyJE4VvQ0VZaqDYG-gdR-nDvs7K2GEBxSGPs10FRur_yc_E8Vp5xCb-0ynemCv4SjTENTIE-jLtWxgLfrggqxgpiWrMyyfECt6WVZ",
+        "page": 40,
+        "chainStart": 36,
+        "chainEnd": 79,
+        "text": "vectorisés des Systèmes vers les Structures"
+      },
+      {
+        "chunkKey": "h1.t2YjwwTikRBB97gZwK-cndyLoINBB8feLqLV4291VfEzsNMcdtBBtu05JMwc3ag2sljP7qHmJ8MNL7bglGZpSGBsUjrlIT2nV-SoA7JpV96Sr34U5PmwboStLacdQA8nAuUpge603UVO1Qdy1qM",
+        "page": 40,
+        "chainStart": 0,
+        "chainEnd": 38,
+        "text": "A ce niveau secondaire de l'Inconscien"
+      },
+      {
+        "chunkKey": "h1.4XP8YGjk2LlzvHAKA2JvXHjedjzjGj2Q_Ye1Nagq41h2gFI0jfjBz7ZiSmpZOe35I4kvBSDZr-fj93FLwRsehmUiSBpNxobqIjRjeQ0uu1QQZazVx50eIHzp4px8Lt3FENZScRcY0Cy268K03Mg",
+        "page": 85,
+        "chainStart": 46,
+        "chainEnd": 147,
+        "text": "lissage expressif (E.C.) sur les structures de référence modulaire - je sera tenté de dire : médaille"
+      },
+      {
+        "chunkKey": "h1.ecZ-NmBd7Da4YOV5YhV4ktR9qf0jt2pP44u6vH3AXW1vw9zQeU8oQNPY6OQKn6WITHDwE647dO_7D2ucvb_qoWXX_r9tl18fJfp-dj4BCMv1wjlcYTS_mYxpozjhhDiEJT5OW2iiLIp8zPyye-4",
+        "page": 68,
+        "chainStart": 52,
+        "chainEnd": 85,
+        "text": "vérité que peut recéler un délire"
+      },
+      {
+        "chunkKey": "h1.LzANBYNARH9IxS8Vk-aCO81VJN50MBx1ZrTKzivafjGcI-9FqSvK1CBx-xybp-VUsM428NlHfre2sbLZq5ggUQZWMSY_9_S8dMx465t-_0a6mYqCOfFtrkgvlsQYFKfziNV31LVm7oyvms-gbgS1",
+        "page": 68,
+        "chainStart": 3,
+        "chainEnd": 34,
+        "text": "LES PROCESSUS PROTO-ÉNONCIATIFS"
+      },
+      {
+        "chunkKey": "h1.pYCA_CId2QHUIiCEd9qwB6Uwj7Ui5A3BcgKJxaV1g2VR6MMl8tZX2gJzSU1ujjht1RfpjpHQ_MMCHAAgCTgr9afTNn6QIq5Zxe1jseEEWOVOhU4ZRpX2PuXF0po8QfmECG5rW-K_z9CsuVUnzRt7",
+        "page": 68,
+        "chainStart": 5,
+        "chainEnd": 19,
+        "text": "la combination"
+      },
+      {
+        "chunkKey": "h1.Kt9S9AgWZ_fg6DEwOp1PFLgDGk-pI4JfPY41eoMYVqVqNwPQ9vbr4POtvp3knCSGQFKVSL-zMAdArnWSCg74-PWTAQLddSNYW58p-e5de8JfzmK_biRhgPkXtEKoqmHvFqTwklzQx2tA6ZSzr0Q",
+        "page": 97,
+        "chainStart": 948,
+        "chainEnd": 1051,
+        "text": "causes complexuelles cachées ou d'un structural significant, au lieu de reconnaître leur rôle essentiel"
+      },
+      {
+        "chunkKey": "h1.PccP3oPX9uaR3fG2iN2YuzDEX098boIxYRCIdrSlNXV5wTZk-1ccDqOe9fKYoNn2R8XJqoCs6yMMERxERb66aOu6-FYj-yGMZBrtmYThGWsTx-CGLmXTSUOloDcoV8dyNWeydOcAVHhv6BFyGK6u",
+        "page": 112,
+        "chainStart": 76,
+        "chainEnd": 166,
+        "text": "exemple, la reconnaître avec la schizophrenie ne résultat jamais d'une deduction cognitive"
+      }
+    ]
+  }
+]

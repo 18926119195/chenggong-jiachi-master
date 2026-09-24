@@ -1,0 +1,462 @@
+﻿================================================================================
+Z1-Q4: PER-CHUNK THINKING EXTRACTION
+For each (L24 path, chunk) pair, find the L23 commentary
+that explains WHY this chunk belongs to this path.
+================================================================================
+
+------------------------------------------------------------
+PATH: # 路径一：包含/进入关系——精神病是更宽秩序，分裂症是进入该秩序的一种模态
+Cited chunks: [1060, 131, 204]
+------------------------------------------------------------
+
+  ..................................................
+  CHUNK 1060 IN PATH "# 路径一：包含/进入关系——精神病是更宽秩序，分裂症是进入该秩序的一种模态"
+  ..................................................
+  --- Context #1 (L23 pos=3535) ---
+  Mention: - 【1060】 "schizophrenie ne résultat jamais d'une deduction cognitive mais s'instaure d'embelle comme entrée dans des ordonnées psychotiques."
+  Reasoning (L23 commentary after this chunk mention):
+    | - 【1077】 "dream... subjection..." no.
+    | - 【1178】 "syndromes psychopathologiques", "autism", "mélancolie", "manie", "catatonie".
+
+  --- Context #2 (L23 pos=5814) ---
+  Mention: 2. 【204】: lists "univers de la névrose, de la pervasion, de la psychose, de la sublimation, etc." It mentions psychosis as one existential universe among neurosis, perversion, sublimation. Schizophrenia not listed but maybe under psychosis. This suggests psychosis is a category of existential production; schizophrenia may be a specific case? Need combine with 【1060】.
+  Reasoning (L23 commentary after this chunk mention):
+    | 3. 【131】: "Freud n'envisageait que deux options – la lente et mélancolique liquidation de la libido investie sur l'objet perdu, ou en cas d'extreme fixation, une *psychose hallucinatoire de desir*" This indicates psychosis hallucinatory of desire as an extreme fixation option in mourning. Schizophrenia not mentioned but psychosis as extreme fixation. Could be path.
+
+  --- Context #3 (L23 pos=13172) ---
+  Mention: - 路径一：概念层级：精神病作为更广登记/秩序，精神分裂症作为进入精神病秩序的一种方式。 Use 【1060】 direct, 【204】, 【131】, 【107】.
+  Reasoning (L23 commentary after this chunk mention):
+    | - 路径二：临床病理学谱系：精神病包括神经症、精神病、倒错、升华等；精神分裂症是精神病的一个极端/灾难性形态。 Use 【204】, 【702】, 【126】? 【131】.
+    | - 路径三：分裂症作为过程/破裂/解域化 vs 精神病作为临床/结构分类。 Use 【702】, 【1077】, 【18】, 【258】.
+
+  --- Context #4 (L23 pos=13532) ---
+  Mention: - 路径五：现象学/时间性/情感：精神病作为妄想/自动症/时间性障碍，分裂症作为进入精神病坐标的断裂，不可由认知推导。 Use 【1060】, 【1178】, 【1208】, 【869】.
+  Reasoning (L23 commentary after this chunk mention):
+    | - 路径六：与精神分析/拉康结构主义的关系：精神病/分裂症不是语言结构决定，而是异质主体性生产；精神分析将精神病纳入俄狄浦斯三角，分裂分析扩展。 Use 【107】, 【944】, 【115】 maybe.
+
+
+  ..................................................
+  CHUNK 131 IN PATH "# 路径一：包含/进入关系——精神病是更宽秩序，分裂症是进入该秩序的一种模态"
+  ..................................................
+  --- Context #1 (L23 pos=3075) ---
+  Mention: - 【131】 "psychose hallucinatoire de desir" (Freud). This is psychosis.
+  Reasoning (L23 commentary after this chunk mention):
+    | - 【204】 "univers de la névrose, de la pervasion, de la psychose, de la sublimation" (perversion? psychose). Lists.
+    | - 【266】 "zoanalyse" typo maybe schizoanalyse.
+
+  --- Context #2 (L23 pos=13194) ---
+  Mention: - 路径一：概念层级：精神病作为更广登记/秩序，精神分裂症作为进入精神病秩序的一种方式。 Use 【1060】 direct, 【204】, 【131】, 【107】.
+  Reasoning (L23 commentary after this chunk mention):
+    | - 路径二：临床病理学谱系：精神病包括神经症、精神病、倒错、升华等；精神分裂症是精神病的一个极端/灾难性形态。 Use 【204】, 【702】, 【126】? 【131】.
+    | - 路径三：分裂症作为过程/破裂/解域化 vs 精神病作为临床/结构分类。 Use 【702】, 【1077】, 【18】, 【258】.
+
+  --- Context #3 (L23 pos=13289) ---
+  Mention: - 路径二：临床病理学谱系：精神病包括神经症、精神病、倒错、升华等；精神分裂症是精神病的一个极端/灾难性形态。 Use 【204】, 【702】, 【126】? 【131】.
+- 路径三：分裂症作为过程/破裂/解域化 vs 精神病作为临床/结构分类。 Use 【702】, 【1077】, 【18】, 【258】.
+  Reasoning (L23 commentary after this chunk mention):
+    | - 路径四：分裂分析视角：不将二者视为固定本质，而是 Agencements/主体性生产；精神病是自由度冻结，分裂症是过程/灾难/创造。 Use 【266】, 【107】, 【258】, 【1208】.
+    | - 路径五：现象学/时间性/情感：精神病作为妄想/自动症/时间性障碍，分裂症作为进入精神病坐标的断裂，不可由认知推导。 Use 【1060】, 【1178】, 【1208】, 【869】.
+
+  --- Context #4 (L23 pos=35672) ---
+  Mention: 3. 【131】交叉：弗洛伊德式模型把“欲望幻觉性精神病”作为极端固着的选项。判断：精神病可作为极端固着/临床结果；分裂症在此材料中更常被描述为突发进入精神病坐标的断裂。
+  Reasoning (L23 commentary after this chunk mention):
+    | Conclusion: 在材料中，精神病是更宽的坐标/存在宇宙；精神分裂症是进入精神病坐标的一种非推论的、突发的方式/模态，二者不是同义词，而是包含/进入关系。
+
+
+  ..................................................
+  CHUNK 204 IN PATH "# 路径一：包含/进入关系——精神病是更宽秩序，分裂症是进入该秩序的一种模态"
+  ..................................................
+  --- Context #1 (L23 pos=3146) ---
+  Mention: - 【204】 "univers de la névrose, de la pervasion, de la psychose, de la sublimation" (perversion? psychose). Lists.
+  Reasoning (L23 commentary after this chunk mention):
+    | - 【266】 "zoanalyse" typo maybe schizoanalyse.
+    | - 【625】? no.
+
+  --- Context #2 (L23 pos=13187) ---
+  Mention: - 路径一：概念层级：精神病作为更广登记/秩序，精神分裂症作为进入精神病秩序的一种方式。 Use 【1060】 direct, 【204】, 【131】, 【107】.
+  Reasoning (L23 commentary after this chunk mention):
+    | - 路径二：临床病理学谱系：精神病包括神经症、精神病、倒错、升华等；精神分裂症是精神病的一个极端/灾难性形态。 Use 【204】, 【702】, 【126】? 【131】.
+    | - 路径三：分裂症作为过程/破裂/解域化 vs 精神病作为临床/结构分类。 Use 【702】, 【1077】, 【18】, 【258】.
+
+  --- Context #3 (L23 pos=13268) ---
+  Mention: - 路径二：临床病理学谱系：精神病包括神经症、精神病、倒错、升华等；精神分裂症是精神病的一个极端/灾难性形态。 Use 【204】, 【702】, 【126】? 【131】.
+  Reasoning (L23 commentary after this chunk mention):
+    | - 路径三：分裂症作为过程/破裂/解域化 vs 精神病作为临床/结构分类。 Use 【702】, 【1077】, 【18】, 【258】.
+    | - 路径四：分裂分析视角：不将二者视为固定本质，而是 Agencements/主体性生产；精神病是自由度冻结，分裂症是过程/灾难/创造。 Use 【266】, 【107】, 【258】, 【1208】.
+
+  --- Context #4 (L23 pos=35517) ---
+  Mention: 2. 【204】综合：材料把“精神病”列为与神经症、倒错、升华并列的“存在论生产宇宙”。判断：精神病是一个 broader existential universe; schizophrenia is not co-extensive but a modality within/entry into it.
+  Reasoning (L23 commentary after this chunk mention):
+    | 3. 【131】交叉：弗洛伊德式模型把“欲望幻觉性精神病”作为极端固着的选项。判断：精神病可作为极端固着/临床结果；分裂症在此材料中更常被描述为突发进入精神病坐标的断裂。
+    | Conclusion: 在材料中，精神病是更宽的坐标/存在宇宙；精神分裂症是进入精神病坐标的一种非推论的、突发的方式/模态，二者不是同义词，而是包含/进入关系。
+
+
+------------------------------------------------------------
+PATH: # 路径二：病理学谱系关系——精神病是上位领域，分裂症是灾难性/极端形态
+Cited chunks: [107, 204, 702]
+------------------------------------------------------------
+
+  ..................................................
+  CHUNK 107 IN PATH "# 路径二：病理学谱系关系——精神病是上位领域，分裂症是灾难性/极端形态"
+  ..................................................
+  --- Context #1 (L23 pos=1108) ---
+  Mention: - 【107】提到 "triangle edipien et castration symbolique", "psychopathologie", "schizoanalyse" meta-model
+  Reasoning (L23 commentary after this chunk mention):
+    | - 【126】"processus moléculaires, qui sont à l'œuvre dans une névrose hystérique ou une névrose obsessionnelle..." mentions "névrose" not psychose.
+    | - 【258】schizoanalyse vs psychanalystes; "formations collectives..."; "Affects subjectifs et Effets machiniques".
+
+  --- Context #2 (L23 pos=2993) ---
+  Mention: - 【107】 "psychopathologie"
+  Reasoning (L23 commentary after this chunk mention):
+    | - 【126】 "névrose hystérique ou névrose obsessionnelle"
+    | - 【131】 "psychose hallucinatoire de desir" (Freud). This is psychosis.
+
+  --- Context #3 (L23 pos=11036) ---
+  Mention: 20. 【107】: "schizoanalyse... meta-modélisateur de tous ces domaines hétérônes... matières à option" including psychopathology. This is useful: schizoanalysis treats psychopathology (including psychosis/schizophrenia) as matter for meta-modeling, not as fixed disease.
+  Reasoning (L23 commentary after this chunk mention):
+    | 21. 【108】: "Les Agencements non sémiotiques" etc. Could classify psychosis as non-semiotic? no.
+
+  --- Context #4 (L23 pos=13201) ---
+  Mention: - 路径一：概念层级：精神病作为更广登记/秩序，精神分裂症作为进入精神病秩序的一种方式。 Use 【1060】 direct, 【204】, 【131】, 【107】.
+- 路径二：临床病理学谱系：精神病包括神经症、精神病、倒错、升华等；精神分裂症是精神病的一个极端/灾难性形态。 Use 【204】, 【702】, 【126】? 【131】.
+  Reasoning (L23 commentary after this chunk mention):
+    | - 路径三：分裂症作为过程/破裂/解域化 vs 精神病作为临床/结构分类。 Use 【702】, 【1077】, 【18】, 【258】.
+    | - 路径四：分裂分析视角：不将二者视为固定本质，而是 Agencements/主体性生产；精神病是自由度冻结，分裂症是过程/灾难/创造。 Use 【266】, 【107】, 【258】, 【1208】.
+
+
+  ..................................................
+  CHUNK 204 IN PATH "# 路径二：病理学谱系关系——精神病是上位领域，分裂症是灾难性/极端形态"
+  ..................................................
+  --- Context #1 (L23 pos=3146) ---
+  Mention: - 【204】 "univers de la névrose, de la pervasion, de la psychose, de la sublimation" (perversion? psychose). Lists.
+  Reasoning (L23 commentary after this chunk mention):
+    | - 【266】 "zoanalyse" typo maybe schizoanalyse.
+    | - 【625】? no.
+
+  --- Context #2 (L23 pos=13187) ---
+  Mention: - 路径一：概念层级：精神病作为更广登记/秩序，精神分裂症作为进入精神病秩序的一种方式。 Use 【1060】 direct, 【204】, 【131】, 【107】.
+  Reasoning (L23 commentary after this chunk mention):
+    | - 路径二：临床病理学谱系：精神病包括神经症、精神病、倒错、升华等；精神分裂症是精神病的一个极端/灾难性形态。 Use 【204】, 【702】, 【126】? 【131】.
+    | - 路径三：分裂症作为过程/破裂/解域化 vs 精神病作为临床/结构分类。 Use 【702】, 【1077】, 【18】, 【258】.
+
+  --- Context #3 (L23 pos=13268) ---
+  Mention: - 路径二：临床病理学谱系：精神病包括神经症、精神病、倒错、升华等；精神分裂症是精神病的一个极端/灾难性形态。 Use 【204】, 【702】, 【126】? 【131】.
+  Reasoning (L23 commentary after this chunk mention):
+    | - 路径三：分裂症作为过程/破裂/解域化 vs 精神病作为临床/结构分类。 Use 【702】, 【1077】, 【18】, 【258】.
+    | - 路径四：分裂分析视角：不将二者视为固定本质，而是 Agencements/主体性生产；精神病是自由度冻结，分裂症是过程/灾难/创造。 Use 【266】, 【107】, 【258】, 【1208】.
+
+  --- Context #4 (L23 pos=35517) ---
+  Mention: 2. 【204】综合：材料把“精神病”列为与神经症、倒错、升华并列的“存在论生产宇宙”。判断：精神病是一个 broader existential universe; schizophrenia is not co-extensive but a modality within/entry into it.
+  Reasoning (L23 commentary after this chunk mention):
+    | 3. 【131】交叉：弗洛伊德式模型把“欲望幻觉性精神病”作为极端固着的选项。判断：精神病可作为极端固着/临床结果；分裂症在此材料中更常被描述为突发进入精神病坐标的断裂。
+    | Conclusion: 在材料中，精神病是更宽的坐标/存在宇宙；精神分裂症是进入精神病坐标的一种非推论的、突发的方式/模态，二者不是同义词，而是包含/进入关系。
+
+
+  ..................................................
+  CHUNK 702 IN PATH "# 路径二：病理学谱系关系——精神病是上位领域，分裂症是灾难性/极端形态"
+  ..................................................
+  --- Context #1 (L23 pos=1714) ---
+  Mention: - 【702】 "catastrophe schizophrenique, l'experience de la drouge, les trases fusionnelles archéaux ou l'inspiration créatrice."
+  Reasoning (L23 commentary after this chunk mention):
+    | - 【944】"psychiatrie phénoménologique... psychanalyse lacanienne..."
+
+  --- Context #2 (L23 pos=3320) ---
+  Mention: - 【702】 "catastrophe schizophrenique"
+  Reasoning (L23 commentary after this chunk mention):
+    | - 【869】 "névrotico-psychotique" - "désir qui, pour être névrotico-psychotique, n'en est pas moins intense et authentique."
+    | - 【944】 "psychiatrie phénoménologique... symptôme..."
+
+  --- Context #3 (L23 pos=6195) ---
+  Mention: 4. 【702】: "catastrophe schizophrenique" as one of "moments féconds des rémanences d'être" alongside early childhood, drug experience, archaic fusion trances, creative inspiration. This treats schizophrenia as catastrophe but also fertile moments, not simply psychosis. It is a process/catastrophe.
+  Reasoning (L23 commentary after this chunk mention):
+    | 5. 【17】: "recompositions psychopathologiques de mondes * schizies *" - schiz worlds in psychopathological recompositions. This links schiz to psychopathology.
+
+  --- Context #4 (L23 pos=10569) ---
+  Mention: 15. 【1077】: dream and subjection; maybe "objets partiels... ouverture à titre d'opérateurs de subjection autonomies. La coupe, la brisure du sens... fractalisation nécessaire et suffisante..." This could be used for schizophrenic process? It mentions "subjection à l'état naissant", "ouverture deterritorialisée". Schizophrenia in Guattari often is process of rupture/deterritorialization. But text is about dream, not schizophrenia. Could connect via 【702】 catastrophe schizophrenique as rupture.
+  Reasoning (L23 commentary after this chunk mention):
+    | 16. 【1334】: "schizoanalyse" at end of Witkiewicz: "Mais il est temps que j'marré car, sinon, je me mettrais à vous parler de schizoanalyse!" Not relevant.
+
+
+------------------------------------------------------------
+PATH: # 路径三：过程与秩序的关系——分裂症作为解域化断裂，精神病作为被进入的秩序/配置
+Cited chunks: [1060, 1077, 258]
+------------------------------------------------------------
+
+  ..................................................
+  CHUNK 1060 IN PATH "# 路径三：过程与秩序的关系——分裂症作为解域化断裂，精神病作为被进入的秩序/配置"
+  ..................................................
+  --- Context #1 (L23 pos=3535) ---
+  Mention: - 【1060】 "schizophrenie ne résultat jamais d'une deduction cognitive mais s'instaure d'embelle comme entrée dans des ordonnées psychotiques."
+  Reasoning (L23 commentary after this chunk mention):
+    | - 【1077】 "dream... subjection..." no.
+    | - 【1178】 "syndromes psychopathologiques", "autism", "mélancolie", "manie", "catatonie".
+
+  --- Context #2 (L23 pos=5814) ---
+  Mention: 2. 【204】: lists "univers de la névrose, de la pervasion, de la psychose, de la sublimation, etc." It mentions psychosis as one existential universe among neurosis, perversion, sublimation. Schizophrenia not listed but maybe under psychosis. This suggests psychosis is a category of existential production; schizophrenia may be a specific case? Need combine with 【1060】.
+  Reasoning (L23 commentary after this chunk mention):
+    | 3. 【131】: "Freud n'envisageait que deux options – la lente et mélancolique liquidation de la libido investie sur l'objet perdu, ou en cas d'extreme fixation, une *psychose hallucinatoire de desir*" This indicates psychosis hallucinatory of desire as an extreme fixation option in mourning. Schizophrenia not mentioned but psychosis as extreme fixation. Could be path.
+
+  --- Context #3 (L23 pos=13172) ---
+  Mention: - 路径一：概念层级：精神病作为更广登记/秩序，精神分裂症作为进入精神病秩序的一种方式。 Use 【1060】 direct, 【204】, 【131】, 【107】.
+  Reasoning (L23 commentary after this chunk mention):
+    | - 路径二：临床病理学谱系：精神病包括神经症、精神病、倒错、升华等；精神分裂症是精神病的一个极端/灾难性形态。 Use 【204】, 【702】, 【126】? 【131】.
+    | - 路径三：分裂症作为过程/破裂/解域化 vs 精神病作为临床/结构分类。 Use 【702】, 【1077】, 【18】, 【258】.
+
+  --- Context #4 (L23 pos=13532) ---
+  Mention: - 路径五：现象学/时间性/情感：精神病作为妄想/自动症/时间性障碍，分裂症作为进入精神病坐标的断裂，不可由认知推导。 Use 【1060】, 【1178】, 【1208】, 【869】.
+  Reasoning (L23 commentary after this chunk mention):
+    | - 路径六：与精神分析/拉康结构主义的关系：精神病/分裂症不是语言结构决定，而是异质主体性生产；精神分析将精神病纳入俄狄浦斯三角，分裂分析扩展。 Use 【107】, 【944】, 【115】 maybe.
+
+
+  ..................................................
+  CHUNK 1077 IN PATH "# 路径三：过程与秩序的关系——分裂症作为解域化断裂，精神病作为被进入的秩序/配置"
+  ..................................................
+  --- Context #1 (L23 pos=2226) ---
+  Mention: - 【1077】"Les objets partiels qui le travailnent ne pas mutilés par une castration symbolique mais ouverture à titre d'opérateurs de subjection autonomies. La coupe, la brisure du sens, n'est qu'une manifestation d'une subjection à l'état naissant. Elle est fractalisation nécessaire et suffisante ce que quelque chose advienne la où tout était clos. Elle est ouverture deterritorialisée." This about dream and subjection, not directly.
+  Reasoning (L23 commentary after this chunk mention):
+    | - 【110?】 no.
+
+  --- Context #2 (L23 pos=3677) ---
+  Mention: - 【1077】 "dream... subjection..." no.
+  Reasoning (L23 commentary after this chunk mention):
+    | - 【1178】 "syndromes psychopathologiques", "autism", "mélancolie", "manie", "catatonie". 
+    | - 【1197】 no.
+
+  --- Context #3 (L23 pos=4157) ---
+  Mention: - 【1077】 dream.
+  Reasoning (L23 commentary after this chunk mention):
+    | - 【1178】 syndromes.
+    | - 【1208】 "automatisms psychologiques de Pierre Janet, expériences delirantes primaires de Karl Jaspers"
+
+  --- Context #4 (L23 pos=13345) ---
+  Mention: - 路径三：分裂症作为过程/破裂/解域化 vs 精神病作为临床/结构分类。 Use 【702】, 【1077】, 【18】, 【258】.
+  Reasoning (L23 commentary after this chunk mention):
+    | - 路径四：分裂分析视角：不将二者视为固定本质，而是 Agencements/主体性生产；精神病是自由度冻结，分裂症是过程/灾难/创造。 Use 【266】, 【107】, 【258】, 【1208】.
+    | - 路径五：现象学/时间性/情感：精神病作为妄想/自动症/时间性障碍，分裂症作为进入精神病坐标的断裂，不可由认知推导。 Use 【1060】, 【1178】, 【1208】, 【869】.
+
+
+  ..................................................
+  CHUNK 258 IN PATH "# 路径三：过程与秩序的关系——分裂症作为解域化断裂，精神病作为被进入的秩序/配置"
+  ..................................................
+  --- Context #1 (L23 pos=1356) ---
+  Mention: - 【258】schizoanalyse vs psychanalystes; "formations collectives..."; "Affects subjectifs et Effets machiniques".
+  Reasoning (L23 commentary after this chunk mention):
+    | - 【260】"L'INCONSCIENT SCHIZOANALYTIQUE"
+    | - 【261】"Le terme d'Inconscient n'est ici maintenu que par commodité..."
+
+  --- Context #2 (L23 pos=13359) ---
+  Mention: - 路径三：分裂症作为过程/破裂/解域化 vs 精神病作为临床/结构分类。 Use 【702】, 【1077】, 【18】, 【258】.
+- 路径四：分裂分析视角：不将二者视为固定本质，而是 Agencements/主体性生产；精神病是自由度冻结，分裂症是过程/灾难/创造。 Use 【266】, 【107】, 【258】, 【1208】.
+  Reasoning (L23 commentary after this chunk mention):
+    | - 路径五：现象学/时间性/情感：精神病作为妄想/自动症/时间性障碍，分裂症作为进入精神病坐标的断裂，不可由认知推导。 Use 【1060】, 【1178】, 【1208】, 【869】.
+    | - 路径六：与精神分析/拉康结构主义的关系：精神病/分裂症不是语言结构决定，而是异质主体性生产；精神分析将精神病纳入俄狄浦斯三角，分裂分析扩展。 Use 【107】, 【944】, 【115】 maybe.
+
+  --- Context #3 (L23 pos=13453) ---
+  Mention: - 路径四：分裂分析视角：不将二者视为固定本质，而是 Agencements/主体性生产；精神病是自由度冻结，分裂症是过程/灾难/创造。 Use 【266】, 【107】, 【258】, 【1208】.
+  Reasoning (L23 commentary after this chunk mention):
+    | - 路径五：现象学/时间性/情感：精神病作为妄想/自动症/时间性障碍，分裂症作为进入精神病坐标的断裂，不可由认知推导。 Use 【1060】, 【1178】, 【1208】, 【869】.
+    | - 路径六：与精神分析/拉康结构主义的关系：精神病/分裂症不是语言结构决定，而是异质主体性生产；精神分析将精神病纳入俄狄浦斯三角，分裂分析扩展。 Use 【107】, 【944】, 【115】 maybe.
+
+  --- Context #4 (L23 pos=36564) ---
+  Mention: 3. 【258】提取：分裂分析离开个人化解释，转向 Agencements 的探索。判断：分裂症/精神病不应被固定为病种，而是 Agencement 的不同配置。
+  Reasoning (L23 commentary after this chunk mention):
+    | Conclusion: 分裂症在材料中可指一种解域化、断裂、开口的过程；精神病则可指被临床/结构固定的坐标或自由度冻结。二者关系是过程与秩序、开口与冻结之间的张力，而非简单同一。
+
+
+------------------------------------------------------------
+PATH: # 路径四：现象学—时间性—情感关系——精神病是妄想/自动症/时间化紊乱的领域，分裂症是进入该领域的突发模式
+Cited chunks: [1060, 1178, 1208]
+------------------------------------------------------------
+
+  ..................................................
+  CHUNK 1060 IN PATH "# 路径四：现象学—时间性—情感关系——精神病是妄想/自动症/时间化紊乱的领域，分裂症是进入该领域的突发模式"
+  ..................................................
+  --- Context #1 (L23 pos=3535) ---
+  Mention: - 【1060】 "schizophrenie ne résultat jamais d'une deduction cognitive mais s'instaure d'embelle comme entrée dans des ordonnées psychotiques."
+  Reasoning (L23 commentary after this chunk mention):
+    | - 【1077】 "dream... subjection..." no.
+    | - 【1178】 "syndromes psychopathologiques", "autism", "mélancolie", "manie", "catatonie".
+
+  --- Context #2 (L23 pos=5814) ---
+  Mention: 2. 【204】: lists "univers de la névrose, de la pervasion, de la psychose, de la sublimation, etc." It mentions psychosis as one existential universe among neurosis, perversion, sublimation. Schizophrenia not listed but maybe under psychosis. This suggests psychosis is a category of existential production; schizophrenia may be a specific case? Need combine with 【1060】.
+  Reasoning (L23 commentary after this chunk mention):
+    | 3. 【131】: "Freud n'envisageait que deux options – la lente et mélancolique liquidation de la libido investie sur l'objet perdu, ou en cas d'extreme fixation, une *psychose hallucinatoire de desir*" This indicates psychosis hallucinatory of desire as an extreme fixation option in mourning. Schizophrenia not mentioned but psychosis as extreme fixation. Could be path.
+
+  --- Context #3 (L23 pos=13172) ---
+  Mention: - 路径一：概念层级：精神病作为更广登记/秩序，精神分裂症作为进入精神病秩序的一种方式。 Use 【1060】 direct, 【204】, 【131】, 【107】.
+  Reasoning (L23 commentary after this chunk mention):
+    | - 路径二：临床病理学谱系：精神病包括神经症、精神病、倒错、升华等；精神分裂症是精神病的一个极端/灾难性形态。 Use 【204】, 【702】, 【126】? 【131】.
+    | - 路径三：分裂症作为过程/破裂/解域化 vs 精神病作为临床/结构分类。 Use 【702】, 【1077】, 【18】, 【258】.
+
+  --- Context #4 (L23 pos=13532) ---
+  Mention: - 路径五：现象学/时间性/情感：精神病作为妄想/自动症/时间性障碍，分裂症作为进入精神病坐标的断裂，不可由认知推导。 Use 【1060】, 【1178】, 【1208】, 【869】.
+  Reasoning (L23 commentary after this chunk mention):
+    | - 路径六：与精神分析/拉康结构主义的关系：精神病/分裂症不是语言结构决定，而是异质主体性生产；精神分析将精神病纳入俄狄浦斯三角，分裂分析扩展。 Use 【107】, 【944】, 【115】 maybe.
+
+
+  ..................................................
+  CHUNK 1178 IN PATH "# 路径四：现象学—时间性—情感关系——精神病是妄想/自动症/时间化紊乱的领域，分裂症是进入该领域的突发模式"
+  ..................................................
+  --- Context #1 (L23 pos=2675) ---
+  Mention: - 【1178】 mention "syndromes psychopathologiques", "temps pathique", "autism", "mélancolie", "manie", "catatonie". Not directly schizophrenia/psychosis.
+  Reasoning (L23 commentary after this chunk mention):
+    | - 【1197?】 no.
+    | - 【1334?】 no.
+
+  --- Context #2 (L23 pos=3715) ---
+  Mention: - 【1178】 "syndromes psychopathologiques", "autism", "mélancolie", "manie", "catatonie". 
+  Reasoning (L23 commentary after this chunk mention):
+    | - 【1197】 no.
+    | - 【1334】 "schizoanalyse" at end.
+
+  --- Context #3 (L23 pos=4173) ---
+  Mention: - 【1178】 syndromes.
+  Reasoning (L23 commentary after this chunk mention):
+    | - 【1208】 "automatisms psychologiques de Pierre Janet, expériences delirantes primaires de Karl Jaspers"
+    | - 【1310】 "inhibition... perverse...".
+
+  --- Context #4 (L23 pos=13540) ---
+  Mention: - 路径五：现象学/时间性/情感：精神病作为妄想/自动症/时间性障碍，分裂症作为进入精神病坐标的断裂，不可由认知推导。 Use 【1060】, 【1178】, 【1208】, 【869】.
+  Reasoning (L23 commentary after this chunk mention):
+    | - 路径六：与精神分析/拉康结构主义的关系：精神病/分裂症不是语言结构决定，而是异质主体性生产；精神分析将精神病纳入俄狄浦斯三角，分裂分析扩展。 Use 【107】, 【944】, 【115】 maybe.
+
+
+  ..................................................
+  CHUNK 1208 IN PATH "# 路径四：现象学—时间性—情感关系——精神病是妄想/自动症/时间化紊乱的领域，分裂症是进入该领域的突发模式"
+  ..................................................
+  --- Context #1 (L23 pos=4193) ---
+  Mention: - 【1208】 "automatisms psychologiques de Pierre Janet, expériences delirantes primaires de Karl Jaspers"
+  Reasoning (L23 commentary after this chunk mention):
+    | - 【1310】 "inhibition... perverse...".
+    | - 【1313】 "hystérique, obsessionnelle, paranoïaque" as modes of apprehension.
+
+  --- Context #2 (L23 pos=12337) ---
+  Mention: 26. 【1208】: "ritournelles symptomatiques... automatismes psychologiques de Pierre Janet, expériences délirantes primaires de Karl Jaspers..." These are symptomatic ritournelles; two attitudes: fixed or open. Psychosis as delirium, automatism; schizophrenia as one such ritournelle? Good.
+  Reasoning (L23 commentary after this chunk mention):
+    | 27. 【1366】: "visage du Christ... hante subjectivité capitalistique" no.
+
+  --- Context #3 (L23 pos=13460) ---
+  Mention: - 路径四：分裂分析视角：不将二者视为固定本质，而是 Agencements/主体性生产；精神病是自由度冻结，分裂症是过程/灾难/创造。 Use 【266】, 【107】, 【258】, 【1208】.
+  Reasoning (L23 commentary after this chunk mention):
+    | - 路径五：现象学/时间性/情感：精神病作为妄想/自动症/时间性障碍，分裂症作为进入精神病坐标的断裂，不可由认知推导。 Use 【1060】, 【1178】, 【1208】, 【869】.
+    | - 路径六：与精神分析/拉康结构主义的关系：精神病/分裂症不是语言结构决定，而是异质主体性生产；精神分析将精神病纳入俄狄浦斯三角，分裂分析扩展。 Use 【107】, 【944】, 【115】 maybe.
+
+  --- Context #4 (L23 pos=13548) ---
+  Mention: - 路径五：现象学/时间性/情感：精神病作为妄想/自动症/时间性障碍，分裂症作为进入精神病坐标的断裂，不可由认知推导。 Use 【1060】, 【1178】, 【1208】, 【869】.
+  Reasoning (L23 commentary after this chunk mention):
+    | - 路径六：与精神分析/拉康结构主义的关系：精神病/分裂症不是语言结构决定，而是异质主体性生产；精神分析将精神病纳入俄狄浦斯三角，分裂分析扩展。 Use 【107】, 【944】, 【115】 maybe.
+
+
+------------------------------------------------------------
+PATH: # 路径五：分裂分析/反本质化关系——二者都是主体性生产的不同 Agencements，精神病是广义宇宙，分裂症是灾难性—创造性过程
+Cited chunks: [107, 258, 869, 944]
+------------------------------------------------------------
+
+  ..................................................
+  CHUNK 107 IN PATH "# 路径五：分裂分析/反本质化关系——二者都是主体性生产的不同 Agencements，精神病是广义宇宙，分裂症是灾难性—创造性过程"
+  ..................................................
+  --- Context #1 (L23 pos=1108) ---
+  Mention: - 【107】提到 "triangle edipien et castration symbolique", "psychopathologie", "schizoanalyse" meta-model
+  Reasoning (L23 commentary after this chunk mention):
+    | - 【126】"processus moléculaires, qui sont à l'œuvre dans une névrose hystérique ou une névrose obsessionnelle..." mentions "névrose" not psychose.
+    | - 【258】schizoanalyse vs psychanalystes; "formations collectives..."; "Affects subjectifs et Effets machiniques".
+
+  --- Context #2 (L23 pos=2993) ---
+  Mention: - 【107】 "psychopathologie"
+  Reasoning (L23 commentary after this chunk mention):
+    | - 【126】 "névrose hystérique ou névrose obsessionnelle"
+    | - 【131】 "psychose hallucinatoire de desir" (Freud). This is psychosis.
+
+  --- Context #3 (L23 pos=11036) ---
+  Mention: 20. 【107】: "schizoanalyse... meta-modélisateur de tous ces domaines hétérônes... matières à option" including psychopathology. This is useful: schizoanalysis treats psychopathology (including psychosis/schizophrenia) as matter for meta-modeling, not as fixed disease.
+  Reasoning (L23 commentary after this chunk mention):
+    | 21. 【108】: "Les Agencements non sémiotiques" etc. Could classify psychosis as non-semiotic? no.
+
+  --- Context #4 (L23 pos=13201) ---
+  Mention: - 路径一：概念层级：精神病作为更广登记/秩序，精神分裂症作为进入精神病秩序的一种方式。 Use 【1060】 direct, 【204】, 【131】, 【107】.
+- 路径二：临床病理学谱系：精神病包括神经症、精神病、倒错、升华等；精神分裂症是精神病的一个极端/灾难性形态。 Use 【204】, 【702】, 【126】? 【131】.
+  Reasoning (L23 commentary after this chunk mention):
+    | - 路径三：分裂症作为过程/破裂/解域化 vs 精神病作为临床/结构分类。 Use 【702】, 【1077】, 【18】, 【258】.
+    | - 路径四：分裂分析视角：不将二者视为固定本质，而是 Agencements/主体性生产；精神病是自由度冻结，分裂症是过程/灾难/创造。 Use 【266】, 【107】, 【258】, 【1208】.
+
+
+  ..................................................
+  CHUNK 258 IN PATH "# 路径五：分裂分析/反本质化关系——二者都是主体性生产的不同 Agencements，精神病是广义宇宙，分裂症是灾难性—创造性过程"
+  ..................................................
+  --- Context #1 (L23 pos=1356) ---
+  Mention: - 【258】schizoanalyse vs psychanalystes; "formations collectives..."; "Affects subjectifs et Effets machiniques".
+  Reasoning (L23 commentary after this chunk mention):
+    | - 【260】"L'INCONSCIENT SCHIZOANALYTIQUE"
+    | - 【261】"Le terme d'Inconscient n'est ici maintenu que par commodité..."
+
+  --- Context #2 (L23 pos=13359) ---
+  Mention: - 路径三：分裂症作为过程/破裂/解域化 vs 精神病作为临床/结构分类。 Use 【702】, 【1077】, 【18】, 【258】.
+- 路径四：分裂分析视角：不将二者视为固定本质，而是 Agencements/主体性生产；精神病是自由度冻结，分裂症是过程/灾难/创造。 Use 【266】, 【107】, 【258】, 【1208】.
+  Reasoning (L23 commentary after this chunk mention):
+    | - 路径五：现象学/时间性/情感：精神病作为妄想/自动症/时间性障碍，分裂症作为进入精神病坐标的断裂，不可由认知推导。 Use 【1060】, 【1178】, 【1208】, 【869】.
+    | - 路径六：与精神分析/拉康结构主义的关系：精神病/分裂症不是语言结构决定，而是异质主体性生产；精神分析将精神病纳入俄狄浦斯三角，分裂分析扩展。 Use 【107】, 【944】, 【115】 maybe.
+
+  --- Context #3 (L23 pos=13453) ---
+  Mention: - 路径四：分裂分析视角：不将二者视为固定本质，而是 Agencements/主体性生产；精神病是自由度冻结，分裂症是过程/灾难/创造。 Use 【266】, 【107】, 【258】, 【1208】.
+  Reasoning (L23 commentary after this chunk mention):
+    | - 路径五：现象学/时间性/情感：精神病作为妄想/自动症/时间性障碍，分裂症作为进入精神病坐标的断裂，不可由认知推导。 Use 【1060】, 【1178】, 【1208】, 【869】.
+    | - 路径六：与精神分析/拉康结构主义的关系：精神病/分裂症不是语言结构决定，而是异质主体性生产；精神分析将精神病纳入俄狄浦斯三角，分裂分析扩展。 Use 【107】, 【944】, 【115】 maybe.
+
+  --- Context #4 (L23 pos=36564) ---
+  Mention: 3. 【258】提取：分裂分析离开个人化解释，转向 Agencements 的探索。判断：分裂症/精神病不应被固定为病种，而是 Agencement 的不同配置。
+  Reasoning (L23 commentary after this chunk mention):
+    | Conclusion: 分裂症在材料中可指一种解域化、断裂、开口的过程；精神病则可指被临床/结构固定的坐标或自由度冻结。二者关系是过程与秩序、开口与冻结之间的张力，而非简单同一。
+
+
+  ..................................................
+  CHUNK 869 IN PATH "# 路径五：分裂分析/反本质化关系——二者都是主体性生产的不同 Agencements，精神病是广义宇宙，分裂症是灾难性—创造性过程"
+  ..................................................
+  --- Context #1 (L23 pos=3358) ---
+  Mention: - 【869】 "névrotico-psychotique" - "désir qui, pour être névrotico-psychotique, n'en est pas moins intense et authentique."
+  Reasoning (L23 commentary after this chunk mention):
+    | - 【944】 "psychiatrie phénoménologique... symptôme..."
+    | - 【1060】 "schizophrenie ne résultat jamais d'une deduction cognitive mais s'instaure d'embelle comme entrée dans des ordonnées psychotiques."
+
+  --- Context #2 (L23 pos=13556) ---
+  Mention: - 路径五：现象学/时间性/情感：精神病作为妄想/自动症/时间性障碍，分裂症作为进入精神病坐标的断裂，不可由认知推导。 Use 【1060】, 【1178】, 【1208】, 【869】.
+- 路径六：与精神分析/拉康结构主义的关系：精神病/分裂症不是语言结构决定，而是异质主体性生产；精神分析将精神病纳入俄狄浦斯三角，分裂分析扩展。 Use 【107】, 【944】, 【115】 maybe.
+  Reasoning (L23 commentary after this chunk mention):
+    | Need ensure each step cites one or more materials. We can quote short text and interpret. Since material is French, we can quote French snippet. The user asked Chinese. We can write Chinese with French quotes. Need citations 【【N】】.
+
+  --- Context #3 (L23 pos=37467) ---
+  Mention: 4. 【869】提取：神经症-精神病性欲望仍然强烈而真实，是过程性逃逸线。判断：精神病性/分裂症性不是纯粹缺陷，而是有强度的欲望过程。
+  Reasoning (L23 commentary after this chunk mention):
+    | Conclusion: 在分裂分析中，精神病是广义存在宇宙/配置，分裂症是其中灾难性-创造性的过程；二者应被 cartographier 而非本质化。
+
+  --- Context #4 (L23 pos=42975) ---
+  Mention: Step3: 【869】: "désir névrotico-psychotique" remains intense and authentic, as processual focus/line of flight. Extract: psychotic desire not mere deficit.
+  Reasoning (L23 commentary after this chunk mention):
+    | Step4: 【258】: schizoanalysis explores Agencements, not personal interpretation. Extract: relation should be cartographed as Agencement transformation.
+    | Conclusion: 在分裂分析中，精神病是广义存在宇宙/配置，分裂症是其中灾难性-创造性的过程；二者应被 cartographier，而非本质化。
+
+
+  ..................................................
+  CHUNK 944 IN PATH "# 路径五：分裂分析/反本质化关系——二者都是主体性生产的不同 Agencements，精神病是广义宇宙，分裂症是灾难性—创造性过程"
+  ..................................................
+  --- Context #1 (L23 pos=1841) ---
+  Mention: - 【944】"psychiatrie phénoménologique... psychanalyse lacanienne..."
+  Reasoning (L23 commentary after this chunk mention):
+    | - 【1060】"la reconnaître avec la schizophrenie ne résultat jamais d'une deduction cognitive mais s'instaure d'embelle comme entrée dans des ordonnées psychotiques." Aha direct: schizophrenia results never from cognitive deduction but installs as entry into psychotic ordinates. This links schizophrenia and psychotic.
+
+  --- Context #2 (L23 pos=3481) ---
+  Mention: - 【944】 "psychiatrie phénoménologique... symptôme..."
+  Reasoning (L23 commentary after this chunk mention):
+    | - 【1060】 "schizophrenie ne résultat jamais d'une deduction cognitive mais s'instaure d'embelle comme entrée dans des ordonnées psychotiques."
+    | - 【1077】 "dream... subjection..." no.
+
+  --- Context #3 (L23 pos=13647) ---
+  Mention: - 路径六：与精神分析/拉康结构主义的关系：精神病/分裂症不是语言结构决定，而是异质主体性生产；精神分析将精神病纳入俄狄浦斯三角，分裂分析扩展。 Use 【107】, 【944】, 【115】 maybe.
+  Reasoning (L23 commentary after this chunk mention):
+    | Need ensure each step cites one or more materials. We can quote short text and interpret. Since material is French, we can quote French snippet. The user asked Chinese. We can write Chinese with French quotes. Need citations 【【N】】.
+
+  --- Context #4 (L23 pos=37355) ---
+  Mention: 3. 【944】提取：现象学精神病学与拉康精神分析试图区分症状/现象或符号，但不足以解释具体主体性生产；主体性生产是异质、多中心、依赖 Agencement 的。判断：精神病/分裂症的关系不能由症状学或结构语言学单一决定。
+  Reasoning (L23 commentary after this chunk mention):
+    | 4. 【869】提取：神经症-精神病性欲望仍然强烈而真实，是过程性逃逸线。判断：精神病性/分裂症性不是纯粹缺陷，而是有强度的欲望过程。
+    | Conclusion: 在分裂分析中，精神病是广义存在宇宙/配置，分裂症是其中灾难性-创造性的过程；二者应被 cartographier 而非本质化。
+

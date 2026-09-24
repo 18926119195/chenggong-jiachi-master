@@ -1,0 +1,888 @@
+[
+  {
+    "surface": "Se fonctionnent",
+    "valid": false,
+    "reason": "代词+动词变位，非名词"
+  },
+  {
+    "surface": "Le seul constitutif",
+    "valid": true
+  },
+  {
+    "surface": "un Agenmentation",
+    "valid": false,
+    "reason": "冠词+拼写错误/非标准名词形式"
+  },
+  {
+    "surface": "énoncation",
+    "valid": false,
+    "reason": "拼写错误，非标准名词"
+  },
+  {
+    "surface": "une teile articulation",
+    "valid": false,
+    "reason": "含拼写错误teile，非规范名词短语"
+  },
+  {
+    "surface": "lieu",
+    "valid": true
+  },
+  {
+    "surface": "seil",
+    "valid": false,
+    "reason": "拼写错误/非词"
+  },
+  {
+    "surface": "- de consistance F.",
+    "valid": false,
+    "reason": "标点碎片+介词+缩写混合"
+  },
+  {
+    "surface": "un Effet systémique",
+    "valid": true
+  },
+  {
+    "surface": "F.Φ.T.U.F.Complexion",
+    "valid": false,
+    "reason": "符号缩写混合碎片"
+  },
+  {
+    "surface": "Me)Effet systémique",
+    "valid": false,
+    "reason": "括号碎片+名词混合"
+  },
+  {
+    "surface": "Se)T.",
+    "valid": false,
+    "reason": "代词/碎片+缩写"
+  },
+  {
+    "surface": "sensibleΦ.Effet",
+    "valid": false,
+    "reason": "符号混合碎片"
+  },
+  {
+    "surface": "Se)Rhizome",
+    "valid": false,
+    "reason": "代词碎片+名词"
+  },
+  {
+    "surface": "Rm)T. nocturneT.T.",
+    "valid": false,
+    "reason": "缩写符号碎片混合"
+  },
+  {
+    "surface": "tiqueDésoupe",
+    "valid": false,
+    "reason": "拼写错误/非词"
+  },
+  {
+    "surface": "Me)Affect structural",
+    "valid": false,
+    "reason": "碎片+名词短语"
+  },
+  {
+    "surface": "Se)U.T.",
+    "valid": false,
+    "reason": "代词碎片+缩写"
+  },
+  {
+    "surface": "Se)Constellation",
+    "valid": false,
+    "reason": "代词碎片+名词"
+  },
+  {
+    "surface": "autres formations",
+    "valid": true
+  },
+  {
+    "surface": "recherche",
+    "valid": true
+  },
+  {
+    "surface": "Le cycle",
+    "valid": true
+  },
+  {
+    "surface": "Première approche globale",
+    "valid": true
+  },
+  {
+    "surface": "virtualisation",
+    "valid": true
+  },
+  {
+    "surface": "une relation",
+    "valid": true
+  },
+  {
+    "surface": "persistance Sa",
+    "valid": false,
+    "reason": "名词+代词碎片混合"
+  },
+  {
+    "surface": "actualisation",
+    "valid": true
+  },
+  {
+    "surface": "un Effet",
+    "valid": true
+  },
+  {
+    "surface": "Ce jeu",
+    "valid": true
+  },
+  {
+    "surface": "renversement",
+    "valid": true
+  },
+  {
+    "surface": "l'impulsion virtuelle",
+    "valid": true
+  },
+  {
+    "surface": "l'expansion",
+    "valid": true
+  },
+  {
+    "surface": "l'elimination totale",
+    "valid": true
+  },
+  {
+    "surface": "affect",
+    "valid": true
+  },
+  {
+    "surface": "Oeff",
+    "valid": false,
+    "reason": "拼写错误/非词"
+  },
+  {
+    "surface": "D'eff",
+    "valid": false,
+    "reason": "介词+缩写碎片"
+  },
+  {
+    "surface": "Plus un Affect",
+    "valid": false,
+    "reason": "副词+冠词+名词，非名词短语"
+  },
+  {
+    "surface": "degré",
+    "valid": true
+  },
+  {
+    "surface": "zero",
+    "valid": true
+  },
+  {
+    "surface": "plus l'Effet différencié",
+    "valid": false,
+    "reason": "副词+冠词+名词，非名词短语"
+  },
+  {
+    "surface": "L'affectation virtuelle",
+    "valid": true
+  },
+  {
+    "surface": "la affectation",
+    "valid": true
+  },
+  {
+    "surface": "mémé",
+    "valid": false,
+    "reason": "拼写错误/非标准词"
+  },
+  {
+    "surface": "stat",
+    "valid": false,
+    "reason": "缩写/碎片"
+  },
+  {
+    "surface": "Il n'est plus question",
+    "valid": false,
+    "reason": "代词+动词变位+副词，非名词"
+  },
+  {
+    "surface": "un cristal",
+    "valid": true
+  },
+  {
+    "surface": "auquel",
+    "valid": false,
+    "reason": "关系代词"
+  },
+  {
+    "surface": "une actualisation viendra",
+    "valid": false,
+    "reason": "冠词+名词+动词，非名词短语"
+  },
+  {
+    "surface": "Les charges virtuelles",
+    "valid": true
+  },
+  {
+    "surface": "potentiels",
+    "valid": true
+  },
+  {
+    "surface": "que les charges actuelles",
+    "valid": false,
+    "reason": "连词+冠词+名词，非名词短语"
+  },
+  {
+    "surface": "les physiciens",
+    "valid": true
+  },
+  {
+    "surface": "POURQUOI PARTIR",
+    "valid": false,
+    "reason": "疑问副词+动词，非名词"
+  },
+  {
+    "surface": "QUATRE ENTITÉS",
+    "valid": true
+  },
+  {
+    "surface": "Les axiomatiques",
+    "valid": true
+  },
+  {
+    "surface": "deux termes",
+    "valid": true
+  },
+  {
+    "surface": "Étre",
+    "valid": false,
+    "reason": "拼写错误/助动词形式"
+  },
+  {
+    "surface": "Néant",
+    "valid": true
+  },
+  {
+    "surface": "un représentation «",
+    "valid": false,
+    "reason": "冠词+名词+标点碎片"
+  },
+  {
+    "surface": "à un «",
+    "valid": false,
+    "reason": "介词+冠词+标点碎片"
+  },
+  {
+    "surface": "trois termes",
+    "valid": true
+  },
+  {
+    "surface": "des determinismes pyramidaux",
+    "valid": true
+  },
+  {
+    "surface": ", arborescents",
+    "valid": false,
+    "reason": "标点碎片+形容词"
+  },
+  {
+    "surface": "une générativité",
+    "valid": true
+  },
+  {
+    "surface": ", une prolifération trans-entiaire",
+    "valid": false,
+    "reason": "标点碎片+冠词+名词短语"
+  },
+  {
+    "surface": "priorité",
+    "valid": true
+  },
+  {
+    "surface": "l'entrance",
+    "valid": true
+  },
+  {
+    "surface": "sa rapport",
+    "valid": false,
+    "reason": "限定词+名词，语法错误/非规范名词短语"
+  },
+  {
+    "surface": "infra-structure",
+    "valid": true
+  },
+  {
+    "surface": "super-structure)",
+    "valid": false,
+    "reason": "名词+括号碎片"
+  },
+  {
+    "surface": "auto-affirmation",
+    "valid": true
+  },
+  {
+    "surface": "auto-retroaction",
+    "valid": true
+  },
+  {
+    "surface": "fondement",
+    "valid": true
+  },
+  {
+    "surface": "Jean-Pierre Dupuy) ou auto-poelétique",
+    "valid": false,
+    "reason": "专名+括号+连词+拼写错误混合"
+  },
+  {
+    "surface": "Francois",
+    "valid": true
+  },
+  {
+    "surface": "ce double mouvement",
+    "valid": true
+  },
+  {
+    "surface": "affectation",
+    "valid": true
+  },
+  {
+    "surface": "d'effectuation",
+    "valid": true
+  },
+  {
+    "surface": "la remise",
+    "valid": true
+  },
+  {
+    "surface": "des hierarchies",
+    "valid": true
+  },
+  {
+    "surface": "les logiques",
+    "valid": true
+  },
+  {
+    "surface": "Bert Russel",
+    "valid": true
+  },
+  {
+    "surface": "puisu'",
+    "valid": false,
+    "reason": "拼写错误/碎片"
+  },
+  {
+    "surface": "notre développement",
+    "valid": true
+  },
+  {
+    "surface": "les mêmes instances",
+    "valid": true
+  },
+  {
+    "surface": "quanta élémentaires",
+    "valid": true
+  },
+  {
+    "surface": "correlation *",
+    "valid": false,
+    "reason": "名词+符号碎片"
+  },
+  {
+    "surface": "pré-energétique",
+    "valid": true
+  },
+  {
+    "surface": "oopérateur sémiotique",
+    "valid": false,
+    "reason": "拼写错误+名词短语"
+  },
+  {
+    "surface": "Alors, une logique",
+    "valid": false,
+    "reason": "连词/副词+冠词+名词，非名词短语"
+  },
+  {
+    "surface": "intensités archéiques1",
+    "valid": false,
+    "reason": "名词+数字碎片"
+  },
+  {
+    "surface": "uneère",
+    "valid": false,
+    "reason": "拼写错误/非词"
+  },
+  {
+    "surface": "des signes",
+    "valid": true
+  },
+  {
+    "surface": "particulés",
+    "valid": false,
+    "reason": "拼写错误/非标准词"
+  },
+  {
+    "surface": "Vareta",
+    "valid": false,
+    "reason": "拼写错误/非标准词"
+  },
+  {
+    "surface": "exo",
+    "valid": false,
+    "reason": "前缀/碎片"
+  },
+  {
+    "surface": "types",
+    "valid": true
+  },
+  {
+    "surface": "notion",
+    "valid": true
+  },
+  {
+    "surface": "- des notions",
+    "valid": false,
+    "reason": "标点碎片+冠词+名词"
+  },
+  {
+    "surface": "les méta-modélisations",
+    "valid": true
+  },
+  {
+    "surface": "une multiplicité hétérénale",
+    "valid": true
+  },
+  {
+    "surface": "hétérénégène",
+    "valid": false,
+    "reason": "拼写错误/非标准词"
+  },
+  {
+    "surface": "hétérénégense spécifiques",
+    "valid": false,
+    "reason": "拼写错误+形容词"
+  },
+  {
+    "surface": "problématiques",
+    "valid": true
+  },
+  {
+    "surface": "Le discontinu unaire",
+    "valid": true
+  },
+  {
+    "surface": "la contingence T.",
+    "valid": false,
+    "reason": "名词+缩写碎片"
+  },
+  {
+    "surface": "multiplicités intensives",
+    "valid": true
+  },
+  {
+    "surface": "Energétique",
+    "valid": true
+  },
+  {
+    "surface": "Temporelle",
+    "valid": false,
+    "reason": "形容词，非名词"
+  },
+  {
+    "surface": "Cet ordre séquentiel",
+    "valid": true
+  },
+  {
+    "surface": "deux modalités",
+    "valid": true
+  },
+  {
+    "surface": "porelles",
+    "valid": false,
+    "reason": "拼写错误/非标准词"
+  },
+  {
+    "surface": "la contingence",
+    "valid": true
+  },
+  {
+    "surface": "l'aute",
+    "valid": false,
+    "reason": "拼写错误/非标准词"
+  },
+  {
+    "surface": "operateurs",
+    "valid": true
+  },
+  {
+    "surface": "hétérogènes",
+    "valid": false,
+    "reason": "形容词，非名词"
+  },
+  {
+    "surface": "des opérateurs synaptiques",
+    "valid": true
+  },
+  {
+    "surface": "un autre usage",
+    "valid": true
+  },
+  {
+    "surface": "rapports machiniques",
+    "valid": true
+  },
+  {
+    "surface": "- chaînes",
+    "valid": false,
+    "reason": "标点碎片+名词"
+  },
+  {
+    "surface": "L'organisation rhizomatique",
+    "valid": true
+  },
+  {
+    "surface": "chaines",
+    "valid": true
+  },
+  {
+    "surface": "compore",
+    "valid": false,
+    "reason": "拼写错误/非词"
+  },
+  {
+    "surface": "nudus",
+    "valid": false,
+    "reason": "非标准词/碎片"
+  },
+  {
+    "surface": ", des carrefours",
+    "valid": false,
+    "reason": "标点碎片+冠词+名词"
+  },
+  {
+    "surface": "une consistance machinique",
+    "valid": true
+  },
+  {
+    "surface": "l'organisation linéaire",
+    "valid": true
+  },
+  {
+    "surface": "les grappes",
+    "valid": true
+  },
+  {
+    "surface": "les agglomérats",
+    "valid": true
+  },
+  {
+    "surface": "l'organisme",
+    "valid": true
+  },
+  {
+    "surface": "elle les hétérogénise",
+    "valid": false,
+    "reason": "代词+动词变位，非名词"
+  },
+  {
+    "surface": "Sa consistance générale",
+    "valid": true
+  },
+  {
+    "surface": "l'édération",
+    "valid": false,
+    "reason": "拼写错误/非标准词"
+  },
+  {
+    "surface": "changements",
+    "valid": true
+  },
+  {
+    "surface": ", des franchisements",
+    "valid": false,
+    "reason": "标点碎片+冠词+名词"
+  },
+  {
+    "surface": "ments",
+    "valid": false,
+    "reason": "词尾碎片"
+  },
+  {
+    "surface": "seins",
+    "valid": true
+  },
+  {
+    "surface": "deterrence",
+    "valid": true
+  },
+  {
+    "surface": "interiorialisation",
+    "valid": false,
+    "reason": "拼写错误/非标准词"
+  },
+  {
+    "surface": "Des operateurs",
+    "valid": true
+  },
+  {
+    "surface": "trans-deterritorialisation",
+    "valid": true
+  },
+  {
+    "surface": "références",
+    "valid": true
+  },
+  {
+    "surface": "corps",
+    "valid": true
+  },
+  {
+    "surface": "matrice",
+    "valid": true
+  },
+  {
+    "surface": "de méta-modélisation",
+    "valid": true
+  },
+  {
+    "surface": "soops",
+    "valid": false,
+    "reason": "拼写错误/非词"
+  },
+  {
+    "surface": "signe",
+    "valid": true
+  },
+  {
+    "surface": "la formule rhizomatique",
+    "valid": true
+  },
+  {
+    "surface": "la formule",
+    "valid": true
+  },
+  {
+    "surface": "multiples lineariés",
+    "valid": false,
+    "reason": "拼写错误+名词"
+  },
+  {
+    "surface": "de multiples articulations",
+    "valid": true
+  },
+  {
+    "surface": "n articulations machiniques",
+    "valid": false,
+    "reason": "单字母+名词短语"
+  },
+  {
+    "surface": "et des U. incorporels",
+    "valid": false,
+    "reason": "连词+冠词+缩写+形容词"
+  },
+  {
+    "surface": "l'integrale",
+    "valid": true
+  },
+  {
+    "surface": "* contingents *",
+    "valid": false,
+    "reason": "符号+形容词+符号"
+  },
+  {
+    "surface": "tairon",
+    "valid": false,
+    "reason": "拼写错误/非词"
+  },
+  {
+    "surface": "- sur une composition interlininaire",
+    "valid": false,
+    "reason": "标点+介词+冠词+名词短语"
+  },
+  {
+    "surface": "multiplicité polyphonique",
+    "valid": true
+  },
+  {
+    "surface": "Bakhtine",
+    "valid": true
+  },
+  {
+    "surface": "Bakhtin",
+    "valid": true
+  },
+  {
+    "surface": "- sur des mutations énonciatives",
+    "valid": false,
+    "reason": "标点+介词+冠词+名词短语"
+  },
+  {
+    "surface": "ordre harmonique",
+    "valid": true
+  },
+  {
+    "surface": "## Φ.,",
+    "valid": false,
+    "reason": "纯符号碎片"
+  },
+  {
+    "surface": "UNE CATÉGORIE",
+    "valid": true
+  },
+  {
+    "surface": "L'abord phénoménologique",
+    "valid": true
+  },
+  {
+    "surface": "la non-discursivité",
+    "valid": true
+  },
+  {
+    "surface": "du Donne discursif",
+    "valid": true
+  },
+  {
+    "surface": "meta-models",
+    "valid": true
+  },
+  {
+    "surface": "Donnant non discursif",
+    "valid": true
+  },
+  {
+    "surface": "versant",
+    "valid": true
+  },
+  {
+    "surface": "Donne demeure",
+    "valid": false,
+    "reason": "名词+动词变位，非名词短语"
+  },
+  {
+    "surface": "un manque",
+    "valid": true
+  },
+  {
+    "surface": "éculturation",
+    "valid": false,
+    "reason": "拼写错误/非标准词"
+  },
+  {
+    "surface": "intensités non discursives",
+    "valid": true
+  },
+  {
+    "surface": "la multiplicité infinie",
+    "valid": true
+  },
+  {
+    "surface": "d'un état",
+    "valid": true
+  },
+  {
+    "surface": "contingents",
+    "valid": false,
+    "reason": "形容词，非名词"
+  },
+  {
+    "surface": "Structures profondes",
+    "valid": true
+  },
+  {
+    "surface": "ouverture",
+    "valid": true
+  },
+  {
+    "surface": "ordre séquentiel",
+    "valid": true
+  },
+  {
+    "surface": "reféré",
+    "valid": true
+  },
+  {
+    "surface": "discontinuF.T.modélisation",
+    "valid": false,
+    "reason": "符号缩写混合碎片"
+  },
+  {
+    "surface": "référéeméta",
+    "valid": false,
+    "reason": "拼写错误/碎片"
+  },
+  {
+    "surface": "référée",
+    "valid": true
+  },
+  {
+    "surface": "Les séquences machiniques",
+    "valid": true
+  },
+  {
+    "surface": "rhizomatiques",
+    "valid": false,
+    "reason": "形容词，非名词"
+  },
+  {
+    "surface": "d'ouvertures synaptiques",
+    "valid": true
+  },
+  {
+    "surface": "U.T.",
+    "valid": false,
+    "reason": "缩写碎片"
+  },
+  {
+    "surface": "questions",
+    "valid": true
+  },
+  {
+    "surface": "suspens",
+    "valid": true
+  },
+  {
+    "surface": ", Actuel",
+    "valid": false,
+    "reason": "标点碎片+形容词/名词"
+  },
+  {
+    "surface": ", Virtuel",
+    "valid": false,
+    "reason": "标点碎片+形容词/名词"
+  },
+  {
+    "surface": "- le machinisme",
+    "valid": false,
+    "reason": "标点碎片+冠词+名词"
+  },
+  {
+    "surface": "grappes",
+    "valid": true
+  },
+  {
+    "surface": "- le machinisme trans-linéaire",
+    "valid": false,
+    "reason": "标点碎片+冠词+名词短语"
+  },
+  {
+    "surface": "L'exo",
+    "valid": false,
+    "reason": "冠词+前缀碎片"
+  },
+  {
+    "surface": "reférence",
+    "valid": true
+  },
+  {
+    "surface": "dis-",
+    "valid": false,
+    "reason": "前缀碎片"
+  },
+  {
+    "surface": "continus",
+    "valid": false,
+    "reason": "形容词，非名词"
+  },
+  {
+    "surface": "Phylum Φ.",
+    "valid": false,
+    "reason": "名词+符号碎片"
+  }
+]

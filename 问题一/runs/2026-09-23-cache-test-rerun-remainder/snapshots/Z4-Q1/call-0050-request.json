@@ -1,0 +1,16 @@
+{
+  "callId": "call-0050",
+  "questionId": "Z4-Q1",
+  "timestamp": "2026-09-23T07-37-34-993Z",
+  "promptLength": 2254,
+  "promptPreview": "问题：Guattari对机器欲望的具体定义是什么？\n\n材料：\n\n【【1】】(命中: 0)\nune interprétation de contenus profonds mais participer d'une machinique tout en surface du texte\n\n【【2】】(命中: 0)\ndiscurses et virtuelles : C. Les Propositions machiniques, à titre d'intégrale des ritournelles\n\n【【3】】(命中: 0)\neffectuatrices du déterritorialisme. Les propositions machiniques qui, à travers des opérateurs machiniques concrets\n\n【【4】】(命中: 0)\nDiké, pour les causes formelles s'incarnant dans les Propositions machiniques abstraites de notre doma...",
+  "fullPrompt": "问题：Guattari对机器欲望的具体定义是什么？\n\n材料：\n\n【【1】】(命中: 0)\nune interprétation de contenus profonds mais participer d'une machinique tout en surface du texte\n\n【【2】】(命中: 0)\ndiscurses et virtuelles : C. Les Propositions machiniques, à titre d'intégrale des ritournelles\n\n【【3】】(命中: 0)\neffectuatrices du déterritorialisme. Les propositions machiniques qui, à travers des opérateurs machiniques concrets\n\n【【4】】(命中: 0)\nDiké, pour les causes formelles s'incarnant dans les Propositions machiniques abstraites de notre domaine M₂; Moira\n\n【【5】】(命中: 0)\nLes riennelles syragniques comme les rituelles modulaires effectuent les Propositions machiniques abstraites et les systèmes de signes\n\n【【6】】(命中: 0)\nsens en fonction de les propositions machiniques respectives, elles-mes\n\n【【7】】(命中: 0)\nUne synapse, requalifiée en Proposition machinique par la mediation d'une Constellation\n\n【【8】】(命中: 0)\neffet, se trouve située, ordonnanceuse, datée par le chiffre singularisé que constitue la Proposition machinique sans qu'il soit jamais possible de revenir dessus. D'ou le fait\n\n【【9】】(命中: 0)\naucun\n\n【【10】】(命中: 0)\nRhizomes machiniques abstraits (Pm), «s san garanties\n\n【【11】】(命中: 0)\nseuls quantités minimaux, d'Effets pragmatiques, machiniques\n\n【【12】】(命中: 0)\nL'idée de base\n\n【【13】】(命中: 0)\ncelui-à-là « invisible » de leurs effets pragmatiques-machiniques s'appuyant potentiellement sur des systèmes d'invariant\n\n【【14】】(命中: 0)\npure discursure, qui se n'ouvert au deposition des machiniques « chroniques » et celles qui se dis-posit d'un seul tenant non discursif en Territory existientiel\n\n【【15】】(命中: 0)\nLa nécessité\n\n【【16】】(命中: 0)\n- le machinisme trans-linéaire\n\n【【17】】(命中: 0)\nLa machinique de l'immanence peut-elle faire l'économie\n\n【【18】】(命中: 0)\nconsistance pragmatique s'incrit dans la logique (on devrait dire : la machinique) la plus générale du cycle des Amençements\n\n【【19】】(命中: 0)\nl'hyper-complexité. Il s'agit, en fait, de ce que certaines Propositions machiniques abstraites remont leurs amarres\n\n---\n\n要求：输出2-4条独立推理路径，每条路径包含多个步骤，每步可引用一个或多个材料【【N】】。\n\n格式：\n\n# 路径一：[标题]\n\n步骤1：使用【【X】】，提取...\n步骤2：综合【【Y】】【【Z】】，对比...\n\n结论：[此路径结论]\n\n（继续路径二、三...）\n\n**引用规范**：\n- 单个材料：使用【【N】】，提取...，判断...\n- 多个材料：综合【【N】】【【M】】，对比/交叉验证/综合提取...\n\n**推理策略**：\n- 对比论证：对比不同材料中的矛盾或差异\n- 交叉验证：从多个材料中找到互相支撑的证据\n- 综合支撑：从多处提取一致的特征或模式",
+  "options": {
+    "maxTokens": 32768
+  },
+  "retryPolicy": {
+    "maxAttempts": 3,
+    "baseDelayMs": 1000,
+    "maxDelayMs": 10000
+  }
+}

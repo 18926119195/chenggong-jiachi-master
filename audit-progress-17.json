@@ -1,0 +1,954 @@
+[
+  {
+    "surface": "des sondages",
+    "valid": true
+  },
+  {
+    "surface": "Quant a la socialité ordinaire",
+    "valid": false,
+    "reason": "包含介词、冠词等虚词，非单一实词"
+  },
+  {
+    "surface": ", un nouveau principe de « communication",
+    "valid": false,
+    "reason": "标点碎片及虚词组合"
+  },
+  {
+    "surface": "maintien",
+    "valid": true
+  },
+  {
+    "surface": "ses equilibres",
+    "valid": false,
+    "reason": "包含限定词ses，非单一实词"
+  },
+  {
+    "surface": "de sa constance",
+    "valid": false,
+    "reason": "包含介词de及限定词sa"
+  },
+  {
+    "surface": "l'estérieur",
+    "valid": false,
+    "reason": "包含冠词l'"
+  },
+  {
+    "surface": "travers un transfert existentiel",
+    "valid": false,
+    "reason": "包含介词及冠词"
+  },
+  {
+    "surface": "satire",
+    "valid": true
+  },
+  {
+    "surface": "suifrey",
+    "valid": false,
+    "reason": "疑似拼写错误或非词"
+  },
+  {
+    "surface": "sa these relative à l'inconsistance du socius",
+    "valid": false,
+    "reason": "包含限定词、介词、冠词等"
+  },
+  {
+    "surface": "La toute-puissance actuelle",
+    "valid": false,
+    "reason": "包含冠词La"
+  },
+  {
+    "surface": "media",
+    "valid": true
+  },
+  {
+    "surface": "la démonstration",
+    "valid": false,
+    "reason": "包含冠词la"
+  },
+  {
+    "surface": "quel maillon",
+    "valid": false,
+    "reason": "包含限定词quel"
+  },
+  {
+    "surface": "résistance apparente, au laminage désingulissant et infantilisant des productions capitalistiques de signifiant",
+    "valid": false,
+    "reason": "包含标点、介词、冠词、连词等"
+  },
+  {
+    "surface": "Un vieil",
+    "valid": false,
+    "reason": "包含冠词Un"
+  },
+  {
+    "surface": "adage",
+    "valid": true
+  },
+  {
+    "surface": "signifant",
+    "valid": false,
+    "reason": "疑似拼写错误（应为signifiant）"
+  },
+  {
+    "surface": "exergue",
+    "valid": true
+  },
+  {
+    "surface": "cette nouvelle éthique",
+    "valid": false,
+    "reason": "包含限定词cette"
+  },
+  {
+    "surface": "desengagement",
+    "valid": true
+  },
+  {
+    "surface": "Toute la question",
+    "valid": false,
+    "reason": "包含限定词Toute及冠词la"
+  },
+  {
+    "surface": "une pareille impasse",
+    "valid": false,
+    "reason": "包含冠词une及限定词pareille"
+  },
+  {
+    "surface": "La fonction «",
+    "valid": false,
+    "reason": "包含冠词及标点"
+  },
+  {
+    "surface": "ces objets ambigus",
+    "valid": false,
+    "reason": "包含限定词ces"
+  },
+  {
+    "surface": "les circonstations",
+    "valid": false,
+    "reason": "包含冠词les"
+  },
+  {
+    "surface": "d'espace",
+    "valid": false,
+    "reason": "包含介词d'"
+  },
+  {
+    "surface": "les assignations identitaires",
+    "valid": false,
+    "reason": "包含冠词les"
+  },
+  {
+    "surface": "la cartographie freudienne",
+    "valid": false,
+    "reason": "包含冠词la"
+  },
+  {
+    "surface": "l'incogniscent",
+    "valid": false,
+    "reason": "包含冠词l'，且疑似拼写错误"
+  },
+  {
+    "surface": "un angle différent",
+    "valid": false,
+    "reason": "包含冠词un"
+  },
+  {
+    "surface": "des préoccupations",
+    "valid": false,
+    "reason": "包含冠词des"
+  },
+  {
+    "surface": "linguistes",
+    "valid": true
+  },
+  {
+    "surface": "l'énoncaison",
+    "valid": false,
+    "reason": "包含冠词l'"
+  },
+  {
+    "surface": "linguisse",
+    "valid": false,
+    "reason": "疑似拼写错误或非词"
+  },
+  {
+    "surface": "Le processus primaire",
+    "valid": false,
+    "reason": "包含冠词Le"
+  },
+  {
+    "surface": ", les objets",
+    "valid": false,
+    "reason": "包含标点及冠词"
+  },
+  {
+    "surface": ", la fonction",
+    "valid": false,
+    "reason": "包含标点及冠词"
+  },
+  {
+    "surface": "après coup",
+    "valid": true
+  },
+  {
+    "surface": "du fantasme",
+    "valid": false,
+    "reason": "包含缩合冠词du"
+  },
+  {
+    "surface": "toutes ces notions familières",
+    "valid": false,
+    "reason": "包含限定词toutes及ces"
+  },
+  {
+    "surface": "psychanalystes impliquent",
+    "valid": false,
+    "reason": "名词加动词，非单一实词"
+  },
+  {
+    "surface": "un titre",
+    "valid": false,
+    "reason": "包含冠词un"
+  },
+  {
+    "surface": "à un autre",
+    "valid": false,
+    "reason": "包含介词及冠词"
+  },
+  {
+    "surface": ", l'existence",
+    "valid": false,
+    "reason": "包含标点及冠词"
+  },
+  {
+    "surface": "une ubiquité",
+    "valid": false,
+    "reason": "包含冠词une"
+  },
+  {
+    "surface": "d'une recursive",
+    "valid": false,
+    "reason": "包含介词及冠词"
+  },
+  {
+    "surface": "prospective",
+    "valid": true
+  },
+  {
+    "surface": "l'incognisci",
+    "valid": false,
+    "reason": "包含冠词l'，且疑似拼写错误"
+  },
+  {
+    "surface": "réalisations dominantes",
+    "valid": true
+  },
+  {
+    "surface": "l'interpretation",
+    "valid": false,
+    "reason": "包含冠词l'"
+  },
+  {
+    "surface": "la première traductive",
+    "valid": false,
+    "reason": "包含冠词la及序数词"
+  },
+  {
+    "surface": "les termes",
+    "valid": false,
+    "reason": "包含冠词les"
+  },
+  {
+    "surface": "la spécificité",
+    "valid": false,
+    "reason": "包含冠词la"
+  },
+  {
+    "surface": "certaines segments sémiotiques",
+    "valid": false,
+    "reason": "包含限定词certaines"
+  },
+  {
+    "surface": "cadre",
+    "valid": true
+  },
+  {
+    "surface": "leur mission",
+    "valid": false,
+    "reason": "包含限定词leur"
+  },
+  {
+    "surface": "une puissance particulière",
+    "valid": false,
+    "reason": "包含冠词une"
+  },
+  {
+    "surface": "production existentielle",
+    "valid": true
+  },
+  {
+    "surface": "la névrose",
+    "valid": false,
+    "reason": "包含冠词la"
+  },
+  {
+    "surface": "la pervasion",
+    "valid": false,
+    "reason": "包含冠词la"
+  },
+  {
+    "surface": "la psychose",
+    "valid": false,
+    "reason": "包含冠词la"
+  },
+  {
+    "surface": ", de la sublimation",
+    "valid": false,
+    "reason": "包含标点、介词及冠词"
+  },
+  {
+    "surface": "La tripartition lacanienne",
+    "valid": false,
+    "reason": "包含冠词La"
+  },
+  {
+    "surface": "du Symbolique",
+    "valid": false,
+    "reason": "包含缩合冠词du"
+  },
+  {
+    "surface": "les choses",
+    "valid": false,
+    "reason": "包含冠词les"
+  },
+  {
+    "surface": "le cloisonnement",
+    "valid": false,
+    "reason": "包含冠词le"
+  },
+  {
+    "surface": "instances topiques",
+    "valid": true
+  },
+  {
+    "surface": "la production",
+    "valid": false,
+    "reason": "包含冠词la"
+  },
+  {
+    "surface": "notre matière première signalétique",
+    "valid": false,
+    "reason": "包含限定词notre"
+  },
+  {
+    "surface": "l'intervention",
+    "valid": false,
+    "reason": "包含冠词l'"
+  },
+  {
+    "surface": "la liberté",
+    "valid": false,
+    "reason": "包含冠词la"
+  },
+  {
+    "surface": "la créativité",
+    "valid": false,
+    "reason": "包含冠词la"
+  },
+  {
+    "surface": "des procédures mecaniques",
+    "valid": false,
+    "reason": "包含冠词des"
+  },
+  {
+    "surface": "la coupe",
+    "valid": false,
+    "reason": "包含冠词la"
+  },
+  {
+    "surface": "subjection",
+    "valid": true
+  },
+  {
+    "surface": "le machinisme",
+    "valid": false,
+    "reason": "包含冠词le"
+  },
+  {
+    "surface": "de fructueux rapports",
+    "valid": false,
+    "reason": "包含介词de"
+  },
+  {
+    "surface": "symbiose",
+    "valid": true
+  },
+  {
+    "surface": "cet égard",
+    "valid": false,
+    "reason": "包含限定词cet"
+  },
+  {
+    "surface": "une distinction",
+    "valid": false,
+    "reason": "包含冠词une"
+  },
+  {
+    "surface": "ladite matière signalétique",
+    "valid": false,
+    "reason": "包含限定词ladite"
+  },
+  {
+    "surface": "décisionnalité",
+    "valid": true
+  },
+  {
+    "surface": "la tous les domains",
+    "valid": false,
+    "reason": "包含冠词及限定词，语法混乱"
+  },
+  {
+    "surface": "encroniation",
+    "valid": false,
+    "reason": "疑似拼写错误或非词"
+  },
+  {
+    "surface": "/ou individuels",
+    "valid": false,
+    "reason": "包含符号及连词"
+  },
+  {
+    "surface": "les matieres signalétiques",
+    "valid": false,
+    "reason": "包含冠词les"
+  },
+  {
+    "surface": "des logiques",
+    "valid": false,
+    "reason": "包含冠词des"
+  },
+  {
+    "surface": "des ensembles discursifs",
+    "valid": false,
+    "reason": "包含冠词des"
+  },
+  {
+    "surface": "relations",
+    "valid": true
+  },
+  {
+    "surface": "des coordonnées extrinseques",
+    "valid": false,
+    "reason": "包含冠词des"
+  },
+  {
+    "surface": "energico",
+    "valid": false,
+    "reason": "疑似词缀或非独立词"
+  },
+  {
+    "surface": "spatio",
+    "valid": false,
+    "reason": "疑似词缀或非独立词"
+  },
+  {
+    "surface": "les matieres",
+    "valid": false,
+    "reason": "包含冠词les"
+  },
+  {
+    "surface": "l'autoréférence",
+    "valid": false,
+    "reason": "包含冠词l'"
+  },
+  {
+    "surface": "des traits",
+    "valid": false,
+    "reason": "包含冠词des"
+  },
+  {
+    "surface": "intensité existentiels",
+    "valid": true
+  },
+  {
+    "surface": "toute soumission",
+    "valid": false,
+    "reason": "包含限定词toute"
+  },
+  {
+    "surface": "axiomes",
+    "valid": true
+  },
+  {
+    "surface": "théories ensembles",
+    "valid": true
+  },
+  {
+    "surface": "Ces logiques",
+    "valid": false,
+    "reason": "包含限定词Ces"
+  },
+  {
+    "surface": "des corps",
+    "valid": false,
+    "reason": "包含冠词des"
+  },
+  {
+    "surface": "leurs objets",
+    "valid": false,
+    "reason": "包含限定词leurs"
+  },
+  {
+    "surface": "bi-faces",
+    "valid": true
+  },
+  {
+    "surface": "discernabilises",
+    "valid": false,
+    "reason": "疑似拼写错误或非词"
+  },
+  {
+    "surface": "coordonées",
+    "valid": true
+  },
+  {
+    "surface": "leur côté",
+    "valid": false,
+    "reason": "包含限定词leur"
+  },
+  {
+    "surface": "les linguistes",
+    "valid": false,
+    "reason": "包含冠词les"
+  },
+  {
+    "surface": "des actes",
+    "valid": false,
+    "reason": "包含冠词des"
+  },
+  {
+    "surface": "language *",
+    "valid": false,
+    "reason": "包含符号*，且疑似英文拼写"
+  },
+  {
+    "surface": "relief",
+    "valid": true
+  },
+  {
+    "surface": "certaines segments linguistiques",
+    "valid": false,
+    "reason": "包含限定词certaines"
+  },
+  {
+    "surface": "leurs fonctions classiquement reconnues de signification et de denotation",
+    "valid": false,
+    "reason": "包含限定词、副词、介词、连词等"
+  },
+  {
+    "surface": "les positions respectives",
+    "valid": false,
+    "reason": "包含冠词les"
+  },
+  {
+    "surface": "sujets énonciateurs",
+    "valid": true
+  },
+  {
+    "surface": "facto",
+    "valid": false,
+    "reason": "疑似拉丁语片段，非独立法语实词"
+  },
+  {
+    "surface": "certaines cadrages situationsnels",
+    "valid": false,
+    "reason": "包含限定词certaines"
+  },
+  {
+    "surface": "le president",
+    "valid": false,
+    "reason": "包含冠词le"
+  },
+  {
+    "surface": "La sance",
+    "valid": false,
+    "reason": "包含冠词La，且疑似拼写错误"
+  },
+  {
+    "surface": "faisant",
+    "valid": false,
+    "reason": "现在分词，非名词"
+  },
+  {
+    "surface": "la portée",
+    "valid": false,
+    "reason": "包含冠词la"
+  },
+  {
+    "surface": "leur découverte",
+    "valid": false,
+    "reason": "包含限定词leur"
+  },
+  {
+    "surface": "registre de leur specialité",
+    "valid": false,
+    "reason": "包含介词及限定词"
+  },
+  {
+    "surface": "Alors qu'en réalité",
+    "valid": false,
+    "reason": "包含连词、介词及名词组合"
+  },
+  {
+    "surface": "cette troisième fonction «",
+    "valid": false,
+    "reason": "包含限定词及标点"
+  },
+  {
+    "surface": "l'accent",
+    "valid": false,
+    "reason": "包含冠词l'"
+  },
+  {
+    "surface": "teractivité collective",
+    "valid": false,
+    "reason": "疑似拼写错误（interactivité?）"
+  },
+  {
+    "surface": "ré-invention",
+    "valid": true
+  },
+  {
+    "surface": "la démocratie",
+    "valid": false,
+    "reason": "包含冠词la"
+  },
+  {
+    "surface": "brisure définitive d'corset",
+    "valid": false,
+    "reason": "包含介词d'及疑似拼写错误"
+  },
+  {
+    "surface": "la langue",
+    "valid": false,
+    "reason": "包含冠词la"
+  },
+  {
+    "surface": "seulement fin",
+    "valid": false,
+    "reason": "包含副词seulement"
+  },
+  {
+    "surface": "indexer",
+    "valid": false,
+    "reason": "动词不定式，非名词"
+  },
+  {
+    "surface": ", des positions",
+    "valid": false,
+    "reason": "包含标点及冠词"
+  },
+  {
+    "surface": "la contextualisation",
+    "valid": false,
+    "reason": "包含冠词la"
+  },
+  {
+    "surface": "sort",
+    "valid": true
+  },
+  {
+    "surface": "cristallier",
+    "valid": false,
+    "reason": "疑似拼写错误或非词"
+  },
+  {
+    "surface": "singularisieries pragmatiques",
+    "valid": false,
+    "reason": "疑似拼写错误或非词"
+  },
+  {
+    "surface": "les plus divers (découples",
+    "valid": false,
+    "reason": "包含冠词、副词、标点等"
+  },
+  {
+    "surface": "Territoires sensibles",
+    "valid": true
+  },
+  {
+    "surface": "déploiements",
+    "valid": true
+  },
+  {
+    "surface": "endo",
+    "valid": false,
+    "reason": "疑似词缀或非独立词"
+  },
+  {
+    "surface": "pragmatique",
+    "valid": true
+  },
+  {
+    "surface": "- n'est pas le privilege exclus de la langue;",
+    "valid": false,
+    "reason": "完整句子片段，包含虚词及标点"
+  },
+  {
+    "surface": "toutes les autres composantes",
+    "valid": false,
+    "reason": "包含限定词及冠词"
+  },
+  {
+    "surface": "toutes les autres procédures",
+    "valid": false,
+    "reason": "包含限定词及冠词"
+  },
+  {
+    "surface": "encodage naturelles et machiniques",
+    "valid": false,
+    "reason": "包含连词et"
+  },
+  {
+    "surface": "le signifiant linguistique",
+    "valid": false,
+    "reason": "包含冠词le"
+  },
+  {
+    "surface": "la place royale",
+    "valid": false,
+    "reason": "包含冠词la"
+  },
+  {
+    "surface": "la subjetification capitalistique",
+    "valid": false,
+    "reason": "包含冠词la"
+  },
+  {
+    "surface": "un support essentiel",
+    "valid": false,
+    "reason": "包含冠词un"
+  },
+  {
+    "surface": "l'équivailor généralité",
+    "valid": false,
+    "reason": "包含冠词l'，且疑似拼写错误"
+  },
+  {
+    "surface": "sa politique",
+    "valid": false,
+    "reason": "包含限定词sa"
+  },
+  {
+    "surface": "D'autres régimes",
+    "valid": false,
+    "reason": "包含限定词D'autres"
+  },
+  {
+    "surface": "les affaires",
+    "valid": false,
+    "reason": "包含冠词les"
+  },
+  {
+    "surface": "sa position",
+    "valid": false,
+    "reason": "包含限定词sa"
+  },
+  {
+    "surface": "transcendance",
+    "valid": true
+  },
+  {
+    "surface": "Rhizomes",
+    "valid": true
+  },
+  {
+    "surface": "réalités",
+    "valid": true
+  },
+  {
+    "surface": "des imaginaires",
+    "valid": false,
+    "reason": "包含冠词des"
+  },
+  {
+    "surface": "imperial",
+    "valid": true
+  },
+  {
+    "surface": "pouvoirs massmediatisés",
+    "valid": true
+  },
+  {
+    "surface": "génération",
+    "valid": true
+  },
+  {
+    "surface": "nouvelles pratiques analytiques",
+    "valid": true
+  },
+  {
+    "surface": "aucune spontanéat post-moderniste",
+    "valid": false,
+    "reason": "包含限定词aucune，且疑似拼写错误"
+  },
+  {
+    "surface": "cratie",
+    "valid": false,
+    "reason": "词缀片段，非独立词"
+  },
+  {
+    "surface": "la miniaturisation",
+    "valid": false,
+    "reason": "包含冠词la"
+  },
+  {
+    "surface": "la personalisation",
+    "valid": false,
+    "reason": "包含冠词la"
+  },
+  {
+    "surface": "équipements",
+    "valid": true
+  },
+  {
+    "surface": ", une re-singularisation",
+    "valid": false,
+    "reason": "包含标点及冠词"
+  },
+  {
+    "surface": "expression médiatiques",
+    "valid": true
+  },
+  {
+    "surface": "extention",
+    "valid": false,
+    "reason": "疑似拼写错误（应为extension）"
+  },
+  {
+    "surface": "réseau",
+    "valid": true
+  },
+  {
+    "surface": "les perspectives",
+    "valid": false,
+    "reason": "包含冠词les"
+  },
+  {
+    "surface": "les plus surprenantes",
+    "valid": false,
+    "reason": "包含冠词及副词"
+  },
+  {
+    "surface": "la multiplication",
+    "valid": false,
+    "reason": "包含冠词la"
+  },
+  {
+    "surface": "l'infini",
+    "valid": false,
+    "reason": "包含冠词l'"
+  },
+  {
+    "surface": "« embrayeurs existentiels",
+    "valid": false,
+    "reason": "包含标点符号"
+  },
+  {
+    "surface": "des Univers créatifs",
+    "valid": false,
+    "reason": "包含冠词des"
+  },
+  {
+    "surface": "Remarquone",
+    "valid": false,
+    "reason": "疑似拼写错误或非词"
+  },
+  {
+    "surface": "le multicentreage",
+    "valid": false,
+    "reason": "包含冠词le"
+  },
+  {
+    "surface": "l'automisation",
+    "valid": false,
+    "reason": "包含冠词l'"
+  },
+  {
+    "surface": "opérateurs post-médiatiques",
+    "valid": true
+  },
+  {
+    "surface": "refermement",
+    "valid": true
+  },
+  {
+    "surface": "memes",
+    "valid": false,
+    "reason": "限定词/形容词，非名词"
+  },
+  {
+    "surface": "désengagement",
+    "valid": true
+  },
+  {
+    "surface": "type post-médiatiste",
+    "valid": true
+  },
+  {
+    "surface": "La révolution post-médiatique",
+    "valid": false,
+    "reason": "包含冠词La"
+  },
+  {
+    "surface": "une efficacité",
+    "valid": false,
+    "reason": "包含冠词une"
+  },
+  {
+    "surface": "groupes minoritaires",
+    "valid": true
+  },
+  {
+    "surface": "suels",
+    "valid": false,
+    "reason": "疑似拼写错误或非词"
+  },
+  {
+    "surface": "risque mortel",
+    "valid": true
+  },
+  {
+    "surface": "questions telles",
+    "valid": false,
+    "reason": "包含形容词telles，非纯名词短语"
+  },
+  {
+    "surface": "- la course",
+    "valid": false,
+    "reason": "包含标点及冠词"
+  },
+  {
+    "surface": "surarmement nucléaire",
+    "valid": true
+  },
+  {
+    "surface": "famine",
+    "valid": true
+  },
+  {
+    "surface": "- la ramific",
+    "valid": false,
+    "reason": "包含标点、冠词及截断词"
+  },
+  {
+    "surface": "- les dégradations écologiques",
+    "valid": false,
+    "reason": "包含标点及冠词"
+  },
+  {
+    "surface": "- les degradations",
+    "valid": false,
+    "reason": "包含标点及冠词"
+  }
+]

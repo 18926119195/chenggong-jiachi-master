@@ -1,0 +1,875 @@
+[
+  {
+    "surface": "combat",
+    "valid": true
+  },
+  {
+    "surface": "violence sexuelle",
+    "valid": true
+  },
+  {
+    "surface": "mefthan",
+    "valid": false,
+    "reason": "非标准法语词形，疑似拼写错误或专名碎片"
+  },
+  {
+    "surface": "de bataille",
+    "valid": false,
+    "reason": "介词短语碎片，非独立名词"
+  },
+  {
+    "surface": "grâce à Dieu",
+    "valid": true
+  },
+  {
+    "surface": "bonnes années",
+    "valid": true
+  },
+  {
+    "surface": "révés",
+    "valid": true
+  },
+  {
+    "surface": "du Mot",
+    "valid": false,
+    "reason": "含冠词/缩合冠词的短语碎片"
+  },
+  {
+    "surface": "Signalons",
+    "valid": false,
+    "reason": "动词变位形式，非名词"
+  },
+  {
+    "surface": "d'autres manifestations fantasques",
+    "valid": true
+  },
+  {
+    "surface": "ce module",
+    "valid": true
+  },
+  {
+    "surface": "une image n",
+    "valid": false,
+    "reason": "含冠词且末尾为单字母碎片"
+  },
+  {
+    "surface": "un tigre encagse",
+    "valid": false,
+    "reason": "含冠词且疑似拼写错误，非规范名词短语"
+  },
+  {
+    "surface": "*un paraphe hyperbolique et rabatant",
+    "valid": false,
+    "reason": "含星号、冠词及连词，非规范名词短语"
+  },
+  {
+    "surface": "sa courbe lasse",
+    "valid": true
+  },
+  {
+    "surface": "distante",
+    "valid": false,
+    "reason": "形容词，非名词"
+  },
+  {
+    "surface": "tigre",
+    "valid": true
+  },
+  {
+    "surface": "accrocheur",
+    "valid": false,
+    "reason": "形容词/名词化用法不明确，此处更似形容词"
+  },
+  {
+    "surface": "paraphe",
+    "valid": true
+  },
+  {
+    "surface": "l'ultime élision",
+    "valid": true
+  },
+  {
+    "surface": "Falestine",
+    "valid": true
+  },
+  {
+    "surface": "'Flèstine",
+    "valid": false,
+    "reason": "含撇号碎片，疑似拼写变体/错误"
+  },
+  {
+    "surface": "familiarité argotique",
+    "valid": true
+  },
+  {
+    "surface": "le mot Palestinien, on quite le terrain des lettres et des étymologies (Palestinian = Philistin) pour celui des phonèmes et du timbre de la voix;",
+    "valid": false,
+    "reason": "完整句子片段，非名词或名词短语"
+  },
+  {
+    "surface": "quatre syllables",
+    "valid": true
+  },
+  {
+    "surface": "mystère",
+    "valid": true
+  },
+  {
+    "surface": "la part nocture",
+    "valid": true
+  },
+  {
+    "surface": "leurs précieux ennemis",
+    "valid": true
+  },
+  {
+    "surface": "simple enoncé",
+    "valid": true
+  },
+  {
+    "surface": "Palestini",
+    "valid": true
+  },
+  {
+    "surface": "un grifon",
+    "valid": false,
+    "reason": "含冠词且疑似拼写错误，非规范名词短语"
+  },
+  {
+    "surface": "tristeuses",
+    "valid": false,
+    "reason": "非标准法语词形，疑似拼写错误"
+  },
+  {
+    "surface": "une image clef",
+    "valid": true
+  },
+  {
+    "surface": "une tombе",
+    "valid": false,
+    "reason": "含冠词且末尾字符为西里尔字母е，非规范法语词"
+  },
+  {
+    "surface": "attentive",
+    "valid": false,
+    "reason": "形容词，非名词"
+  },
+  {
+    "surface": "un combattant palestinien",
+    "valid": true
+  },
+  {
+    "surface": "Cette ombre rectangulaire",
+    "valid": true
+  },
+  {
+    "surface": "la trace",
+    "valid": true
+  },
+  {
+    "surface": ", sera comme le label",
+    "valid": false,
+    "reason": "含标点、动词及冠词，非名词短语"
+  },
+  {
+    "surface": "sa singularité",
+    "valid": true
+  },
+  {
+    "surface": "son entière lucidité",
+    "valid": true
+  },
+  {
+    "surface": "face à la mort",
+    "valid": true
+  },
+  {
+    "surface": "le monde blanc",
+    "valid": true
+  },
+  {
+    "surface": "le même type",
+    "valid": true
+  },
+  {
+    "surface": "schéma modulaire",
+    "valid": true
+  },
+  {
+    "surface": "l'ombre",
+    "valid": true
+  },
+  {
+    "surface": "les nombreuses variations",
+    "valid": true
+  },
+  {
+    "surface": "Noir",
+    "valid": true
+  },
+  {
+    "surface": "du Blanc",
+    "valid": false,
+    "reason": "含缩合冠词，非独立名词"
+  },
+  {
+    "surface": "leur rapport",
+    "valid": true
+  },
+  {
+    "surface": "l'criture",
+    "valid": false,
+    "reason": "疑似拼写错误，非规范名词"
+  },
+  {
+    "surface": "Les Noirs",
+    "valid": true
+  },
+  {
+    "surface": "Amérique blanche",
+    "valid": true
+  },
+  {
+    "surface": ", sont les signes",
+    "valid": false,
+    "reason": "含标点、动词及冠词，非名词短语"
+  },
+  {
+    "surface": "la page blanche",
+    "valid": true
+  },
+  {
+    "surface": "lence",
+    "valid": false,
+    "reason": "非标准法语词，疑似碎片"
+  },
+  {
+    "surface": "tout manichisme",
+    "valid": true
+  },
+  {
+    "surface": "Falat",
+    "valid": true
+  },
+  {
+    "surface": "Palestinian",
+    "valid": true
+  },
+  {
+    "surface": "relier",
+    "valid": false,
+    "reason": "动词不定式，非名词"
+  },
+  {
+    "surface": "les contraires",
+    "valid": true
+  },
+  {
+    "surface": "les plus extrêmes",
+    "valid": true
+  },
+  {
+    "surface": "leur antagonisme",
+    "valid": true
+  },
+  {
+    "surface": "Mme",
+    "valid": true
+  },
+  {
+    "surface": "la rivalité",
+    "valid": true
+  },
+  {
+    "surface": "'Palestine",
+    "valid": false,
+    "reason": "含撇号碎片，非规范名词形式"
+  },
+  {
+    "surface": "Israël",
+    "valid": true
+  },
+  {
+    "surface": "les traces",
+    "valid": true
+  },
+  {
+    "surface": "une complicité hyper-paradoxale",
+    "valid": true
+  },
+  {
+    "surface": "des peuples",
+    "valid": true
+  },
+  {
+    "surface": ", la qualité",
+    "valid": false,
+    "reason": "含标点及冠词，非独立名词短语"
+  },
+  {
+    "surface": "leur assumption",
+    "valid": true
+  },
+  {
+    "surface": "les Israéliens persistent à s'adonner aux rêves délétères de l'éternité de la vie *",
+    "valid": false,
+    "reason": "完整句子片段，非名词或名词短语"
+  },
+  {
+    "surface": "ce premier niveau modulaire",
+    "valid": true
+  },
+  {
+    "surface": "la praxis",
+    "valid": true
+  },
+  {
+    "surface": "textuel",
+    "valid": false,
+    "reason": "形容词，非名词"
+  },
+  {
+    "surface": "abri",
+    "valid": true
+  },
+  {
+    "surface": "garde-fourge semantiques",
+    "valid": false,
+    "reason": "疑似拼写错误且结构不规范"
+  },
+  {
+    "surface": "deterrioraisseurs",
+    "valid": false,
+    "reason": "非标准法语词形，疑似拼写错误"
+  },
+  {
+    "surface": "forages",
+    "valid": true
+  },
+  {
+    "surface": "du langage",
+    "valid": false,
+    "reason": "含缩合冠词，非独立名词"
+  },
+  {
+    "surface": "cette technique",
+    "valid": true
+  },
+  {
+    "surface": "- d'aplatissement",
+    "valid": false,
+    "reason": "含连字符及介词碎片，非独立名词"
+  },
+  {
+    "surface": "un mannequin",
+    "valid": true
+  },
+  {
+    "surface": "carton",
+    "valid": true
+  },
+  {
+    "surface": "- de la mère",
+    "valid": false,
+    "reason": "含连字符、介词及冠词，非独立名词短语"
+  },
+  {
+    "surface": "Hamza",
+    "valid": true
+  },
+  {
+    "surface": "les forages",
+    "valid": true
+  },
+  {
+    "surface": ", de ritournelles",
+    "valid": false,
+    "reason": "含标点及介词，非独立名词短语"
+  },
+  {
+    "surface": "Mais au-delà du fait relatement anedictique",
+    "valid": false,
+    "reason": "含连词、介词及疑似拼写错误，非名词短语"
+  },
+  {
+    "surface": "partir desquelles",
+    "valid": false,
+    "reason": "动词/关系代词组合，非名词"
+  },
+  {
+    "surface": "Guermants",
+    "valid": true
+  },
+  {
+    "surface": "dans la cathedrale",
+    "valid": false,
+    "reason": "含介词及冠词，非独立名词短语"
+  },
+  {
+    "surface": "Saint-Marc",
+    "valid": true
+  },
+  {
+    "surface": "les camps",
+    "valid": true
+  },
+  {
+    "surface": "devastés",
+    "valid": false,
+    "reason": "形容词/分词，非名词"
+  },
+  {
+    "surface": "Sabra",
+    "valid": true
+  },
+  {
+    "surface": "Chatila",
+    "valid": true
+  },
+  {
+    "surface": ", un autre type",
+    "valid": false,
+    "reason": "含标点及冠词，非独立名词短语"
+  },
+  {
+    "surface": "réalités hétérônes",
+    "valid": true
+  },
+  {
+    "surface": "l'inféchir",
+    "valid": false,
+    "reason": "含冠词及动词不定式，非名词"
+  },
+  {
+    "surface": "équilibres pré-existants",
+    "valid": true
+  },
+  {
+    "surface": "rond",
+    "valid": true
+  },
+  {
+    "surface": "Tout un monde",
+    "valid": true
+  },
+  {
+    "surface": "Mais un monde",
+    "valid": false,
+    "reason": "含连词及冠词，非独立名词短语"
+  },
+  {
+    "surface": "clavecin bien tempéré",
+    "valid": true
+  },
+  {
+    "surface": "peut-être, en un autre sens",
+    "valid": false,
+    "reason": "副词、标点及介词短语，非名词"
+  },
+  {
+    "surface": "grand large",
+    "valid": true
+  },
+  {
+    "surface": "la présence insistante",
+    "valid": true
+  },
+  {
+    "surface": ", du risque",
+    "valid": false,
+    "reason": "含标点及缩合冠词，非独立名词"
+  },
+  {
+    "surface": "l'incomprehension totale et définitive",
+    "valid": true
+  },
+  {
+    "surface": "plusieurs modules",
+    "valid": true
+  },
+  {
+    "surface": "Mikhail Bakhtine",
+    "valid": true
+  },
+  {
+    "surface": "rapports dialogiques",
+    "valid": true
+  },
+  {
+    "surface": "Non seulement les échanges",
+    "valid": false,
+    "reason": "含连词、副词及冠词，非独立名词短语"
+  },
+  {
+    "surface": "succor",
+    "valid": false,
+    "reason": "非标准法语词形，疑似拼写错误"
+  },
+  {
+    "surface": "supplement",
+    "valid": true
+  },
+  {
+    "surface": "les bats amoureux",
+    "valid": true
+  },
+  {
+    "surface": "un bourdon",
+    "valid": true
+  },
+  {
+    "surface": "d'une orchidée à la révélation",
+    "valid": false,
+    "reason": "含介词及冠词，非独立名词短语"
+  },
+  {
+    "surface": "des relations couples entre Charlus et Jupien",
+    "valid": true
+  },
+  {
+    "surface": "Le vétement",
+    "valid": true
+  },
+  {
+    "surface": "forcats",
+    "valid": false,
+    "reason": "非标准法语词形，疑似拼写错误"
+  },
+  {
+    "surface": "mon ceur",
+    "valid": false,
+    "reason": "含主有形容词且疑似拼写错误，非规范名词短语"
+  },
+  {
+    "surface": "l'univers您",
+    "valid": false,
+    "reason": "含冠词及中文字符，非规范法语名词"
+  },
+  {
+    "surface": "jacqueline",
+    "valid": true
+  },
+  {
+    "surface": "les nombreux sens",
+    "valid": true
+  },
+  {
+    "surface": "les fleurs",
+    "valid": true
+  },
+  {
+    "surface": "les bagnards",
+    "valid": true
+  },
+  {
+    "surface": "le bagne",
+    "valid": true
+  },
+  {
+    "surface": ", les fleurs",
+    "valid": false,
+    "reason": "含标点及冠词，非独立名词短语"
+  },
+  {
+    "surface": ", la poésie",
+    "valid": false,
+    "reason": "含标点及冠词，非独立名词短语"
+  },
+  {
+    "surface": "L'émoi",
+    "valid": true
+  },
+  {
+    "surface": "une note",
+    "valid": true
+  },
+  {
+    "surface": "déja",
+    "valid": false,
+    "reason": "副词，非名词"
+  },
+  {
+    "surface": "un module entremeturepu",
+    "valid": false,
+    "reason": "含冠词且末尾疑似拼写错误，非规范名词短语"
+  },
+  {
+    "surface": "obon",
+    "valid": false,
+    "reason": "非标准法语词，疑似碎片"
+  },
+  {
+    "surface": "Japan",
+    "valid": true
+  },
+  {
+    "surface": "les morts",
+    "valid": true
+  },
+  {
+    "surface": "des visites mondaines",
+    "valid": true
+  },
+  {
+    "surface": "masturbation",
+    "valid": true
+  },
+  {
+    "surface": "guaitre",
+    "valid": false,
+    "reason": "非标准法语词形，疑似拼写错误"
+  },
+  {
+    "surface": "lieutenant",
+    "valid": true
+  },
+  {
+    "surface": "Moubakar",
+    "valid": true
+  },
+  {
+    "surface": "trichierie",
+    "valid": false,
+    "reason": "非标准法语词形，疑似拼写错误"
+  },
+  {
+    "surface": "frère",
+    "valid": true
+  },
+  {
+    "surface": "chevalier",
+    "valid": true
+  },
+  {
+    "surface": "Grieu",
+    "valid": true
+  },
+  {
+    "surface": "Nabila",
+    "valid": true
+  },
+  {
+    "surface": "une infirmière libanaise",
+    "valid": true
+  },
+  {
+    "surface": "Manon Lescaut",
+    "valid": true
+  },
+  {
+    "surface": "silhouettes",
+    "valid": true
+  },
+  {
+    "surface": ", c'est l'criture",
+    "valid": false,
+    "reason": "含标点、代词、动词及疑似拼写错误，非名词短语"
+  },
+  {
+    "surface": "qu'un trompel",
+    "valid": false,
+    "reason": "含连词、冠词及疑似拼写错误，非名词短语"
+  },
+  {
+    "surface": "œil",
+    "valid": true
+  },
+  {
+    "surface": "les *images fabuleuses",
+    "valid": false,
+    "reason": "含星号及冠词，非规范名词短语"
+  },
+  {
+    "surface": "cette prédiction",
+    "valid": true
+  },
+  {
+    "surface": "les modalités",
+    "valid": true
+  },
+  {
+    "surface": "Le meilleur exemple",
+    "valid": true
+  },
+  {
+    "surface": "le lieutenant saundais",
+    "valid": true
+  },
+  {
+    "surface": ", cadre",
+    "valid": false,
+    "reason": "含标点，非独立名词短语"
+  },
+  {
+    "surface": "personnage",
+    "valid": true
+  },
+  {
+    "surface": "composite",
+    "valid": false,
+    "reason": "形容词，非名词"
+  },
+  {
+    "surface": "importations imaginaires",
+    "valid": true
+  },
+  {
+    "surface": "le portrait",
+    "valid": true
+  },
+  {
+    "surface": "images fabuleuses",
+    "valid": true
+  },
+  {
+    "surface": "chaque module primaire",
+    "valid": true
+  },
+  {
+    "surface": "les voix tois",
+    "valid": false,
+    "reason": "含冠词且末尾疑似拼写错误，非规范名词短语"
+  },
+  {
+    "surface": "travers lui",
+    "valid": false,
+    "reason": "介词/名词与代词组合，非名词短语"
+  },
+  {
+    "surface": "la conjugaison",
+    "valid": true
+  },
+  {
+    "surface": "voix hétérogenes",
+    "valid": true
+  },
+  {
+    "surface": "nouveaux champs",
+    "valid": true
+  },
+  {
+    "surface": "de modifiés",
+    "valid": false,
+    "reason": "含介词及分词，非名词短语"
+  },
+  {
+    "surface": "émociation",
+    "valid": false,
+    "reason": "非标准法语词形，疑似拼写错误"
+  },
+  {
+    "surface": "deux mots",
+    "valid": true
+  },
+  {
+    "surface": "un autre réel correlatif",
+    "valid": true
+  },
+  {
+    "surface": "une autre subjectivité",
+    "valid": true
+  },
+  {
+    "surface": "des significations distendues",
+    "valid": true
+  },
+  {
+    "surface": "Pompes funebres",
+    "valid": true
+  },
+  {
+    "surface": "le mot *hitilien* et *qu'il voyait s'avancer vers lui",
+    "valid": false,
+    "reason": "含星号、连词及完整从句，非名词短语"
+  },
+  {
+    "surface": "l'aigle",
+    "valid": true
+  },
+  {
+    "surface": "Reich",
+    "valid": true
+  },
+  {
+    "surface": "l'églisse",
+    "valid": false,
+    "reason": "含冠词且疑似拼写错误，非规范名词"
+  },
+  {
+    "surface": "la Trinité*",
+    "valid": false,
+    "reason": "含冠词及星号，非规范名词短语"
+  },
+  {
+    "surface": "trace",
+    "valid": true
+  },
+  {
+    "surface": "négre marque d'entailies tribales",
+    "valid": false,
+    "reason": "疑似拼写错误且结构不规范"
+  },
+  {
+    "surface": "amoureux",
+    "valid": true
+  },
+  {
+    "surface": "la pacitée",
+    "valid": false,
+    "reason": "含冠词且疑似拼写错误，非规范名词"
+  },
+  {
+    "surface": "rares protagonistes",
+    "valid": true
+  },
+  {
+    "surface": "Un capit amoureux",
+    "valid": false,
+    "reason": "含冠词且疑似拼写错误，非规范名词短语"
+  },
+  {
+    "surface": "la reservé sexuelle",
+    "valid": false,
+    "reason": "含冠词且疑似拼写错误，非规范名词短语"
+  },
+  {
+    "surface": "tout au moins psychiquement",
+    "valid": false,
+    "reason": "副词短语，非名词"
+  },
+  {
+    "surface": "ses péréginations palestiniennes",
+    "valid": true
+  },
+  {
+    "surface": "mon trouble",
+    "valid": true
+  },
+  {
+    "surface": "(P.265",
+    "valid": false,
+    "reason": "标点、字母及数字碎片"
+  },
+  {
+    "surface": "Mais au jus",
+    "valid": false,
+    "reason": "含连词及介词短语，非名词"
+  },
+  {
+    "surface": "ce personnage foisonant",
+    "valid": true
+  },
+  {
+    "surface": "traversant divers avatars",
+    "valid": false,
+    "reason": "含分词及形容词，非独立名词短语"
+  },
+  {
+    "surface": "le timbre",
+    "valid": true
+  },
+  {
+    "surface": "sa voix",
+    "valid": true
+  }
+]

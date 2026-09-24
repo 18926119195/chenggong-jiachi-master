@@ -1,0 +1,894 @@
+[
+  {
+    "surface": "devint",
+    "valid": false,
+    "reason": "动词变位形式"
+  },
+  {
+    "surface": "grise",
+    "valid": true
+  },
+  {
+    "surface": "sale",
+    "valid": true
+  },
+  {
+    "surface": "lorsqu",
+    "valid": false,
+    "reason": "连词碎片"
+  },
+  {
+    "surface": "concède",
+    "valid": false,
+    "reason": "动词变位形式"
+  },
+  {
+    "surface": "s'associant",
+    "valid": false,
+    "reason": "动词现在分词形式"
+  },
+  {
+    "surface": "Panthères Neires",
+    "valid": true
+  },
+  {
+    "surface": "Palestiniens",
+    "valid": true
+  },
+  {
+    "surface": "agissait",
+    "valid": false,
+    "reason": "动词变位形式"
+  },
+  {
+    "surface": "monde réel",
+    "valid": true
+  },
+  {
+    "surface": "qu'en fonction",
+    "valid": false,
+    "reason": "包含连词/介词的短语碎片"
+  },
+  {
+    "surface": "réve",
+    "valid": true
+  },
+  {
+    "surface": "du monde",
+    "valid": false,
+    "reason": "包含冠词/介词的短语碎片"
+  },
+  {
+    "surface": "grammatical",
+    "valid": true
+  },
+  {
+    "surface": "Mais, ajoute",
+    "valid": false,
+    "reason": "包含连词和动词的碎片"
+  },
+  {
+    "surface": "ausitôt",
+    "valid": false,
+    "reason": "拼写错误/副词"
+  },
+  {
+    "surface": "oppose",
+    "valid": false,
+    "reason": "动词变位形式"
+  },
+  {
+    "surface": "le monde réel",
+    "valid": true
+  },
+  {
+    "surface": "la réverie",
+    "valid": true
+  },
+  {
+    "surface": "pousse",
+    "valid": false,
+    "reason": "动词变位形式"
+  },
+  {
+    "surface": "l' analyse",
+    "valid": true
+  },
+  {
+    "surface": "appartient",
+    "valid": false,
+    "reason": "动词变位形式"
+  },
+  {
+    "surface": "Les réserves",
+    "valid": true
+  },
+  {
+    "surface": "clair",
+    "valid": true
+  },
+  {
+    "surface": "à la fin",
+    "valid": false,
+    "reason": "介词短语"
+  },
+  {
+    "surface": "sa vie genet",
+    "valid": true
+  },
+  {
+    "surface": "aura",
+    "valid": false,
+    "reason": "助动词变位形式"
+  },
+  {
+    "surface": "franchi",
+    "valid": false,
+    "reason": "动词过去分词形式"
+  },
+  {
+    "surface": "les fameux stages de développement et d'adaptation au réel",
+    "valid": true
+  },
+  {
+    "surface": "qu'en",
+    "valid": false,
+    "reason": "连词/代词碎片"
+  },
+  {
+    "surface": "prétendu",
+    "valid": true
+  },
+  {
+    "surface": "nouer",
+    "valid": false,
+    "reason": "动词不定式"
+  },
+  {
+    "surface": "autour",
+    "valid": false,
+    "reason": "副词/介词"
+  },
+  {
+    "surface": "sevrage",
+    "valid": true
+  },
+  {
+    "surface": "appertissage",
+    "valid": true
+  },
+  {
+    "surface": "la propriété",
+    "valid": true
+  },
+  {
+    "surface": "Edipe",
+    "valid": true
+  },
+  {
+    "surface": "de castration",
+    "valid": false,
+    "reason": "包含介词的短语碎片"
+  },
+  {
+    "surface": "périodes",
+    "valid": true
+  },
+  {
+    "surface": "latence",
+    "valid": true
+  },
+  {
+    "surface": "pre",
+    "valid": false,
+    "reason": "碎片/前缀"
+  },
+  {
+    "surface": "post-puertaire",
+    "valid": true
+  },
+  {
+    "surface": "Pouil",
+    "valid": true
+  },
+  {
+    "surface": "rien lâche",
+    "valid": false,
+    "reason": "包含代词的短语碎片"
+  },
+  {
+    "surface": "ses réserves",
+    "valid": true
+  },
+  {
+    "surface": "de ses «",
+    "valid": false,
+    "reason": "包含介词/限定词和标点的碎片"
+  },
+  {
+    "surface": "perversions",
+    "valid": true
+  },
+  {
+    "surface": "infantes",
+    "valid": true
+  },
+  {
+    "surface": "pasant",
+    "valid": false,
+    "reason": "拼写错误/动词分词"
+  },
+  {
+    "surface": "empécher",
+    "valid": false,
+    "reason": "动词不定式"
+  },
+  {
+    "surface": "engager",
+    "valid": false,
+    "reason": "动词不定式"
+  },
+  {
+    "surface": "la façon plus lelic",
+    "valid": true
+  },
+  {
+    "surface": "adulte",
+    "valid": true
+  },
+  {
+    "surface": "les réalités historiques",
+    "valid": true
+  },
+  {
+    "surface": "connaître",
+    "valid": false,
+    "reason": "动词不定式"
+  },
+  {
+    "surface": "le schéma psychogénetique",
+    "valid": true
+  },
+  {
+    "surface": "recourant",
+    "valid": false,
+    "reason": "动词现在分词形式"
+  },
+  {
+    "surface": "non plus à la dyade",
+    "valid": false,
+    "reason": "包含副词/介词的短语碎片"
+  },
+  {
+    "surface": "imaginaire",
+    "valid": true
+  },
+  {
+    "surface": "adjoint",
+    "valid": true
+  },
+  {
+    "surface": "le Symbolique",
+    "valid": true
+  },
+  {
+    "surface": "l' evidence",
+    "valid": true
+  },
+  {
+    "surface": "son entrécime thrombale",
+    "valid": true
+  },
+  {
+    "surface": "n'a",
+    "valid": false,
+    "reason": "助动词变位形式"
+  },
+  {
+    "surface": "concerne",
+    "valid": false,
+    "reason": "动词变位形式"
+  },
+  {
+    "surface": ", aucun effet redempteur",
+    "valid": false,
+    "reason": "包含标点和限定词的碎片"
+  },
+  {
+    "surface": "La sublimation",
+    "valid": true
+  },
+  {
+    "surface": "pas marche",
+    "valid": false,
+    "reason": "包含否定副词的碎片"
+  },
+  {
+    "surface": "Plutôt qu'à une exaustion dialectique",
+    "valid": true
+  },
+  {
+    "surface": "sa maitrise",
+    "valid": true
+  },
+  {
+    "surface": "l' écriture",
+    "valid": true
+  },
+  {
+    "surface": "abouti",
+    "valid": false,
+    "reason": "动词过去分词形式"
+  },
+  {
+    "surface": "qu'une",
+    "valid": false,
+    "reason": "连词/代词碎片"
+  },
+  {
+    "surface": "exacerbation",
+    "valid": true
+  },
+  {
+    "surface": "ses contradictions",
+    "valid": true
+  },
+  {
+    "surface": "chirements",
+    "valid": true
+  },
+  {
+    "surface": "Malgré",
+    "valid": false,
+    "reason": "介词"
+  },
+  {
+    "surface": "un certain apaisement",
+    "valid": true
+  },
+  {
+    "surface": "Genet n",
+    "valid": false,
+    "reason": "包含专有名词和否定碎片的碎片"
+  },
+  {
+    "surface": "renoncé",
+    "valid": false,
+    "reason": "动词过去分词形式"
+  },
+  {
+    "surface": "aucune",
+    "valid": false,
+    "reason": "限定词"
+  },
+  {
+    "surface": "ses folies",
+    "valid": true
+  },
+  {
+    "surface": "révolt",
+    "valid": true
+  },
+  {
+    "surface": "beauté",
+    "valid": true
+  },
+  {
+    "surface": "basculé",
+    "valid": false,
+    "reason": "动词过去分词形式"
+  },
+  {
+    "surface": "dans les lesthétisme",
+    "valid": true
+  },
+  {
+    "surface": "dans le professionalisme",
+    "valid": true
+  },
+  {
+    "surface": "litteraire",
+    "valid": true
+  },
+  {
+    "surface": "La fait",
+    "valid": false,
+    "reason": "包含冠词和动词的碎片"
+  },
+  {
+    "surface": "d'errêt",
+    "valid": true
+  },
+  {
+    "surface": "reconnu",
+    "valid": false,
+    "reason": "动词过去分词形式"
+  },
+  {
+    "surface": "un des plus grands écrivains",
+    "valid": true
+  },
+  {
+    "surface": "ce siecle",
+    "valid": true
+  },
+  {
+    "surface": "améen",
+    "valid": true
+  },
+  {
+    "surface": "cesser",
+    "valid": false,
+    "reason": "动词不定式"
+  },
+  {
+    "surface": "son errance esthétique",
+    "valid": true
+  },
+  {
+    "surface": "pas仁誉",
+    "valid": false,
+    "reason": "包含非法语字符的碎片"
+  },
+  {
+    "surface": "vol",
+    "valid": true
+  },
+  {
+    "surface": "figur",
+    "valid": true
+  },
+  {
+    "surface": "continuant",
+    "valid": false,
+    "reason": "动词现在分词形式"
+  },
+  {
+    "surface": "l'aperception poetique",
+    "valid": true
+  },
+  {
+    "surface": "consiste",
+    "valid": false,
+    "reason": "动词变位形式"
+  },
+  {
+    "surface": "sa plus grande conscience",
+    "valid": true
+  },
+  {
+    "surface": "sa qualité",
+    "valid": true
+  },
+  {
+    "surface": "voleur *",
+    "valid": false,
+    "reason": "包含标点符号"
+  },
+  {
+    "surface": "conservant",
+    "valid": false,
+    "reason": "动词现在分词形式"
+  },
+  {
+    "surface": "soigneusement",
+    "valid": false,
+    "reason": "副词"
+  },
+  {
+    "surface": "ses contacts",
+    "valid": true
+  },
+  {
+    "surface": "d'anciens",
+    "valid": false,
+    "reason": "包含介词的碎片"
+  },
+  {
+    "surface": "tauards²",
+    "valid": true
+  },
+  {
+    "surface": "essayant",
+    "valid": false,
+    "reason": "动词现在分词形式"
+  },
+  {
+    "surface": "d'armaquer",
+    "valid": false,
+    "reason": "动词不定式碎片"
+  },
+  {
+    "surface": "ses éditures",
+    "valid": true
+  },
+  {
+    "surface": "ses commandaitaires",
+    "valid": true
+  },
+  {
+    "surface": "prétait",
+    "valid": false,
+    "reason": "动词变位形式"
+  },
+  {
+    "surface": "complaisamment",
+    "valid": false,
+    "reason": "副词"
+  },
+  {
+    "surface": "la manuevre",
+    "valid": true
+  },
+  {
+    "surface": "les stades psychogénétiques",
+    "valid": true
+  },
+  {
+    "surface": "freudiens",
+    "valid": true
+  },
+  {
+    "surface": "revus",
+    "valid": false,
+    "reason": "动词过去分词形式"
+  },
+  {
+    "surface": "carente",
+    "valid": true
+  },
+  {
+    "surface": "comprendre",
+    "valid": false,
+    "reason": "动词不定式"
+  },
+  {
+    "surface": "conveniait",
+    "valid": false,
+    "reason": "动词变位形式"
+  },
+  {
+    "surface": "a-l'il",
+    "valid": false,
+    "reason": "碎片/非标准形式"
+  },
+  {
+    "surface": "toute production litteraire et thâtele",
+    "valid": true
+  },
+  {
+    "surface": "ansit",
+    "valid": false,
+    "reason": "拼写错误/副词"
+  },
+  {
+    "surface": "an",
+    "valid": true
+  },
+  {
+    "surface": "cette fulgurante resurgence",
+    "valid": true
+  },
+  {
+    "surface": "les années",
+    "valid": true
+  },
+  {
+    "surface": "sa mort",
+    "valid": true
+  },
+  {
+    "surface": "poura",
+    "valid": false,
+    "reason": "拼写错误/动词变位碎片"
+  },
+  {
+    "surface": "s'retrouver",
+    "valid": false,
+    "reason": "动词不定式碎片"
+  },
+  {
+    "surface": "mon avis",
+    "valid": true
+  },
+  {
+    "surface": "avent",
+    "valid": true
+  },
+  {
+    "surface": "un processus souterrain",
+    "valid": true
+  },
+  {
+    "surface": "une dynamique essentielle",
+    "valid": true
+  },
+  {
+    "surface": "créatrice",
+    "valid": true
+  },
+  {
+    "surface": "subjugait",
+    "valid": false,
+    "reason": "动词变位形式"
+  },
+  {
+    "surface": "litterairement",
+    "valid": false,
+    "reason": "副词"
+  },
+  {
+    "surface": "ilure",
+    "valid": false,
+    "reason": "碎片/拼写错误"
+  },
+  {
+    "surface": "enqand",
+    "valid": false,
+    "reason": "拼写错误/碎片"
+  },
+  {
+    "surface": "réponte",
+    "valid": true
+  },
+  {
+    "surface": "son ouvrier litteraire",
+    "valid": true
+  },
+  {
+    "surface": "publié",
+    "valid": false,
+    "reason": "动词过去分词形式"
+  },
+  {
+    "surface": "un article",
+    "valid": true
+  },
+  {
+    "surface": "La Revue *",
+    "valid": false,
+    "reason": "包含标点符号"
+  },
+  {
+    "surface": "études palestiniennes",
+    "valid": true
+  },
+  {
+    "surface": "grâce",
+    "valid": true
+  },
+  {
+    "surface": "livres",
+    "valid": true
+  },
+  {
+    "surface": "j'ai",
+    "valid": false,
+    "reason": "代词和助动词组合"
+  },
+  {
+    "surface": "écris",
+    "valid": false,
+    "reason": "动词变位形式"
+  },
+  {
+    "surface": "grace",
+    "valid": true
+  },
+  {
+    "surface": "laienne",
+    "valid": true
+  },
+  {
+    "surface": "suis",
+    "valid": false,
+    "reason": "助动词变位形式"
+  },
+  {
+    "surface": "mis",
+    "valid": false,
+    "reason": "动词过去分词形式"
+  },
+  {
+    "surface": "m'a",
+    "valid": false,
+    "reason": "代词和助动词组合"
+  },
+  {
+    "surface": "il y a trente ans",
+    "valid": false,
+    "reason": "包含代词/动词的短语"
+  },
+  {
+    "surface": "le petit essai",
+    "valid": true
+  },
+  {
+    "surface": "parlez",
+    "valid": false,
+    "reason": "动词变位形式"
+  },
+  {
+    "surface": "cette disposition première, la vie et l'éuvre",
+    "valid": true
+  },
+  {
+    "surface": "n'ont",
+    "valid": false,
+    "reason": "否定和助动词组合"
+  },
+  {
+    "surface": "sortes",
+    "valid": true
+  },
+  {
+    "surface": "de-s",
+    "valid": false,
+    "reason": "碎片"
+  },
+  {
+    "surface": "toutes les variations",
+    "valid": true
+  },
+  {
+    "surface": "toutes les éclipses",
+    "valid": true
+  },
+  {
+    "surface": "les dichotomies habituelles",
+    "valid": true
+  },
+  {
+    "surface": "le relé",
+    "valid": true
+  },
+  {
+    "surface": "l'imaginaire",
+    "valid": true
+  },
+  {
+    "surface": "Ecoutons",
+    "valid": false,
+    "reason": "动词变位形式"
+  },
+  {
+    "surface": "cette même interview",
+    "valid": true
+  },
+  {
+    "surface": "un autre cote",
+    "valid": true
+  },
+  {
+    "surface": "s'orienter",
+    "valid": false,
+    "reason": "动词不定式"
+  },
+  {
+    "surface": "ordonneraient",
+    "valid": false,
+    "reason": "动词变位形式"
+  },
+  {
+    "surface": "l'imaginea",
+    "valid": true
+  },
+  {
+    "surface": "ferait",
+    "valid": false,
+    "reason": "动词变位形式"
+  },
+  {
+    "surface": "séparées",
+    "valid": false,
+    "reason": "动词过去分词形式"
+  },
+  {
+    "surface": "ameneraient",
+    "valid": false,
+    "reason": "动词变位形式"
+  },
+  {
+    "surface": "s'engendrer",
+    "valid": false,
+    "reason": "动词不定式"
+  },
+  {
+    "surface": "Un imaginaire",
+    "valid": true
+  },
+  {
+    "surface": "nouvelles réalités",
+    "valid": true
+  },
+  {
+    "surface": "une disposition subjective",
+    "valid": true
+  },
+  {
+    "surface": "recevoir",
+    "valid": false,
+    "reason": "动词不定式"
+  },
+  {
+    "surface": "imaginea",
+    "valid": true
+  },
+  {
+    "surface": "vehiculeuses",
+    "valid": true
+  },
+  {
+    "surface": "légitimement",
+    "valid": false,
+    "reason": "副词"
+  },
+  {
+    "surface": "ajouter",
+    "valid": false,
+    "reason": "动词不定式"
+  },
+  {
+    "surface": "les phrases",
+    "valid": true
+  },
+  {
+    "surface": "sa subjectivité",
+    "valid": true
+  },
+  {
+    "surface": "irruption",
+    "valid": true
+  },
+  {
+    "surface": "l-",
+    "valid": false,
+    "reason": "碎片"
+  },
+  {
+    "surface": "un processus «",
+    "valid": false,
+    "reason": "包含标点符号"
+  },
+  {
+    "surface": "objectif",
+    "valid": true
+  },
+  {
+    "surface": "passerait",
+    "valid": false,
+    "reason": "动词变位形式"
+  },
+  {
+    "surface": "la thèse",
+    "valid": true
+  },
+  {
+    "surface": "simple reportage",
+    "valid": true
+  },
+  {
+    "surface": "N'étant ni archiviste",
+    "valid": false,
+    "reason": "包含否定/连词的动词短语碎片"
+  },
+  {
+    "surface": "historien",
+    "valid": true
+  },
+  {
+    "surface": "ressemble",
+    "valid": false,
+    "reason": "动词变位形式"
+  },
+  {
+    "surface": "n'aurai",
+    "valid": false,
+    "reason": "否定和助动词组合"
+  },
+  {
+    "surface": "raconté",
+    "valid": false,
+    "reason": "动词过去分词形式"
+  }
+]

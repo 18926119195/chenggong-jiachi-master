@@ -1,0 +1,123 @@
+{
+  "questionId": "Z4-Q2",
+  "question": "精神分析和精神分裂分析（schizoanalyse）的核心差异是什么？",
+  "model": "deepseek-flash",
+  "thinking": "disabled",
+  "elapsedSecs": 8.4,
+  "tokenUsage": {
+    "prompt_tokens": 16231,
+    "completion_tokens": 1325,
+    "total_tokens": 17556,
+    "prompt_tokens_details": {
+      "cached_tokens": 16000
+    },
+    "prompt_cache_hit_tokens": 16000,
+    "prompt_cache_miss_tokens": 231
+  },
+  "truncated": false,
+  "llmOutput": "# 路径一：无意识模型的差异——从“结构-语言”到“分子-多元”\n\n步骤1：使用【【53】】，提取精神分析（尤其拉康派）将无意识视为“语言的网罗”（rets du langage）之内，无意识无法脱离语言结构来理解；精神分析的无意识是结构化的、被语言所捕获的。\n\n步骤2：综合【【62】】【【67】】【【72】】，对比精神分析的无意识模型与精神分裂分析的无意识模型：精神分裂分析的无意识（Inconscient schizoanalytique）由“非程序化的潜能性”（potentialités non programmées）构成【【62】】，它包含分子层面的无意识（inconscient moléculaire），不能被数字化或二元化的访问方式所穷尽【【72】】。\n\n步骤3：综合【【82】】【【84】】【【85】】，提取精神分裂分析对无意识的分层：第一层（niveau I）是强度性实体的场所，第二层由符号张力（tenseurs sémiotiques）构成，第三层由语用突触（synapses pragmatiques）构成——这是一个多层次、异质性的模型，与精神分析将无意识统一于语言结构之下的做法形成鲜明对比。\n\n结论：精神分析将无意识锚定在语言结构和俄狄浦斯三角之中，而精神分裂分析将无意识重新定义为分子性的、非程序化的、多层异质的潜能场域，拒绝将无意识还原为语言或结构的捕获物。\n\n# 路径二：主体性生产与“装配”（Agencement）的差异\n\n步骤1：使用【【12】】，提取精神分析的主体性模型：个体化的、以家庭习惯（habitus familialisé）为中心的主体性，在工业社会语境中被建构。\n\n步骤2：综合【【13】】【【14】】，对比精神分裂分析的主体性模型：精神分裂分析试图动员“集体性的和/或……”的构型【【13】】，拒绝将主体性中心化于个人之上，也拒绝“中立距离和善意”的分析姿态【【14】】。\n\n步骤3：综合【【134】】【【135】】，提取精神分裂分析对主体性的重新定位：精神分裂分析的主体性在“流”（Flux）的交汇处建立【【134】】，它不再是某种不可言说的本质，而是由不同装配模态所产生的转化【【135】】。\n\n步骤4：综合【【274】】【【275】】，进一步验证：主体性不应被理解为个体与集体的二元对立，而应被思考为一个连续统【【274】】；权力主体性并非从天而降，也不写在染色体中【【275】】——它始终是装配性的、生产性的。\n\n结论：精神分析将主体性锚定在个体-家庭的俄狄浦斯框架中，而精神分裂分析将主体性视为集体性装配（Agencement）的产物，主体性在流的交汇处、在异质性装配的交叉点上被生产出来，而非被结构所决定。\n\n# 路径三：分析实践的方向——从“还原-解释”到“制图-探索”\n\n步骤1：使用【【15】】，提取精神分析的核心实践：对“能指的解释”（interprétation significante），即通过语言和意义的解释来揭示无意识内容。\n\n步骤2：综合【【4】】【【5】】，对比精神分裂分析的实践方向：精神分裂分析本质上偏离（excentré）于既有实践【【4】】，它关注的是“陈述装配”（Agencements d'énonciation）对符号生产和主体性生产的影响【【5】】——这是一种制图学的、探索性的实践，而非解释性的。\n\n步骤3：综合【【18】】【【20】】，提取精神分裂分析的实践目标：它放弃任何普遍性主张，只承担“存在性领土的制图”（cartographie de Territoires existentiels）的任务【【18】】，这是一种开放的、前瞻性的、再 singular 化的实践【【20】】。\n\n步骤4：综合【【161】】【【162】】，进一步对比：精神分裂分析不满足于对“给定物”（données）的解释，而是深入到“给予”（Donnant）的层面，关注提供情感链接的装配【【161】】；分析者（analyseurs）不呈现为固定装置，而是具有语用效果的、不断被重新质疑的装配【【162】】。\n\n结论：精神分析实践以能指解释和意义还原为核心，而精神分裂分析实践以制图学为方法，探索陈述装配如何生产符号和主体性，它拒绝普遍性主张，走向一种开放的、集体性的、再 singular 化的分析实践。\n\n# 路径四：与资本主义和权力装置的关系\n\n步骤1：使用【【38】】，提取精神分析与宗教的共性：精神分析和一神教都试图将主体性束缚在符合资本主义逻辑的伦理公理之中。\n\n步骤2：综合【【41】】【【48】】，对比精神分析与宗教的差异及其与资本主义的关系：宗教对主体性强加“露天”的束缚，而精神分析则“松开绳索”【【41】】，但精神分析最终仍以“能指还原”的实践服务于既定的秩序【【48】】。\n\n步骤3：综合【【276】】【【277】】，提取精神分裂分析的批判立场：主体性今天被权力和知识装置大规模控制【【276】】，但还存在其他主体性生产模态——过程性的和 singular 化的【【277】】——精神分裂分析正是要解放这些被压抑的生产模态。\n\n步骤4：综合【【418】】【【419】】，进一步验证：精神分裂分析寻求替代性的主体性生产装配，能够以不同于保守再领土化的方式运作【【418】】，它关注“集体性主体性装备”（Équipements collectifs de subjectivité）【【419】】——这是一种政治性的、解放性的实践方向。\n\n结论：精神分析虽然比宗教更“宽松”，但最终仍服务于资本主义的主体性生产逻辑；精神分裂分析则明确批判资本主义对主体性的控制，寻求解放过程性的、 singular 化的主体性生产模态，通过替代性装配和集体性装备来抵抗既定的权力-知识装置。",
+  "totalMaterialsAvailable": 135,
+  "materialsUsedCount": 28,
+  "traceback": {
+    "4": {
+      "chunkKey": "h1.3EuA1WgXdU5T74zlCttIYWp9Bw7hTivvIteXdzpSioU243rp3nj_SIYEoU2Miu1NHQ_IMOL37WlAscJJWj-Ul8G22uCEYV4iigytXuZ8LIg5OXAY7jNb7x7p1toxJNHw9zQEnmKTf9V_SKDzYQ",
+      "nounCount": 0,
+      "hits": []
+    },
+    "5": {
+      "chunkKey": "h1.R9ZCqsMOGdrxJrn9e7skC1FgaGYieeNG0PbKSSij506q-UUOFSxpR4Z3gxXYjfxAdl0BtqmdFOGpv7iVk6Tm24PgM0cjyN1S7ve-j-FdyN94dxQe-t5et5JQFiYg5gah2-Wcxv3w5F3kMAhDhw",
+      "nounCount": 0,
+      "hits": []
+    },
+    "12": {
+      "chunkKey": "h1.pdyS4xCO7sIyBGVUglsjOTJ9MwoG1FY4RvUoiYTnBHGnwKIQoBdWxpyaeoChy7YrrePgs7NzcgyYXvoQiux4_TGyQ0j8-7PP0YnTLtgoTlIvsnV4enymZH8TY4R1moGV0czhQXpO9Lx4OZlpyZs",
+      "nounCount": 0,
+      "hits": []
+    },
+    "13": {
+      "chunkKey": "h1.pdyS4xCO7sIyBGVUglsjOTJ9MwoG1FY4RvUoiYTnBHGnwKIQoBdWxpyaeoChy7YrrePgs7NzcgyYXvoQiux4_TGyQ0j8-7PP0YnTLtgoTlIvsnV4enymZH8TY4R1moGV0czhQXpO9Lx4OZlpyZs",
+      "nounCount": 0,
+      "hits": []
+    },
+    "14": {
+      "chunkKey": "h1.BF4T5aflID1mLtRsELfmtngPfi5uc1Sb0E5h3ECKZU1ALF5ijIl4-Ez7gzjRJB8Kqz0BAfqomIry7e4YYekHizccuqkJsTfcA8h6heGbqazbrW4R5syBRy8yrnYDiz23ZbyXP72YISj3AkFkSTo",
+      "nounCount": 0,
+      "hits": []
+    },
+    "15": {
+      "chunkKey": "h1.S3tEeRG6zUYLBvI-dy0aGZR3D7JfKO1w9WkyRYzse_9CzC6KLYhyKiKuOnDA4IEqBXAcbypt9iuMY__bV2MOLSMB2by9DyRXAQcmCtu-laEBCW0Y7rGUuGEeG7Vnu-9cR5-TPjLnKQ-CFuREjn0M",
+      "nounCount": 0,
+      "hits": []
+    },
+    "18": {
+      "chunkKey": "h1.Uy4ji5duM6lCsKqIILfL_qgoGKMeC3Y8gFb9RTpiCDpXAzPRkExc6KZynOnRrQNp5W8fT6oDaE6jvZZBaB76NEgKO5gZZ16FPjclsU4q3Qz_YAK9XKhkoreCl_bV7x7SpiI7iHVK4wpYmrdrxeA",
+      "nounCount": 0,
+      "hits": []
+    },
+    "20": {
+      "chunkKey": "h1.vJbJvMae4HirUUie_ByevTw52xEPV-SmW8WZUAf2snLYCtX5w38oPLnDYXo49bBaAwwZ1DbVMoJmeGYHaPCLqL842Y4v0nVetFgKi-TEgKHGyKtVwqi1ttimurOkdKp0QdEYzh-9XoUBOR8AL1M",
+      "nounCount": 0,
+      "hits": []
+    },
+    "38": {
+      "chunkKey": "h1.CW6X6grNvhDkyODMeoSoOfDu58uNwF56nMUCaR0uixeuzffH4mBN5ZZAMIQLyyZPpZYsqYapzx165WYoYe8_9BxqGFBjHYHbGPXNykX62VGeX9VFGfbRbxQhkaWpTaj9dW9iJRonaGp2JSZGTIQ",
+      "nounCount": 0,
+      "hits": []
+    },
+    "41": {
+      "chunkKey": "h1.o5LU2R7mEdy-Zdwxb23308ZTbn6FL0bY3W2JB3eKm1lnhjlkIkCBH2Hlcd48t3eo5Y78IShmNt2BQZv_OnB5f3psdpd53KqNx2l4yrsg2B-yOOW6_EmGd56jjuWgJtER0OUlp2cOOR4cQggM1rU",
+      "nounCount": 0,
+      "hits": []
+    },
+    "48": {
+      "chunkKey": "h1.7EsBpvRIajiQKq7ofHhoAtAEic-5Eh1q_m9rSL18HoaMAYtNtNREpFbKyJWFODDKB-9HB9lFnZ2hZGF-iU57riX5s4AET0D-gG5d7ygBSR5RegXUt8JsW-rpizGqzWXPL1Ga8K-h4ZhCvvf5wqg",
+      "nounCount": 0,
+      "hits": []
+    },
+    "53": {
+      "chunkKey": "h1.cGmU2on2_h7G4LY4OENpZev0JEK4-ZqOU3b3TBmwAglOAPDERAKBF9Pch63kdbiZie38TXnRfTcWrtwZqEcfhQLqX2HCfvrdQggNYIfA7kGhsivmrpvnN30UggTSIizYYctIhCW7cruVJ2mI-GI",
+      "nounCount": 0,
+      "hits": []
+    },
+    "62": {
+      "chunkKey": "h1.EJNZLZ4AXZWc8oGXi0-kIyLSJUOqXvC7hpKdzGNHemTZ5T0IQRD6Li_MBSCpvZKiRgrkdh0mZ1F2tba8OnU5xb0sjkn9YKEx4Opj2MHQjGZ4orwNBXDT7ZzBliqXZG7kwR8GsXBSCOGVyrBTqZ0",
+      "nounCount": 0,
+      "hits": []
+    },
+    "67": {
+      "chunkKey": "h1.P84ABCn3NGL2gt2L6I_txUCsSiOqaLwoWEqH3f6zgTkiY5sDQ_ZNvLPKgxJG7glfI2QXTXFUZHq1TbgaM94VqdpXzgjS3rpQADnEowuVCl6XRh4ngZUHn7z7rI6xP1vvqjO4uAczGm9QPlUnziJm",
+      "nounCount": 0,
+      "hits": []
+    },
+    "72": {
+      "chunkKey": "h1.r72kf9hj0gV9wjSBlfZetl83LESbjvkZwc0PGAov09GyeseJtWSo8S7vm0ecAlGZkYrzlldqRbhHygAe1nwDjgMnZbtjOUh7m1DNplMrIWOYPzVb4uV2zqFp_Qibn5ndqPmJMek0NQXGTRDbhP8",
+      "nounCount": 0,
+      "hits": []
+    },
+    "82": {
+      "chunkKey": "h1.arELTzfqWWODnLJLbBYUb6UpzCCaUS31wh4Vxt3vx38kFNTCT-3M_vowrbG-G_LrsB7Eck9DS9s4o28k5WiOXobAruuwOIYVqC-TQC-HDJyP6z3ZemLscpjm0cmEK6T1jnDYAFhkoBOQr0THg4ml",
+      "nounCount": 0,
+      "hits": []
+    },
+    "84": {
+      "chunkKey": "h1.eJMf4hC2SHIQkGYDXe-S_lQ3233zXbnm4qDBgm-x55ferwZZjBbYv_QToVBqpNDTk-e9X8sF58TKYQHu8TbrcceQQUUH0kbLiOE9ctiFQkaR89xLOsHFGuvvOS2SRTupqleeA6NAo8r7LyDtDZWt",
+      "nounCount": 0,
+      "hits": []
+    },
+    "85": {
+      "chunkKey": "h1.kcuknmSamN3s297yWzCDNmBD7MqzyY530QKjnPPEwfM9e88KyrbmzZVrUODeBFu2a96KqQ7O9fcsfLrq_bZEyOW8DiK8uFDpHsb410jV9vioRAJ_LtO_-k7iRne2Bw6jvmFkA8R0M6lGxGNgIChcfQ",
+      "nounCount": 0,
+      "hits": []
+    },
+    "134": {
+      "chunkKey": "h1.Y9BMejiEGdniqn2eqAfSaiFefTqjz_zHHrrF93taf5fLNiDmWvcnhQCaVh2ocE9SLMUNWLSz0RdnzNqHoUKU6kdW_E2wLs_tKpTp_cXu3lJR80rBoiuPaPxIEkyXihdyHiFupgXVXjJQQV1ppow",
+      "nounCount": 0,
+      "hits": []
+    },
+    "135": {
+      "chunkKey": "h1.Z3-16c85zD2e57iGZwgLbKpX-pE6cuF6OKVs6rch1a9RuNYKbXYnow0bqEWBjfM35sGjXbg-35yo5JohjVgJdk1LuUgO2EZ3tAPh7-F5lut5rboyzBDrwP8gg4-Mlnkzk087BzGuQgg8wmYkyHU",
+      "nounCount": 0,
+      "hits": []
+    }
+  }
+}

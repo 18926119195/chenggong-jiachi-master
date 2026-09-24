@@ -1,0 +1,861 @@
+[
+  {
+    "surface": "des individus",
+    "valid": true
+  },
+  {
+    "surface": "l'entropie mortière",
+    "valid": true
+  },
+  {
+    "surface": "la période",
+    "valid": true
+  },
+  {
+    "surface": "Les cartographies analytiques",
+    "valid": true
+  },
+  {
+    "surface": "ENONCIATION",
+    "valid": true
+  },
+  {
+    "surface": "plus d'une dizaine",
+    "valid": false,
+    "reason": "包含介词和冠词，非单一实词"
+  },
+  {
+    "surface": "années",
+    "valid": true
+  },
+  {
+    "surface": "les décombres",
+    "valid": true
+  },
+  {
+    "surface": "la psychanalyse",
+    "valid": true
+  },
+  {
+    "surface": "partir d'autres échafaudages théoriques – si possible moins réductionnistes que ceux des freudiens et des lacaniens",
+    "valid": false,
+    "reason": "长短语含介词、连词、代词等，非单一实词"
+  },
+  {
+    "surface": "cette entreprise",
+    "valid": true
+  },
+  {
+    "surface": "schizomyalgia",
+    "valid": true
+  },
+  {
+    "surface": "une spécialité fermée",
+    "valid": true
+  },
+  {
+    "surface": "les rangs",
+    "valid": true
+  },
+  {
+    "surface": "domaine psy",
+    "valid": true
+  },
+  {
+    "surface": "Les ambitions",
+    "valid": true
+  },
+  {
+    "surface": "modètes",
+    "valid": false,
+    "reason": "疑似拼写错误或非标准词形"
+  },
+  {
+    "surface": "Plus modètes",
+    "valid": false,
+    "reason": "含副词Plus，且modètes疑似拼写错误"
+  },
+  {
+    "surface": "cette schizoanalyse",
+    "valid": true
+  },
+  {
+    "surface": "un jour",
+    "valid": true
+  },
+  {
+    "surface": "façon embryonnaire",
+    "valid": true
+  },
+  {
+    "surface": ", divers divers modalités",
+    "valid": false,
+    "reason": "含标点且重复divers，结构异常"
+  },
+  {
+    "surface": "besoin",
+    "valid": true
+  },
+  {
+    "surface": "une fondation institutionnelle",
+    "valid": true
+  },
+  {
+    "surface": "forme",
+    "valid": true
+  },
+  {
+    "surface": "la mesure ou a vocation",
+    "valid": false,
+    "reason": "含连词ou和动词形式a vocation"
+  },
+  {
+    "surface": "une discipline",
+    "valid": true
+  },
+  {
+    "surface": "lecture",
+    "valid": true
+  },
+  {
+    "surface": "autres systèmes",
+    "valid": true
+  },
+  {
+    "surface": "modélisation",
+    "valid": true
+  },
+  {
+    "surface": "Pas à titre",
+    "valid": false,
+    "reason": "含否定副词和介词短语"
+  },
+  {
+    "surface": "modèle général",
+    "valid": true
+  },
+  {
+    "surface": "comme instrument",
+    "valid": false,
+    "reason": "含介词comme"
+  },
+  {
+    "surface": "déchiffrage",
+    "valid": true
+  },
+  {
+    "surface": "divers domains",
+    "valid": false,
+    "reason": "疑似拼写错误domains，且结构不完整"
+  },
+  {
+    "surface": "méta-modèle",
+    "valid": true
+  },
+  {
+    "surface": "la limite",
+    "valid": true
+  },
+  {
+    "surface": "un modèle",
+    "valid": true
+  },
+  {
+    "surface": "un méta-modèle",
+    "valid": true
+  },
+  {
+    "surface": "une frontière stable",
+    "valid": true
+  },
+  {
+    "surface": "un sens",
+    "valid": true
+  },
+  {
+    "surface": "la subactivité",
+    "valid": true
+  },
+  {
+    "surface": "activité",
+    "valid": true
+  },
+  {
+    "surface": "méta-modélisation",
+    "valid": true
+  },
+  {
+    "surface": "la perspective",
+    "valid": true
+  },
+  {
+    "surface": "transfert",
+    "valid": true
+  },
+  {
+    "surface": "modé",
+    "valid": false,
+    "reason": "疑似拼写错误或非标准词形"
+  },
+  {
+    "surface": "aura toujours affaire",
+    "valid": false,
+    "reason": "含助动词aura和副词toujours"
+  },
+  {
+    "surface": "des ensemble",
+    "valid": false,
+    "reason": "冠词des与单数ensemble不一致"
+  },
+  {
+    "surface": "indiférément",
+    "valid": false,
+    "reason": "疑似拼写错误，非名词"
+  },
+  {
+    "surface": ", individus",
+    "valid": false,
+    "reason": "含标点碎片"
+  },
+  {
+    "surface": "Le ciel",
+    "valid": true
+  },
+  {
+    "surface": "statut",
+    "valid": true
+  },
+  {
+    "surface": "ces composantes",
+    "valid": true
+  },
+  {
+    "surface": "lisation",
+    "valid": false,
+    "reason": "词缀碎片，非完整词"
+  },
+  {
+    "surface": "passages transversaux",
+    "valid": true
+  },
+  {
+    "surface": "des problèmes",
+    "valid": true
+  },
+  {
+    "surface": "différente",
+    "valid": false,
+    "reason": "形容词，非名词"
+  },
+  {
+    "surface": "déplacement",
+    "valid": true
+  },
+  {
+    "surface": "la problematique",
+    "valid": true
+  },
+  {
+    "surface": "des systèmes",
+    "valid": true
+  },
+  {
+    "surface": "énoncements",
+    "valid": true
+  },
+  {
+    "surface": "enoncipation capables",
+    "valid": false,
+    "reason": "疑似拼写错误且含形容词capables"
+  },
+  {
+    "surface": "de nouvelles coordonnées",
+    "valid": false,
+    "reason": "含介词de"
+  },
+  {
+    "surface": "existence",
+    "valid": true
+  },
+  {
+    "surface": "représentations",
+    "valid": true
+  },
+  {
+    "surface": "des propositions",
+    "valid": true
+  },
+  {
+    "surface": "Agencement",
+    "valid": true
+  },
+  {
+    "surface": "la cheval",
+    "valid": false,
+    "reason": "冠词la与阳性名词cheval不一致"
+  },
+  {
+    "surface": "interaction",
+    "valid": true
+  },
+  {
+    "surface": "des domaines radicalement hétérogénères",
+    "valid": false,
+    "reason": "含副词radicalement，且hétérogénères疑似拼写错误"
+  },
+  {
+    "surface": "une science",
+    "valid": true
+  },
+  {
+    "surface": "melangerait",
+    "valid": false,
+    "reason": "动词变位形式"
+  },
+  {
+    "surface": "torches",
+    "valid": true
+  },
+  {
+    "surface": "les torches",
+    "valid": true
+  },
+  {
+    "surface": "les serviettes",
+    "valid": true
+  },
+  {
+    "surface": "la rubrique générale",
+    "valid": true
+  },
+  {
+    "surface": "linge",
+    "valid": true
+  },
+  {
+    "surface": "bonne grace",
+    "valid": true
+  },
+  {
+    "surface": "devenirs singularises",
+    "valid": true
+  },
+  {
+    "surface": "cortège",
+    "valid": true
+  },
+  {
+    "surface": "répercussions contextuelles",
+    "valid": true
+  },
+  {
+    "surface": "aussi bien question",
+    "valid": false,
+    "reason": "含副词短语aussi bien"
+  },
+  {
+    "surface": "un patron",
+    "valid": true
+  },
+  {
+    "surface": "bar",
+    "valid": true
+  },
+  {
+    "surface": "des verres",
+    "valid": true
+  },
+  {
+    "surface": "un torchon",
+    "valid": true
+  },
+  {
+    "surface": "un «",
+    "valid": false,
+    "reason": "含标点符号«"
+  },
+  {
+    "surface": "coup",
+    "valid": true
+  },
+  {
+    "surface": "torchon",
+    "valid": true
+  },
+  {
+    "surface": "une poche",
+    "valid": true
+  },
+  {
+    "surface": "résistance",
+    "valid": true
+  },
+  {
+    "surface": "une perspective analytique",
+    "valid": true
+  },
+  {
+    "surface": "compte",
+    "valid": true
+  },
+  {
+    "surface": "ce genre",
+    "valid": true
+  },
+  {
+    "surface": "contextualité",
+    "valid": true
+  },
+  {
+    "surface": "incidences",
+    "valid": true
+  },
+  {
+    "surface": "effets pragmatiques",
+    "valid": true
+  },
+  {
+    "surface": "des champs sociaux",
+    "valid": true
+  },
+  {
+    "surface": "micro-politique",
+    "valid": true
+  },
+  {
+    "surface": "L'effet analytique",
+    "valid": true
+  },
+  {
+    "surface": "une délivrance",
+    "valid": true
+  },
+  {
+    "surface": "une mutation «",
+    "valid": false,
+    "reason": "含标点符号«"
+  },
+  {
+    "surface": "contexte",
+    "valid": true
+  },
+  {
+    "surface": "Univers",
+    "valid": true
+  },
+  {
+    "surface": "la constellation",
+    "valid": true
+  },
+  {
+    "surface": "registres",
+    "valid": true
+  },
+  {
+    "surface": "cause",
+    "valid": true
+  },
+  {
+    "surface": "Les Agencements collectifs et /ou individuels de l'élaboration",
+    "valid": false,
+    "reason": "含连词et/ou和介词de"
+  },
+  {
+    "surface": "des objets",
+    "valid": true
+  },
+  {
+    "surface": "l'investigation analytique",
+    "valid": true
+  },
+  {
+    "surface": "imagés",
+    "valid": false,
+    "reason": "形容词或动词分词形式"
+  },
+  {
+    "surface": "une façon contingente",
+    "valid": true
+  },
+  {
+    "surface": "certains Agencements",
+    "valid": true
+  },
+  {
+    "surface": "position",
+    "valid": true
+  },
+  {
+    "surface": "analyseur",
+    "valid": true
+  },
+  {
+    "surface": "des formations",
+    "valid": true
+  },
+  {
+    "surface": "l'Inconscient",
+    "valid": true
+  },
+  {
+    "surface": "ces analyseurs",
+    "valid": true
+  },
+  {
+    "surface": "mission",
+    "valid": true
+  },
+  {
+    "surface": "d'autres instances",
+    "valid": false,
+    "reason": "含介词d'"
+  },
+  {
+    "surface": "une telle position",
+    "valid": true
+  },
+  {
+    "surface": "Un Agencement analytique",
+    "valid": true
+  },
+  {
+    "surface": "différentes fapons",
+    "valid": false,
+    "reason": "fapons疑似拼写错误，且différentes为形容词"
+  },
+  {
+    "surface": "La schizoanalyse",
+    "valid": true
+  },
+  {
+    "surface": "pratiques",
+    "valid": true
+  },
+  {
+    "surface": "professionnalisations",
+    "valid": true
+  },
+  {
+    "surface": "ses corporations",
+    "valid": true
+  },
+  {
+    "surface": "sociétés",
+    "valid": true
+  },
+  {
+    "surface": ", écoles",
+    "valid": false,
+    "reason": "含标点碎片"
+  },
+  {
+    "surface": "initiationes",
+    "valid": false,
+    "reason": "疑似拼写错误，非标准词形"
+  },
+  {
+    "surface": "Sa définition provoiture",
+    "valid": false,
+    "reason": "provoiture疑似拼写错误，结构异常"
+  },
+  {
+    "surface": "l'analyse",
+    "valid": true
+  },
+  {
+    "surface": "l'incidence",
+    "valid": true
+  },
+  {
+    "surface": "encociation",
+    "valid": false,
+    "reason": "疑似拼写错误或非标准词形"
+  },
+  {
+    "surface": "les productions sémiotiques et subjects",
+    "valid": false,
+    "reason": "含连词et，且subjects疑似拼写错误"
+  },
+  {
+    "surface": "un contexte problématique",
+    "valid": true
+  },
+  {
+    "surface": "cet exposé",
+    "valid": true
+  },
+  {
+    "surface": "ces notions",
+    "valid": true
+  },
+  {
+    "surface": "des choses aussi diverses qu'un tableau clinique",
+    "valid": false,
+    "reason": "含副词aussi和连词qu'"
+  },
+  {
+    "surface": "un fantasme",
+    "valid": true
+  },
+  {
+    "surface": "une fantaisie diurne",
+    "valid": true
+  },
+  {
+    "surface": "une production esthétique",
+    "valid": true
+  },
+  {
+    "surface": "un fait mi-officiel",
+    "valid": true
+  },
+  {
+    "surface": "ici, c'est l'idée",
+    "valid": false,
+    "reason": "含副词ici和动词c'est"
+  },
+  {
+    "surface": "une circonscissement existentielle",
+    "valid": false,
+    "reason": "疑似拼写错误，且冠词与名词性别不一致"
+  },
+  {
+    "surface": "le déploiement",
+    "valid": true
+  },
+  {
+    "surface": "références intrinsèques",
+    "valid": true
+  },
+  {
+    "surface": "un processus",
+    "valid": true
+  },
+  {
+    "surface": "auto",
+    "valid": false,
+    "reason": "前缀碎片，非完整名词"
+  },
+  {
+    "surface": "de singularisation",
+    "valid": false,
+    "reason": "含介词de"
+  },
+  {
+    "surface": "Pourquoi ce retour",
+    "valid": false,
+    "reason": "含疑问副词Pourquoi"
+  },
+  {
+    "surface": "un leitmotiv",
+    "valid": true
+  },
+  {
+    "surface": "*Agencements",
+    "valid": false,
+    "reason": "含符号*"
+  },
+  {
+    "surface": "énonciation*",
+    "valid": false,
+    "reason": "含符号*"
+  },
+  {
+    "surface": "bout",
+    "valid": true
+  },
+  {
+    "surface": "le concept d*Inconscient*.",
+    "valid": false,
+    "reason": "含符号*和标点"
+  },
+  {
+    "surface": "les faits",
+    "valid": true
+  },
+  {
+    "surface": "des pulsions",
+    "valid": true
+  },
+  {
+    "surface": ", des affects",
+    "valid": false,
+    "reason": "含标点碎片"
+  },
+  {
+    "surface": ", des instances",
+    "valid": false,
+    "reason": "含标点碎片"
+  },
+  {
+    "surface": "des relations",
+    "valid": true
+  },
+  {
+    "surface": "ce gen",
+    "valid": false,
+    "reason": "疑似拼写错误，非完整词"
+  },
+  {
+    "surface": "chose",
+    "valid": true
+  },
+  {
+    "surface": "certaine",
+    "valid": false,
+    "reason": "形容词或限定词，非名词"
+  },
+  {
+    "surface": "les précopulations schizoanalytiques",
+    "valid": true
+  },
+  {
+    "surface": "seulement à titre",
+    "valid": false,
+    "reason": "含副词seulement和介词à"
+  },
+  {
+    "surface": "composante",
+    "valid": true
+  },
+  {
+    "surface": "toujours dans certains cas",
+    "valid": false,
+    "reason": "含副词toujours和介词dans"
+  },
+  {
+    "surface": "figue",
+    "valid": true
+  },
+  {
+    "surface": "des *Agencements",
+    "valid": false,
+    "reason": "含符号*"
+  },
+  {
+    "surface": "de composantes semiólogiques",
+    "valid": false,
+    "reason": "含介词de"
+  },
+  {
+    "surface": "de composantes subjectives",
+    "valid": false,
+    "reason": "含介词de"
+  },
+  {
+    "surface": "de composantes conscientielles",
+    "valid": false,
+    "reason": "含介词de"
+  },
+  {
+    "surface": "L'Agencement",
+    "valid": true
+  },
+  {
+    "surface": "la problématique",
+    "valid": true
+  },
+  {
+    "surface": "sujet individuel",
+    "valid": true
+  },
+  {
+    "surface": "la monade pensante conscientielle",
+    "valid": true
+  },
+  {
+    "surface": "l'entendement",
+    "valid": true
+  },
+  {
+    "surface": ", la volonté",
+    "valid": false,
+    "reason": "含标点碎片"
+  },
+  {
+    "surface": "leur accueillissement classique",
+    "valid": true
+  },
+  {
+    "surface": "la trame",
+    "valid": true
+  },
+  {
+    "surface": "une production référente",
+    "valid": true
+  },
+  {
+    "surface": ", plus précisément, à une meta-modellisation",
+    "valid": false,
+    "reason": "含标点和副词短语"
+  },
+  {
+    "surface": "ordinaire",
+    "valid": false,
+    "reason": "形容词，非名词"
+  },
+  {
+    "surface": "quelle subtitle",
+    "valid": false,
+    "reason": "含疑问限定词quelle，且subtitle疑似拼写错误"
+  },
+  {
+    "surface": "essence",
+    "valid": true
+  },
+  {
+    "surface": "un sujet",
+    "valid": true
+  },
+  {
+    "surface": "quête",
+    "valid": true
+  },
+  {
+    "surface": "une vertigineuse adéquation à lui-même",
+    "valid": false,
+    "reason": "含介词à和代词lui-même"
+  },
+  {
+    "surface": "seul témoin",
+    "valid": true
+  },
+  {
+    "surface": "La subjectivité schizoanalytique",
+    "valid": true
+  },
+  {
+    "surface": "l'intersection",
+    "valid": true
+  },
+  {
+    "surface": "signes",
+    "valid": true
+  },
+  {
+    "surface": "carrefour",
+    "valid": true
+  },
+  {
+    "surface": "deits",
+    "valid": false,
+    "reason": "疑似拼写错误或非标准词形"
+  },
+  {
+    "surface": "le sillage",
+    "valid": true
+  },
+  {
+    "surface": "transformations",
+    "valid": true
+  },
+  {
+    "surface": "leurs différentes modalités",
+    "valid": true
+  },
+  {
+    "surface": "Ce sont des dernières",
+    "valid": false,
+    "reason": "含代词Ce、助动词sont和冠词des"
+  }
+]

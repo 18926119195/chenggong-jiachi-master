@@ -1,0 +1,1046 @@
+{
+  "questionId": "Z3-Q2",
+  "question": "精神分析如何处理精神病性结构？有哪些临床策略？",
+  "model": "deepseek-flash",
+  "thinking": "disabled",
+  "elapsedSecs": 9.1,
+  "tokenUsage": {
+    "prompt_tokens": 7727,
+    "completion_tokens": 1470,
+    "total_tokens": 9197,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 7727
+  },
+  "truncated": false,
+  "llmOutput": "# 路径一：拉康结构主义框架下的精神病性结构处理\n\n步骤1：使用【【3】】，提取拉康对“实在界、想象界、象征界”的三分法（Réel, Imaginaire, Symbolique），判断精神病性结构在拉康理论中被定位为象征界功能的根本性缺陷（foreclusion/Verwerfung），即能指链的断裂导致精神病性主体无法进入象征秩序。\n\n步骤2：综合【【19】】【【246】】，对比弗洛伊德的心理装置模型与拉康的象征秩序建构——弗洛伊德通过“自我”（le Moi）及其附属物来区分心理实例，而拉康则将象征界树立为实在界与想象界的“骨架”（armature），精神病性结构正是这一象征骨架的坍塌或缺失。\n\n步骤3：使用【【204】】，提取拉康派精神分析对“被体验的结构”（structures vécues）的处理方式，判断其临床策略在于通过转移（transfert）和解释（interprétation）来重建象征链条，而非直接触及实在界。\n\n结论：此路径认为，拉康框架下的精神病性结构处理核心在于象征界的修复或替代性建构，临床策略聚焦于通过转移关系稳定能指链，防止实在界的入侵导致妄想或幻觉的爆发。\n\n\n# 路径二：瓜塔里（Guattari）精神分裂分析对精神病性结构的解域化处理\n\n步骤1：使用【【107】】，提取瓜塔里“精神分裂分析”（schizoanalyse）对主体化事实（faits de subjectivation）的阐述，判断其明确拒绝辩证法的接近方式，转而采用“解域化”（déterritorialisation）视角来处理精神病性结构。\n\n步骤2：综合【【111】】【【112】】，对比弗洛伊德派和拉康派的还原主义倾向与瓜塔里的“元建模”（méta-modélisation）策略——瓜塔里认为精神分析应从事“更谦逊也更宏大”的野心，即不再将精神病性结构还原为俄狄浦斯情结或能指链，而是将其视为“主体化的异质发生”（hétérogenèse de la subjectivation）。\n\n步骤3：使用【【203】】，提取“精神病性的解离性成分”（les composantes disjonctrices d'une psychose）这一概念，判断临床策略应关注“异质发生”过程中“部分对象”（objets partiels）和“流”（Flux）的配置，而非对妄想内容进行意义解释。\n\n步骤4：综合【【194】】【【257】】，对比传统分析对“幻想”（fantasmes）的解释与精神分裂分析对“情感表现”（manifestations affectives）的动员——后者主张在治疗空间之外（即“治愈的封闭空间”之外）激活主体化的多样性，而非将其限制在转移的“紧身衣”中。\n\n结论：此路径认为，瓜塔里的精神分裂分析将精神病性结构视为“解域化”的极端形式，临床策略在于通过“元建模”和“异质发生”来捕捉主体化的多重线索，而非试图将其重新纳入象征秩序或俄狄浦斯框架。\n\n\n# 路径三：弗洛伊德元心理学与精神病性结构的“拓扑穿透”问题\n\n步骤1：使用【【18】】，提取弗洛伊德对心理实例的“拓扑穿透”（pénétration topique）——将心理装置分为对立的两面（如“无意识”与“意识”），判断精神病性结构在弗洛伊德框架中涉及“自我”边界的崩溃与“原过程”（processus primaire）的过度涌现。\n\n步骤2：综合【【174】】【【171】】，对比弗洛伊德试图为心理学提供“科学基础”的野心与其在“心理形成物的分层”（stratification des formations psychiques）上的失败——弗洛伊德从未成功地将精神病性结构连贯地整合进其元心理学模型，导致精神病性结构在弗洛伊德派临床中常被边缘化或归入“自恋性神经症”的模糊范畴。\n\n步骤3：使用【【139】】，提取“通过转移和解释引入新症状”（introduire de nouveaux symptômes à partir du transfert et de l'interprétation）这一临床观察，判断弗洛伊德派处理精神病性结构时的核心困境：转移关系在精神病性结构中极不稳定，解释可能引发“转移性精神病”而非治愈。\n\n步骤4：综合【【151】】【【152】】，对比“经典分析视角”（perspective analytique classique）对“抵抗”（résistance）的处理与“无意识形成物的分析器”（analyseur des formations de l'Inconscient）的要求——后者强调分析器必须意识到自身的“使命”，即不能简单地将精神病性结构视为“抵抗”而排除在分析之外。\n\n结论：此路径认为，弗洛伊德元心理学在处理精神病性结构时面临“拓扑穿透”的根本困难，临床策略需在转移关系的脆弱性与解释的风险之间寻找平衡，避免将精神病性结构简单归入“不可分析”的范畴。\n\n\n# 路径四：精神病性结构的“主体化线”与“集体装备”分析\n\n步骤1：使用【【78】】【【211】】，提取“主体化的潜在线”（lignes latentes de subjectivation）与“主体化的显在线的复调分析”（analyse polyphonique des lignes manifestes de subjectivation），判断精神病性结构不应仅被视为个体心理内部的病理，而应被理解为“主体化线”的断裂或僵化。\n\n步骤2：综合【【206】】【【207】】，对比“集体主体化装备”（Equipements collectifs de subjectivation）的历史性与“西方当代社会主体化过程”的分析——精神病性结构在瓜塔里框架中与“集体装备”的失效相关，即社会性的“主体化市场”（marché de subjectivation）无法为个体提供足够稳定的“存在性领土”（Territoires existentiels）。\n\n步骤3：使用【【219】】，提取“在国家结构与功能中的刚性插入”（une insertion rigide au sein des structures et des fonctions étatiques），判断精神病性结构可能源于主体化过程被“刚性”地固定在某种国家或制度性结构中，导致“解域化”的失败与“再域化”的暴力。\n\n步骤4：综合【【208】】【【209】】，对比“永久性重建”与“柔性主体化公式”（formule souple de subjectivation）——后者使主体化过程脱离“纯粹的三元结构”（pure triadique），即不再局限于俄狄浦斯三角或拉康的三界，而是向“多元异质”的配置开放。\n\n结论：此路径认为，精神病性结构的处理需从“集体装备”和“主体化线”的角度入手，临床策略应致力于恢复主体化的“柔性”与“多元性”，而非将其重新纳入国家或制度的刚性结构，或简单回归俄狄浦斯三角。",
+  "totalMaterialsAvailable": 266,
+  "materialsUsedCount": 23,
+  "traceback": {
+    "3": {
+      "chunkKey": "h1.cQA2AnHUJl7swMTsItqkmKIpGbbT86veebZ2gUVzXyLBvt66QqWHFnpHs-kTQFH6ArAqFD7GbBrDx7tFmTbIjAl3-BRgb1owB-wvtaJCupv2G_XjdQb2rasjKlfMASa_gVhfFHNV1Tg4PS-lVpU",
+      "nounCount": 14,
+      "hits": [
+        {
+          "noun": "la psychose",
+          "score": 90,
+          "nounId": "la_psychose"
+        },
+        {
+          "noun": "transfert",
+          "score": 85,
+          "nounId": "transfert"
+        },
+        {
+          "noun": "Freud",
+          "score": 85,
+          "nounId": "freud"
+        },
+        {
+          "noun": "Réel",
+          "score": 80,
+          "nounId": "réel"
+        },
+        {
+          "noun": "La tripartition lacanienne",
+          "score": 80,
+          "nounId": "la_tripartition_lacanienne"
+        },
+        {
+          "noun": "la névrose",
+          "score": 75,
+          "nounId": "la_névrose"
+        },
+        {
+          "noun": "du Symbolique",
+          "score": 75,
+          "nounId": "du_symbolique"
+        },
+        {
+          "noun": "identification",
+          "score": 70,
+          "nounId": "identification"
+        },
+        {
+          "noun": "instances topiques",
+          "score": 70,
+          "nounId": "instances_topiques"
+        },
+        {
+          "noun": "Le processus primaire",
+          "score": 65,
+          "nounId": "le_processus_primaire"
+        },
+        {
+          "noun": "l'interpretation",
+          "score": 65,
+          "nounId": "l'interpretation"
+        },
+        {
+          "noun": "rapport",
+          "score": 55,
+          "nounId": "rapport"
+        },
+        {
+          "noun": "après coup",
+          "score": 55,
+          "nounId": "après_coup"
+        },
+        {
+          "noun": "vue",
+          "score": 45,
+          "nounId": "vue"
+        }
+      ]
+    },
+    "18": {
+      "chunkKey": "h1.CW6X6grNvhDkyODMeoSoOfDu58uNwF56nMUCaR0uixeuzffH4mBN5ZZAMIQLyyZPpZYsqYapzx165WYoYe8_9BxqGFBjHYHbGPXNykX62VGeX9VFGfbRbxQhkaWpTaj9dW9iJRonaGp2JSZGTIQ",
+      "nounCount": 8,
+      "hits": [
+        {
+          "noun": "Cartographies schizoanalytiques",
+          "score": 85,
+          "nounId": "cartographies_schizoanalytiques"
+        },
+        {
+          "noun": "Freud",
+          "score": 85,
+          "nounId": "freud"
+        },
+        {
+          "noun": "ou bien Lacan",
+          "score": 85,
+          "nounId": "ou_bien_lacan"
+        },
+        {
+          "noun": "un ordre symbolique",
+          "score": 80,
+          "nounId": "un_ordre_symbolique"
+        },
+        {
+          "noun": "Réel",
+          "score": 80,
+          "nounId": "réel"
+        },
+        {
+          "noun": "de l'Imaginaire",
+          "score": 75,
+          "nounId": "de_l'imaginaire"
+        },
+        {
+          "noun": "puis, ulterieurement: le Ca",
+          "score": 70,
+          "nounId": "puis,_ulterieurement:_le_ca"
+        },
+        {
+          "noun": "le Moi",
+          "score": 70,
+          "nounId": "le_moi"
+        }
+      ]
+    },
+    "19": {
+      "chunkKey": "h1.CW6X6grNvhDkyODMeoSoOfDu58uNwF56nMUCaR0uixeuzffH4mBN5ZZAMIQLyyZPpZYsqYapzx165WYoYe8_9BxqGFBjHYHbGPXNykX62VGeX9VFGfbRbxQhkaWpTaj9dW9iJRonaGp2JSZGTIQ",
+      "nounCount": 8,
+      "hits": [
+        {
+          "noun": "Cartographies schizoanalytiques",
+          "score": 85,
+          "nounId": "cartographies_schizoanalytiques"
+        },
+        {
+          "noun": "Freud",
+          "score": 85,
+          "nounId": "freud"
+        },
+        {
+          "noun": "ou bien Lacan",
+          "score": 85,
+          "nounId": "ou_bien_lacan"
+        },
+        {
+          "noun": "un ordre symbolique",
+          "score": 80,
+          "nounId": "un_ordre_symbolique"
+        },
+        {
+          "noun": "Réel",
+          "score": 80,
+          "nounId": "réel"
+        },
+        {
+          "noun": "de l'Imaginaire",
+          "score": 75,
+          "nounId": "de_l'imaginaire"
+        },
+        {
+          "noun": "puis, ulterieurement: le Ca",
+          "score": 70,
+          "nounId": "puis,_ulterieurement:_le_ca"
+        },
+        {
+          "noun": "le Moi",
+          "score": 70,
+          "nounId": "le_moi"
+        }
+      ]
+    },
+    "78": {
+      "chunkKey": "h1.3fRfSE93Qc-Xd1cI2hCZ4afpbWDQydSJ2Htx70G0_6GSRaqfaPRGfkBaz8876dvhyKeoPNbLoociEutVxGzsXeSK7wWjtzzeqrBhggdWEhg1Mvwj0Oe0-ZIHSUnIokYi65M-xemJns-Kc_1NlSfxLA",
+      "nounCount": 2,
+      "hits": [
+        {
+          "noun": "Cartographies schizoanalytiques",
+          "score": 85,
+          "nounId": "cartographies_schizoanalytiques"
+        },
+        {
+          "noun": "subjectivation",
+          "score": 80,
+          "nounId": "subjectivation"
+        }
+      ]
+    },
+    "107": {
+      "chunkKey": "h1.x0XgGXIBTZ4HWQS7eys7p6ZwpUv6IXendKUCaA1_SuIJpi8eX0JIdzk_AFon4uv2GVgYOVf2oVHsMmlSfMVU9Sk1eS8GUv8RtDNvYcyh6wqIKoHxa4_X_DvzSFym5Dik0wJS9x51oTcgK3fIDA",
+      "nounCount": 22,
+      "hits": [
+        {
+          "noun": "schizoanalyse",
+          "score": 85,
+          "nounId": "schizoanalyse"
+        },
+        {
+          "noun": "subjectivation",
+          "score": 80,
+          "nounId": "subjectivation"
+        },
+        {
+          "noun": "la cartographie",
+          "score": 75,
+          "nounId": "la_cartographie"
+        },
+        {
+          "noun": "Territoires existentiels",
+          "score": 70,
+          "nounId": "territoires_existentiels"
+        },
+        {
+          "noun": "identité",
+          "score": 65,
+          "nounId": "identité"
+        },
+        {
+          "noun": "les occurrences subjectives",
+          "score": 60,
+          "nounId": "les_occurrences_subjectives"
+        },
+        {
+          "noun": "matériaux existentiels",
+          "score": 60,
+          "nounId": "matériaux_existentiels"
+        },
+        {
+          "noun": "cristalisations existentiels",
+          "score": 60,
+          "nounId": "cristalisations_existentiels"
+        },
+        {
+          "noun": "autoréfinition subjective",
+          "score": 60,
+          "nounId": "autoréfinition_subjective"
+        },
+        {
+          "noun": "de répétition",
+          "score": 55,
+          "nounId": "de_répétition"
+        },
+        {
+          "noun": "leurs chaînes expressives",
+          "score": 55,
+          "nounId": "leurs_chaînes_expressives"
+        },
+        {
+          "noun": ", de Tiers",
+          "score": 55,
+          "nounId": ",_de_tiers"
+        },
+        {
+          "noun": "transitionnels",
+          "score": 55,
+          "nounId": "transitionnels"
+        },
+        {
+          "noun": "materiaux",
+          "score": 55,
+          "nounId": "materiaux"
+        },
+        {
+          "noun": "les chalons discursifs",
+          "score": 50,
+          "nounId": "les_chalons_discursifs"
+        },
+        {
+          "noun": "ensembles discursifs",
+          "score": 50,
+          "nounId": "ensembles_discursifs"
+        },
+        {
+          "noun": "des axes significationnels",
+          "score": 50,
+          "nounId": "des_axes_significationnels"
+        },
+        {
+          "noun": "exclu",
+          "score": 50,
+          "nounId": "exclu"
+        },
+        {
+          "noun": "identificatoires",
+          "score": 50,
+          "nounId": "identificatoires"
+        },
+        {
+          "noun": ", objets",
+          "score": 50,
+          "nounId": ",_objets"
+        },
+        {
+          "noun": "fétiches",
+          "score": 50,
+          "nounId": "fétiches"
+        },
+        {
+          "noun": "emblèmes",
+          "score": 45,
+          "nounId": "emblèmes"
+        }
+      ]
+    },
+    "111": {
+      "chunkKey": "h1.AyMz7WGtxP0PLFwypV7_9Sk_nv0f7XnJQytf_L4wZNyUUmnwuelGmdTZ_idp1k2aA70vGzrYTjQRPfVx2eGYNDpyfGqnObo76rnVloASo2jY7U_quSycU9jzKFzANLwccpSMwlDUbQ-AjCcxXnU",
+      "nounCount": 2,
+      "hits": [
+        {
+          "noun": "la psychanalyse",
+          "score": 85,
+          "nounId": "la_psychanalyse"
+        },
+        {
+          "noun": "partir d'autres échafaudages théoriques – si possible moins réductionnistes que ceux des freudiens et des lacaniens",
+          "score": 80,
+          "nounId": "partir_d'autres_échafaudages_théoriques_–_si_possible_moins_réductionnistes_que_ceux_des_freudiens_et_des_lacaniens"
+        }
+      ]
+    },
+    "112": {
+      "chunkKey": "h1.DZg0TC-LzN14DKky1oxQmDM5R5boVV7paI0Yo8YMG0RwDciEbVToReIudeG4d1u7kDuWUfGpxhLU0XZLZtEkm4uQBa0Jfh7_nzZ7z5Xb1M91jKO950LhSfu9VZOur-UjLnczFHX9hcegXRzCPSg",
+      "nounCount": 7,
+      "hits": [
+        {
+          "noun": "la psychanalyse",
+          "score": 85,
+          "nounId": "la_psychanalyse"
+        },
+        {
+          "noun": "transfert",
+          "score": 85,
+          "nounId": "transfert"
+        },
+        {
+          "noun": "partir d'autres échafaudages théoriques – si possible moins réductionnistes que ceux des freudiens et des lacaniens",
+          "score": 80,
+          "nounId": "partir_d'autres_échafaudages_théoriques_–_si_possible_moins_réductionnistes_que_ceux_des_freudiens_et_des_lacaniens"
+        },
+        {
+          "noun": "cette schizoanalyse",
+          "score": 80,
+          "nounId": "cette_schizoanalyse"
+        },
+        {
+          "noun": "une fondation institutionnelle",
+          "score": 60,
+          "nounId": "une_fondation_institutionnelle"
+        },
+        {
+          "noun": ", divers divers modalités",
+          "score": 55,
+          "nounId": ",_divers_divers_modalités"
+        },
+        {
+          "noun": "besoin",
+          "score": 50,
+          "nounId": "besoin"
+        }
+      ]
+    },
+    "139": {
+      "chunkKey": "h1.1oHUB_6fTmotkP3pGAJGmQ8Hz5zeSQcXYCsY6YfCiR2Imu494js3pZmntk-UvwytDQzqnLvZMAby8Dc_WCsnKU2xHcHi659__mhpRK5pNaUaRyvU-x_T0cPBmQSNIIEz_CGMt1CLdoKcUF0Ja78",
+      "nounCount": 6,
+      "hits": [
+        {
+          "noun": "transfert",
+          "score": 85,
+          "nounId": "transfert"
+        },
+        {
+          "noun": "ou Freud",
+          "score": 80,
+          "nounId": "ou_freud"
+        },
+        {
+          "noun": ", les symptômes",
+          "score": 75,
+          "nounId": ",_les_symptômes"
+        },
+        {
+          "noun": "une *psychose hallucinatoire de desir*",
+          "score": 75,
+          "nounId": "une_*psychose_hallucinatoire_de_desir*"
+        },
+        {
+          "noun": "interprétation",
+          "score": 70,
+          "nounId": "interprétation"
+        },
+        {
+          "noun": "la programmation psychanalytique",
+          "score": 65,
+          "nounId": "la_programmation_psychanalytique"
+        }
+      ]
+    },
+    "151": {
+      "chunkKey": "h1.AQop67CLdd3tWNVtygxnPCyKlitthiwGpLjQbtWaEYq-lp2HoRjPdCNNI8_cJvd7r8ZtfF35fbGaeNe2jKhpnYe3B7EdOMJ7R5SaxBp7gxJueSmwmyXAFiR0pODLWm1fOKSLCBrvUk6oUWWFTqM",
+      "nounCount": 9,
+      "hits": [
+        {
+          "noun": "l'Inconscient",
+          "score": 85,
+          "nounId": "l'inconscient"
+        },
+        {
+          "noun": "résistance",
+          "score": 80,
+          "nounId": "résistance"
+        },
+        {
+          "noun": "une perspective analytique",
+          "score": 75,
+          "nounId": "une_perspective_analytique"
+        },
+        {
+          "noun": "analyseur",
+          "score": 75,
+          "nounId": "analyseur"
+        },
+        {
+          "noun": "Un Agencement analytique",
+          "score": 75,
+          "nounId": "un_agencement_analytique"
+        },
+        {
+          "noun": "la subjectivité",
+          "score": 70,
+          "nounId": "la_subjectivité"
+        },
+        {
+          "noun": "L'effet analytique",
+          "score": 70,
+          "nounId": "l'effet_analytique"
+        },
+        {
+          "noun": "l'investigation analytique",
+          "score": 70,
+          "nounId": "l'investigation_analytique"
+        },
+        {
+          "noun": "rapport",
+          "score": 55,
+          "nounId": "rapport"
+        }
+      ]
+    },
+    "152": {
+      "chunkKey": "h1.AQop67CLdd3tWNVtygxnPCyKlitthiwGpLjQbtWaEYq-lp2HoRjPdCNNI8_cJvd7r8ZtfF35fbGaeNe2jKhpnYe3B7EdOMJ7R5SaxBp7gxJueSmwmyXAFiR0pODLWm1fOKSLCBrvUk6oUWWFTqM",
+      "nounCount": 9,
+      "hits": [
+        {
+          "noun": "l'Inconscient",
+          "score": 85,
+          "nounId": "l'inconscient"
+        },
+        {
+          "noun": "résistance",
+          "score": 80,
+          "nounId": "résistance"
+        },
+        {
+          "noun": "une perspective analytique",
+          "score": 75,
+          "nounId": "une_perspective_analytique"
+        },
+        {
+          "noun": "analyseur",
+          "score": 75,
+          "nounId": "analyseur"
+        },
+        {
+          "noun": "Un Agencement analytique",
+          "score": 75,
+          "nounId": "un_agencement_analytique"
+        },
+        {
+          "noun": "la subjectivité",
+          "score": 70,
+          "nounId": "la_subjectivité"
+        },
+        {
+          "noun": "L'effet analytique",
+          "score": 70,
+          "nounId": "l'effet_analytique"
+        },
+        {
+          "noun": "l'investigation analytique",
+          "score": 70,
+          "nounId": "l'investigation_analytique"
+        },
+        {
+          "noun": "rapport",
+          "score": 55,
+          "nounId": "rapport"
+        }
+      ]
+    },
+    "171": {
+      "chunkKey": "h1.i8aA9SjC6j5mV3JvEjeoVhDV5HH5NhjBII7uyXO-r0_lQ6FqbVnc-cF9MxqxKrhyK9Bk8ykvPiMA0U9VgBGwrBQgGgxQpzErkwmEe4ysOJvKdU_F9_MgBkaDlHytOawqPYf3gzP28Wt5XcW66O0",
+      "nounCount": 4,
+      "hits": [
+        {
+          "noun": "Freud",
+          "score": 85,
+          "nounId": "freud"
+        },
+        {
+          "noun": "théories classiques",
+          "score": 70,
+          "nounId": "théories_classiques"
+        },
+        {
+          "noun": "une *scène* inconsciente",
+          "score": 65,
+          "nounId": "une_*scène*_inconsciente"
+        },
+        {
+          "noun": "la psychologie",
+          "score": 60,
+          "nounId": "la_psychologie"
+        }
+      ]
+    },
+    "174": {
+      "chunkKey": "h1.jaIlyZkN1s7UhVTXQcO9MiKhlNtHd2CaO1lw2zr-aTwRKADrP0tvyiNZpHCJ1_e10X_eQvt2Os1hgb8NHurhq35bnwhKo1GfEsZWr7M8oTl1AsMsL4vTCXvBrvGzirVdCV_5h2kqDznsHX9_vlM",
+      "nounCount": 4,
+      "hits": [
+        {
+          "noun": "Freud",
+          "score": 85,
+          "nounId": "freud"
+        },
+        {
+          "noun": "pulsions",
+          "score": 70,
+          "nounId": "pulsions"
+        },
+        {
+          "noun": "formations psychiques",
+          "score": 65,
+          "nounId": "formations_psychiques"
+        },
+        {
+          "noun": "stades psychogénétiques",
+          "score": 60,
+          "nounId": "stades_psychogénétiques"
+        }
+      ]
+    },
+    "194": {
+      "chunkKey": "h1.GhGfBpguYOKrfBk2sVJ48Amz8h9GzvrQNdw-pxa0lWqSRHZFT6tSkQl1DClQcEvzAT5aJlxpHoeYySovTYr5WT560_A6RDTfPoWpx0LAonNFdwMcWGGiBCqV3XIE74dZE9v4NUT289ZS0rF0l13F",
+      "nounCount": 22,
+      "hits": [
+        {
+          "noun": "Freud",
+          "score": 85,
+          "nounId": "freud"
+        },
+        {
+          "noun": "psychanalyse",
+          "score": 85,
+          "nounId": "psychanalyse"
+        },
+        {
+          "noun": "l'analyse",
+          "score": 80,
+          "nounId": "l'analyse"
+        },
+        {
+          "noun": ", le transfert",
+          "score": 75,
+          "nounId": ",_le_transfert"
+        },
+        {
+          "noun": "langage",
+          "score": 70,
+          "nounId": "langage"
+        },
+        {
+          "noun": "interprétation",
+          "score": 70,
+          "nounId": "interprétation"
+        },
+        {
+          "noun": "l'interprétation",
+          "score": 70,
+          "nounId": "l'interprétation"
+        },
+        {
+          "noun": "*mathème*.",
+          "score": 65,
+          "nounId": "*mathème*."
+        },
+        {
+          "noun": "Deux attitudes possibles",
+          "score": 60,
+          "nounId": "deux_attitudes_possibles"
+        },
+        {
+          "noun": "ses interventions",
+          "score": 60,
+          "nounId": "ses_interventions"
+        },
+        {
+          "noun": "Ses techniques",
+          "score": 55,
+          "nounId": "ses_techniques"
+        },
+        {
+          "noun": ", les structures institutionnelles, les interactions",
+          "score": 55,
+          "nounId": ",_les_structures_institutionnelles,_les_interactions"
+        },
+        {
+          "noun": "l'association libre",
+          "score": 50,
+          "nounId": "l'association_libre"
+        },
+        {
+          "noun": "freudien",
+          "score": 50,
+          "nounId": "freudien"
+        },
+        {
+          "noun": "les autres opérataires",
+          "score": 50,
+          "nounId": "les_autres_opérataires"
+        },
+        {
+          "noun": "Le freudisme",
+          "score": 45,
+          "nounId": "le_freudisme"
+        },
+        {
+          "noun": "Pierre Janet",
+          "score": 40,
+          "nounId": "pierre_janet"
+        },
+        {
+          "noun": "Karl Jaspers",
+          "score": 40,
+          "nounId": "karl_jaspers"
+        },
+        {
+          "noun": ", la suggestion",
+          "score": 40,
+          "nounId": ",_la_suggestion"
+        },
+        {
+          "noun": "Gisela Pankof) ou avec la video, le cinéma",
+          "score": 35,
+          "nounId": "gisela_pankof)_ou_avec_la_video,_le_cinéma"
+        },
+        {
+          "noun": "le déplacement",
+          "score": 30,
+          "nounId": "le_déplacement"
+        },
+        {
+          "noun": "le théâtre",
+          "score": 25,
+          "nounId": "le_théâtre"
+        }
+      ]
+    },
+    "203": {
+      "chunkKey": "h1.cGmU2on2_h7G4LY4OENpZev0JEK4-ZqOU3b3TBmwAglOAPDERAKBF9Pch63kdbiZie38TXnRfTcWrtwZqEcfhQLqX2HCfvrdQggNYIfA7kGhsivmrpvnN30UggTSIizYYctIhCW7cruVJ2mI-GI",
+      "nounCount": 3,
+      "hits": [
+        {
+          "noun": "une psychose",
+          "score": 85,
+          "nounId": "une_psychose"
+        },
+        {
+          "noun": "les schizoanalyses",
+          "score": 80,
+          "nounId": "les_schizoanalyses"
+        },
+        {
+          "noun": "les composantes disjonctrices",
+          "score": 65,
+          "nounId": "les_composantes_disjonctrices"
+        }
+      ]
+    },
+    "204": {
+      "chunkKey": "h1.o5LU2R7mEdy-Zdwxb23308ZTbn6FL0bY3W2JB3eKm1lnhjlkIkCBH2Hlcd48t3eo5Y78IShmNt2BQZv_OnB5f3psdpd53KqNx2l4yrsg2B-yOOW6_EmGd56jjuWgJtER0OUlp2cOOR4cQggM1rU",
+      "nounCount": 18,
+      "hits": [
+        {
+          "noun": "La psychanalyse lacanienne",
+          "score": 85,
+          "nounId": "la_psychanalyse_lacanienne"
+        },
+        {
+          "noun": "Symbolique」",
+          "score": 75,
+          "nounId": "symbolique」"
+        },
+        {
+          "noun": "subjectivité",
+          "score": 70,
+          "nounId": "subjectivité"
+        },
+        {
+          "noun": "La psychiatrie phénoménologique",
+          "score": 70,
+          "nounId": "la_psychiatrie_phénoménologique"
+        },
+        {
+          "noun": "*subjectivité*",
+          "score": 70,
+          "nounId": "*subjectivité*"
+        },
+        {
+          "noun": "le syméptome",
+          "score": 65,
+          "nounId": "le_syméptome"
+        },
+        {
+          "noun": "syméptome",
+          "score": 65,
+          "nounId": "syméptome"
+        },
+        {
+          "noun": "structuralement",
+          "score": 65,
+          "nounId": "structuralement"
+        },
+        {
+          "noun": "phénomène",
+          "score": 60,
+          "nounId": "phénomène"
+        },
+        {
+          "noun": "des structures vécues",
+          "score": 60,
+          "nounId": "des_structures_vécues"
+        },
+        {
+          "noun": "le phénomène",
+          "score": 55,
+          "nounId": "le_phénomène"
+        },
+        {
+          "noun": "mathéme",
+          "score": 55,
+          "nounId": "mathéme"
+        },
+        {
+          "noun": "niveaux somatiques et comportementaux",
+          "score": 50,
+          "nounId": "niveaux_somatiques_et_comportementaux"
+        },
+        {
+          "noun": "essayé",
+          "score": 45,
+          "nounId": "essayé"
+        },
+        {
+          "noun": "draint",
+          "score": 45,
+          "nounId": "draint"
+        },
+        {
+          "noun": "parant",
+          "score": 45,
+          "nounId": "parant"
+        },
+        {
+          "noun": "toutes les vertus",
+          "score": 40,
+          "nounId": "toutes_les_vertus"
+        },
+        {
+          "noun": "présumées",
+          "score": 40,
+          "nounId": "présumées"
+        }
+      ]
+    },
+    "206": {
+      "chunkKey": "h1.z5PokQkM_xl7C9ab5U-RSwqXF-0Bie5UPjoXYX4P0QKyW1gdcToBdV_eh3d9Xe_qLTIBoRix4JoSswHW7fTCLK5GcJ2c0q4bA1a6tTyUTKRZycFcj4X3bllON825tlr7KK_o2HZiD-NM6fZaPg",
+      "nounCount": 2,
+      "hits": [
+        {
+          "noun": "subjectivation",
+          "score": 80,
+          "nounId": "subjectivation"
+        },
+        {
+          "noun": "processus",
+          "score": 70,
+          "nounId": "processus"
+        }
+      ]
+    },
+    "207": {
+      "chunkKey": "h1.z5PokQkM_xl7C9ab5U-RSwqXF-0Bie5UPjoXYX4P0QKyW1gdcToBdV_eh3d9Xe_qLTIBoRix4JoSswHW7fTCLK5GcJ2c0q4bA1a6tTyUTKRZycFcj4X3bllON825tlr7KK_o2HZiD-NM6fZaPg",
+      "nounCount": 2,
+      "hits": [
+        {
+          "noun": "subjectivation",
+          "score": 80,
+          "nounId": "subjectivation"
+        },
+        {
+          "noun": "processus",
+          "score": 70,
+          "nounId": "processus"
+        }
+      ]
+    },
+    "208": {
+      "chunkKey": "h1.BVgkFPqVr1PNFESRfMcvfIOhWtJYRk4-4XT8ySuA28YRUd5782Aj4FgRin8uUT2Gdnjp-zjEphDO_4BojpuevFP_tLJPNIR2oN7pY0VXWusDU3tD0SynGMKU7GK9N_AI52qXciVpDH-KYj9GyA",
+      "nounCount": 3,
+      "hits": [
+        {
+          "noun": "subjectivation",
+          "score": 80,
+          "nounId": "subjectivation"
+        },
+        {
+          "noun": "positions subjectives",
+          "score": 75,
+          "nounId": "positions_subjectives"
+        },
+        {
+          "noun": "subjectivité",
+          "score": 70,
+          "nounId": "subjectivité"
+        }
+      ]
+    },
+    "209": {
+      "chunkKey": "h1.gAEZAs5w9582andAm4rVfoO-ZV_veKOcqf2rBZJk58ERcZ6vmILSKzHQx0GA_hDLFP9PPpncYG3zKovlMx4rK-CkMD7jRU0lbTbejecxzP-GR0XrJJjgr7pipxmq6nJNOhV2WdUg7uy9-vmMEw",
+      "nounCount": 3,
+      "hits": [
+        {
+          "noun": "subjectivation",
+          "score": 80,
+          "nounId": "subjectivation"
+        },
+        {
+          "noun": "subjectivité",
+          "score": 70,
+          "nounId": "subjectivité"
+        },
+        {
+          "noun": "la fonction",
+          "score": 60,
+          "nounId": "la_fonction"
+        }
+      ]
+    },
+    "211": {
+      "chunkKey": "h1.mkSeM6-4E7GQdqbl3LYvPMqbDepO8W7ELXnSfdTA0jMD5cfMCSgtV3wWBmWFxOrSvXrKaZjQFs1wwBDJq4yfVNmXpYOxC5N14P7D5xUFqkx-jlDlAj_4zUwo12AyrixNfnyPdCtvTkw-F_zJuldovw",
+      "nounCount": 1,
+      "hits": [
+        {
+          "noun": "subjectivation",
+          "score": 80,
+          "nounId": "subjectivation"
+        }
+      ]
+    },
+    "219": {
+      "chunkKey": "h1.8KhozNQi1SLT0iPH8eqo7TtrHXa7LWZNCJw4k_bbwrvWyRpUHFPY8INJc7JAyeQ6Ul8De3J7ZG9o3S_N0knEYujZ9PAJNG33F_g_6wu1EM9z5dLd_GvhAtsihvhopAeum1p2hcnvn2whSWOAbw",
+      "nounCount": 5,
+      "hits": [
+        {
+          "noun": "structures",
+          "score": 80,
+          "nounId": "structures"
+        },
+        {
+          "noun": "le cadre",
+          "score": 70,
+          "nounId": "le_cadre"
+        },
+        {
+          "noun": "une insertion rigide",
+          "score": 65,
+          "nounId": "une_insertion_rigide"
+        },
+        {
+          "noun": "une issue",
+          "score": 55,
+          "nounId": "une_issue"
+        },
+        {
+          "noun": "ces problèmes",
+          "score": 55,
+          "nounId": "ces_problèmes"
+        }
+      ]
+    },
+    "246": {
+      "chunkKey": "h1.XUYkmrGN8YoozfcV78VMq6yQ8PwHjBV9jxiopGN4JGXlzKODtP1UrDYuwTJ7EQ9EFR6mh_myzjYH3cSezQ1TXRmOKJWrYWlP6QafA6lI0LrQVFWLvBaXHgNlpaRwTSLSkbvRCFafB063ApbMqcwn",
+      "nounCount": 16,
+      "hits": [
+        {
+          "noun": "Réel",
+          "score": 80,
+          "nounId": "réel"
+        },
+        {
+          "noun": "le Symbolique",
+          "score": 80,
+          "nounId": "le_symbolique"
+        },
+        {
+          "noun": "imaginaire",
+          "score": 70,
+          "nounId": "imaginaire"
+        },
+        {
+          "noun": "l' analyse",
+          "score": 65,
+          "nounId": "l'_analyse"
+        },
+        {
+          "noun": "de castration",
+          "score": 60,
+          "nounId": "de_castration"
+        },
+        {
+          "noun": "Edipe",
+          "score": 40,
+          "nounId": "edipe"
+        },
+        {
+          "noun": "perversions",
+          "score": 35,
+          "nounId": "perversions"
+        },
+        {
+          "noun": "le schéma psychogénetique",
+          "score": 35,
+          "nounId": "le_schéma_psychogénetique"
+        },
+        {
+          "noun": "les fameux stages de développement et d'adaptation au réel",
+          "score": 30,
+          "nounId": "les_fameux_stages_de_développement_et_d'adaptation_au_réel"
+        },
+        {
+          "noun": "périodes",
+          "score": 30,
+          "nounId": "périodes"
+        },
+        {
+          "noun": "le théâtre",
+          "score": 25,
+          "nounId": "le_théâtre"
+        },
+        {
+          "noun": "latence",
+          "score": 25,
+          "nounId": "latence"
+        },
+        {
+          "noun": "infantes",
+          "score": 25,
+          "nounId": "infantes"
+        },
+        {
+          "noun": "adulte",
+          "score": 25,
+          "nounId": "adulte"
+        },
+        {
+          "noun": "pre",
+          "score": 20,
+          "nounId": "pre"
+        },
+        {
+          "noun": "post-puertaire",
+          "score": 20,
+          "nounId": "post-puertaire"
+        }
+      ]
+    },
+    "257": {
+      "chunkKey": "h1.fHwq5w8eDMaMtW13HAtgQbklZHBj_T-eSdHxHqztirZZz6Ecq5A4mdmw6J15OkgIBabNLdQ7dtGKNryoGrMJZc0M9OZ86p9zmlLW_iHMBzQpXPe42Zu-8iiWr5-IYgcWKzePUJpkL1ocnKvFC3Y",
+      "nounCount": 7,
+      "hits": [
+        {
+          "noun": "la cure",
+          "score": 80,
+          "nounId": "la_cure"
+        },
+        {
+          "noun": "les psychanalystes",
+          "score": 75,
+          "nounId": "les_psychanalystes"
+        },
+        {
+          "noun": "la subjectivité",
+          "score": 70,
+          "nounId": "la_subjectivité"
+        },
+        {
+          "noun": "un psychanalyste",
+          "score": 70,
+          "nounId": "un_psychanalyste"
+        },
+        {
+          "noun": "l'interprétation significante",
+          "score": 70,
+          "nounId": "l'interprétation_significante"
+        },
+        {
+          "noun": "l'exploration",
+          "score": 65,
+          "nounId": "l'exploration"
+        },
+        {
+          "noun": "sémiotisation",
+          "score": 60,
+          "nounId": "sémiotisation"
+        }
+      ]
+    }
+  }
+}

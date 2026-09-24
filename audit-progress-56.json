@@ -1,0 +1,841 @@
+[
+  {
+    "surface": "Samuel Becket",
+    "valid": true
+  },
+  {
+    "surface": "Le dépeuleur",
+    "valid": true
+  },
+  {
+    "surface": "population",
+    "valid": true
+  },
+  {
+    "surface": "une paroi circulaire",
+    "valid": true
+  },
+  {
+    "surface": "- un test",
+    "valid": false,
+    "reason": "含标点碎片和冠词，非单一实词"
+  },
+  {
+    "surface": "ma jeunesse",
+    "valid": true
+  },
+  {
+    "surface": "baptise",
+    "valid": true
+  },
+  {
+    "surface": "test",
+    "valid": true
+  },
+  {
+    "surface": "intégration socio-existentielle",
+    "valid": true
+  },
+  {
+    "surface": "consigne",
+    "valid": true
+  },
+  {
+    "surface": "protocole",
+    "valid": true
+  },
+  {
+    "surface": "l'inhibition",
+    "valid": true
+  },
+  {
+    "surface": "la jalousie",
+    "valid": true
+  },
+  {
+    "surface": "la seule composante",
+    "valid": true
+  },
+  {
+    "surface": "des noms propres",
+    "valid": true
+  },
+  {
+    "surface": "une place particulière",
+    "valid": true
+  },
+  {
+    "surface": "opérateur synapique",
+    "valid": true
+  },
+  {
+    "surface": "l'héterogéral",
+    "valid": true
+  },
+  {
+    "surface": "face à la jalousie",
+    "valid": false,
+    "reason": "含介词短语，非单一实词"
+  },
+  {
+    "surface": "une représentation iconique",
+    "valid": true
+  },
+  {
+    "surface": "une vingtaine",
+    "valid": true
+  },
+  {
+    "surface": "un récent cambirolage",
+    "valid": true
+  },
+  {
+    "surface": "amie",
+    "valid": true
+  },
+  {
+    "surface": "une « mémorie",
+    "valid": false,
+    "reason": "含标点碎片和冠词"
+  },
+  {
+    "surface": "mon passée",
+    "valid": true
+  },
+  {
+    "surface": "en questionnant",
+    "valid": false,
+    "reason": "含介词和动名词，非名词短语"
+  },
+  {
+    "surface": "un entretien",
+    "valid": true
+  },
+  {
+    "surface": "veu sept années",
+    "valid": false,
+    "reason": "含疑似动词变位和数词，非规范名词短语"
+  },
+  {
+    "surface": "certaines comportements",
+    "valid": true
+  },
+  {
+    "surface": "jalousie",
+    "valid": true
+  },
+  {
+    "surface": "son égard",
+    "valid": true
+  },
+  {
+    "surface": "les jèsses",
+    "valid": true
+  },
+  {
+    "surface": "l'impasse",
+    "valid": true
+  },
+  {
+    "surface": "la dénégation freudienne",
+    "valid": true
+  },
+  {
+    "surface": "*Je ne suis pas jaloux",
+    "valid": false,
+    "reason": "含标点碎片、代词和助动词，为句子"
+  },
+  {
+    "surface": "puisque c'est",
+    "valid": false,
+    "reason": "含连词和助动词，为从句片段"
+  },
+  {
+    "surface": "une machine absente",
+    "valid": true
+  },
+  {
+    "surface": "les Phylum discursifs",
+    "valid": true
+  },
+  {
+    "surface": "ΦΦ",
+    "valid": false,
+    "reason": "纯符号"
+  },
+  {
+    "surface": "La troisième est un processus mental",
+    "valid": false,
+    "reason": "含冠词、助动词，为句子"
+  },
+  {
+    "surface": "psychopathologie",
+    "valid": true
+  },
+  {
+    "surface": "La quatrième est un enoncé",
+    "valid": false,
+    "reason": "含冠词、助动词，为句子"
+  },
+  {
+    "surface": "enoncé iconique",
+    "valid": true
+  },
+  {
+    "surface": "développement associatis",
+    "valid": true
+  },
+  {
+    "surface": "un trou noir",
+    "valid": true
+  },
+  {
+    "surface": "La cinquème",
+    "valid": true
+  },
+  {
+    "surface": "Rorschach",
+    "valid": true
+  },
+  {
+    "surface": "Analyse polyphonique",
+    "valid": true
+  },
+  {
+    "surface": "lignes manifestes",
+    "valid": true
+  },
+  {
+    "surface": "sens paralleles",
+    "valid": true
+  },
+  {
+    "surface": "une perspective similaire à celle du dialogue de Bakhine",
+    "valid": true
+  },
+  {
+    "surface": "que dans un deuxième temps",
+    "valid": false,
+    "reason": "含连词、介词和冠词，为介词短语"
+  },
+  {
+    "surface": "même le texte écruté rive",
+    "valid": false,
+    "reason": "含副词和疑似动词，非规范名词短语"
+  },
+  {
+    "surface": "latents",
+    "valid": true
+  },
+  {
+    "surface": "explication",
+    "valid": true
+  },
+  {
+    "surface": "une perspective *",
+    "valid": false,
+    "reason": "含标点碎片"
+  },
+  {
+    "surface": "lignes latentes",
+    "valid": true
+  },
+  {
+    "surface": "Developpement",
+    "valid": true
+  },
+  {
+    "surface": "la première composante",
+    "valid": true
+  },
+  {
+    "surface": "duieu",
+    "valid": true
+  },
+  {
+    "surface": "la concernée",
+    "valid": true
+  },
+  {
+    "surface": "Mar",
+    "valid": true
+  },
+  {
+    "surface": "Les autres références mexicaine",
+    "valid": true
+  },
+  {
+    "surface": "Pascuaro",
+    "valid": true
+  },
+  {
+    "surface": "Louwers",
+    "valid": true
+  },
+  {
+    "surface": "des domestics",
+    "valid": true
+  },
+  {
+    "surface": "lexème",
+    "valid": true
+  },
+  {
+    "surface": "la structure phonétique",
+    "valid": true
+  },
+  {
+    "surface": "propre auquel",
+    "valid": false,
+    "reason": "含关系代词，非名词短语"
+  },
+  {
+    "surface": "mon père",
+    "valid": true
+  },
+  {
+    "surface": "la décision",
+    "valid": true
+  },
+  {
+    "surface": "l'exode",
+    "valid": true
+  },
+  {
+    "surface": "ville",
+    "valid": true
+  },
+  {
+    "surface": "précisément sur cette place",
+    "valid": false,
+    "reason": "含副词和介词，为介词短语"
+  },
+  {
+    "surface": "cinq Phylum manifestes principaux",
+    "valid": true
+  },
+  {
+    "surface": "bourg",
+    "valid": true
+  },
+  {
+    "surface": "rues",
+    "valid": true
+  },
+  {
+    "surface": "entourent",
+    "valid": false,
+    "reason": "动词变位，非名词"
+  },
+  {
+    "surface": "III",
+    "valid": false,
+    "reason": "纯罗马数字符号"
+  },
+  {
+    "surface": "Yasha David et le lapsus dans le rêve qu'il occasionne à propos de Gilles Deleuze",
+    "valid": true
+  },
+  {
+    "surface": "que le •",
+    "valid": false,
+    "reason": "含连词、冠词和标点碎片"
+  },
+  {
+    "surface": "accent",
+    "valid": true
+  },
+  {
+    "surface": "mère",
+    "valid": true
+  },
+  {
+    "surface": "les dois",
+    "valid": false,
+    "reason": "含冠词和动词变位，非名词短语"
+  },
+  {
+    "surface": "ses mouvements",
+    "valid": true
+  },
+  {
+    "surface": "la troisième composante synaptique",
+    "valid": true
+  },
+  {
+    "surface": ", de développement",
+    "valid": false,
+    "reason": "含标点碎片和介词"
+  },
+  {
+    "surface": "Le fond maternel",
+    "valid": true
+  },
+  {
+    "surface": "partage",
+    "valid": true
+  },
+  {
+    "surface": "adjacente",
+    "valid": true
+  },
+  {
+    "surface": "un parc",
+    "valid": true
+  },
+  {
+    "surface": "ma mère",
+    "valid": true
+  },
+  {
+    "surface": "une voiture",
+    "valid": true
+  },
+  {
+    "surface": "la composante synaptique",
+    "valid": true
+  },
+  {
+    "surface": "L'opérateur",
+    "valid": true
+  },
+  {
+    "surface": "éléments",
+    "valid": true
+  },
+  {
+    "surface": "Quant à la troisième dimension",
+    "valid": false,
+    "reason": "含介词短语和冠词，非单一实词"
+  },
+  {
+    "surface": "la place mexicaine",
+    "valid": true
+  },
+  {
+    "surface": "Pascuro",
+    "valid": true
+  },
+  {
+    "surface": "sa connotation",
+    "valid": true
+  },
+  {
+    "surface": "mort apaise",
+    "valid": false,
+    "reason": "含名词和动词变位，非规范名词短语"
+  },
+  {
+    "surface": "examen",
+    "valid": true
+  },
+  {
+    "surface": "la synapse centrale",
+    "valid": true
+  },
+  {
+    "surface": "- un oubli",
+    "valid": false,
+    "reason": "含标点碎片和冠词"
+  },
+  {
+    "surface": "- un lapsus",
+    "valid": false,
+    "reason": "含标点碎片和冠词"
+  },
+  {
+    "surface": "[A",
+    "valid": false,
+    "reason": "含标点碎片和单字母"
+  },
+  {
+    "surface": "la seconde composante",
+    "valid": true
+  },
+  {
+    "surface": "l'issue",
+    "valid": true
+  },
+  {
+    "surface": "la manifestation culturelle",
+    "valid": true
+  },
+  {
+    "surface": "Gersomp",
+    "valid": true
+  },
+  {
+    "surface": "Périade",
+    "valid": true
+  },
+  {
+    "surface": "Deleuzé",
+    "valid": true
+  },
+  {
+    "surface": "la reaccompagner她 lui",
+    "valid": false,
+    "reason": "含中文、代词和动词，非规范名词短语"
+  },
+  {
+    "surface": "partis",
+    "valid": true
+  },
+  {
+    "surface": "le Centre",
+    "valid": true
+  },
+  {
+    "surface": "l'endroit j'avais laissé mon auto",
+    "valid": false,
+    "reason": "含代词和助动词，为从句片段"
+  },
+  {
+    "surface": "les étages",
+    "valid": true
+  },
+  {
+    "surface": "parking juquem",
+    "valid": true
+  },
+  {
+    "surface": "pied",
+    "valid": true
+  },
+  {
+    "surface": "heure",
+    "valid": true
+  },
+  {
+    "surface": "Ces deux éléments",
+    "valid": true
+  },
+  {
+    "surface": "la première articulation",
+    "valid": true
+  },
+  {
+    "surface": "façon complexe",
+    "valid": true
+  },
+  {
+    "surface": "une autre marque",
+    "valid": true
+  },
+  {
+    "surface": "vingt ans",
+    "valid": true
+  },
+  {
+    "surface": "les événements",
+    "valid": true
+  },
+  {
+    "surface": "une BMW",
+    "valid": true
+  },
+  {
+    "surface": "des manifestations très violentes",
+    "valid": true
+  },
+  {
+    "surface": "volant",
+    "valid": true
+  },
+  {
+    "surface": "cette auto",
+    "valid": true
+  },
+  {
+    "surface": "cette épique",
+    "valid": true
+  },
+  {
+    "surface": "et ma collaboration",
+    "valid": false,
+    "reason": "含连词，非单一实词"
+  },
+  {
+    "surface": "Gilles Deleuze",
+    "valid": true
+  },
+  {
+    "surface": "peu de temps",
+    "valid": true
+  },
+  {
+    "surface": "une période présente Renault-Yasah David",
+    "valid": true
+  },
+  {
+    "surface": "une période",
+    "valid": true
+  },
+  {
+    "surface": "BMW-1986-Arlette",
+    "valid": true
+  },
+  {
+    "surface": "période",
+    "valid": true
+  },
+  {
+    "surface": "reflea",
+    "valid": true
+  },
+  {
+    "surface": "la période presente",
+    "valid": true
+  },
+  {
+    "surface": "une simple opposition dynamique",
+    "valid": true
+  },
+  {
+    "surface": "les autres domaines",
+    "valid": true
+  },
+  {
+    "surface": "déterrificationisation",
+    "valid": true
+  },
+  {
+    "surface": "une écriture",
+    "valid": true
+  },
+  {
+    "surface": "cet «",
+    "valid": false,
+    "reason": "含指示代词和标点碎片"
+  },
+  {
+    "surface": "des noms propres voisins",
+    "valid": true
+  },
+  {
+    "surface": "premier noyau machinique",
+    "valid": true
+  },
+  {
+    "surface": "le branchement",
+    "valid": true
+  },
+  {
+    "surface": ", les vertes",
+    "valid": false,
+    "reason": "含标点碎片和冠词"
+  },
+  {
+    "surface": "le PS",
+    "valid": true
+  },
+  {
+    "surface": "écupre",
+    "valid": true
+  },
+  {
+    "surface": "attendant",
+    "valid": true
+  },
+  {
+    "surface": "thème",
+    "valid": true
+  },
+  {
+    "surface": "l'autor correspond",
+    "valid": false,
+    "reason": "含冠词和动词变位，非名词短语"
+  },
+  {
+    "surface": "la machine desirante",
+    "valid": true
+  },
+  {
+    "surface": "Ma vie",
+    "valid": true
+  },
+  {
+    "surface": "très tardivement",
+    "valid": false,
+    "reason": "副词短语，非名词"
+  },
+  {
+    "surface": "35 ans",
+    "valid": false,
+    "reason": "纯数字和名词，非规范名词短语"
+  },
+  {
+    "surface": "conséquence indirete",
+    "valid": true
+  },
+  {
+    "surface": "indépendance",
+    "valid": true
+  },
+  {
+    "surface": "toute particulière",
+    "valid": false,
+    "reason": "限定词和形容词，非名词短语"
+  },
+  {
+    "surface": "mon permis",
+    "valid": true
+  },
+  {
+    "surface": "mon violait",
+    "valid": false,
+    "reason": "含限定词和动词变位，非名词短语"
+  },
+  {
+    "surface": "un billet",
+    "valid": true
+  },
+  {
+    "surface": "cinquante francs",
+    "valid": true
+  },
+  {
+    "surface": "permis",
+    "valid": true
+  },
+  {
+    "surface": "une telle somme",
+    "valid": true
+  },
+  {
+    "surface": "une relation très problématique",
+    "valid": true
+  },
+  {
+    "surface": "une Italienne",
+    "valid": true
+  },
+  {
+    "surface": "Adelida",
+    "valid": true
+  },
+  {
+    "surface": "puisque c'est sur ce plan",
+    "valid": false,
+    "reason": "含连词、助动词和介词短语"
+  },
+  {
+    "surface": "le A.D.",
+    "valid": true
+  },
+  {
+    "surface": "prénom",
+    "valid": true
+  },
+  {
+    "surface": "Adélaïde",
+    "valid": true
+  },
+  {
+    "surface": "ces foyers ennociatifs",
+    "valid": true
+  },
+  {
+    "surface": "travers des enchaiments syntagmatiques et des axes paradigmatiques",
+    "valid": false,
+    "reason": "含介词和连词，非单一实词"
+  },
+  {
+    "surface": "femmes",
+    "valid": true
+  },
+  {
+    "surface": "Micheline Kao, Arlette Donati et A.D.",
+    "valid": true
+  },
+  {
+    "surface": "des noms",
+    "valid": true
+  },
+  {
+    "surface": "des verbes",
+    "valid": true
+  },
+  {
+    "surface": "cette même rupture a-signifiante",
+    "valid": true
+  },
+  {
+    "surface": "une fonction existentielle",
+    "valid": true
+  },
+  {
+    "surface": "une quadrature signifiante",
+    "valid": true
+  },
+  {
+    "surface": "le chainon sémiotique",
+    "valid": true
+  },
+  {
+    "surface": "synaptique",
+    "valid": true
+  },
+  {
+    "surface": "une proliferation fractale",
+    "valid": true
+  },
+  {
+    "surface": "les diverses ressources",
+    "valid": true
+  },
+  {
+    "surface": "l'imagineaire",
+    "valid": true
+  },
+  {
+    "surface": "une probabilité",
+    "valid": true
+  },
+  {
+    "surface": "à la mort",
+    "valid": false,
+    "reason": "含介词和冠词，非单一实词"
+  },
+  {
+    "surface": "inhibition",
+    "valid": true
+  },
+  {
+    "surface": "le tableau",
+    "valid": true
+  },
+  {
+    "surface": "l'ensiglement",
+    "valid": true
+  },
+  {
+    "surface": "Constellations harmoniques des niveaux d'enonciation",
+    "valid": true
+  },
+  {
+    "surface": "Un premier noyau harmonique partiel",
+    "valid": true
+  },
+  {
+    "surface": "rvue",
+    "valid": true
+  },
+  {
+    "surface": "savoir celles",
+    "valid": false,
+    "reason": "含动词和指示代词，非名词短语"
+  },
+  {
+    "surface": "Territoire père",
+    "valid": true
+  },
+  {
+    "surface": "du gouffre",
+    "valid": true
+  },
+  {
+    "surface": "ses coordonnées intrinsiques",
+    "valid": true
+  }
+]

@@ -1,0 +1,218 @@
+{
+  "question": "精神分析如何处理精神病性结构？有哪些临床策略？",
+  "questionId": "Z3-Q2",
+  "strategy": "descending-batch-warmup",
+  "totalNouns": 16244,
+  "batches": [
+    {
+      "batchNum": 1,
+      "size": 16244,
+      "promptLength": 395499,
+      "elapsedMs": 3588,
+      "usage": {
+        "prompt_tokens": 177482,
+        "completion_tokens": 244,
+        "total_tokens": 177726,
+        "prompt_tokens_details": {
+          "cached_tokens": 3584
+        },
+        "prompt_cache_hit_tokens": 3584,
+        "prompt_cache_miss_tokens": 173898
+      },
+      "cacheHitRate": 2.02,
+      "outputLength": 396,
+      "truncated": false
+    },
+    {
+      "batchNum": 2,
+      "size": 8122,
+      "promptLength": 193400,
+      "elapsedMs": 1112,
+      "usage": {
+        "prompt_tokens": 87505,
+        "completion_tokens": 61,
+        "total_tokens": 87566,
+        "prompt_tokens_details": {
+          "cached_tokens": 87296
+        },
+        "prompt_cache_hit_tokens": 87296,
+        "prompt_cache_miss_tokens": 209
+      },
+      "cacheHitRate": 99.76,
+      "outputLength": 96,
+      "truncated": false
+    },
+    {
+      "batchNum": 3,
+      "size": 4061,
+      "promptLength": 96418,
+      "elapsedMs": 1235,
+      "usage": {
+        "prompt_tokens": 43059,
+        "completion_tokens": 173,
+        "total_tokens": 43232,
+        "prompt_tokens_details": {
+          "cached_tokens": 42880
+        },
+        "prompt_cache_hit_tokens": 42880,
+        "prompt_cache_miss_tokens": 179
+      },
+      "cacheHitRate": 99.58,
+      "outputLength": 276,
+      "truncated": false
+    },
+    {
+      "batchNum": 4,
+      "size": 2030,
+      "promptLength": 47656,
+      "elapsedMs": 846,
+      "usage": {
+        "prompt_tokens": 21033,
+        "completion_tokens": 101,
+        "total_tokens": 21134,
+        "prompt_tokens_details": {
+          "cached_tokens": 20864
+        },
+        "prompt_cache_hit_tokens": 20864,
+        "prompt_cache_miss_tokens": 169
+      },
+      "cacheHitRate": 99.2,
+      "outputLength": 160,
+      "truncated": false
+    },
+    {
+      "batchNum": 5,
+      "size": 1015,
+      "promptLength": 22761,
+      "elapsedMs": 776,
+      "usage": {
+        "prompt_tokens": 9900,
+        "completion_tokens": 89,
+        "total_tokens": 9989,
+        "prompt_tokens_details": {
+          "cached_tokens": 9728
+        },
+        "prompt_cache_hit_tokens": 9728,
+        "prompt_cache_miss_tokens": 172
+      },
+      "cacheHitRate": 98.26,
+      "outputLength": 146,
+      "truncated": false
+    },
+    {
+      "batchNum": 6,
+      "size": 507,
+      "promptLength": 11109,
+      "elapsedMs": 1518,
+      "usage": {
+        "prompt_tokens": 4917,
+        "completion_tokens": 289,
+        "total_tokens": 5206,
+        "prompt_tokens_details": {
+          "cached_tokens": 4736
+        },
+        "prompt_cache_hit_tokens": 4736,
+        "prompt_cache_miss_tokens": 181
+      },
+      "cacheHitRate": 96.32,
+      "outputLength": 488,
+      "truncated": false
+    },
+    {
+      "batchNum": 7,
+      "size": 253,
+      "promptLength": 5686,
+      "elapsedMs": 805,
+      "usage": {
+        "prompt_tokens": 2511,
+        "completion_tokens": 101,
+        "total_tokens": 2612,
+        "prompt_tokens_details": {
+          "cached_tokens": 2304
+        },
+        "prompt_cache_hit_tokens": 2304,
+        "prompt_cache_miss_tokens": 207
+      },
+      "cacheHitRate": 91.76,
+      "outputLength": 161,
+      "truncated": false
+    },
+    {
+      "batchNum": 8,
+      "size": 126,
+      "promptLength": 2658,
+      "elapsedMs": 1050,
+      "usage": {
+        "prompt_tokens": 1245,
+        "completion_tokens": 61,
+        "total_tokens": 1306,
+        "prompt_tokens_details": {
+          "cached_tokens": 1024
+        },
+        "prompt_cache_hit_tokens": 1024,
+        "prompt_cache_miss_tokens": 221
+      },
+      "cacheHitRate": 82.25,
+      "outputLength": 89,
+      "truncated": false
+    },
+    {
+      "batchNum": 9,
+      "size": 63,
+      "promptLength": 1388,
+      "elapsedMs": 607,
+      "usage": {
+        "prompt_tokens": 656,
+        "completion_tokens": 49,
+        "total_tokens": 705,
+        "prompt_tokens_details": {
+          "cached_tokens": 512
+        },
+        "prompt_cache_hit_tokens": 512,
+        "prompt_cache_miss_tokens": 144
+      },
+      "cacheHitRate": 78.05,
+      "outputLength": 69,
+      "truncated": false
+    },
+    {
+      "batchNum": 10,
+      "size": 31,
+      "promptLength": 730,
+      "elapsedMs": 588,
+      "usage": {
+        "prompt_tokens": 363,
+        "completion_tokens": 37,
+        "total_tokens": 400,
+        "prompt_tokens_details": {
+          "cached_tokens": 128
+        },
+        "prompt_cache_hit_tokens": 128,
+        "prompt_cache_miss_tokens": 235
+      },
+      "cacheHitRate": 35.26,
+      "outputLength": 51,
+      "truncated": false
+    },
+    {
+      "batchNum": 11,
+      "size": 15,
+      "promptLength": 421,
+      "elapsedMs": 445,
+      "usage": {
+        "prompt_tokens": 215,
+        "completion_tokens": 17,
+        "total_tokens": 232,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "prompt_cache_hit_tokens": 0,
+        "prompt_cache_miss_tokens": 215
+      },
+      "cacheHitRate": 0,
+      "outputLength": 21,
+      "truncated": false
+    }
+  ],
+  "timestamp": "2026-09-24T12:10:42.024Z"
+}

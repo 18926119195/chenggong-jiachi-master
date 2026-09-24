@@ -1,0 +1,462 @@
+{
+  "batchRunAt": "2026-09-23T06:53:35.637Z",
+  "model": "deepseek-flash",
+  "endpoint": "https://api.deepseek.com",
+  "totalQuestions": 15,
+  "successCount": 15,
+  "skippedCount": 0,
+  "failedCount": 0,
+  "totalElapsedMs": 807295,
+  "questions": [
+    {
+      "ok": true,
+      "questionId": "Z1-Q1",
+      "elapsedMs": 53954,
+      "cache": {
+        "promptTokens": 165669,
+        "cacheHit": 0,
+        "cacheMiss": 165669,
+        "cacheHitRatePct": 0
+      },
+      "usage": {
+        "prompt_tokens": 165669,
+        "completion_tokens": 9153,
+        "total_tokens": 174822,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 6773
+        },
+        "prompt_cache_hit_tokens": 0,
+        "prompt_cache_miss_tokens": 165669
+      },
+      "promptLengthChars": 597788,
+      "outputChars": 4038,
+      "truncated": false,
+      "snapshotPath": "C:\\Users\\Administrator\\Desktop\\zhongjiban-ultimate-master\\cot对比实验\\snapshots\\cot-input-Z1-Q1.txt",
+      "outputPath": "C:\\Users\\Administrator\\Desktop\\zhongjiban-ultimate-master\\cot对比实验\\reasoning-output-cot-Z1-Q1.json",
+      "logPath": "C:\\Users\\Administrator\\Desktop\\zhongjiban-ultimate-master\\cot对比实验\\logs\\cot-run-Z1-Q1.log"
+    },
+    {
+      "ok": true,
+      "questionId": "Z1-Q2",
+      "elapsedMs": 56707,
+      "cache": {
+        "promptTokens": 165665,
+        "cacheHit": 165504,
+        "cacheMiss": 161,
+        "cacheHitRatePct": 99.9
+      },
+      "usage": {
+        "prompt_tokens": 165665,
+        "completion_tokens": 10480,
+        "total_tokens": 176145,
+        "prompt_tokens_details": {
+          "cached_tokens": 165504
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 8209
+        },
+        "prompt_cache_hit_tokens": 165504,
+        "prompt_cache_miss_tokens": 161
+      },
+      "promptLengthChars": 597774,
+      "outputChars": 3808,
+      "truncated": false,
+      "snapshotPath": "C:\\Users\\Administrator\\Desktop\\zhongjiban-ultimate-master\\cot对比实验\\snapshots\\cot-input-Z1-Q2.txt",
+      "outputPath": "C:\\Users\\Administrator\\Desktop\\zhongjiban-ultimate-master\\cot对比实验\\reasoning-output-cot-Z1-Q2.json",
+      "logPath": "C:\\Users\\Administrator\\Desktop\\zhongjiban-ultimate-master\\cot对比实验\\logs\\cot-run-Z1-Q2.log"
+    },
+    {
+      "ok": true,
+      "questionId": "Z1-Q3",
+      "elapsedMs": 50788,
+      "cache": {
+        "promptTokens": 165664,
+        "cacheHit": 0,
+        "cacheMiss": 165664,
+        "cacheHitRatePct": 0
+      },
+      "usage": {
+        "prompt_tokens": 165664,
+        "completion_tokens": 9576,
+        "total_tokens": 175240,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 8197
+        },
+        "prompt_cache_hit_tokens": 0,
+        "prompt_cache_miss_tokens": 165664
+      },
+      "promptLengthChars": 597773,
+      "outputChars": 2267,
+      "truncated": false,
+      "snapshotPath": "C:\\Users\\Administrator\\Desktop\\zhongjiban-ultimate-master\\cot对比实验\\snapshots\\cot-input-Z1-Q3.txt",
+      "outputPath": "C:\\Users\\Administrator\\Desktop\\zhongjiban-ultimate-master\\cot对比实验\\reasoning-output-cot-Z1-Q3.json",
+      "logPath": "C:\\Users\\Administrator\\Desktop\\zhongjiban-ultimate-master\\cot对比实验\\logs\\cot-run-Z1-Q3.log"
+    },
+    {
+      "ok": true,
+      "questionId": "Z1-Q4",
+      "elapsedMs": 42809,
+      "cache": {
+        "promptTokens": 165664,
+        "cacheHit": 0,
+        "cacheMiss": 165664,
+        "cacheHitRatePct": 0
+      },
+      "usage": {
+        "prompt_tokens": 165664,
+        "completion_tokens": 7511,
+        "total_tokens": 173175,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 6287
+        },
+        "prompt_cache_hit_tokens": 0,
+        "prompt_cache_miss_tokens": 165664
+      },
+      "promptLengthChars": 597774,
+      "outputChars": 2050,
+      "truncated": false,
+      "snapshotPath": "C:\\Users\\Administrator\\Desktop\\zhongjiban-ultimate-master\\cot对比实验\\snapshots\\cot-input-Z1-Q4.txt",
+      "outputPath": "C:\\Users\\Administrator\\Desktop\\zhongjiban-ultimate-master\\cot对比实验\\reasoning-output-cot-Z1-Q4.json",
+      "logPath": "C:\\Users\\Administrator\\Desktop\\zhongjiban-ultimate-master\\cot对比实验\\logs\\cot-run-Z1-Q4.log"
+    },
+    {
+      "ok": true,
+      "questionId": "Z2-Q1",
+      "elapsedMs": 56689,
+      "cache": {
+        "promptTokens": 165671,
+        "cacheHit": 0,
+        "cacheMiss": 165671,
+        "cacheHitRatePct": 0
+      },
+      "usage": {
+        "prompt_tokens": 165671,
+        "completion_tokens": 10249,
+        "total_tokens": 175920,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 8528
+        },
+        "prompt_cache_hit_tokens": 0,
+        "prompt_cache_miss_tokens": 165671
+      },
+      "promptLengthChars": 597782,
+      "outputChars": 2648,
+      "truncated": false,
+      "snapshotPath": "C:\\Users\\Administrator\\Desktop\\zhongjiban-ultimate-master\\cot对比实验\\snapshots\\cot-input-Z2-Q1.txt",
+      "outputPath": "C:\\Users\\Administrator\\Desktop\\zhongjiban-ultimate-master\\cot对比实验\\reasoning-output-cot-Z2-Q1.json",
+      "logPath": "C:\\Users\\Administrator\\Desktop\\zhongjiban-ultimate-master\\cot对比实验\\logs\\cot-run-Z2-Q1.log"
+    },
+    {
+      "ok": true,
+      "questionId": "Z2-Q2",
+      "elapsedMs": 51680,
+      "cache": {
+        "promptTokens": 165669,
+        "cacheHit": 0,
+        "cacheMiss": 165669,
+        "cacheHitRatePct": 0
+      },
+      "usage": {
+        "prompt_tokens": 165669,
+        "completion_tokens": 9636,
+        "total_tokens": 175305,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 7953
+        },
+        "prompt_cache_hit_tokens": 0,
+        "prompt_cache_miss_tokens": 165669
+      },
+      "promptLengthChars": 597784,
+      "outputChars": 2824,
+      "truncated": false,
+      "snapshotPath": "C:\\Users\\Administrator\\Desktop\\zhongjiban-ultimate-master\\cot对比实验\\snapshots\\cot-input-Z2-Q2.txt",
+      "outputPath": "C:\\Users\\Administrator\\Desktop\\zhongjiban-ultimate-master\\cot对比实验\\reasoning-output-cot-Z2-Q2.json",
+      "logPath": "C:\\Users\\Administrator\\Desktop\\zhongjiban-ultimate-master\\cot对比实验\\logs\\cot-run-Z2-Q2.log"
+    },
+    {
+      "ok": true,
+      "questionId": "Z2-Q3",
+      "elapsedMs": 59114,
+      "cache": {
+        "promptTokens": 165676,
+        "cacheHit": 0,
+        "cacheMiss": 165676,
+        "cacheHitRatePct": 0
+      },
+      "usage": {
+        "prompt_tokens": 165676,
+        "completion_tokens": 10002,
+        "total_tokens": 175678,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 7989
+        },
+        "prompt_cache_hit_tokens": 0,
+        "prompt_cache_miss_tokens": 165676
+      },
+      "promptLengthChars": 597786,
+      "outputChars": 3484,
+      "truncated": false,
+      "snapshotPath": "C:\\Users\\Administrator\\Desktop\\zhongjiban-ultimate-master\\cot对比实验\\snapshots\\cot-input-Z2-Q3.txt",
+      "outputPath": "C:\\Users\\Administrator\\Desktop\\zhongjiban-ultimate-master\\cot对比实验\\reasoning-output-cot-Z2-Q3.json",
+      "logPath": "C:\\Users\\Administrator\\Desktop\\zhongjiban-ultimate-master\\cot对比实验\\logs\\cot-run-Z2-Q3.log"
+    },
+    {
+      "ok": true,
+      "questionId": "Z2-Q4",
+      "elapsedMs": 59773,
+      "cache": {
+        "promptTokens": 165669,
+        "cacheHit": 0,
+        "cacheMiss": 165669,
+        "cacheHitRatePct": 0
+      },
+      "usage": {
+        "prompt_tokens": 165669,
+        "completion_tokens": 9690,
+        "total_tokens": 175359,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 7196
+        },
+        "prompt_cache_hit_tokens": 0,
+        "prompt_cache_miss_tokens": 165669
+      },
+      "promptLengthChars": 597776,
+      "outputChars": 4173,
+      "truncated": false,
+      "snapshotPath": "C:\\Users\\Administrator\\Desktop\\zhongjiban-ultimate-master\\cot对比实验\\snapshots\\cot-input-Z2-Q4.txt",
+      "outputPath": "C:\\Users\\Administrator\\Desktop\\zhongjiban-ultimate-master\\cot对比实验\\reasoning-output-cot-Z2-Q4.json",
+      "logPath": "C:\\Users\\Administrator\\Desktop\\zhongjiban-ultimate-master\\cot对比实验\\logs\\cot-run-Z2-Q4.log"
+    },
+    {
+      "ok": true,
+      "questionId": "Z3-Q1",
+      "elapsedMs": 49655,
+      "cache": {
+        "promptTokens": 165676,
+        "cacheHit": 0,
+        "cacheMiss": 165676,
+        "cacheHitRatePct": 0
+      },
+      "usage": {
+        "prompt_tokens": 165676,
+        "completion_tokens": 8895,
+        "total_tokens": 174571,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 6844
+        },
+        "prompt_cache_hit_tokens": 0,
+        "prompt_cache_miss_tokens": 165676
+      },
+      "promptLengthChars": 597803,
+      "outputChars": 3746,
+      "truncated": false,
+      "snapshotPath": "C:\\Users\\Administrator\\Desktop\\zhongjiban-ultimate-master\\cot对比实验\\snapshots\\cot-input-Z3-Q1.txt",
+      "outputPath": "C:\\Users\\Administrator\\Desktop\\zhongjiban-ultimate-master\\cot对比实验\\reasoning-output-cot-Z3-Q1.json",
+      "logPath": "C:\\Users\\Administrator\\Desktop\\zhongjiban-ultimate-master\\cot对比实验\\logs\\cot-run-Z3-Q1.log"
+    },
+    {
+      "ok": true,
+      "questionId": "Z3-Q2",
+      "elapsedMs": 55220,
+      "cache": {
+        "promptTokens": 165668,
+        "cacheHit": 0,
+        "cacheMiss": 165668,
+        "cacheHitRatePct": 0
+      },
+      "usage": {
+        "prompt_tokens": 165668,
+        "completion_tokens": 8993,
+        "total_tokens": 174661,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 6360
+        },
+        "prompt_cache_hit_tokens": 0,
+        "prompt_cache_miss_tokens": 165668
+      },
+      "promptLengthChars": 597782,
+      "outputChars": 4552,
+      "truncated": false,
+      "snapshotPath": "C:\\Users\\Administrator\\Desktop\\zhongjiban-ultimate-master\\cot对比实验\\snapshots\\cot-input-Z3-Q2.txt",
+      "outputPath": "C:\\Users\\Administrator\\Desktop\\zhongjiban-ultimate-master\\cot对比实验\\reasoning-output-cot-Z3-Q2.json",
+      "logPath": "C:\\Users\\Administrator\\Desktop\\zhongjiban-ultimate-master\\cot对比实验\\logs\\cot-run-Z3-Q2.log"
+    },
+    {
+      "ok": true,
+      "questionId": "Z3-Q3",
+      "elapsedMs": 53873,
+      "cache": {
+        "promptTokens": 165668,
+        "cacheHit": 0,
+        "cacheMiss": 165668,
+        "cacheHitRatePct": 0
+      },
+      "usage": {
+        "prompt_tokens": 165668,
+        "completion_tokens": 9668,
+        "total_tokens": 175336,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 8291
+        },
+        "prompt_cache_hit_tokens": 0,
+        "prompt_cache_miss_tokens": 165668
+      },
+      "promptLengthChars": 597776,
+      "outputChars": 2334,
+      "truncated": false,
+      "snapshotPath": "C:\\Users\\Administrator\\Desktop\\zhongjiban-ultimate-master\\cot对比实验\\snapshots\\cot-input-Z3-Q3.txt",
+      "outputPath": "C:\\Users\\Administrator\\Desktop\\zhongjiban-ultimate-master\\cot对比实验\\reasoning-output-cot-Z3-Q3.json",
+      "logPath": "C:\\Users\\Administrator\\Desktop\\zhongjiban-ultimate-master\\cot对比实验\\logs\\cot-run-Z3-Q3.log"
+    },
+    {
+      "ok": true,
+      "questionId": "Z4-Q1",
+      "elapsedMs": 52260,
+      "cache": {
+        "promptTokens": 165667,
+        "cacheHit": 0,
+        "cacheMiss": 165667,
+        "cacheHitRatePct": 0
+      },
+      "usage": {
+        "prompt_tokens": 165667,
+        "completion_tokens": 9515,
+        "total_tokens": 175182,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 7547
+        },
+        "prompt_cache_hit_tokens": 0,
+        "prompt_cache_miss_tokens": 165667
+      },
+      "promptLengthChars": 597781,
+      "outputChars": 3655,
+      "truncated": false,
+      "snapshotPath": "C:\\Users\\Administrator\\Desktop\\zhongjiban-ultimate-master\\cot对比实验\\snapshots\\cot-input-Z4-Q1.txt",
+      "outputPath": "C:\\Users\\Administrator\\Desktop\\zhongjiban-ultimate-master\\cot对比实验\\reasoning-output-cot-Z4-Q1.json",
+      "logPath": "C:\\Users\\Administrator\\Desktop\\zhongjiban-ultimate-master\\cot对比实验\\logs\\cot-run-Z4-Q1.log"
+    },
+    {
+      "ok": true,
+      "questionId": "Z4-Q2",
+      "elapsedMs": 61402,
+      "cache": {
+        "promptTokens": 165671,
+        "cacheHit": 0,
+        "cacheMiss": 165671,
+        "cacheHitRatePct": 0
+      },
+      "usage": {
+        "prompt_tokens": 165671,
+        "completion_tokens": 10388,
+        "total_tokens": 176059,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 7568
+        },
+        "prompt_cache_hit_tokens": 0,
+        "prompt_cache_miss_tokens": 165671
+      },
+      "promptLengthChars": 597794,
+      "outputChars": 4933,
+      "truncated": false,
+      "snapshotPath": "C:\\Users\\Administrator\\Desktop\\zhongjiban-ultimate-master\\cot对比实验\\snapshots\\cot-input-Z4-Q2.txt",
+      "outputPath": "C:\\Users\\Administrator\\Desktop\\zhongjiban-ultimate-master\\cot对比实验\\reasoning-output-cot-Z4-Q2.json",
+      "logPath": "C:\\Users\\Administrator\\Desktop\\zhongjiban-ultimate-master\\cot对比实验\\logs\\cot-run-Z4-Q2.log"
+    },
+    {
+      "ok": true,
+      "questionId": "Z4-Q3",
+      "elapsedMs": 75864,
+      "cache": {
+        "promptTokens": 165674,
+        "cacheHit": 0,
+        "cacheMiss": 165674,
+        "cacheHitRatePct": 0
+      },
+      "usage": {
+        "prompt_tokens": 165674,
+        "completion_tokens": 13334,
+        "total_tokens": 179008,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 10057
+        },
+        "prompt_cache_hit_tokens": 0,
+        "prompt_cache_miss_tokens": 165674
+      },
+      "promptLengthChars": 597791,
+      "outputChars": 5644,
+      "truncated": false,
+      "snapshotPath": "C:\\Users\\Administrator\\Desktop\\zhongjiban-ultimate-master\\cot对比实验\\snapshots\\cot-input-Z4-Q3.txt",
+      "outputPath": "C:\\Users\\Administrator\\Desktop\\zhongjiban-ultimate-master\\cot对比实验\\reasoning-output-cot-Z4-Q3.json",
+      "logPath": "C:\\Users\\Administrator\\Desktop\\zhongjiban-ultimate-master\\cot对比实验\\logs\\cot-run-Z4-Q3.log"
+    },
+    {
+      "ok": true,
+      "questionId": "Z4-Q4",
+      "elapsedMs": 27507,
+      "cache": {
+        "promptTokens": 165665,
+        "cacheHit": 0,
+        "cacheMiss": 165665,
+        "cacheHitRatePct": 0
+      },
+      "usage": {
+        "prompt_tokens": 165665,
+        "completion_tokens": 4923,
+        "total_tokens": 170588,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 3858
+        },
+        "prompt_cache_hit_tokens": 0,
+        "prompt_cache_miss_tokens": 165665
+      },
+      "promptLengthChars": 597739,
+      "outputChars": 1842,
+      "truncated": false,
+      "snapshotPath": "C:\\Users\\Administrator\\Desktop\\zhongjiban-ultimate-master\\cot对比实验\\snapshots\\cot-input-Z4-Q4.txt",
+      "outputPath": "C:\\Users\\Administrator\\Desktop\\zhongjiban-ultimate-master\\cot对比实验\\reasoning-output-cot-Z4-Q4.json",
+      "logPath": "C:\\Users\\Administrator\\Desktop\\zhongjiban-ultimate-master\\cot对比实验\\logs\\cot-run-Z4-Q4.log"
+    }
+  ]
+}

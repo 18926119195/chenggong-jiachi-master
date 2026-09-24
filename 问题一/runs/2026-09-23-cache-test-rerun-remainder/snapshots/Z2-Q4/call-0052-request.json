@@ -1,0 +1,16 @@
+{
+  "callId": "call-0052",
+  "questionId": "Z2-Q4",
+  "timestamp": "2026-09-23T07-29-06-717Z",
+  "promptLength": 1162,
+  "promptPreview": "问题: 为什么说主体性是被建构的而非先验的？\n\n以下是你选中的相关词，请按重要程度打分（1-100）：\n  1-30   弱相关：领域相关但非核心，仅提及\n  31-60  中等相关：对答案有一定贡献\n  61-80  强相关：重要概念，显著影响答案质量\n  81-100 核心概念：没有它就无法准确回答\n\n词语列表：\n【【1】】nos sociétés devaîtues\n【【2】】par les Flux capitalisatifs\n【【3】】automatision ethicoesthétique\n【【4】】évenementiation\n【【5】】re-singularisation\n【【6】】de singularité\n【【7】】Les ritournelles ethico\n【【8】】JEAN BAUDRILLARD\n【【9】】la séduction\n【【10】】subjectif\n【【11】】dualisme\n【【12】】la coupure symbolique\n【【13】】du complexe\n【【14】】castration\n【【15】】Winniccot\n...",
+  "fullPrompt": "问题: 为什么说主体性是被建构的而非先验的？\n\n以下是你选中的相关词，请按重要程度打分（1-100）：\n  1-30   弱相关：领域相关但非核心，仅提及\n  31-60  中等相关：对答案有一定贡献\n  61-80  强相关：重要概念，显著影响答案质量\n  81-100 核心概念：没有它就无法准确回答\n\n词语列表：\n【【1】】nos sociétés devaîtues\n【【2】】par les Flux capitalisatifs\n【【3】】automatision ethicoesthétique\n【【4】】évenementiation\n【【5】】re-singularisation\n【【6】】de singularité\n【【7】】Les ritournelles ethico\n【【8】】JEAN BAUDRILLARD\n【【9】】la séduction\n【【10】】subjectif\n【【11】】dualisme\n【【12】】la coupure symbolique\n【【13】】du complexe\n【【14】】castration\n【【15】】Winniccot\n【【16】】ses références ontologiques\n【【17】】sens pré-étables\n【【18】】expression auto-reférences\n【【19】】autant d'instances auto-productrices\n【【20】】la discursivité contraigna\n【【21】】* la subjection capitalistique\n【【22】】signifié\n【【23】】la psyche\n【【24】】processualisation\n【【25】】subjection individuelle et/ou collectives\n【【26】】subjectivités\n【【27】】complexes infantiles\n【【28】】fixations\n【【29】】certaines stases\n【【30】】faits subjectifs\n【【31】】67 Le surmoi\n【【32】】La récursion enonciative\n【【33】】enonciative\n【【34】】227 La singularisation\n【【35】】L'énociation virtuelle\n\n输出格式要求：\n- 只输出【【N】】分数，每行一个，不要任何解释或额外文字\n- 例如：【【1】】95\n- 不要输出：【【1】】95（这个词很重要因为...）← 错误\n- 不要使用思维链，不要推理过程，直接给出分数\n- 严格按格式，开始输出：",
+  "options": {
+    "maxTokens": 32768
+  },
+  "retryPolicy": {
+    "maxAttempts": 3,
+    "baseDelayMs": 1000,
+    "maxDelayMs": 10000
+  }
+}

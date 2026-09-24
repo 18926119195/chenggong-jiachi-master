@@ -1,0 +1,3052 @@
+{
+  "meta": {
+    "experimentGroup": "实验组一（无兜底）",
+    "totalNouns": 1419,
+    "sampledNouns": 70,
+    "samplingStrategy": "前20 + 中间30 + 后20",
+    "generatedAt": "2026-09-21T05:17:10.163Z"
+  },
+  "summary": {
+    "correct": 225,
+    "incorrect": 0,
+    "notFoundInSnapshot": 0,
+    "accuracyRate": "100.00%"
+  },
+  "samples": [
+    {
+      "index": 0,
+      "noun": "autres",
+      "id": "autres",
+      "offsetCount": 14,
+      "offsetResults": [
+        {
+          "batchId": 35,
+          "truncId": 230,
+          "machineCode": "【【230】】",
+          "chunkKey": "h1.a-y2ua9rlQlZP9rDKj2_QIR2sfeLTBU5549MAm3yOmHM1Urd-3p5mpaCee5kga-Di68GwDrhbmy3slLIqSoJs32LFarPacIjpb7_3qcMUNag5-kSxwzs5M1LOdtiRXO7-340OXB-nQ_eKni4fwu8",
+          "start": 565,
+          "end": 571,
+          "truncationText": "des autres, mais entretiennent des",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        },
+        {
+          "batchId": 47,
+          "truncId": 1,
+          "machineCode": "【【1】】",
+          "chunkKey": "h1.ANkV8hMSsahEhqMAduZITV8kheTpfUqnizPu1oG2am_3AcqqojfDAdRymfZPOgLPr6eRjjsIABmQ-81xlh8mvYPD6ysM1xLxuFXjvk_Nx0Vn9nmFwLQGMYje_YjH7HElfthBp9MD88SLmjD3niEC",
+          "start": 363,
+          "end": 369,
+          "truncationText": "des autres et, de plus en plus, en compliqué de",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        },
+        {
+          "batchId": 30,
+          "truncId": 70,
+          "machineCode": "【【70】】",
+          "chunkKey": "h1.eyMMDu9BR_7uwp8Jm_cMzU3VIGUwvmEPcFqQBAXBM8r1RWtbArl3Yu3s0lTiVz32h0TFs8qVufccBaDD7bhax-y2Z4qMTUsyqd2o2TKi8X6lt6ypQpsDEDx4yQGc2tllY2j0CDbHlyJkL-3reUUB",
+          "start": 49,
+          "end": 55,
+          "truncationText": "avec les autres, qu'elles sont donc absolument distinctes;",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        },
+        {
+          "batchId": 12,
+          "truncId": 64,
+          "machineCode": "【【64】】",
+          "chunkKey": "h1.hS-0PLeoZH-AFR5xFdximlC9vhNpr-jGia5IwCmlY7JoS6h08r6_-LPtsbou0vY7LKhjLlE17n2pwXRWPeCorCRmPxlJMZjY4jHGfSVoULN40SCk3NNF92ltFl3udBjix3-bVy4Cuh4XvITH6r_l",
+          "start": 133,
+          "end": 139,
+          "truncationText": "les autres, de se transformer les",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        },
+        {
+          "batchId": 12,
+          "truncId": 65,
+          "machineCode": "【【65】】",
+          "chunkKey": "h1.hS-0PLeoZH-AFR5xFdximlC9vhNpr-jGia5IwCmlY7JoS6h08r6_-LPtsbou0vY7LKhjLlE17n2pwXRWPeCorCRmPxlJMZjY4jHGfSVoULN40SCk3NNF92ltFl3udBjix3-bVy4Cuh4XvITH6r_l",
+          "start": 178,
+          "end": 184,
+          "truncationText": "dans les autres. Comment éviter, dans ces",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        },
+        {
+          "batchId": 35,
+          "truncId": 195,
+          "machineCode": "【【195】】",
+          "chunkKey": "h1.Ip9ZCf7TBZNwUFybjve8iCaADiBq7PDQPcQEgNArhAffvdSLQG70atuRUTCRfQdCYkM68UVASJ-fvh_PgPuDnlpff6iAAzKFZDet8rpBUagyK0Eydi_ULTClfW9Daz2j-bn7nIYWo-jqLVeTgOgy",
+          "start": 398,
+          "end": 404,
+          "truncationText": "(pas plus que les autres",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        },
+        {
+          "batchId": 5,
+          "truncId": 41,
+          "machineCode": "【【41】】",
+          "chunkKey": "h1.lU1TkNoGOkZp4gBEmw-7v80Y9kDQPxhHoFuyQ3-Vd7_rR2sjkj8Akd-ajdzIXvxoIPXbpBw5-ZahiR_Jtv67EKRAuU2djoyWZhoq3gqJr6ici5VstMvitPKP7ExiQttkF2I3F4XVPCBIKDlGdd8",
+          "start": 271,
+          "end": 277,
+          "truncationText": "des autres, de",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        },
+        {
+          "batchId": 26,
+          "truncId": 34,
+          "machineCode": "【【34】】",
+          "chunkKey": "h1.NdDWDKDn00GjKuYUlsdFJ_9nJIXr8Mh1cxX01G8kUJNaTYvcVx9Y-V7v5_3c-8MlfuP45TdX5Z2Y-ppvX1oKyF_h28ZsHHde36z2LRt0O0uu4nucwkGEWFZd-AQh_W7TLvrOlpXMjwNnS4uWtyS1",
+          "start": 554,
+          "end": 560,
+          "truncationText": "vers une entier seur que, déjà, il se trouve menace que vienne s'interposer entre lui et les autres et même lui-même et lui-même un",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        },
+        {
+          "batchId": 17,
+          "truncId": 84,
+          "machineCode": "【【84】】",
+          "chunkKey": "h1.nSfpfbagd12UhICvRnyXCrajzqtQxSr6h5juACjbt525NkewQDSaTqkrtBgbBdy23rM0N1wsA3eoiN4vBTp29UIDd-nu7w032g4ToKbqegwskw0QP3c4RCBEJqElEQ4XT3ROtYFjIfJfQMJh1Lk",
+          "start": 627,
+          "end": 633,
+          "truncationText": "des autres. C'est ainsi que la",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        },
+        {
+          "batchId": 35,
+          "truncId": 75,
+          "machineCode": "【【75】】",
+          "chunkKey": "h1.oLwtkMsJdEQ_nH994ar4v0Mrp_3Pmr0O7rAhJUWFjQj1_DDQugR3Hpj_uzhPZB1MSZSZTXZ6hs67TND35Ne0lnLkMnEiIWqwm0w5DuBbjqbm5K0o8l_ZtAE5m0_8j4fqOYkPjjbz-q335ctZgpSO",
+          "start": 1012,
+          "end": 1018,
+          "truncationText": "sur les autres; tandis que la",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        },
+        {
+          "batchId": 26,
+          "truncId": 212,
+          "machineCode": "【【212】】",
+          "chunkKey": "h1.OYZsWJavhH80mfdCcEL-sG02407zFAjvbMU66bb_aVZpj3DpPkbqsoOVRk2vjKPxL-vysF9npSVkwidpUBk24cqLXYhjq8mQr2NlKUSNKsOhaXhvhb6FUGJHJbQ1S9Hkmys5_kX4jPxhWx140mA",
+          "start": 139,
+          "end": 145,
+          "truncationText": "aux autres, de compositions",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        },
+        {
+          "batchId": 21,
+          "truncId": 30,
+          "machineCode": "【【30】】",
+          "chunkKey": "h1.r_Zf-QSCvDoyLjhfBzhBtGEOGccHSB1_Mfkc7-bmq6pwYeCzhaO2HtYn21JFBcuVX_Kb5gIEXWi0YSG_ZW9lvYSCYcsO9OCfaRhzFyG7_V93YdgMwLbz7kvdhzti5CeSQmTTxqTvlcWugc_ms2Of",
+          "start": 402,
+          "end": 408,
+          "truncationText": "aux autres sans pour autant se cumuler mais",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        },
+        {
+          "batchId": 21,
+          "truncId": 32,
+          "machineCode": "【【32】】",
+          "chunkKey": "h1.r_Zf-QSCvDoyLjhfBzhBtGEOGccHSB1_Mfkc7-bmq6pwYeCzhaO2HtYn21JFBcuVX_Kb5gIEXWi0YSG_ZW9lvYSCYcsO9OCfaRhzFyG7_V93YdgMwLbz7kvdhzti5CeSQmTTxqTvlcWugc_ms2Of",
+          "start": 491,
+          "end": 497,
+          "truncationText": "des autres (ce",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        },
+        {
+          "batchId": 30,
+          "truncId": 72,
+          "machineCode": "【【72】】",
+          "chunkKey": "h1.StyG9tXcrGvzn5OXkEzZyKFV1t5b7q4UObXpigOLaVgoZuRG8MCBjqmLHEue1qgCx08RXGoV1X6qFgtxXSMi0f8Diwm1L__VgoPms0CnxiCETCYNUbGN9poXjVn9YZ3uxyeEG9VGaR67DEiw2sS6",
+          "start": 64,
+          "end": 70,
+          "truncationText": "des autres, de",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "noun": "Figure",
+      "id": "figure",
+      "offsetCount": 14,
+      "offsetResults": [
+        {
+          "batchId": 27,
+          "truncId": 240,
+          "machineCode": "【【240】】",
+          "chunkKey": "h1.17T2aOZwu89nseaFKFY_OSSUdEVtaa1VfwLZVsTy-hYVWg5T8XcSt1ZY8wpyH5LsjAnKt8zClkKQ-I4BN6lYR0yiHMRPGq90Um1SEcT3ktLA_-WN0vLTr8TYZMKWccFiXOJoxHxOH02IlMXsfeM",
+          "start": 0,
+          "end": 6,
+          "truncationText": "Figure 8. La",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        },
+        {
+          "batchId": 20,
+          "truncId": 116,
+          "machineCode": "【【116】】",
+          "chunkKey": "h1.4WNbFkKWSEr9dLU4GOaTbodlVk2Ob-g347JAxPqLk0BrPF8mQqEa7wDk7jLbidtYZT-sBwn-L9K4EFutTUqhoTSnCKXgv1UiLZTsgPt9j7w_nVQNlX0WL9o8doTybr6UK01mOuua1X9gzUXniLs",
+          "start": 0,
+          "end": 6,
+          "truncationText": "Figure 5",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        },
+        {
+          "batchId": 35,
+          "truncId": 198,
+          "machineCode": "【【198】】",
+          "chunkKey": "h1.5UJIqBZgHfDMHI4IC5UxdkN_qoDVYq7StLvAZnAvZ0MxYZ_xHorDOVfIRPw10WgJTsbaE8D0muSUMLE76UEYLKHZlqJGqfSA1ZiKnM3KeOQa_GAqJIqciNiq6Bc7g1EUsbna8cSfRYpzhKsWnKLM",
+          "start": 0,
+          "end": 6,
+          "truncationText": "Figure 1.",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        },
+        {
+          "batchId": 20,
+          "truncId": 239,
+          "machineCode": "【【239】】",
+          "chunkKey": "h1.c8-VU_b0cpxlw9ryASMuGZNincM3EPxPwUr8bEYadgSmR6XTnpM1dc_B0g_fbubAGY27Nvbq8dzjQsPQD822dUgVvlgfgB14CWnD13Sg4zMXa04nAjTQHc2wSWqkzoSeb5Zk-6Vfv4d5v4sofDX_",
+          "start": 0,
+          "end": 6,
+          "truncationText": "Figure 1. Opérateurs ontiques et",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        },
+        {
+          "batchId": 25,
+          "truncId": 36,
+          "machineCode": "【【36】】",
+          "chunkKey": "h1.FZFg8cPaEOPk9XrE8IOMpgJSD-zOsI3zoCfrANLtvsMzT63I9b8hXMlJRTrpHEYSGDK-10BLNaMFRQxUHeLmzHhRQEkVZEkd6r5Ft1Zh9vGatbX_-uYMcNKxRLr3Xe-vOt2QMWftAVgapKKMIig",
+          "start": 0,
+          "end": 6,
+          "truncationText": "Figure 10",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        },
+        {
+          "batchId": 12,
+          "truncId": 93,
+          "machineCode": "【【93】】",
+          "chunkKey": "h1.LA2EJ0P6805SPk-PwQ81hHtP-oXrux9q-e3lQ_xOkuVDVwWLR8fG6AdzKiRcOXs13hPHO5ociR5g-ScPiBXo2QfukAhmAQdkjFjc_4jFz20ElCGq1FIb4qwWCwRYvZMhy7JDFYNjd23YZlFmZ3Hk",
+          "start": 0,
+          "end": 6,
+          "truncationText": "Figure 2.",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        },
+        {
+          "batchId": 25,
+          "truncId": 100,
+          "machineCode": "【【100】】",
+          "chunkKey": "h1.lkgkEmWDNoJRYWW6YOqCi48kNTghamVF3fcnUOw5aLBwL-1rjuCx7ohBnvSzFAuyFvGftaJGg5X-t3oRgP_b4ouzWwArVXWZWCz-9TrRcJhf3sRWE3q4MMd_B1Ob-vSfxOWOziq5nX-99umIKjY",
+          "start": 0,
+          "end": 6,
+          "truncationText": "Figure 11. Les",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        },
+        {
+          "batchId": 17,
+          "truncId": 195,
+          "machineCode": "【【195】】",
+          "chunkKey": "h1.MQhDk2w7xUQT2wS_uYT6qiWYyULrVVehTpC2CRobg7ucMrRKswHDIBg3vDpmBSXrXd2L0Houa0ILLEd-BPt4l-o7wjLIeyj7iIJCDpYc98HI1VHXgqGpU7Q47oIHYnjxOQZlMIh3lKfWXhJeTAxV",
+          "start": 0,
+          "end": 6,
+          "truncationText": "Figure 15.",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        },
+        {
+          "batchId": 20,
+          "truncId": 67,
+          "machineCode": "【【67】】",
+          "chunkKey": "h1.pYCA_CId2QHUIiCEd9qwB6Uwj7Ui5A3BcgKJxaV1g2VR6MMl8tZX2gJzSU1ujjht1RfpjpHQ_MMCHAAgCTgr9afTNn6QIq5Zxe1jseEEWOVOhU4ZRpX2PuXF0po8QfmECG5rW-K_z9CsuVUnzRt7",
+          "start": 258,
+          "end": 264,
+          "truncationText": "figure/",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        },
+        {
+          "batchId": 30,
+          "truncId": 159,
+          "machineCode": "【【159】】",
+          "chunkKey": "h1.Qyqsb4WjqPx49OjJ33l6bJZUmsrK2XUd9CN-BeAxtEbpQxT-aK2T31TCA_eaEiFa2lFJBS7xxhM8mP3EPQVV8_awKty7cS-gSeEraRkSa7QB0GVUGoo7wmZ3FNvrPLEnLTYVq_NpuW1jGGPRDVL3",
+          "start": 0,
+          "end": 6,
+          "truncationText": "Figure 8. L'",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        },
+        {
+          "batchId": 20,
+          "truncId": 169,
+          "machineCode": "【【169】】",
+          "chunkKey": "h1.s53liXFKCzt-saQzyp39wFFLYWb2g6XR4UxIekM8vlv4ov8sybvW_gz1A7w1RUN5ETaPu2AmvGDrlcmPQ_Ir0JO_AuCSJjWY5jucagNNatSK6hDTzWbLSKLgeN7exi58ICHvgv9umx8hqp71ugPS",
+          "start": 0,
+          "end": 6,
+          "truncationText": "Figure 8",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        },
+        {
+          "batchId": 24,
+          "truncId": 159,
+          "machineCode": "【【159】】",
+          "chunkKey": "h1.Xqiv0X213J4ck1P7-BylCqk3-KghXd1l7PSgyzE_OJnuO0izePzYYWAlU_zR-FTv9wQCwjWZzbEGVhPdKRmZPGWL_Xp-2DbfAhWzHmgibKRMRHk4HXwYgTVl1DMlO5X2pQtTJOOKeHURXKiGIl8",
+          "start": 0,
+          "end": 6,
+          "truncationText": "Figure 8. L'",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        },
+        {
+          "batchId": 14,
+          "truncId": 274,
+          "machineCode": "【【274】】",
+          "chunkKey": "h1.zMtgXCyQl_fejIs9xImCsgCONZizoQqD7CCOUYSZyhqs9bSdS2iwxpq69E28FQ2uH5uSS_jfHyFMfSY2YYbYDo63j-nTR72i9WhhbV6djoquRM8xNSSNu8LW97gUWh1mHriWEz18d5EFZafOSZGo",
+          "start": 0,
+          "end": 6,
+          "truncationText": "Figure 8.",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        },
+        {
+          "batchId": 27,
+          "truncId": 73,
+          "machineCode": "【【73】】",
+          "chunkKey": "h1.Zt6uv65cawv37bWR2IkRvNzca9CfpxFK7XDjkS0vjX9CkQxqHcshCuWG1h3hrAr3p73GT9lk88ZeNvVGXCQl4HUdYa-SMwTveWfw44qw5NIuGkLTGlOdXHrsYJ9LczT_UnlHppj7k-M43WZA_Hw",
+          "start": 0,
+          "end": 6,
+          "truncationText": "Figure 6",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "noun": "qu'",
+      "id": "qu'",
+      "offsetCount": 14,
+      "offsetResults": [
+        {
+          "batchId": 37,
+          "truncId": 61,
+          "machineCode": "【【61】】",
+          "chunkKey": "h1.3kILQfdWy53xkOAiI6wQ5dmhqNaXHmxQZ0umnxRHb1CV-vKOs130tSzFpprDqLPiaMqC1WO6kdK4avT_1nIK74RT8z2xdJszkrwwIacCqKuK4GEifYfyL08UxVLvop8vhVgWWlqtT926_aEsUpXN",
+          "start": 745,
+          "end": 748,
+          "truncationText": ", qu'il pourrait bien, lui-même, tomber sous le",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        },
+        {
+          "batchId": 37,
+          "truncId": 256,
+          "machineCode": "【【256】】",
+          "chunkKey": "h1.By9mriu_y5fQXWJ8whuBzXquN8lCCARh03J4DfaC7hJfVgAkuzHoZqRGDHJtQ6lIZS5BGjb0RSYRsNkFCVSoch-8j2_fZePh63kDrVLxAmUtwLfvCnjE6-PpDUZcD5ZBPiel6remB9_ElBzuHGOe",
+          "start": 782,
+          "end": 785,
+          "truncationText": "qu'afin de réciter une",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        },
+        {
+          "batchId": 37,
+          "truncId": 15,
+          "machineCode": "【【15】】",
+          "chunkKey": "h1.KpA5uEKVmu96dEM7sqVWrbj7DR5m09uMsq82ZfpcanbMFzCKgwrgHxwwm1qIpLz7wkJb4lFJDmAd5zHwKWwdLG1ExGZMq4pSO6bsA9SMsEuk6nNVWogqxn3B57AuksocsIU1XN2T_bIdNFUmqyUB",
+          "start": 365,
+          "end": 368,
+          "truncationText": "dont personne ne souproune ce qu'il sera, ou même qu'il sera, je décidal d'",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        },
+        {
+          "batchId": 37,
+          "truncId": 15,
+          "machineCode": "【【15】】",
+          "chunkKey": "h1.KpA5uEKVmu96dEM7sqVWrbj7DR5m09uMsq82ZfpcanbMFzCKgwrgHxwwm1qIpLz7wkJb4lFJDmAd5zHwKWwdLG1ExGZMq4pSO6bsA9SMsEuk6nNVWogqxn3B57AuksocsIU1XN2T_bIdNFUmqyUB",
+          "start": 385,
+          "end": 388,
+          "truncationText": "dont personne ne souproune ce qu'il sera, ou même qu'il sera, je décidal d'",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        },
+        {
+          "batchId": 35,
+          "truncId": 73,
+          "machineCode": "【【73】】",
+          "chunkKey": "h1.oLwtkMsJdEQ_nH994ar4v0Mrp_3Pmr0O7rAhJUWFjQj1_DDQugR3Hpj_uzhPZB1MSZSZTXZ6hs67TND35Ne0lnLkMnEiIWqwm0w5DuBbjqbm5K0o8l_ZtAE5m0_8j4fqOYkPjjbz-q335ctZgpSO",
+          "start": 924,
+          "end": 927,
+          "truncationText": "anomale. Ce qui caractériserait plutôt cette dernière c'est un qu'",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        },
+        {
+          "batchId": 37,
+          "truncId": 259,
+          "machineCode": "【【259】】",
+          "chunkKey": "h1.oYGY4Q4gqek-UlF1O0C07vQ40u2PDsYW198Pu920NrPGnd9JxE3Np4VjVzgZDhbiAXQvqXMyxyQahf1RVsNO_T6qWNH8__1MHuR9ibADuqRMRen0V_PUIf9OuOks8ZD-XJCkRFoQPLSlMyXIkWpR",
+          "start": 159,
+          "end": 162,
+          "truncationText": "qu'il s'était initialement assignée (par le",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        },
+        {
+          "batchId": 37,
+          "truncId": 260,
+          "machineCode": "【【260】】",
+          "chunkKey": "h1.oYGY4Q4gqek-UlF1O0C07vQ40u2PDsYW198Pu920NrPGnd9JxE3Np4VjVzgZDhbiAXQvqXMyxyQahf1RVsNO_T6qWNH8__1MHuR9ibADuqRMRen0V_PUIf9OuOks8ZD-XJCkRFoQPLSlMyXIkWpR",
+          "start": 208,
+          "end": 211,
+          "truncationText": "qu'il ordonne les",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        },
+        {
+          "batchId": 37,
+          "truncId": 261,
+          "machineCode": "【【261】】",
+          "chunkKey": "h1.oYGY4Q4gqek-UlF1O0C07vQ40u2PDsYW198Pu920NrPGnd9JxE3Np4VjVzgZDhbiAXQvqXMyxyQahf1RVsNO_T6qWNH8__1MHuR9ibADuqRMRen0V_PUIf9OuOks8ZD-XJCkRFoQPLSlMyXIkWpR",
+          "start": 235,
+          "end": 238,
+          "truncationText": "qu'il a vécus dans la",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        },
+        {
+          "batchId": 37,
+          "truncId": 101,
+          "machineCode": "【【101】】",
+          "chunkKey": "h1.P84ABCn3NGL2gt2L6I_txUCsSiOqaLwoWEqH3f6zgTkiY5sDQ_ZNvLPKgxJG7glfI2QXTXFUZHq1TbgaM94VqdpXzgjS3rpQADnEowuVCl6XRh4ngZUHn7z7rI6xP1vvqjO4uAczGm9QPlUnziJm",
+          "start": 1702,
+          "end": 1705,
+          "truncationText": "diurne, qu'il nous rapporte dans Un",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        },
+        {
+          "batchId": 37,
+          "truncId": 164,
+          "machineCode": "【【164】】",
+          "chunkKey": "h1.XUYkmrGN8YoozfcV78VMq6yQ8PwHjBV9jxiopGN4JGXlzKODtP1UrDYuwTJ7EQ9EFR6mh_myzjYH3cSezQ1TXRmOKJWrYWlP6QafA6lI0LrQVFWLvBaXHgNlpaRwTSLSkbvRCFafB063ApbMqcwn",
+          "start": 541,
+          "end": 544,
+          "truncationText": "qu'en a prétendu nouer autour de du",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        },
+        {
+          "batchId": 37,
+          "truncId": 181,
+          "machineCode": "【【181】】",
+          "chunkKey": "h1.XUYkmrGN8YoozfcV78VMq6yQ8PwHjBV9jxiopGN4JGXlzKODtP1UrDYuwTJ7EQ9EFR6mh_myzjYH3cSezQ1TXRmOKJWrYWlP6QafA6lI0LrQVFWLvBaXHgNlpaRwTSLSkbvRCFafB063ApbMqcwn",
+          "start": 1429,
+          "end": 1432,
+          "truncationText": "n'a abouti qu'une",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        },
+        {
+          "batchId": 37,
+          "truncId": 202,
+          "machineCode": "【【202】】",
+          "chunkKey": "h1.zhA42cLwxE1f-rvA1avzYFYLj_lWbSiNvVx2JuackxSNJMQjd1cp7yx10cqJaNxXm9CmChIVvOGP2F4sG8zNK-1nOE_CeT1I2yTz6gr0LFOE68MQ8qYIEsEpbhyp4l4MRRsknX78efyAM5rx4w_1",
+          "start": 610,
+          "end": 613,
+          "truncationText": ", dont certains, à ce qu'on dit, se prétait complaisamment à la",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        },
+        {
+          "batchId": 37,
+          "truncId": 217,
+          "machineCode": "【【217】】",
+          "chunkKey": "h1.zhA42cLwxE1f-rvA1avzYFYLj_lWbSiNvVx2JuackxSNJMQjd1cp7yx10cqJaNxXm9CmChIVvOGP2F4sG8zNK-1nOE_CeT1I2yTz6gr0LFOE68MQ8qYIEsEpbhyp4l4MRRsknX78efyAM5rx4w_1",
+          "start": 1330,
+          "end": 1333,
+          "truncationText": "qui vise ilure qu'il rive",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        },
+        {
+          "batchId": 37,
+          "truncId": 235,
+          "machineCode": "【【235】】",
+          "chunkKey": "h1.zhA42cLwxE1f-rvA1avzYFYLj_lWbSiNvVx2JuackxSNJMQjd1cp7yx10cqJaNxXm9CmChIVvOGP2F4sG8zNK-1nOE_CeT1I2yTz6gr0LFOE68MQ8qYIEsEpbhyp4l4MRRsknX78efyAM5rx4w_1",
+          "start": 2038,
+          "end": 2041,
+          "truncationText": "encore ce qu'il doute : dans cette même",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "noun": "possible",
+      "id": "possible",
+      "offsetCount": 13,
+      "offsetResults": [
+        {
+          "batchId": 25,
+          "truncId": 56,
+          "machineCode": "【【56】】",
+          "chunkKey": "h1.-IbwvGfR9FUCCUcu5LxMtpiIvJ3vsWx6R4ltejqtc2O2iMCRby384v8fa3xBzzY0xMjn_b0a2GGX1A46EIfodScunOEwqVbVgm7cC0l9an4W97u8tQWESKXxy02SHt791bMrIg7insXrtIUg7iU",
+          "start": 80,
+          "end": 88,
+          "truncationText": "de possible *s*² • *v",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        },
+        {
+          "batchId": 12,
+          "truncId": 15,
+          "machineCode": "【【15】】",
+          "chunkKey": "h1.5bpSzZa3uE07NlPPfbJFk-CAFKaZ1U6mp5n4iuN_mQC66u6f0Rn1B98UUl48l7wyUphA4DLNg7ZBkhualhYSTJTseDt3I801TsxfC91OtHOnUo6O5Eu7yvZa2x0Imo8VMhkLYGzbRWfE7uPtbV4",
+          "start": 32,
+          "end": 40,
+          "truncationText": "de possible (",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        },
+        {
+          "batchId": 18,
+          "truncId": 27,
+          "machineCode": "【【27】】",
+          "chunkKey": "h1.7AedkpR_37FRK-b4Pj5TuHqqHgGdgi-0zqo2V9sR6Tf9GLLUvbvgMUYPLYD5QV5SD8SD6kyKXM1y8yjHn4ifTzhOShaFhUKswAY2QphX_BFpzp9KvD7Qfe1WycXEhDD44HP1BYbr4unObwEbcN4",
+          "start": 302,
+          "end": 310,
+          "truncationText": "de possible et de",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        },
+        {
+          "batchId": 42,
+          "truncId": 65,
+          "machineCode": "【【65】】",
+          "chunkKey": "h1.bGA8aH1B_DDblZ98feZO1xyGP9lGrVW5-GPOaP42gOs-I_4oQcsZnNhgfuPdfd0Cymwbf8W_vLOtwmAF-G2ke8X_JDjyeOCwz8R6eInXhuaNHDBC2UODaKg1tVnzMSgDqVP0VZuGZNTjewxUqeTV",
+          "start": 969,
+          "end": 977,
+          "truncationText": "inédits de possible. Le",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        },
+        {
+          "batchId": 26,
+          "truncId": 48,
+          "machineCode": "【【48】】",
+          "chunkKey": "h1.bzU_TbdXcPSKp9Gyfxt73PfgHutoFfHUz_F7bu8_DqRRGjL3fbhbL3XuR3fdy9jjmv4ok7nsHr7COTamZSBGCZACrXMmLvYMV4PfWdEmQzEa2vuSqPcVQxRpsj64k1VQ3Gcf2jtalyeyNrNpUp6k",
+          "start": 20,
+          "end": 28,
+          "truncationText": "de possible",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        },
+        {
+          "batchId": 21,
+          "truncId": 106,
+          "machineCode": "【【106】】",
+          "chunkKey": "h1.knDC7EaROb1NFxtnMeKvcuKTu1sPnGmPDCFr9DkNbFvJaFh0oiL0Z2r42fjUEwT_nQOkb2vz8WkmypeIleFc06xDE5YLifv5Yo1NRC4xrW60r3kRfvlK8vVcVE5wZsTC7g5H_YoOfNBXfyKtjNw",
+          "start": 447,
+          "end": 455,
+          "truncationText": "de possible susceptibles de voir le",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        },
+        {
+          "batchId": 14,
+          "truncId": 260,
+          "machineCode": "【【260】】",
+          "chunkKey": "h1.m_A-i9IaXphISSO72P5rhzWZ2qmim-02mXP-yrePs4K3brp2VkPS-y_E3lxxRKL6geWzclgnSXh9yMB67Sk7KFLIrmq5JYZxrt5qmEdKw3ISySP04ZoCuUjQYSFZH0smtRojiPbxIc4aBsJNyFU",
+          "start": 324,
+          "end": 332,
+          "truncationText": "de possible (",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        },
+        {
+          "batchId": 26,
+          "truncId": 42,
+          "machineCode": "【【42】】",
+          "chunkKey": "h1.NdDWDKDn00GjKuYUlsdFJ_9nJIXr8Mh1cxX01G8kUJNaTYvcVx9Y-V7v5_3c-8MlfuP45TdX5Z2Y-ppvX1oKyF_h28ZsHHde36z2LRt0O0uu4nucwkGEWFZd-AQh_W7TLvrOlpXMjwNnS4uWtyS1",
+          "start": 908,
+          "end": 916,
+          "truncationText": "de possible. Quoi qui en soit, la",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        },
+        {
+          "batchId": 20,
+          "truncId": 150,
+          "machineCode": "【【150】】",
+          "chunkKey": "h1.qSVDzg_hOoJJqYcJFLHMFy4F_F9RLxf-qIlsuprQ8_3LTPzni0ySBRiAKtpAKfSs7uV0uyNeVeFnriRO3IzjWyEqSZHFX5Xc7yuJ4SdMYhCx000zh744ndiLN236S6Og0IUZLy24L4aRrgfSYAY",
+          "start": 93,
+          "end": 101,
+          "truncationText": "de possible . consécutivement à la",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        },
+        {
+          "batchId": 20,
+          "truncId": 60,
+          "machineCode": "【【60】】",
+          "chunkKey": "h1.SJS711f5yyWT3vvH6yVuitCXakesk6i8Kvhl3NFR9w9Um4L029RJ0c6cfyPA1oiH1IpPamjnfymbD1NL83IN2n71OUVVFQ5h7fBXK97hMY8nIKwPmSvAuVmr68QZDXxzg0pxbcDVQJfsckvD-0g",
+          "start": 294,
+          "end": 302,
+          "truncationText": "de possible et leur assigner",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        },
+        {
+          "batchId": 12,
+          "truncId": 42,
+          "machineCode": "【【42】】",
+          "chunkKey": "h1.WKc9o1GJ1G6XoCKkDx2gESfJASrpnr31roFtkZr1mhJSbxNzi9BzZgU876lTsTV38Fd_H4RbLgQOyn1pao0CRtTKePTF3PJ-V3JAEuaFpdzkRTREeXSoYH7y2dANdhEEXa1U_TcbDlJqrzjaWyM",
+          "start": 150,
+          "end": 158,
+          "truncationText": "de possible, transferent les",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        },
+        {
+          "batchId": 20,
+          "truncId": 49,
+          "machineCode": "【【49】】",
+          "chunkKey": "h1.X89tM76WpkgavMtvABoIDtk7bfJQf5usBQ5nl7b03wrTxcrKu9KM8DQaZouG5rCU9dcgpNcmstxGaj2EHkA93vX1kt7fswu391SKo75xNF83XQVIJooNyk5hx2_intTncASKcjZhv3zMpzuTwzc",
+          "start": 99,
+          "end": 107,
+          "truncationText": "de possible. Les",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        },
+        {
+          "batchId": 14,
+          "truncId": 275,
+          "machineCode": "【【275】】",
+          "chunkKey": "h1.zMtgXCyQl_fejIs9xImCsgCONZizoQqD7CCOUYSZyhqs9bSdS2iwxpq69E28FQ2uH5uSS_jfHyFMfSY2YYbYDo63j-nTR72i9WhhbV6djoquRM8xNSSNu8LW97gUWh1mHriWEz18d5EFZafOSZGo",
+          "start": 34,
+          "end": 42,
+          "truncationText": "de possible",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "noun": "existentielle",
+      "id": "existentielle",
+      "offsetCount": 10,
+      "offsetResults": [
+        {
+          "batchId": 46,
+          "truncId": 195,
+          "machineCode": "【【195】】",
+          "chunkKey": "h1.-OHjdfEuLjTt9LtgcWK1GOMG85RjH7kwavKYfNQhN7c2BJjz0BH6ak-d603f-cX5BMjrO_x9fWiaoqXnmwgePZXQCS7QN87b62dWojdcD4rn8yHj84eYmi_QkDOg1qLiUqLJKoXeeH8I4A1lFyzG",
+          "start": 1155,
+          "end": 1168,
+          "truncationText": "existentielle, cette",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        },
+        {
+          "batchId": 24,
+          "truncId": 138,
+          "machineCode": "【【138】】",
+          "chunkKey": "h1.aX2utCHqKcuNzS0tHM57QrPPH9iauGQyOH8l4Oe8BDrKZrtNeOMf6QX4o2g5WNm5GSqybCmWgrfrk-1vCYcUNu0maQUcvKVBtBIUoyK3AEjN7n4zg7WG3arMCnRI1tM4vM7pynhCVmK9ue6K5Fs",
+          "start": 146,
+          "end": 159,
+          "truncationText": "existentielle: les",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        },
+        {
+          "batchId": 27,
+          "truncId": 2,
+          "machineCode": "【【2】】",
+          "chunkKey": "h1.BE9mbM5eojI9pJoKDQ8htHb78UFhDnMmp4ywtJxHtg9hH4AaLa9HeoGwPA0tQhBuFSFeoGwwX548tL9FQC6XEPGmSgKcpM1XmpnYKfnkJcuYodPZ9PPbtBKIx0etsxhgXsZ56Ev6iJQkboltcwg",
+          "start": 812,
+          "end": 825,
+          "truncationText": "existentielle (infinita essenti fruitio).",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        },
+        {
+          "batchId": 42,
+          "truncId": 66,
+          "machineCode": "【【66】】",
+          "chunkKey": "h1.bGA8aH1B_DDblZ98feZO1xyGP9lGrVW5-GPOaP42gOs-I_4oQcsZnNhgfuPdfd0Cymwbf8W_vLOtwmAF-G2ke8X_JDjyeOCwz8R6eInXhuaNHDBC2UODaKg1tVnzMSgDqVP0VZuGZNTjewxUqeTV",
+          "start": 1021,
+          "end": 1034,
+          "truncationText": "existentielle attenant à l'aura dégagé par un",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        },
+        {
+          "batchId": 36,
+          "truncId": 5,
+          "machineCode": "【【5】】",
+          "chunkKey": "h1.DfR_j0pdq4UX0m-Q8iYxbZzM0s3lADI4DeOfmKZvV9v6gBXfd_qdKMtmKmJaFBhzMpyoHJWNS8m7FJ3aa90ccFuxy08wrKWKU4piv6YbzeFyEkKrbfD-Zl0jTWOFwtBTrzYzfzr_0xxZtuwPMom4",
+          "start": 195,
+          "end": 208,
+          "truncationText": "existentielle à un",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        },
+        {
+          "batchId": 26,
+          "truncId": 123,
+          "machineCode": "【【123】】",
+          "chunkKey": "h1.jeHdDMbQBNCC9citCurgwweXEmB8aOKCqgZ3Xr9iqRH1UK0mQdf9jSX-QrOmoJdtsB_yGnxf-c6emEjDAeYBUycDVO5iiVyhai1vWfy5QhjJylCwLNaeDiHmPejJgnFHhb4exUWPG6h8UHLRkgU",
+          "start": 732,
+          "end": 745,
+          "truncationText": "existentielle)? Toujours les mêmes",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        },
+        {
+          "batchId": 47,
+          "truncId": 83,
+          "machineCode": "【【83】】",
+          "chunkKey": "h1.MGGGTWTzjNMONmH23cDugrcpSENtXPaWBHnr1twJ_4fyFcfjuWTTinfVwgL6-Ixzec7VYge9deHachrQdQ45RCBqVs9HidSXeAl2AxKjr9v05RE8ppRg8AfKzaQyVwyehB1vmfoHvapLKdFM8iHc",
+          "start": 533,
+          "end": 546,
+          "truncationText": "existentielle ... 182 10.",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        },
+        {
+          "batchId": 20,
+          "truncId": 27,
+          "machineCode": "【【27】】",
+          "chunkKey": "h1.TFbkum3FD6_7ksKpoyuuxyQ-2q_KPerN6A_kroCUet_ht2rKbcCWH3ABBU0kayqUsL1cDIl0fn8oiIwOzRYG87Mk_8mtMFp8QY_Xc6fLlzuqI6_MElk_e39n70R4koWRnlFighDX0sS6evp5kNk",
+          "start": 64,
+          "end": 77,
+          "truncationText": "d'une plus-value existentielle dont nous suivrons ultérieurement la",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        },
+        {
+          "batchId": 10,
+          "truncId": 2,
+          "machineCode": "【【2】】",
+          "chunkKey": "h1.xxBbOjUsYa1IakAZXzUk22_2EahD8N335Ol8i9ZUKlx0UAsrO96Ezq2TUsDNm8QCvFasA594ArQd45kmz9Ivep4lglYr91_BLKeSQdXmwwBcDu52aGtjTl_rdvSohc_QKZv8cWNDqJkOyBEqTZI",
+          "start": 365,
+          "end": 378,
+          "truncationText": "existentielle étielement imbrique à la",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        },
+        {
+          "batchId": 30,
+          "truncId": 6,
+          "machineCode": "【【6】】",
+          "chunkKey": "h1.YQTYHZJSLfuNYUdR0RANAlMlln1-9r2hHy2t8DeGN_LGAS-jZK5LGLbHqp0oa_8kRiT0OeDYyB8Oi0TfsNhWHZU9ooB70-Tr4Ha-0LkGkOaKC_XBPKdf29V292Uxt3eZ86CpIVWpqK9m80uFlTLVtw",
+          "start": 373,
+          "end": 386,
+          "truncationText": "existentielle de",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "noun": "existentiels",
+      "id": "existentiels",
+      "offsetCount": 10,
+      "offsetResults": [
+        {
+          "batchId": 47,
+          "truncId": 55,
+          "machineCode": "【【55】】",
+          "chunkKey": "h1.06-42uAicP3AtQZuFuBLpUUPeHMG-8icArQ3-o5TC58AYGOic9wqd9Pmfc_80f2_dGQMl3KdXaqwnf7uX6Nz7Q10fkT7hI31foyq9rnold-iVxb44lHHwRHP7nRwRqENCp-RVS-7wLxTenoDpljS",
+          "start": 721,
+          "end": 733,
+          "truncationText": "existentiels** ... 251 **",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        },
+        {
+          "batchId": 41,
+          "truncId": 238,
+          "machineCode": "【【238】】",
+          "chunkKey": "h1.0JY6yuguEcjQIxbMtchc9LADkoWAST97juKSbb9EuS_r7uqNl_U2BGjDUTHZzPmLo5qLB1Zq0z16W9j1K7d0uKrtnjZeh7-kGxnEXxNvpvE10imd-jiyoY8olB5jtdPxi8lcKsPNzqTMm4GSQXvb",
+          "start": 347,
+          "end": 359,
+          "truncationText": "existentiels aux autres",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        },
+        {
+          "batchId": 17,
+          "truncId": 216,
+          "machineCode": "【【216】】",
+          "chunkKey": "h1.8VfGa1P0CpPWENqgItMVyqKI4POjk9Ysvh91nq5oLISUTel6NcpcQCHUGo2AV5uBO415qtNZp3T_zdxFezu0vAjV5sN1uR3gcK4enuGJs8oUG8sS2gsfxchSEPO4QdYpfa-xKqbS_tuo3MPLudU",
+          "start": 152,
+          "end": 164,
+          "truncationText": "existentiels. Elles engagent des",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        },
+        {
+          "batchId": 35,
+          "truncId": 33,
+          "machineCode": "【【33】】",
+          "chunkKey": "h1.9rNdvDI3H4PR8Qh1CJ-sL5hmIhUYLSwSYEzxBKkcw40vd9nS_tr3mAqghasyA0fg19PkhKK3DBEmZ3vkIXWFfZ0tANWmHXVekenFIY6BDAmZdyuDbvishMwjE0wk-SbeRs89grrlkSJmRYMe8UO4",
+          "start": 847,
+          "end": 859,
+          "truncationText": "existentiels, pour devoir le",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        },
+        {
+          "batchId": 11,
+          "truncId": 89,
+          "machineCode": "【【89】】",
+          "chunkKey": "h1.jr3fRlc24vwHYHecHw40Wne_Fwdanu7ksZ-SYatlRDeZHKct_k_TRdIazntIKV6AxcKheZfGTcHQjKv461eaLtkzquTuESQE6NYnsD7EQSuPRyOhg9K19XEQvLU2o_stBZHcH15PPA0R5fWHa-I",
+          "start": 1574,
+          "end": 1586,
+          "truncationText": "et existentiels des trois",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        },
+        {
+          "batchId": 47,
+          "truncId": 84,
+          "machineCode": "【【84】】",
+          "chunkKey": "h1.MGGGTWTzjNMONmH23cDugrcpSENtXPaWBHnr1twJ_4fyFcfjuWTTinfVwgL6-Ixzec7VYge9deHachrQdQ45RCBqVs9HidSXeAl2AxKjr9v05RE8ppRg8AfKzaQyVwyehB1vmfoHvapLKdFM8iHc",
+          "start": 598,
+          "end": 610,
+          "truncationText": "diagrammatique et tenseurs existentiels ... 183 11. Les",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        },
+        {
+          "batchId": 14,
+          "truncId": 173,
+          "machineCode": "【【173】】",
+          "chunkKey": "h1.MvYVnmErQiSNJ2c4min5KKqVtahf7EDHDI8Emv1aNvwjgJymuGqs5_81mING5z_wENSxj_wQUxOoYlJivKgmaRtUBImdOrlRUoBHi3ojbNFWcfOMubnDgDHHw4aW1Qp6AZtafftY_C4yNK5i-_8",
+          "start": 133,
+          "end": 145,
+          "truncationText": "ou existentiels).",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        },
+        {
+          "batchId": 47,
+          "truncId": 99,
+          "machineCode": "【【99】】",
+          "chunkKey": "h1.NtkZzLTejZuJRj-tU_mkldknH05Q0HMlqeCXz4IuRLEDIKyd8KygBi7fFt3YnJwQP404CDAsQ9xPpZhR-kXd5oXAKvlzq6twBV042-h1QFapa0eexqBIVFaIx7qUdO-_CQH-oNhSfTHos10CQ-Re",
+          "start": 198,
+          "end": 210,
+          "truncationText": "existentiels** ... 251 1.",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        },
+        {
+          "batchId": 46,
+          "truncId": 110,
+          "machineCode": "【【110】】",
+          "chunkKey": "h1.ThkYUg4UQQtDT6lQFUc8BgBWA2bRZcdhBkHmL0afvZeGBtQtOAJAAxWAIzUXcs7qk4IC8E4IaOWiz5Iuj-qr3RPaVOugxJLRfdPDBMUmHiUpVhb0PnO2DrBqGexH6ICvzmOiYf0obKOVflOLqw_q",
+          "start": 222,
+          "end": 234,
+          "truncationText": "existentiels foncièrement metastable oscillant entre un",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        },
+        {
+          "batchId": 41,
+          "truncId": 204,
+          "machineCode": "【【204】】",
+          "chunkKey": "h1.Tiv4JQxalMZtM0Ri-QLEAfS0vV9T3NSt-hCd19rfdTq7cOWVqSskhtb0-ijMF3zaKQSUWcNEyD7eRgBv1jk_v8bdhH4-Sa4H_u-l8GA3csd2MzZ7nQgo7LJzDdN5A7FtDKeyvIgI9nTsmE25MXom",
+          "start": 73,
+          "end": 85,
+          "truncationText": "de lieux existentiels,",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "noun": "lui-même",
+      "id": "lui-même",
+      "offsetCount": 9,
+      "offsetResults": [
+        {
+          "batchId": 37,
+          "truncId": 60,
+          "machineCode": "【【60】】",
+          "chunkKey": "h1.3kILQfdWy53xkOAiI6wQ5dmhqNaXHmxQZ0umnxRHb1CV-vKOs130tSzFpprDqLPiaMqC1WO6kdK4avT_1nIK74RT8z2xdJszkrwwIacCqKuK4GEifYfyL08UxVLvop8vhVgWWlqtT926_aEsUpXN",
+          "start": 684,
+          "end": 692,
+          "truncationText": "qui a méné avec lui-même, tout au",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        },
+        {
+          "batchId": 37,
+          "truncId": 61,
+          "machineCode": "【【61】】",
+          "chunkKey": "h1.3kILQfdWy53xkOAiI6wQ5dmhqNaXHmxQZ0umnxRHb1CV-vKOs130tSzFpprDqLPiaMqC1WO6kdK4avT_1nIK74RT8z2xdJszkrwwIacCqKuK4GEifYfyL08UxVLvop8vhVgWWlqtT926_aEsUpXN",
+          "start": 766,
+          "end": 774,
+          "truncationText": ", qu'il pourrait bien, lui-même, tomber sous le",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        },
+        {
+          "batchId": 35,
+          "truncId": 43,
+          "machineCode": "【【43】】",
+          "chunkKey": "h1.dLXtO40E43dgzJXSm1waW6GvHq6V2f0_OUWm1WUHSr0nvSAJAh42Go0Dp863L1ASNsw36zCJjgH05WSFpNoXcUvplzyXAgj480mhP-hO7Bp-c89J5izSER8q-Mn7Ic5nnI11CGBOtiQmEPHNdnI3",
+          "start": 276,
+          "end": 284,
+          "truncationText": "la lui-même. C'est d'ailleurs essentiellement de cette",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        },
+        {
+          "batchId": 21,
+          "truncId": 20,
+          "machineCode": "【【20】】",
+          "chunkKey": "h1.KudFT44UZAryVeDcC0ONF0xwv3buxuia0h_TTG9TC7zIJcJGoQ37cQ54rqXpHjnIwLVQXi6QGtlcuALfdo2hWZFoWunveyEhN-boTwSc0vM-XLuHXjoJes-K6r8bP8jfxo0ZvGyY3WMtxbwoNW2X",
+          "start": 669,
+          "end": 677,
+          "truncationText": "brownienne se dissolvait avant même d'être constitue! A présent, il se souit lui-même, à",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        },
+        {
+          "batchId": 26,
+          "truncId": 34,
+          "machineCode": "【【34】】",
+          "chunkKey": "h1.NdDWDKDn00GjKuYUlsdFJ_9nJIXr8Mh1cxX01G8kUJNaTYvcVx9Y-V7v5_3c-8MlfuP45TdX5Z2Y-ppvX1oKyF_h28ZsHHde36z2LRt0O0uu4nucwkGEWFZd-AQh_W7TLvrOlpXMjwNnS4uWtyS1",
+          "start": 569,
+          "end": 577,
+          "truncationText": "vers une entier seur que, déjà, il se trouve menace que vienne s'interposer entre lui et les autres et même lui-même et lui-même un",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        },
+        {
+          "batchId": 26,
+          "truncId": 34,
+          "machineCode": "【【34】】",
+          "chunkKey": "h1.NdDWDKDn00GjKuYUlsdFJ_9nJIXr8Mh1cxX01G8kUJNaTYvcVx9Y-V7v5_3c-8MlfuP45TdX5Z2Y-ppvX1oKyF_h28ZsHHde36z2LRt0O0uu4nucwkGEWFZd-AQh_W7TLvrOlpXMjwNnS4uWtyS1",
+          "start": 581,
+          "end": 589,
+          "truncationText": "vers une entier seur que, déjà, il se trouve menace que vienne s'interposer entre lui et les autres et même lui-même et lui-même un",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        },
+        {
+          "batchId": 17,
+          "truncId": 72,
+          "machineCode": "【【72】】",
+          "chunkKey": "h1.nSfpfbagd12UhICvRnyXCrajzqtQxSr6h5juACjbt525NkewQDSaTqkrtBgbBdy23rM0N1wsA3eoiN4vBTp29UIDd-nu7w032g4ToKbqegwskw0QP3c4RCBEJqElEQ4XT3ROtYFjIfJfQMJh1Lk",
+          "start": 83,
+          "end": 91,
+          "truncationText": ", repli sur lui-même, n'sourant l'",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        },
+        {
+          "batchId": 45,
+          "truncId": 53,
+          "machineCode": "【【53】】",
+          "chunkKey": "h1.siETR-rkQ6F_B3zdbMsp1Dm1dCe8omSmvTlFQvAdaHeSFZYhx-4KP7Wi8XAFLprehYfEMJdgeTaTELD7EZUImT2dDaPNfwOxRYb-wqiOWLUgsuiiIveyvPNrdh0xjjggMZNnGa9PQ7dw_QESWxl7",
+          "start": 351,
+          "end": 359,
+          "truncationText": "effaré demeure réplié sur lui-même.",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        },
+        {
+          "batchId": 37,
+          "truncId": 200,
+          "machineCode": "【【200】】",
+          "chunkKey": "h1.zhA42cLwxE1f-rvA1avzYFYLj_lWbSiNvVx2JuackxSNJMQjd1cp7yx10cqJaNxXm9CmChIVvOGP2F4sG8zNK-1nOE_CeT1I2yTz6gr0LFOE68MQ8qYIEsEpbhyp4l4MRRsknX78efyAM5rx4w_1",
+          "start": 518,
+          "end": 526,
+          "truncationText": ", en essayant lui-même, à l'",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "noun": "abstraits",
+      "id": "abstraits",
+      "offsetCount": 8,
+      "offsetResults": [
+        {
+          "batchId": 12,
+          "truncId": 54,
+          "machineCode": "【【54】】",
+          "chunkKey": "h1.-lzR3ZLkrvBacfZKCnVrGhcfsEYPUAJg6WncS_AULk6lbIdWrh4yOs7NLiDy1C5dVLWhBXUVu_NuUOMMd_B0-dkqeQZ16EXkimvWcYyQqImkAdJAr2EkmLkyo-mSOijttLr5Q_9CbGCs3eaBxDw",
+          "start": 25,
+          "end": 34,
+          "truncationText": "machiniques abstraits (",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        },
+        {
+          "batchId": 20,
+          "truncId": 88,
+          "machineCode": "【【88】】",
+          "chunkKey": "h1.0qJ05RfMUZzO5EgLEYH60Ivm7s96IB0eXBxcoQ5VSaj78OS62ppQn9D7dbxucBDEcgf4QwjfrqoBaYkU-nuKb6FMcfRjgwt0LZPSLOGmPVWKbLGjxmO6pD3CH8c3G8zIVmwkWN2WiaBs98RrCyQ",
+          "start": 404,
+          "end": 413,
+          "truncationText": "abstraits habient partout et nulle",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        },
+        {
+          "batchId": 27,
+          "truncId": 74,
+          "machineCode": "【【74】】",
+          "chunkKey": "h1.g0X-ZEsGwqQPjFN2INU4QLqYaGfPalEZSkxBQRFM5rhpCS41XFRtLtkBXKTP4dKnpl9KqamiC0H4LHHv1yBbIWM5jReiXzU0OLWV15ifZKXnHNDd8-4_zEddsAklGumCbElJJEjyfaPbSiM0_Us",
+          "start": 33,
+          "end": 42,
+          "truncationText": "abstraits. Ce qui leur donne leur",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        },
+        {
+          "batchId": 11,
+          "truncId": 82,
+          "machineCode": "【【82】】",
+          "chunkKey": "h1.jr3fRlc24vwHYHecHw40Wne_Fwdanu7ksZ-SYatlRDeZHKct_k_TRdIazntIKV6AxcKheZfGTcHQjKv461eaLtkzquTuESQE6NYnsD7EQSuPRyOhg9K19XEQvLU2o_stBZHcH15PPA0R5fWHa-I",
+          "start": 1298,
+          "end": 1307,
+          "truncationText": "machiniques abstraits qui",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        },
+        {
+          "batchId": 26,
+          "truncId": 201,
+          "machineCode": "【【201】】",
+          "chunkKey": "h1.M6QehUd5P-eIDHTiZ2W1mz0X4CgLIhM_ULfaL8hiBNep1_z1so74NygvlLbOtz_jNVlWutC8WxWDmEtEx-zQ-pGp1JsJ1n-y5s8a2Q-4t-Qu_00ZjHyx9vFC5x8bjA6-mB9o09iucky2IsRgJEo",
+          "start": 2071,
+          "end": 2080,
+          "truncationText": "abstraits - qui établissent des",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        },
+        {
+          "batchId": 17,
+          "truncId": 12,
+          "machineCode": "【【12】】",
+          "chunkKey": "h1.Q_IVOeZpV0Y6-3P86D9pRnzbvwyC-mafIBTAChM1_Tv8NV3GwXTKIVC98RlcGFaRg2PZoZkG7YjRkWES_95dTVyPIp2KTXC6N6eCV4WM9hLIOZmyc6nZQP4vztKy0PlYxbho9aFWDl1qSBllNAA",
+          "start": 117,
+          "end": 126,
+          "truncationText": "abstraits.",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        },
+        {
+          "batchId": 36,
+          "truncId": 240,
+          "machineCode": "【【240】】",
+          "chunkKey": "h1.S2d8AuACK2uWibf-Xe8vg54Nv0W8nwKdyrCAReELJy5zN-wF7qx0XfIwLx2OdVHOkMOAT52Yv1sT-qLzikeWfApXVHCPHP0ExketUK7ai_gpb5oklU1SLOfYQeh6x_Qi8gxwCf475ChxaTfVIqBb",
+          "start": 654,
+          "end": 663,
+          "truncationText": "abstraits, gérés par un",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        },
+        {
+          "batchId": 20,
+          "truncId": 50,
+          "machineCode": "【【50】】",
+          "chunkKey": "h1.X89tM76WpkgavMtvABoIDtk7bfJQf5usBQ5nl7b03wrTxcrKu9KM8DQaZouG5rCU9dcgpNcmstxGaj2EHkA93vX1kt7fswu391SKo75xNF83XQVIJooNyk5hx2_intTncASKcjZhv3zMpzuTwzc",
+          "start": 163,
+          "end": 172,
+          "truncationText": "machiniques abstraits. La figure la",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "noun": "Cela",
+      "id": "cela",
+      "offsetCount": 8,
+      "offsetResults": [
+        {
+          "batchId": 23,
+          "truncId": 5,
+          "machineCode": "【【5】】",
+          "chunkKey": "h1.BebBte6uzTAHEXARwA3adhCUZGyx6oIxDkTD6YvNALd8dcXUJlLeS15p1dJqC0_vKCRYD1nl9398yoTKJLxrMEh7NqPgmfFb9nNPhdqaHMYWjdBWWN7qBFrHdBVwPwaW2I-OnjhRLBG8r-qDWtc",
+          "start": 570,
+          "end": 574,
+          "truncationText": "-là. Cela enthale l'",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        },
+        {
+          "batchId": 37,
+          "truncId": 255,
+          "machineCode": "【【255】】",
+          "chunkKey": "h1.By9mriu_y5fQXWJ8whuBzXquN8lCCARh03J4DfaC7hJfVgAkuzHoZqRGDHJtQ6lIZS5BGjb0RSYRsNkFCVSoch-8j2_fZePh63kDrVLxAmUtwLfvCnjE6-PpDUZcD5ZBPiel6remB9_ElBzuHGOe",
+          "start": 750,
+          "end": 754,
+          "truncationText": ", historien ou rien qui ressemble à cela, je n'aurai raconté ma",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        },
+        {
+          "batchId": 26,
+          "truncId": 124,
+          "machineCode": "【【124】】",
+          "chunkKey": "h1.jeHdDMbQBNCC9citCurgwweXEmB8aOKCqgZ3Xr9iqRH1UK0mQdf9jSX-QrOmoJdtsB_yGnxf-c6emEjDAeYBUycDVO5iiVyhai1vWfy5QhjJylCwLNaeDiHmPejJgnFHhb4exUWPG6h8UHLRkgU",
+          "start": 778,
+          "end": 782,
+          "truncationText": "! Cela étant, sur certaines d'entre elles, nous avons peut-être quel",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        },
+        {
+          "batchId": 26,
+          "truncId": 230,
+          "machineCode": "【【230】】",
+          "chunkKey": "h1.nbu0kUmQRwLB3vWLZuBR3LMO9OsMt2p6FDP-x82f_o7xXh75CS-LgUq4izd9MzsHims-lbufJ_DxlutBwrJI5eqbRm0H1HQKgbqxXbJz1C8xK5g0yxXLvBqIT1g__dYf6YlMgHlfs3yWQF0HZ8U",
+          "start": 312,
+          "end": 316,
+          "truncationText": "en cela qu'il différent des",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        },
+        {
+          "batchId": 37,
+          "truncId": 94,
+          "machineCode": "【【94】】",
+          "chunkKey": "h1.P84ABCn3NGL2gt2L6I_txUCsSiOqaLwoWEqH3f6zgTkiY5sDQ_ZNvLPKgxJG7glfI2QXTXFUZHq1TbgaM94VqdpXzgjS3rpQADnEowuVCl6XRh4ngZUHn7z7rI6xP1vvqjO4uAczGm9QPlUnziJm",
+          "start": 1400,
+          "end": 1404,
+          "truncationText": ", attendissant, se sécure conformiste! Tout cela est贝贝 bon, ma ce n'est évidemment pas dans cette",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        },
+        {
+          "batchId": 45,
+          "truncId": 1,
+          "machineCode": "【【1】】",
+          "chunkKey": "h1.sT1yseRqRg6-W5yOnEMyD07Uw5Uu0qsTBOLedOYgMtMYhzH0tDUGgWklBJsWtmPf84i49AL0m2Jdl9H9OGSKzp34uZEYtRSycz8stdTNxcvcMaRcsZ6fFFxgg75Gvic9dAJQHmPt75BF8dey_VnH",
+          "start": 697,
+          "end": 701,
+          "truncationText": "que tout cela marche ensemble, sans",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        },
+        {
+          "batchId": 21,
+          "truncId": 5,
+          "machineCode": "【【5】】",
+          "chunkKey": "h1.UoALPfZN8njYp8JTd8pYmbN2Y0uuif7oSUS76QxwInAvvnnK-5b26J_PEJRun7KjhzqA7ef1AnqPdhKBwA5KgMJaESUhyyo9O4meqajUFe2Lr7GhQzel-YAcMAhHdjKtIof7zOvp6yQDMWCi9an4",
+          "start": 210,
+          "end": 214,
+          "truncationText": "de cela, elle demeure incapable de discerner des",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        },
+        {
+          "batchId": 37,
+          "truncId": 167,
+          "machineCode": "【【167】】",
+          "chunkKey": "h1.XUYkmrGN8YoozfcV78VMq6yQ8PwHjBV9jxiopGN4JGXlzKODtP1UrDYuwTJ7EQ9EFR6mh_myzjYH3cSezQ1TXRmOKJWrYWlP6QafA6lI0LrQVFWLvBaXHgNlpaRwTSLSkbvRCFafB063ApbMqcwn",
+          "start": 832,
+          "end": 836,
+          "truncationText": ". Mais cela ne devait pasant a l' empécher de s' engager de la",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "noun": "pouvoir",
+      "id": "pouvoir",
+      "offsetCount": 8,
+      "offsetResults": [
+        {
+          "batchId": 1,
+          "truncId": 102,
+          "machineCode": "【【102】】",
+          "chunkKey": "h1.8BqfuM2dVJLiposKkE8fc3ay0pV_WWJECZce4wLv-B32-QB42OMWTQh_KCLCYDymaqaNlq3JFnq0SSSv23H3btqMbzwgHMp3QmV-vtwDzC1OW4i8PHSxVsN0e_ip9ICjIqulS-4MF3BhqXk2dQ",
+          "start": 16,
+          "end": 23,
+          "truncationText": "de *pouvoir*, circonscrivant et circonvenant, de l'",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        },
+        {
+          "batchId": 3,
+          "truncId": 129,
+          "machineCode": "【【129】】",
+          "chunkKey": "h1.8KhozNQi1SLT0iPH8eqo7TtrHXa7LWZNCJw4k_bbwrvWyRpUHFPY8INJc7JAyeQ6Ul8De3J7ZG9o3S_N0knEYujZ9PAJNG33F_g_6wu1EM9z5dLd_GvhAtsihvhopAeum1p2hcnvn2whSWOAbw",
+          "start": 851,
+          "end": 858,
+          "truncationText": "de pouvoir, d'en revenir aux",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        },
+        {
+          "batchId": 26,
+          "truncId": 150,
+          "machineCode": "【【150】】",
+          "chunkKey": "h1.MquCpwFD_qWjKz_4IoA--keMuvd9ADdt6xETRgAYhisqs67C23tsphXmyQbsGwRxZ84hlZcAaFpFsEyI4vTXH_PE4tfX9mYd3yYaf9S1AsyJX3BXYAZW9QwyiiiLffApMGxUEoSa3bCTkSzRKP8",
+          "start": 424,
+          "end": 431,
+          "truncationText": "de pouvoir rencontrer les",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        },
+        {
+          "batchId": 8,
+          "truncId": 74,
+          "machineCode": "【【74】】",
+          "chunkKey": "h1.rTWCpVGxU8jSpf5DSjR6VBvBx0vN-9mKOH20y3JMIPJyZ0Qa8p7z58Lb7HGg52fMTyDvyqjTOtCxcSDPV9hqKZGmaXpINdYhwH5VlA7jhQpA2juEnukE_fh-F1iNduMZ1sAD522I2IdsjakVPTs",
+          "start": 724,
+          "end": 731,
+          "truncationText": "individues, de schemes de pouvoir et de",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        },
+        {
+          "batchId": 3,
+          "truncId": 35,
+          "machineCode": "【【35】】",
+          "chunkKey": "h1.uhG1WcUYXjTBvOvw-SZOuunjw0vSfRV-JemTU1B25jyhLxtsHlNJkpbm0TT3AFlN9YmfRdxj0hN2jzt75KYPb0llScEKM7G_hFV6XZIXB1S55-S-9_e6fkCGNTrjab6TW1aQiz2XNov-W_Y8Kk0",
+          "start": 477,
+          "end": 484,
+          "truncationText": "de pouvoir les plus",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        },
+        {
+          "batchId": 3,
+          "truncId": 41,
+          "machineCode": "【【41】】",
+          "chunkKey": "h1.uhG1WcUYXjTBvOvw-SZOuunjw0vSfRV-JemTU1B25jyhLxtsHlNJkpbm0TT3AFlN9YmfRdxj0hN2jzt75KYPb0llScEKM7G_hFV6XZIXB1S55-S-9_e6fkCGNTrjab6TW1aQiz2XNov-W_Y8Kk0",
+          "start": 709,
+          "end": 716,
+          "truncationText": "de pouvoir spécifiquement",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        },
+        {
+          "batchId": 46,
+          "truncId": 60,
+          "machineCode": "【【60】】",
+          "chunkKey": "h1.waEcU5d7ZRi2DIHT65i1r1-8yxMyrH0dET0d1frpRyHz7esT-R1Mxbt4c5fwdVWeMeCgShpqKonn5GJDJeqhvZaYTpYR2uCdo-aOkasia9TWyPP07m-Yci8XF2e2FTGnZpVxXmubHqct-Rclxvyo",
+          "start": 68,
+          "end": 75,
+          "truncationText": "un tel pouvoir de ne entrainer loin des",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        },
+        {
+          "batchId": 3,
+          "truncId": 224,
+          "machineCode": "【【224】】",
+          "chunkKey": "h1.wgFsEr80O0jTQmtD_xkjgAhA1oD8xlGlxUMcM3gXFFKvuBNOITUudYFnWtPvH8RtMd2j8kzmzpUZlY_mOuyg1NRhQBEEmqGB07qMFwkrV3_Muq1dlR0XrvbKDPzbXmEpkiIWIrRfWtg6O0vbAA",
+          "start": 2221,
+          "end": 2228,
+          "truncationText": "de pouvoir, d'",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        }
+      ]
+    },
+    {
+      "index": 10,
+      "noun": "rien",
+      "id": "rien",
+      "offsetCount": 8,
+      "offsetResults": [
+        {
+          "batchId": 30,
+          "truncId": 44,
+          "machineCode": "【【44】】",
+          "chunkKey": "h1.b9ngdoa8lTurF_eZ7qrGpKAZmnuHrFXY-B70U-oBFhjqQcBPS400Zh67p4gjYfuJJ45IdvdF1TPXdJPXuUlMrTPbZtKAJPHm-iEd6WVJlTD7ARsipXtozjFwmB7ObWC39A5POVVrFtDZkQ8N7AcI",
+          "start": 545,
+          "end": 549,
+          "truncationText": "n'est rien d'autre que cette",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        },
+        {
+          "batchId": 37,
+          "truncId": 255,
+          "machineCode": "【【255】】",
+          "chunkKey": "h1.By9mriu_y5fQXWJ8whuBzXquN8lCCARh03J4DfaC7hJfVgAkuzHoZqRGDHJtQ6lIZS5BGjb0RSYRsNkFCVSoch-8j2_fZePh63kDrVLxAmUtwLfvCnjE6-PpDUZcD5ZBPiel6remB9_ElBzuHGOe",
+          "start": 721,
+          "end": 725,
+          "truncationText": ", historien ou rien qui ressemble à cela, je n'aurai raconté ma",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        },
+        {
+          "batchId": 37,
+          "truncId": 255,
+          "machineCode": "【【255】】",
+          "chunkKey": "h1.By9mriu_y5fQXWJ8whuBzXquN8lCCARh03J4DfaC7hJfVgAkuzHoZqRGDHJtQ6lIZS5BGjb0RSYRsNkFCVSoch-8j2_fZePh63kDrVLxAmUtwLfvCnjE6-PpDUZcD5ZBPiel6remB9_ElBzuHGOe",
+          "start": 729,
+          "end": 733,
+          "truncationText": ", historien ou rien qui ressemble à cela, je n'aurai raconté ma",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        },
+        {
+          "batchId": 30,
+          "truncId": 69,
+          "machineCode": "【【69】】",
+          "chunkKey": "h1.eyMMDu9BR_7uwp8Jm_cMzU3VIGUwvmEPcFqQBAXBM8r1RWtbArl3Yu3s0lTiVz32h0TFs8qVufccBaDD7bhax-y2Z4qMTUsyqd2o2TKi8X6lt6ypQpsDEDx4yQGc2tllY2j0CDbHlyJkL-3reUUB",
+          "start": 18,
+          "end": 22,
+          "truncationText": "1) qu'elles n'ont rien à faire les",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        },
+        {
+          "batchId": 21,
+          "truncId": 12,
+          "machineCode": "【【12】】",
+          "chunkKey": "h1.KudFT44UZAryVeDcC0ONF0xwv3buxuia0h_TTG9TC7zIJcJGoQ37cQ54rqXpHjnIwLVQXi6QGtlcuALfdo2hWZFoWunveyEhN-boTwSc0vM-XLuHXjoJes-K6r8bP8jfxo0ZvGyY3WMtxbwoNW2X",
+          "start": 213,
+          "end": 217,
+          "truncationText": ", s rien retener d'elles. La",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        },
+        {
+          "batchId": 37,
+          "truncId": 85,
+          "machineCode": "【【85】】",
+          "chunkKey": "h1.P84ABCn3NGL2gt2L6I_txUCsSiOqaLwoWEqH3f6zgTkiY5sDQ_ZNvLPKgxJG7glfI2QXTXFUZHq1TbgaM94VqdpXzgjS3rpQADnEowuVCl6XRh4ngZUHn7z7rI6xP1vvqjO4uAczGm9QPlUnziJm",
+          "start": 961,
+          "end": 965,
+          "truncationText": "errant, qui ne possède rien, sauf quelques",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        },
+        {
+          "batchId": 17,
+          "truncId": 47,
+          "machineCode": "【【47】】",
+          "chunkKey": "h1.rZ1YF11lCDzJDdxH35UPES4ykmDCMA9cbZaEhoL12c4h3OtJLp_ZgtP5YC2bFOemEJEOs9ohQPCytNgAK6LA_yRki8VeEBI6oNzRyyYjJA_0chVx5MiDNDjhcql515de_baKR_ZQep9gyRIoSHo",
+          "start": 237,
+          "end": 241,
+          "truncationText": "attestable. Mais si rien, ni",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        },
+        {
+          "batchId": 30,
+          "truncId": 118,
+          "machineCode": "【【118】】",
+          "chunkKey": "h1.svZUIohfsZfEGi5Hww-T29lniBpcfPY_uoQwGSb4Lw7r1664l55i2JSq8ROGFppjCn-_G_4FDYQ941iYAbqMfHnsT7GGw5VZlrbp44ApEcBFK-Yo5rTltIIqUlxxKnkuS5-G7hnPWPNHUyGOTPaG",
+          "start": 91,
+          "end": 95,
+          "truncationText": "à tout et rien en",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        }
+      ]
+    },
+    {
+      "index": 11,
+      "noun": "sociales",
+      "id": "sociales",
+      "offsetCount": 8,
+      "offsetResults": [
+        {
+          "batchId": 36,
+          "truncId": 181,
+          "machineCode": "【【181】】",
+          "chunkKey": "h1.GhGfBpguYOKrfBk2sVJ48Amz8h9GzvrQNdw-pxa0lWqSRHZFT6tSkQl1DClQcEvzAT5aJlxpHoeYySovTYr5WT560_A6RDTfPoWpx0LAonNFdwMcWGGiBCqV3XIE74dZE9v4NUT289ZS0rF0l13F",
+          "start": 397,
+          "end": 405,
+          "truncationText": "-sociales sont susceptibles de leur",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        },
+        {
+          "batchId": 10,
+          "truncId": 94,
+          "machineCode": "【【94】】",
+          "chunkKey": "h1.GperEHPQ3CyT09_Ysuzstq4bQS0TFmOZkqfRLhJQRneo9Y8u77SFIpSB1Iew4IvYWua9CAqaFb4UKfufc9U9SzoJeEg2VWUStV-cbZOna8pgzzLXafgg2tyMpbbDB8A0CqzqAeeU_Qt6opZ3lbQ",
+          "start": 70,
+          "end": 78,
+          "truncationText": "sociales ou mentales. On sait pouant勒 fronteur les",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        },
+        {
+          "batchId": 10,
+          "truncId": 105,
+          "machineCode": "【【105】】",
+          "chunkKey": "h1.GperEHPQ3CyT09_Ysuzstq4bQS0TFmOZkqfRLhJQRneo9Y8u77SFIpSB1Iew4IvYWua9CAqaFb4UKfufc9U9SzoJeEg2VWUStV-cbZOna8pgzzLXafgg2tyMpbbDB8A0CqzqAeeU_Qt6opZ3lbQ",
+          "start": 621,
+          "end": 629,
+          "truncationText": "sociales, à",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        },
+        {
+          "batchId": 8,
+          "truncId": 219,
+          "machineCode": "【【219】】",
+          "chunkKey": "h1.lHbsi4rEPARv2d3LiGZAec9XwQA06toq2Iz2lucqO4Kc2i5CaRJkv8RZKRDO0IgGujZ77CCitJD-SKM2etjDmyuUsnQR3lm-Zbf6vLMeXvZuNGPVtGSNll5two3wUkevZPQ9egQchp7KMuidqZM",
+          "start": 196,
+          "end": 204,
+          "truncationText": "artistiques et sociales ne sauraient plus déboucher que sur un",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        },
+        {
+          "batchId": 10,
+          "truncId": 73,
+          "machineCode": "【【73】】",
+          "chunkKey": "h1.pbsmtcp0z1jAzLITBzcta_IgTgXzxlfqJB-0KmO109e8oyj2zb_ShPSdzwETcpItnFmkKX3Ot79zg-rSUhq1qr3Zt47y9f-1DyXLTVFdKTBgnRCGzhGOWqWHoNnlJ-KLW4AKSfyN15bLKxXRA6c",
+          "start": 228,
+          "end": 236,
+          "truncationText": "sociales. J'évoquerai également le",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        },
+        {
+          "batchId": 2,
+          "truncId": 38,
+          "machineCode": "【【38】】",
+          "chunkKey": "h1.Rfo-y_j4FyvIywq9OPW8T7stwbfIzmI8OFr39rxAgRNz3-QDGmxaegbVQCp28nUpciZZJPO5ddzi0mDdc5M9fahr8a04tWj2XZSSs8t8-RtkrQKzT4wwvAaYoER6x_FZ8DaOVPlmby9Jd8uAcQ",
+          "start": 794,
+          "end": 802,
+          "truncationText": "individuelles et sociales d'",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        },
+        {
+          "batchId": 41,
+          "truncId": 167,
+          "machineCode": "【【167】】",
+          "chunkKey": "h1.subp-UyGzRCtY0slSvWqixh8n0daywBkms_gY7WT6RFTFIyG34abuwdLp_9iRNQC6kT0rM0il9A1YuLKpiSSnTNowknUJAXUVnJf0zQXkzIiGJut7QNtULIyn4JT6gcpB2fcxdJI8aWxtOsLhnkx",
+          "start": 22,
+          "end": 30,
+          "truncationText": "sociales selon les",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        },
+        {
+          "batchId": 3,
+          "truncId": 86,
+          "machineCode": "【【86】】",
+          "chunkKey": "h1.yJpTNdYZOwDTZVpI29NHcljnHxfFzXbl8_gJhKzrtDUdYFkD-eJ_SEo9TY6zG1Fqnz4g7fg7OHmrPevyNVSo2CMPnAZkTuJjpUmaY4cf-D5_0VOzbTB8bt51x4LjN3iKJbaH3jl847VtHn5P2g",
+          "start": 1055,
+          "end": 1063,
+          "truncationText": "sociales que elle est moins capable de fonder ses",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        }
+      ]
+    },
+    {
+      "index": 12,
+      "noun": "elle-même",
+      "id": "elle-même",
+      "offsetCount": 7,
+      "offsetResults": [
+        {
+          "batchId": 37,
+          "truncId": 137,
+          "machineCode": "【【137】】",
+          "chunkKey": "h1.8HvaXy6siDqtnTxWBr_kUAUUZ_G3Ji6VV7M9Q5Yp2R5HMJv3eeII50UCrSq3h4o6WX9CWwMcpe0oHvQeLNLt9_4yGnK8w_2sVMf65CPa2p6Zb9Fva3rrUiXzwabTU3Ybo2BjkTiND8SwxvMVCUpn",
+          "start": 1034,
+          "end": 1043,
+          "truncationText": "elle-même qui, par ses",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        },
+        {
+          "batchId": 26,
+          "truncId": 254,
+          "machineCode": "【【254】】",
+          "chunkKey": "h1.BE9mbM5eojI9pJoKDQ8htHb78UFhDnMmp4ywtJxHtg9hH4AaLa9HeoGwPA0tQhBuFSFeoGwwX548tL9FQC6XEPGmSgKcpM1XmpnYKfnkJcuYodPZ9PPbtBKIx0etsxhgXsZ56Ev6iJQkboltcwg",
+          "start": 408,
+          "end": 417,
+          "truncationText": "doit bien avoir elle-même une",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        },
+        {
+          "batchId": 12,
+          "truncId": 4,
+          "machineCode": "【【4】】",
+          "chunkKey": "h1.BrRDwIjAJNss6lxF4CxEqz6reAhNGGTy2UOkFplmODausfJZ0hZ9S8nECSlGGyLyyryIoU3A4QUE47eqQztNgmBXIZcp_UybDi_9HUtYlLdtYN9knTJKtAX2STXwh0ZUmypizHjiXUf6BJzqSiE",
+          "start": 944,
+          "end": 953,
+          "truncationText": "! Le se suffit à elle-même. La",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        },
+        {
+          "batchId": 26,
+          "truncId": 152,
+          "machineCode": "【【152】】",
+          "chunkKey": "h1.MquCpwFD_qWjKz_4IoA--keMuvd9ADdt6xETRgAYhisqs67C23tsphXmyQbsGwRxZ84hlZcAaFpFsEyI4vTXH_PE4tfX9mYd3yYaf9S1AsyJX3BXYAZW9QwyiiiLffApMGxUEoSa3bCTkSzRKP8",
+          "start": 510,
+          "end": 519,
+          "truncationText": "sortir d'elle-même.",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        },
+        {
+          "batchId": 30,
+          "truncId": 127,
+          "machineCode": "【【127】】",
+          "chunkKey": "h1.svZUIohfsZfEGi5Hww-T29lniBpcfPY_uoQwGSb4Lw7r1664l55i2JSq8ROGFppjCn-_G_4FDYQ941iYAbqMfHnsT7GGw5VZlrbp44ApEcBFK-Yo5rTltIIqUlxxKnkuS5-G7hnPWPNHUyGOTPaG",
+          "start": 462,
+          "end": 471,
+          "truncationText": "dispositionnelle ne s'était sur elle-même, c'est-à-dire sur rien de",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        },
+        {
+          "batchId": 10,
+          "truncId": 35,
+          "machineCode": "【【35】】",
+          "chunkKey": "h1.wDS5pRMFkDdvPVDOVBASzvMI8MnnD1alhf56Yz-4m9zY8YeZITGIapmGTApalUsS2gNZVhKsBuMeBbFP-NEVtCumFbZGgiRWKBx3vy0uFyJPHRpx-0Nar31-xz6zOVSHCGHzUIOf8LRqGQs9G9s",
+          "start": 97,
+          "end": 106,
+          "truncationText": "sur elle-même; elle est prise dans une",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        },
+        {
+          "batchId": 46,
+          "truncId": 48,
+          "machineCode": "【【48】】",
+          "chunkKey": "h1.Y7kkPzTk0UBw1e5ukEA-Zh3rK9JoSc866TpfWNY2_SiQhgdSDe9unY044PmhesSPxjXc6uLqR3jQoYycbDf6hWAf9bA8hD1mwV4VxxHevDMiXCz349jAU2BqzUVBDhdvVlzk-jbqLxaGHxel9L3d",
+          "start": 613,
+          "end": 622,
+          "truncationText": "elle-même,",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        }
+      ]
+    },
+    {
+      "index": 13,
+      "noun": "l'autre",
+      "id": "l'autre",
+      "offsetCount": 7,
+      "offsetResults": [
+        {
+          "batchId": 12,
+          "truncId": 6,
+          "machineCode": "【【6】】",
+          "chunkKey": "h1.BrRDwIjAJNss6lxF4CxEqz6reAhNGGTy2UOkFplmODausfJZ0hZ9S8nECSlGGyLyyryIoU3A4QUE47eqQztNgmBXIZcp_UybDi_9HUtYlLdtYN9knTJKtAX2STXwh0ZUmypizHjiXUf6BJzqSiE",
+          "start": 1090,
+          "end": 1097,
+          "truncationText": "ni de l'une ni de l'autre soit affectée. La",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        },
+        {
+          "batchId": 25,
+          "truncId": 24,
+          "machineCode": "【【24】】",
+          "chunkKey": "h1.f7iPJa1_Ho9ELtjK3phZbmhrgs8vdUcFY377WCvSUr5xMhdfnYWQeymIJBqwidKmJ4fko6BjJokUOdgBb1mAYhHHAVkIGgEaTkRRPmalQ027TlBHPob7-Y_oNYVQlzsdMZpXFDmJpDNAdfhbb-M",
+          "start": 2,
+          "end": 9,
+          "truncationText": "- l'autre, de foyer processuel, de",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        },
+        {
+          "batchId": 12,
+          "truncId": 135,
+          "machineCode": "【【135】】",
+          "chunkKey": "h1.fwqF_PZ0aS7VNneGfXkSB3YafP8sKUZQZRWC8hcEi_MNUkYNUI7ZJ-HskX2li_MAzpirFXZNnTbSWPeLQ0QsMIYZnBbcNYTEfy-9W1A4i8qszgOZI89wd87tumfhlRuWgxmXqe2dL-W_F_7YcVU",
+          "start": 55,
+          "end": 62,
+          "truncationText": ", mais ni l'un ni l'autre ne doivent être considérés comme",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        },
+        {
+          "batchId": 10,
+          "truncId": 232,
+          "machineCode": "【【232】】",
+          "chunkKey": "h1.iskdlX1uetizY_dkGhbDxp0YIC3pYLbaFIeTwuRJ7iISPe-qjeH11F6KNAdHIUKMOSoQGjMu4XKWFcULhziulPmMkRDga3h8qqDgKCzVUkd4InPrU17QSG8a1ThHLR7hCciWwoyMfP4c3Q2h9Tw",
+          "start": 3,
+          "end": 10,
+          "truncationText": "2/ l'autre,",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        },
+        {
+          "batchId": 25,
+          "truncId": 224,
+          "machineCode": "【【224】】",
+          "chunkKey": "h1.KQp6fyB9V6DeZ7WkzqouKPAKdSynLdzsWjmC_GbXu6gLHPa_KgLalD8Ic1YbyJBkuRNIXYg9pOsoHJTLk6kG7pWOI2OgaN2Ha1egKXMV0SeGSoE4AiKdROspJikN5tc6zQUYw5Fc2tI626RoZYE",
+          "start": 211,
+          "end": 218,
+          "truncationText": "l'un à l'autre à une",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        },
+        {
+          "batchId": 45,
+          "truncId": 2,
+          "machineCode": "【【2】】",
+          "chunkKey": "h1.sT1yseRqRg6-W5yOnEMyD07Uw5Uu0qsTBOLedOYgMtMYhzH0tDUGgWklBJsWtmPf84i49AL0m2Jdl9H9OGSKzp34uZEYtRSycz8stdTNxcvcMaRcsZ6fFFxgg75Gvic9dAJQHmPt75BF8dey_VnH",
+          "start": 762,
+          "end": 769,
+          "truncationText": "sur l'autre. D'",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        },
+        {
+          "batchId": 25,
+          "truncId": 218,
+          "machineCode": "【【218】】",
+          "chunkKey": "h1.UWQw6hOA5QQlFdtr6pHMJx_FkCLiEl3jXc2ENT9T9lBMSmOLvoS4XcLjkH3FWzUl7ugfGKkDEdxJT6sh6BMg3wwcwgpLtbfUc35H3VvNNUUqfZL558H74S7q5dG-ZnIhGHOfqVanBcwRabHaIf8",
+          "start": 194,
+          "end": 201,
+          "truncationText": ", l'une et l'autre sont « appelées » à se retrouver au",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        }
+      ]
+    },
+    {
+      "index": 14,
+      "noun": "sensibles",
+      "id": "sensibles",
+      "offsetCount": 7,
+      "offsetResults": [
+        {
+          "batchId": 20,
+          "truncId": 193,
+          "machineCode": "【【193】】",
+          "chunkKey": "h1.3rlULjaAvnfzZxdb72eRdMXM5akfhH5eYHB3W30qeyTINv5fQBYaSzv6GgqfDDZc1-oYT_pF_NhoaxawYTxRfzpHjdqdYVEgTZ82cRhYVRewQv33qbZFoZ4AitGL_Y8L9HSCEL7-I39xb2inxR0",
+          "start": 356,
+          "end": 365,
+          "truncationText": "(sensibles aussi bien que sensibles non sensibles) et de",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        },
+        {
+          "batchId": 20,
+          "truncId": 193,
+          "machineCode": "【【193】】",
+          "chunkKey": "h1.3rlULjaAvnfzZxdb72eRdMXM5akfhH5eYHB3W30qeyTINv5fQBYaSzv6GgqfDDZc1-oYT_pF_NhoaxawYTxRfzpHjdqdYVEgTZ82cRhYVRewQv33qbZFoZ4AitGL_Y8L9HSCEL7-I39xb2inxR0",
+          "start": 381,
+          "end": 390,
+          "truncationText": "(sensibles aussi bien que sensibles non sensibles) et de",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        },
+        {
+          "batchId": 20,
+          "truncId": 193,
+          "machineCode": "【【193】】",
+          "chunkKey": "h1.3rlULjaAvnfzZxdb72eRdMXM5akfhH5eYHB3W30qeyTINv5fQBYaSzv6GgqfDDZc1-oYT_pF_NhoaxawYTxRfzpHjdqdYVEgTZ82cRhYVRewQv33qbZFoZ4AitGL_Y8L9HSCEL7-I39xb2inxR0",
+          "start": 395,
+          "end": 404,
+          "truncationText": "(sensibles aussi bien que sensibles non sensibles) et de",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        },
+        {
+          "batchId": 14,
+          "truncId": 243,
+          "machineCode": "【【243】】",
+          "chunkKey": "h1.C0VcsUdzuVy6i-dqH7MeILrTBuf7nXNvPdp6fyVvsZCjW4wxQ6WrMcPiyrNTB_0_Jh2tkkPUni08s1Mq_jG-qOelIr4ChssUWUWdZtUYTclH6qQN1MpjgVcVKUEgBorucJvPpQ7_k7i33VZOIQ8y",
+          "start": 228,
+          "end": 237,
+          "truncationText": "sensibles (",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        },
+        {
+          "batchId": 42,
+          "truncId": 84,
+          "machineCode": "【【84】】",
+          "chunkKey": "h1.US0mmYJyMY1MPU6wF0-Rl-aX6Brxz4Gn2OSZjERL0-XSu-LgoNiBZvvc3wSGV61zw0_R6FXFIqB_jPJbenWryUk7qA_r-1alK07wQDH-7sNFgdZts_Q0mXMT--5UX9pJz-9G0JsaJXzOOkWElT2O",
+          "start": 54,
+          "end": 63,
+          "truncationText": "sensibles, marquent les",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        },
+        {
+          "batchId": 24,
+          "truncId": 117,
+          "machineCode": "【【117】】",
+          "chunkKey": "h1.XH1EfA2Ia96zt43skqF5LAqkjQDphKgPmk0s4mfN72mHgaxHqHuCctRTVpN9x1fDCtifVYyNm-iSArvqdcFk2PnJUxLbn7LKlAsnyFu963SyvEnbOh3S138oIuE8azDANxKqgUL1R8N0TuGAKPI",
+          "start": 459,
+          "end": 468,
+          "truncationText": "sensibles modulaires Ts se trouvent reconvertis en une nouvelle",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        },
+        {
+          "batchId": 24,
+          "truncId": 90,
+          "machineCode": "【【90】】",
+          "chunkKey": "h1.YgmcFjdw15VgugxL53__IOEsvsOe9QwKAgyUdvjSAdWLxp_LJRrP2f1sZ32W2Y0LhcI1cb8WG1jWLblTyvNtG_Sq5Hvg7GTREq0qsQvCPiGYHA6oeOx1REjZrB1qyHDxTDLjj_7mSW2UFzfvITY",
+          "start": 1250,
+          "end": 1259,
+          "truncationText": "sensibles terri-",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        }
+      ]
+    },
+    {
+      "index": 15,
+      "noun": "autre",
+      "id": "autre",
+      "offsetCount": 6,
+      "offsetResults": [
+        {
+          "batchId": 34,
+          "truncId": 198,
+          "machineCode": "【【198】】",
+          "chunkKey": "h1.-RR0nVeIRF0SIpJpFHiYYJCgTqLLg6jXJOCehCYSPeNeil7KyD4AwOT16unxAo783Xr5G0i8K-moaP8AgdDiYDFGk25hveouOxD90IjVXndecphdv09bjMlrJli3paAjKjw93Od9zLYz9SBKlveh",
+          "start": 740,
+          "end": 745,
+          "truncationText": "pour un autre signifiant –",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        },
+        {
+          "batchId": 46,
+          "truncId": 124,
+          "machineCode": "【【124】】",
+          "chunkKey": "h1.0vBv66gWA-dKRA0M_8vEWN0WO8jUnhE-lEUpXNru3Sw6Tbva8Vlja0K-o3fO7ANqyWVhGW5I91zo6Z4JN4Cv5bzKOV2zc6TVKcRSr0qnhF7xIa0ToEayf4J_43GogI6p05Vc3ySa4xQDdY4h7yKu",
+          "start": 267,
+          "end": 272,
+          "truncationText": "à une autre? Avec",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        },
+        {
+          "batchId": 46,
+          "truncId": 131,
+          "machineCode": "【【131】】",
+          "chunkKey": "h1.0vBv66gWA-dKRA0M_8vEWN0WO8jUnhE-lEUpXNru3Sw6Tbva8Vlja0K-o3fO7ANqyWVhGW5I91zo6Z4JN4Cv5bzKOV2zc6TVKcRSr0qnhF7xIa0ToEayf4J_43GogI6p05Vc3ySa4xQDdY4h7yKu",
+          "start": 586,
+          "end": 591,
+          "truncationText": "spatiale à une autre, mais également à",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        },
+        {
+          "batchId": 40,
+          "truncId": 30,
+          "machineCode": "【【30】】",
+          "chunkKey": "h1.am0tWSqvSjQJBSxWwE_ZVMBSHPnOaRtLsMMzGCurP_G554DuzgwETB9S-NhQPaXHZrkx6jWnUZt3SOMcCvd_hKdmWBl9hA2gr-72yVp-Otcm2fVgdNxFP-RIxZYF_zVqPnxA8uHQZX34CMVV2UaX",
+          "start": 850,
+          "end": 855,
+          "truncationText": "un autre que littérairement arrimé au",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        },
+        {
+          "batchId": 47,
+          "truncId": 13,
+          "machineCode": "【【13】】",
+          "chunkKey": "h1.R_CtagucE6AD_PEy7I3T7dStio-wbRiK9wGBe7g4ktUTJSTZ1mbAPz2IqHWq_3RlIY9zwEHwmEeKxErnQ2z-u2IaiueCcyKEVziIW_Pz3xiLVi90B-1NjVFQ5Y59hiNXjNACX9DkME5AlBEZ3N8b",
+          "start": 748,
+          "end": 753,
+          "truncationText": "qui d'une autre, à rendre",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        },
+        {
+          "batchId": 46,
+          "truncId": 75,
+          "machineCode": "【【75】】",
+          "chunkKey": "h1.waEcU5d7ZRi2DIHT65i1r1-8yxMyrH0dET0d1frpRyHz7esT-R1Mxbt4c5fwdVWeMeCgShpqKonn5GJDJeqhvZaYTpYR2uCdo-aOkasia9TWyPP07m-Yci8XF2e2FTGnZpVxXmubHqct-Rclxvyo",
+          "start": 795,
+          "end": 800,
+          "truncationText": "une autre, celle-là franchement invisible, s'opérant au",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        }
+      ]
+    },
+    {
+      "index": 16,
+      "noun": "discursive",
+      "id": "discursive",
+      "offsetCount": 6,
+      "offsetResults": [
+        {
+          "batchId": 41,
+          "truncId": 32,
+          "machineCode": "【【32】】",
+          "chunkKey": "h1.1JQ99EmjW_is5pskfsw8EpOaAkmonc8lsxYvrk7QGCI9UrBjt98Fxyw9cpP4Pe_eSpuT5h4vJlyJE4m31v6KZ3lyX1SFjZ6LL7p07182yF9ikFytM-uQJhqxM8FiEpyebJ-5MDG6Yn0rf0gMFOm5",
+          "start": 121,
+          "end": 131,
+          "truncationText": "discursive;",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        },
+        {
+          "batchId": 12,
+          "truncId": 114,
+          "machineCode": "【【114】】",
+          "chunkKey": "h1.32PEUnyrTMMxQ3vv35kKjXYggroUJ7MHeRKuvLHACopG3sW3GNjpPDVz8LyPZxaKHfzKC-lDYohtFDfZEoQEUQQ_7dpHtVswbWIwA-xWd58SBj5Uu13RT5jLzRwf0bJuC3-jA6sGZMmvPkOZq70",
+          "start": 236,
+          "end": 246,
+          "truncationText": "discursive minimale : * il y a / il n'y a pas * . Les",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        },
+        {
+          "batchId": 30,
+          "truncId": 38,
+          "machineCode": "【【38】】",
+          "chunkKey": "h1.b9ngdoa8lTurF_eZ7qrGpKAZmnuHrFXY-B70U-oBFhjqQcBPS400Zh67p4gjYfuJJ45IdvdF1TPXdJPXuUlMrTPbZtKAJPHm-iEd6WVJlTD7ARsipXtozjFwmB7ObWC39A5POVVrFtDZkQ8N7AcI",
+          "start": 330,
+          "end": 340,
+          "truncationText": "non discursive de",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        },
+        {
+          "batchId": 47,
+          "truncId": 92,
+          "machineCode": "【【92】】",
+          "chunkKey": "h1.MGGGTWTzjNMONmH23cDugrcpSENtXPaWBHnr1twJ_4fyFcfjuWTTinfVwgL6-Ixzec7VYge9deHachrQdQ45RCBqVs9HidSXeAl2AxKjr9v05RE8ppRg8AfKzaQyVwyehB1vmfoHvapLKdFM8iHc",
+          "start": 1203,
+          "end": 1213,
+          "truncationText": "discursive ... 212 3.",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        },
+        {
+          "batchId": 14,
+          "truncId": 265,
+          "machineCode": "【【265】】",
+          "chunkKey": "h1.NroLSFL7Hg2Nn9Qfnpzj35H1JFOJgIBHv1HrltIRYpkcvcmZLf70dcZJ-7kHOAoAcwRI2wrOrOQUY_adPXhPuLb31hJ5-blDzkKUk32ygIHalQmtQ3wYlEcbcy-J94dSuZJtwjauSNen_QzojV0",
+          "start": 112,
+          "end": 122,
+          "truncationText": "terroirien (ou sensible *) = opérateur non discursive; F=*",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        },
+        {
+          "batchId": 1,
+          "truncId": 144,
+          "machineCode": "【【144】】",
+          "chunkKey": "h1.o07zwuHzyG1zZa34QdaQ0InKqFvYXl_vQ-RtAC8CxZUXreEcSI8KDGzqDibot7GkQSKi-lpbumHAfMGbYFCz4rQCQXmtcQJkgXF56qMUmRXtF_tAbGmHKeUP4Sd1yWPPtFYqhhigUInh4PqDxw",
+          "start": 586,
+          "end": 596,
+          "truncationText": "discursive: elle n'est donnée qu'à",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        }
+      ]
+    },
+    {
+      "index": 17,
+      "noun": "existentielles",
+      "id": "existentielles",
+      "offsetCount": 6,
+      "offsetResults": [
+        {
+          "batchId": 24,
+          "truncId": 185,
+          "machineCode": "【【185】】",
+          "chunkKey": "h1._AaFPMc0Mgefdwa2kVIbXU6V8d7dXR61NigjzRQ3GRZddLALv_8CP1rHrLLySMfaCrvRRt3FOge2zuvu-qaCuZNH7sXjgJSuoE-uHtEjeLBekzaBrOOllfHyH63JB-6uWoe0SXkROSaTQ82i2GM",
+          "start": 82,
+          "end": 96,
+          "truncationText": "existentielles. Mais avant d'en venir la souliング encore les",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        },
+        {
+          "batchId": 24,
+          "truncId": 193,
+          "machineCode": "【【193】】",
+          "chunkKey": "h1._AaFPMc0Mgefdwa2kVIbXU6V8d7dXR61NigjzRQ3GRZddLALv_8CP1rHrLLySMfaCrvRRt3FOge2zuvu-qaCuZNH7sXjgJSuoE-uHtEjeLBekzaBrOOllfHyH63JB-6uWoe0SXkROSaTQ82i2GM",
+          "start": 600,
+          "end": 614,
+          "truncationText": "existentielles. En",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        },
+        {
+          "batchId": 38,
+          "truncId": 15,
+          "machineCode": "【【15】】",
+          "chunkKey": "h1.2S-dioDmBcNe12jhw57swCUOz_HijPPp7ZG98QqF3F_0odMESMdYUVsnS-SIeWkoHPAySzo7OYSnHXHIOwT2CYO5MUg4mlb0mhZwWO5yaVhUiHCJbMwG-dNgb8T70-_QDQI08PdFQQr-79KX5yhj",
+          "start": 105,
+          "end": 119,
+          "truncationText": "existentielles : D'être ainsi, spectre apparaissant, disparaisissant, donnait (aux",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        },
+        {
+          "batchId": 34,
+          "truncId": 73,
+          "machineCode": "【【73】】",
+          "chunkKey": "h1.h33ero6-xw4gb8CU4PaVenU2GPy254IOoNHJl5kB0n9qJSNwe7iDMbMxxlmSGxdZCnezqOzBSnX2jaMEPluBdEOdJqh4MfL4lcuM40JAt-u8MCEzUqhNOP36Eel1wEDKCicUgmiy9pi2nsd9EJrN",
+          "start": 151,
+          "end": 165,
+          "truncationText": "existentielles processuselles. Cependant, quelque",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        },
+        {
+          "batchId": 25,
+          "truncId": 2,
+          "machineCode": "【【2】】",
+          "chunkKey": "h1.kX4ch7aMkyG3g1wEnggp3cqPPHhy3CBK4hDCboLBHTyZVsAb5nWfVjsemejNlV4Nm6w7TIg1zYAJ11W51T6ZUpOmKaDXYVixmgC-MrsKzg2yoG3bkvsUu1twq8u9OLSqt7P6vH0g3qPPCYrgLBs",
+          "start": 20,
+          "end": 34,
+          "truncationText": "EXISTENTIELLES",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        },
+        {
+          "batchId": 46,
+          "truncId": 149,
+          "machineCode": "【【149】】",
+          "chunkKey": "h1.WEUJgfEAK63R0kZzOQNm2L7YCjAUBvzc1QfjDIaj8DHbbNT9GHChmDkv2W8ITpGH50KpN8B1b92iBK7eYLmSJbT-FQhVWBeysSajsocEXM-DQs_kA00VNopX07xnOyDEUCLO09YYx3TtVW1JWmlS",
+          "start": 142,
+          "end": 156,
+          "truncationText": "existentielles de son",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        }
+      ]
+    },
+    {
+      "index": 18,
+      "noun": "faire",
+      "id": "faire",
+      "offsetCount": 6,
+      "offsetResults": [
+        {
+          "batchId": 37,
+          "truncId": 52,
+          "machineCode": "【【52】】",
+          "chunkKey": "h1.3kILQfdWy53xkOAiI6wQ5dmhqNaXHmxQZ0umnxRHb1CV-vKOs130tSzFpprDqLPiaMqC1WO6kdK4avT_1nIK74RT8z2xdJszkrwwIacCqKuK4GEifYfyL08UxVLvop8vhVgWWlqtT926_aEsUpXN",
+          "start": 297,
+          "end": 302,
+          "truncationText": "à faire de la",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        },
+        {
+          "batchId": 46,
+          "truncId": 105,
+          "machineCode": "【【105】】",
+          "chunkKey": "h1.5Qur88OPhhAzSHy7vhvAand5EjoKNDEyALrxG5vCAmWPssdb220ailiakVYrW7qO4YFl7-KI9umdBAvwegHUGbqTIjL29MFpuINxcTzcsmmAlPXOvjTtHAN2xEfV1wyk13-2Q0IMlYrTum3GiZQm",
+          "start": 202,
+          "end": 207,
+          "truncationText": "à leur faire",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        },
+        {
+          "batchId": 30,
+          "truncId": 69,
+          "machineCode": "【【69】】",
+          "chunkKey": "h1.eyMMDu9BR_7uwp8Jm_cMzU3VIGUwvmEPcFqQBAXBM8r1RWtbArl3Yu3s0lTiVz32h0TFs8qVufccBaDD7bhax-y2Z4qMTUsyqd2o2TKi8X6lt6ypQpsDEDx4yQGc2tllY2j0CDbHlyJkL-3reUUB",
+          "start": 25,
+          "end": 30,
+          "truncationText": "1) qu'elles n'ont rien à faire les",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        },
+        {
+          "batchId": 26,
+          "truncId": 168,
+          "machineCode": "【【168】】",
+          "chunkKey": "h1.M6QehUd5P-eIDHTiZ2W1mz0X4CgLIhM_ULfaL8hiBNep1_z1so74NygvlLbOtz_jNVlWutC8WxWDmEtEx-zQ-pGp1JsJ1n-y5s8a2Q-4t-Qu_00ZjHyx9vFC5x8bjA6-mB9o09iucky2IsRgJEo",
+          "start": 635,
+          "end": 640,
+          "truncationText": "de se faire, qui sécrete continuement une",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        },
+        {
+          "batchId": 37,
+          "truncId": 98,
+          "machineCode": "【【98】】",
+          "chunkKey": "h1.P84ABCn3NGL2gt2L6I_txUCsSiOqaLwoWEqH3f6zgTkiY5sDQ_ZNvLPKgxJG7glfI2QXTXFUZHq1TbgaM94VqdpXzgjS3rpQADnEowuVCl6XRh4ngZUHn7z7rI6xP1vvqjO4uAczGm9QPlUnziJm",
+          "start": 1583,
+          "end": 1588,
+          "truncationText": ", faire le",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        },
+        {
+          "batchId": 46,
+          "truncId": 144,
+          "machineCode": "【【144】】",
+          "chunkKey": "h1.ssND3M68r9VhqziAM7rj0GT6YfT2rprzVkeVWo9xMhMxWm5W31FN5LYq-kY-chWtY2M4BfyxyVggHkrmg6HNrqcamcEi37oBDU-LC9chiw1QtoMmjtm55QOzIg4gnNoFNB90Q00LuimkgmT_bQhC",
+          "start": 119,
+          "end": 124,
+          "truncationText": "à les faire travailler en «",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        }
+      ]
+    },
+    {
+      "index": 19,
+      "noun": "infiniment",
+      "id": "infiniment",
+      "offsetCount": 6,
+      "offsetResults": [
+        {
+          "batchId": 26,
+          "truncId": 80,
+          "machineCode": "【【80】】",
+          "chunkKey": "h1.bYX5oFsITyS6QFMpOjSAtgsRrqF5eqmO5YCXsfPoHBAgOpjf9E7Ea7cHRwn70Gp0khMzD7TJgsS4hL2mHte9lIqx-6FMv6HUswSXLzZTrXIg_CyWJTS0y0IyuKm1LPEgJm6_gKzklCgSZw6XJkA",
+          "start": 782,
+          "end": 792,
+          "truncationText": ", qui peut être infiniment",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        },
+        {
+          "batchId": 21,
+          "truncId": 116,
+          "machineCode": "【【116】】",
+          "chunkKey": "h1.GP6uNm_JHphVolFna7sfjuOXXH9JLEcT3WuvgrJkBYZcensDYfdEywTEDcmHXe_UWvM77Vq-r8L-K0lQKjeYp5CAtNocjfw0KmzYhIWoPWTkQmrZMzXB-wW0X70N-LuIrZOhxwS28YN0iephvnw",
+          "start": 355,
+          "end": 365,
+          "truncationText": "sera infiniment lente (ce qui sera",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        },
+        {
+          "batchId": 24,
+          "truncId": 16,
+          "machineCode": "【【16】】",
+          "chunkKey": "h1.H1O-1kr0fzMSWZ9_IjFp6hF3V6XY6kYD2tAlvo2Le-AyNPqBPRsQfp7TBO5hkXsHRaODBOA3ygohtcLLERfTBVBug7FfKT85P1E_rEbWzSgVqLtO7tQT7KD1c-Qdk9N6eCF4DnO7JgHM5SWbqiI",
+          "start": 671,
+          "end": 681,
+          "truncationText": "énergétiques infiniment petits qui constituent un",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        },
+        {
+          "batchId": 24,
+          "truncId": 18,
+          "machineCode": "【【18】】",
+          "chunkKey": "h1.H1O-1kr0fzMSWZ9_IjFp6hF3V6XY6kYD2tAlvo2Le-AyNPqBPRsQfp7TBO5hkXsHRaODBOA3ygohtcLLERfTBVBug7FfKT85P1E_rEbWzSgVqLtO7tQT7KD1c-Qdk9N6eCF4DnO7JgHM5SWbqiI",
+          "start": 790,
+          "end": 800,
+          "truncationText": "infiniment accétrées et des",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        },
+        {
+          "batchId": 24,
+          "truncId": 19,
+          "machineCode": "【【19】】",
+          "chunkKey": "h1.H1O-1kr0fzMSWZ9_IjFp6hF3V6XY6kYD2tAlvo2Le-AyNPqBPRsQfp7TBO5hkXsHRaODBOA3ygohtcLLERfTBVBug7FfKT85P1E_rEbWzSgVqLtO7tQT7KD1c-Qdk9N6eCF4DnO7JgHM5SWbqiI",
+          "start": 827,
+          "end": 837,
+          "truncationText": "infiniment ralenties! Le seul",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        },
+        {
+          "batchId": 20,
+          "truncId": 140,
+          "machineCode": "【【140】】",
+          "chunkKey": "h1.taZr-sWttwDwBacUI0alK8WQo02tYnpQziPmbqjXSL5wuk-xXD8laxLhmtvuNPQa_7FqFnRUcLJQ8gShNfXCTKx-c16zpm0xl1Gnx87xmLIv9ajesG0gsNfkAREsOYMwpEnxRO2yeyZExKVzhjM",
+          "start": 335,
+          "end": 345,
+          "truncationText": "infiniment ralentic",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        }
+      ]
+    },
+    {
+      "index": 694,
+      "noun": "formé",
+      "id": "formé",
+      "offsetCount": 1,
+      "offsetResults": [
+        {
+          "batchId": 14,
+          "truncId": 266,
+          "machineCode": "【【266】】",
+          "chunkKey": "h1.NroLSFL7Hg2Nn9Qfnpzj35H1JFOJgIBHv1HrltIRYpkcvcmZLf70dcZJ-7kHOAoAcwRI2wrOrOQUY_adPXhPuLb31hJ5-blDzkKUk32ygIHalQmtQ3wYlEcbcy-J94dSuZJtwjauSNen_QzojV0",
+          "start": 146,
+          "end": 151,
+          "truncationText": "= état formé des",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        }
+      ]
+    },
+    {
+      "index": 695,
+      "noun": "formel",
+      "id": "formel",
+      "offsetCount": 1,
+      "offsetResults": [
+        {
+          "batchId": 41,
+          "truncId": 223,
+          "machineCode": "【【223】】",
+          "chunkKey": "h1.6vgA0AtcF8wJ_CjzwWP7d-pVQSYmPm9DVekphK-cT-F2juUy1PHireEbyafvdoU4wetSBNRmBCw_UFZbdExWM8HppS9IkUDFSx6kwKq-jTEpnBEaWUMT6NqVJjy2ipzgMw8dfWPWTRKywabvOzDJ",
+          "start": 360,
+          "end": 366,
+          "truncationText": "formel que d'un",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        }
+      ]
+    },
+    {
+      "index": 696,
+      "noun": "formels",
+      "id": "formels",
+      "offsetCount": 1,
+      "offsetResults": [
+        {
+          "batchId": 20,
+          "truncId": 261,
+          "machineCode": "【【261】】",
+          "chunkKey": "h1.DPquvuC89X4TtzUWVfgzAV9pfabyHbmKodDSn8RrGlTHbkbnQRbgFdtlXwaxf8-FUyAxDcnNCsUOnVn74_o0jOGEUaVafKuPv8gYcKNFrvjRAeUd36emamZuYQhLTfhRDh4DnxpOHG3hHOz1rJ4",
+          "start": 0,
+          "end": 7,
+          "truncationText": "formels de",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        }
+      ]
+    },
+    {
+      "index": 697,
+      "noun": "foyer",
+      "id": "foyer",
+      "offsetCount": 1,
+      "offsetResults": [
+        {
+          "batchId": 25,
+          "truncId": 24,
+          "machineCode": "【【24】】",
+          "chunkKey": "h1.f7iPJa1_Ho9ELtjK3phZbmhrgs8vdUcFY377WCvSUr5xMhdfnYWQeymIJBqwidKmJ4fko6BjJokUOdgBb1mAYhHHAVkIGgEaTkRRPmalQ027TlBHPob7-Y_oNYVQlzsdMZpXFDmJpDNAdfhbb-M",
+          "start": 14,
+          "end": 19,
+          "truncationText": "- l'autre, de foyer processuel, de",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        }
+      ]
+    },
+    {
+      "index": 698,
+      "noun": "fractales",
+      "id": "fractales",
+      "offsetCount": 1,
+      "offsetResults": [
+        {
+          "batchId": 26,
+          "truncId": 208,
+          "machineCode": "【【208】】",
+          "chunkKey": "h1.p-cgBfPbUtgM7i5YnODTTznYTcQKZW4q1KNORulw6Gbep6eJQu_5nzA3r-zaYFGDKCTV2UjbbTLaGl5h5GHHXpNPfKIiw254rvmxT6mKOBusKMt0cPxUMUr6B5zXsLgxwaXI4kZ8vqm-RntvHOw",
+          "start": 100,
+          "end": 109,
+          "truncationText": "relativement réversibles fractales pour les",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        }
+      ]
+    },
+    {
+      "index": 699,
+      "noun": "fractalis",
+      "id": "fractalis",
+      "offsetCount": 1,
+      "offsetResults": [
+        {
+          "batchId": 25,
+          "truncId": 105,
+          "machineCode": "【【105】】",
+          "chunkKey": "h1.yFcRYTi09a0kNPc9pILfx_kGmbTWZriqFcrqDOdBrwlCK7O8GUV_n5Aj_87LSTc8TVedZdzOVTPH3n9FY5ctUzqDrACGTwULtRUOkTEk7Ssv3mu03kKL-GqKmSs7Uwl6KDxasF0IyfmalNSbN8g",
+          "start": 179,
+          "end": 188,
+          "truncationText": "partialis, fractalis,",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        }
+      ]
+    },
+    {
+      "index": 700,
+      "noun": "fractals",
+      "id": "fractals",
+      "offsetCount": 1,
+      "offsetResults": [
+        {
+          "batchId": 46,
+          "truncId": 78,
+          "machineCode": "【【78】】",
+          "chunkKey": "h1.waEcU5d7ZRi2DIHT65i1r1-8yxMyrH0dET0d1frpRyHz7esT-R1Mxbt4c5fwdVWeMeCgShpqKonn5GJDJeqhvZaYTpYR2uCdo-aOkasia9TWyPP07m-Yci8XF2e2FTGnZpVxXmubHqct-Rclxvyo",
+          "start": 930,
+          "end": 938,
+          "truncationText": "fractals* , j'ai envie de dire que s'opère ici un double",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        }
+      ]
+    },
+    {
+      "index": 701,
+      "noun": "fragmentaire",
+      "id": "fragmentaire",
+      "offsetCount": 1,
+      "offsetResults": [
+        {
+          "batchId": 36,
+          "truncId": 167,
+          "machineCode": "【【167】】",
+          "chunkKey": "h1.VBQD_43ZmVgOs_R9ulO6vbMCoxpfTdWY1thbRUpPMbvq9eER1ZiGpL_CwRo4kl-EXfN8yMuF7kGfYX9ik26eS6LNjRoQGbNtB7IrawSt4W2OHZWOoumUg7BKoJYaHHGB5wktSiet9iZrN8WuQbep",
+          "start": 179,
+          "end": 191,
+          "truncationText": "fragmentaire, en perpetuel",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        }
+      ]
+    },
+    {
+      "index": 702,
+      "noun": "fragmentaires",
+      "id": "fragmentaires",
+      "offsetCount": 1,
+      "offsetResults": [
+        {
+          "batchId": 41,
+          "truncId": 270,
+          "machineCode": "【【270】】",
+          "chunkKey": "h1.-wdYrCyvR0BxQUaJ5ieHE_fCFM7fJGT6X3YwqUZ1UFbwpZjH2CpPPXaDmvvEgo7KhA1I6BUF7DesJjzVJmUyygYuz9a8DNOgNjPzXUWFvymC3NEXNBefkPN_Rn5ch19sinEHL8hu0ycfnV8sYfO_",
+          "start": 561,
+          "end": 574,
+          "truncationText": "fragmentaires de la",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        }
+      ]
+    },
+    {
+      "index": 703,
+      "noun": "franchement",
+      "id": "franchement",
+      "offsetCount": 1,
+      "offsetResults": [
+        {
+          "batchId": 46,
+          "truncId": 75,
+          "machineCode": "【【75】】",
+          "chunkKey": "h1.waEcU5d7ZRi2DIHT65i1r1-8yxMyrH0dET0d1frpRyHz7esT-R1Mxbt4c5fwdVWeMeCgShpqKonn5GJDJeqhvZaYTpYR2uCdo-aOkasia9TWyPP07m-Yci8XF2e2FTGnZpVxXmubHqct-Rclxvyo",
+          "start": 811,
+          "end": 822,
+          "truncationText": "une autre, celle-là franchement invisible, s'opérant au",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        }
+      ]
+    },
+    {
+      "index": 704,
+      "noun": "franchi",
+      "id": "franchi",
+      "offsetCount": 1,
+      "offsetResults": [
+        {
+          "batchId": 37,
+          "truncId": 162,
+          "machineCode": "【【162】】",
+          "chunkKey": "h1.XUYkmrGN8YoozfcV78VMq6yQ8PwHjBV9jxiopGN4JGXlzKODtP1UrDYuwTJ7EQ9EFR6mh_myzjYH3cSezQ1TXRmOKJWrYWlP6QafA6lI0LrQVFWLvBaXHgNlpaRwTSLSkbvRCFafB063ApbMqcwn",
+          "start": 474,
+          "end": 481,
+          "truncationText": "n' aura jamais franchi les",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        }
+      ]
+    },
+    {
+      "index": 705,
+      "noun": "freudienne",
+      "id": "freudienne",
+      "offsetCount": 1,
+      "offsetResults": [
+        {
+          "batchId": 47,
+          "truncId": 23,
+          "machineCode": "【【23】】",
+          "chunkKey": "h1.KcMTr9g9t93FFaHnl-KzAf1axCaaMHyc6u12UX4HwRPAEvRC8p7YY2HUZcQ8hSVsHwXy4tLiCU-HEaFVTyhcTHCesR9grRuNvdA-jofkaEUh3GMmTYGaJqZ2ukzlmiV68c60y6IKA0zTHtY2VuAR",
+          "start": 612,
+          "end": 622,
+          "truncationText": "freudienne ... 70 L'inconscient schizoanalytique ... 72 Non-separabilité,",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        }
+      ]
+    },
+    {
+      "index": 706,
+      "noun": "froide",
+      "id": "froide",
+      "offsetCount": 1,
+      "offsetResults": [
+        {
+          "batchId": 20,
+          "truncId": 133,
+          "machineCode": "【【133】】",
+          "chunkKey": "h1.nHZFFZjr5eF0hvFWk4YNS52hCPgtzwOc65d0STdI2UjfGItTHn2bR3sSpAPDOkexXhw0MfamDfegGSmLU8LgNNPNFElKiV2fthgBNxx9ZknvVn1jmq0hGCDVduH0r1cewQsNjwa_kQoYEwk2Wbvp",
+          "start": 96,
+          "end": 102,
+          "truncationText": "froide, de",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        }
+      ]
+    },
+    {
+      "index": 707,
+      "noun": "fruitio",
+      "id": "fruitio",
+      "offsetCount": 1,
+      "offsetResults": [
+        {
+          "batchId": 27,
+          "truncId": 2,
+          "machineCode": "【【2】】",
+          "chunkKey": "h1.BE9mbM5eojI9pJoKDQ8htHb78UFhDnMmp4ywtJxHtg9hH4AaLa9HeoGwPA0tQhBuFSFeoGwwX548tL9FQC6XEPGmSgKcpM1XmpnYKfnkJcuYodPZ9PPbtBKIx0etsxhgXsZ56Ev6iJQkboltcwg",
+          "start": 844,
+          "end": 851,
+          "truncationText": "existentielle (infinita essenti fruitio).",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        }
+      ]
+    },
+    {
+      "index": 708,
+      "noun": "fuisir",
+      "id": "fuisir",
+      "offsetCount": 1,
+      "offsetResults": [
+        {
+          "batchId": 30,
+          "truncId": 80,
+          "machineCode": "【【80】】",
+          "chunkKey": "h1.mDnlcnFqbTNBiYjXnufshzgiO5wzgk7eUpJcGf4hScEJJENIJDagVg7bLzlJcFw9T73Uzw-FjILIAsulihSwaWP-elV0kmhPbRVbcg59NmaJJGfgSpMVsFxg-_D3KstwuVO36rkm4T7xjkt631nk",
+          "start": 304,
+          "end": 310,
+          "truncationText": "systéme fuisir sur un",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        }
+      ]
+    },
+    {
+      "index": 709,
+      "noun": "fusionnelles",
+      "id": "fusionnelles",
+      "offsetCount": 1,
+      "offsetResults": [
+        {
+          "batchId": 20,
+          "truncId": 178,
+          "machineCode": "【【178】】",
+          "chunkKey": "h1.J9jzre4qgpIj7VnA8MYkblwcuRGlD_zPHv--owj7Re7lva53zO5sP-DndTyV0lmNf4r_NczRTQfZ9-KSuAokB8Valt3DDO3eWhl0gp13P5N-FAgSzSCqYM11S90ZifX8om0KEMvxfBL01Q0jTSZS",
+          "start": 417,
+          "end": 429,
+          "truncationText": "fusionnelles",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        }
+      ]
+    },
+    {
+      "index": 710,
+      "noun": "futelle",
+      "id": "futelle",
+      "offsetCount": 1,
+      "offsetResults": [
+        {
+          "batchId": 37,
+          "truncId": 45,
+          "machineCode": "【【45】】",
+          "chunkKey": "h1.3kILQfdWy53xkOAiI6wQ5dmhqNaXHmxQZ0umnxRHb1CV-vKOs130tSzFpprDqLPiaMqC1WO6kdK4avT_1nIK74RT8z2xdJszkrwwIacCqKuK4GEifYfyL08UxVLvop8vhVgWWlqtT926_aEsUpXN",
+          "start": 30,
+          "end": 37,
+          "truncationText": "palestinienne futelle",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        }
+      ]
+    },
+    {
+      "index": 711,
+      "noun": "gamin",
+      "id": "gamin",
+      "offsetCount": 1,
+      "offsetResults": [
+        {
+          "batchId": 40,
+          "truncId": 8,
+          "machineCode": "【【8】】",
+          "chunkKey": "h1.ZZNi0AxYktbb3zfQSKiAIMFKc1uP9tcGS-WjeckK-bwTL-a3rvNAo0gH-kv2_hne_eo4h8YLuCbhJd1TzFhrXJPu-85tI8fCSzrrZEljfPWDYqEdqhE6RvmfZt14Hhk2bBFpRiSueX1NjbVbKwNE",
+          "start": 249,
+          "end": 254,
+          "truncationText": "pour gamin et une",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        }
+      ]
+    },
+    {
+      "index": 712,
+      "noun": "gaps",
+      "id": "gaps",
+      "offsetCount": 1,
+      "offsetResults": [
+        {
+          "batchId": 45,
+          "truncId": 5,
+          "machineCode": "【【5】】",
+          "chunkKey": "h1.sT1yseRqRg6-W5yOnEMyD07Uw5Uu0qsTBOLedOYgMtMYhzH0tDUGgWklBJsWtmPf84i49AL0m2Jdl9H9OGSKzp34uZEYtRSycz8stdTNxcvcMaRcsZ6fFFxgg75Gvic9dAJQHmPt75BF8dey_VnH",
+          "start": 941,
+          "end": 945,
+          "truncationText": ": gaps,",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        }
+      ]
+    },
+    {
+      "index": 713,
+      "noun": "garants",
+      "id": "garants",
+      "offsetCount": 1,
+      "offsetResults": [
+        {
+          "batchId": 30,
+          "truncId": 125,
+          "machineCode": "【【125】】",
+          "chunkKey": "h1.svZUIohfsZfEGi5Hww-T29lniBpcfPY_uoQwGSb4Lw7r1664l55i2JSq8ROGFppjCn-_G_4FDYQ941iYAbqMfHnsT7GGw5VZlrbp44ApEcBFK-Yo5rTltIIqUlxxKnkuS5-G7hnPWPNHUyGOTPaG",
+          "start": 375,
+          "end": 382,
+          "truncationText": "(φ), extrinsement garants d'une",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        }
+      ]
+    },
+    {
+      "index": 714,
+      "noun": "génératrice",
+      "id": "génératrice",
+      "offsetCount": 1,
+      "offsetResults": [
+        {
+          "batchId": 46,
+          "truncId": 180,
+          "machineCode": "【【180】】",
+          "chunkKey": "h1.-OHjdfEuLjTt9LtgcWK1GOMG85RjH7kwavKYfNQhN7c2BJjz0BH6ak-d603f-cX5BMjrO_x9fWiaoqXnmwgePZXQCS7QN87b62dWojdcD4rn8yHj84eYmi_QkDOg1qLiUqLJKoXeeH8I4A1lFyzG",
+          "start": 475,
+          "end": 486,
+          "truncationText": "a signifiant génératrice d'",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        }
+      ]
+    },
+    {
+      "index": 715,
+      "noun": "genre",
+      "id": "genre",
+      "offsetCount": 1,
+      "offsetResults": [
+        {
+          "batchId": 3,
+          "truncId": 2,
+          "machineCode": "【【2】】",
+          "chunkKey": "h1.oNywRc22bkJgVdq1YpYuurTqFLEHdOFmOprCQL93uP5CdGmBPY0-Ps_qxsj-geXfpIuyjyUf2btFQ7Jladb9PlLxu5HpHhQxEObp0fYNMrGnexQ8cIRrwyO_UTSfLmxq6PmDrl-Rr9I1aDkBKQ",
+          "start": 259,
+          "end": 264,
+          "truncationText": "machinique d'un nouveau genre. Quelques",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        }
+      ]
+    },
+    {
+      "index": 716,
+      "noun": "genres",
+      "id": "genres",
+      "offsetCount": 1,
+      "offsetResults": [
+        {
+          "batchId": 23,
+          "truncId": 18,
+          "machineCode": "【【18】】",
+          "chunkKey": "h1.SqDcVGOLt6eH2NpLk_cGKTwK7lah2OiShZl6C8vrLuwe0mSB_9zlCtQ36jdv_KiMW87-SKxAPzkikz7S1KxS3PKOJkwkxtYCfM8SLjtwvZiua8CnFXd6ztk-qFVuyjzIXRynOdh8yzP0KRHyvzw",
+          "start": 36,
+          "end": 42,
+          "truncationText": "des genres possibles de P*: Mais cette",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        }
+      ]
+    },
+    {
+      "index": 717,
+      "noun": "géométriques",
+      "id": "géométriques",
+      "offsetCount": 1,
+      "offsetResults": [
+        {
+          "batchId": 46,
+          "truncId": 85,
+          "machineCode": "【【85】】",
+          "chunkKey": "h1.waEcU5d7ZRi2DIHT65i1r1-8yxMyrH0dET0d1frpRyHz7esT-R1Mxbt4c5fwdVWeMeCgShpqKonn5GJDJeqhvZaYTpYR2uCdo-aOkasia9TWyPP07m-Yci8XF2e2FTGnZpVxXmubHqct-Rclxvyo",
+          "start": 1326,
+          "end": 1338,
+          "truncationText": "fractale, hors des cadres géométriques et physiques ou les a vu le",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        }
+      ]
+    },
+    {
+      "index": 718,
+      "noun": "GEORGES",
+      "id": "georges",
+      "offsetCount": 1,
+      "offsetResults": [
+        {
+          "batchId": 47,
+          "truncId": 100,
+          "machineCode": "【【100】】",
+          "chunkKey": "h1.07Ke7f4ODhHo_p3rlt1q-1VBZYpAOCM59QhhFD-IJHtZfwdLC8i6im5k-qhj1r6lFJqthg5-p5BFCZxqKk7o7mQcne4rYtw_IgId_kUiBi9kpb0p_j93x5--39vYnNX7lu3_oV1pOf6wdOGJTVBr",
+          "start": 0,
+          "end": 7,
+          "truncationText": "GEORGES PEREC",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        }
+      ]
+    },
+    {
+      "index": 719,
+      "noun": "gestalisent",
+      "id": "gestalisent",
+      "offsetCount": 1,
+      "offsetResults": [
+        {
+          "batchId": 26,
+          "truncId": 92,
+          "machineCode": "【【92】】",
+          "chunkKey": "h1.bYX5oFsITyS6QFMpOjSAtgsRrqF5eqmO5YCXsfPoHBAgOpjf9E7Ea7cHRwn70Gp0khMzD7TJgsS4hL2mHte9lIqx-6FMv6HUswSXLzZTrXIg_CyWJTS0y0IyuKm1LPEgJm6_gKzklCgSZw6XJkA",
+          "start": 1241,
+          "end": 1252,
+          "truncationText": "gestalisent entre des",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        }
+      ]
+    },
+    {
+      "index": 720,
+      "noun": "gestes",
+      "id": "gestes",
+      "offsetCount": 1,
+      "offsetResults": [
+        {
+          "batchId": 46,
+          "truncId": 47,
+          "machineCode": "【【47】】",
+          "chunkKey": "h1.Y7kkPzTk0UBw1e5ukEA-Zh3rK9JoSc866TpfWNY2_SiQhgdSDe9unY044PmhesSPxjXc6uLqR3jQoYycbDf6hWAf9bA8hD1mwV4VxxHevDMiXCz349jAU2BqzUVBDhdvVlzk-jbqLxaGHxel9L3d",
+          "start": 504,
+          "end": 510,
+          "truncationText": "et gestes qui, jusqu'au, étaient restés accroches, comme en",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        }
+      ]
+    },
+    {
+      "index": 721,
+      "noun": "glischroïdique",
+      "id": "glischroïdique",
+      "offsetCount": 1,
+      "offsetResults": [
+        {
+          "batchId": 34,
+          "truncId": 119,
+          "machineCode": "【【119】】",
+          "chunkKey": "h1.XutO0iIVgKMWafIldHqrwjWT2Xeuya1iyOkqolzBdEVkQQW1W1FIgyKJUJrPedgH46hOKFD6RW0ILLl-OZDjGuQKz2Awh1hMv9mLuzwfNsPc6UdH3F3JoS2LnIKNFEiXlgjI0DufJMTPkcx8CDy1",
+          "start": 348,
+          "end": 362,
+          "truncationText": "glischroïdique, pour reprendre un",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        }
+      ]
+    },
+    {
+      "index": 722,
+      "noun": "globale",
+      "id": "globale",
+      "offsetCount": 1,
+      "offsetResults": [
+        {
+          "batchId": 1,
+          "truncId": 145,
+          "machineCode": "【【145】】",
+          "chunkKey": "h1.o07zwuHzyG1zZa34QdaQ0InKqFvYXl_vQ-RtAC8CxZUXreEcSI8KDGzqDibot7GkQSKi-lpbumHAfMGbYFCz4rQCQXmtcQJkgXF56qMUmRXtF_tAbGmHKeUP4Sd1yWPPtFYqhhigUInh4PqDxw",
+          "start": 699,
+          "end": 706,
+          "truncationText": "transférentielle globale. Le plus universel s'y trouve conjoint à la",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        }
+      ]
+    },
+    {
+      "index": 723,
+      "noun": "grammatical",
+      "id": "grammatical",
+      "offsetCount": 1,
+      "offsetResults": [
+        {
+          "batchId": 37,
+          "truncId": 153,
+          "machineCode": "【【153】】",
+          "chunkKey": "h1.XUYkmrGN8YoozfcV78VMq6yQ8PwHjBV9jxiopGN4JGXlzKODtP1UrDYuwTJ7EQ9EFR6mh_myzjYH3cSezQ1TXRmOKJWrYWlP6QafA6lI0LrQVFWLvBaXHgNlpaRwTSLSkbvRCFafB063ApbMqcwn",
+          "start": 161,
+          "end": 172,
+          "truncationText": "grammatical. Mais,",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        }
+      ]
+    },
+    {
+      "index": 1399,
+      "noun": "vehiculeuses",
+      "id": "vehiculeuses",
+      "offsetCount": 1,
+      "offsetResults": [
+        {
+          "batchId": 37,
+          "truncId": 245,
+          "machineCode": "【【245】】",
+          "chunkKey": "h1.By9mriu_y5fQXWJ8whuBzXquN8lCCARh03J4DfaC7hJfVgAkuzHoZqRGDHJtQ6lIZS5BGjb0RSYRsNkFCVSoch-8j2_fZePh63kDrVLxAmUtwLfvCnjE6-PpDUZcD5ZBPiel6remB9_ElBzuHGOe",
+          "start": 374,
+          "end": 386,
+          "truncationText": "vehiculeuses par le",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        }
+      ]
+    },
+    {
+      "index": 1400,
+      "noun": "verbal",
+      "id": "verbal",
+      "offsetCount": 1,
+      "offsetResults": [
+        {
+          "batchId": 34,
+          "truncId": 215,
+          "machineCode": "【【215】】",
+          "chunkKey": "h1.7QOntm082GQZpjePRaSy5FEitGfyvzw0yWAwEWeXNUmEUBnTIrYVWWtvTIbEKEAy2RQO6yCuLka0cACDukiHFBB7lfsV6bI0VnX6kabzD2Pb_VcqanJIqs8mLbnIzkfr2DIT3ClC4j1Z5cN69_o7",
+          "start": 16,
+          "end": 22,
+          "truncationText": "verbal assument le",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        }
+      ]
+    },
+    {
+      "index": 1401,
+      "noun": "vêtir",
+      "id": "vêtir",
+      "offsetCount": 1,
+      "offsetResults": [
+        {
+          "batchId": 12,
+          "truncId": 88,
+          "machineCode": "【【88】】",
+          "chunkKey": "h1.IPFKb8xeh_Ei7Z0U-NyhE8QkhorvmlRIpgEACMTN5fLfwnm_K701TtPiT3MHNyfZtim-Wba4hP_Hv328bxkS3F2iq6BNGcgm6CWTnsuH35R36dbczZ_5P98F-il_k870DV0IWpiMuaqsD0Ztm8hg",
+          "start": 463,
+          "end": 468,
+          "truncationText": "vêtir » systemique ou structurele, et le",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        }
+      ]
+    },
+    {
+      "index": 1402,
+      "noun": "virtuellement",
+      "id": "virtuellement",
+      "offsetCount": 1,
+      "offsetResults": [
+        {
+          "batchId": 26,
+          "truncId": 216,
+          "machineCode": "【【216】】",
+          "chunkKey": "h1.OYZsWJavhH80mfdCcEL-sG02407zFAjvbMU66bb_aVZpj3DpPkbqsoOVRk2vjKPxL-vysF9npSVkwidpUBk24cqLXYhjq8mQr2NlKUSNKsOhaXhvhb6FUGJHJbQ1S9Hkmys5_kX4jPxhWx140mA",
+          "start": 364,
+          "end": 377,
+          "truncationText": "a qui se retrouvera virtuellement à B",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        }
+      ]
+    },
+    {
+      "index": 1403,
+      "noun": "visageitaine",
+      "id": "visageitaine",
+      "offsetCount": 1,
+      "offsetResults": [
+        {
+          "batchId": 24,
+          "truncId": 152,
+          "machineCode": "【【152】】",
+          "chunkKey": "h1.aX2utCHqKcuNzS0tHM57QrPPH9iauGQyOH8l4Oe8BDrKZrtNeOMf6QX4o2g5WNm5GSqybCmWgrfrk-1vCYcUNu0maQUcvKVBtBIUoyK3AEjN7n4zg7WG3arMCnRI1tM4vM7pynhCVmK9ue6K5Fs",
+          "start": 986,
+          "end": 998,
+          "truncationText": "visageitaine d'un",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        }
+      ]
+    },
+    {
+      "index": 1404,
+      "noun": "visaginaire",
+      "id": "visaginaire",
+      "offsetCount": 1,
+      "offsetResults": [
+        {
+          "batchId": 30,
+          "truncId": 35,
+          "machineCode": "【【35】】",
+          "chunkKey": "h1.b9ngdoa8lTurF_eZ7qrGpKAZmnuHrFXY-B70U-oBFhjqQcBPS400Zh67p4gjYfuJJ45IdvdF1TPXdJPXuUlMrTPbZtKAJPHm-iEd6WVJlTD7ARsipXtozjFwmB7ObWC39A5POVVrFtDZkQ8N7AcI",
+          "start": 51,
+          "end": 62,
+          "truncationText": "visaginaire, qui fonctionne comme relais substantiel de toute",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        }
+      ]
+    },
+    {
+      "index": 1405,
+      "noun": "visagitale",
+      "id": "visagitale",
+      "offsetCount": 1,
+      "offsetResults": [
+        {
+          "batchId": 36,
+          "truncId": 2,
+          "machineCode": "【【2】】",
+          "chunkKey": "h1.kFN1fgNQd-30GSD17-A-2Z7RK0pqdA9XykRVHpSo04AeT13Kq4w98xpmZmcm-k5q87JsLh33r6SsNylr4qXC_qZqfM7VQvuMxSXIfmjmERumhWNUDgAeqsSoVQHUovVJRiygYZjK-yDtKn-nkQ-p",
+          "start": 556,
+          "end": 566,
+          "truncationText": "phonologique, prosodique, visagitale, etc. C'est",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        }
+      ]
+    },
+    {
+      "index": 1406,
+      "noun": "vise",
+      "id": "vise",
+      "offsetCount": 1,
+      "offsetResults": [
+        {
+          "batchId": 37,
+          "truncId": 217,
+          "machineCode": "【【217】】",
+          "chunkKey": "h1.zhA42cLwxE1f-rvA1avzYFYLj_lWbSiNvVx2JuackxSNJMQjd1cp7yx10cqJaNxXm9CmChIVvOGP2F4sG8zNK-1nOE_CeT1I2yTz6gr0LFOE68MQ8qYIEsEpbhyp4l4MRRsknX78efyAM5rx4w_1",
+          "start": 1319,
+          "end": 1323,
+          "truncationText": "qui vise ilure qu'il rive",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        }
+      ]
+    },
+    {
+      "index": 1407,
+      "noun": "visibles",
+      "id": "visibles",
+      "offsetCount": 1,
+      "offsetResults": [
+        {
+          "batchId": 26,
+          "truncId": 161,
+          "machineCode": "【【161】】",
+          "chunkKey": "h1.M6QehUd5P-eIDHTiZ2W1mz0X4CgLIhM_ULfaL8hiBNep1_z1so74NygvlLbOtz_jNVlWutC8WxWDmEtEx-zQ-pGp1JsJ1n-y5s8a2Q-4t-Qu_00ZjHyx9vFC5x8bjA6-mB9o09iucky2IsRgJEo",
+          "start": 322,
+          "end": 330,
+          "truncationText": "molaires *visibles* et les",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        }
+      ]
+    },
+    {
+      "index": 1408,
+      "noun": "vital",
+      "id": "vital",
+      "offsetCount": 1,
+      "offsetResults": [
+        {
+          "batchId": 21,
+          "truncId": 14,
+          "machineCode": "【【14】】",
+          "chunkKey": "h1.KudFT44UZAryVeDcC0ONF0xwv3buxuia0h_TTG9TC7zIJcJGoQ37cQ54rqXpHjnIwLVQXi6QGtlcuALfdo2hWZFoWunveyEhN-boTwSc0vM-XLuHXjoJes-K6r8bP8jfxo0ZvGyY3WMtxbwoNW2X",
+          "start": 331,
+          "end": 336,
+          "truncationText": "unaire, minimum vital de la",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        }
+      ]
+    },
+    {
+      "index": 1409,
+      "noun": "vitese",
+      "id": "vitese",
+      "offsetCount": 1,
+      "offsetResults": [
+        {
+          "batchId": 25,
+          "truncId": 225,
+          "machineCode": "【【225】】",
+          "chunkKey": "h1.KQp6fyB9V6DeZ7WkzqouKPAKdSynLdzsWjmC_GbXu6gLHPa_KgLalD8Ic1YbyJBkuRNIXYg9pOsoHJTLk6kG7pWOI2OgaN2Ha1egKXMV0SeGSoE4AiKdROspJikN5tc6zQUYw5Fc2tI626RoZYE",
+          "start": 324,
+          "end": 330,
+          "truncationText": ") s'effectuent à une vitese qui est à la",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        }
+      ]
+    },
+    {
+      "index": 1410,
+      "noun": "vivantes",
+      "id": "vivantes",
+      "offsetCount": 1,
+      "offsetResults": [
+        {
+          "batchId": 17,
+          "truncId": 152,
+          "machineCode": "【【152】】",
+          "chunkKey": "h1.snHTDlrl-k6ZqC32NoSyDcqWoSFVDWbo6C4911j_ypMnw2VpcLhwHOKZOj5yYjI5q_X2N3FCOF9qNE9VCR0taEj3MXv0A-81Q5C58K_QkeCtqE45j-bXsmO9hfjIVyjyhSd8Ttgy8Wh7dmTT7Gw",
+          "start": 1356,
+          "end": 1364,
+          "truncationText": "matérielles, vivantes,",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        }
+      ]
+    },
+    {
+      "index": 1411,
+      "noun": "voient",
+      "id": "voient",
+      "offsetCount": 1,
+      "offsetResults": [
+        {
+          "batchId": 30,
+          "truncId": 79,
+          "machineCode": "【【79】】",
+          "chunkKey": "h1.mDnlcnFqbTNBiYjXnufshzgiO5wzgk7eUpJcGf4hScEJJENIJDagVg7bLzlJcFw9T73Uzw-FjILIAsulihSwaWP-elV0kmhPbRVbcg59NmaJJGfgSpMVsFxg-_D3KstwuVO36rkm4T7xjkt631nk",
+          "start": 270,
+          "end": 276,
+          "truncationText": "qui, en outre, voient leur",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        }
+      ]
+    },
+    {
+      "index": 1412,
+      "noun": "voisin",
+      "id": "voisin",
+      "offsetCount": 1,
+      "offsetResults": [
+        {
+          "batchId": 46,
+          "truncId": 93,
+          "machineCode": "【【93】】",
+          "chunkKey": "h1.eXAqVTGMRTQ1piaPTBUntcakPOcTg5PbEJ-YlqJYQgC2niNmTuAYCVFQs_f1AHIJ7X0YLm7aXhymNPjXl0RVRJge_9qIvB-sXUHcLMtvuOwIspcLnOO0ntmubZNcc8fHEAA9YizO1NpRQJFNn0bJ",
+          "start": 109,
+          "end": 115,
+          "truncationText": "voisin de celui de la",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        }
+      ]
+    },
+    {
+      "index": 1413,
+      "noun": "voisines",
+      "id": "voisines",
+      "offsetCount": 1,
+      "offsetResults": [
+        {
+          "batchId": 8,
+          "truncId": 5,
+          "machineCode": "【【5】】",
+          "chunkKey": "h1.l9hy3PBFVkCyoG1cRVAV_dJLL26Q8CP-gX9bf7axODWB6bvOUNKFrSGu2xBSRGr41vNJrt1Cxo6bpdNQ298j93WBLnB75azbL4JrAsoloNZsjMML_ncGn1Uyt6QQ9-IzXVSGDnbsSP3zd0hxz3Y",
+          "start": 575,
+          "end": 583,
+          "truncationText": ", voisines",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        }
+      ]
+    },
+    {
+      "index": 1414,
+      "noun": "WERNER",
+      "id": "werner",
+      "offsetCount": 1,
+      "offsetResults": [
+        {
+          "batchId": 47,
+          "truncId": 114,
+          "machineCode": "【【114】】",
+          "chunkKey": "h1.-uKQ0RAg_HGI8D_JGuf0DJcS-AikF32z7mHRuxoMHU-S8JAKe63O_qXjtuftj3J71g2lw5sNjS3NDeRw8Pmbx5P-xqFz26X9AeGakqXQ49dLAXbb0ujPgENccfWqhA0hKhP1u3WAwQqyn0szy9yW5g",
+          "start": 117,
+          "end": 123,
+          "truncationText": ", GÉRARD SALVARESI PASCALE WERNER L'",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        }
+      ]
+    },
+    {
+      "index": 1415,
+      "noun": "yankee",
+      "id": "yankee",
+      "offsetCount": 1,
+      "offsetResults": [
+        {
+          "batchId": 3,
+          "truncId": 237,
+          "machineCode": "【【237】】",
+          "chunkKey": "h1.x2ymRKnt-ghPmtxTfLcoCLLWx4rQPvznAvtoL1Pil9tKKi9ikZhURXGMbNWMvMyALBtOnkmjq2qh2SY0-1bvf7997fdHMby6PamVJSLuxPAz0-N1G1zo0hnMXazfoOwrCjePGL1B_tUu2TCTGA",
+          "start": 533,
+          "end": 539,
+          "truncationText": "yankee",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        }
+      ]
+    },
+    {
+      "index": 1416,
+      "noun": "Zengakuren",
+      "id": "zengakuren",
+      "offsetCount": 1,
+      "offsetResults": [
+        {
+          "batchId": 38,
+          "truncId": 86,
+          "machineCode": "【【86】】",
+          "chunkKey": "h1.8qVTu_eOWeY6A5nTJOS3LH4027JIO5DIkdXo5UuGx4psOwM88h15JrIUePwMafrIi6LvsyomzHQ9njtFou_o8IzTbW9ago8yf2YsBp6ymwGFYOgcMhrO3OIeXUDo3ImrHfeTM7ln51IZJaO1QQpG",
+          "start": 1019,
+          "end": 1029,
+          "truncationText": "sulfureux qui se nomment : Zengakuren,",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        }
+      ]
+    },
+    {
+      "index": 1417,
+      "noun": "Σ.U",
+      "id": "σ.u",
+      "offsetCount": 1,
+      "offsetResults": [
+        {
+          "batchId": 23,
+          "truncId": 206,
+          "machineCode": "【【206】】",
+          "chunkKey": "h1.3JGuDdiV-Bw3rhXG0uAkoduPEESJfI82AHxGLtO5J2KvbYS7ENVllqHvwhCvkTtvgzoxHOp0O6Pf9JlaBgLtA6iU5q2nU-qY8OD60ElGv6jkEzXDXWQHdN7-wV9q1VaSmVjOry9qmRZg-GFN9tI",
+          "start": 1448,
+          "end": 1451,
+          "truncationText": ": Σ.U).",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        }
+      ]
+    },
+    {
+      "index": 1418,
+      "noun": "Φ.U",
+      "id": "φ.u",
+      "offsetCount": 1,
+      "offsetResults": [
+        {
+          "batchId": 20,
+          "truncId": 134,
+          "machineCode": "【【134】】",
+          "chunkKey": "h1.taZr-sWttwDwBacUI0alK8WQo02tYnpQziPmbqjXSL5wuk-xXD8laxLhmtvuNPQa_7FqFnRUcLJQ8gShNfXCTKx-c16zpm0xl1Gnx87xmLIv9ajesG0gsNfkAREsOYMwpEnxRO2yeyZExKVzhjM",
+          "start": 70,
+          "end": 73,
+          "truncationText": "(nulle et chauce)Φ.U. opérateurs intensifs de",
+          "status": "CORRECT",
+          "conclusion": "✓ 名词在对应截断内，提取正确"
+        }
+      ]
+    }
+  ]
+}

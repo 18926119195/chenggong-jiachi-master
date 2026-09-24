@@ -1,0 +1,62 @@
+{
+  "callId": "call-0072",
+  "questionId": "Z4-Q1",
+  "timestamp": "2026-09-23T08-38-03-316Z",
+  "elapsed": 671,
+  "success": true,
+  "error": null,
+  "attempts": 1,
+  "retries": 0,
+  "retryHistory": [
+    {
+      "attempt": 1,
+      "startedAt": "2026-09-23T08:38:03.316Z",
+      "error": null,
+      "httpStatus": null,
+      "elapsedMs": 671
+    }
+  ],
+  "response": {
+    "text": "【【26】】【【33】】【【40】】【【46】】【【47】】【【53】】【【57】】【【80】】【【116】】【【128】】【【129】】【【130】】【【131】】【【132】】【【133】】【【173】】【【174】】【【189】】【【234】】",
+    "usage": {
+      "prompt_tokens": 3819,
+      "completion_tokens": 77,
+      "total_tokens": 3896,
+      "prompt_tokens_details": {
+        "cached_tokens": 3584
+      },
+      "prompt_cache_hit_tokens": 3584,
+      "prompt_cache_miss_tokens": 235
+    },
+    "truncated": false,
+    "finishReason": "stop"
+  },
+  "rawResponse": {
+    "id": "3815d117-341c-4724-8976-ee1b2c624f90",
+    "object": "chat.completion",
+    "created": 1790152683,
+    "model": "deepseek-flash",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "【【26】】【【33】】【【40】】【【46】】【【47】】【【53】】【【57】】【【80】】【【116】】【【128】】【【129】】【【130】】【【131】】【【132】】【【133】】【【173】】【【174】】【【189】】【【234】】"
+        },
+        "logprobs": null,
+        "finish_reason": "stop"
+      }
+    ],
+    "usage": {
+      "prompt_tokens": 3819,
+      "completion_tokens": 77,
+      "total_tokens": 3896,
+      "prompt_tokens_details": {
+        "cached_tokens": 3584
+      },
+      "prompt_cache_hit_tokens": 3584,
+      "prompt_cache_miss_tokens": 235
+    },
+    "system_fingerprint": "aeb56401ca74e127821c4f9126dcb669"
+  }
+}

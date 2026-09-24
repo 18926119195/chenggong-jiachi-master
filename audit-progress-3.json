@@ -1,0 +1,851 @@
+[
+  {
+    "surface": "nouvelles figures",
+    "valid": true
+  },
+  {
+    "surface": "organisation urbaine",
+    "valid": true
+  },
+  {
+    "surface": "L'âge",
+    "valid": true
+  },
+  {
+    "surface": "cette formule ambigué",
+    "valid": true
+  },
+  {
+    "surface": "instable",
+    "valid": false,
+    "reason": "形容词"
+  },
+  {
+    "surface": "tortureée",
+    "valid": false,
+    "reason": "形容词（分词形式）"
+  },
+  {
+    "surface": "le surcurrit",
+    "valid": false,
+    "reason": "冠词+动词变位"
+  },
+  {
+    "surface": "survivre",
+    "valid": false,
+    "reason": "动词不定式"
+  },
+  {
+    "surface": "épouvantables",
+    "valid": false,
+    "reason": "形容词"
+  },
+  {
+    "surface": "épreuve",
+    "valid": true
+  },
+  {
+    "surface": "attendaient",
+    "valid": false,
+    "reason": "动词变位"
+  },
+  {
+    "surface": "les invasions barbares",
+    "valid": true
+  },
+  {
+    "surface": "epidémies",
+    "valid": true
+  },
+  {
+    "surface": ", les guerres",
+    "valid": false,
+    "reason": "含标点碎片"
+  },
+  {
+    "surface": "permanentes",
+    "valid": false,
+    "reason": "形容词"
+  },
+  {
+    "surface": "Schématiquement",
+    "valid": false,
+    "reason": "副词"
+  },
+  {
+    "surface": ", six séries",
+    "valid": false,
+    "reason": "含标点碎片"
+  },
+  {
+    "surface": "facteurs",
+    "valid": true
+  },
+  {
+    "surface": "les ruines",
+    "valid": true
+  },
+  {
+    "surface": "Bas-Empire",
+    "valid": true
+  },
+  {
+    "surface": "de l'Empire",
+    "valid": false,
+    "reason": "介词短语，非独立名词"
+  },
+  {
+    "surface": "carolingien",
+    "valid": false,
+    "reason": "形容词"
+  },
+  {
+    "surface": "Europe occidentale",
+    "valid": true
+  },
+  {
+    "surface": "une figure nouvelle",
+    "valid": true
+  },
+  {
+    "surface": "une double articulation",
+    "valid": true
+  },
+  {
+    "surface": "des entités territoriales",
+    "valid": true
+  },
+  {
+    "surface": "relativité",
+    "valid": true
+  },
+  {
+    "surface": "caractère ethnique",
+    "valid": true
+  },
+  {
+    "surface": ", religieux",
+    "valid": false,
+    "reason": "含标点碎片，形容词"
+  },
+  {
+    "surface": "départ",
+    "valid": true
+  },
+  {
+    "surface": "la texture",
+    "valid": true
+  },
+  {
+    "surface": "la segmentartité féodale",
+    "valid": true
+  },
+  {
+    "surface": "d'autres formes",
+    "valid": true
+  },
+  {
+    "surface": "à nos jours",
+    "valid": false,
+    "reason": "介词短语"
+  },
+  {
+    "surface": "la promotion",
+    "valid": true
+  },
+  {
+    "surface": "un monothème",
+    "valid": true
+  },
+  {
+    "surface": "l'usage",
+    "valid": true
+  },
+  {
+    "surface": "positions subjectives",
+    "valid": true
+  },
+  {
+    "surface": "barares",
+    "valid": false,
+    "reason": "拼写错误/非标准词形"
+  },
+  {
+    "surface": "esclaves",
+    "valid": true
+  },
+  {
+    "surface": "le fait",
+    "valid": true
+  },
+  {
+    "surface": "la souplesse",
+    "valid": true
+  },
+  {
+    "surface": "un système",
+    "valid": true
+  },
+  {
+    "surface": "référence idéologique",
+    "valid": true
+  },
+  {
+    "surface": "une données",
+    "valid": true
+  },
+  {
+    "surface": "tous les carreaux importants",
+    "valid": true
+  },
+  {
+    "surface": "la subjectivité capitalistique",
+    "valid": true
+  },
+  {
+    "surface": "la surprenante capacité",
+    "valid": true
+  },
+  {
+    "surface": "adaptation",
+    "valid": true
+  },
+  {
+    "surface": "capitalisme contemporain",
+    "valid": true
+  },
+  {
+    "surface": "les économies",
+    "valid": true
+  },
+  {
+    "surface": "dites",
+    "valid": false,
+    "reason": "动词变位/分词"
+  },
+  {
+    "surface": "La consolidation",
+    "valid": true
+  },
+  {
+    "surface": "nouveaux patterns éthico",
+    "valid": true
+  },
+  {
+    "surface": "l'Ocident chrétien aboutrie",
+    "valid": true
+  },
+  {
+    "surface": "la constitution",
+    "valid": true
+  },
+  {
+    "surface": "un double marché parallele",
+    "valid": true
+  },
+  {
+    "surface": "refondation permanente",
+    "valid": true
+  },
+  {
+    "surface": "débaires",
+    "valid": true
+  },
+  {
+    "surface": "territorialités",
+    "valid": true
+  },
+  {
+    "surface": "de rédition",
+    "valid": false,
+    "reason": "介词短语"
+  },
+  {
+    "surface": "filiations",
+    "valid": true
+  },
+  {
+    "surface": "des réseaux",
+    "valid": true
+  },
+  {
+    "surface": "suzerainte",
+    "valid": true
+  },
+  {
+    "surface": "aure",
+    "valid": false,
+    "reason": "非标准词形/拼写错误"
+  },
+  {
+    "surface": "prédisposition",
+    "valid": true
+  },
+  {
+    "surface": "circulation",
+    "valid": true
+  },
+  {
+    "surface": ", de signes",
+    "valid": false,
+    "reason": "含标点碎片，介词短语"
+  },
+  {
+    "surface": "monétaires",
+    "valid": false,
+    "reason": "形容词"
+  },
+  {
+    "surface": ", de figures",
+    "valid": false,
+    "reason": "含标点碎片，介词短语"
+  },
+  {
+    "surface": "technologie",
+    "valid": true
+  },
+  {
+    "surface": "biens",
+    "valid": true
+  },
+  {
+    "surface": "personnes",
+    "valid": true
+  },
+  {
+    "surface": "l'assomption",
+    "valid": true
+  },
+  {
+    "surface": "la seconde voix capitalistique",
+    "valid": true
+  },
+  {
+    "surface": "territorialise",
+    "valid": false,
+    "reason": "动词变位"
+  },
+  {
+    "surface": "l'entité",
+    "valid": true
+  },
+  {
+    "surface": "deterritorialisée",
+    "valid": false,
+    "reason": "形容词（分词形式）"
+  },
+  {
+    "surface": "l'Eglise catholique",
+    "valid": true
+  },
+  {
+    "surface": "Équipement collectif",
+    "valid": true
+  },
+  {
+    "surface": "l'échelle européenne",
+    "valid": true
+  },
+  {
+    "surface": "A la différence",
+    "valid": false,
+    "reason": "介词短语"
+  },
+  {
+    "surface": "antérieures",
+    "valid": false,
+    "reason": "形容词"
+  },
+  {
+    "surface": "pouvoir imperial",
+    "valid": true
+  },
+  {
+    "surface": "la figure centrale",
+    "valid": true
+  },
+  {
+    "surface": "prise directe",
+    "valid": true
+  },
+  {
+    "surface": "totalitaire-totalisante",
+    "valid": false,
+    "reason": "形容词"
+  },
+  {
+    "surface": "les territoires",
+    "valid": true
+  },
+  {
+    "surface": "socius",
+    "valid": true
+  },
+  {
+    "surface": "de la subjectivité",
+    "valid": false,
+    "reason": "介词短语"
+  },
+  {
+    "surface": "La chrétientie",
+    "valid": true
+  },
+  {
+    "surface": "précoucement",
+    "valid": false,
+    "reason": "拼写错误/非标准词形"
+  },
+  {
+    "surface": "l'islam",
+    "valid": true
+  },
+  {
+    "surface": "un renoncer",
+    "valid": true
+  },
+  {
+    "surface": "une unité organique",
+    "valid": true
+  },
+  {
+    "surface": "Mais la disparition",
+    "valid": false,
+    "reason": "含连词"
+  },
+  {
+    "surface": "un César",
+    "valid": true
+  },
+  {
+    "surface": "chair",
+    "valid": true
+  },
+  {
+    "surface": "en os",
+    "valid": false,
+    "reason": "介词短语"
+  },
+  {
+    "surface": "un Christ déterritorialisé",
+    "valid": true
+  },
+  {
+    "surface": "les processus",
+    "valid": true
+  },
+  {
+    "surface": "intégration",
+    "valid": true
+  },
+  {
+    "surface": "contraire",
+    "valid": false,
+    "reason": "形容词/介词短语成分"
+  },
+  {
+    "surface": "conjonction",
+    "valid": true
+  },
+  {
+    "surface": "la autonomie partielle",
+    "valid": true
+  },
+  {
+    "surface": "sphères politique et économique",
+    "valid": true
+  },
+  {
+    "surface": "la segmentariité feodale",
+    "valid": true
+  },
+  {
+    "surface": "ce caractère",
+    "valid": true
+  },
+  {
+    "surface": "hyper-fusionnel",
+    "valid": false,
+    "reason": "形容词"
+  },
+  {
+    "surface": "les croisades",
+    "valid": true
+  },
+  {
+    "surface": "l'adoption",
+    "valid": true
+  },
+  {
+    "surface": "codes aristocratiques",
+    "valid": true
+  },
+  {
+    "surface": "La Paix",
+    "valid": true
+  },
+  {
+    "surface": "Dieu",
+    "valid": true
+  },
+  {
+    "surface": "Georges Dobson",
+    "valid": true
+  },
+  {
+    "surface": "une faille",
+    "valid": true
+  },
+  {
+    "surface": "daille",
+    "valid": false,
+    "reason": "非标准词形/拼写错误"
+  },
+  {
+    "surface": "équilibre metastable",
+    "valid": true
+  },
+  {
+    "surface": "la proliferation",
+    "valid": true
+  },
+  {
+    "surface": "autres processus également partiels",
+    "valid": true
+  },
+  {
+    "surface": "autonomie",
+    "valid": true
+  },
+  {
+    "surface": "la mise",
+    "valid": true
+  },
+  {
+    "surface": "place",
+    "valid": true
+  },
+  {
+    "surface": "un quadrille culturel",
+    "valid": true
+  },
+  {
+    "surface": "populations chrétiennes",
+    "valid": true
+  },
+  {
+    "surface": "un nouveau type",
+    "valid": true
+  },
+  {
+    "surface": "machine religieuse",
+    "valid": true
+  },
+  {
+    "surface": "les écoles paroisiales",
+    "valid": true
+  },
+  {
+    "surface": "Charlemagne",
+    "valid": true
+  },
+  {
+    "surface": "la disparition",
+    "valid": true
+  },
+  {
+    "surface": "son Empire",
+    "valid": true
+  },
+  {
+    "surface": "l'instaturation",
+    "valid": true
+  },
+  {
+    "surface": "la longue durée",
+    "valid": true
+  },
+  {
+    "surface": ", de corps",
+    "valid": false,
+    "reason": "含标点碎片，介词短语"
+  },
+  {
+    "surface": "métiers",
+    "valid": true
+  },
+  {
+    "surface": "guildes",
+    "valid": true
+  },
+  {
+    "surface": ", de monastères",
+    "valid": false,
+    "reason": "含标点碎片，介词短语"
+  },
+  {
+    "surface": ", d'ordres",
+    "valid": false,
+    "reason": "含标点碎片，介词短语"
+  },
+  {
+    "surface": "banques",
+    "valid": true
+  },
+  {
+    "surface": "techniques",
+    "valid": true
+  },
+  {
+    "surface": "l'époque",
+    "valid": true
+  },
+  {
+    "surface": "- la vitalité schismatique",
+    "valid": false,
+    "reason": "含标点碎片"
+  },
+  {
+    "surface": "la sensibilité",
+    "valid": true
+  },
+  {
+    "surface": "de la réflexion",
+    "valid": false,
+    "reason": "介词短语"
+  },
+  {
+    "surface": "religieuse",
+    "valid": false,
+    "reason": "形容词"
+  },
+  {
+    "surface": "caractéristique",
+    "valid": true
+  },
+  {
+    "surface": "cette période",
+    "valid": true
+  },
+  {
+    "surface": "la généralisation",
+    "valid": true
+  },
+  {
+    "surface": "fer",
+    "valid": true
+  },
+  {
+    "surface": "des moulins",
+    "valid": true
+  },
+  {
+    "surface": "énergie naturelle",
+    "valid": true
+  },
+  {
+    "surface": "le développement",
+    "valid": true
+  },
+  {
+    "surface": "mentalités artisanales",
+    "valid": true
+  },
+  {
+    "surface": "urbaines",
+    "valid": false,
+    "reason": "形容词"
+  },
+  {
+    "surface": "essor",
+    "valid": true
+  },
+  {
+    "surface": "machinisme",
+    "valid": true
+  },
+  {
+    "surface": "que de façon",
+    "valid": false,
+    "reason": "连词+介词短语"
+  },
+  {
+    "surface": "quelque sorte parasitaire",
+    "valid": true
+  },
+  {
+    "surface": "enkystee",
+    "valid": false,
+    "reason": "形容词（分词形式）"
+  },
+  {
+    "surface": "grands Agencements humains",
+    "valid": true
+  },
+  {
+    "surface": "l'essentiel",
+    "valid": true
+  },
+  {
+    "surface": "grands systèmes",
+    "valid": true
+  },
+  {
+    "surface": "en'autres termes",
+    "valid": false,
+    "reason": "介词短语"
+  },
+  {
+    "surface": "un rapport fondamental",
+    "valid": true
+  },
+  {
+    "surface": "homme",
+    "valid": true
+  },
+  {
+    "surface": "outil",
+    "valid": true
+  },
+  {
+    "surface": "Cette seconde composante",
+    "valid": true
+  },
+  {
+    "surface": "partir du xvii° siècle",
+    "valid": false,
+    "reason": "介词短语/时间状语"
+  },
+  {
+    "surface": "un déséquilibre croissant des rapports homme/machine",
+    "valid": true
+  },
+  {
+    "surface": "territorialisées sociales",
+    "valid": false,
+    "reason": "形容词短语"
+  },
+  {
+    "surface": "penisit",
+    "valid": false,
+    "reason": "非标准词形/拼写错误"
+  },
+  {
+    "surface": "L'univers",
+    "valid": true
+  },
+  {
+    "surface": "référence",
+    "valid": true
+  },
+  {
+    "surface": "nouvel échangisme généralisé",
+    "valid": true
+  },
+  {
+    "surface": "territorialité",
+    "valid": true
+  },
+  {
+    "surface": "mode",
+    "valid": true
+  },
+  {
+    "surface": "reterritorialisation",
+    "valid": true
+  },
+  {
+    "surface": "activités humaines",
+    "valid": true
+  },
+  {
+    "surface": "des structures",
+    "valid": true
+  },
+  {
+    "surface": "les processus machiniques",
+    "valid": true
+  },
+  {
+    "surface": "Despote",
+    "valid": true
+  },
+  {
+    "surface": "le Dieu",
+    "valid": true
+  },
+  {
+    "surface": "clef",
+    "valid": true
+  },
+  {
+    "surface": "vole opérationnelle à la recomposition locale de Territoires existentiels",
+    "valid": false,
+    "reason": "含动词变位/非名词短语"
+  },
+  {
+    "surface": "capitalisation",
+    "valid": true
+  },
+  {
+    "surface": "valeurs abstraites",
+    "valid": true
+  },
+  {
+    "surface": "des savoirs économiques et technologiques",
+    "valid": true
+  },
+  {
+    "surface": "deux classes sociales",
+    "valid": true
+  },
+  {
+    "surface": "une équivalence généralielle",
+    "valid": true
+  },
+  {
+    "surface": "tous les modes",
+    "valid": true
+  },
+  {
+    "surface": "valorisation",
+    "valid": true
+  },
+  {
+    "surface": "des activités",
+    "valid": true
+  },
+  {
+    "surface": "une consistence historique",
+    "valid": true
+  },
+  {
+    "surface": "une sorte",
+    "valid": true
+  },
+  {
+    "surface": "perpetuelle course",
+    "valid": true
+  },
+  {
+    "surface": "relance",
+    "valid": true
+  },
+  {
+    "surface": "ses enjeux",
+    "valid": true
+  },
+  {
+    "surface": "La nouvelle *passion capitalistique",
+    "valid": false,
+    "reason": "含符号*"
+  },
+  {
+    "surface": "balaya",
+    "valid": false,
+    "reason": "动词变位"
+  },
+  {
+    "surface": "son passage",
+    "valid": true
+  }
+]

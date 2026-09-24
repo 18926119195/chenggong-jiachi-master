@@ -1,0 +1,883 @@
+[
+  {
+    "surface": "la tonalité",
+    "valid": true
+  },
+  {
+    "surface": "menagane",
+    "valid": false,
+    "reason": "拼写错误/非标准词形"
+  },
+  {
+    "surface": "la qualifiant",
+    "valid": false,
+    "reason": "冠词+分词，非名词短语"
+  },
+  {
+    "surface": "surmoire",
+    "valid": false,
+    "reason": "非标准词形"
+  },
+  {
+    "surface": "cette découpe enonicative",
+    "valid": false,
+    "reason": "含拼写错误且为指示词+名词短语，非独立名词"
+  },
+  {
+    "surface": "panoptique",
+    "valid": true
+  },
+  {
+    "surface": "l'irrémédiable précarité",
+    "valid": true
+  },
+  {
+    "surface": "dispositif ainsi m en place",
+    "valid": false,
+    "reason": "含副词及碎片，非规范名词短语"
+  },
+  {
+    "surface": "en résonance",
+    "valid": false,
+    "reason": "介词短语，非名词"
+  },
+  {
+    "surface": "notre propre ancestrale",
+    "valid": false,
+    "reason": "限定词+形容词，非名词短语"
+  },
+  {
+    "surface": "morcellement",
+    "valid": true
+  },
+  {
+    "surface": "du dépage",
+    "valid": false,
+    "reason": "缩合冠词+疑似拼写错误名词"
+  },
+  {
+    "surface": "La félure",
+    "valid": true
+  },
+  {
+    "surface": "le détachment",
+    "valid": false,
+    "reason": "拼写错误，应为détachement"
+  },
+  {
+    "surface": "une composition plastique",
+    "valid": true
+  },
+  {
+    "surface": "cette peur",
+    "valid": true
+  },
+  {
+    "surface": "l'absore",
+    "valid": false,
+    "reason": "拼写错误/非标准词形"
+  },
+  {
+    "surface": "du papier",
+    "valid": true
+  },
+  {
+    "surface": "buvard",
+    "valid": true
+  },
+  {
+    "surface": "renvoie",
+    "valid": false,
+    "reason": "动词变位"
+  },
+  {
+    "surface": "la faise intimidante",
+    "valid": false,
+    "reason": "含拼写错误，非规范名词短语"
+  },
+  {
+    "surface": "conjuratrice",
+    "valid": true
+  },
+  {
+    "surface": "la vacuité, l'aporie se révèlent garantes",
+    "valid": false,
+    "reason": "完整从句，非名词短语"
+  },
+  {
+    "surface": "l'chardere kiergäardienne",
+    "valid": false,
+    "reason": "拼写错误/非标准词形"
+  },
+  {
+    "surface": ", les ultimes points",
+    "valid": true
+  },
+  {
+    "surface": "les foyers catalytiques",
+    "valid": true
+  },
+  {
+    "surface": "Le paradox",
+    "valid": false,
+    "reason": "拼写错误，应为paradoxe"
+  },
+  {
+    "surface": "Tertullien",
+    "valid": true
+  },
+  {
+    "surface": "tout fait",
+    "valid": true
+  },
+  {
+    "surface": "deigne",
+    "valid": false,
+    "reason": "非标准词形"
+  },
+  {
+    "surface": "foi",
+    "valid": true
+  },
+  {
+    "surface": "Enseveli",
+    "valid": false,
+    "reason": "过去分词/形容词"
+  },
+  {
+    "surface": "*Passage",
+    "valid": true
+  },
+  {
+    "surface": "les transformant",
+    "valid": false,
+    "reason": "冠词+分词，非名词短语"
+  },
+  {
+    "surface": "Le traitement découpe",
+    "valid": false,
+    "reason": "含动词，非名词短语"
+  },
+  {
+    "surface": "exacerbé",
+    "valid": false,
+    "reason": "形容词/分词"
+  },
+  {
+    "surface": "imperceptible",
+    "valid": false,
+    "reason": "形容词"
+  },
+  {
+    "surface": "bouge«",
+    "valid": false,
+    "reason": "动词形式及标点碎片"
+  },
+  {
+    "surface": "cracking",
+    "valid": true
+  },
+  {
+    "surface": "ensembles molaires",
+    "valid": true
+  },
+  {
+    "surface": "les intensités moleculaires",
+    "valid": true
+  },
+  {
+    "surface": "le grain",
+    "valid": true
+  },
+  {
+    "surface": "pulvulentur",
+    "valid": false,
+    "reason": "非标准词形"
+  },
+  {
+    "surface": "motif/",
+    "valid": false,
+    "reason": "含标点碎片"
+  },
+  {
+    "surface": "L'affaissement",
+    "valid": true
+  },
+  {
+    "surface": "extentes",
+    "valid": false,
+    "reason": "非标准词形"
+  },
+  {
+    "surface": "en guirlande",
+    "valid": false,
+    "reason": "介词短语"
+  },
+  {
+    "surface": ", aux yeux",
+    "valid": false,
+    "reason": "介词短语及标点碎片"
+  },
+  {
+    "surface": "prisme",
+    "valid": true
+  },
+  {
+    "surface": "un tout",
+    "valid": true
+  },
+  {
+    "surface": "originaire",
+    "valid": false,
+    "reason": "形容词"
+  },
+  {
+    "surface": "nos façons",
+    "valid": true
+  },
+  {
+    "surface": "la position spécifique",
+    "valid": true
+  },
+  {
+    "surface": "collapsus",
+    "valid": true
+  },
+  {
+    "surface": "existent",
+    "valid": false,
+    "reason": "动词变位"
+  },
+  {
+    "surface": "dernière série",
+    "valid": true
+  },
+  {
+    "surface": "considerations",
+    "valid": true
+  },
+  {
+    "surface": "sentiers",
+    "valid": true
+  },
+  {
+    "surface": ", une telle capacité",
+    "valid": true
+  },
+  {
+    "surface": "mutation subjective",
+    "valid": true
+  },
+  {
+    "surface": "de réponse spéculate",
+    "valid": false,
+    "reason": "含拼写错误，非规范名词短语"
+  },
+  {
+    "surface": "chaque Agencement esthétique",
+    "valid": true
+  },
+  {
+    "surface": "énigne",
+    "valid": false,
+    "reason": "拼写错误，应为énigme"
+  },
+  {
+    "surface": "le *Passage*",
+    "valid": true
+  },
+  {
+    "surface": "ce que son véritable *suijet* n'est autre, précisément, que cet opérateur… de passage, de transversalité, de transfert de subjectivité",
+    "valid": false,
+    "reason": "完整从句，非名词短语"
+  },
+  {
+    "surface": "ce cas",
+    "valid": true
+  },
+  {
+    "surface": "une opération",
+    "valid": true
+  },
+  {
+    "surface": "fracture mouléculaire",
+    "valid": false,
+    "reason": "含拼写错误，非规范名词短语"
+  },
+  {
+    "surface": "correlatives",
+    "valid": false,
+    "reason": "形容词"
+  },
+  {
+    "surface": "une intensification",
+    "valid": true
+  },
+  {
+    "surface": "modulations",
+    "valid": true
+  },
+  {
+    "surface": "allieurs restreinte",
+    "valid": false,
+    "reason": "含拼写错误及形容词，非名词短语"
+  },
+  {
+    "surface": "Cette fracture visible",
+    "valid": true
+  },
+  {
+    "surface": "induit",
+    "valid": false,
+    "reason": "动词变位/分词"
+  },
+  {
+    "surface": "celle-là",
+    "valid": false,
+    "reason": "指示代词"
+  },
+  {
+    "surface": "recherches",
+    "valid": true
+  },
+  {
+    "surface": "Benoit",
+    "valid": true
+  },
+  {
+    "surface": "Mandelbrot",
+    "valid": true
+  },
+  {
+    "surface": "fractals*",
+    "valid": false,
+    "reason": "含标点碎片"
+  },
+  {
+    "surface": "subjectif",
+    "valid": false,
+    "reason": "形容词"
+  },
+  {
+    "surface": ", de *fractalisation",
+    "valid": true
+  },
+  {
+    "surface": "un ensemble fractal",
+    "valid": true
+  },
+  {
+    "surface": "homothetie interne",
+    "valid": true
+  },
+  {
+    "surface": "sa representation",
+    "valid": true
+  },
+  {
+    "surface": "tout contour identitaire",
+    "valid": true
+  },
+  {
+    "surface": "façon stochastique",
+    "valid": true
+  },
+  {
+    "surface": "l'analyse fractale",
+    "valid": true
+  },
+  {
+    "surface": "le leu",
+    "valid": false,
+    "reason": "拼写错误/非标准词形"
+  },
+  {
+    "surface": "la description",
+    "valid": true
+  },
+  {
+    "surface": "certains états limites",
+    "valid": true
+  },
+  {
+    "surface": "du socius",
+    "valid": true
+  },
+  {
+    "surface": "un stat fractal",
+    "valid": false,
+    "reason": "含拼写错误，非规范名词短语"
+  },
+  {
+    "surface": "Le peintre",
+    "valid": true
+  },
+  {
+    "surface": "sa toile",
+    "valid": true
+  },
+  {
+    "surface": "opérateurs processuels",
+    "valid": true
+  },
+  {
+    "surface": "Asservir",
+    "valid": false,
+    "reason": "动词不定式"
+  },
+  {
+    "surface": "de nouvelles lignes",
+    "valid": true
+  },
+  {
+    "surface": "des sortes",
+    "valid": true
+  },
+  {
+    "surface": "proto-logiciels informatiques",
+    "valid": true
+  },
+  {
+    "surface": "Rue*",
+    "valid": false,
+    "reason": "含标点碎片"
+  },
+  {
+    "surface": "deux opérateurs principaux",
+    "valid": true
+  },
+  {
+    "surface": "Une technique",
+    "valid": true
+  },
+  {
+    "surface": "cut-",
+    "valid": false,
+    "reason": "碎片"
+  },
+  {
+    "surface": "up",
+    "valid": false,
+    "reason": "碎片/非名词"
+  },
+  {
+    "surface": ", de désarticulation",
+    "valid": true
+  },
+  {
+    "surface": "motifs",
+    "valid": true
+  },
+  {
+    "surface": "*tableau vivants",
+    "valid": true
+  },
+  {
+    "surface": "Klossovsky",
+    "valid": true
+  },
+  {
+    "surface": "émette",
+    "valid": false,
+    "reason": "动词变位"
+  },
+  {
+    "surface": "de nouvelles références",
+    "valid": true
+  },
+  {
+    "surface": "de couleurs",
+    "valid": true
+  },
+  {
+    "surface": ", de multiples facons",
+    "valid": true
+  },
+  {
+    "surface": ", de l'ensemble",
+    "valid": true
+  },
+  {
+    "surface": "de son cadrage",
+    "valid": true
+  },
+  {
+    "surface": "un pôle",
+    "valid": true
+  },
+  {
+    "surface": "danse",
+    "valid": true
+  },
+  {
+    "surface": "invention",
+    "valid": true
+  },
+  {
+    "surface": "envoûtement",
+    "valid": true
+  },
+  {
+    "surface": "cette voie",
+    "valid": true
+  },
+  {
+    "surface": "certaines questions",
+    "valid": true
+  },
+  {
+    "surface": "dualisme",
+    "valid": true
+  },
+  {
+    "surface": "la coupure symbolique",
+    "valid": true
+  },
+  {
+    "surface": "du complexe",
+    "valid": true
+  },
+  {
+    "surface": "castration",
+    "valid": true
+  },
+  {
+    "surface": "ses relais",
+    "valid": true
+  },
+  {
+    "surface": "Winniccot",
+    "valid": true
+  },
+  {
+    "surface": ", d'reponse",
+    "valid": false,
+    "reason": "拼写错误及碎片"
+  },
+  {
+    "surface": "les convertisseurs",
+    "valid": true
+  },
+  {
+    "surface": "commerce",
+    "valid": true
+  },
+  {
+    "surface": "Saint-André",
+    "valid": true
+  },
+  {
+    "surface": "certaines circonstances",
+    "valid": true
+  },
+  {
+    "surface": "une représentation picture",
+    "valid": true
+  },
+  {
+    "surface": "une impulsion fractale",
+    "valid": true
+  },
+  {
+    "surface": "un dimension expérimentale",
+    "valid": false,
+    "reason": "性数配合错误，非规范名词短语"
+  },
+  {
+    "surface": "non seulement d'une dimension spatiale",
+    "valid": false,
+    "reason": "含连词及介词短语，非独立名词短语"
+  },
+  {
+    "surface": "également à travers",
+    "valid": false,
+    "reason": "副词+介词短语"
+  },
+  {
+    "surface": "d'autres dimensions temporelles et incorporelles",
+    "valid": true
+  },
+  {
+    "surface": "l'intelligence artificielle",
+    "valid": true
+  },
+  {
+    "surface": "une bonne fois",
+    "valid": true
+  },
+  {
+    "surface": "oppresions masses",
+    "valid": false,
+    "reason": "拼写错误及非规范组合"
+  },
+  {
+    "surface": "interface",
+    "valid": true
+  },
+  {
+    "surface": "ces deux modalités",
+    "valid": true
+  },
+  {
+    "surface": "Les caractéristiques principales",
+    "valid": true
+  },
+  {
+    "surface": "convertisseur",
+    "valid": true
+  },
+  {
+    "surface": "impulsion fractale",
+    "valid": true
+  },
+  {
+    "surface": "trois points",
+    "valid": true
+  },
+  {
+    "surface": "ses limites",
+    "valid": true
+  },
+  {
+    "surface": "étrange",
+    "valid": false,
+    "reason": "形容词"
+  },
+  {
+    "surface": "Sa processualité intrinsique",
+    "valid": false,
+    "reason": "含拼写错误，非规范名词短语"
+  },
+  {
+    "surface": "un repositionnement",
+    "valid": true
+  },
+  {
+    "surface": "ses références ontologiques",
+    "valid": true
+  },
+  {
+    "surface": "à un remanement",
+    "valid": false,
+    "reason": "介词短语及拼写错误"
+  },
+  {
+    "surface": "son énociation",
+    "valid": false,
+    "reason": "拼写错误，应为énonciation"
+  },
+  {
+    "surface": ", synonymes",
+    "valid": false,
+    "reason": "形容词/名词，但含标点碎片"
+  },
+  {
+    "surface": "resingularisation permanente",
+    "valid": true
+  },
+  {
+    "surface": "circscriptions",
+    "valid": false,
+    "reason": "拼写错误，应为circonscriptions"
+  },
+  {
+    "surface": "sens pré-étables",
+    "valid": false,
+    "reason": "拼写错误，非规范名词短语"
+  },
+  {
+    "surface": "l'amène",
+    "valid": false,
+    "reason": "代词+动词"
+  },
+  {
+    "surface": "expression auto-reférences",
+    "valid": false,
+    "reason": "非规范组合"
+  },
+  {
+    "surface": "autant d'instances auto-productrices",
+    "valid": true
+  },
+  {
+    "surface": "une telle fractalisation",
+    "valid": true
+  },
+  {
+    "surface": "de prolongements éthico",
+    "valid": false,
+    "reason": "碎片/非完整名词短语"
+  },
+  {
+    "surface": "la discursivité contraigna",
+    "valid": false,
+    "reason": "含拼写错误，非规范名词短语"
+  },
+  {
+    "surface": "s* sens unique",
+    "valid": false,
+    "reason": "含标点碎片"
+  },
+  {
+    "surface": "* la subjection capitalistique",
+    "valid": true
+  },
+  {
+    "surface": "son fait",
+    "valid": true
+  },
+  {
+    "surface": "approches",
+    "valid": true
+  },
+  {
+    "surface": "multicentères",
+    "valid": false,
+    "reason": "拼写错误/非标准词形"
+  },
+  {
+    "surface": ", polyphoniques",
+    "valid": false,
+    "reason": "形容词及标点碎片"
+  },
+  {
+    "surface": "polyvoyques",
+    "valid": false,
+    "reason": "非标准词形"
+  },
+  {
+    "surface": "equilibres",
+    "valid": true
+  },
+  {
+    "surface": "précédés",
+    "valid": false,
+    "reason": "分词/形容词"
+  },
+  {
+    "surface": "signifié",
+    "valid": true
+  },
+  {
+    "surface": "l' « iconique",
+    "valid": false,
+    "reason": "冠词+形容词，非名词"
+  },
+  {
+    "surface": ", du non-digital",
+    "valid": true
+  },
+  {
+    "surface": "sympôtre",
+    "valid": false,
+    "reason": "非标准词形"
+  },
+  {
+    "surface": "une certaine libération «",
+    "valid": false,
+    "reason": "含标点碎片"
+  },
+  {
+    "surface": "démocratique",
+    "valid": false,
+    "reason": "形容词"
+  },
+  {
+    "surface": "populations moléculaires",
+    "valid": true
+  },
+  {
+    "surface": "Permettez",
+    "valid": false,
+    "reason": "动词变位"
+  },
+  {
+    "surface": "guise",
+    "valid": true
+  },
+  {
+    "surface": ", de faire trois remarques relatives à la linguistique",
+    "valid": false,
+    "reason": "动词短语/从句"
+  },
+  {
+    "surface": "la musique",
+    "valid": true
+  },
+  {
+    "surface": "au positivisme",
+    "valid": true
+  },
+  {
+    "surface": "repête",
+    "valid": false,
+    "reason": "动词变位"
+  },
+  {
+    "surface": "pas seulement au discours",
+    "valid": false,
+    "reason": "否定副词+介词短语"
+  },
+  {
+    "surface": "les sémiologues",
+    "valid": true
+  },
+  {
+    "surface": "étiquet",
+    "valid": false,
+    "reason": "拼写错误/非标准词形"
+  },
+  {
+    "surface": "le leo刺ure",
+    "valid": false,
+    "reason": "含非拉丁字符及拼写错误"
+  },
+  {
+    "surface": "tiroirs syntaxique et sémiantique",
+    "valid": false,
+    "reason": "含拼写错误，非规范名词短语"
+  },
+  {
+    "surface": "ses dimensions",
+    "valid": true
+  },
+  {
+    "surface": "donction",
+    "valid": false,
+    "reason": "拼写错误，应为fonction"
+  },
+  {
+    "surface": "tout une autre portée",
+    "valid": true
+  },
+  {
+    "surface": "l'etiquet",
+    "valid": false,
+    "reason": "拼写错误/非标准词形"
+  },
+  {
+    "surface": "une place essentielle",
+    "valid": true
+  },
+  {
+    "surface": "les sémiologiques",
+    "valid": false,
+    "reason": "形容词名词化不当/非标准"
+  },
+  {
+    "surface": "utilisation",
+    "valid": true
+  },
+  {
+    "surface": "accentuations",
+    "valid": true
+  },
+  {
+    "surface": "des intonations",
+    "valid": true
+  },
+  {
+    "surface": "des traits prosodiques",
+    "valid": true
+  }
+]

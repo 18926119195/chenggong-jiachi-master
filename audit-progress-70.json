@@ -1,0 +1,888 @@
+[
+  {
+    "surface": ", est d'afficher",
+    "valid": false,
+    "reason": "标点碎片与动词短语混合，非名词"
+  },
+  {
+    "surface": "bâti",
+    "valid": true
+  },
+  {
+    "surface": "une communauté humaine",
+    "valid": true
+  },
+  {
+    "surface": "autres communités",
+    "valid": true
+  },
+  {
+    "surface": "ce même type",
+    "valid": true
+  },
+  {
+    "surface": "plusieurs deschelles",
+    "valid": false,
+    "reason": "拼写错误且含限定词，非规范名词短语"
+  },
+  {
+    "surface": "symbologue",
+    "valid": true
+  },
+  {
+    "surface": "un bâtiment indépendamment de sa taille (exemple : le plan en croix des églises chrétiennes)",
+    "valid": false,
+    "reason": "过长片段含介词、括号与完整句子，非单一候选名词"
+  },
+  {
+    "surface": "une construction",
+    "valid": true
+  },
+  {
+    "surface": "la ville idéale",
+    "valid": true
+  },
+  {
+    "surface": "Vitruv",
+    "valid": true
+  },
+  {
+    "surface": "les cités «",
+    "valid": false,
+    "reason": "含标点碎片，非规范名词短语"
+  },
+  {
+    "surface": "rurale",
+    "valid": true
+  },
+  {
+    "surface": "industrielle",
+    "valid": true
+  },
+  {
+    "surface": "échanges",
+    "valid": true
+  },
+  {
+    "surface": "socioculure",
+    "valid": false,
+    "reason": "拼写错误，疑似socioculture"
+  },
+  {
+    "surface": "les constructeurs arabes",
+    "valid": true
+  },
+  {
+    "surface": "hérité",
+    "valid": true
+  },
+  {
+    "surface": "l'Antiquité romaine",
+    "valid": true
+  },
+  {
+    "surface": ", encre",
+    "valid": false,
+    "reason": "标点碎片，且encre疑似误写"
+  },
+  {
+    "surface": "un style global",
+    "valid": true
+  },
+  {
+    "surface": "un établissement urbain",
+    "valid": true
+  },
+  {
+    "surface": "le climat",
+    "valid": true
+  },
+  {
+    "surface": "reférencement",
+    "valid": false,
+    "reason": "拼写错误，疑似référencement"
+  },
+  {
+    "surface": "petites villes tocanes",
+    "valid": true
+  },
+  {
+    "surface": ", aux antipodes",
+    "valid": false,
+    "reason": "标点碎片与介词短语，非名词"
+  },
+  {
+    "surface": "l'uverture",
+    "valid": false,
+    "reason": "拼写错误，疑似l'ouverture"
+  },
+  {
+    "surface": "un spatium transfini",
+    "valid": true
+  },
+  {
+    "surface": "agglomérations nord-américaines",
+    "valid": true
+  },
+  {
+    "surface": "un flux auxorateur",
+    "valid": false,
+    "reason": "含疑似拼写错误auxorateur，非规范名词短语"
+  },
+  {
+    "surface": "les énonciateurs collectifs",
+    "valid": true
+  },
+  {
+    "surface": "- les stratifications",
+    "valid": false,
+    "reason": "含标点碎片，非规范名词短语"
+  },
+  {
+    "surface": "les ressources",
+    "valid": true
+  },
+  {
+    "surface": "classes",
+    "valid": true
+  },
+  {
+    "surface": "âge",
+    "valid": true
+  },
+  {
+    "surface": ", les particularismes",
+    "valid": false,
+    "reason": "含标点碎片，非规范名词短语"
+  },
+  {
+    "surface": "régionaux",
+    "valid": true
+  },
+  {
+    "surface": ", les ségrégations",
+    "valid": false,
+    "reason": "含标点碎片，非规范名词短语"
+  },
+  {
+    "surface": "- les corps serres",
+    "valid": false,
+    "reason": "含标点碎片，非规范名词短语"
+  },
+  {
+    "surface": "contextifs",
+    "valid": true
+  },
+  {
+    "surface": "- les corps sociaux",
+    "valid": false,
+    "reason": "含标点碎片，非规范名词短语"
+  },
+  {
+    "surface": "sectoriés",
+    "valid": false,
+    "reason": "拼写或构词异常，疑似sectorisés"
+  },
+  {
+    "surface": "leurs activités spécialises",
+    "valid": false,
+    "reason": "含限定词且拼写异常，非规范名词短语"
+  },
+  {
+    "surface": "ordre économique",
+    "valid": true
+  },
+  {
+    "surface": ", culturel",
+    "valid": false,
+    "reason": "标点碎片与形容词，非名词"
+  },
+  {
+    "surface": "internement",
+    "valid": true
+  },
+  {
+    "surface": "incarcération",
+    "valid": true
+  },
+  {
+    "surface": "- les programmes",
+    "valid": false,
+    "reason": "含标点碎片，非规范名词短语"
+  },
+  {
+    "surface": "- les programmistes",
+    "valid": false,
+    "reason": "含标点碎片，非规范名词短语"
+  },
+  {
+    "surface": "les experts",
+    "valid": true
+  },
+  {
+    "surface": "techniciens",
+    "valid": true
+  },
+  {
+    "surface": "encoreer",
+    "valid": false,
+    "reason": "拼写错误，非名词"
+  },
+  {
+    "surface": "l'écriture architecturale",
+    "valid": true
+  },
+  {
+    "surface": "Une enoncation technique",
+    "valid": false,
+    "reason": "拼写错误，疑似énonciation"
+  },
+  {
+    "surface": "une « prise de paroles",
+    "valid": false,
+    "reason": "含标点碎片，非规范名词短语"
+  },
+  {
+    "surface": "l'appellage",
+    "valid": false,
+    "reason": "疑似拼写或构词异常"
+  },
+  {
+    "surface": "plus généralement des matériaux",
+    "valid": false,
+    "reason": "含副词与限定词，非单一名词短语"
+  },
+  {
+    "surface": "construction",
+    "valid": true
+  },
+  {
+    "surface": "la pente",
+    "valid": true
+  },
+  {
+    "surface": "Une énonciation",
+    "valid": true
+  },
+  {
+    "surface": "territorialisation existentielle",
+    "valid": true
+  },
+  {
+    "surface": ", d'ordre",
+    "valid": false,
+    "reason": "标点碎片与介词短语，非名词"
+  },
+  {
+    "surface": "Vittorio",
+    "valid": true
+  },
+  {
+    "surface": "Ugo",
+    "valid": true
+  },
+  {
+    "surface": "la distinction2",
+    "valid": false,
+    "reason": "含数字碎片，非规范名词"
+  },
+  {
+    "surface": "les espaces euclidiens",
+    "valid": true
+  },
+  {
+    "surface": "Apollon",
+    "valid": true
+  },
+  {
+    "surface": "une identité objective",
+    "valid": true
+  },
+  {
+    "surface": "axiomatico",
+    "valid": false,
+    "reason": "构词碎片，非独立名词"
+  },
+  {
+    "surface": "au sein",
+    "valid": false,
+    "reason": "介词短语，非名词"
+  },
+  {
+    "surface": "architecture",
+    "valid": true
+  },
+  {
+    "surface": "toute la clarté",
+    "valid": true
+  },
+  {
+    "surface": "satection cristalline",
+    "valid": false,
+    "reason": "含疑似拼写错误satection"
+  },
+  {
+    "surface": "satection",
+    "valid": false,
+    "reason": "疑似拼写错误，非规范名词"
+  },
+  {
+    "surface": "contradiction",
+    "valid": true
+  },
+  {
+    "surface": "- les espaces",
+    "valid": false,
+    "reason": "含标点碎片，非规范名词短语"
+  },
+  {
+    "surface": "Les ordonnées ethico",
+    "valid": false,
+    "reason": "构词碎片，非规范名词短语"
+  },
+  {
+    "surface": "les espaces projectifs",
+    "valid": true
+  },
+  {
+    "surface": "éigue",
+    "valid": false,
+    "reason": "拼写碎片，非规范名词"
+  },
+  {
+    "surface": "Morphée",
+    "valid": true
+  },
+  {
+    "surface": "des perspectives métamorphiques",
+    "valid": true
+  },
+  {
+    "surface": "imagineaire",
+    "valid": false,
+    "reason": "拼写错误，疑似imaginaire"
+  },
+  {
+    "surface": ", de l'étendue",
+    "valid": false,
+    "reason": "标点碎片与介词短语，非名词"
+  },
+  {
+    "surface": "- les espaces topologiques",
+    "valid": false,
+    "reason": "含标点碎片，非规范名词短语"
+  },
+  {
+    "surface": "L'énonciation architecturale",
+    "valid": true
+  },
+  {
+    "surface": "dimensions existentelles",
+    "valid": false,
+    "reason": "拼写错误，疑似existentielles"
+  },
+  {
+    "surface": "labyrinthiques",
+    "valid": true
+  },
+  {
+    "surface": "sours",
+    "valid": false,
+    "reason": "拼写错误或碎片，非规范名词"
+  },
+  {
+    "surface": "Dionysos",
+    "valid": true
+  },
+  {
+    "surface": "geométrie",
+    "valid": false,
+    "reason": "拼写错误，疑似géométrie"
+  },
+  {
+    "surface": "l'enveloppement",
+    "valid": true
+  },
+  {
+    "surface": "corps tactile",
+    "valid": true
+  },
+  {
+    "surface": "- les ordonnées cognitives",
+    "valid": false,
+    "reason": "含标点碎片，非规范名词短语"
+  },
+  {
+    "surface": "à savoir les co-ordonnées",
+    "valid": false,
+    "reason": "含连接短语，非单一名词短语"
+  },
+  {
+    "surface": "l'énonciation scripturale",
+    "valid": true
+  },
+  {
+    "surface": "les cinq premiers types",
+    "valid": true
+  },
+  {
+    "surface": "metabolisme",
+    "valid": false,
+    "reason": "拼写错误，疑似métabolisme"
+  },
+  {
+    "surface": "les objets",
+    "valid": true
+  },
+  {
+    "surface": "dehors",
+    "valid": true
+  },
+  {
+    "surface": "dedans",
+    "valid": true
+  },
+  {
+    "surface": ", de Vitruv",
+    "valid": false,
+    "reason": "标点碎片与介词短语，非名词"
+  },
+  {
+    "surface": "corps humain",
+    "valid": true
+  },
+  {
+    "surface": "habitat",
+    "valid": true
+  },
+  {
+    "surface": "explores",
+    "valid": false,
+    "reason": "疑似动词形式或拼写错误，非名词"
+  },
+  {
+    "surface": "que d'un point",
+    "valid": false,
+    "reason": "含连词与介词短语，非名词"
+  },
+  {
+    "surface": "organique",
+    "valid": true
+  },
+  {
+    "surface": "Comme l'Art Massimo Caccarii",
+    "valid": false,
+    "reason": "含连词与专名混合片段，非规范名词短语"
+  },
+  {
+    "surface": "Tout organisme authentique",
+    "valid": true
+  },
+  {
+    "surface": "les dimensions fractales",
+    "valid": true
+  },
+  {
+    "surface": "multiples",
+    "valid": true
+  },
+  {
+    "surface": "ce caractère labyrinthique",
+    "valid": true
+  },
+  {
+    "surface": "rhizomatique)",
+    "valid": false,
+    "reason": "含标点碎片，非规范名词"
+  },
+  {
+    "surface": "la territorialisation existentielle",
+    "valid": true
+  },
+  {
+    "surface": "- les ordonnées axiologiques",
+    "valid": false,
+    "reason": "含标点碎片，非规范名词短语"
+  },
+  {
+    "surface": "englobant l'ensemble",
+    "valid": false,
+    "reason": "含动词分词，非名词短语"
+  },
+  {
+    "surface": "valorisation anthropocentrique",
+    "valid": true
+  },
+  {
+    "surface": "aussi bien d'ordre éthique",
+    "valid": false,
+    "reason": "含副词与介词短语，非名词"
+  },
+  {
+    "surface": "les ordonnées esthétiques",
+    "valid": true
+  },
+  {
+    "surface": "les seuils",
+    "valid": true
+  },
+  {
+    "surface": "d'un ensemble",
+    "valid": false,
+    "reason": "介词短语，非名词"
+  },
+  {
+    "surface": "structurel",
+    "valid": true
+  },
+  {
+    "surface": "ethico-esthétiques",
+    "valid": true
+  },
+  {
+    "surface": "énoncion signifiantes",
+    "valid": false,
+    "reason": "拼写错误，疑似énonciations signifiantes"
+  },
+  {
+    "surface": "de derritorialisation",
+    "valid": false,
+    "reason": "拼写错误，疑似déterritorialisation"
+  },
+  {
+    "surface": "autres composantes",
+    "valid": true
+  },
+  {
+    "surface": "Ainsi le bât, le veçu",
+    "valid": false,
+    "reason": "含连词、标点与拼写错误，非规范名词短语"
+  },
+  {
+    "surface": "les sociétés capitalisistes",
+    "valid": false,
+    "reason": "拼写错误，疑似capitalistes"
+  },
+  {
+    "surface": "eliminer",
+    "valid": false,
+    "reason": "动词，非名词"
+  },
+  {
+    "surface": "leur architecture",
+    "valid": true
+  },
+  {
+    "surface": "de leur urbanisme",
+    "valid": false,
+    "reason": "介词短语，非名词"
+  },
+  {
+    "surface": "toute trace",
+    "valid": true
+  },
+  {
+    "surface": "singularisation subjective",
+    "valid": true
+  },
+  {
+    "surface": "une rigoureuse",
+    "valid": false,
+    "reason": "限定词加形容词，非名词短语"
+  },
+  {
+    "surface": "transparence fonctionnelle",
+    "valid": true
+  },
+  {
+    "surface": "informative",
+    "valid": true
+  },
+  {
+    "surface": "communicationnelle",
+    "valid": true
+  },
+  {
+    "surface": "Une énonciation scripturale",
+    "valid": true
+  },
+  {
+    "surface": "autres composantes énoncatives",
+    "valid": true
+  },
+  {
+    "surface": "la distance diagrammatique",
+    "valid": true
+  },
+  {
+    "surface": "par les coefficients",
+    "valid": false,
+    "reason": "介词短语，非名词"
+  },
+  {
+    "surface": "la projection architecturale",
+    "valid": true
+  },
+  {
+    "surface": "des aspects éthico",
+    "valid": false,
+    "reason": "构词碎片，非规范名词短语"
+  },
+  {
+    "surface": "bati",
+    "valid": true
+  },
+  {
+    "surface": "ame",
+    "valid": true
+  },
+  {
+    "surface": "personnalisation",
+    "valid": true
+  },
+  {
+    "surface": "dispense",
+    "valid": true
+  },
+  {
+    "surface": "service après-vente",
+    "valid": true
+  },
+  {
+    "surface": "de prise",
+    "valid": false,
+    "reason": "介词短语，非名词"
+  },
+  {
+    "surface": "constance synchronique",
+    "valid": true
+  },
+  {
+    "surface": "one",
+    "valid": false,
+    "reason": "英语词或碎片，非法语名词"
+  },
+  {
+    "surface": "boute",
+    "valid": false,
+    "reason": "拼写错误或碎片，非规范名词"
+  },
+  {
+    "surface": "chaussures",
+    "valid": true
+  },
+  {
+    "surface": "le lit",
+    "valid": true
+  },
+  {
+    "surface": "un internat médico-psychologique",
+    "valid": true
+  },
+  {
+    "surface": ", la rituelle",
+    "valid": false,
+    "reason": "标点碎片与形容词，非名词"
+  },
+  {
+    "surface": "motte",
+    "valid": true
+  },
+  {
+    "surface": "m处",
+    "valid": false,
+    "reason": "含非法语字符碎片"
+  },
+  {
+    "surface": "quelques camarares",
+    "valid": false,
+    "reason": "拼写错误，疑似camarades"
+  },
+  {
+    "surface": "la constellation particulière",
+    "valid": true
+  },
+  {
+    "surface": "refecteur",
+    "valid": false,
+    "reason": "拼写错误，疑似réfectoire"
+  },
+  {
+    "surface": "troite",
+    "valid": false,
+    "reason": "拼写错误，疑似étroite"
+  },
+  {
+    "surface": "réération",
+    "valid": false,
+    "reason": "拼写错误，非规范名词"
+  },
+  {
+    "surface": "ciel seule",
+    "valid": false,
+    "reason": "搭配异常，非规范名词短语"
+  },
+  {
+    "surface": "la A. larchitecton",
+    "valid": false,
+    "reason": "含标点与拼写碎片，非规范名词短语"
+  },
+  {
+    "surface": "une harmonique",
+    "valid": true
+  },
+  {
+    "surface": "fragmentaires",
+    "valid": true
+  },
+  {
+    "surface": "intrinsèque",
+    "valid": true
+  },
+  {
+    "surface": "sa face extérieure",
+    "valid": true
+  },
+  {
+    "surface": "cet objet",
+    "valid": true
+  },
+  {
+    "surface": "mille tensions",
+    "valid": true
+  },
+  {
+    "surface": "mais sous ses faces énoncies éthico",
+    "valid": false,
+    "reason": "含连词、介词与拼写碎片，非名词短语"
+  },
+  {
+    "surface": "un mode non discursive",
+    "valid": false,
+    "reason": "搭配异常，非规范名词短语"
+  },
+  {
+    "surface": "phénoménologique",
+    "valid": true
+  },
+  {
+    "surface": "travers l'experience particulière",
+    "valid": false,
+    "reason": "含介词与拼写错误，非规范名词短语"
+  },
+  {
+    "surface": "spatialisés",
+    "valid": true
+  },
+  {
+    "surface": "consistance cognitive",
+    "valid": true
+  },
+  {
+    "surface": "l'objet architectural bascule dans l'imaginea",
+    "valid": false,
+    "reason": "完整句子片段，非名词短语"
+  },
+  {
+    "surface": ", le délire",
+    "valid": false,
+    "reason": "含标点碎片，非规范名词短语"
+  },
+  {
+    "surface": "consistance axiologique",
+    "valid": true
+  },
+  {
+    "surface": "portues",
+    "valid": false,
+    "reason": "拼写错误，疑似portées"
+  },
+  {
+    "surface": "de désir",
+    "valid": false,
+    "reason": "介词短语，非名词"
+  },
+  {
+    "surface": "ces images",
+    "valid": true
+  },
+  {
+    "surface": "cinéma",
+    "valid": true
+  },
+  {
+    "surface": "aborigines",
+    "valid": true
+  },
+  {
+    "surface": "Australie",
+    "valid": true
+  },
+  {
+    "surface": "d'trauer",
+    "valid": false,
+    "reason": "拼写碎片，非规范名词"
+  },
+  {
+    "surface": "consistance esthétique",
+    "valid": true
+  },
+  {
+    "surface": "des intensités",
+    "valid": true
+  },
+  {
+    "surface": "l'habiter",
+    "valid": true
+  },
+  {
+    "surface": "l'essentier",
+    "valid": false,
+    "reason": "拼写或构词异常，非规范名词"
+  },
+  {
+    "surface": "la recommission",
+    "valid": false,
+    "reason": "疑似拼写错误，非规范名词"
+  },
+  {
+    "surface": "des Territoires existentiels",
+    "valid": true
+  },
+  {
+    "surface": "nos sociétés devaîtues",
+    "valid": false,
+    "reason": "拼写错误，疑似dévoyées"
+  },
+  {
+    "surface": "par les Flux capitalisatifs",
+    "valid": false,
+    "reason": "含介词与拼写错误，非规范名词短语"
+  },
+  {
+    "surface": "processusélément",
+    "valid": false,
+    "reason": "拼写粘连碎片，非规范名词"
+  },
+  {
+    "surface": "singularités catalytiques",
+    "valid": true
+  },
+  {
+    "surface": "aussi bien dans les dimensions sensibles",
+    "valid": false,
+    "reason": "含副词与介词短语，非单一名词短语"
+  },
+  {
+    "surface": "l'appareil architectural",
+    "valid": true
+  },
+  {
+    "surface": "les compositions formelles",
+    "valid": true
+  },
+  {
+    "surface": "les problematiques",
+    "valid": true
+  }
+]

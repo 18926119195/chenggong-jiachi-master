@@ -1,0 +1,885 @@
+[
+  {
+    "surface": "marges",
+    "valid": true
+  },
+  {
+    "surface": "une polyphonie singulière",
+    "valid": true
+  },
+  {
+    "surface": "secrètes",
+    "valid": true
+  },
+  {
+    "surface": "poète",
+    "valid": true
+  },
+  {
+    "surface": "sa sexualité",
+    "valid": true
+  },
+  {
+    "surface": "saunait",
+    "valid": false,
+    "reason": "拼写错误/非标准词形，疑似动词变位碎片"
+  },
+  {
+    "surface": "relève",
+    "valid": true
+  },
+  {
+    "surface": "d'ores",
+    "valid": false,
+    "reason": "介词/副词碎片，非独立名词"
+  },
+  {
+    "surface": "déjà du patrimonie",
+    "valid": false,
+    "reason": "含副词与介词，且拼写错误，非名词短语"
+  },
+  {
+    "surface": "métaphysiques",
+    "valid": true
+  },
+  {
+    "surface": "conduits",
+    "valid": true
+  },
+  {
+    "surface": "les feddayin",
+    "valid": true
+  },
+  {
+    "surface": "les Black",
+    "valid": true
+  },
+  {
+    "surface": "Panthers",
+    "valid": true
+  },
+  {
+    "surface": "ses vagabondages",
+    "valid": true
+  },
+  {
+    "surface": "La révolution palestinienne",
+    "valid": true
+  },
+  {
+    "surface": "futelle",
+    "valid": false,
+    "reason": "拼写/切分错误，疑似fût-elle"
+  },
+  {
+    "surface": "écrite",
+    "valid": true
+  },
+  {
+    "surface": "le neant",
+    "valid": true
+  },
+  {
+    "surface": "un artifice",
+    "valid": true
+  },
+  {
+    "surface": "du neant",
+    "valid": true
+  },
+  {
+    "surface": "la page",
+    "valid": true
+  },
+  {
+    "surface": "chaque minuscule",
+    "valid": true
+  },
+  {
+    "surface": "apparaissent",
+    "valid": false,
+    "reason": "动词变位，非名词"
+  },
+  {
+    "surface": "mots",
+    "valid": true
+  },
+  {
+    "surface": "sont-il",
+    "valid": false,
+    "reason": "助动词与代词组合，非名词"
+  },
+  {
+    "surface": "(*P.",
+    "valid": false,
+    "reason": "标点与缩写碎片"
+  },
+  {
+    "surface": "11.1",
+    "valid": false,
+    "reason": "纯数字/编号"
+  },
+  {
+    "surface": ", cette révolution",
+    "valid": false,
+    "reason": "含标点与指示形容词，非规范名词短语"
+  },
+  {
+    "surface": "prétexte",
+    "valid": true
+  },
+  {
+    "surface": "la litterature",
+    "valid": true
+  },
+  {
+    "surface": "séparait",
+    "valid": false,
+    "reason": "动词变位，非名词"
+  },
+  {
+    "surface": "poetes",
+    "valid": true
+  },
+  {
+    "surface": "la révolution*",
+    "valid": false,
+    "reason": "含星号标点碎片"
+  },
+  {
+    "surface": "si crulement",
+    "valid": false,
+    "reason": "含副词与拼写错误，非名词短语"
+  },
+  {
+    "surface": "*P.",
+    "valid": false,
+    "reason": "标点与缩写碎片"
+  },
+  {
+    "surface": "son expérience palestinienne",
+    "valid": true
+  },
+  {
+    "surface": "est en lieu",
+    "valid": false,
+    "reason": "助动词与介词短语，非名词"
+  },
+  {
+    "surface": "connu",
+    "valid": true
+  },
+  {
+    "surface": "capable",
+    "valid": true
+  },
+  {
+    "surface": "traité",
+    "valid": true
+  },
+  {
+    "surface": "lettres",
+    "valid": true
+  },
+  {
+    "surface": "la idée",
+    "valid": true
+  },
+  {
+    "surface": "l'une mère",
+    "valid": false,
+    "reason": "语法/切分错误，非规范名词短语"
+  },
+  {
+    "surface": "effleur",
+    "valid": false,
+    "reason": "拼写错误/动词词根碎片"
+  },
+  {
+    "surface": "l'incessant",
+    "valid": true
+  },
+  {
+    "surface": "débat",
+    "valid": true
+  },
+  {
+    "surface": "tout au long du livre, la légitimité",
+    "valid": false,
+    "reason": "含介词短语与标点，非单一名词短语"
+  },
+  {
+    "surface": "sa tentative",
+    "valid": true
+  },
+  {
+    "surface": "une accasion similaire",
+    "valid": true
+  },
+  {
+    "surface": "pacifiée",
+    "valid": true
+  },
+  {
+    "surface": "Héros unique",
+    "valid": true
+  },
+  {
+    "surface": "ses livres",
+    "valid": true
+  },
+  {
+    "surface": "l'imagine",
+    "valid": false,
+    "reason": "代词与动词组合，非名词"
+  },
+  {
+    "surface": "ibid",
+    "valid": false,
+    "reason": "拉丁缩写/引用标记"
+  },
+  {
+    "surface": "sensiblemement",
+    "valid": false,
+    "reason": "拼写错误副词，非名词"
+  },
+  {
+    "surface": "démarquée",
+    "valid": true
+  },
+  {
+    "surface": "concepions freudiennes",
+    "valid": true
+  },
+  {
+    "surface": "existientielle",
+    "valid": true
+  },
+  {
+    "surface": "Sartre",
+    "valid": true
+  },
+  {
+    "surface": "un certain schématisme",
+    "valid": true
+  },
+  {
+    "surface": "certaines tics réductionistes",
+    "valid": true
+  },
+  {
+    "surface": "L'gewet",
+    "valid": false,
+    "reason": "拼写错误/非标准词形"
+  },
+  {
+    "surface": "comparée",
+    "valid": true
+  },
+  {
+    "surface": "humanisation",
+    "valid": true
+  },
+  {
+    "surface": "les sacrifices humains",
+    "valid": true
+  },
+  {
+    "surface": "des sacrifices symboliques",
+    "valid": true
+  },
+  {
+    "surface": "une *possession cathartique",
+    "valid": false,
+    "reason": "含星号标点碎片"
+  },
+  {
+    "surface": "un psychodrama",
+    "valid": true
+  },
+  {
+    "surface": "Le roman",
+    "valid": true
+  },
+  {
+    "surface": "Notre-Dame-Fleurs",
+    "valid": true
+  },
+  {
+    "surface": "une desinoxication",
+    "valid": true
+  },
+  {
+    "surface": "narcissisme",
+    "valid": true
+  },
+  {
+    "surface": "après dix ans",
+    "valid": false,
+    "reason": "介词短语与数量表达，非名词"
+  },
+  {
+    "surface": "litérature",
+    "valid": true
+  },
+  {
+    "surface": "une cure",
+    "valid": true
+  },
+  {
+    "surface": "la guérison",
+    "valid": true
+  },
+  {
+    "surface": "patient",
+    "valid": true
+  },
+  {
+    "surface": "une petite famille",
+    "valid": true
+  },
+  {
+    "surface": "- Cet éternel errant",
+    "valid": false,
+    "reason": "含标点与指示形容词，非规范名词短语"
+  },
+  {
+    "surface": "quelques hardes",
+    "valid": true
+  },
+  {
+    "surface": "de l'argent",
+    "valid": true
+  },
+  {
+    "surface": "liquide",
+    "valid": true
+  },
+  {
+    "surface": "l'an",
+    "valid": true
+  },
+  {
+    "surface": "co-salireta",
+    "valid": false,
+    "reason": "拼写错误/非标准词形"
+  },
+  {
+    "surface": "un bain",
+    "valid": true
+  },
+  {
+    "surface": "Saint-Raphaël",
+    "valid": true
+  },
+  {
+    "surface": "Nice",
+    "valid": true
+  },
+  {
+    "surface": "attend",
+    "valid": false,
+    "reason": "动词变位，非名词"
+  },
+  {
+    "surface": "entoure",
+    "valid": false,
+    "reason": "动词变位，非名词"
+  },
+  {
+    "surface": "le maison",
+    "valid": true
+  },
+  {
+    "surface": "petit petits",
+    "valid": false,
+    "reason": "形容词重复碎片，非名词"
+  },
+  {
+    "surface": "discutant",
+    "valid": false,
+    "reason": "分词/动词形式，非名词"
+  },
+  {
+    "surface": "passionnement",
+    "valid": false,
+    "reason": "拼写错误副词，非名词"
+  },
+  {
+    "surface": "leur education",
+    "valid": true
+  },
+  {
+    "surface": "Mide",
+    "valid": false,
+    "reason": "拼写错误/非标准词形"
+  },
+  {
+    "surface": "la litérature",
+    "valid": true
+  },
+  {
+    "surface": "Et surtout, singulier Sartre",
+    "valid": false,
+    "reason": "含连词、副词与标点，非单一名词短语"
+  },
+  {
+    "surface": "Naïf",
+    "valid": true
+  },
+  {
+    "surface": "attendissant",
+    "valid": false,
+    "reason": "拼写错误/非标准词形"
+  },
+  {
+    "surface": "sécure",
+    "valid": true
+  },
+  {
+    "surface": "conformiste",
+    "valid": true
+  },
+  {
+    "surface": "direction",
+    "valid": true
+  },
+  {
+    "surface": "l'aventure",
+    "valid": true
+  },
+  {
+    "surface": "devait",
+    "valid": false,
+    "reason": "动词变位，非名词"
+  },
+  {
+    "surface": "fonder",
+    "valid": false,
+    "reason": "动词不定式，非名词"
+  },
+  {
+    "surface": "le choix",
+    "valid": true
+  },
+  {
+    "surface": "maison",
+    "valid": true
+  },
+  {
+    "surface": "évidemment",
+    "valid": false,
+    "reason": "副词，非名词"
+  },
+  {
+    "surface": "la néanthenation",
+    "valid": true
+  },
+  {
+    "surface": "rêverière diurne",
+    "valid": true
+  },
+  {
+    "surface": "captif",
+    "valid": true
+  },
+  {
+    "surface": "maison naite",
+    "valid": true
+  },
+  {
+    "surface": "implante",
+    "valid": true
+  },
+  {
+    "surface": "un rivage",
+    "valid": true
+  },
+  {
+    "surface": "laurur",
+    "valid": false,
+    "reason": "拼写错误/非标准词形"
+  },
+  {
+    "surface": "argumente",
+    "valid": false,
+    "reason": "动词变位，非名词"
+  },
+  {
+    "surface": "une fenêtre ouest",
+    "valid": true
+  },
+  {
+    "surface": "la jardin",
+    "valid": true
+  },
+  {
+    "surface": "assez",
+    "valid": false,
+    "reason": "副词，非名词"
+  },
+  {
+    "surface": "l'ode Chypre",
+    "valid": true
+  },
+  {
+    "surface": "s'impossert",
+    "valid": false,
+    "reason": "拼写错误/动词形式碎片"
+  },
+  {
+    "surface": "incanatoire",
+    "valid": false,
+    "reason": "拼写错误/非标准词形"
+  },
+  {
+    "surface": "d'ici",
+    "valid": false,
+    "reason": "介词与副词组合，非名词"
+  },
+  {
+    "surface": "danger",
+    "valid": true
+  },
+  {
+    "surface": "jassitérer",
+    "valid": false,
+    "reason": "拼写错误/非标准词形"
+  },
+  {
+    "surface": "une bataille navale",
+    "valid": true
+  },
+  {
+    "surface": "plein jour",
+    "valid": true
+  },
+  {
+    "surface": "J. p. 430)",
+    "valid": false,
+    "reason": "引用页码与标点碎片"
+  },
+  {
+    "surface": "Ensocelement aussiuttened par la surimpression d'une autre image, celle-la jordanie, et plus ancienne, d'une petite maison *au porche roman*, l'arc plein centrune par les quatre colonnes marbrées de la porte.",
+    "valid": false,
+    "reason": "完整句子含标点与星号，非名词短语"
+  },
+  {
+    "surface": "Il était alors en compagnie",
+    "valid": false,
+    "reason": "代词、助动词与介词短语，非名词"
+  },
+  {
+    "surface": "un haut responsable palestinien",
+    "valid": true
+  },
+  {
+    "surface": "avait",
+    "valid": false,
+    "reason": "助动词变位，非名词"
+  },
+  {
+    "surface": "Ce refus visceral",
+    "valid": true
+  },
+  {
+    "surface": "écrivain",
+    "valid": true
+  },
+  {
+    "surface": "imposerait",
+    "valid": false,
+    "reason": "动词变位，非名词"
+  },
+  {
+    "surface": "camper",
+    "valid": false,
+    "reason": "动词不定式，非名词"
+  },
+  {
+    "surface": "oubour",
+    "valid": false,
+    "reason": "拼写错误/非标准词形"
+  },
+  {
+    "surface": "la barricade",
+    "valid": true
+  },
+  {
+    "surface": "sûr",
+    "valid": true
+  },
+  {
+    "surface": "Jean-Paul Sartre'",
+    "valid": false,
+    "reason": "专有名词含多余标点碎片"
+  },
+  {
+    "surface": "Mait-il",
+    "valid": false,
+    "reason": "拼写/切分错误，非名词"
+  },
+  {
+    "surface": "n'en",
+    "valid": false,
+    "reason": "否定副词与介词组合，非名词"
+  },
+  {
+    "surface": "appréhendré",
+    "valid": false,
+    "reason": "拼写错误/动词形式碎片"
+  },
+  {
+    "surface": "son un angle exclusivement litteraire et considère que son destin l'appelait inoxablement à *finir* » dans la litterature",
+    "valid": false,
+    "reason": "完整句子含标点与星号，非名词短语"
+  },
+  {
+    "surface": "colossal",
+    "valid": true
+  },
+  {
+    "surface": "somptuus",
+    "valid": false,
+    "reason": "拼写错误/非标准词形"
+  },
+  {
+    "surface": "le mausoleur",
+    "valid": true
+  },
+  {
+    "surface": "adéifié",
+    "valid": true
+  },
+  {
+    "surface": "preface",
+    "valid": true
+  },
+  {
+    "surface": "700 pages",
+    "valid": false,
+    "reason": "纯数字与名词组合，非规范名词短语"
+  },
+  {
+    "surface": "plum",
+    "valid": false,
+    "reason": "拼写错误/非标准词形"
+  },
+  {
+    "surface": "ajusté",
+    "valid": true
+  },
+  {
+    "surface": "le personage",
+    "valid": true
+  },
+  {
+    "surface": "rétarder",
+    "valid": false,
+    "reason": "动词不定式，非名词"
+  },
+  {
+    "surface": "trop",
+    "valid": false,
+    "reason": "副词，非名词"
+  },
+  {
+    "surface": "ambieuse",
+    "valid": false,
+    "reason": "拼写错误/非标准词形"
+  },
+  {
+    "surface": "manqué",
+    "valid": true
+  },
+  {
+    "surface": "le ressort",
+    "valid": true
+  },
+  {
+    "surface": "sa vie",
+    "valid": true
+  },
+  {
+    "surface": "de son dureu",
+    "valid": false,
+    "reason": "含介词与拼写错误，非名词短语"
+  },
+  {
+    "surface": "aurait",
+    "valid": false,
+    "reason": "助动词变位，非名词"
+  },
+  {
+    "surface": "trois morphoses",
+    "valid": true
+  },
+  {
+    "surface": "voleur",
+    "valid": true
+  },
+  {
+    "surface": "l'esthère",
+    "valid": true
+  },
+  {
+    "surface": "l'écrivain",
+    "valid": true
+  },
+  {
+    "surface": "l'auraient",
+    "valid": false,
+    "reason": "代词与助动词组合，非名词"
+  },
+  {
+    "surface": "successivement",
+    "valid": false,
+    "reason": "副词，非名词"
+  },
+  {
+    "surface": "geste",
+    "valid": true
+  },
+  {
+    "surface": "Saint Genet, p. 470",
+    "valid": false,
+    "reason": "引用页码与标点碎片"
+  },
+  {
+    "surface": "affirmer",
+    "valid": false,
+    "reason": "动词不定式，非名词"
+  },
+  {
+    "surface": "sa solitude",
+    "valid": true
+  },
+  {
+    "surface": "suffire",
+    "valid": false,
+    "reason": "动词不定式，非名词"
+  },
+  {
+    "surface": "et c'est l'écripture",
+    "valid": false,
+    "reason": "含连词、代词与助动词，非名词短语"
+  },
+  {
+    "surface": "ses problèmes",
+    "valid": true
+  },
+  {
+    "surface": "insensible",
+    "valid": true
+  },
+  {
+    "surface": "chercher",
+    "valid": false,
+    "reason": "动词不定式，非名词"
+  },
+  {
+    "surface": "descheres",
+    "valid": false,
+    "reason": "拼写错误/非标准词形"
+  },
+  {
+    "surface": "la vertu",
+    "valid": true
+  },
+  {
+    "surface": "par leurs insuffisances",
+    "valid": false,
+    "reason": "含介词与限定词，非独立名词短语"
+  },
+  {
+    "surface": "cet onaniste",
+    "valid": true
+  },
+  {
+    "surface": "chang",
+    "valid": false,
+    "reason": "拼写错误/非标准词形"
+  },
+  {
+    "surface": "«Ibid.",
+    "valid": false,
+    "reason": "拉丁缩写与标点碎片"
+  },
+  {
+    "surface": "quelque sort",
+    "valid": true
+  },
+  {
+    "surface": "un psychopathe pervers",
+    "valid": true
+  },
+  {
+    "surface": "délinquent",
+    "valid": true
+  },
+  {
+    "surface": "rhétorique",
+    "valid": true
+  },
+  {
+    "surface": "(p.",
+    "valid": false,
+    "reason": "标点与缩写碎片"
+  },
+  {
+    "surface": "l'inmaigraine",
+    "valid": false,
+    "reason": "拼写错误/非标准词形"
+  },
+  {
+    "surface": "d'hument",
+    "valid": false,
+    "reason": "拼写错误/非标准词形"
+  },
+  {
+    "surface": "- Regardez",
+    "valid": false,
+    "reason": "标点与动词命令式，非名词"
+  },
+  {
+    "surface": "le rocher",
+    "valid": true
+  },
+  {
+    "surface": "belle",
+    "valid": true
+  },
+  {
+    "surface": "voulez",
+    "valid": false,
+    "reason": "动词变位，非名词"
+  },
+  {
+    "surface": "l'OLP",
+    "valid": true
+  },
+  {
+    "surface": "laouera",
+    "valid": false,
+    "reason": "拼写错误/动词形式碎片"
+  },
+  {
+    "surface": "six mois",
+    "valid": true
+  },
+  {
+    "surface": "s'entendit-il",
+    "valid": false,
+    "reason": "代词与动词组合，非名词"
+  },
+  {
+    "surface": "répondre",
+    "valid": false,
+    "reason": "动词不定式，非名词"
+  },
+  {
+    "surface": "aussitôt",
+    "valid": false,
+    "reason": "副词，非名词"
+  }
+]

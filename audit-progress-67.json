@@ -1,0 +1,872 @@
+[
+  {
+    "surface": "son sperme",
+    "valid": true
+  },
+  {
+    "surface": "le timbre guttural",
+    "valid": true
+  },
+  {
+    "surface": "p.197",
+    "valid": false,
+    "reason": "页码标记，非名词"
+  },
+  {
+    "surface": ", sa façon",
+    "valid": false,
+    "reason": "含标点碎片，非独立名词短语"
+  },
+  {
+    "surface": "Maurice Chevalier",
+    "valid": true
+  },
+  {
+    "surface": "sa claudication",
+    "valid": true
+  },
+  {
+    "surface": "aussi sa silhouette",
+    "valid": false,
+    "reason": "含副词aussi，非名词短语"
+  },
+  {
+    "surface": ", un cureux transfert",
+    "valid": false,
+    "reason": "含标点碎片"
+  },
+  {
+    "surface": "decourent",
+    "valid": false,
+    "reason": "动词变位形式"
+  },
+  {
+    "surface": "sa demarque",
+    "valid": true
+  },
+  {
+    "surface": "Le Soudainais",
+    "valid": true
+  },
+  {
+    "surface": "un jour ouciel",
+    "valid": false,
+    "reason": "疑似拼写错误且含连词ou"
+  },
+  {
+    "surface": "cui",
+    "valid": false,
+    "reason": "拼写碎片，非完整名词"
+  },
+  {
+    "surface": "un imitation",
+    "valid": false,
+    "reason": "冠词性数不一致，疑似碎片"
+  },
+  {
+    "surface": "que Genet",
+    "valid": false,
+    "reason": "含连词/关系代词que"
+  },
+  {
+    "surface": "ebaucher",
+    "valid": false,
+    "reason": "动词不定式"
+  },
+  {
+    "surface": "Il est sa montaure montant",
+    "valid": false,
+    "reason": "含代词与助动词，非名词短语"
+  },
+  {
+    "surface": "les marches",
+    "valid": true
+  },
+  {
+    "surface": "un escalier",
+    "valid": true
+  },
+  {
+    "surface": "le personnage gigantesc",
+    "valid": true
+  },
+  {
+    "surface": "un ciel掖 noir",
+    "valid": false,
+    "reason": "含非法语字符碎片"
+  },
+  {
+    "surface": "la fatigue",
+    "valid": true
+  },
+  {
+    "surface": "l'age",
+    "valid": true
+  },
+  {
+    "surface": "l'escalade",
+    "valid": true
+  },
+  {
+    "surface": "la descente",
+    "valid": true
+  },
+  {
+    "surface": "colline",
+    "valid": true
+  },
+  {
+    "surface": ", marche",
+    "valid": false,
+    "reason": "含标点碎片"
+  },
+  {
+    "surface": "ma mesure",
+    "valid": true
+  },
+  {
+    "surface": ", collines",
+    "valid": false,
+    "reason": "含标点碎片"
+  },
+  {
+    "surface": "aussi hautes",
+    "valid": false,
+    "reason": "含副词，非名词短语"
+  },
+  {
+    "surface": "les nuges",
+    "valid": true
+  },
+  {
+    "surface": "Naplouse",
+    "valid": true
+  },
+  {
+    "surface": "la fin du肝",
+    "valid": false,
+    "reason": "含非法语字符碎片"
+  },
+  {
+    "surface": "cette claudication",
+    "valid": true
+  },
+  {
+    "surface": "demarche",
+    "valid": true
+  },
+  {
+    "surface": "la première fois",
+    "valid": true
+  },
+  {
+    "surface": "mirroir",
+    "valid": true
+  },
+  {
+    "surface": "un肝",
+    "valid": false,
+    "reason": "含非法语字符碎片"
+  },
+  {
+    "surface": "eyes",
+    "valid": false,
+    "reason": "英语词，非法语名词"
+  },
+  {
+    "surface": "l'image fabelue",
+    "valid": true
+  },
+  {
+    "surface": "la pure",
+    "valid": false,
+    "reason": "形容词名词化不完整，疑似碎片"
+  },
+  {
+    "surface": "mirage reflet",
+    "valid": true
+  },
+  {
+    "surface": "reflet",
+    "valid": true
+  },
+  {
+    "surface": "imagineur surcharge",
+    "valid": false,
+    "reason": "疑似拼写错误/碎片组合"
+  },
+  {
+    "surface": "Moubarka",
+    "valid": true
+  },
+  {
+    "surface": "un angle",
+    "valid": true
+  },
+  {
+    "surface": "un éclairage d'autant plus vrais",
+    "valid": false,
+    "reason": "含比较结构，非名词短语"
+  },
+  {
+    "surface": "récitals",
+    "valid": true
+  },
+  {
+    "surface": ", repens",
+    "valid": false,
+    "reason": "含标点碎片，且疑似动词形式"
+  },
+  {
+    "surface": ", immen",
+    "valid": false,
+    "reason": "含标点碎片，且为截断词"
+  },
+  {
+    "surface": "Moubarak",
+    "valid": true
+  },
+  {
+    "surface": "polychromie",
+    "valid": true
+  },
+  {
+    "surface": "dominante violet",
+    "valid": true
+  },
+  {
+    "surface": "Prusse",
+    "valid": true
+  },
+  {
+    "surface": "négre",
+    "valid": true
+  },
+  {
+    "surface": ", de la violence",
+    "valid": false,
+    "reason": "含标点碎片与介词"
+  },
+  {
+    "surface": "des vertus",
+    "valid": true
+  },
+  {
+    "surface": "Négre camélion",
+    "valid": true
+  },
+  {
+    "surface": "ses résés",
+    "valid": false,
+    "reason": "疑似拼写错误/碎片"
+  },
+  {
+    "surface": "Afrique",
+    "valid": true
+  },
+  {
+    "surface": ", de ses amours",
+    "valid": false,
+    "reason": "含标点碎片与介词"
+  },
+  {
+    "surface": "prison",
+    "valid": true
+  },
+  {
+    "surface": ", de l'Amérique noire",
+    "valid": false,
+    "reason": "含标点碎片与介词"
+  },
+  {
+    "surface": "de la part",
+    "valid": false,
+    "reason": "介词短语，非名词"
+  },
+  {
+    "surface": "luts palestiniennes",
+    "valid": false,
+    "reason": "疑似拼写错误/碎片"
+  },
+  {
+    "surface": "des impréchations",
+    "valid": true
+  },
+  {
+    "surface": "Archibald",
+    "valid": true
+  },
+  {
+    "surface": "Les Négres¹",
+    "valid": true
+  },
+  {
+    "surface": "les négres",
+    "valid": true
+  },
+  {
+    "surface": "à la folie",
+    "valid": false,
+    "reason": "介词短语，非名词"
+  },
+  {
+    "surface": "condame",
+    "valid": false,
+    "reason": "疑似拼写错误/动词形式"
+  },
+  {
+    "surface": "leur ébène",
+    "valid": true
+  },
+  {
+    "surface": ", dans leur oeur",
+    "valid": false,
+    "reason": "含标点碎片与介词"
+  },
+  {
+    "surface": "l'etile",
+    "valid": true
+  },
+  {
+    "surface": "leurs gouts",
+    "valid": true
+  },
+  {
+    "surface": "cannibales²",
+    "valid": true
+  },
+  {
+    "surface": "Leoir",
+    "valid": false,
+    "reason": "疑似拼写错误/碎片"
+  },
+  {
+    "surface": "n'est l'plus en du blanc",
+    "valid": false,
+    "reason": "含助动词与碎片，非名词短语"
+  },
+  {
+    "surface": "sa limite",
+    "valid": true
+  },
+  {
+    "surface": "tête",
+    "valid": true
+  },
+  {
+    "surface": "les Pantheres portaient",
+    "valid": false,
+    "reason": "含动词变位"
+  },
+  {
+    "surface": "leur tête",
+    "valid": true
+  },
+  {
+    "surface": "un sexe velu",
+    "valid": true
+  },
+  {
+    "surface": "serre²",
+    "valid": true
+  },
+  {
+    "surface": "l'Ocident",
+    "valid": true
+  },
+  {
+    "surface": "ces deux noms",
+    "valid": true
+  },
+  {
+    "surface": "la mort³",
+    "valid": true
+  },
+  {
+    "surface": "écrit",
+    "valid": false,
+    "reason": "动词过去分词形式"
+  },
+  {
+    "surface": "une autre procédure",
+    "valid": true
+  },
+  {
+    "surface": "l'image fabuleuse",
+    "valid": true
+  },
+  {
+    "surface": "ses limites¹.",
+    "valid": true
+  },
+  {
+    "surface": "Maukobac maville",
+    "valid": false,
+    "reason": "疑似拼写错误/碎片组合"
+  },
+  {
+    "surface": "un morcellement",
+    "valid": true
+  },
+  {
+    "surface": "une solution",
+    "valid": true
+  },
+  {
+    "surface": "processus menace",
+    "valid": true
+  },
+  {
+    "surface": "la surprise",
+    "valid": true
+  },
+  {
+    "surface": "le monde coupe",
+    "valid": true
+  },
+  {
+    "surface": "deux moitiés",
+    "valid": true
+  },
+  {
+    "surface": "cet instant",
+    "valid": true
+  },
+  {
+    "surface": "le tranchant",
+    "valid": true
+  },
+  {
+    "surface": "couteau",
+    "valid": true
+  },
+  {
+    "surface": "le leutant",
+    "valid": true
+  },
+  {
+    "surface": "soleil",
+    "valid": true
+  },
+  {
+    "surface": "le manche",
+    "valid": true
+  },
+  {
+    "surface": "deuin",
+    "valid": false,
+    "reason": "疑似拼写错误/碎片"
+  },
+  {
+    "surface": "Le leutant marche",
+    "valid": false,
+    "reason": "含动词变位marche"
+  },
+  {
+    "surface": "les ténèbres",
+    "valid": true
+  },
+  {
+    "surface": "la lumière¹.",
+    "valid": true
+  },
+  {
+    "surface": "opérateurs existentiels",
+    "valid": true
+  },
+  {
+    "surface": "La concaténation modulaire",
+    "valid": true
+  },
+  {
+    "surface": "fluctuations cosmiques",
+    "valid": true
+  },
+  {
+    "surface": "harmoniques *fabulues",
+    "valid": false,
+    "reason": "含星号与疑似拼写错误"
+  },
+  {
+    "surface": "voix",
+    "valid": true
+  },
+  {
+    "surface": "processus créatif",
+    "valid": true
+  },
+  {
+    "surface": "contemplation passive",
+    "valid": true
+  },
+  {
+    "surface": "orchestration active",
+    "valid": true
+  },
+  {
+    "surface": "présent, c'est l'énoncation",
+    "valid": false,
+    "reason": "含代词与动词，非名词短语"
+  },
+  {
+    "surface": "une certaine fasion",
+    "valid": true
+  },
+  {
+    "surface": "cette idée",
+    "valid": true
+  },
+  {
+    "surface": "ces signes",
+    "valid": true
+  },
+  {
+    "surface": "l'ipséité",
+    "valid": true
+  },
+  {
+    "surface": "la terminologie sarrêtienne",
+    "valid": true
+  },
+  {
+    "surface": "entreprise",
+    "valid": true
+  },
+  {
+    "surface": "production *",
+    "valid": false,
+    "reason": "含星号碎片"
+  },
+  {
+    "surface": "une subjectivité mutante",
+    "valid": true
+  },
+  {
+    "surface": "Tout dependra",
+    "valid": false,
+    "reason": "含代词与动词"
+  },
+  {
+    "surface": "la fantasme",
+    "valid": true
+  },
+  {
+    "surface": "qu'identiv",
+    "valid": false,
+    "reason": "含关系代词与截断词"
+  },
+  {
+    "surface": "ses propres termes",
+    "valid": true
+  },
+  {
+    "surface": "oeilie",
+    "valid": false,
+    "reason": "疑似拼写错误/碎片"
+  },
+  {
+    "surface": "polaire",
+    "valid": true
+  },
+  {
+    "surface": "rétégal",
+    "valid": false,
+    "reason": "疑似拼写错误/碎片"
+  },
+  {
+    "surface": "Ce point fixe",
+    "valid": true
+  },
+  {
+    "surface": "l'amour",
+    "valid": true
+  },
+  {
+    "surface": "quelle sorte",
+    "valid": true
+  },
+  {
+    "surface": "endu",
+    "valid": false,
+    "reason": "疑似拼写错误/碎片"
+  },
+  {
+    "surface": "ans",
+    "valid": true
+  },
+  {
+    "surface": "vieille",
+    "valid": false,
+    "reason": "形容词，非名词"
+  },
+  {
+    "surface": "tout et pour tout, vingt-duge heures*",
+    "valid": false,
+    "reason": "含连词、介词与星号碎片"
+  },
+  {
+    "surface": "la les éléments",
+    "valid": false,
+    "reason": "含重复冠词碎片"
+  },
+  {
+    "surface": "la conversion fabuleuse",
+    "valid": true
+  },
+  {
+    "surface": "les mêmes distorsions sémiotiques",
+    "valid": true
+  },
+  {
+    "surface": "la silhouette",
+    "valid": true
+  },
+  {
+    "surface": "une bromépaise",
+    "valid": false,
+    "reason": "疑似拼写错误/碎片"
+  },
+  {
+    "surface": "un nage",
+    "valid": true
+  },
+  {
+    "surface": "sue",
+    "valid": false,
+    "reason": "疑似动词形式/碎片"
+  },
+  {
+    "surface": "le fils",
+    "valid": true
+  },
+  {
+    "surface": "immense",
+    "valid": false,
+    "reason": "形容词，非名词"
+  },
+  {
+    "surface": "son fusil",
+    "valid": true
+  },
+  {
+    "surface": "l'attitude",
+    "valid": true
+  },
+  {
+    "surface": "quotidienne",
+    "valid": false,
+    "reason": "形容词，非名词"
+  },
+  {
+    "surface": "mensurations",
+    "valid": true
+  },
+  {
+    "surface": "l'autre gante, simplement présente",
+    "valid": false,
+    "reason": "含副词与形容词，非名词短语"
+  },
+  {
+    "surface": "les proportions",
+    "valid": true
+  },
+  {
+    "surface": "une figure mythologique",
+    "valid": true
+  },
+  {
+    "surface": "humaine",
+    "valid": false,
+    "reason": "形容词，非名词"
+  },
+  {
+    "surface": "l'autre fabuleuse",
+    "valid": true
+  },
+  {
+    "surface": "*jipe duire",
+    "valid": false,
+    "reason": "含星号与疑似拼写错误"
+  },
+  {
+    "surface": "s'en ajoute",
+    "valid": false,
+    "reason": "含代词与动词"
+  },
+  {
+    "surface": "couple pied-tête-Christ",
+    "valid": true
+  },
+  {
+    "surface": "roman familial",
+    "valid": true
+  },
+  {
+    "surface": "lesquelts",
+    "valid": false,
+    "reason": "疑似拼写错误的关系代词"
+  },
+  {
+    "surface": "attribut",
+    "valid": true
+  },
+  {
+    "surface": "nobles filiations",
+    "valid": true
+  },
+  {
+    "surface": "toutes les places possibles",
+    "valid": true
+  },
+  {
+    "surface": "femme",
+    "valid": true
+  },
+  {
+    "surface": "crucifix",
+    "valid": true
+  },
+  {
+    "surface": "Déjálongtemps",
+    "valid": false,
+    "reason": "副词短语，非名词"
+  },
+  {
+    "surface": "une transformation religieuse",
+    "valid": true
+  },
+  {
+    "surface": "La Vierge",
+    "valid": true
+  },
+  {
+    "surface": "la Guyane",
+    "valid": true
+  },
+  {
+    "surface": "je les nomme",
+    "valid": false,
+    "reason": "含代词与动词"
+  },
+  {
+    "surface": "Consolatrice",
+    "valid": true
+  },
+  {
+    "surface": "la Terre Sainte",
+    "valid": true
+  },
+  {
+    "surface": "une terre",
+    "valid": true
+  },
+  {
+    "surface": "bagne",
+    "valid": true
+  },
+  {
+    "surface": "octobre",
+    "valid": true
+  },
+  {
+    "surface": "jordanie",
+    "valid": true
+  },
+  {
+    "surface": "un camp",
+    "valid": true
+  },
+  {
+    "surface": "réfugiés",
+    "valid": true
+  },
+  {
+    "surface": "Cette rencontre",
+    "valid": true
+  },
+  {
+    "surface": "bouleversa",
+    "valid": false,
+    "reason": "动词变位形式"
+  },
+  {
+    "surface": "une axe",
+    "valid": true
+  },
+  {
+    "surface": "un *capit",
+    "valid": false,
+    "reason": "含星号与截断词"
+  },
+  {
+    "surface": "amouroux*",
+    "valid": false,
+    "reason": "含星号与疑似拼写错误"
+  },
+  {
+    "surface": "un opérateur",
+    "valid": true
+  },
+  {
+    "surface": "une synapse existente",
+    "valid": true
+  },
+  {
+    "surface": "la fois psychique",
+    "valid": true
+  },
+  {
+    "surface": "onexication",
+    "valid": false,
+    "reason": "疑似拼写错误/碎片"
+  },
+  {
+    "surface": "par conséquent",
+    "valid": false,
+    "reason": "副词短语，非名词"
+  },
+  {
+    "surface": ", une nouvelle production subjective",
+    "valid": false,
+    "reason": "含标点碎片"
+  },
+  {
+    "surface": "La réflexion",
+    "valid": true
+  },
+  {
+    "surface": "les voyages",
+    "valid": true
+  },
+  {
+    "surface": "l'installation",
+    "valid": true
+  },
+  {
+    "surface": "cette instance",
+    "valid": true
+  },
+  {
+    "surface": "mais surtout une longue recherche",
+    "valid": false,
+    "reason": "含连词与副词"
+  },
+  {
+    "surface": "de révolutions",
+    "valid": false,
+    "reason": "含介词"
+  },
+  {
+    "surface": "17 ans",
+    "valid": true
+  },
+  {
+    "surface": "qui Genet",
+    "valid": false,
+    "reason": "含关系代词qui"
+  },
+  {
+    "surface": "ses amis palestiniens",
+    "valid": true
+  }
+]

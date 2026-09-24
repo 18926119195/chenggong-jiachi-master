@@ -1,0 +1,425 @@
+{
+  "coarseTotal": {
+    "calls": 644,
+    "promptCacheMiss": 127043,
+    "promptCacheHit": 2189157,
+    "completion": 32057,
+    "totalPrompt": 2316200,
+    "total": 2348257,
+    "costTotal": 0.4100727
+  },
+  "scoreTotal": {
+    "calls": 46,
+    "promptCacheMiss": 128611,
+    "promptCacheHit": 128,
+    "completion": 67778,
+    "totalPrompt": 128739,
+    "total": 196517,
+    "costTotal": 0.26417979999999996
+  },
+  "details": [
+    {
+      "questionId": "Z1-Q2",
+      "coarse": {
+        "calls": 92,
+        "promptCacheMiss": 17922,
+        "promptCacheHit": 312576,
+        "completion": 5270,
+        "totalPrompt": 330498,
+        "total": 335768,
+        "cost": {
+          "cacheMiss": 0.017922,
+          "cacheHit": 0.0312576,
+          "completion": 0.01054,
+          "total": 0.059719600000000005
+        }
+      },
+      "score": {
+        "calls": 7,
+        "promptCacheMiss": 22675,
+        "promptCacheHit": 0,
+        "completion": 10147,
+        "totalPrompt": 22675,
+        "total": 32822,
+        "cost": {
+          "cacheMiss": 0.022675,
+          "cacheHit": 0,
+          "completion": 0.020294,
+          "total": 0.042969
+        }
+      }
+    },
+    {
+      "questionId": "Z1-Q3",
+      "coarse": {
+        "calls": 46,
+        "promptCacheMiss": 8916,
+        "promptCacheHit": 156287,
+        "completion": 2233,
+        "totalPrompt": 165203,
+        "total": 167436,
+        "cost": {
+          "cacheMiss": 0.008916,
+          "cacheHit": 0.015628700000000002,
+          "completion": 0.004466,
+          "total": 0.029010700000000004
+        }
+      },
+      "score": {
+        "calls": 3,
+        "promptCacheMiss": 8307,
+        "promptCacheHit": 0,
+        "completion": 4792,
+        "totalPrompt": 8307,
+        "total": 13099,
+        "cost": {
+          "cacheMiss": 0.008307,
+          "cacheHit": 0,
+          "completion": 0.009584,
+          "total": 0.017891
+        }
+      }
+    },
+    {
+      "questionId": "Z1-Q4",
+      "coarse": {
+        "calls": 46,
+        "promptCacheMiss": 8916,
+        "promptCacheHit": 156287,
+        "completion": 689,
+        "totalPrompt": 165203,
+        "total": 165892,
+        "cost": {
+          "cacheMiss": 0.008916,
+          "cacheHit": 0.015628700000000002,
+          "completion": 0.001378,
+          "total": 0.025922700000000003
+        }
+      },
+      "score": {
+        "calls": 2,
+        "promptCacheMiss": 2160,
+        "promptCacheHit": 0,
+        "completion": 1719,
+        "totalPrompt": 2160,
+        "total": 3879,
+        "cost": {
+          "cacheMiss": 0.00216,
+          "cacheHit": 0,
+          "completion": 0.003438,
+          "total": 0.0055980000000000005
+        }
+      }
+    },
+    {
+      "questionId": "Z2-Q1",
+      "coarse": {
+        "calls": 46,
+        "promptCacheMiss": 9113,
+        "promptCacheHit": 156412,
+        "completion": 2657,
+        "totalPrompt": 165525,
+        "total": 168182,
+        "cost": {
+          "cacheMiss": 0.009113,
+          "cacheHit": 0.0156412,
+          "completion": 0.005314,
+          "total": 0.0300682
+        }
+      },
+      "score": {
+        "calls": 4,
+        "promptCacheMiss": 8974,
+        "promptCacheHit": 0,
+        "completion": 5515,
+        "totalPrompt": 8974,
+        "total": 14489,
+        "cost": {
+          "cacheMiss": 0.008974,
+          "cacheHit": 0,
+          "completion": 0.01103,
+          "total": 0.020004
+        }
+      }
+    },
+    {
+      "questionId": "Z2-Q3",
+      "coarse": {
+        "calls": 46,
+        "promptCacheMiss": 9215,
+        "promptCacheHit": 156540,
+        "completion": 2706,
+        "totalPrompt": 165755,
+        "total": 168461,
+        "cost": {
+          "cacheMiss": 0.009215,
+          "cacheHit": 0.015654,
+          "completion": 0.005412,
+          "total": 0.030281000000000002
+        }
+      },
+      "score": {
+        "calls": 3,
+        "promptCacheMiss": 10303,
+        "promptCacheHit": 0,
+        "completion": 5612,
+        "totalPrompt": 10303,
+        "total": 15915,
+        "cost": {
+          "cacheMiss": 0.010303,
+          "cacheHit": 0,
+          "completion": 0.011224,
+          "total": 0.021526999999999998
+        }
+      }
+    },
+    {
+      "questionId": "Z2-Q4",
+      "coarse": {
+        "calls": 46,
+        "promptCacheMiss": 9145,
+        "promptCacheHit": 156288,
+        "completion": 6086,
+        "totalPrompt": 165433,
+        "total": 171519,
+        "cost": {
+          "cacheMiss": 0.009145,
+          "cacheHit": 0.0156288,
+          "completion": 0.012172,
+          "total": 0.0369458
+        }
+      },
+      "score": {
+        "calls": 7,
+        "promptCacheMiss": 23121,
+        "promptCacheHit": 0,
+        "completion": 11229,
+        "totalPrompt": 23121,
+        "total": 34350,
+        "cost": {
+          "cacheMiss": 0.023121,
+          "cacheHit": 0,
+          "completion": 0.022458,
+          "total": 0.045578999999999995
+        }
+      }
+    },
+    {
+      "questionId": "Z3-Q1",
+      "coarse": {
+        "calls": 46,
+        "promptCacheMiss": 9215,
+        "promptCacheHit": 156540,
+        "completion": 2601,
+        "totalPrompt": 165755,
+        "total": 168356,
+        "cost": {
+          "cacheMiss": 0.009215,
+          "cacheHit": 0.015654,
+          "completion": 0.005202,
+          "total": 0.030071
+        }
+      },
+      "score": {
+        "calls": 3,
+        "promptCacheMiss": 9164,
+        "promptCacheHit": 0,
+        "completion": 5911,
+        "totalPrompt": 9164,
+        "total": 15075,
+        "cost": {
+          "cacheMiss": 0.009164,
+          "cacheHit": 0,
+          "completion": 0.011822,
+          "total": 0.020985999999999998
+        }
+      }
+    },
+    {
+      "questionId": "Z3-Q2",
+      "coarse": {
+        "calls": 46,
+        "promptCacheMiss": 9099,
+        "promptCacheHit": 156288,
+        "completion": 2013,
+        "totalPrompt": 165387,
+        "total": 167400,
+        "cost": {
+          "cacheMiss": 0.009099,
+          "cacheHit": 0.0156288,
+          "completion": 0.004026,
+          "total": 0.028753800000000003
+        }
+      },
+      "score": {
+        "calls": 3,
+        "promptCacheMiss": 6806,
+        "promptCacheHit": 128,
+        "completion": 4482,
+        "totalPrompt": 6934,
+        "total": 11416,
+        "cost": {
+          "cacheMiss": 0.006806,
+          "cacheHit": 0.0000128,
+          "completion": 0.008964,
+          "total": 0.0157828
+        }
+      }
+    },
+    {
+      "questionId": "Z3-Q3",
+      "coarse": {
+        "calls": 46,
+        "promptCacheMiss": 9099,
+        "promptCacheHit": 156288,
+        "completion": 1125,
+        "totalPrompt": 165387,
+        "total": 166512,
+        "cost": {
+          "cacheMiss": 0.009099,
+          "cacheHit": 0.0156288,
+          "completion": 0.00225,
+          "total": 0.0269778
+        }
+      },
+      "score": {
+        "calls": 2,
+        "promptCacheMiss": 5476,
+        "promptCacheHit": 0,
+        "completion": 2885,
+        "totalPrompt": 5476,
+        "total": 8361,
+        "cost": {
+          "cacheMiss": 0.005476,
+          "cacheHit": 0,
+          "completion": 0.00577,
+          "total": 0.011245999999999999
+        }
+      }
+    },
+    {
+      "questionId": "Z4-Q1",
+      "coarse": {
+        "calls": 46,
+        "promptCacheMiss": 9007,
+        "promptCacheHit": 156288,
+        "completion": 2697,
+        "totalPrompt": 165295,
+        "total": 167992,
+        "cost": {
+          "cacheMiss": 0.009007,
+          "cacheHit": 0.0156288,
+          "completion": 0.005394,
+          "total": 0.0300298
+        }
+      },
+      "score": {
+        "calls": 4,
+        "promptCacheMiss": 8957,
+        "promptCacheHit": 0,
+        "completion": 5705,
+        "totalPrompt": 8957,
+        "total": 14662,
+        "cost": {
+          "cacheMiss": 0.008957,
+          "cacheHit": 0,
+          "completion": 0.01141,
+          "total": 0.020367
+        }
+      }
+    },
+    {
+      "questionId": "Z4-Q2",
+      "coarse": {
+        "calls": 46,
+        "promptCacheMiss": 9113,
+        "promptCacheHit": 156412,
+        "completion": 3079,
+        "totalPrompt": 165525,
+        "total": 168604,
+        "cost": {
+          "cacheMiss": 0.009113,
+          "cacheHit": 0.0156412,
+          "completion": 0.006158,
+          "total": 0.0309122
+        }
+      },
+      "score": {
+        "calls": 4,
+        "promptCacheMiss": 18443,
+        "promptCacheHit": 0,
+        "completion": 6486,
+        "totalPrompt": 18443,
+        "total": 24929,
+        "cost": {
+          "cacheMiss": 0.018443,
+          "cacheHit": 0,
+          "completion": 0.012972,
+          "total": 0.031415
+        }
+      }
+    },
+    {
+      "questionId": "Z4-Q3",
+      "coarse": {
+        "calls": 46,
+        "promptCacheMiss": 9170,
+        "promptCacheHit": 156539,
+        "completion": 769,
+        "totalPrompt": 165709,
+        "total": 166478,
+        "cost": {
+          "cacheMiss": 0.00917,
+          "cacheHit": 0.015653900000000002,
+          "completion": 0.001538,
+          "total": 0.026361900000000004
+        }
+      },
+      "score": {
+        "calls": 2,
+        "promptCacheMiss": 3674,
+        "promptCacheHit": 0,
+        "completion": 2723,
+        "totalPrompt": 3674,
+        "total": 6397,
+        "cost": {
+          "cacheMiss": 0.003674,
+          "cacheHit": 0,
+          "completion": 0.005446,
+          "total": 0.00912
+        }
+      }
+    },
+    {
+      "questionId": "Z4-Q4",
+      "coarse": {
+        "calls": 46,
+        "promptCacheMiss": 9113,
+        "promptCacheHit": 156412,
+        "completion": 132,
+        "totalPrompt": 165525,
+        "total": 165657,
+        "cost": {
+          "cacheMiss": 0.009113,
+          "cacheHit": 0.0156412,
+          "completion": 0.000264,
+          "total": 0.0250182
+        }
+      },
+      "score": {
+        "calls": 2,
+        "promptCacheMiss": 551,
+        "promptCacheHit": 0,
+        "completion": 572,
+        "totalPrompt": 551,
+        "total": 1123,
+        "cost": {
+          "cacheMiss": 0.000551,
+          "cacheHit": 0,
+          "completion": 0.001144,
+          "total": 0.001695
+        }
+      }
+    }
+  ]
+}

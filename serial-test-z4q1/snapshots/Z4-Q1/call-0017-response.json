@@ -1,0 +1,62 @@
+{
+  "callId": "call-0017",
+  "questionId": "Z4-Q1",
+  "timestamp": "2026-09-23T08-24-44-398Z",
+  "elapsed": 599,
+  "success": true,
+  "error": null,
+  "attempts": 1,
+  "retries": 0,
+  "retryHistory": [
+    {
+      "attempt": 1,
+      "startedAt": "2026-09-23T08:24:44.398Z",
+      "error": null,
+      "httpStatus": null,
+      "elapsedMs": 599
+    }
+  ],
+  "response": {
+    "text": "【【5】【【26】【【29】【【39】【【85】【【91】【【104】【【106】【【128】【【143】【【178】【【230】【【241】【【270】【【286】【【337】】",
+    "usage": {
+      "prompt_tokens": 3520,
+      "completion_tokens": 50,
+      "total_tokens": 3570,
+      "prompt_tokens_details": {
+        "cached_tokens": 0
+      },
+      "prompt_cache_hit_tokens": 0,
+      "prompt_cache_miss_tokens": 3520
+    },
+    "truncated": false,
+    "finishReason": "stop"
+  },
+  "rawResponse": {
+    "id": "e0148f58-20cf-45ad-965f-0cadf1294ca0",
+    "object": "chat.completion",
+    "created": 1790151884,
+    "model": "deepseek-flash",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "【【5】【【26】【【29】【【39】【【85】【【91】【【104】【【106】【【128】【【143】【【178】【【230】【【241】【【270】【【286】【【337】】"
+        },
+        "logprobs": null,
+        "finish_reason": "stop"
+      }
+    ],
+    "usage": {
+      "prompt_tokens": 3520,
+      "completion_tokens": 50,
+      "total_tokens": 3570,
+      "prompt_tokens_details": {
+        "cached_tokens": 0
+      },
+      "prompt_cache_hit_tokens": 0,
+      "prompt_cache_miss_tokens": 3520
+    },
+    "system_fingerprint": "aeb56401ca74e127821c4f9126dcb669"
+  }
+}

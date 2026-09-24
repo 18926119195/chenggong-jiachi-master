@@ -1,0 +1,6072 @@
+{
+  "executionTime": "1.2 minutes",
+  "totalLLMCalls": 674,
+  "calls": [
+    {
+      "callId": "call-0001",
+      "success": true,
+      "elapsed": "4.8s",
+      "promptTokens": 9399,
+      "completionTokens": 786,
+      "totalTokens": 10185,
+      "truncated": false
+    },
+    {
+      "callId": "call-0002",
+      "success": true,
+      "elapsed": "1.1s",
+      "promptTokens": 3607,
+      "completionTokens": 69,
+      "totalTokens": 3676,
+      "truncated": false
+    },
+    {
+      "callId": "call-0003",
+      "success": true,
+      "elapsed": "0.9s",
+      "promptTokens": 3519,
+      "completionTokens": 29,
+      "totalTokens": 3548,
+      "truncated": false
+    },
+    {
+      "callId": "call-0004",
+      "success": true,
+      "elapsed": "0.9s",
+      "promptTokens": 3684,
+      "completionTokens": 69,
+      "totalTokens": 3753,
+      "truncated": false
+    },
+    {
+      "callId": "call-0005",
+      "success": true,
+      "elapsed": "1.6s",
+      "promptTokens": 3500,
+      "completionTokens": 377,
+      "totalTokens": 3877,
+      "truncated": false
+    },
+    {
+      "callId": "call-0006",
+      "success": true,
+      "elapsed": "0.8s",
+      "promptTokens": 3685,
+      "completionTokens": 109,
+      "totalTokens": 3794,
+      "truncated": false
+    },
+    {
+      "callId": "call-0007",
+      "success": true,
+      "elapsed": "0.8s",
+      "promptTokens": 3676,
+      "completionTokens": 101,
+      "totalTokens": 3777,
+      "truncated": false
+    },
+    {
+      "callId": "call-0008",
+      "success": true,
+      "elapsed": "0.7s",
+      "promptTokens": 3562,
+      "completionTokens": 41,
+      "totalTokens": 3603,
+      "truncated": false
+    },
+    {
+      "callId": "call-0009",
+      "success": true,
+      "elapsed": "0.7s",
+      "promptTokens": 3594,
+      "completionTokens": 89,
+      "totalTokens": 3683,
+      "truncated": false
+    },
+    {
+      "callId": "call-0010",
+      "success": true,
+      "elapsed": "0.8s",
+      "promptTokens": 3624,
+      "completionTokens": 97,
+      "totalTokens": 3721,
+      "truncated": false
+    },
+    {
+      "callId": "call-0011",
+      "success": true,
+      "elapsed": "0.5s",
+      "promptTokens": 3711,
+      "completionTokens": 29,
+      "totalTokens": 3740,
+      "truncated": false
+    },
+    {
+      "callId": "call-0012",
+      "success": true,
+      "elapsed": "0.5s",
+      "promptTokens": 3734,
+      "completionTokens": 29,
+      "totalTokens": 3763,
+      "truncated": false
+    },
+    {
+      "callId": "call-0013",
+      "success": true,
+      "elapsed": "0.5s",
+      "promptTokens": 3813,
+      "completionTokens": 37,
+      "totalTokens": 3850,
+      "truncated": false
+    },
+    {
+      "callId": "call-0014",
+      "success": true,
+      "elapsed": "0.5s",
+      "promptTokens": 3686,
+      "completionTokens": 2,
+      "totalTokens": 3688,
+      "truncated": false
+    },
+    {
+      "callId": "call-0015",
+      "success": true,
+      "elapsed": "1.0s",
+      "promptTokens": 3588,
+      "completionTokens": 93,
+      "totalTokens": 3681,
+      "truncated": false
+    },
+    {
+      "callId": "call-0016",
+      "success": true,
+      "elapsed": "0.4s",
+      "promptTokens": 3521,
+      "completionTokens": 33,
+      "totalTokens": 3554,
+      "truncated": false
+    },
+    {
+      "callId": "call-0017",
+      "success": true,
+      "elapsed": "0.7s",
+      "promptTokens": 3633,
+      "completionTokens": 41,
+      "totalTokens": 3674,
+      "truncated": false
+    },
+    {
+      "callId": "call-0018",
+      "success": true,
+      "elapsed": "1.2s",
+      "promptTokens": 3594,
+      "completionTokens": 77,
+      "totalTokens": 3671,
+      "truncated": false
+    },
+    {
+      "callId": "call-0019",
+      "success": true,
+      "elapsed": "2.3s",
+      "promptTokens": 3640,
+      "completionTokens": 777,
+      "totalTokens": 4417,
+      "truncated": false
+    },
+    {
+      "callId": "call-0020",
+      "success": true,
+      "elapsed": "0.6s",
+      "promptTokens": 3767,
+      "completionTokens": 2,
+      "totalTokens": 3769,
+      "truncated": false
+    },
+    {
+      "callId": "call-0021",
+      "success": true,
+      "elapsed": "1.3s",
+      "promptTokens": 3766,
+      "completionTokens": 29,
+      "totalTokens": 3795,
+      "truncated": false
+    },
+    {
+      "callId": "call-0022",
+      "success": true,
+      "elapsed": "0.8s",
+      "promptTokens": 3495,
+      "completionTokens": 25,
+      "totalTokens": 3520,
+      "truncated": false
+    },
+    {
+      "callId": "call-0023",
+      "success": true,
+      "elapsed": "0.9s",
+      "promptTokens": 3477,
+      "completionTokens": 89,
+      "totalTokens": 3566,
+      "truncated": false
+    },
+    {
+      "callId": "call-0024",
+      "success": true,
+      "elapsed": "0.9s",
+      "promptTokens": 3621,
+      "completionTokens": 17,
+      "totalTokens": 3638,
+      "truncated": false
+    },
+    {
+      "callId": "call-0025",
+      "success": true,
+      "elapsed": "0.9s",
+      "promptTokens": 3617,
+      "completionTokens": 109,
+      "totalTokens": 3726,
+      "truncated": false
+    },
+    {
+      "callId": "call-0026",
+      "success": true,
+      "elapsed": "0.6s",
+      "promptTokens": 3581,
+      "completionTokens": 49,
+      "totalTokens": 3630,
+      "truncated": false
+    },
+    {
+      "callId": "call-0027",
+      "success": true,
+      "elapsed": "1.0s",
+      "promptTokens": 3521,
+      "completionTokens": 57,
+      "totalTokens": 3578,
+      "truncated": false
+    },
+    {
+      "callId": "call-0028",
+      "success": true,
+      "elapsed": "0.7s",
+      "promptTokens": 3618,
+      "completionTokens": 21,
+      "totalTokens": 3639,
+      "truncated": false
+    },
+    {
+      "callId": "call-0029",
+      "success": true,
+      "elapsed": "0.8s",
+      "promptTokens": 3716,
+      "completionTokens": 41,
+      "totalTokens": 3757,
+      "truncated": false
+    },
+    {
+      "callId": "call-0030",
+      "success": true,
+      "elapsed": "0.6s",
+      "promptTokens": 3831,
+      "completionTokens": 37,
+      "totalTokens": 3868,
+      "truncated": false
+    },
+    {
+      "callId": "call-0031",
+      "success": true,
+      "elapsed": "0.6s",
+      "promptTokens": 3980,
+      "completionTokens": 41,
+      "totalTokens": 4021,
+      "truncated": false
+    },
+    {
+      "callId": "call-0032",
+      "success": true,
+      "elapsed": "0.4s",
+      "promptTokens": 3659,
+      "completionTokens": 21,
+      "totalTokens": 3680,
+      "truncated": false
+    },
+    {
+      "callId": "call-0033",
+      "success": true,
+      "elapsed": "0.7s",
+      "promptTokens": 3613,
+      "completionTokens": 37,
+      "totalTokens": 3650,
+      "truncated": false
+    },
+    {
+      "callId": "call-0034",
+      "success": true,
+      "elapsed": "0.5s",
+      "promptTokens": 3739,
+      "completionTokens": 37,
+      "totalTokens": 3776,
+      "truncated": false
+    },
+    {
+      "callId": "call-0035",
+      "success": true,
+      "elapsed": "0.8s",
+      "promptTokens": 3934,
+      "completionTokens": 33,
+      "totalTokens": 3967,
+      "truncated": false
+    },
+    {
+      "callId": "call-0036",
+      "success": true,
+      "elapsed": "0.8s",
+      "promptTokens": 3929,
+      "completionTokens": 45,
+      "totalTokens": 3974,
+      "truncated": false
+    },
+    {
+      "callId": "call-0037",
+      "success": true,
+      "elapsed": "2.0s",
+      "promptTokens": 3831,
+      "completionTokens": 529,
+      "totalTokens": 4360,
+      "truncated": false
+    },
+    {
+      "callId": "call-0038",
+      "success": true,
+      "elapsed": "1.1s",
+      "promptTokens": 3509,
+      "completionTokens": 33,
+      "totalTokens": 3542,
+      "truncated": false
+    },
+    {
+      "callId": "call-0039",
+      "success": true,
+      "elapsed": "1.0s",
+      "promptTokens": 3707,
+      "completionTokens": 69,
+      "totalTokens": 3776,
+      "truncated": false
+    },
+    {
+      "callId": "call-0040",
+      "success": true,
+      "elapsed": "0.6s",
+      "promptTokens": 3743,
+      "completionTokens": 33,
+      "totalTokens": 3776,
+      "truncated": false
+    },
+    {
+      "callId": "call-0041",
+      "success": true,
+      "elapsed": "0.6s",
+      "promptTokens": 3705,
+      "completionTokens": 33,
+      "totalTokens": 3738,
+      "truncated": false
+    },
+    {
+      "callId": "call-0042",
+      "success": true,
+      "elapsed": "0.9s",
+      "promptTokens": 3563,
+      "completionTokens": 129,
+      "totalTokens": 3692,
+      "truncated": false
+    },
+    {
+      "callId": "call-0043",
+      "success": true,
+      "elapsed": "0.5s",
+      "promptTokens": 1068,
+      "completionTokens": 33,
+      "totalTokens": 1101,
+      "truncated": false
+    },
+    {
+      "callId": "call-0044",
+      "success": true,
+      "elapsed": "7.2s",
+      "promptTokens": 3596,
+      "completionTokens": 2309,
+      "totalTokens": 5905,
+      "truncated": false
+    },
+    {
+      "callId": "call-0045",
+      "success": true,
+      "elapsed": "6.6s",
+      "promptTokens": 3666,
+      "completionTokens": 2323,
+      "totalTokens": 5989,
+      "truncated": false
+    },
+    {
+      "callId": "call-0046",
+      "success": true,
+      "elapsed": "5.1s",
+      "promptTokens": 2776,
+      "completionTokens": 1714,
+      "totalTokens": 4490,
+      "truncated": false
+    },
+    {
+      "callId": "call-0047",
+      "success": true,
+      "elapsed": "0.6s",
+      "promptTokens": 3657,
+      "completionTokens": 49,
+      "totalTokens": 3706,
+      "truncated": false
+    },
+    {
+      "callId": "call-0048",
+      "success": true,
+      "elapsed": "0.7s",
+      "promptTokens": 3605,
+      "completionTokens": 29,
+      "totalTokens": 3634,
+      "truncated": false
+    },
+    {
+      "callId": "call-0049",
+      "success": true,
+      "elapsed": "0.6s",
+      "promptTokens": 3517,
+      "completionTokens": 29,
+      "totalTokens": 3546,
+      "truncated": false
+    },
+    {
+      "callId": "call-0050",
+      "success": true,
+      "elapsed": "0.6s",
+      "promptTokens": 3682,
+      "completionTokens": 29,
+      "totalTokens": 3711,
+      "truncated": false
+    },
+    {
+      "callId": "call-0051",
+      "success": true,
+      "elapsed": "0.7s",
+      "promptTokens": 3498,
+      "completionTokens": 85,
+      "totalTokens": 3583,
+      "truncated": false
+    },
+    {
+      "callId": "call-0052",
+      "success": true,
+      "elapsed": "1.1s",
+      "promptTokens": 3683,
+      "completionTokens": 133,
+      "totalTokens": 3816,
+      "truncated": false
+    },
+    {
+      "callId": "call-0053",
+      "success": true,
+      "elapsed": "1.0s",
+      "promptTokens": 3674,
+      "completionTokens": 69,
+      "totalTokens": 3743,
+      "truncated": false
+    },
+    {
+      "callId": "call-0054",
+      "success": true,
+      "elapsed": "0.8s",
+      "promptTokens": 3560,
+      "completionTokens": 29,
+      "totalTokens": 3589,
+      "truncated": false
+    },
+    {
+      "callId": "call-0055",
+      "success": true,
+      "elapsed": "1.0s",
+      "promptTokens": 3592,
+      "completionTokens": 57,
+      "totalTokens": 3649,
+      "truncated": false
+    },
+    {
+      "callId": "call-0056",
+      "success": true,
+      "elapsed": "0.7s",
+      "promptTokens": 3622,
+      "completionTokens": 53,
+      "totalTokens": 3675,
+      "truncated": false
+    },
+    {
+      "callId": "call-0057",
+      "success": true,
+      "elapsed": "1.0s",
+      "promptTokens": 3709,
+      "completionTokens": 201,
+      "totalTokens": 3910,
+      "truncated": false
+    },
+    {
+      "callId": "call-0058",
+      "success": true,
+      "elapsed": "0.7s",
+      "promptTokens": 3732,
+      "completionTokens": 41,
+      "totalTokens": 3773,
+      "truncated": false
+    },
+    {
+      "callId": "call-0059",
+      "success": true,
+      "elapsed": "0.6s",
+      "promptTokens": 3811,
+      "completionTokens": 2,
+      "totalTokens": 3813,
+      "truncated": false
+    },
+    {
+      "callId": "call-0060",
+      "success": true,
+      "elapsed": "0.3s",
+      "promptTokens": 3684,
+      "completionTokens": 13,
+      "totalTokens": 3697,
+      "truncated": false
+    },
+    {
+      "callId": "call-0061",
+      "success": true,
+      "elapsed": "1.0s",
+      "promptTokens": 3586,
+      "completionTokens": 65,
+      "totalTokens": 3651,
+      "truncated": false
+    },
+    {
+      "callId": "call-0062",
+      "success": true,
+      "elapsed": "0.5s",
+      "promptTokens": 3519,
+      "completionTokens": 21,
+      "totalTokens": 3540,
+      "truncated": false
+    },
+    {
+      "callId": "call-0063",
+      "success": true,
+      "elapsed": "0.8s",
+      "promptTokens": 3631,
+      "completionTokens": 2,
+      "totalTokens": 3633,
+      "truncated": false
+    },
+    {
+      "callId": "call-0064",
+      "success": true,
+      "elapsed": "0.6s",
+      "promptTokens": 3592,
+      "completionTokens": 2,
+      "totalTokens": 3594,
+      "truncated": false
+    },
+    {
+      "callId": "call-0065",
+      "success": true,
+      "elapsed": "0.5s",
+      "promptTokens": 3638,
+      "completionTokens": 9,
+      "totalTokens": 3647,
+      "truncated": false
+    },
+    {
+      "callId": "call-0066",
+      "success": true,
+      "elapsed": "0.7s",
+      "promptTokens": 3765,
+      "completionTokens": 17,
+      "totalTokens": 3782,
+      "truncated": false
+    },
+    {
+      "callId": "call-0067",
+      "success": true,
+      "elapsed": "0.5s",
+      "promptTokens": 3764,
+      "completionTokens": 2,
+      "totalTokens": 3766,
+      "truncated": false
+    },
+    {
+      "callId": "call-0068",
+      "success": true,
+      "elapsed": "0.7s",
+      "promptTokens": 3493,
+      "completionTokens": 2,
+      "totalTokens": 3495,
+      "truncated": false
+    },
+    {
+      "callId": "call-0069",
+      "success": true,
+      "elapsed": "0.7s",
+      "promptTokens": 3475,
+      "completionTokens": 2,
+      "totalTokens": 3477,
+      "truncated": false
+    },
+    {
+      "callId": "call-0070",
+      "success": true,
+      "elapsed": "0.5s",
+      "promptTokens": 3619,
+      "completionTokens": 41,
+      "totalTokens": 3660,
+      "truncated": false
+    },
+    {
+      "callId": "call-0071",
+      "success": true,
+      "elapsed": "0.8s",
+      "promptTokens": 3615,
+      "completionTokens": 2,
+      "totalTokens": 3617,
+      "truncated": false
+    },
+    {
+      "callId": "call-0072",
+      "success": true,
+      "elapsed": "0.5s",
+      "promptTokens": 3579,
+      "completionTokens": 2,
+      "totalTokens": 3581,
+      "truncated": false
+    },
+    {
+      "callId": "call-0073",
+      "success": true,
+      "elapsed": "0.6s",
+      "promptTokens": 3519,
+      "completionTokens": 37,
+      "totalTokens": 3556,
+      "truncated": false
+    },
+    {
+      "callId": "call-0074",
+      "success": true,
+      "elapsed": "0.5s",
+      "promptTokens": 3616,
+      "completionTokens": 13,
+      "totalTokens": 3629,
+      "truncated": false
+    },
+    {
+      "callId": "call-0075",
+      "success": true,
+      "elapsed": "0.6s",
+      "promptTokens": 3714,
+      "completionTokens": 25,
+      "totalTokens": 3739,
+      "truncated": false
+    },
+    {
+      "callId": "call-0076",
+      "success": true,
+      "elapsed": "0.7s",
+      "promptTokens": 3829,
+      "completionTokens": 81,
+      "totalTokens": 3910,
+      "truncated": false
+    },
+    {
+      "callId": "call-0077",
+      "success": true,
+      "elapsed": "0.5s",
+      "promptTokens": 3978,
+      "completionTokens": 49,
+      "totalTokens": 4027,
+      "truncated": false
+    },
+    {
+      "callId": "call-0078",
+      "success": true,
+      "elapsed": "0.6s",
+      "promptTokens": 3657,
+      "completionTokens": 17,
+      "totalTokens": 3674,
+      "truncated": false
+    },
+    {
+      "callId": "call-0079",
+      "success": true,
+      "elapsed": "0.8s",
+      "promptTokens": 3611,
+      "completionTokens": 17,
+      "totalTokens": 3628,
+      "truncated": false
+    },
+    {
+      "callId": "call-0080",
+      "success": true,
+      "elapsed": "0.8s",
+      "promptTokens": 3737,
+      "completionTokens": 53,
+      "totalTokens": 3790,
+      "truncated": false
+    },
+    {
+      "callId": "call-0081",
+      "success": true,
+      "elapsed": "0.9s",
+      "promptTokens": 3932,
+      "completionTokens": 57,
+      "totalTokens": 3989,
+      "truncated": false
+    },
+    {
+      "callId": "call-0082",
+      "success": true,
+      "elapsed": "0.6s",
+      "promptTokens": 3927,
+      "completionTokens": 33,
+      "totalTokens": 3960,
+      "truncated": false
+    },
+    {
+      "callId": "call-0083",
+      "success": true,
+      "elapsed": "0.6s",
+      "promptTokens": 3829,
+      "completionTokens": 25,
+      "totalTokens": 3854,
+      "truncated": false
+    },
+    {
+      "callId": "call-0084",
+      "success": true,
+      "elapsed": "0.6s",
+      "promptTokens": 3507,
+      "completionTokens": 33,
+      "totalTokens": 3540,
+      "truncated": false
+    },
+    {
+      "callId": "call-0085",
+      "success": true,
+      "elapsed": "0.9s",
+      "promptTokens": 3705,
+      "completionTokens": 57,
+      "totalTokens": 3762,
+      "truncated": false
+    },
+    {
+      "callId": "call-0086",
+      "success": true,
+      "elapsed": "0.5s",
+      "promptTokens": 3741,
+      "completionTokens": 29,
+      "totalTokens": 3770,
+      "truncated": false
+    },
+    {
+      "callId": "call-0087",
+      "success": true,
+      "elapsed": "0.5s",
+      "promptTokens": 3703,
+      "completionTokens": 41,
+      "totalTokens": 3744,
+      "truncated": false
+    },
+    {
+      "callId": "call-0088",
+      "success": true,
+      "elapsed": "0.6s",
+      "promptTokens": 3561,
+      "completionTokens": 53,
+      "totalTokens": 3614,
+      "truncated": false
+    },
+    {
+      "callId": "call-0089",
+      "success": true,
+      "elapsed": "0.8s",
+      "promptTokens": 1066,
+      "completionTokens": 2,
+      "totalTokens": 1068,
+      "truncated": false
+    },
+    {
+      "callId": "call-0090",
+      "success": true,
+      "elapsed": "7.3s",
+      "promptTokens": 3678,
+      "completionTokens": 2617,
+      "totalTokens": 6295,
+      "truncated": false
+    },
+    {
+      "callId": "call-0091",
+      "success": true,
+      "elapsed": "1.5s",
+      "promptTokens": 600,
+      "completionTokens": 272,
+      "totalTokens": 872,
+      "truncated": false
+    },
+    {
+      "callId": "call-0092",
+      "success": true,
+      "elapsed": "0.7s",
+      "promptTokens": 3664,
+      "completionTokens": 81,
+      "totalTokens": 3745,
+      "truncated": false
+    },
+    {
+      "callId": "call-0093",
+      "success": true,
+      "elapsed": "0.7s",
+      "promptTokens": 3612,
+      "completionTokens": 125,
+      "totalTokens": 3737,
+      "truncated": false
+    },
+    {
+      "callId": "call-0094",
+      "success": true,
+      "elapsed": "0.5s",
+      "promptTokens": 3524,
+      "completionTokens": 33,
+      "totalTokens": 3557,
+      "truncated": false
+    },
+    {
+      "callId": "call-0095",
+      "success": true,
+      "elapsed": "0.9s",
+      "promptTokens": 3689,
+      "completionTokens": 65,
+      "totalTokens": 3754,
+      "truncated": false
+    },
+    {
+      "callId": "call-0096",
+      "success": true,
+      "elapsed": "0.6s",
+      "promptTokens": 3505,
+      "completionTokens": 61,
+      "totalTokens": 3566,
+      "truncated": false
+    },
+    {
+      "callId": "call-0097",
+      "success": true,
+      "elapsed": "0.6s",
+      "promptTokens": 3690,
+      "completionTokens": 41,
+      "totalTokens": 3731,
+      "truncated": false
+    },
+    {
+      "callId": "call-0098",
+      "success": true,
+      "elapsed": "1.0s",
+      "promptTokens": 3681,
+      "completionTokens": 89,
+      "totalTokens": 3770,
+      "truncated": false
+    },
+    {
+      "callId": "call-0099",
+      "success": true,
+      "elapsed": "0.6s",
+      "promptTokens": 3567,
+      "completionTokens": 33,
+      "totalTokens": 3600,
+      "truncated": false
+    },
+    {
+      "callId": "call-0100",
+      "success": true,
+      "elapsed": "0.7s",
+      "promptTokens": 3599,
+      "completionTokens": 113,
+      "totalTokens": 3712,
+      "truncated": false
+    },
+    {
+      "callId": "call-0101",
+      "success": true,
+      "elapsed": "0.6s",
+      "promptTokens": 3629,
+      "completionTokens": 93,
+      "totalTokens": 3722,
+      "truncated": false
+    },
+    {
+      "callId": "call-0102",
+      "success": true,
+      "elapsed": "1.2s",
+      "promptTokens": 3716,
+      "completionTokens": 161,
+      "totalTokens": 3877,
+      "truncated": false
+    },
+    {
+      "callId": "call-0103",
+      "success": true,
+      "elapsed": "0.8s",
+      "promptTokens": 3739,
+      "completionTokens": 29,
+      "totalTokens": 3768,
+      "truncated": false
+    },
+    {
+      "callId": "call-0104",
+      "success": true,
+      "elapsed": "0.7s",
+      "promptTokens": 3818,
+      "completionTokens": 81,
+      "totalTokens": 3899,
+      "truncated": false
+    },
+    {
+      "callId": "call-0105",
+      "success": true,
+      "elapsed": "2.4s",
+      "promptTokens": 3691,
+      "completionTokens": 813,
+      "totalTokens": 4504,
+      "truncated": false
+    },
+    {
+      "callId": "call-0106",
+      "success": true,
+      "elapsed": "0.5s",
+      "promptTokens": 3593,
+      "completionTokens": 2,
+      "totalTokens": 3595,
+      "truncated": false
+    },
+    {
+      "callId": "call-0107",
+      "success": true,
+      "elapsed": "0.3s",
+      "promptTokens": 3526,
+      "completionTokens": 17,
+      "totalTokens": 3543,
+      "truncated": false
+    },
+    {
+      "callId": "call-0108",
+      "success": true,
+      "elapsed": "1.0s",
+      "promptTokens": 3638,
+      "completionTokens": 37,
+      "totalTokens": 3675,
+      "truncated": false
+    },
+    {
+      "callId": "call-0109",
+      "success": true,
+      "elapsed": "0.5s",
+      "promptTokens": 3599,
+      "completionTokens": 2,
+      "totalTokens": 3601,
+      "truncated": false
+    },
+    {
+      "callId": "call-0110",
+      "success": true,
+      "elapsed": "1.6s",
+      "promptTokens": 3645,
+      "completionTokens": 281,
+      "totalTokens": 3926,
+      "truncated": false
+    },
+    {
+      "callId": "call-0111",
+      "success": true,
+      "elapsed": "0.5s",
+      "promptTokens": 3772,
+      "completionTokens": 17,
+      "totalTokens": 3789,
+      "truncated": false
+    },
+    {
+      "callId": "call-0112",
+      "success": true,
+      "elapsed": "0.8s",
+      "promptTokens": 3771,
+      "completionTokens": 25,
+      "totalTokens": 3796,
+      "truncated": false
+    },
+    {
+      "callId": "call-0113",
+      "success": true,
+      "elapsed": "0.4s",
+      "promptTokens": 3500,
+      "completionTokens": 21,
+      "totalTokens": 3521,
+      "truncated": false
+    },
+    {
+      "callId": "call-0114",
+      "success": true,
+      "elapsed": "0.7s",
+      "promptTokens": 3482,
+      "completionTokens": 17,
+      "totalTokens": 3499,
+      "truncated": false
+    },
+    {
+      "callId": "call-0115",
+      "success": true,
+      "elapsed": "0.9s",
+      "promptTokens": 3626,
+      "completionTokens": 33,
+      "totalTokens": 3659,
+      "truncated": false
+    },
+    {
+      "callId": "call-0116",
+      "success": true,
+      "elapsed": "0.5s",
+      "promptTokens": 3622,
+      "completionTokens": 2,
+      "totalTokens": 3624,
+      "truncated": false
+    },
+    {
+      "callId": "call-0117",
+      "success": true,
+      "elapsed": "1.0s",
+      "promptTokens": 3586,
+      "completionTokens": 97,
+      "totalTokens": 3683,
+      "truncated": false
+    },
+    {
+      "callId": "call-0118",
+      "success": true,
+      "elapsed": "0.6s",
+      "promptTokens": 3526,
+      "completionTokens": 17,
+      "totalTokens": 3543,
+      "truncated": false
+    },
+    {
+      "callId": "call-0119",
+      "success": true,
+      "elapsed": "3.3s",
+      "promptTokens": 3623,
+      "completionTokens": 1317,
+      "totalTokens": 4940,
+      "truncated": false
+    },
+    {
+      "callId": "call-0120",
+      "success": true,
+      "elapsed": "0.7s",
+      "promptTokens": 3721,
+      "completionTokens": 65,
+      "totalTokens": 3786,
+      "truncated": false
+    },
+    {
+      "callId": "call-0121",
+      "success": true,
+      "elapsed": "0.5s",
+      "promptTokens": 3836,
+      "completionTokens": 21,
+      "totalTokens": 3857,
+      "truncated": false
+    },
+    {
+      "callId": "call-0122",
+      "success": true,
+      "elapsed": "0.8s",
+      "promptTokens": 3985,
+      "completionTokens": 33,
+      "totalTokens": 4018,
+      "truncated": false
+    },
+    {
+      "callId": "call-0123",
+      "success": true,
+      "elapsed": "0.9s",
+      "promptTokens": 3664,
+      "completionTokens": 61,
+      "totalTokens": 3725,
+      "truncated": false
+    },
+    {
+      "callId": "call-0124",
+      "success": true,
+      "elapsed": "0.7s",
+      "promptTokens": 3618,
+      "completionTokens": 41,
+      "totalTokens": 3659,
+      "truncated": false
+    },
+    {
+      "callId": "call-0125",
+      "success": true,
+      "elapsed": "1.1s",
+      "promptTokens": 3744,
+      "completionTokens": 165,
+      "totalTokens": 3909,
+      "truncated": false
+    },
+    {
+      "callId": "call-0126",
+      "success": true,
+      "elapsed": "0.6s",
+      "promptTokens": 3939,
+      "completionTokens": 65,
+      "totalTokens": 4004,
+      "truncated": false
+    },
+    {
+      "callId": "call-0127",
+      "success": true,
+      "elapsed": "1.0s",
+      "promptTokens": 3934,
+      "completionTokens": 29,
+      "totalTokens": 3963,
+      "truncated": false
+    },
+    {
+      "callId": "call-0128",
+      "success": true,
+      "elapsed": "1.2s",
+      "promptTokens": 3836,
+      "completionTokens": 149,
+      "totalTokens": 3985,
+      "truncated": false
+    },
+    {
+      "callId": "call-0129",
+      "success": true,
+      "elapsed": "0.5s",
+      "promptTokens": 3514,
+      "completionTokens": 25,
+      "totalTokens": 3539,
+      "truncated": false
+    },
+    {
+      "callId": "call-0130",
+      "success": true,
+      "elapsed": "1.2s",
+      "promptTokens": 3712,
+      "completionTokens": 41,
+      "totalTokens": 3753,
+      "truncated": false
+    },
+    {
+      "callId": "call-0131",
+      "success": true,
+      "elapsed": "0.7s",
+      "promptTokens": 3748,
+      "completionTokens": 37,
+      "totalTokens": 3785,
+      "truncated": false
+    },
+    {
+      "callId": "call-0132",
+      "success": true,
+      "elapsed": "0.4s",
+      "promptTokens": 3710,
+      "completionTokens": 25,
+      "totalTokens": 3735,
+      "truncated": false
+    },
+    {
+      "callId": "call-0133",
+      "success": true,
+      "elapsed": "0.7s",
+      "promptTokens": 3568,
+      "completionTokens": 41,
+      "totalTokens": 3609,
+      "truncated": false
+    },
+    {
+      "callId": "call-0134",
+      "success": true,
+      "elapsed": "0.5s",
+      "promptTokens": 1073,
+      "completionTokens": 17,
+      "totalTokens": 1090,
+      "truncated": false
+    },
+    {
+      "callId": "call-0135",
+      "success": true,
+      "elapsed": "7.3s",
+      "promptTokens": 3601,
+      "completionTokens": 2253,
+      "totalTokens": 5854,
+      "truncated": false
+    },
+    {
+      "callId": "call-0136",
+      "success": true,
+      "elapsed": "6.9s",
+      "promptTokens": 3714,
+      "completionTokens": 2421,
+      "totalTokens": 6135,
+      "truncated": false
+    },
+    {
+      "callId": "call-0137",
+      "success": true,
+      "elapsed": "6.8s",
+      "promptTokens": 3661,
+      "completionTokens": 2316,
+      "totalTokens": 5977,
+      "truncated": false
+    },
+    {
+      "callId": "call-0138",
+      "success": true,
+      "elapsed": "2.8s",
+      "promptTokens": 1355,
+      "completionTokens": 832,
+      "totalTokens": 2187,
+      "truncated": false
+    },
+    {
+      "callId": "call-0139",
+      "success": true,
+      "elapsed": "1.0s",
+      "promptTokens": 3657,
+      "completionTokens": 129,
+      "totalTokens": 3786,
+      "truncated": false
+    },
+    {
+      "callId": "call-0140",
+      "success": true,
+      "elapsed": "1.2s",
+      "promptTokens": 3605,
+      "completionTokens": 93,
+      "totalTokens": 3698,
+      "truncated": false
+    },
+    {
+      "callId": "call-0141",
+      "success": true,
+      "elapsed": "1.1s",
+      "promptTokens": 3517,
+      "completionTokens": 81,
+      "totalTokens": 3598,
+      "truncated": false
+    },
+    {
+      "callId": "call-0142",
+      "success": true,
+      "elapsed": "1.4s",
+      "promptTokens": 3682,
+      "completionTokens": 145,
+      "totalTokens": 3827,
+      "truncated": false
+    },
+    {
+      "callId": "call-0143",
+      "success": true,
+      "elapsed": "1.3s",
+      "promptTokens": 3498,
+      "completionTokens": 325,
+      "totalTokens": 3823,
+      "truncated": false
+    },
+    {
+      "callId": "call-0144",
+      "success": true,
+      "elapsed": "1.1s",
+      "promptTokens": 3683,
+      "completionTokens": 177,
+      "totalTokens": 3860,
+      "truncated": false
+    },
+    {
+      "callId": "call-0145",
+      "success": true,
+      "elapsed": "0.8s",
+      "promptTokens": 3674,
+      "completionTokens": 81,
+      "totalTokens": 3755,
+      "truncated": false
+    },
+    {
+      "callId": "call-0146",
+      "success": true,
+      "elapsed": "1.0s",
+      "promptTokens": 3560,
+      "completionTokens": 93,
+      "totalTokens": 3653,
+      "truncated": false
+    },
+    {
+      "callId": "call-0147",
+      "success": true,
+      "elapsed": "1.3s",
+      "promptTokens": 3592,
+      "completionTokens": 109,
+      "totalTokens": 3701,
+      "truncated": false
+    },
+    {
+      "callId": "call-0148",
+      "success": true,
+      "elapsed": "0.7s",
+      "promptTokens": 3622,
+      "completionTokens": 81,
+      "totalTokens": 3703,
+      "truncated": false
+    },
+    {
+      "callId": "call-0149",
+      "success": true,
+      "elapsed": "1.0s",
+      "promptTokens": 3709,
+      "completionTokens": 93,
+      "totalTokens": 3802,
+      "truncated": false
+    },
+    {
+      "callId": "call-0150",
+      "success": true,
+      "elapsed": "0.9s",
+      "promptTokens": 3732,
+      "completionTokens": 205,
+      "totalTokens": 3937,
+      "truncated": false
+    },
+    {
+      "callId": "call-0151",
+      "success": true,
+      "elapsed": "0.8s",
+      "promptTokens": 3811,
+      "completionTokens": 81,
+      "totalTokens": 3892,
+      "truncated": false
+    },
+    {
+      "callId": "call-0152",
+      "success": true,
+      "elapsed": "0.7s",
+      "promptTokens": 3684,
+      "completionTokens": 81,
+      "totalTokens": 3765,
+      "truncated": false
+    },
+    {
+      "callId": "call-0153",
+      "success": true,
+      "elapsed": "1.2s",
+      "promptTokens": 3586,
+      "completionTokens": 309,
+      "totalTokens": 3895,
+      "truncated": false
+    },
+    {
+      "callId": "call-0154",
+      "success": true,
+      "elapsed": "0.5s",
+      "promptTokens": 3519,
+      "completionTokens": 57,
+      "totalTokens": 3576,
+      "truncated": false
+    },
+    {
+      "callId": "call-0155",
+      "success": true,
+      "elapsed": "0.9s",
+      "promptTokens": 3631,
+      "completionTokens": 169,
+      "totalTokens": 3800,
+      "truncated": false
+    },
+    {
+      "callId": "call-0156",
+      "success": true,
+      "elapsed": "1.0s",
+      "promptTokens": 3592,
+      "completionTokens": 125,
+      "totalTokens": 3717,
+      "truncated": false
+    },
+    {
+      "callId": "call-0157",
+      "success": true,
+      "elapsed": "0.8s",
+      "promptTokens": 3638,
+      "completionTokens": 45,
+      "totalTokens": 3683,
+      "truncated": false
+    },
+    {
+      "callId": "call-0158",
+      "success": true,
+      "elapsed": "0.8s",
+      "promptTokens": 3765,
+      "completionTokens": 101,
+      "totalTokens": 3866,
+      "truncated": false
+    },
+    {
+      "callId": "call-0159",
+      "success": true,
+      "elapsed": "1.0s",
+      "promptTokens": 3764,
+      "completionTokens": 165,
+      "totalTokens": 3929,
+      "truncated": false
+    },
+    {
+      "callId": "call-0160",
+      "success": true,
+      "elapsed": "0.7s",
+      "promptTokens": 3493,
+      "completionTokens": 89,
+      "totalTokens": 3582,
+      "truncated": false
+    },
+    {
+      "callId": "call-0161",
+      "success": true,
+      "elapsed": "1.6s",
+      "promptTokens": 3475,
+      "completionTokens": 389,
+      "totalTokens": 3864,
+      "truncated": false
+    },
+    {
+      "callId": "call-0162",
+      "success": true,
+      "elapsed": "0.8s",
+      "promptTokens": 3619,
+      "completionTokens": 105,
+      "totalTokens": 3724,
+      "truncated": false
+    },
+    {
+      "callId": "call-0163",
+      "success": true,
+      "elapsed": "1.0s",
+      "promptTokens": 3615,
+      "completionTokens": 89,
+      "totalTokens": 3704,
+      "truncated": false
+    },
+    {
+      "callId": "call-0164",
+      "success": true,
+      "elapsed": "1.0s",
+      "promptTokens": 3579,
+      "completionTokens": 77,
+      "totalTokens": 3656,
+      "truncated": false
+    },
+    {
+      "callId": "call-0165",
+      "success": true,
+      "elapsed": "1.0s",
+      "promptTokens": 3519,
+      "completionTokens": 149,
+      "totalTokens": 3668,
+      "truncated": false
+    },
+    {
+      "callId": "call-0166",
+      "success": true,
+      "elapsed": "1.2s",
+      "promptTokens": 3616,
+      "completionTokens": 65,
+      "totalTokens": 3681,
+      "truncated": false
+    },
+    {
+      "callId": "call-0167",
+      "success": true,
+      "elapsed": "0.7s",
+      "promptTokens": 3714,
+      "completionTokens": 29,
+      "totalTokens": 3743,
+      "truncated": false
+    },
+    {
+      "callId": "call-0168",
+      "success": true,
+      "elapsed": "1.0s",
+      "promptTokens": 3829,
+      "completionTokens": 45,
+      "totalTokens": 3874,
+      "truncated": false
+    },
+    {
+      "callId": "call-0169",
+      "success": true,
+      "elapsed": "0.3s",
+      "promptTokens": 3978,
+      "completionTokens": 2,
+      "totalTokens": 3980,
+      "truncated": false
+    },
+    {
+      "callId": "call-0170",
+      "success": true,
+      "elapsed": "0.8s",
+      "promptTokens": 3657,
+      "completionTokens": 77,
+      "totalTokens": 3734,
+      "truncated": false
+    },
+    {
+      "callId": "call-0171",
+      "success": true,
+      "elapsed": "0.8s",
+      "promptTokens": 3611,
+      "completionTokens": 89,
+      "totalTokens": 3700,
+      "truncated": false
+    },
+    {
+      "callId": "call-0172",
+      "success": true,
+      "elapsed": "1.2s",
+      "promptTokens": 3737,
+      "completionTokens": 161,
+      "totalTokens": 3898,
+      "truncated": false
+    },
+    {
+      "callId": "call-0173",
+      "success": true,
+      "elapsed": "0.7s",
+      "promptTokens": 3932,
+      "completionTokens": 93,
+      "totalTokens": 4025,
+      "truncated": false
+    },
+    {
+      "callId": "call-0174",
+      "success": true,
+      "elapsed": "0.7s",
+      "promptTokens": 3927,
+      "completionTokens": 81,
+      "totalTokens": 4008,
+      "truncated": false
+    },
+    {
+      "callId": "call-0175",
+      "success": true,
+      "elapsed": "1.2s",
+      "promptTokens": 3829,
+      "completionTokens": 101,
+      "totalTokens": 3930,
+      "truncated": false
+    },
+    {
+      "callId": "call-0176",
+      "success": true,
+      "elapsed": "1.0s",
+      "promptTokens": 3507,
+      "completionTokens": 173,
+      "totalTokens": 3680,
+      "truncated": false
+    },
+    {
+      "callId": "call-0177",
+      "success": true,
+      "elapsed": "0.8s",
+      "promptTokens": 3705,
+      "completionTokens": 61,
+      "totalTokens": 3766,
+      "truncated": false
+    },
+    {
+      "callId": "call-0178",
+      "success": true,
+      "elapsed": "0.9s",
+      "promptTokens": 3741,
+      "completionTokens": 101,
+      "totalTokens": 3842,
+      "truncated": false
+    },
+    {
+      "callId": "call-0179",
+      "success": true,
+      "elapsed": "0.9s",
+      "promptTokens": 3703,
+      "completionTokens": 81,
+      "totalTokens": 3784,
+      "truncated": false
+    },
+    {
+      "callId": "call-0180",
+      "success": true,
+      "elapsed": "0.6s",
+      "promptTokens": 3561,
+      "completionTokens": 93,
+      "totalTokens": 3654,
+      "truncated": false
+    },
+    {
+      "callId": "call-0181",
+      "success": true,
+      "elapsed": "0.8s",
+      "promptTokens": 1066,
+      "completionTokens": 93,
+      "totalTokens": 1159,
+      "truncated": false
+    },
+    {
+      "callId": "call-0182",
+      "success": true,
+      "elapsed": "6.2s",
+      "promptTokens": 3286,
+      "completionTokens": 1952,
+      "totalTokens": 5238,
+      "truncated": false
+    },
+    {
+      "callId": "call-0183",
+      "success": true,
+      "elapsed": "6.5s",
+      "promptTokens": 3470,
+      "completionTokens": 2155,
+      "totalTokens": 5625,
+      "truncated": false
+    },
+    {
+      "callId": "call-0184",
+      "success": true,
+      "elapsed": "6.4s",
+      "promptTokens": 3394,
+      "completionTokens": 2022,
+      "totalTokens": 5416,
+      "truncated": false
+    },
+    {
+      "callId": "call-0185",
+      "success": true,
+      "elapsed": "5.8s",
+      "promptTokens": 3330,
+      "completionTokens": 1917,
+      "totalTokens": 5247,
+      "truncated": false
+    },
+    {
+      "callId": "call-0186",
+      "success": true,
+      "elapsed": "2.4s",
+      "promptTokens": 1162,
+      "completionTokens": 601,
+      "totalTokens": 1763,
+      "truncated": false
+    },
+    {
+      "callId": "call-0187",
+      "success": true,
+      "elapsed": "0.5s",
+      "promptTokens": 3783,
+      "completionTokens": 9,
+      "totalTokens": 3792,
+      "truncated": false
+    },
+    {
+      "callId": "call-0188",
+      "success": true,
+      "elapsed": "0.7s",
+      "promptTokens": 3381,
+      "completionTokens": 45,
+      "totalTokens": 3426,
+      "truncated": false
+    },
+    {
+      "callId": "call-0189",
+      "success": true,
+      "elapsed": "0.7s",
+      "promptTokens": 3616,
+      "completionTokens": 33,
+      "totalTokens": 3649,
+      "truncated": false
+    },
+    {
+      "callId": "call-0190",
+      "success": true,
+      "elapsed": "1.0s",
+      "promptTokens": 3738,
+      "completionTokens": 129,
+      "totalTokens": 3867,
+      "truncated": false
+    },
+    {
+      "callId": "call-0191",
+      "success": true,
+      "elapsed": "0.6s",
+      "promptTokens": 3732,
+      "completionTokens": 41,
+      "totalTokens": 3773,
+      "truncated": false
+    },
+    {
+      "callId": "call-0192",
+      "success": true,
+      "elapsed": "0.4s",
+      "promptTokens": 3458,
+      "completionTokens": 21,
+      "totalTokens": 3479,
+      "truncated": false
+    },
+    {
+      "callId": "call-0193",
+      "success": true,
+      "elapsed": "0.7s",
+      "promptTokens": 3347,
+      "completionTokens": 21,
+      "totalTokens": 3368,
+      "truncated": false
+    },
+    {
+      "callId": "call-0194",
+      "success": true,
+      "elapsed": "0.6s",
+      "promptTokens": 3803,
+      "completionTokens": 37,
+      "totalTokens": 3840,
+      "truncated": false
+    },
+    {
+      "callId": "call-0195",
+      "success": true,
+      "elapsed": "0.6s",
+      "promptTokens": 3796,
+      "completionTokens": 2,
+      "totalTokens": 3798,
+      "truncated": false
+    },
+    {
+      "callId": "call-0196",
+      "success": true,
+      "elapsed": "0.6s",
+      "promptTokens": 3945,
+      "completionTokens": 2,
+      "totalTokens": 3947,
+      "truncated": false
+    },
+    {
+      "callId": "call-0197",
+      "success": true,
+      "elapsed": "1.1s",
+      "promptTokens": 3959,
+      "completionTokens": 9,
+      "totalTokens": 3968,
+      "truncated": false
+    },
+    {
+      "callId": "call-0198",
+      "success": true,
+      "elapsed": "0.6s",
+      "promptTokens": 3988,
+      "completionTokens": 25,
+      "totalTokens": 4013,
+      "truncated": false
+    },
+    {
+      "callId": "call-0199",
+      "success": true,
+      "elapsed": "0.9s",
+      "promptTokens": 4032,
+      "completionTokens": 49,
+      "totalTokens": 4081,
+      "truncated": false
+    },
+    {
+      "callId": "call-0200",
+      "success": true,
+      "elapsed": "0.6s",
+      "promptTokens": 3440,
+      "completionTokens": 41,
+      "totalTokens": 3481,
+      "truncated": false
+    },
+    {
+      "callId": "call-0201",
+      "success": true,
+      "elapsed": "0.9s",
+      "promptTokens": 3483,
+      "completionTokens": 153,
+      "totalTokens": 3636,
+      "truncated": false
+    },
+    {
+      "callId": "call-0202",
+      "success": true,
+      "elapsed": "0.7s",
+      "promptTokens": 3487,
+      "completionTokens": 65,
+      "totalTokens": 3552,
+      "truncated": false
+    },
+    {
+      "callId": "call-0203",
+      "success": true,
+      "elapsed": "0.8s",
+      "promptTokens": 3684,
+      "completionTokens": 69,
+      "totalTokens": 3753,
+      "truncated": false
+    },
+    {
+      "callId": "call-0204",
+      "success": true,
+      "elapsed": "0.5s",
+      "promptTokens": 3282,
+      "completionTokens": 33,
+      "totalTokens": 3315,
+      "truncated": false
+    },
+    {
+      "callId": "call-0205",
+      "success": true,
+      "elapsed": "0.9s",
+      "promptTokens": 3256,
+      "completionTokens": 181,
+      "totalTokens": 3437,
+      "truncated": false
+    },
+    {
+      "callId": "call-0206",
+      "success": true,
+      "elapsed": "0.5s",
+      "promptTokens": 3534,
+      "completionTokens": 17,
+      "totalTokens": 3551,
+      "truncated": false
+    },
+    {
+      "callId": "call-0207",
+      "success": true,
+      "elapsed": "0.7s",
+      "promptTokens": 3853,
+      "completionTokens": 29,
+      "totalTokens": 3882,
+      "truncated": false
+    },
+    {
+      "callId": "call-0208",
+      "success": true,
+      "elapsed": "0.8s",
+      "promptTokens": 3656,
+      "completionTokens": 21,
+      "totalTokens": 3677,
+      "truncated": false
+    },
+    {
+      "callId": "call-0209",
+      "success": true,
+      "elapsed": "0.6s",
+      "promptTokens": 3738,
+      "completionTokens": 29,
+      "totalTokens": 3767,
+      "truncated": false
+    },
+    {
+      "callId": "call-0210",
+      "success": true,
+      "elapsed": "0.7s",
+      "promptTokens": 3677,
+      "completionTokens": 25,
+      "totalTokens": 3702,
+      "truncated": false
+    },
+    {
+      "callId": "call-0211",
+      "success": true,
+      "elapsed": "0.7s",
+      "promptTokens": 3497,
+      "completionTokens": 29,
+      "totalTokens": 3526,
+      "truncated": false
+    },
+    {
+      "callId": "call-0212",
+      "success": true,
+      "elapsed": "0.6s",
+      "promptTokens": 3862,
+      "completionTokens": 2,
+      "totalTokens": 3864,
+      "truncated": false
+    },
+    {
+      "callId": "call-0213",
+      "success": true,
+      "elapsed": "1.0s",
+      "promptTokens": 3678,
+      "completionTokens": 137,
+      "totalTokens": 3815,
+      "truncated": false
+    },
+    {
+      "callId": "call-0214",
+      "success": true,
+      "elapsed": "0.7s",
+      "promptTokens": 3664,
+      "completionTokens": 5,
+      "totalTokens": 3669,
+      "truncated": false
+    },
+    {
+      "callId": "call-0215",
+      "success": true,
+      "elapsed": "0.9s",
+      "promptTokens": 3610,
+      "completionTokens": 29,
+      "totalTokens": 3639,
+      "truncated": false
+    },
+    {
+      "callId": "call-0216",
+      "success": true,
+      "elapsed": "1.0s",
+      "promptTokens": 3416,
+      "completionTokens": 45,
+      "totalTokens": 3461,
+      "truncated": false
+    },
+    {
+      "callId": "call-0217",
+      "success": true,
+      "elapsed": "0.8s",
+      "promptTokens": 3486,
+      "completionTokens": 89,
+      "totalTokens": 3575,
+      "truncated": false
+    },
+    {
+      "callId": "call-0218",
+      "success": true,
+      "elapsed": "0.7s",
+      "promptTokens": 3273,
+      "completionTokens": 45,
+      "totalTokens": 3318,
+      "truncated": false
+    },
+    {
+      "callId": "call-0219",
+      "success": true,
+      "elapsed": "0.8s",
+      "promptTokens": 3107,
+      "completionTokens": 57,
+      "totalTokens": 3164,
+      "truncated": false
+    },
+    {
+      "callId": "call-0220",
+      "success": true,
+      "elapsed": "0.5s",
+      "promptTokens": 3166,
+      "completionTokens": 45,
+      "totalTokens": 3211,
+      "truncated": false
+    },
+    {
+      "callId": "call-0221",
+      "success": true,
+      "elapsed": "0.5s",
+      "promptTokens": 1683,
+      "completionTokens": 25,
+      "totalTokens": 1708,
+      "truncated": false
+    },
+    {
+      "callId": "call-0222",
+      "success": true,
+      "elapsed": "7.2s",
+      "promptTokens": 3637,
+      "completionTokens": 2484,
+      "totalTokens": 6121,
+      "truncated": false
+    },
+    {
+      "callId": "call-0223",
+      "success": true,
+      "elapsed": "3.1s",
+      "promptTokens": 1824,
+      "completionTokens": 1056,
+      "totalTokens": 2880,
+      "truncated": false
+    },
+    {
+      "callId": "call-0224",
+      "success": true,
+      "elapsed": "0.6s",
+      "promptTokens": 4155,
+      "completionTokens": 25,
+      "totalTokens": 4180,
+      "truncated": false
+    },
+    {
+      "callId": "call-0225",
+      "success": true,
+      "elapsed": "1.4s",
+      "promptTokens": 4060,
+      "completionTokens": 61,
+      "totalTokens": 4121,
+      "truncated": false
+    },
+    {
+      "callId": "call-0226",
+      "success": true,
+      "elapsed": "0.9s",
+      "promptTokens": 4054,
+      "completionTokens": 37,
+      "totalTokens": 4091,
+      "truncated": false
+    },
+    {
+      "callId": "call-0227",
+      "success": true,
+      "elapsed": "0.9s",
+      "promptTokens": 4080,
+      "completionTokens": 53,
+      "totalTokens": 4133,
+      "truncated": false
+    },
+    {
+      "callId": "call-0228",
+      "success": true,
+      "elapsed": "0.6s",
+      "promptTokens": 3854,
+      "completionTokens": 29,
+      "totalTokens": 3883,
+      "truncated": false
+    },
+    {
+      "callId": "call-0229",
+      "success": true,
+      "elapsed": "0.3s",
+      "promptTokens": 3955,
+      "completionTokens": 13,
+      "totalTokens": 3968,
+      "truncated": false
+    },
+    {
+      "callId": "call-0230",
+      "success": true,
+      "elapsed": "0.8s",
+      "promptTokens": 3787,
+      "completionTokens": 73,
+      "totalTokens": 3860,
+      "truncated": false
+    },
+    {
+      "callId": "call-0231",
+      "success": true,
+      "elapsed": "0.6s",
+      "promptTokens": 3765,
+      "completionTokens": 17,
+      "totalTokens": 3782,
+      "truncated": false
+    },
+    {
+      "callId": "call-0232",
+      "success": true,
+      "elapsed": "0.6s",
+      "promptTokens": 3781,
+      "completionTokens": 9,
+      "totalTokens": 3790,
+      "truncated": false
+    },
+    {
+      "callId": "call-0233",
+      "success": true,
+      "elapsed": "0.8s",
+      "promptTokens": 3379,
+      "completionTokens": 17,
+      "totalTokens": 3396,
+      "truncated": false
+    },
+    {
+      "callId": "call-0234",
+      "success": true,
+      "elapsed": "0.7s",
+      "promptTokens": 3614,
+      "completionTokens": 41,
+      "totalTokens": 3655,
+      "truncated": false
+    },
+    {
+      "callId": "call-0235",
+      "success": true,
+      "elapsed": "0.6s",
+      "promptTokens": 3736,
+      "completionTokens": 2,
+      "totalTokens": 3738,
+      "truncated": false
+    },
+    {
+      "callId": "call-0236",
+      "success": true,
+      "elapsed": "0.7s",
+      "promptTokens": 3730,
+      "completionTokens": 25,
+      "totalTokens": 3755,
+      "truncated": false
+    },
+    {
+      "callId": "call-0237",
+      "success": true,
+      "elapsed": "0.9s",
+      "promptTokens": 3456,
+      "completionTokens": 33,
+      "totalTokens": 3489,
+      "truncated": false
+    },
+    {
+      "callId": "call-0238",
+      "success": true,
+      "elapsed": "0.6s",
+      "promptTokens": 3345,
+      "completionTokens": 5,
+      "totalTokens": 3350,
+      "truncated": false
+    },
+    {
+      "callId": "call-0239",
+      "success": true,
+      "elapsed": "0.7s",
+      "promptTokens": 3801,
+      "completionTokens": 41,
+      "totalTokens": 3842,
+      "truncated": false
+    },
+    {
+      "callId": "call-0240",
+      "success": true,
+      "elapsed": "1.0s",
+      "promptTokens": 3794,
+      "completionTokens": 2,
+      "totalTokens": 3796,
+      "truncated": false
+    },
+    {
+      "callId": "call-0241",
+      "success": true,
+      "elapsed": "0.5s",
+      "promptTokens": 3943,
+      "completionTokens": 2,
+      "totalTokens": 3945,
+      "truncated": false
+    },
+    {
+      "callId": "call-0242",
+      "success": true,
+      "elapsed": "0.6s",
+      "promptTokens": 3957,
+      "completionTokens": 2,
+      "totalTokens": 3959,
+      "truncated": false
+    },
+    {
+      "callId": "call-0243",
+      "success": true,
+      "elapsed": "0.9s",
+      "promptTokens": 3986,
+      "completionTokens": 33,
+      "totalTokens": 4019,
+      "truncated": false
+    },
+    {
+      "callId": "call-0244",
+      "success": true,
+      "elapsed": "0.5s",
+      "promptTokens": 4030,
+      "completionTokens": 21,
+      "totalTokens": 4051,
+      "truncated": false
+    },
+    {
+      "callId": "call-0245",
+      "success": true,
+      "elapsed": "0.5s",
+      "promptTokens": 3438,
+      "completionTokens": 9,
+      "totalTokens": 3447,
+      "truncated": false
+    },
+    {
+      "callId": "call-0246",
+      "success": true,
+      "elapsed": "0.8s",
+      "promptTokens": 3481,
+      "completionTokens": 21,
+      "totalTokens": 3502,
+      "truncated": false
+    },
+    {
+      "callId": "call-0247",
+      "success": true,
+      "elapsed": "0.9s",
+      "promptTokens": 3485,
+      "completionTokens": 105,
+      "totalTokens": 3590,
+      "truncated": false
+    },
+    {
+      "callId": "call-0248",
+      "success": true,
+      "elapsed": "0.5s",
+      "promptTokens": 3682,
+      "completionTokens": 17,
+      "totalTokens": 3699,
+      "truncated": false
+    },
+    {
+      "callId": "call-0249",
+      "success": true,
+      "elapsed": "0.7s",
+      "promptTokens": 3280,
+      "completionTokens": 21,
+      "totalTokens": 3301,
+      "truncated": false
+    },
+    {
+      "callId": "call-0250",
+      "success": true,
+      "elapsed": "0.7s",
+      "promptTokens": 3254,
+      "completionTokens": 5,
+      "totalTokens": 3259,
+      "truncated": false
+    },
+    {
+      "callId": "call-0251",
+      "success": true,
+      "elapsed": "1.0s",
+      "promptTokens": 3532,
+      "completionTokens": 2,
+      "totalTokens": 3534,
+      "truncated": false
+    },
+    {
+      "callId": "call-0252",
+      "success": true,
+      "elapsed": "0.5s",
+      "promptTokens": 3851,
+      "completionTokens": 13,
+      "totalTokens": 3864,
+      "truncated": false
+    },
+    {
+      "callId": "call-0253",
+      "success": true,
+      "elapsed": "0.5s",
+      "promptTokens": 3654,
+      "completionTokens": 9,
+      "totalTokens": 3663,
+      "truncated": false
+    },
+    {
+      "callId": "call-0254",
+      "success": true,
+      "elapsed": "0.7s",
+      "promptTokens": 3736,
+      "completionTokens": 9,
+      "totalTokens": 3745,
+      "truncated": false
+    },
+    {
+      "callId": "call-0255",
+      "success": true,
+      "elapsed": "0.6s",
+      "promptTokens": 3675,
+      "completionTokens": 13,
+      "totalTokens": 3688,
+      "truncated": false
+    },
+    {
+      "callId": "call-0256",
+      "success": true,
+      "elapsed": "0.7s",
+      "promptTokens": 3495,
+      "completionTokens": 5,
+      "totalTokens": 3500,
+      "truncated": false
+    },
+    {
+      "callId": "call-0257",
+      "success": true,
+      "elapsed": "0.8s",
+      "promptTokens": 3860,
+      "completionTokens": 5,
+      "totalTokens": 3865,
+      "truncated": false
+    },
+    {
+      "callId": "call-0258",
+      "success": true,
+      "elapsed": "0.8s",
+      "promptTokens": 3676,
+      "completionTokens": 5,
+      "totalTokens": 3681,
+      "truncated": false
+    },
+    {
+      "callId": "call-0259",
+      "success": true,
+      "elapsed": "1.1s",
+      "promptTokens": 3662,
+      "completionTokens": 161,
+      "totalTokens": 3823,
+      "truncated": false
+    },
+    {
+      "callId": "call-0260",
+      "success": true,
+      "elapsed": "0.9s",
+      "promptTokens": 3608,
+      "completionTokens": 5,
+      "totalTokens": 3613,
+      "truncated": false
+    },
+    {
+      "callId": "call-0261",
+      "success": true,
+      "elapsed": "0.8s",
+      "promptTokens": 3414,
+      "completionTokens": 41,
+      "totalTokens": 3455,
+      "truncated": false
+    },
+    {
+      "callId": "call-0262",
+      "success": true,
+      "elapsed": "0.9s",
+      "promptTokens": 3484,
+      "completionTokens": 37,
+      "totalTokens": 3521,
+      "truncated": false
+    },
+    {
+      "callId": "call-0263",
+      "success": true,
+      "elapsed": "0.7s",
+      "promptTokens": 3271,
+      "completionTokens": 49,
+      "totalTokens": 3320,
+      "truncated": false
+    },
+    {
+      "callId": "call-0264",
+      "success": true,
+      "elapsed": "0.9s",
+      "promptTokens": 3105,
+      "completionTokens": 33,
+      "totalTokens": 3138,
+      "truncated": false
+    },
+    {
+      "callId": "call-0265",
+      "success": true,
+      "elapsed": "1.9s",
+      "promptTokens": 3164,
+      "completionTokens": 33,
+      "totalTokens": 3197,
+      "truncated": false
+    },
+    {
+      "callId": "call-0266",
+      "success": true,
+      "elapsed": "0.4s",
+      "promptTokens": 1681,
+      "completionTokens": 2,
+      "totalTokens": 1683,
+      "truncated": false
+    },
+    {
+      "callId": "call-0267",
+      "success": true,
+      "elapsed": "6.3s",
+      "promptTokens": 2995,
+      "completionTokens": 1910,
+      "totalTokens": 4905,
+      "truncated": false
+    },
+    {
+      "callId": "call-0268",
+      "success": true,
+      "elapsed": "1.3s",
+      "promptTokens": 4162,
+      "completionTokens": 225,
+      "totalTokens": 4387,
+      "truncated": false
+    },
+    {
+      "callId": "call-0269",
+      "success": true,
+      "elapsed": "1.0s",
+      "promptTokens": 4067,
+      "completionTokens": 97,
+      "totalTokens": 4164,
+      "truncated": false
+    },
+    {
+      "callId": "call-0270",
+      "success": true,
+      "elapsed": "0.7s",
+      "promptTokens": 4061,
+      "completionTokens": 49,
+      "totalTokens": 4110,
+      "truncated": false
+    },
+    {
+      "callId": "call-0271",
+      "success": true,
+      "elapsed": "0.6s",
+      "promptTokens": 4087,
+      "completionTokens": 49,
+      "totalTokens": 4136,
+      "truncated": false
+    },
+    {
+      "callId": "call-0272",
+      "success": true,
+      "elapsed": "0.6s",
+      "promptTokens": 3861,
+      "completionTokens": 65,
+      "totalTokens": 3926,
+      "truncated": false
+    },
+    {
+      "callId": "call-0273",
+      "success": true,
+      "elapsed": "1.2s",
+      "promptTokens": 3962,
+      "completionTokens": 121,
+      "totalTokens": 4083,
+      "truncated": false
+    },
+    {
+      "callId": "call-0274",
+      "success": true,
+      "elapsed": "1.0s",
+      "promptTokens": 3794,
+      "completionTokens": 41,
+      "totalTokens": 3835,
+      "truncated": false
+    },
+    {
+      "callId": "call-0275",
+      "success": true,
+      "elapsed": "0.5s",
+      "promptTokens": 3772,
+      "completionTokens": 49,
+      "totalTokens": 3821,
+      "truncated": false
+    },
+    {
+      "callId": "call-0276",
+      "success": true,
+      "elapsed": "0.8s",
+      "promptTokens": 3788,
+      "completionTokens": 41,
+      "totalTokens": 3829,
+      "truncated": false
+    },
+    {
+      "callId": "call-0277",
+      "success": true,
+      "elapsed": "0.7s",
+      "promptTokens": 3386,
+      "completionTokens": 69,
+      "totalTokens": 3455,
+      "truncated": false
+    },
+    {
+      "callId": "call-0278",
+      "success": true,
+      "elapsed": "0.8s",
+      "promptTokens": 3621,
+      "completionTokens": 25,
+      "totalTokens": 3646,
+      "truncated": false
+    },
+    {
+      "callId": "call-0279",
+      "success": true,
+      "elapsed": "0.4s",
+      "promptTokens": 3743,
+      "completionTokens": 2,
+      "totalTokens": 3745,
+      "truncated": false
+    },
+    {
+      "callId": "call-0280",
+      "success": true,
+      "elapsed": "1.0s",
+      "promptTokens": 3737,
+      "completionTokens": 153,
+      "totalTokens": 3890,
+      "truncated": false
+    },
+    {
+      "callId": "call-0281",
+      "success": true,
+      "elapsed": "1.0s",
+      "promptTokens": 3463,
+      "completionTokens": 45,
+      "totalTokens": 3508,
+      "truncated": false
+    },
+    {
+      "callId": "call-0282",
+      "success": true,
+      "elapsed": "0.5s",
+      "promptTokens": 3352,
+      "completionTokens": 25,
+      "totalTokens": 3377,
+      "truncated": false
+    },
+    {
+      "callId": "call-0283",
+      "success": true,
+      "elapsed": "1.2s",
+      "promptTokens": 3808,
+      "completionTokens": 49,
+      "totalTokens": 3857,
+      "truncated": false
+    },
+    {
+      "callId": "call-0284",
+      "success": true,
+      "elapsed": "0.4s",
+      "promptTokens": 3801,
+      "completionTokens": 2,
+      "totalTokens": 3803,
+      "truncated": false
+    },
+    {
+      "callId": "call-0285",
+      "success": true,
+      "elapsed": "0.5s",
+      "promptTokens": 3950,
+      "completionTokens": 2,
+      "totalTokens": 3952,
+      "truncated": false
+    },
+    {
+      "callId": "call-0286",
+      "success": true,
+      "elapsed": "1.1s",
+      "promptTokens": 3964,
+      "completionTokens": 89,
+      "totalTokens": 4053,
+      "truncated": false
+    },
+    {
+      "callId": "call-0287",
+      "success": true,
+      "elapsed": "0.5s",
+      "promptTokens": 3993,
+      "completionTokens": 45,
+      "totalTokens": 4038,
+      "truncated": false
+    },
+    {
+      "callId": "call-0288",
+      "success": true,
+      "elapsed": "4.1s",
+      "promptTokens": 4037,
+      "completionTokens": 1225,
+      "totalTokens": 5262,
+      "truncated": false
+    },
+    {
+      "callId": "call-0289",
+      "success": true,
+      "elapsed": "1.0s",
+      "promptTokens": 3445,
+      "completionTokens": 113,
+      "totalTokens": 3558,
+      "truncated": false
+    },
+    {
+      "callId": "call-0290",
+      "success": true,
+      "elapsed": "0.9s",
+      "promptTokens": 3488,
+      "completionTokens": 29,
+      "totalTokens": 3517,
+      "truncated": false
+    },
+    {
+      "callId": "call-0291",
+      "success": true,
+      "elapsed": "1.0s",
+      "promptTokens": 3492,
+      "completionTokens": 81,
+      "totalTokens": 3573,
+      "truncated": false
+    },
+    {
+      "callId": "call-0292",
+      "success": true,
+      "elapsed": "1.2s",
+      "promptTokens": 3689,
+      "completionTokens": 197,
+      "totalTokens": 3886,
+      "truncated": false
+    },
+    {
+      "callId": "call-0293",
+      "success": true,
+      "elapsed": "0.8s",
+      "promptTokens": 3287,
+      "completionTokens": 25,
+      "totalTokens": 3312,
+      "truncated": false
+    },
+    {
+      "callId": "call-0294",
+      "success": true,
+      "elapsed": "0.4s",
+      "promptTokens": 3261,
+      "completionTokens": 25,
+      "totalTokens": 3286,
+      "truncated": false
+    },
+    {
+      "callId": "call-0295",
+      "success": true,
+      "elapsed": "0.5s",
+      "promptTokens": 3539,
+      "completionTokens": 5,
+      "totalTokens": 3544,
+      "truncated": false
+    },
+    {
+      "callId": "call-0296",
+      "success": true,
+      "elapsed": "0.5s",
+      "promptTokens": 3858,
+      "completionTokens": 2,
+      "totalTokens": 3860,
+      "truncated": false
+    },
+    {
+      "callId": "call-0297",
+      "success": true,
+      "elapsed": "0.7s",
+      "promptTokens": 3661,
+      "completionTokens": 29,
+      "totalTokens": 3690,
+      "truncated": false
+    },
+    {
+      "callId": "call-0298",
+      "success": true,
+      "elapsed": "0.7s",
+      "promptTokens": 3743,
+      "completionTokens": 25,
+      "totalTokens": 3768,
+      "truncated": false
+    },
+    {
+      "callId": "call-0299",
+      "success": true,
+      "elapsed": "0.6s",
+      "promptTokens": 3682,
+      "completionTokens": 33,
+      "totalTokens": 3715,
+      "truncated": false
+    },
+    {
+      "callId": "call-0300",
+      "success": true,
+      "elapsed": "1.0s",
+      "promptTokens": 3502,
+      "completionTokens": 21,
+      "totalTokens": 3523,
+      "truncated": false
+    },
+    {
+      "callId": "call-0301",
+      "success": true,
+      "elapsed": "0.7s",
+      "promptTokens": 3867,
+      "completionTokens": 2,
+      "totalTokens": 3869,
+      "truncated": false
+    },
+    {
+      "callId": "call-0302",
+      "success": true,
+      "elapsed": "0.8s",
+      "promptTokens": 3683,
+      "completionTokens": 85,
+      "totalTokens": 3768,
+      "truncated": false
+    },
+    {
+      "callId": "call-0303",
+      "success": true,
+      "elapsed": "0.8s",
+      "promptTokens": 3669,
+      "completionTokens": 121,
+      "totalTokens": 3790,
+      "truncated": false
+    },
+    {
+      "callId": "call-0304",
+      "success": true,
+      "elapsed": "0.6s",
+      "promptTokens": 3615,
+      "completionTokens": 33,
+      "totalTokens": 3648,
+      "truncated": false
+    },
+    {
+      "callId": "call-0305",
+      "success": true,
+      "elapsed": "0.8s",
+      "promptTokens": 3421,
+      "completionTokens": 117,
+      "totalTokens": 3538,
+      "truncated": false
+    },
+    {
+      "callId": "call-0306",
+      "success": true,
+      "elapsed": "0.6s",
+      "promptTokens": 3491,
+      "completionTokens": 45,
+      "totalTokens": 3536,
+      "truncated": false
+    },
+    {
+      "callId": "call-0307",
+      "success": true,
+      "elapsed": "0.6s",
+      "promptTokens": 3278,
+      "completionTokens": 29,
+      "totalTokens": 3307,
+      "truncated": false
+    },
+    {
+      "callId": "call-0308",
+      "success": true,
+      "elapsed": "1.1s",
+      "promptTokens": 3112,
+      "completionTokens": 193,
+      "totalTokens": 3305,
+      "truncated": false
+    },
+    {
+      "callId": "call-0309",
+      "success": true,
+      "elapsed": "0.9s",
+      "promptTokens": 3171,
+      "completionTokens": 45,
+      "totalTokens": 3216,
+      "truncated": false
+    },
+    {
+      "callId": "call-0310",
+      "success": true,
+      "elapsed": "0.6s",
+      "promptTokens": 1688,
+      "completionTokens": 45,
+      "totalTokens": 1733,
+      "truncated": false
+    },
+    {
+      "callId": "call-0311",
+      "success": true,
+      "elapsed": "8.1s",
+      "promptTokens": 3804,
+      "completionTokens": 2645,
+      "totalTokens": 6449,
+      "truncated": false
+    },
+    {
+      "callId": "call-0312",
+      "success": true,
+      "elapsed": "7.2s",
+      "promptTokens": 3577,
+      "completionTokens": 2239,
+      "totalTokens": 5816,
+      "truncated": false
+    },
+    {
+      "callId": "call-0313",
+      "success": true,
+      "elapsed": "4.2s",
+      "promptTokens": 2818,
+      "completionTokens": 1595,
+      "totalTokens": 4413,
+      "truncated": false
+    },
+    {
+      "callId": "call-0314",
+      "success": true,
+      "elapsed": "0.9s",
+      "promptTokens": 4155,
+      "completionTokens": 49,
+      "totalTokens": 4204,
+      "truncated": false
+    },
+    {
+      "callId": "call-0315",
+      "success": true,
+      "elapsed": "0.8s",
+      "promptTokens": 4060,
+      "completionTokens": 109,
+      "totalTokens": 4169,
+      "truncated": false
+    },
+    {
+      "callId": "call-0316",
+      "success": true,
+      "elapsed": "0.8s",
+      "promptTokens": 4054,
+      "completionTokens": 137,
+      "totalTokens": 4191,
+      "truncated": false
+    },
+    {
+      "callId": "call-0317",
+      "success": true,
+      "elapsed": "1.6s",
+      "promptTokens": 4080,
+      "completionTokens": 313,
+      "totalTokens": 4393,
+      "truncated": false
+    },
+    {
+      "callId": "call-0318",
+      "success": true,
+      "elapsed": "1.5s",
+      "promptTokens": 3854,
+      "completionTokens": 225,
+      "totalTokens": 4079,
+      "truncated": false
+    },
+    {
+      "callId": "call-0319",
+      "success": true,
+      "elapsed": "0.6s",
+      "promptTokens": 3955,
+      "completionTokens": 45,
+      "totalTokens": 4000,
+      "truncated": false
+    },
+    {
+      "callId": "call-0320",
+      "success": true,
+      "elapsed": "0.6s",
+      "promptTokens": 3787,
+      "completionTokens": 33,
+      "totalTokens": 3820,
+      "truncated": false
+    },
+    {
+      "callId": "call-0321",
+      "success": true,
+      "elapsed": "1.1s",
+      "promptTokens": 3765,
+      "completionTokens": 93,
+      "totalTokens": 3858,
+      "truncated": false
+    },
+    {
+      "callId": "call-0322",
+      "success": true,
+      "elapsed": "0.4s",
+      "promptTokens": 3781,
+      "completionTokens": 57,
+      "totalTokens": 3838,
+      "truncated": false
+    },
+    {
+      "callId": "call-0323",
+      "success": true,
+      "elapsed": "0.7s",
+      "promptTokens": 3379,
+      "completionTokens": 33,
+      "totalTokens": 3412,
+      "truncated": false
+    },
+    {
+      "callId": "call-0324",
+      "success": true,
+      "elapsed": "1.0s",
+      "promptTokens": 3614,
+      "completionTokens": 129,
+      "totalTokens": 3743,
+      "truncated": false
+    },
+    {
+      "callId": "call-0325",
+      "success": true,
+      "elapsed": "0.6s",
+      "promptTokens": 3736,
+      "completionTokens": 45,
+      "totalTokens": 3781,
+      "truncated": false
+    },
+    {
+      "callId": "call-0326",
+      "success": true,
+      "elapsed": "0.8s",
+      "promptTokens": 3730,
+      "completionTokens": 85,
+      "totalTokens": 3815,
+      "truncated": false
+    },
+    {
+      "callId": "call-0327",
+      "success": true,
+      "elapsed": "0.8s",
+      "promptTokens": 3456,
+      "completionTokens": 57,
+      "totalTokens": 3513,
+      "truncated": false
+    },
+    {
+      "callId": "call-0328",
+      "success": true,
+      "elapsed": "2.1s",
+      "promptTokens": 3345,
+      "completionTokens": 517,
+      "totalTokens": 3862,
+      "truncated": false
+    },
+    {
+      "callId": "call-0329",
+      "success": true,
+      "elapsed": "0.5s",
+      "promptTokens": 3801,
+      "completionTokens": 21,
+      "totalTokens": 3822,
+      "truncated": false
+    },
+    {
+      "callId": "call-0330",
+      "success": true,
+      "elapsed": "0.5s",
+      "promptTokens": 3794,
+      "completionTokens": 41,
+      "totalTokens": 3835,
+      "truncated": false
+    },
+    {
+      "callId": "call-0331",
+      "success": true,
+      "elapsed": "0.5s",
+      "promptTokens": 3943,
+      "completionTokens": 2,
+      "totalTokens": 3945,
+      "truncated": false
+    },
+    {
+      "callId": "call-0332",
+      "success": true,
+      "elapsed": "0.6s",
+      "promptTokens": 3957,
+      "completionTokens": 33,
+      "totalTokens": 3990,
+      "truncated": false
+    },
+    {
+      "callId": "call-0333",
+      "success": true,
+      "elapsed": "0.5s",
+      "promptTokens": 3986,
+      "completionTokens": 49,
+      "totalTokens": 4035,
+      "truncated": false
+    },
+    {
+      "callId": "call-0334",
+      "success": true,
+      "elapsed": "1.1s",
+      "promptTokens": 4030,
+      "completionTokens": 141,
+      "totalTokens": 4171,
+      "truncated": false
+    },
+    {
+      "callId": "call-0335",
+      "success": true,
+      "elapsed": "1.2s",
+      "promptTokens": 3438,
+      "completionTokens": 89,
+      "totalTokens": 3527,
+      "truncated": false
+    },
+    {
+      "callId": "call-0336",
+      "success": true,
+      "elapsed": "1.2s",
+      "promptTokens": 3481,
+      "completionTokens": 61,
+      "totalTokens": 3542,
+      "truncated": false
+    },
+    {
+      "callId": "call-0337",
+      "success": true,
+      "elapsed": "0.8s",
+      "promptTokens": 3485,
+      "completionTokens": 101,
+      "totalTokens": 3586,
+      "truncated": false
+    },
+    {
+      "callId": "call-0338",
+      "success": true,
+      "elapsed": "0.8s",
+      "promptTokens": 3682,
+      "completionTokens": 33,
+      "totalTokens": 3715,
+      "truncated": false
+    },
+    {
+      "callId": "call-0339",
+      "success": true,
+      "elapsed": "0.7s",
+      "promptTokens": 3280,
+      "completionTokens": 105,
+      "totalTokens": 3385,
+      "truncated": false
+    },
+    {
+      "callId": "call-0340",
+      "success": true,
+      "elapsed": "0.7s",
+      "promptTokens": 3254,
+      "completionTokens": 41,
+      "totalTokens": 3295,
+      "truncated": false
+    },
+    {
+      "callId": "call-0341",
+      "success": true,
+      "elapsed": "1.1s",
+      "promptTokens": 3532,
+      "completionTokens": 45,
+      "totalTokens": 3577,
+      "truncated": false
+    },
+    {
+      "callId": "call-0342",
+      "success": true,
+      "elapsed": "0.8s",
+      "promptTokens": 3851,
+      "completionTokens": 29,
+      "totalTokens": 3880,
+      "truncated": false
+    },
+    {
+      "callId": "call-0343",
+      "success": true,
+      "elapsed": "0.6s",
+      "promptTokens": 3654,
+      "completionTokens": 41,
+      "totalTokens": 3695,
+      "truncated": false
+    },
+    {
+      "callId": "call-0344",
+      "success": true,
+      "elapsed": "1.2s",
+      "promptTokens": 3736,
+      "completionTokens": 205,
+      "totalTokens": 3941,
+      "truncated": false
+    },
+    {
+      "callId": "call-0345",
+      "success": true,
+      "elapsed": "0.8s",
+      "promptTokens": 3675,
+      "completionTokens": 41,
+      "totalTokens": 3716,
+      "truncated": false
+    },
+    {
+      "callId": "call-0346",
+      "success": true,
+      "elapsed": "1.6s",
+      "promptTokens": 3495,
+      "completionTokens": 265,
+      "totalTokens": 3760,
+      "truncated": false
+    },
+    {
+      "callId": "call-0347",
+      "success": true,
+      "elapsed": "0.9s",
+      "promptTokens": 3860,
+      "completionTokens": 93,
+      "totalTokens": 3953,
+      "truncated": false
+    },
+    {
+      "callId": "call-0348",
+      "success": true,
+      "elapsed": "1.0s",
+      "promptTokens": 3676,
+      "completionTokens": 93,
+      "totalTokens": 3769,
+      "truncated": false
+    },
+    {
+      "callId": "call-0349",
+      "success": true,
+      "elapsed": "0.5s",
+      "promptTokens": 3662,
+      "completionTokens": 49,
+      "totalTokens": 3711,
+      "truncated": false
+    },
+    {
+      "callId": "call-0350",
+      "success": true,
+      "elapsed": "0.6s",
+      "promptTokens": 3608,
+      "completionTokens": 61,
+      "totalTokens": 3669,
+      "truncated": false
+    },
+    {
+      "callId": "call-0351",
+      "success": true,
+      "elapsed": "1.1s",
+      "promptTokens": 3414,
+      "completionTokens": 173,
+      "totalTokens": 3587,
+      "truncated": false
+    },
+    {
+      "callId": "call-0352",
+      "success": true,
+      "elapsed": "0.7s",
+      "promptTokens": 3484,
+      "completionTokens": 137,
+      "totalTokens": 3621,
+      "truncated": false
+    },
+    {
+      "callId": "call-0353",
+      "success": true,
+      "elapsed": "0.8s",
+      "promptTokens": 3271,
+      "completionTokens": 81,
+      "totalTokens": 3352,
+      "truncated": false
+    },
+    {
+      "callId": "call-0354",
+      "success": true,
+      "elapsed": "0.9s",
+      "promptTokens": 3105,
+      "completionTokens": 153,
+      "totalTokens": 3258,
+      "truncated": false
+    },
+    {
+      "callId": "call-0355",
+      "success": true,
+      "elapsed": "0.8s",
+      "promptTokens": 3164,
+      "completionTokens": 109,
+      "totalTokens": 3273,
+      "truncated": false
+    },
+    {
+      "callId": "call-0356",
+      "success": true,
+      "elapsed": "0.5s",
+      "promptTokens": 1681,
+      "completionTokens": 61,
+      "totalTokens": 1742,
+      "truncated": false
+    },
+    {
+      "callId": "call-0357",
+      "success": true,
+      "elapsed": "6.6s",
+      "promptTokens": 3493,
+      "completionTokens": 2253,
+      "totalTokens": 5746,
+      "truncated": false
+    },
+    {
+      "callId": "call-0358",
+      "success": true,
+      "elapsed": "5.7s",
+      "promptTokens": 3254,
+      "completionTokens": 1854,
+      "totalTokens": 5108,
+      "truncated": false
+    },
+    {
+      "callId": "call-0359",
+      "success": true,
+      "elapsed": "5.5s",
+      "promptTokens": 3232,
+      "completionTokens": 1861,
+      "totalTokens": 5093,
+      "truncated": false
+    },
+    {
+      "callId": "call-0360",
+      "success": true,
+      "elapsed": "4.1s",
+      "promptTokens": 2241,
+      "completionTokens": 1224,
+      "totalTokens": 3465,
+      "truncated": false
+    },
+    {
+      "callId": "call-0361",
+      "success": true,
+      "elapsed": "0.6s",
+      "promptTokens": 4162,
+      "completionTokens": 41,
+      "totalTokens": 4203,
+      "truncated": false
+    },
+    {
+      "callId": "call-0362",
+      "success": true,
+      "elapsed": "0.7s",
+      "promptTokens": 4067,
+      "completionTokens": 33,
+      "totalTokens": 4100,
+      "truncated": false
+    },
+    {
+      "callId": "call-0363",
+      "success": true,
+      "elapsed": "0.6s",
+      "promptTokens": 4061,
+      "completionTokens": 61,
+      "totalTokens": 4122,
+      "truncated": false
+    },
+    {
+      "callId": "call-0364",
+      "success": true,
+      "elapsed": "0.7s",
+      "promptTokens": 4087,
+      "completionTokens": 37,
+      "totalTokens": 4124,
+      "truncated": false
+    },
+    {
+      "callId": "call-0365",
+      "success": true,
+      "elapsed": "0.8s",
+      "promptTokens": 3861,
+      "completionTokens": 45,
+      "totalTokens": 3906,
+      "truncated": false
+    },
+    {
+      "callId": "call-0366",
+      "success": true,
+      "elapsed": "1.0s",
+      "promptTokens": 3962,
+      "completionTokens": 33,
+      "totalTokens": 3995,
+      "truncated": false
+    },
+    {
+      "callId": "call-0367",
+      "success": true,
+      "elapsed": "1.0s",
+      "promptTokens": 3794,
+      "completionTokens": 13,
+      "totalTokens": 3807,
+      "truncated": false
+    },
+    {
+      "callId": "call-0368",
+      "success": true,
+      "elapsed": "0.7s",
+      "promptTokens": 3772,
+      "completionTokens": 77,
+      "totalTokens": 3849,
+      "truncated": false
+    },
+    {
+      "callId": "call-0369",
+      "success": true,
+      "elapsed": "0.5s",
+      "promptTokens": 3788,
+      "completionTokens": 9,
+      "totalTokens": 3797,
+      "truncated": false
+    },
+    {
+      "callId": "call-0370",
+      "success": true,
+      "elapsed": "0.7s",
+      "promptTokens": 3386,
+      "completionTokens": 13,
+      "totalTokens": 3399,
+      "truncated": false
+    },
+    {
+      "callId": "call-0371",
+      "success": true,
+      "elapsed": "0.8s",
+      "promptTokens": 3621,
+      "completionTokens": 29,
+      "totalTokens": 3650,
+      "truncated": false
+    },
+    {
+      "callId": "call-0372",
+      "success": true,
+      "elapsed": "0.8s",
+      "promptTokens": 3743,
+      "completionTokens": 33,
+      "totalTokens": 3776,
+      "truncated": false
+    },
+    {
+      "callId": "call-0373",
+      "success": true,
+      "elapsed": "0.6s",
+      "promptTokens": 3737,
+      "completionTokens": 21,
+      "totalTokens": 3758,
+      "truncated": false
+    },
+    {
+      "callId": "call-0374",
+      "success": true,
+      "elapsed": "0.6s",
+      "promptTokens": 3463,
+      "completionTokens": 25,
+      "totalTokens": 3488,
+      "truncated": false
+    },
+    {
+      "callId": "call-0375",
+      "success": true,
+      "elapsed": "0.5s",
+      "promptTokens": 3352,
+      "completionTokens": 61,
+      "totalTokens": 3413,
+      "truncated": false
+    },
+    {
+      "callId": "call-0376",
+      "success": true,
+      "elapsed": "0.7s",
+      "promptTokens": 3808,
+      "completionTokens": 21,
+      "totalTokens": 3829,
+      "truncated": false
+    },
+    {
+      "callId": "call-0377",
+      "success": true,
+      "elapsed": "0.6s",
+      "promptTokens": 3801,
+      "completionTokens": 2,
+      "totalTokens": 3803,
+      "truncated": false
+    },
+    {
+      "callId": "call-0378",
+      "success": true,
+      "elapsed": "0.5s",
+      "promptTokens": 3950,
+      "completionTokens": 17,
+      "totalTokens": 3967,
+      "truncated": false
+    },
+    {
+      "callId": "call-0379",
+      "success": true,
+      "elapsed": "0.5s",
+      "promptTokens": 3964,
+      "completionTokens": 9,
+      "totalTokens": 3973,
+      "truncated": false
+    },
+    {
+      "callId": "call-0380",
+      "success": true,
+      "elapsed": "0.5s",
+      "promptTokens": 3993,
+      "completionTokens": 25,
+      "totalTokens": 4018,
+      "truncated": false
+    },
+    {
+      "callId": "call-0381",
+      "success": true,
+      "elapsed": "1.4s",
+      "promptTokens": 4037,
+      "completionTokens": 237,
+      "totalTokens": 4274,
+      "truncated": false
+    },
+    {
+      "callId": "call-0382",
+      "success": true,
+      "elapsed": "0.6s",
+      "promptTokens": 3445,
+      "completionTokens": 21,
+      "totalTokens": 3466,
+      "truncated": false
+    },
+    {
+      "callId": "call-0383",
+      "success": true,
+      "elapsed": "0.5s",
+      "promptTokens": 3488,
+      "completionTokens": 29,
+      "totalTokens": 3517,
+      "truncated": false
+    },
+    {
+      "callId": "call-0384",
+      "success": true,
+      "elapsed": "0.8s",
+      "promptTokens": 3492,
+      "completionTokens": 145,
+      "totalTokens": 3637,
+      "truncated": false
+    },
+    {
+      "callId": "call-0385",
+      "success": true,
+      "elapsed": "0.7s",
+      "promptTokens": 3689,
+      "completionTokens": 17,
+      "totalTokens": 3706,
+      "truncated": false
+    },
+    {
+      "callId": "call-0386",
+      "success": true,
+      "elapsed": "0.7s",
+      "promptTokens": 3287,
+      "completionTokens": 41,
+      "totalTokens": 3328,
+      "truncated": false
+    },
+    {
+      "callId": "call-0387",
+      "success": true,
+      "elapsed": "0.6s",
+      "promptTokens": 3261,
+      "completionTokens": 29,
+      "totalTokens": 3290,
+      "truncated": false
+    },
+    {
+      "callId": "call-0388",
+      "success": true,
+      "elapsed": "0.5s",
+      "promptTokens": 3539,
+      "completionTokens": 33,
+      "totalTokens": 3572,
+      "truncated": false
+    },
+    {
+      "callId": "call-0389",
+      "success": true,
+      "elapsed": "0.7s",
+      "promptTokens": 3858,
+      "completionTokens": 2,
+      "totalTokens": 3860,
+      "truncated": false
+    },
+    {
+      "callId": "call-0390",
+      "success": true,
+      "elapsed": "0.8s",
+      "promptTokens": 3661,
+      "completionTokens": 25,
+      "totalTokens": 3686,
+      "truncated": false
+    },
+    {
+      "callId": "call-0391",
+      "success": true,
+      "elapsed": "0.4s",
+      "promptTokens": 3743,
+      "completionTokens": 9,
+      "totalTokens": 3752,
+      "truncated": false
+    },
+    {
+      "callId": "call-0392",
+      "success": true,
+      "elapsed": "1.0s",
+      "promptTokens": 3682,
+      "completionTokens": 25,
+      "totalTokens": 3707,
+      "truncated": false
+    },
+    {
+      "callId": "call-0393",
+      "success": true,
+      "elapsed": "0.5s",
+      "promptTokens": 3502,
+      "completionTokens": 13,
+      "totalTokens": 3515,
+      "truncated": false
+    },
+    {
+      "callId": "call-0394",
+      "success": true,
+      "elapsed": "0.6s",
+      "promptTokens": 3867,
+      "completionTokens": 2,
+      "totalTokens": 3869,
+      "truncated": false
+    },
+    {
+      "callId": "call-0395",
+      "success": true,
+      "elapsed": "0.7s",
+      "promptTokens": 3683,
+      "completionTokens": 37,
+      "totalTokens": 3720,
+      "truncated": false
+    },
+    {
+      "callId": "call-0396",
+      "success": true,
+      "elapsed": "0.5s",
+      "promptTokens": 3669,
+      "completionTokens": 2,
+      "totalTokens": 3671,
+      "truncated": false
+    },
+    {
+      "callId": "call-0397",
+      "success": true,
+      "elapsed": "0.7s",
+      "promptTokens": 3615,
+      "completionTokens": 2,
+      "totalTokens": 3617,
+      "truncated": false
+    },
+    {
+      "callId": "call-0398",
+      "success": true,
+      "elapsed": "0.6s",
+      "promptTokens": 3421,
+      "completionTokens": 25,
+      "totalTokens": 3446,
+      "truncated": false
+    },
+    {
+      "callId": "call-0399",
+      "success": true,
+      "elapsed": "3.4s",
+      "promptTokens": 3491,
+      "completionTokens": 1233,
+      "totalTokens": 4724,
+      "truncated": false
+    },
+    {
+      "callId": "call-0400",
+      "success": true,
+      "elapsed": "0.9s",
+      "promptTokens": 3278,
+      "completionTokens": 25,
+      "totalTokens": 3303,
+      "truncated": false
+    },
+    {
+      "callId": "call-0401",
+      "success": true,
+      "elapsed": "1.0s",
+      "promptTokens": 3112,
+      "completionTokens": 81,
+      "totalTokens": 3193,
+      "truncated": false
+    },
+    {
+      "callId": "call-0402",
+      "success": true,
+      "elapsed": "0.8s",
+      "promptTokens": 3171,
+      "completionTokens": 29,
+      "totalTokens": 3200,
+      "truncated": false
+    },
+    {
+      "callId": "call-0403",
+      "success": true,
+      "elapsed": "0.5s",
+      "promptTokens": 1688,
+      "completionTokens": 7,
+      "totalTokens": 1695,
+      "truncated": false
+    },
+    {
+      "callId": "call-0404",
+      "success": true,
+      "elapsed": "8.1s",
+      "promptTokens": 3672,
+      "completionTokens": 2372,
+      "totalTokens": 6044,
+      "truncated": false
+    },
+    {
+      "callId": "call-0405",
+      "success": true,
+      "elapsed": "7.7s",
+      "promptTokens": 3559,
+      "completionTokens": 2267,
+      "totalTokens": 5826,
+      "truncated": false
+    },
+    {
+      "callId": "call-0406",
+      "success": true,
+      "elapsed": "0.7s",
+      "promptTokens": 4154,
+      "completionTokens": 73,
+      "totalTokens": 4227,
+      "truncated": false
+    },
+    {
+      "callId": "call-0407",
+      "success": true,
+      "elapsed": "0.7s",
+      "promptTokens": 4059,
+      "completionTokens": 101,
+      "totalTokens": 4160,
+      "truncated": false
+    },
+    {
+      "callId": "call-0408",
+      "success": true,
+      "elapsed": "0.7s",
+      "promptTokens": 4053,
+      "completionTokens": 33,
+      "totalTokens": 4086,
+      "truncated": false
+    },
+    {
+      "callId": "call-0409",
+      "success": true,
+      "elapsed": "0.9s",
+      "promptTokens": 4079,
+      "completionTokens": 65,
+      "totalTokens": 4144,
+      "truncated": false
+    },
+    {
+      "callId": "call-0410",
+      "success": true,
+      "elapsed": "1.1s",
+      "promptTokens": 3853,
+      "completionTokens": 105,
+      "totalTokens": 3958,
+      "truncated": false
+    },
+    {
+      "callId": "call-0411",
+      "success": true,
+      "elapsed": "0.8s",
+      "promptTokens": 3954,
+      "completionTokens": 65,
+      "totalTokens": 4019,
+      "truncated": false
+    },
+    {
+      "callId": "call-0412",
+      "success": true,
+      "elapsed": "0.9s",
+      "promptTokens": 3786,
+      "completionTokens": 37,
+      "totalTokens": 3823,
+      "truncated": false
+    },
+    {
+      "callId": "call-0413",
+      "success": true,
+      "elapsed": "1.0s",
+      "promptTokens": 3764,
+      "completionTokens": 61,
+      "totalTokens": 3825,
+      "truncated": false
+    },
+    {
+      "callId": "call-0414",
+      "success": true,
+      "elapsed": "0.6s",
+      "promptTokens": 3780,
+      "completionTokens": 2,
+      "totalTokens": 3782,
+      "truncated": false
+    },
+    {
+      "callId": "call-0415",
+      "success": true,
+      "elapsed": "0.5s",
+      "promptTokens": 3378,
+      "completionTokens": 33,
+      "totalTokens": 3411,
+      "truncated": false
+    },
+    {
+      "callId": "call-0416",
+      "success": true,
+      "elapsed": "0.5s",
+      "promptTokens": 3613,
+      "completionTokens": 21,
+      "totalTokens": 3634,
+      "truncated": false
+    },
+    {
+      "callId": "call-0417",
+      "success": true,
+      "elapsed": "0.5s",
+      "promptTokens": 3735,
+      "completionTokens": 2,
+      "totalTokens": 3737,
+      "truncated": false
+    },
+    {
+      "callId": "call-0418",
+      "success": true,
+      "elapsed": "0.6s",
+      "promptTokens": 3729,
+      "completionTokens": 45,
+      "totalTokens": 3774,
+      "truncated": false
+    },
+    {
+      "callId": "call-0419",
+      "success": true,
+      "elapsed": "0.9s",
+      "promptTokens": 3455,
+      "completionTokens": 25,
+      "totalTokens": 3480,
+      "truncated": false
+    },
+    {
+      "callId": "call-0420",
+      "success": true,
+      "elapsed": "0.7s",
+      "promptTokens": 3344,
+      "completionTokens": 89,
+      "totalTokens": 3433,
+      "truncated": false
+    },
+    {
+      "callId": "call-0421",
+      "success": true,
+      "elapsed": "0.9s",
+      "promptTokens": 3800,
+      "completionTokens": 61,
+      "totalTokens": 3861,
+      "truncated": false
+    },
+    {
+      "callId": "call-0422",
+      "success": true,
+      "elapsed": "0.4s",
+      "promptTokens": 3793,
+      "completionTokens": 2,
+      "totalTokens": 3795,
+      "truncated": false
+    },
+    {
+      "callId": "call-0423",
+      "success": true,
+      "elapsed": "0.5s",
+      "promptTokens": 3942,
+      "completionTokens": 2,
+      "totalTokens": 3944,
+      "truncated": false
+    },
+    {
+      "callId": "call-0424",
+      "success": true,
+      "elapsed": "0.6s",
+      "promptTokens": 3956,
+      "completionTokens": 2,
+      "totalTokens": 3958,
+      "truncated": false
+    },
+    {
+      "callId": "call-0425",
+      "success": true,
+      "elapsed": "0.7s",
+      "promptTokens": 3985,
+      "completionTokens": 41,
+      "totalTokens": 4026,
+      "truncated": false
+    },
+    {
+      "callId": "call-0426",
+      "success": true,
+      "elapsed": "1.1s",
+      "promptTokens": 4029,
+      "completionTokens": 81,
+      "totalTokens": 4110,
+      "truncated": false
+    },
+    {
+      "callId": "call-0427",
+      "success": true,
+      "elapsed": "0.7s",
+      "promptTokens": 3437,
+      "completionTokens": 45,
+      "totalTokens": 3482,
+      "truncated": false
+    },
+    {
+      "callId": "call-0428",
+      "success": true,
+      "elapsed": "0.9s",
+      "promptTokens": 3480,
+      "completionTokens": 85,
+      "totalTokens": 3565,
+      "truncated": false
+    },
+    {
+      "callId": "call-0429",
+      "success": true,
+      "elapsed": "1.0s",
+      "promptTokens": 3484,
+      "completionTokens": 93,
+      "totalTokens": 3577,
+      "truncated": false
+    },
+    {
+      "callId": "call-0430",
+      "success": true,
+      "elapsed": "1.0s",
+      "promptTokens": 3681,
+      "completionTokens": 37,
+      "totalTokens": 3718,
+      "truncated": false
+    },
+    {
+      "callId": "call-0431",
+      "success": true,
+      "elapsed": "0.7s",
+      "promptTokens": 3279,
+      "completionTokens": 21,
+      "totalTokens": 3300,
+      "truncated": false
+    },
+    {
+      "callId": "call-0432",
+      "success": true,
+      "elapsed": "0.8s",
+      "promptTokens": 3253,
+      "completionTokens": 21,
+      "totalTokens": 3274,
+      "truncated": false
+    },
+    {
+      "callId": "call-0433",
+      "success": true,
+      "elapsed": "0.6s",
+      "promptTokens": 3531,
+      "completionTokens": 37,
+      "totalTokens": 3568,
+      "truncated": false
+    },
+    {
+      "callId": "call-0434",
+      "success": true,
+      "elapsed": "0.8s",
+      "promptTokens": 3850,
+      "completionTokens": 29,
+      "totalTokens": 3879,
+      "truncated": false
+    },
+    {
+      "callId": "call-0435",
+      "success": true,
+      "elapsed": "0.8s",
+      "promptTokens": 3653,
+      "completionTokens": 45,
+      "totalTokens": 3698,
+      "truncated": false
+    },
+    {
+      "callId": "call-0436",
+      "success": true,
+      "elapsed": "0.6s",
+      "promptTokens": 3735,
+      "completionTokens": 33,
+      "totalTokens": 3768,
+      "truncated": false
+    },
+    {
+      "callId": "call-0437",
+      "success": true,
+      "elapsed": "0.6s",
+      "promptTokens": 3674,
+      "completionTokens": 17,
+      "totalTokens": 3691,
+      "truncated": false
+    },
+    {
+      "callId": "call-0438",
+      "success": true,
+      "elapsed": "0.5s",
+      "promptTokens": 3494,
+      "completionTokens": 9,
+      "totalTokens": 3503,
+      "truncated": false
+    },
+    {
+      "callId": "call-0439",
+      "success": true,
+      "elapsed": "0.4s",
+      "promptTokens": 3859,
+      "completionTokens": 2,
+      "totalTokens": 3861,
+      "truncated": false
+    },
+    {
+      "callId": "call-0440",
+      "success": true,
+      "elapsed": "1.1s",
+      "promptTokens": 3675,
+      "completionTokens": 37,
+      "totalTokens": 3712,
+      "truncated": false
+    },
+    {
+      "callId": "call-0441",
+      "success": true,
+      "elapsed": "0.5s",
+      "promptTokens": 3661,
+      "completionTokens": 41,
+      "totalTokens": 3702,
+      "truncated": false
+    },
+    {
+      "callId": "call-0442",
+      "success": true,
+      "elapsed": "0.9s",
+      "promptTokens": 3607,
+      "completionTokens": 49,
+      "totalTokens": 3656,
+      "truncated": false
+    },
+    {
+      "callId": "call-0443",
+      "success": true,
+      "elapsed": "1.0s",
+      "promptTokens": 3413,
+      "completionTokens": 141,
+      "totalTokens": 3554,
+      "truncated": false
+    },
+    {
+      "callId": "call-0444",
+      "success": true,
+      "elapsed": "0.7s",
+      "promptTokens": 3483,
+      "completionTokens": 45,
+      "totalTokens": 3528,
+      "truncated": false
+    },
+    {
+      "callId": "call-0445",
+      "success": true,
+      "elapsed": "0.7s",
+      "promptTokens": 3270,
+      "completionTokens": 33,
+      "totalTokens": 3303,
+      "truncated": false
+    },
+    {
+      "callId": "call-0446",
+      "success": true,
+      "elapsed": "0.6s",
+      "promptTokens": 3104,
+      "completionTokens": 97,
+      "totalTokens": 3201,
+      "truncated": false
+    },
+    {
+      "callId": "call-0447",
+      "success": true,
+      "elapsed": "0.7s",
+      "promptTokens": 3163,
+      "completionTokens": 17,
+      "totalTokens": 3180,
+      "truncated": false
+    },
+    {
+      "callId": "call-0448",
+      "success": true,
+      "elapsed": "1.0s",
+      "promptTokens": 1680,
+      "completionTokens": 41,
+      "totalTokens": 1721,
+      "truncated": false
+    },
+    {
+      "callId": "call-0449",
+      "success": true,
+      "elapsed": "7.5s",
+      "promptTokens": 3746,
+      "completionTokens": 2505,
+      "totalTokens": 6251,
+      "truncated": false
+    },
+    {
+      "callId": "call-0450",
+      "success": true,
+      "elapsed": "2.9s",
+      "promptTokens": 1423,
+      "completionTokens": 832,
+      "totalTokens": 2255,
+      "truncated": false
+    },
+    {
+      "callId": "call-0451",
+      "success": true,
+      "elapsed": "1.0s",
+      "promptTokens": 4154,
+      "completionTokens": 125,
+      "totalTokens": 4279,
+      "truncated": false
+    },
+    {
+      "callId": "call-0452",
+      "success": true,
+      "elapsed": "0.9s",
+      "promptTokens": 4059,
+      "completionTokens": 53,
+      "totalTokens": 4112,
+      "truncated": false
+    },
+    {
+      "callId": "call-0453",
+      "success": true,
+      "elapsed": "0.8s",
+      "promptTokens": 4053,
+      "completionTokens": 45,
+      "totalTokens": 4098,
+      "truncated": false
+    },
+    {
+      "callId": "call-0454",
+      "success": true,
+      "elapsed": "0.7s",
+      "promptTokens": 4079,
+      "completionTokens": 41,
+      "totalTokens": 4120,
+      "truncated": false
+    },
+    {
+      "callId": "call-0455",
+      "success": true,
+      "elapsed": "0.7s",
+      "promptTokens": 3853,
+      "completionTokens": 45,
+      "totalTokens": 3898,
+      "truncated": false
+    },
+    {
+      "callId": "call-0456",
+      "success": true,
+      "elapsed": "0.7s",
+      "promptTokens": 3954,
+      "completionTokens": 21,
+      "totalTokens": 3975,
+      "truncated": false
+    },
+    {
+      "callId": "call-0457",
+      "success": true,
+      "elapsed": "1.0s",
+      "promptTokens": 3786,
+      "completionTokens": 25,
+      "totalTokens": 3811,
+      "truncated": false
+    },
+    {
+      "callId": "call-0458",
+      "success": true,
+      "elapsed": "0.8s",
+      "promptTokens": 3764,
+      "completionTokens": 13,
+      "totalTokens": 3777,
+      "truncated": false
+    },
+    {
+      "callId": "call-0459",
+      "success": true,
+      "elapsed": "0.6s",
+      "promptTokens": 3780,
+      "completionTokens": 17,
+      "totalTokens": 3797,
+      "truncated": false
+    },
+    {
+      "callId": "call-0460",
+      "success": true,
+      "elapsed": "0.4s",
+      "promptTokens": 3378,
+      "completionTokens": 2,
+      "totalTokens": 3380,
+      "truncated": false
+    },
+    {
+      "callId": "call-0461",
+      "success": true,
+      "elapsed": "0.6s",
+      "promptTokens": 3613,
+      "completionTokens": 45,
+      "totalTokens": 3658,
+      "truncated": false
+    },
+    {
+      "callId": "call-0462",
+      "success": true,
+      "elapsed": "0.3s",
+      "promptTokens": 3735,
+      "completionTokens": 2,
+      "totalTokens": 3737,
+      "truncated": false
+    },
+    {
+      "callId": "call-0463",
+      "success": true,
+      "elapsed": "0.9s",
+      "promptTokens": 3729,
+      "completionTokens": 33,
+      "totalTokens": 3762,
+      "truncated": false
+    },
+    {
+      "callId": "call-0464",
+      "success": true,
+      "elapsed": "0.8s",
+      "promptTokens": 3455,
+      "completionTokens": 41,
+      "totalTokens": 3496,
+      "truncated": false
+    },
+    {
+      "callId": "call-0465",
+      "success": true,
+      "elapsed": "0.5s",
+      "promptTokens": 3344,
+      "completionTokens": 25,
+      "totalTokens": 3369,
+      "truncated": false
+    },
+    {
+      "callId": "call-0466",
+      "success": true,
+      "elapsed": "0.6s",
+      "promptTokens": 3800,
+      "completionTokens": 21,
+      "totalTokens": 3821,
+      "truncated": false
+    },
+    {
+      "callId": "call-0467",
+      "success": true,
+      "elapsed": "0.9s",
+      "promptTokens": 3793,
+      "completionTokens": 2,
+      "totalTokens": 3795,
+      "truncated": false
+    },
+    {
+      "callId": "call-0468",
+      "success": true,
+      "elapsed": "1.2s",
+      "promptTokens": 3942,
+      "completionTokens": 2,
+      "totalTokens": 3944,
+      "truncated": false
+    },
+    {
+      "callId": "call-0469",
+      "success": true,
+      "elapsed": "1.1s",
+      "promptTokens": 3956,
+      "completionTokens": 2,
+      "totalTokens": 3958,
+      "truncated": false
+    },
+    {
+      "callId": "call-0470",
+      "success": true,
+      "elapsed": "1.7s",
+      "promptTokens": 3985,
+      "completionTokens": 21,
+      "totalTokens": 4006,
+      "truncated": false
+    },
+    {
+      "callId": "call-0471",
+      "success": true,
+      "elapsed": "0.6s",
+      "promptTokens": 4029,
+      "completionTokens": 29,
+      "totalTokens": 4058,
+      "truncated": false
+    },
+    {
+      "callId": "call-0472",
+      "success": true,
+      "elapsed": "0.8s",
+      "promptTokens": 3437,
+      "completionTokens": 69,
+      "totalTokens": 3506,
+      "truncated": false
+    },
+    {
+      "callId": "call-0473",
+      "success": true,
+      "elapsed": "0.8s",
+      "promptTokens": 3480,
+      "completionTokens": 21,
+      "totalTokens": 3501,
+      "truncated": false
+    },
+    {
+      "callId": "call-0474",
+      "success": true,
+      "elapsed": "0.8s",
+      "promptTokens": 3484,
+      "completionTokens": 17,
+      "totalTokens": 3501,
+      "truncated": false
+    },
+    {
+      "callId": "call-0475",
+      "success": true,
+      "elapsed": "0.5s",
+      "promptTokens": 3681,
+      "completionTokens": 25,
+      "totalTokens": 3706,
+      "truncated": false
+    },
+    {
+      "callId": "call-0476",
+      "success": true,
+      "elapsed": "0.8s",
+      "promptTokens": 3279,
+      "completionTokens": 33,
+      "totalTokens": 3312,
+      "truncated": false
+    },
+    {
+      "callId": "call-0477",
+      "success": true,
+      "elapsed": "0.8s",
+      "promptTokens": 3253,
+      "completionTokens": 5,
+      "totalTokens": 3258,
+      "truncated": false
+    },
+    {
+      "callId": "call-0478",
+      "success": true,
+      "elapsed": "0.7s",
+      "promptTokens": 3531,
+      "completionTokens": 41,
+      "totalTokens": 3572,
+      "truncated": false
+    },
+    {
+      "callId": "call-0479",
+      "success": true,
+      "elapsed": "0.3s",
+      "promptTokens": 3850,
+      "completionTokens": 2,
+      "totalTokens": 3852,
+      "truncated": false
+    },
+    {
+      "callId": "call-0480",
+      "success": true,
+      "elapsed": "0.8s",
+      "promptTokens": 3653,
+      "completionTokens": 13,
+      "totalTokens": 3666,
+      "truncated": false
+    },
+    {
+      "callId": "call-0481",
+      "success": true,
+      "elapsed": "0.7s",
+      "promptTokens": 3735,
+      "completionTokens": 13,
+      "totalTokens": 3748,
+      "truncated": false
+    },
+    {
+      "callId": "call-0482",
+      "success": true,
+      "elapsed": "0.5s",
+      "promptTokens": 3674,
+      "completionTokens": 2,
+      "totalTokens": 3676,
+      "truncated": false
+    },
+    {
+      "callId": "call-0483",
+      "success": true,
+      "elapsed": "0.8s",
+      "promptTokens": 3494,
+      "completionTokens": 13,
+      "totalTokens": 3507,
+      "truncated": false
+    },
+    {
+      "callId": "call-0484",
+      "success": true,
+      "elapsed": "0.7s",
+      "promptTokens": 3859,
+      "completionTokens": 2,
+      "totalTokens": 3861,
+      "truncated": false
+    },
+    {
+      "callId": "call-0485",
+      "success": true,
+      "elapsed": "0.8s",
+      "promptTokens": 3675,
+      "completionTokens": 25,
+      "totalTokens": 3700,
+      "truncated": false
+    },
+    {
+      "callId": "call-0486",
+      "success": true,
+      "elapsed": "0.7s",
+      "promptTokens": 3661,
+      "completionTokens": 13,
+      "totalTokens": 3674,
+      "truncated": false
+    },
+    {
+      "callId": "call-0487",
+      "success": true,
+      "elapsed": "0.5s",
+      "promptTokens": 3607,
+      "completionTokens": 13,
+      "totalTokens": 3620,
+      "truncated": false
+    },
+    {
+      "callId": "call-0488",
+      "success": true,
+      "elapsed": "0.4s",
+      "promptTokens": 3413,
+      "completionTokens": 9,
+      "totalTokens": 3422,
+      "truncated": false
+    },
+    {
+      "callId": "call-0489",
+      "success": true,
+      "elapsed": "0.6s",
+      "promptTokens": 3483,
+      "completionTokens": 25,
+      "totalTokens": 3508,
+      "truncated": false
+    },
+    {
+      "callId": "call-0490",
+      "success": true,
+      "elapsed": "0.8s",
+      "promptTokens": 3270,
+      "completionTokens": 37,
+      "totalTokens": 3307,
+      "truncated": false
+    },
+    {
+      "callId": "call-0491",
+      "success": true,
+      "elapsed": "0.9s",
+      "promptTokens": 3104,
+      "completionTokens": 57,
+      "totalTokens": 3161,
+      "truncated": false
+    },
+    {
+      "callId": "call-0492",
+      "success": true,
+      "elapsed": "0.5s",
+      "promptTokens": 3163,
+      "completionTokens": 5,
+      "totalTokens": 3168,
+      "truncated": false
+    },
+    {
+      "callId": "call-0493",
+      "success": true,
+      "elapsed": "0.4s",
+      "promptTokens": 1680,
+      "completionTokens": 2,
+      "totalTokens": 1682,
+      "truncated": false
+    },
+    {
+      "callId": "call-0494",
+      "success": true,
+      "elapsed": "5.6s",
+      "promptTokens": 2528,
+      "completionTokens": 1735,
+      "totalTokens": 4263,
+      "truncated": false
+    },
+    {
+      "callId": "call-0495",
+      "success": true,
+      "elapsed": "0.7s",
+      "promptTokens": 4152,
+      "completionTokens": 49,
+      "totalTokens": 4201,
+      "truncated": false
+    },
+    {
+      "callId": "call-0496",
+      "success": true,
+      "elapsed": "2.0s",
+      "promptTokens": 4057,
+      "completionTokens": 501,
+      "totalTokens": 4558,
+      "truncated": false
+    },
+    {
+      "callId": "call-0497",
+      "success": true,
+      "elapsed": "0.6s",
+      "promptTokens": 4051,
+      "completionTokens": 73,
+      "totalTokens": 4124,
+      "truncated": false
+    },
+    {
+      "callId": "call-0498",
+      "success": true,
+      "elapsed": "0.9s",
+      "promptTokens": 4077,
+      "completionTokens": 21,
+      "totalTokens": 4098,
+      "truncated": false
+    },
+    {
+      "callId": "call-0499",
+      "success": true,
+      "elapsed": "16.4s",
+      "promptTokens": 3851,
+      "completionTokens": 1145,
+      "totalTokens": 4996,
+      "truncated": false
+    },
+    {
+      "callId": "call-0500",
+      "success": true,
+      "elapsed": "0.7s",
+      "promptTokens": 3952,
+      "completionTokens": 21,
+      "totalTokens": 3973,
+      "truncated": false
+    },
+    {
+      "callId": "call-0501",
+      "success": true,
+      "elapsed": "0.6s",
+      "promptTokens": 3784,
+      "completionTokens": 25,
+      "totalTokens": 3809,
+      "truncated": false
+    },
+    {
+      "callId": "call-0502",
+      "success": true,
+      "elapsed": "0.6s",
+      "promptTokens": 3762,
+      "completionTokens": 25,
+      "totalTokens": 3787,
+      "truncated": false
+    },
+    {
+      "callId": "call-0503",
+      "success": true,
+      "elapsed": "0.8s",
+      "promptTokens": 3778,
+      "completionTokens": 17,
+      "totalTokens": 3795,
+      "truncated": false
+    },
+    {
+      "callId": "call-0504",
+      "success": true,
+      "elapsed": "0.6s",
+      "promptTokens": 3376,
+      "completionTokens": 21,
+      "totalTokens": 3397,
+      "truncated": false
+    },
+    {
+      "callId": "call-0505",
+      "success": true,
+      "elapsed": "1.0s",
+      "promptTokens": 3611,
+      "completionTokens": 5,
+      "totalTokens": 3616,
+      "truncated": false
+    },
+    {
+      "callId": "call-0506",
+      "success": true,
+      "elapsed": "0.6s",
+      "promptTokens": 3733,
+      "completionTokens": 9,
+      "totalTokens": 3742,
+      "truncated": false
+    },
+    {
+      "callId": "call-0507",
+      "success": true,
+      "elapsed": "0.6s",
+      "promptTokens": 3727,
+      "completionTokens": 21,
+      "totalTokens": 3748,
+      "truncated": false
+    },
+    {
+      "callId": "call-0508",
+      "success": true,
+      "elapsed": "0.8s",
+      "promptTokens": 3453,
+      "completionTokens": 25,
+      "totalTokens": 3478,
+      "truncated": false
+    },
+    {
+      "callId": "call-0509",
+      "success": true,
+      "elapsed": "0.6s",
+      "promptTokens": 3342,
+      "completionTokens": 45,
+      "totalTokens": 3387,
+      "truncated": false
+    },
+    {
+      "callId": "call-0510",
+      "success": true,
+      "elapsed": "0.8s",
+      "promptTokens": 3798,
+      "completionTokens": 45,
+      "totalTokens": 3843,
+      "truncated": false
+    },
+    {
+      "callId": "call-0511",
+      "success": true,
+      "elapsed": "0.6s",
+      "promptTokens": 3791,
+      "completionTokens": 13,
+      "totalTokens": 3804,
+      "truncated": false
+    },
+    {
+      "callId": "call-0512",
+      "success": true,
+      "elapsed": "0.6s",
+      "promptTokens": 3940,
+      "completionTokens": 21,
+      "totalTokens": 3961,
+      "truncated": false
+    },
+    {
+      "callId": "call-0513",
+      "success": true,
+      "elapsed": "0.4s",
+      "promptTokens": 3954,
+      "completionTokens": 17,
+      "totalTokens": 3971,
+      "truncated": false
+    },
+    {
+      "callId": "call-0514",
+      "success": true,
+      "elapsed": "0.8s",
+      "promptTokens": 3983,
+      "completionTokens": 89,
+      "totalTokens": 4072,
+      "truncated": false
+    },
+    {
+      "callId": "call-0515",
+      "success": true,
+      "elapsed": "0.3s",
+      "promptTokens": 4027,
+      "completionTokens": 2,
+      "totalTokens": 4029,
+      "truncated": false
+    },
+    {
+      "callId": "call-0516",
+      "success": true,
+      "elapsed": "0.5s",
+      "promptTokens": 3435,
+      "completionTokens": 13,
+      "totalTokens": 3448,
+      "truncated": false
+    },
+    {
+      "callId": "call-0517",
+      "success": true,
+      "elapsed": "0.7s",
+      "promptTokens": 3478,
+      "completionTokens": 37,
+      "totalTokens": 3515,
+      "truncated": false
+    },
+    {
+      "callId": "call-0518",
+      "success": true,
+      "elapsed": "0.6s",
+      "promptTokens": 3482,
+      "completionTokens": 25,
+      "totalTokens": 3507,
+      "truncated": false
+    },
+    {
+      "callId": "call-0519",
+      "success": true,
+      "elapsed": "0.7s",
+      "promptTokens": 3679,
+      "completionTokens": 57,
+      "totalTokens": 3736,
+      "truncated": false
+    },
+    {
+      "callId": "call-0520",
+      "success": true,
+      "elapsed": "0.7s",
+      "promptTokens": 3277,
+      "completionTokens": 25,
+      "totalTokens": 3302,
+      "truncated": false
+    },
+    {
+      "callId": "call-0521",
+      "success": true,
+      "elapsed": "0.9s",
+      "promptTokens": 3251,
+      "completionTokens": 33,
+      "totalTokens": 3284,
+      "truncated": false
+    },
+    {
+      "callId": "call-0522",
+      "success": true,
+      "elapsed": "0.7s",
+      "promptTokens": 3529,
+      "completionTokens": 61,
+      "totalTokens": 3590,
+      "truncated": false
+    },
+    {
+      "callId": "call-0523",
+      "success": true,
+      "elapsed": "0.9s",
+      "promptTokens": 3848,
+      "completionTokens": 77,
+      "totalTokens": 3925,
+      "truncated": false
+    },
+    {
+      "callId": "call-0524",
+      "success": true,
+      "elapsed": "0.9s",
+      "promptTokens": 3651,
+      "completionTokens": 17,
+      "totalTokens": 3668,
+      "truncated": false
+    },
+    {
+      "callId": "call-0525",
+      "success": true,
+      "elapsed": "0.4s",
+      "promptTokens": 3733,
+      "completionTokens": 33,
+      "totalTokens": 3766,
+      "truncated": false
+    },
+    {
+      "callId": "call-0526",
+      "success": true,
+      "elapsed": "0.7s",
+      "promptTokens": 3672,
+      "completionTokens": 29,
+      "totalTokens": 3701,
+      "truncated": false
+    },
+    {
+      "callId": "call-0527",
+      "success": true,
+      "elapsed": "0.4s",
+      "promptTokens": 3492,
+      "completionTokens": 25,
+      "totalTokens": 3517,
+      "truncated": false
+    },
+    {
+      "callId": "call-0528",
+      "success": true,
+      "elapsed": "0.7s",
+      "promptTokens": 3857,
+      "completionTokens": 13,
+      "totalTokens": 3870,
+      "truncated": false
+    },
+    {
+      "callId": "call-0529",
+      "success": true,
+      "elapsed": "0.8s",
+      "promptTokens": 3673,
+      "completionTokens": 25,
+      "totalTokens": 3698,
+      "truncated": false
+    },
+    {
+      "callId": "call-0530",
+      "success": true,
+      "elapsed": "0.7s",
+      "promptTokens": 3659,
+      "completionTokens": 17,
+      "totalTokens": 3676,
+      "truncated": false
+    },
+    {
+      "callId": "call-0531",
+      "success": true,
+      "elapsed": "0.7s",
+      "promptTokens": 3605,
+      "completionTokens": 9,
+      "totalTokens": 3614,
+      "truncated": false
+    },
+    {
+      "callId": "call-0532",
+      "success": true,
+      "elapsed": "0.8s",
+      "promptTokens": 3411,
+      "completionTokens": 37,
+      "totalTokens": 3448,
+      "truncated": false
+    },
+    {
+      "callId": "call-0533",
+      "success": true,
+      "elapsed": "0.7s",
+      "promptTokens": 3481,
+      "completionTokens": 33,
+      "totalTokens": 3514,
+      "truncated": false
+    },
+    {
+      "callId": "call-0534",
+      "success": true,
+      "elapsed": "0.6s",
+      "promptTokens": 3268,
+      "completionTokens": 9,
+      "totalTokens": 3277,
+      "truncated": false
+    },
+    {
+      "callId": "call-0535",
+      "success": true,
+      "elapsed": "0.8s",
+      "promptTokens": 3102,
+      "completionTokens": 13,
+      "totalTokens": 3115,
+      "truncated": false
+    },
+    {
+      "callId": "call-0536",
+      "success": true,
+      "elapsed": "0.3s",
+      "promptTokens": 3161,
+      "completionTokens": 5,
+      "totalTokens": 3166,
+      "truncated": false
+    },
+    {
+      "callId": "call-0537",
+      "success": true,
+      "elapsed": "0.7s",
+      "promptTokens": 1678,
+      "completionTokens": 5,
+      "totalTokens": 1683,
+      "truncated": false
+    },
+    {
+      "callId": "call-0538",
+      "success": true,
+      "elapsed": "7.0s",
+      "promptTokens": 3569,
+      "completionTokens": 2281,
+      "totalTokens": 5850,
+      "truncated": false
+    },
+    {
+      "callId": "call-0539",
+      "success": true,
+      "elapsed": "7.1s",
+      "promptTokens": 3711,
+      "completionTokens": 2456,
+      "totalTokens": 6167,
+      "truncated": false
+    },
+    {
+      "callId": "call-0540",
+      "success": true,
+      "elapsed": "0.6s",
+      "promptTokens": 246,
+      "completionTokens": 55,
+      "totalTokens": 301,
+      "truncated": false
+    },
+    {
+      "callId": "call-0541",
+      "success": true,
+      "elapsed": "0.7s",
+      "promptTokens": 4157,
+      "completionTokens": 121,
+      "totalTokens": 4278,
+      "truncated": false
+    },
+    {
+      "callId": "call-0542",
+      "success": true,
+      "elapsed": "0.9s",
+      "promptTokens": 4062,
+      "completionTokens": 97,
+      "totalTokens": 4159,
+      "truncated": false
+    },
+    {
+      "callId": "call-0543",
+      "success": true,
+      "elapsed": "0.9s",
+      "promptTokens": 4056,
+      "completionTokens": 109,
+      "totalTokens": 4165,
+      "truncated": false
+    },
+    {
+      "callId": "call-0544",
+      "success": true,
+      "elapsed": "1.1s",
+      "promptTokens": 4082,
+      "completionTokens": 101,
+      "totalTokens": 4183,
+      "truncated": false
+    },
+    {
+      "callId": "call-0545",
+      "success": true,
+      "elapsed": "0.6s",
+      "promptTokens": 3856,
+      "completionTokens": 45,
+      "totalTokens": 3901,
+      "truncated": false
+    },
+    {
+      "callId": "call-0546",
+      "success": true,
+      "elapsed": "1.3s",
+      "promptTokens": 3957,
+      "completionTokens": 205,
+      "totalTokens": 4162,
+      "truncated": false
+    },
+    {
+      "callId": "call-0547",
+      "success": true,
+      "elapsed": "0.8s",
+      "promptTokens": 3789,
+      "completionTokens": 41,
+      "totalTokens": 3830,
+      "truncated": false
+    },
+    {
+      "callId": "call-0548",
+      "success": true,
+      "elapsed": "0.7s",
+      "promptTokens": 3767,
+      "completionTokens": 33,
+      "totalTokens": 3800,
+      "truncated": false
+    },
+    {
+      "callId": "call-0549",
+      "success": true,
+      "elapsed": "0.8s",
+      "promptTokens": 3783,
+      "completionTokens": 21,
+      "totalTokens": 3804,
+      "truncated": false
+    },
+    {
+      "callId": "call-0550",
+      "success": true,
+      "elapsed": "0.9s",
+      "promptTokens": 3381,
+      "completionTokens": 65,
+      "totalTokens": 3446,
+      "truncated": false
+    },
+    {
+      "callId": "call-0551",
+      "success": true,
+      "elapsed": "1.0s",
+      "promptTokens": 3616,
+      "completionTokens": 41,
+      "totalTokens": 3657,
+      "truncated": false
+    },
+    {
+      "callId": "call-0552",
+      "success": true,
+      "elapsed": "0.7s",
+      "promptTokens": 3738,
+      "completionTokens": 2,
+      "totalTokens": 3740,
+      "truncated": false
+    },
+    {
+      "callId": "call-0553",
+      "success": true,
+      "elapsed": "0.7s",
+      "promptTokens": 3732,
+      "completionTokens": 77,
+      "totalTokens": 3809,
+      "truncated": false
+    },
+    {
+      "callId": "call-0554",
+      "success": true,
+      "elapsed": "0.7s",
+      "promptTokens": 3458,
+      "completionTokens": 33,
+      "totalTokens": 3491,
+      "truncated": false
+    },
+    {
+      "callId": "call-0555",
+      "success": true,
+      "elapsed": "0.8s",
+      "promptTokens": 3347,
+      "completionTokens": 45,
+      "totalTokens": 3392,
+      "truncated": false
+    },
+    {
+      "callId": "call-0556",
+      "success": true,
+      "elapsed": "0.7s",
+      "promptTokens": 3803,
+      "completionTokens": 41,
+      "totalTokens": 3844,
+      "truncated": false
+    },
+    {
+      "callId": "call-0557",
+      "success": true,
+      "elapsed": "0.8s",
+      "promptTokens": 3796,
+      "completionTokens": 93,
+      "totalTokens": 3889,
+      "truncated": false
+    },
+    {
+      "callId": "call-0558",
+      "success": true,
+      "elapsed": "0.6s",
+      "promptTokens": 3945,
+      "completionTokens": 21,
+      "totalTokens": 3966,
+      "truncated": false
+    },
+    {
+      "callId": "call-0559",
+      "success": true,
+      "elapsed": "0.8s",
+      "promptTokens": 3959,
+      "completionTokens": 21,
+      "totalTokens": 3980,
+      "truncated": false
+    },
+    {
+      "callId": "call-0560",
+      "success": true,
+      "elapsed": "0.7s",
+      "promptTokens": 3988,
+      "completionTokens": 25,
+      "totalTokens": 4013,
+      "truncated": false
+    },
+    {
+      "callId": "call-0561",
+      "success": true,
+      "elapsed": "0.8s",
+      "promptTokens": 4032,
+      "completionTokens": 21,
+      "totalTokens": 4053,
+      "truncated": false
+    },
+    {
+      "callId": "call-0562",
+      "success": true,
+      "elapsed": "0.5s",
+      "promptTokens": 3440,
+      "completionTokens": 65,
+      "totalTokens": 3505,
+      "truncated": false
+    },
+    {
+      "callId": "call-0563",
+      "success": true,
+      "elapsed": "1.1s",
+      "promptTokens": 3483,
+      "completionTokens": 45,
+      "totalTokens": 3528,
+      "truncated": false
+    },
+    {
+      "callId": "call-0564",
+      "success": true,
+      "elapsed": "0.8s",
+      "promptTokens": 3487,
+      "completionTokens": 57,
+      "totalTokens": 3544,
+      "truncated": false
+    },
+    {
+      "callId": "call-0565",
+      "success": true,
+      "elapsed": "0.7s",
+      "promptTokens": 3684,
+      "completionTokens": 41,
+      "totalTokens": 3725,
+      "truncated": false
+    },
+    {
+      "callId": "call-0566",
+      "success": true,
+      "elapsed": "0.6s",
+      "promptTokens": 3282,
+      "completionTokens": 41,
+      "totalTokens": 3323,
+      "truncated": false
+    },
+    {
+      "callId": "call-0567",
+      "success": true,
+      "elapsed": "0.7s",
+      "promptTokens": 3256,
+      "completionTokens": 65,
+      "totalTokens": 3321,
+      "truncated": false
+    },
+    {
+      "callId": "call-0568",
+      "success": true,
+      "elapsed": "0.5s",
+      "promptTokens": 3534,
+      "completionTokens": 25,
+      "totalTokens": 3559,
+      "truncated": false
+    },
+    {
+      "callId": "call-0569",
+      "success": true,
+      "elapsed": "0.5s",
+      "promptTokens": 3853,
+      "completionTokens": 53,
+      "totalTokens": 3906,
+      "truncated": false
+    },
+    {
+      "callId": "call-0570",
+      "success": true,
+      "elapsed": "0.5s",
+      "promptTokens": 3656,
+      "completionTokens": 17,
+      "totalTokens": 3673,
+      "truncated": false
+    },
+    {
+      "callId": "call-0571",
+      "success": true,
+      "elapsed": "0.5s",
+      "promptTokens": 3738,
+      "completionTokens": 21,
+      "totalTokens": 3759,
+      "truncated": false
+    },
+    {
+      "callId": "call-0572",
+      "success": true,
+      "elapsed": "0.5s",
+      "promptTokens": 3677,
+      "completionTokens": 17,
+      "totalTokens": 3694,
+      "truncated": false
+    },
+    {
+      "callId": "call-0573",
+      "success": true,
+      "elapsed": "0.9s",
+      "promptTokens": 3497,
+      "completionTokens": 17,
+      "totalTokens": 3514,
+      "truncated": false
+    },
+    {
+      "callId": "call-0574",
+      "success": true,
+      "elapsed": "0.7s",
+      "promptTokens": 3862,
+      "completionTokens": 13,
+      "totalTokens": 3875,
+      "truncated": false
+    },
+    {
+      "callId": "call-0575",
+      "success": true,
+      "elapsed": "1.1s",
+      "promptTokens": 3678,
+      "completionTokens": 57,
+      "totalTokens": 3735,
+      "truncated": false
+    },
+    {
+      "callId": "call-0576",
+      "success": true,
+      "elapsed": "0.6s",
+      "promptTokens": 3664,
+      "completionTokens": 45,
+      "totalTokens": 3709,
+      "truncated": false
+    },
+    {
+      "callId": "call-0577",
+      "success": true,
+      "elapsed": "0.6s",
+      "promptTokens": 3610,
+      "completionTokens": 29,
+      "totalTokens": 3639,
+      "truncated": false
+    },
+    {
+      "callId": "call-0578",
+      "success": true,
+      "elapsed": "1.0s",
+      "promptTokens": 3416,
+      "completionTokens": 77,
+      "totalTokens": 3493,
+      "truncated": false
+    },
+    {
+      "callId": "call-0579",
+      "success": true,
+      "elapsed": "0.8s",
+      "promptTokens": 3486,
+      "completionTokens": 61,
+      "totalTokens": 3547,
+      "truncated": false
+    },
+    {
+      "callId": "call-0580",
+      "success": true,
+      "elapsed": "0.7s",
+      "promptTokens": 3273,
+      "completionTokens": 61,
+      "totalTokens": 3334,
+      "truncated": false
+    },
+    {
+      "callId": "call-0581",
+      "success": true,
+      "elapsed": "0.7s",
+      "promptTokens": 3107,
+      "completionTokens": 45,
+      "totalTokens": 3152,
+      "truncated": false
+    },
+    {
+      "callId": "call-0582",
+      "success": true,
+      "elapsed": "0.6s",
+      "promptTokens": 3166,
+      "completionTokens": 33,
+      "totalTokens": 3199,
+      "truncated": false
+    },
+    {
+      "callId": "call-0583",
+      "success": true,
+      "elapsed": "0.5s",
+      "promptTokens": 1683,
+      "completionTokens": 9,
+      "totalTokens": 1692,
+      "truncated": false
+    },
+    {
+      "callId": "call-0584",
+      "success": true,
+      "elapsed": "6.4s",
+      "promptTokens": 3606,
+      "completionTokens": 2302,
+      "totalTokens": 5908,
+      "truncated": false
+    },
+    {
+      "callId": "call-0585",
+      "success": true,
+      "elapsed": "4.6s",
+      "promptTokens": 2617,
+      "completionTokens": 1385,
+      "totalTokens": 4002,
+      "truncated": false
+    },
+    {
+      "callId": "call-0586",
+      "success": true,
+      "elapsed": "0.9s",
+      "promptTokens": 4161,
+      "completionTokens": 113,
+      "totalTokens": 4274,
+      "truncated": false
+    },
+    {
+      "callId": "call-0587",
+      "success": true,
+      "elapsed": "0.6s",
+      "promptTokens": 4066,
+      "completionTokens": 41,
+      "totalTokens": 4107,
+      "truncated": false
+    },
+    {
+      "callId": "call-0588",
+      "success": true,
+      "elapsed": "0.9s",
+      "promptTokens": 4060,
+      "completionTokens": 21,
+      "totalTokens": 4081,
+      "truncated": false
+    },
+    {
+      "callId": "call-0589",
+      "success": true,
+      "elapsed": "0.9s",
+      "promptTokens": 4086,
+      "completionTokens": 29,
+      "totalTokens": 4115,
+      "truncated": false
+    },
+    {
+      "callId": "call-0590",
+      "success": true,
+      "elapsed": "0.9s",
+      "promptTokens": 3860,
+      "completionTokens": 33,
+      "totalTokens": 3893,
+      "truncated": false
+    },
+    {
+      "callId": "call-0591",
+      "success": true,
+      "elapsed": "3.0s",
+      "promptTokens": 3961,
+      "completionTokens": 961,
+      "totalTokens": 4922,
+      "truncated": false
+    },
+    {
+      "callId": "call-0592",
+      "success": true,
+      "elapsed": "0.7s",
+      "promptTokens": 3793,
+      "completionTokens": 2,
+      "totalTokens": 3795,
+      "truncated": false
+    },
+    {
+      "callId": "call-0593",
+      "success": true,
+      "elapsed": "0.8s",
+      "promptTokens": 3771,
+      "completionTokens": 9,
+      "totalTokens": 3780,
+      "truncated": false
+    },
+    {
+      "callId": "call-0594",
+      "success": true,
+      "elapsed": "0.7s",
+      "promptTokens": 3787,
+      "completionTokens": 25,
+      "totalTokens": 3812,
+      "truncated": false
+    },
+    {
+      "callId": "call-0595",
+      "success": true,
+      "elapsed": "0.6s",
+      "promptTokens": 3385,
+      "completionTokens": 2,
+      "totalTokens": 3387,
+      "truncated": false
+    },
+    {
+      "callId": "call-0596",
+      "success": true,
+      "elapsed": "0.6s",
+      "promptTokens": 3620,
+      "completionTokens": 2,
+      "totalTokens": 3622,
+      "truncated": false
+    },
+    {
+      "callId": "call-0597",
+      "success": true,
+      "elapsed": "0.5s",
+      "promptTokens": 3742,
+      "completionTokens": 2,
+      "totalTokens": 3744,
+      "truncated": false
+    },
+    {
+      "callId": "call-0598",
+      "success": true,
+      "elapsed": "0.5s",
+      "promptTokens": 3736,
+      "completionTokens": 5,
+      "totalTokens": 3741,
+      "truncated": false
+    },
+    {
+      "callId": "call-0599",
+      "success": true,
+      "elapsed": "0.5s",
+      "promptTokens": 3462,
+      "completionTokens": 2,
+      "totalTokens": 3464,
+      "truncated": false
+    },
+    {
+      "callId": "call-0600",
+      "success": true,
+      "elapsed": "0.8s",
+      "promptTokens": 3351,
+      "completionTokens": 97,
+      "totalTokens": 3448,
+      "truncated": false
+    },
+    {
+      "callId": "call-0601",
+      "success": true,
+      "elapsed": "0.3s",
+      "promptTokens": 3807,
+      "completionTokens": 2,
+      "totalTokens": 3809,
+      "truncated": false
+    },
+    {
+      "callId": "call-0602",
+      "success": true,
+      "elapsed": "0.5s",
+      "promptTokens": 3800,
+      "completionTokens": 2,
+      "totalTokens": 3802,
+      "truncated": false
+    },
+    {
+      "callId": "call-0603",
+      "success": true,
+      "elapsed": "0.8s",
+      "promptTokens": 3949,
+      "completionTokens": 25,
+      "totalTokens": 3974,
+      "truncated": false
+    },
+    {
+      "callId": "call-0604",
+      "success": true,
+      "elapsed": "0.7s",
+      "promptTokens": 3963,
+      "completionTokens": 2,
+      "totalTokens": 3965,
+      "truncated": false
+    },
+    {
+      "callId": "call-0605",
+      "success": true,
+      "elapsed": "0.6s",
+      "promptTokens": 3992,
+      "completionTokens": 25,
+      "totalTokens": 4017,
+      "truncated": false
+    },
+    {
+      "callId": "call-0606",
+      "success": true,
+      "elapsed": "0.3s",
+      "promptTokens": 4036,
+      "completionTokens": 2,
+      "totalTokens": 4038,
+      "truncated": false
+    },
+    {
+      "callId": "call-0607",
+      "success": true,
+      "elapsed": "0.3s",
+      "promptTokens": 3444,
+      "completionTokens": 9,
+      "totalTokens": 3453,
+      "truncated": false
+    },
+    {
+      "callId": "call-0608",
+      "success": true,
+      "elapsed": "0.9s",
+      "promptTokens": 3487,
+      "completionTokens": 77,
+      "totalTokens": 3564,
+      "truncated": false
+    },
+    {
+      "callId": "call-0609",
+      "success": true,
+      "elapsed": "0.6s",
+      "promptTokens": 3491,
+      "completionTokens": 25,
+      "totalTokens": 3516,
+      "truncated": false
+    },
+    {
+      "callId": "call-0610",
+      "success": true,
+      "elapsed": "1.0s",
+      "promptTokens": 3688,
+      "completionTokens": 21,
+      "totalTokens": 3709,
+      "truncated": false
+    },
+    {
+      "callId": "call-0611",
+      "success": true,
+      "elapsed": "0.9s",
+      "promptTokens": 3286,
+      "completionTokens": 13,
+      "totalTokens": 3299,
+      "truncated": false
+    },
+    {
+      "callId": "call-0612",
+      "success": true,
+      "elapsed": "0.4s",
+      "promptTokens": 3260,
+      "completionTokens": 13,
+      "totalTokens": 3273,
+      "truncated": false
+    },
+    {
+      "callId": "call-0613",
+      "success": true,
+      "elapsed": "0.6s",
+      "promptTokens": 3538,
+      "completionTokens": 25,
+      "totalTokens": 3563,
+      "truncated": false
+    },
+    {
+      "callId": "call-0614",
+      "success": true,
+      "elapsed": "0.6s",
+      "promptTokens": 3857,
+      "completionTokens": 2,
+      "totalTokens": 3859,
+      "truncated": false
+    },
+    {
+      "callId": "call-0615",
+      "success": true,
+      "elapsed": "0.5s",
+      "promptTokens": 3660,
+      "completionTokens": 13,
+      "totalTokens": 3673,
+      "truncated": false
+    },
+    {
+      "callId": "call-0616",
+      "success": true,
+      "elapsed": "0.5s",
+      "promptTokens": 3742,
+      "completionTokens": 13,
+      "totalTokens": 3755,
+      "truncated": false
+    },
+    {
+      "callId": "call-0617",
+      "success": true,
+      "elapsed": "0.9s",
+      "promptTokens": 3681,
+      "completionTokens": 13,
+      "totalTokens": 3694,
+      "truncated": false
+    },
+    {
+      "callId": "call-0618",
+      "success": true,
+      "elapsed": "0.4s",
+      "promptTokens": 3501,
+      "completionTokens": 33,
+      "totalTokens": 3534,
+      "truncated": false
+    },
+    {
+      "callId": "call-0619",
+      "success": true,
+      "elapsed": "0.6s",
+      "promptTokens": 3866,
+      "completionTokens": 2,
+      "totalTokens": 3868,
+      "truncated": false
+    },
+    {
+      "callId": "call-0620",
+      "success": true,
+      "elapsed": "0.4s",
+      "promptTokens": 3682,
+      "completionTokens": 13,
+      "totalTokens": 3695,
+      "truncated": false
+    },
+    {
+      "callId": "call-0621",
+      "success": true,
+      "elapsed": "0.5s",
+      "promptTokens": 3668,
+      "completionTokens": 25,
+      "totalTokens": 3693,
+      "truncated": false
+    },
+    {
+      "callId": "call-0622",
+      "success": true,
+      "elapsed": "0.5s",
+      "promptTokens": 3614,
+      "completionTokens": 2,
+      "totalTokens": 3616,
+      "truncated": false
+    },
+    {
+      "callId": "call-0623",
+      "success": true,
+      "elapsed": "0.7s",
+      "promptTokens": 3420,
+      "completionTokens": 5,
+      "totalTokens": 3425,
+      "truncated": false
+    },
+    {
+      "callId": "call-0624",
+      "success": true,
+      "elapsed": "0.9s",
+      "promptTokens": 3490,
+      "completionTokens": 37,
+      "totalTokens": 3527,
+      "truncated": false
+    },
+    {
+      "callId": "call-0625",
+      "success": true,
+      "elapsed": "0.9s",
+      "promptTokens": 3277,
+      "completionTokens": 17,
+      "totalTokens": 3294,
+      "truncated": false
+    },
+    {
+      "callId": "call-0626",
+      "success": true,
+      "elapsed": "0.9s",
+      "promptTokens": 3111,
+      "completionTokens": 25,
+      "totalTokens": 3136,
+      "truncated": false
+    },
+    {
+      "callId": "call-0627",
+      "success": true,
+      "elapsed": "0.6s",
+      "promptTokens": 3170,
+      "completionTokens": 2,
+      "totalTokens": 3172,
+      "truncated": false
+    },
+    {
+      "callId": "call-0628",
+      "success": true,
+      "elapsed": "0.3s",
+      "promptTokens": 1687,
+      "completionTokens": 2,
+      "totalTokens": 1689,
+      "truncated": false
+    },
+    {
+      "callId": "call-0629",
+      "success": true,
+      "elapsed": "7.8s",
+      "promptTokens": 3857,
+      "completionTokens": 3079,
+      "totalTokens": 6936,
+      "truncated": false
+    },
+    {
+      "callId": "call-0630",
+      "success": true,
+      "elapsed": "1.1s",
+      "promptTokens": 577,
+      "completionTokens": 251,
+      "totalTokens": 828,
+      "truncated": false
+    },
+    {
+      "callId": "call-0631",
+      "success": true,
+      "elapsed": "0.8s",
+      "promptTokens": 4157,
+      "completionTokens": 29,
+      "totalTokens": 4186,
+      "truncated": false
+    },
+    {
+      "callId": "call-0632",
+      "success": true,
+      "elapsed": "0.6s",
+      "promptTokens": 4062,
+      "completionTokens": 21,
+      "totalTokens": 4083,
+      "truncated": false
+    },
+    {
+      "callId": "call-0633",
+      "success": true,
+      "elapsed": "0.3s",
+      "promptTokens": 4056,
+      "completionTokens": 2,
+      "totalTokens": 4058,
+      "truncated": false
+    },
+    {
+      "callId": "call-0634",
+      "success": true,
+      "elapsed": "0.5s",
+      "promptTokens": 4082,
+      "completionTokens": 2,
+      "totalTokens": 4084,
+      "truncated": false
+    },
+    {
+      "callId": "call-0635",
+      "success": true,
+      "elapsed": "0.7s",
+      "promptTokens": 3856,
+      "completionTokens": 2,
+      "totalTokens": 3858,
+      "truncated": false
+    },
+    {
+      "callId": "call-0636",
+      "success": true,
+      "elapsed": "0.7s",
+      "promptTokens": 3957,
+      "completionTokens": 2,
+      "totalTokens": 3959,
+      "truncated": false
+    },
+    {
+      "callId": "call-0637",
+      "success": true,
+      "elapsed": "0.7s",
+      "promptTokens": 3789,
+      "completionTokens": 2,
+      "totalTokens": 3791,
+      "truncated": false
+    },
+    {
+      "callId": "call-0638",
+      "success": true,
+      "elapsed": "0.5s",
+      "promptTokens": 3767,
+      "completionTokens": 2,
+      "totalTokens": 3769,
+      "truncated": false
+    },
+    {
+      "callId": "call-0639",
+      "success": true,
+      "elapsed": "0.9s",
+      "promptTokens": 3783,
+      "completionTokens": 2,
+      "totalTokens": 3785,
+      "truncated": false
+    },
+    {
+      "callId": "call-0640",
+      "success": true,
+      "elapsed": "0.5s",
+      "promptTokens": 3381,
+      "completionTokens": 2,
+      "totalTokens": 3383,
+      "truncated": false
+    },
+    {
+      "callId": "call-0641",
+      "success": true,
+      "elapsed": "0.6s",
+      "promptTokens": 3616,
+      "completionTokens": 2,
+      "totalTokens": 3618,
+      "truncated": false
+    },
+    {
+      "callId": "call-0642",
+      "success": true,
+      "elapsed": "0.6s",
+      "promptTokens": 3738,
+      "completionTokens": 2,
+      "totalTokens": 3740,
+      "truncated": false
+    },
+    {
+      "callId": "call-0643",
+      "success": true,
+      "elapsed": "0.7s",
+      "promptTokens": 3732,
+      "completionTokens": 2,
+      "totalTokens": 3734,
+      "truncated": false
+    },
+    {
+      "callId": "call-0644",
+      "success": true,
+      "elapsed": "0.7s",
+      "promptTokens": 3458,
+      "completionTokens": 2,
+      "totalTokens": 3460,
+      "truncated": false
+    },
+    {
+      "callId": "call-0645",
+      "success": true,
+      "elapsed": "0.4s",
+      "promptTokens": 3347,
+      "completionTokens": 2,
+      "totalTokens": 3349,
+      "truncated": false
+    },
+    {
+      "callId": "call-0646",
+      "success": true,
+      "elapsed": "0.5s",
+      "promptTokens": 3803,
+      "completionTokens": 2,
+      "totalTokens": 3805,
+      "truncated": false
+    },
+    {
+      "callId": "call-0647",
+      "success": true,
+      "elapsed": "0.7s",
+      "promptTokens": 3796,
+      "completionTokens": 2,
+      "totalTokens": 3798,
+      "truncated": false
+    },
+    {
+      "callId": "call-0648",
+      "success": true,
+      "elapsed": "0.6s",
+      "promptTokens": 3945,
+      "completionTokens": 2,
+      "totalTokens": 3947,
+      "truncated": false
+    },
+    {
+      "callId": "call-0649",
+      "success": true,
+      "elapsed": "0.6s",
+      "promptTokens": 3959,
+      "completionTokens": 2,
+      "totalTokens": 3961,
+      "truncated": false
+    },
+    {
+      "callId": "call-0650",
+      "success": true,
+      "elapsed": "0.8s",
+      "promptTokens": 3988,
+      "completionTokens": 2,
+      "totalTokens": 3990,
+      "truncated": false
+    },
+    {
+      "callId": "call-0651",
+      "success": true,
+      "elapsed": "0.6s",
+      "promptTokens": 4032,
+      "completionTokens": 2,
+      "totalTokens": 4034,
+      "truncated": false
+    },
+    {
+      "callId": "call-0652",
+      "success": true,
+      "elapsed": "0.5s",
+      "promptTokens": 3440,
+      "completionTokens": 2,
+      "totalTokens": 3442,
+      "truncated": false
+    },
+    {
+      "callId": "call-0653",
+      "success": true,
+      "elapsed": "0.4s",
+      "promptTokens": 3483,
+      "completionTokens": 5,
+      "totalTokens": 3488,
+      "truncated": false
+    },
+    {
+      "callId": "call-0654",
+      "success": true,
+      "elapsed": "0.5s",
+      "promptTokens": 3487,
+      "completionTokens": 5,
+      "totalTokens": 3492,
+      "truncated": false
+    },
+    {
+      "callId": "call-0655",
+      "success": true,
+      "elapsed": "0.7s",
+      "promptTokens": 3684,
+      "completionTokens": 2,
+      "totalTokens": 3686,
+      "truncated": false
+    },
+    {
+      "callId": "call-0656",
+      "success": true,
+      "elapsed": "0.4s",
+      "promptTokens": 3282,
+      "completionTokens": 5,
+      "totalTokens": 3287,
+      "truncated": false
+    },
+    {
+      "callId": "call-0657",
+      "success": true,
+      "elapsed": "0.7s",
+      "promptTokens": 3256,
+      "completionTokens": 5,
+      "totalTokens": 3261,
+      "truncated": false
+    },
+    {
+      "callId": "call-0658",
+      "success": true,
+      "elapsed": "0.5s",
+      "promptTokens": 3534,
+      "completionTokens": 2,
+      "totalTokens": 3536,
+      "truncated": false
+    },
+    {
+      "callId": "call-0659",
+      "success": true,
+      "elapsed": "0.6s",
+      "promptTokens": 3853,
+      "completionTokens": 2,
+      "totalTokens": 3855,
+      "truncated": false
+    },
+    {
+      "callId": "call-0660",
+      "success": true,
+      "elapsed": "0.4s",
+      "promptTokens": 3656,
+      "completionTokens": 13,
+      "totalTokens": 3669,
+      "truncated": false
+    },
+    {
+      "callId": "call-0661",
+      "success": true,
+      "elapsed": "0.5s",
+      "promptTokens": 3738,
+      "completionTokens": 13,
+      "totalTokens": 3751,
+      "truncated": false
+    },
+    {
+      "callId": "call-0662",
+      "success": true,
+      "elapsed": "0.7s",
+      "promptTokens": 3677,
+      "completionTokens": 2,
+      "totalTokens": 3679,
+      "truncated": false
+    },
+    {
+      "callId": "call-0663",
+      "success": true,
+      "elapsed": "0.4s",
+      "promptTokens": 3497,
+      "completionTokens": 2,
+      "totalTokens": 3499,
+      "truncated": false
+    },
+    {
+      "callId": "call-0664",
+      "success": true,
+      "elapsed": "0.5s",
+      "promptTokens": 3862,
+      "completionTokens": 2,
+      "totalTokens": 3864,
+      "truncated": false
+    },
+    {
+      "callId": "call-0665",
+      "success": true,
+      "elapsed": "0.5s",
+      "promptTokens": 3678,
+      "completionTokens": 9,
+      "totalTokens": 3687,
+      "truncated": false
+    },
+    {
+      "callId": "call-0666",
+      "success": true,
+      "elapsed": "0.9s",
+      "promptTokens": 3664,
+      "completionTokens": 2,
+      "totalTokens": 3666,
+      "truncated": false
+    },
+    {
+      "callId": "call-0667",
+      "success": true,
+      "elapsed": "0.5s",
+      "promptTokens": 3610,
+      "completionTokens": 13,
+      "totalTokens": 3623,
+      "truncated": false
+    },
+    {
+      "callId": "call-0668",
+      "success": true,
+      "elapsed": "0.4s",
+      "promptTokens": 3416,
+      "completionTokens": 2,
+      "totalTokens": 3418,
+      "truncated": false
+    },
+    {
+      "callId": "call-0669",
+      "success": true,
+      "elapsed": "0.8s",
+      "promptTokens": 3486,
+      "completionTokens": 2,
+      "totalTokens": 3488,
+      "truncated": false
+    },
+    {
+      "callId": "call-0670",
+      "success": true,
+      "elapsed": "0.5s",
+      "promptTokens": 3273,
+      "completionTokens": 2,
+      "totalTokens": 3275,
+      "truncated": false
+    },
+    {
+      "callId": "call-0671",
+      "success": true,
+      "elapsed": "0.8s",
+      "promptTokens": 3107,
+      "completionTokens": 2,
+      "totalTokens": 3109,
+      "truncated": false
+    },
+    {
+      "callId": "call-0672",
+      "success": true,
+      "elapsed": "0.7s",
+      "promptTokens": 3166,
+      "completionTokens": 2,
+      "totalTokens": 3168,
+      "truncated": false
+    },
+    {
+      "callId": "call-0673",
+      "success": true,
+      "elapsed": "0.7s",
+      "promptTokens": 1683,
+      "completionTokens": 2,
+      "totalTokens": 1685,
+      "truncated": false
+    },
+    {
+      "callId": "call-0674",
+      "success": true,
+      "elapsed": "1.0s",
+      "promptTokens": 460,
+      "completionTokens": 188,
+      "totalTokens": 648,
+      "truncated": false
+    }
+  ]
+}

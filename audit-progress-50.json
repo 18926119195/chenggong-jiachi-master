@@ -1,0 +1,866 @@
+[
+  {
+    "surface": "7, et 1, chap",
+    "valid": false,
+    "reason": "含数字、标点及连词，非单一实词"
+  },
+  {
+    "surface": "discursivees staires",
+    "valid": false,
+    "reason": "拼写异常且为多词组合，非规范名词短语"
+  },
+  {
+    "surface": "des faisceaux",
+    "valid": true
+  },
+  {
+    "surface": "de mise",
+    "valid": false,
+    "reason": "介词短语，非名词"
+  },
+  {
+    "surface": "vitesse hyper-ralentie",
+    "valid": true
+  },
+  {
+    "surface": "^+$",
+    "valid": false,
+    "reason": "纯符号"
+  },
+  {
+    "surface": "Un tel straige",
+    "valid": false,
+    "reason": "含冠词、形容词及疑似拼写错误，非规范名词短语"
+  },
+  {
+    "surface": "les deux espaces",
+    "valid": true
+  },
+  {
+    "surface": "figure ontologique",
+    "valid": true
+  },
+  {
+    "surface": "instant",
+    "valid": true
+  },
+  {
+    "surface": "de simultanité",
+    "valid": false,
+    "reason": "介词短语，非名词"
+  },
+  {
+    "surface": "et T.",
+    "valid": false,
+    "reason": "连词加单字母缩写"
+  },
+  {
+    "surface": "conjonctiment",
+    "valid": false,
+    "reason": "疑似副词拼写错误，非名词"
+  },
+  {
+    "surface": "l'économie modulaire",
+    "valid": true
+  },
+  {
+    "surface": "des sens contraires",
+    "valid": true
+  },
+  {
+    "surface": "notre première approche",
+    "valid": true
+  },
+  {
+    "surface": ", deux sortes",
+    "valid": false,
+    "reason": "含标点，且为数量词加名词的碎片"
+  },
+  {
+    "surface": "- du côté",
+    "valid": false,
+    "reason": "含标点及介词短语"
+  },
+  {
+    "surface": "domaine Φ.",
+    "valid": true
+  },
+  {
+    "surface": "une autre fractalisation",
+    "valid": true
+  },
+  {
+    "surface": "continuite",
+    "valid": true
+  },
+  {
+    "surface": "à vitesse",
+    "valid": false,
+    "reason": "介词短语"
+  },
+  {
+    "surface": "les opérateurs pathiques",
+    "valid": true
+  },
+  {
+    "surface": "désordination",
+    "valid": true
+  },
+  {
+    "surface": "abord ce dernier domaine",
+    "valid": false,
+    "reason": "含指示词和副词，非规范名词短语"
+  },
+  {
+    "surface": "une discontinuité",
+    "valid": true
+  },
+  {
+    "surface": "registres sensibles et des registres signalétiques",
+    "valid": false,
+    "reason": "含连词和冠词，为并列短语碎片"
+  },
+  {
+    "surface": "la déterminabilité négative",
+    "valid": true
+  },
+  {
+    "surface": "la déterminabilité positive",
+    "valid": true
+  },
+  {
+    "surface": "ce stage",
+    "valid": true
+  },
+  {
+    "surface": "ontologie modulaire",
+    "valid": true
+  },
+  {
+    "surface": "les registres sensibles",
+    "valid": true
+  },
+  {
+    "surface": "manière sainte",
+    "valid": true
+  },
+  {
+    "surface": "cette circonsccription",
+    "valid": true
+  },
+  {
+    "surface": "Simplement, il y a puissance",
+    "valid": false,
+    "reason": "含副词、代词、动词，为句子片段"
+  },
+  {
+    "surface": "de selections",
+    "valid": false,
+    "reason": "介词短语"
+  },
+  {
+    "surface": "traits positifs",
+    "valid": true
+  },
+  {
+    "surface": "temporalisations intermédiaires",
+    "valid": true
+  },
+  {
+    "surface": "l'abord",
+    "valid": true
+  },
+  {
+    "surface": "temporalités",
+    "valid": true
+  },
+  {
+    "surface": "intermédiaires",
+    "valid": true
+  },
+  {
+    "surface": "des comportements",
+    "valid": true
+  },
+  {
+    "surface": "pure discursure",
+    "valid": true
+  },
+  {
+    "surface": "deposition",
+    "valid": true
+  },
+  {
+    "surface": "posit",
+    "valid": true
+  },
+  {
+    "surface": "Territory existientiel",
+    "valid": true
+  },
+  {
+    "surface": "une pseudo-temporalité",
+    "valid": true
+  },
+  {
+    "surface": "ou assistance",
+    "valid": false,
+    "reason": "含连词"
+  },
+  {
+    "surface": "un temps",
+    "valid": true
+  },
+  {
+    "surface": "une parmiémotion",
+    "valid": true
+  },
+  {
+    "surface": ", des temporalités",
+    "valid": false,
+    "reason": "含标点及冠词碎片"
+  },
+  {
+    "surface": "mêmes mots",
+    "valid": true
+  },
+  {
+    "surface": ", des mots",
+    "valid": false,
+    "reason": "含标点及冠词碎片"
+  },
+  {
+    "surface": "sécuance",
+    "valid": true
+  },
+  {
+    "surface": "simultanélisation trans-processus",
+    "valid": true
+  },
+  {
+    "surface": "mythes",
+    "valid": true
+  },
+  {
+    "surface": "travers les tensions finalisantes",
+    "valid": false,
+    "reason": "含介词，非规范名词短语"
+  },
+  {
+    "surface": "cóché",
+    "valid": true
+  },
+  {
+    "surface": ", une surface",
+    "valid": false,
+    "reason": "含标点及冠词碎片"
+  },
+  {
+    "surface": "densité",
+    "valid": true
+  },
+  {
+    "surface": "la negativité",
+    "valid": true
+  },
+  {
+    "surface": "plutôt les negativités",
+    "valid": false,
+    "reason": "含副词，非规范名词短语"
+  },
+  {
+    "surface": "Il y a a prise de constance, circonscription et résolution des résultats, ilocableses.",
+    "valid": false,
+    "reason": "完整句子片段，含代词、动词、标点"
+  },
+  {
+    "surface": "constance fractale",
+    "valid": true
+  },
+  {
+    "surface": "les phasus",
+    "valid": true
+  },
+  {
+    "surface": "la determinabilité negative",
+    "valid": true
+  },
+  {
+    "surface": "une temporalité",
+    "valid": true
+  },
+  {
+    "surface": "quatre dimensions",
+    "valid": true
+  },
+  {
+    "surface": "dimensions hétérogenes",
+    "valid": true
+  },
+  {
+    "surface": "occasions",
+    "valid": true
+  },
+  {
+    "surface": "son enonction",
+    "valid": true
+  },
+  {
+    "surface": "Ton pluot que l'unidimensionalité d'une temporalisation réduite à la linéarité informationnelle du Chronos capitalistique, puissance d'voratrice de traductibilisation et de mise en équivalant",
+    "valid": false,
+    "reason": "长句片段，含限定词、介词、连词等"
+  },
+  {
+    "surface": "métal",
+    "valid": true
+  },
+  {
+    "surface": "modifications mythiques",
+    "valid": true
+  },
+  {
+    "surface": ", esthétiques",
+    "valid": false,
+    "reason": "含标点碎片"
+  },
+  {
+    "surface": "les montages",
+    "valid": true
+  },
+  {
+    "surface": "composantes temporales",
+    "valid": true
+  },
+  {
+    "surface": "la spécification",
+    "valid": true
+  },
+  {
+    "surface": "enonction",
+    "valid": true
+  },
+  {
+    "surface": "un quadrature",
+    "valid": true
+  },
+  {
+    "surface": "nullement",
+    "valid": false,
+    "reason": "副词"
+  },
+  {
+    "surface": "la chimie enonciative",
+    "valid": true
+  },
+  {
+    "surface": "phénoménologies naives",
+    "valid": true
+  },
+  {
+    "surface": "armées",
+    "valid": true
+  },
+  {
+    "surface": "sans censeur",
+    "valid": false,
+    "reason": "含介词"
+  },
+  {
+    "surface": "instrumentation",
+    "valid": true
+  },
+  {
+    "surface": "experimentation",
+    "valid": true
+  },
+  {
+    "surface": "quatre puissances",
+    "valid": true
+  },
+  {
+    "surface": "les décesses",
+    "valid": true
+  },
+  {
+    "surface": "Diké",
+    "valid": true
+  },
+  {
+    "surface": "notre domaine",
+    "valid": true
+  },
+  {
+    "surface": "Moira",
+    "valid": true
+  },
+  {
+    "surface": "maudite",
+    "valid": false,
+    "reason": "形容词/分词，非名词"
+  },
+  {
+    "surface": "l'initiie",
+    "valid": true
+  },
+  {
+    "surface": "moment fecond",
+    "valid": true
+  },
+  {
+    "surface": "liberté créative",
+    "valid": true
+  },
+  {
+    "surface": "pour les causes",
+    "valid": false,
+    "reason": "介词短语"
+  },
+  {
+    "surface": "la cirisconception",
+    "valid": true
+  },
+  {
+    "surface": ",face à elles",
+    "valid": false,
+    "reason": "含标点、介词、代词"
+  },
+  {
+    "surface": ", l'hubris",
+    "valid": false,
+    "reason": "含标点碎片"
+  },
+  {
+    "surface": "causes efficiens de l'autonico",
+    "valid": false,
+    "reason": "含介词，且疑似拼写错误"
+  },
+  {
+    "surface": "élection",
+    "valid": true
+  },
+  {
+    "surface": "des temporales discursives",
+    "valid": true
+  },
+  {
+    "surface": "les durées existentielle",
+    "valid": true
+  },
+  {
+    "surface": "volunt",
+    "valid": true
+  },
+  {
+    "surface": "mon auto",
+    "valid": true
+  },
+  {
+    "surface": ", sommelier",
+    "valid": false,
+    "reason": "含标点碎片"
+  },
+  {
+    "surface": "pilote automatique",
+    "valid": true
+  },
+  {
+    "surface": "divers temporales organisants",
+    "valid": true
+  },
+  {
+    "surface": "travaillors alors de façon relativement autonomes",
+    "valid": false,
+    "reason": "含副词、介词，为句子片段"
+  },
+  {
+    "surface": "un rapport direct",
+    "valid": true
+  },
+  {
+    "surface": "asservissement cybernetique",
+    "valid": true
+  },
+  {
+    "surface": "avec le passage",
+    "valid": false,
+    "reason": "介词短语"
+  },
+  {
+    "surface": "Durée rentable",
+    "valid": true
+  },
+  {
+    "surface": "une réverie diurne d'un côté",
+    "valid": false,
+    "reason": "含介词短语，非规范名词短语"
+  },
+  {
+    "surface": "extrême",
+    "valid": false,
+    "reason": "形容词，非名词"
+  },
+  {
+    "surface": "vigilance",
+    "valid": true
+  },
+  {
+    "surface": "incident",
+    "valid": true
+  },
+  {
+    "surface": "aillleurs susceptible",
+    "valid": false,
+    "reason": "含副词及形容词，非名词短语"
+  },
+  {
+    "surface": "me réverifier de bon",
+    "valid": false,
+    "reason": "含代词、动词、介词"
+  },
+  {
+    "surface": ", me même d'un chercheur",
+    "valid": false,
+    "reason": "含标点、代词、介词"
+  },
+  {
+    "surface": "haut niveau",
+    "valid": true
+  },
+  {
+    "surface": "parfaitement à l'aise",
+    "valid": false,
+    "reason": "含副词、介词"
+  },
+  {
+    "surface": "son « crêneau",
+    "valid": false,
+    "reason": "含标点符号碎片"
+  },
+  {
+    "surface": "littéralement de débranchés",
+    "valid": false,
+    "reason": "含副词、介词"
+  },
+  {
+    "surface": "une passion subie ou, tout simplement",
+    "valid": false,
+    "reason": "含连词、副词、标点"
+  },
+  {
+    "surface": "un aéroport",
+    "valid": true
+  },
+  {
+    "surface": "essentiellement dans l'Agencement",
+    "valid": false,
+    "reason": "含副词、介词"
+  },
+  {
+    "surface": "la laque chaudote",
+    "valid": true
+  },
+  {
+    "surface": ", de deux régimes",
+    "valid": false,
+    "reason": "含标点、介词"
+  },
+  {
+    "surface": "deux opérations",
+    "valid": true
+  },
+  {
+    "surface": "discursives",
+    "valid": false,
+    "reason": "形容词，非名词"
+  },
+  {
+    "surface": "recessuelles",
+    "valid": false,
+    "reason": "疑似形容词，非名词"
+  },
+  {
+    "surface": "L'état chaumisque",
+    "valid": true
+  },
+  {
+    "surface": "une tension temporelle",
+    "valid": true
+  },
+  {
+    "surface": "un champ",
+    "valid": true
+  },
+  {
+    "surface": "façon hégemonique",
+    "valid": true
+  },
+  {
+    "surface": "trois strats",
+    "valid": true
+  },
+  {
+    "surface": "Moment fécond du délire",
+    "valid": true
+  },
+  {
+    "surface": "François Tosquelles, instant de voir selon Jacques Lacan, minute d'eternité pour les surrealistes, Satori Zeni, ou plus simplement retournement gestalistes,",
+    "valid": false,
+    "reason": "含专名、介词、连词、标点，为长句片段"
+  },
+  {
+    "surface": "une nouvelle définition",
+    "valid": true
+  },
+  {
+    "surface": "délicé",
+    "valid": false,
+    "reason": "疑似形容词，非名词"
+  },
+  {
+    "surface": "discursivite",
+    "valid": true
+  },
+  {
+    "surface": "l'opposition",
+    "valid": true
+  },
+  {
+    "surface": "texture",
+    "valid": true
+  },
+  {
+    "surface": "FX",
+    "valid": false,
+    "reason": "纯字母缩写，非规范名词"
+  },
+  {
+    "surface": "sa capitalisation",
+    "valid": true
+  },
+  {
+    "surface": "Phylum possibilistes (0·)",
+    "valid": false,
+    "reason": "含括号及符号"
+  },
+  {
+    "surface": "balayage fractal",
+    "valid": true
+  },
+  {
+    "surface": "ce balayage",
+    "valid": true
+  },
+  {
+    "surface": "seulement de champ",
+    "valid": false,
+    "reason": "含副词、介词"
+  },
+  {
+    "surface": "un passage",
+    "valid": true
+  },
+  {
+    "surface": "les structures molaires",
+    "valid": true
+  },
+  {
+    "surface": "les opérateurs",
+    "valid": true
+  },
+  {
+    "surface": "l'fabellisation",
+    "valid": true
+  },
+  {
+    "surface": "interréalisé",
+    "valid": false,
+    "reason": "疑似动词分词，非名词"
+  },
+  {
+    "surface": "chagrin",
+    "valid": true
+  },
+  {
+    "surface": "cette description provisoire",
+    "valid": true
+  },
+  {
+    "surface": "introduit",
+    "valid": false,
+    "reason": "动词变位形式"
+  },
+  {
+    "surface": "une autre procédure fractale",
+    "valid": true
+  },
+  {
+    "surface": "la positionnalité existentielle",
+    "valid": true
+  },
+  {
+    "surface": "Univers àioniques",
+    "valid": true
+  },
+  {
+    "surface": "enoniations",
+    "valid": true
+  },
+  {
+    "surface": "ces procédures",
+    "valid": true
+  },
+  {
+    "surface": "La fractalisation chronique",
+    "valid": true
+  },
+  {
+    "surface": "les articulations systémiques",
+    "valid": true
+  },
+  {
+    "surface": "les lignes",
+    "valid": true
+  },
+  {
+    "surface": "relâts",
+    "valid": true
+  },
+  {
+    "surface": "de pau-",
+    "valid": false,
+    "reason": "介词加截断词碎片"
+  },
+  {
+    "surface": "terroritesorius Ophyl deterritorialis",
+    "valid": false,
+    "reason": "疑似拼写错误及多词组合，非规范名词短语"
+  },
+  {
+    "surface": "la fractalisation aionique",
+    "valid": true
+  },
+  {
+    "surface": "tout question",
+    "valid": false,
+    "reason": "限定词加名词，非规范名词短语"
+  },
+  {
+    "surface": "circonSCRIPTion",
+    "valid": true
+  },
+  {
+    "surface": "le • recontens",
+    "valid": false,
+    "reason": "含符号及疑似拼写错误"
+  },
+  {
+    "surface": "les écaille",
+    "valid": true
+  },
+  {
+    "surface": "aucune façon",
+    "valid": true
+  },
+  {
+    "surface": "la réduction",
+    "valid": true
+  },
+  {
+    "surface": "cette ligne",
+    "valid": true
+  },
+  {
+    "surface": "Chronos",
+    "valid": true
+  },
+  {
+    "surface": "Aion",
+    "valid": true
+  },
+  {
+    "surface": "L'état disjonctif",
+    "valid": true
+  },
+  {
+    "surface": "ses temporalières",
+    "valid": true
+  },
+  {
+    "surface": "la dependance",
+    "valid": true
+  },
+  {
+    "surface": "temps aioniques",
+    "valid": true
+  },
+  {
+    "surface": "l'existe",
+    "valid": false,
+    "reason": "冠词加动词，非名词"
+  },
+  {
+    "surface": ", d'effet",
+    "valid": false,
+    "reason": "含标点及介词碎片"
+  },
+  {
+    "surface": "contre-effet",
+    "valid": true
+  },
+  {
+    "surface": "temporalière",
+    "valid": true
+  },
+  {
+    "surface": "la condition existentielle",
+    "valid": true
+  },
+  {
+    "surface": "tout tutelle aionique",
+    "valid": false,
+    "reason": "限定词加名词，非规范名词短语"
+  },
+  {
+    "surface": "sa plus simple expression",
+    "valid": true
+  },
+  {
+    "surface": "Constellation unidimentionalisée",
+    "valid": true
+  },
+  {
+    "surface": "Constellation capitalistique",
+    "valid": true
+  },
+  {
+    "surface": "aillesurs",
+    "valid": false,
+    "reason": "疑似副词拼写错误"
+  },
+  {
+    "surface": "une histoire dialectique trouble",
+    "valid": true
+  },
+  {
+    "surface": "l'aube «",
+    "valid": false,
+    "reason": "含标点符号碎片"
+  },
+  {
+    "surface": "des temps néolithiques",
+    "valid": true
+  },
+  {
+    "surface": "LA FRACTALISATION ÉNONCIATIVE",
+    "valid": true
+  },
+  {
+    "surface": "les temporalités intermédiaires",
+    "valid": true
+  },
+  {
+    "surface": ", pure affirmation",
+    "valid": false,
+    "reason": "含标点碎片"
+  }
+]

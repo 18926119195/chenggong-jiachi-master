@@ -1,0 +1,866 @@
+[
+  {
+    "surface": "un jour nouveau",
+    "valid": true
+  },
+  {
+    "surface": "un traitement différent",
+    "valid": true
+  },
+  {
+    "surface": "pliastes",
+    "valid": false,
+    "reason": "拼写错误/非标准词形"
+  },
+  {
+    "surface": "Queque chose",
+    "valid": false,
+    "reason": "拼写错误，应为quelque chose"
+  },
+  {
+    "surface": "une topologie molle",
+    "valid": true
+  },
+  {
+    "surface": ", des graduations intensives",
+    "valid": false,
+    "reason": "含标点碎片，非独立名词短语"
+  },
+  {
+    "surface": "subliminales",
+    "valid": true
+  },
+  {
+    "surface": "projeite",
+    "valid": false,
+    "reason": "拼写错误，非标准词形"
+  },
+  {
+    "surface": "plus sur des entités brutalement",
+    "valid": false,
+    "reason": "含副词与介词，非名词短语"
+  },
+  {
+    "surface": "dérive",
+    "valid": true
+  },
+  {
+    "surface": "sur l'ensemble",
+    "valid": false,
+    "reason": "介词短语，非名词"
+  },
+  {
+    "surface": "fragment",
+    "valid": true
+  },
+  {
+    "surface": "dans une image holographique",
+    "valid": false,
+    "reason": "介词短语，非名词"
+  },
+  {
+    "surface": "la seconde version",
+    "valid": true
+  },
+  {
+    "surface": "le décor urbain et désaxé la perspective",
+    "valid": false,
+    "reason": "含连词与动词，非单一名词短语"
+  },
+  {
+    "surface": "les personages plus massifs",
+    "valid": true
+  },
+  {
+    "surface": "Lgarçon",
+    "valid": false,
+    "reason": "拼写错误/标点粘连"
+  },
+  {
+    "surface": "roule",
+    "valid": false,
+    "reason": "动词变位形式"
+  },
+  {
+    "surface": "sombre",
+    "valid": true
+  },
+  {
+    "surface": "coiffe",
+    "valid": true
+  },
+  {
+    "surface": "l'encramment",
+    "valid": false,
+    "reason": "拼写错误，非标准词形"
+  },
+  {
+    "surface": "une boutique",
+    "valid": true
+  },
+  {
+    "surface": "idéogramme",
+    "valid": true
+  },
+  {
+    "surface": "chinois",
+    "valid": true
+  },
+  {
+    "surface": "le bras drôle",
+    "valid": true
+  },
+  {
+    "surface": "le trottoir",
+    "valid": true
+  },
+  {
+    "surface": "première version",
+    "valid": true
+  },
+  {
+    "surface": "une poupe",
+    "valid": true
+  },
+  {
+    "surface": "acteurs",
+    "valid": true
+  },
+  {
+    "surface": "Bob Wilson",
+    "valid": true
+  },
+  {
+    "surface": "chien",
+    "valid": true
+  },
+  {
+    "surface": "position centrale",
+    "valid": true
+  },
+  {
+    "surface": "la droite",
+    "valid": true
+  },
+  {
+    "surface": "un agneau",
+    "valid": true
+  },
+  {
+    "surface": ", c'est peut-être un théâtre",
+    "valid": false,
+    "reason": "含标点、代词与动词，非名词短语"
+  },
+  {
+    "surface": "la façade principale",
+    "valid": true
+  },
+  {
+    "surface": "une toile",
+    "valid": true
+  },
+  {
+    "surface": "les façades latérales",
+    "valid": true
+  },
+  {
+    "surface": "fause perspective",
+    "valid": false,
+    "reason": "拼写错误，应为fausse"
+  },
+  {
+    "surface": "des chassis",
+    "valid": true
+  },
+  {
+    "surface": "coulisse",
+    "valid": true
+  },
+  {
+    "surface": "formes vivantes et formes",
+    "valid": false,
+    "reason": "含连词，非单一名词短语"
+  },
+  {
+    "surface": "les regards",
+    "valid": true
+  },
+  {
+    "surface": "émigré des fenêtres aveugles",
+    "valid": false,
+    "reason": "含动词/分词与介词，非名词短语"
+  },
+  {
+    "surface": "toute parts",
+    "valid": false,
+    "reason": "拼写错误，应为toutes parts"
+  },
+  {
+    "surface": "l'uise",
+    "valid": false,
+    "reason": "拼写错误/非标准词形"
+  },
+  {
+    "surface": "elles, la tête ronde d'enfant monte",
+    "valid": false,
+    "reason": "含代词与动词，非名词短语"
+  },
+  {
+    "surface": "un ludion",
+    "valid": true
+  },
+  {
+    "surface": "volets",
+    "valid": true
+  },
+  {
+    "surface": "la manche",
+    "valid": true
+  },
+  {
+    "surface": "une veste blanche",
+    "valid": true
+  },
+  {
+    "surface": "vertu",
+    "valid": true
+  },
+  {
+    "surface": "Saint-Esprit",
+    "valid": true
+  },
+  {
+    "surface": "une position peu credible",
+    "valid": true
+  },
+  {
+    "surface": "cette première *Rue",
+    "valid": false,
+    "reason": "含星号标点碎片"
+  },
+  {
+    "surface": "Balthus*",
+    "valid": false,
+    "reason": "含星号标点碎片"
+  },
+  {
+    "surface": "le signifiant",
+    "valid": true
+  },
+  {
+    "surface": "* atout maître",
+    "valid": false,
+    "reason": "含星号标点碎片"
+  },
+  {
+    "surface": "procédures expressifs",
+    "valid": true
+  },
+  {
+    "surface": "cet artiste",
+    "valid": true
+  },
+  {
+    "surface": "primitifs italiens",
+    "valid": true
+  },
+  {
+    "surface": "Ce tableau",
+    "valid": true
+  },
+  {
+    "surface": "deux œuvres",
+    "valid": true
+  },
+  {
+    "surface": "Piero",
+    "valid": true
+  },
+  {
+    "surface": "della Francesca",
+    "valid": true
+  },
+  {
+    "surface": "la légende",
+    "valid": true
+  },
+  {
+    "surface": "la Croix",
+    "valid": true
+  },
+  {
+    "surface": "la Prophete",
+    "valid": true
+  },
+  {
+    "surface": "la reine",
+    "valid": true
+  },
+  {
+    "surface": "Saba",
+    "valid": true
+  },
+  {
+    "surface": "la chapelle",
+    "valid": true
+  },
+  {
+    "surface": "San Francisco d'Arezzo.",
+    "valid": false,
+    "reason": "含句末标点"
+  },
+  {
+    "surface": "quelque manière",
+    "valid": true
+  },
+  {
+    "surface": "distinction",
+    "valid": true
+  },
+  {
+    "surface": "ou bien à travers une intelligibilité",
+    "valid": false,
+    "reason": "含连词与介词，非名词短语"
+  },
+  {
+    "surface": "cette connotation culturelle",
+    "valid": true
+  },
+  {
+    "surface": "composantes expressives",
+    "valid": true
+  },
+  {
+    "surface": "archaisme déterminante",
+    "valid": true
+  },
+  {
+    "surface": "l'événil",
+    "valid": false,
+    "reason": "拼写错误/非标准词形"
+  },
+  {
+    "surface": "censure",
+    "valid": true
+  },
+  {
+    "surface": "dans la façon",
+    "valid": false,
+    "reason": "介词短语，非名词"
+  },
+  {
+    "surface": "Faux dilemme",
+    "valid": true
+  },
+  {
+    "surface": "le véritable clivage processuel",
+    "valid": true
+  },
+  {
+    "surface": "l'onicoration",
+    "valid": false,
+    "reason": "拼写错误/非标准词形"
+  },
+  {
+    "surface": "des foncteurs",
+    "valid": true
+  },
+  {
+    "surface": "primat",
+    "valid": true
+  },
+  {
+    "surface": "l'excellente raison",
+    "valid": true
+  },
+  {
+    "surface": "les autres",
+    "valid": false,
+    "reason": "代词短语"
+  },
+  {
+    "surface": "même formalisme",
+    "valid": true
+  },
+  {
+    "surface": "eterritorialisme",
+    "valid": false,
+    "reason": "拼写错误/非标准词形"
+  },
+  {
+    "surface": "le linguiste",
+    "valid": true
+  },
+  {
+    "surface": "danois",
+    "valid": true
+  },
+  {
+    "surface": "Louis Hjelmslev",
+    "valid": true
+  },
+  {
+    "surface": "ces trois toiles",
+    "valid": true
+  },
+  {
+    "surface": "l'irréductible polyvocie",
+    "valid": true
+  },
+  {
+    "surface": "un effet établique",
+    "valid": true
+  },
+  {
+    "surface": "de messages",
+    "valid": false,
+    "reason": "介词短语，非独立名词"
+  },
+  {
+    "surface": "des dexes",
+    "valid": false,
+    "reason": "拼写错误/非标准词形"
+  },
+  {
+    "surface": "Nulle hermeneutique, nur surcadage structural,",
+    "valid": false,
+    "reason": "含标点与多语混用，非单一名词短语"
+  },
+  {
+    "surface": "l'hétrogerénéité",
+    "valid": false,
+    "reason": "拼写错误/非标准词形"
+  },
+  {
+    "surface": "ces composants",
+    "valid": true
+  },
+  {
+    "surface": "l'ouverture processuelle",
+    "valid": true
+  },
+  {
+    "surface": "opération signifiante",
+    "valid": true
+  },
+  {
+    "surface": "répartition",
+    "valid": true
+  },
+  {
+    "surface": "des amis",
+    "valid": true
+  },
+  {
+    "surface": "guerre",
+    "valid": true
+  },
+  {
+    "surface": "à ton habitude",
+    "valid": false,
+    "reason": "介词短语，非名词"
+  },
+  {
+    "surface": "le structuralisme",
+    "valid": true
+  },
+  {
+    "surface": "le post-modernisme",
+    "valid": true
+  },
+  {
+    "surface": "sérieux",
+    "valid": true
+  },
+  {
+    "surface": "la myxomatose",
+    "valid": true
+  },
+  {
+    "surface": "les lapins",
+    "valid": true
+  },
+  {
+    "surface": "les campages européennes",
+    "valid": false,
+    "reason": "拼写错误，应为campagnes"
+  },
+  {
+    "surface": "nos sciences humaines",
+    "valid": true
+  },
+  {
+    "surface": "litterature",
+    "valid": true
+  },
+  {
+    "surface": "rappraître",
+    "valid": false,
+    "reason": "拼写错误，应为réapparaître"
+  },
+  {
+    "surface": "d'autres avatars",
+    "valid": true
+  },
+  {
+    "surface": "défaire",
+    "valid": false,
+    "reason": "动词不定式"
+  },
+  {
+    "surface": "ma méfiance",
+    "valid": true
+  },
+  {
+    "surface": "ma seconde série",
+    "valid": true
+  },
+  {
+    "surface": "réflexions",
+    "valid": true
+  },
+  {
+    "surface": "La rupture esthétique",
+    "valid": true
+  },
+  {
+    "surface": "l'héterogénité",
+    "valid": false,
+    "reason": "拼写错误/非标准词形"
+  },
+  {
+    "surface": "une héterogénité",
+    "valid": false,
+    "reason": "拼写错误/非标准词形"
+  },
+  {
+    "surface": "les « polyphonisiert",
+    "valid": false,
+    "reason": "含引号标点碎片与外来词形"
+  },
+  {
+    "surface": "Bakhtein",
+    "valid": true
+  },
+  {
+    "surface": "transversalisiert",
+    "valid": false,
+    "reason": "非标准法语词形"
+  },
+  {
+    "surface": "leurs divers niveaux",
+    "valid": true
+  },
+  {
+    "surface": "diterritorialisation",
+    "valid": false,
+    "reason": "拼写错误，应为déterritorialisation"
+  },
+  {
+    "surface": "Pierre Klossowski, le frère de Balthus, bien montré",
+    "valid": false,
+    "reason": "含标点与副词短语，非单一名词短语"
+  },
+  {
+    "surface": "un commentaire",
+    "valid": true
+  },
+  {
+    "surface": "ces toiles",
+    "valid": true
+  },
+  {
+    "surface": "une telle suspension esthétique",
+    "valid": true
+  },
+  {
+    "surface": "la parole «",
+    "valid": false,
+    "reason": "含引号标点碎片"
+  },
+  {
+    "surface": "expression non discursif",
+    "valid": true
+  },
+  {
+    "surface": "le tempi",
+    "valid": true
+  },
+  {
+    "surface": "la existence",
+    "valid": true
+  },
+  {
+    "surface": "omniprésente",
+    "valid": true
+  },
+  {
+    "surface": "la perspective peinte",
+    "valid": true
+  },
+  {
+    "surface": "l'objet proche",
+    "valid": true
+  },
+  {
+    "surface": "et le \"fond",
+    "valid": false,
+    "reason": "含连词与引号标点碎片"
+  },
+  {
+    "surface": "que division",
+    "valid": false,
+    "reason": "含连词/关系代词，非名词短语"
+  },
+  {
+    "surface": "une même surface",
+    "valid": true
+  },
+  {
+    "surface": "une opération phatique",
+    "valid": true
+  },
+  {
+    "surface": "travers elle",
+    "valid": false,
+    "reason": "介词与代词组合，非名词"
+  },
+  {
+    "surface": "dissolutions",
+    "valid": true
+  },
+  {
+    "surface": "schémes perceptifs",
+    "valid": false,
+    "reason": "拼写错误，应为schémas"
+  },
+  {
+    "surface": "détournements",
+    "valid": true
+  },
+  {
+    "surface": "nouvelles découps",
+    "valid": false,
+    "reason": "拼写错误，应为découpes"
+  },
+  {
+    "surface": "la gesticulation",
+    "valid": true
+  },
+  {
+    "surface": "de certaines personages",
+    "valid": false,
+    "reason": "介词短语且拼写错误"
+  },
+  {
+    "surface": "avec l'allure",
+    "valid": false,
+    "reason": "介词短语，非名词"
+  },
+  {
+    "surface": "piece",
+    "valid": true
+  },
+  {
+    "surface": "leurs silhouettes",
+    "valid": true
+  },
+  {
+    "surface": "Ces éléments plastiques",
+    "valid": true
+  },
+  {
+    "surface": "toile",
+    "valid": true
+  },
+  {
+    "surface": "l'interpeller",
+    "valid": false,
+    "reason": "动词不定式"
+  },
+  {
+    "surface": "une complicité",
+    "valid": true
+  },
+  {
+    "surface": "ce lien",
+    "valid": true
+  },
+  {
+    "surface": "ce même personage",
+    "valid": true
+  },
+  {
+    "surface": "second plan",
+    "valid": true
+  },
+  {
+    "surface": "Mais la participation",
+    "valid": false,
+    "reason": "含连词，非独立名词短语"
+  },
+  {
+    "surface": "oin",
+    "valid": false,
+    "reason": "拼写碎片/非标准词形"
+  },
+  {
+    "surface": "la scène elle-même",
+    "valid": true
+  },
+  {
+    "surface": "d'une sorte",
+    "valid": false,
+    "reason": "介词短语，非名词"
+  },
+  {
+    "surface": "voyance substantif",
+    "valid": true
+  },
+  {
+    "surface": "Notre propre regard",
+    "valid": true
+  },
+  {
+    "surface": ", fonctionne",
+    "valid": false,
+    "reason": "含标点与动词变位"
+  },
+  {
+    "surface": "une courroie",
+    "valid": true
+  },
+  {
+    "surface": "Un curieux rapport",
+    "valid": true
+  },
+  {
+    "surface": "inter-subjectivité",
+    "valid": true
+  },
+  {
+    "surface": "transhumaure-transmachinique",
+    "valid": false,
+    "reason": "拼写错误/非标准词形"
+  },
+  {
+    "surface": "les éléments plastiques",
+    "valid": true
+  },
+  {
+    "surface": "cette fonction phatique",
+    "valid": true
+  },
+  {
+    "surface": "des contenus significatifs",
+    "valid": true
+  },
+  {
+    "surface": ", deelle",
+    "valid": false,
+    "reason": "含标点与拼写错误"
+  },
+  {
+    "surface": "les harmoniques",
+    "valid": true
+  },
+  {
+    "surface": ", de forme",
+    "valid": false,
+    "reason": "含标点与介词短语"
+  },
+  {
+    "surface": "de couleur",
+    "valid": false,
+    "reason": "介词短语，非名词"
+  },
+  {
+    "surface": "les indices",
+    "valid": true
+  },
+  {
+    "surface": "Laissons",
+    "valid": false,
+    "reason": "动词变位形式"
+  },
+  {
+    "surface": "cette qualification",
+    "valid": true
+  },
+  {
+    "surface": "Pierre Klossowski, de l'expression picture",
+    "valid": false,
+    "reason": "含标点与介词短语，非单一名词短语"
+  },
+  {
+    "surface": "terminologie",
+    "valid": true
+  },
+  {
+    "surface": "l'énoncipation",
+    "valid": false,
+    "reason": "拼写错误，应为énonciation"
+  },
+  {
+    "surface": "une œuvre peinte",
+    "valid": true
+  },
+  {
+    "surface": "son contenu",
+    "valid": true
+  },
+  {
+    "surface": "Tout le problème",
+    "valid": true
+  },
+  {
+    "surface": "les opérateurs concrets",
+    "valid": true
+  },
+  {
+    "surface": "Klossowski",
+    "valid": true
+  },
+  {
+    "surface": "la possible accession",
+    "valid": true
+  },
+  {
+    "surface": "la peinture",
+    "valid": true
+  },
+  {
+    "surface": "coordonnées spatio",
+    "valid": false,
+    "reason": "截断/不完整词形"
+  },
+  {
+    "surface": "La seconde version balthusienne",
+    "valid": true
+  },
+  {
+    "surface": "*La rue",
+    "valid": false,
+    "reason": "含星号标点碎片"
+  },
+  {
+    "surface": "deux autres caractéristiques importantes",
+    "valid": true
+  },
+  {
+    "surface": "Agencements esthetiques",
+    "valid": true
+  },
+  {
+    "surface": "Jakobson",
+    "valid": true
+  },
+  {
+    "surface": "La seconde caractéristique",
+    "valid": true
+  },
+  {
+    "surface": "la fonction existente",
+    "valid": true
+  }
+]

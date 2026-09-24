@@ -1,0 +1,36 @@
+{
+  "questionId": "Z3-Q1",
+  "question": "比较Pierre Janet、Freud、Karl Jaspers对无意识的理解有何异同？",
+  "group": "实验组一（纯文表+CoT）",
+  "model": "deepseek-flash",
+  "endpoint": "https://api.deepseek.com",
+  "thinking": "high",
+  "materialSource": "纯文表全部chunk（不经noun recall）",
+  "totalChunksAvailable": 1446,
+  "chunksUsedInPrompt": 1446,
+  "elapsedSecs": 49.7,
+  "elapsedMs": 49655,
+  "promptLengthChars": 597803,
+  "tokenUsage": {
+    "prompt_tokens": 165676,
+    "completion_tokens": 8895,
+    "total_tokens": 174571,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 6844
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 165676
+  },
+  "cache": {
+    "promptTokens": 165676,
+    "cacheHit": 0,
+    "cacheMiss": 165676,
+    "cacheHitRatePct": 0
+  },
+  "truncated": false,
+  "systemFingerprint": null,
+  "llmOutput": "说明：给定材料对 Pierre Janet 和 Karl Jaspers 的直接论述极少，最关键的是【【1208】】将三人并置；对 Freud 的论述则较分散。以下路径严格在材料边界内作重构比较，不引入材料外学说。\n\n# 路径一：并置文本中的三副面孔\n\n步骤1：使用【【1208】】，提取：材料把“Pierre Janet 的心理自动症中的症状性重复/ritournelles”、“Karl Jaspers 的原发性妄想体验”、“Freud 的幻想性无意识”并列。\n\n步骤2：综合【【1208】】后半段，三者都可被当作“不可移动的事实”，也可被分析-伦理-社会实践重新打开可能领域；Freud 主义起源曾通过自由联想、暗示、移情等，让梦与病理 ritournelles 在情感内容上重新运作，后来却被结构化缩减为能指乃至 mathème。\n\n步骤3：对比三者对象：Janet 对应 automatismes psychologiques，即心理自动症中的症状性循环；Jaspers 对应 expériences délirantes primaires，即原发妄想体验；Freud 对应 inconscient fantasmatique，即幻想性无意识。\n\n结论：在给定材料中，三者的共同点是都把“无意识/类无意识”放在症状、妄想、梦等异常心理产物中考察；差异是理论装置不同：Janet 偏心理自动症与症状重复，Jaspers 偏原发妄想体验，Freud 偏幻想性无意识及可解释、可转移的情感剧场。\n\n# 路径二：Freud 的拓扑-动力模型与 Janet/Jaspers 的描述性位置\n\n步骤1：使用【【159】】，Freud 试图给心理学以科学基础，引入抽象量，放弃古典“灵魂能力”，把心理去领土化，置于一个不可定位的无意识“场景”上。\n\n步骤2：综合【【253】】【【254】】，Freud 第一拓扑为 Inconscient-Préconscient-Conscient，第二拓扑转为 Ça-Moi-Surmoi；能量隐喻后来让位于更拟人化的模型。\n\n步骤3：使用【【166】】，Freud 的无意识可被构成为虚拟可能性的 Univers，也可被构成为被压抑物的 territory-refuge。\n\n步骤4：综合【【1208】】，Janet 和 Jaspers 在材料中没有这种拓扑、动力和经济结构，只作为“心理自动症”和“原发妄想体验”出现。\n\n结论：Freud 的无意识是系统性、地形学-动力学-经济学概念；Janet 更接近自动症-症状学，Jaspers 更接近现象学-体验描述。共同点是都处理非意识或异常心理现象，差异是 Freud 将其理论化为“无意识系统”，另两人在材料中未被这样理论化。\n\n# 路径三：现象学精神病学 vs 自动症精神病学 vs 精神分析解释\n\n步骤1：使用【【944】】，现象学精神病学区分“症状”与“现象”：症状带有躯体/行为事实性，现象则具有被体验的结构。\n\n步骤2：使用【【1208】】，Jaspers 对应“原发妄想体验”，可放在“现象/体验”一侧；Janet 对应“心理自动症”中的症状性 ritournelles，可放在“症状/自动机制”一侧。\n\n步骤3：综合【【1208】】，Freud 则把梦和病理 ritournelles 放入自由联想、暗示、移情等 Agencement，让情感内容重新运作；后来被结构化缩减为能指。\n\n步骤4：对比【【944】】【【1208】】，Jaspers 接近理解/描述体验，Janet 接近解释/分类自动机制，Freud 接近动力解释和转移。\n\n结论：Jaspers 与无意识相关的理解若存在，也落在现象学体验的边界；Janet 落在自动症和症状重复；Freud 落在动力无意识和解释实践。三者都关注异常心理，但方法不同：体验描述、自动机制、动力解释。\n\n# 路径四：能量-欲望维度\n\n步骤1：使用【【234】】，材料称 Freud 发明了一种“符号能量学”。\n\n步骤2：综合【【251】】【【253】】【【255】】【【256】】，Freud 的无意识模型把躯体性冲动能量与语言、对象表象、幻想、主体间关系结合。\n\n步骤3：使用【【163】】，Freud 的 libido 在过程性能量与静态能量之间摇摆；Guattari 则以 libido-Phylum / libido-Flux 替换 Freud 式 libido。\n\n步骤4：综合【【1208】】，Janet 的自动症和 Jaspers 的原发妄想体验在材料中没有被赋予这种 libido/能量经济。\n\n结论：Freud 的无意识有经济学/动力学维度；Janet 和 Jaspers 在材料中更少用能量-欲望模型，而偏自动机制或现象体验。共同点是三者都涉及重复、症状、妄想等强度性心理事件，但解释框架不同。\n\n# 路径五：语言、符号与无意识可解释性\n\n步骤1：使用【【1208】】，Freud 的无意识起源涉及语言和图像两种表达材料；后来结构主义化将其缩减为能指，乃至 mathème。\n\n步骤2：使用【【204】】，Freud 使无意识逻辑依赖主导表象逻辑，解释被赋予把原发过程翻译为继发过程的任务，从而失去其特异性。\n\n步骤3：综合【【1076】】【【1077】】，梦的无意义可通过断裂、语义增殖、语用诱导成为对主导意义和规范的 bifurcation；材料主张无意识应开放未来，并扩展到异质符号成分。\n\n步骤4：对比【【1208】】，Janet 的 automatismes 和 Jaspers 的 expériences délirantes primaires 在材料中不是以语言/能指链条来定义，而是以自动症和体验来定义。\n\n结论：Freud 的无意识，尤其被结构主义化后，与语言、符号、解释紧密相关；Janet 和 Jaspers 在材料中更接近非语言中心的症状自动性或体验现象。共同点是三者都涉及意义断裂，但语言地位不同。\n\n# 路径六：Guattari 的去本质化比较\n\n步骤1：使用【【85】】，Guattari 试图从精神分析废墟中保留可重新思考之物，寻找比弗洛伊德派和拉康派更少还原的框架。\n\n步骤2：使用【【94】】，他避免陷入“无意识”概念，避免把主体性事实还原为冲动、情感、主体内 instances 和主体间关系，而转向 Agencements d’énonciation。\n\n步骤3：使用【【90】】，他要把分析问题从既定陈述系统和预成主体结构，转移到能锻造新阅读坐标、使新表象和命题存在的 Agencements d’énonciation。\n\n步骤4：综合【【1208】】，Janet 的自动症、Jaspers 的原发妄想、Freud 的幻想无意识都只是历史性的 ritournelles / Agencements；它们可被固定化，也可被重新打开。\n\n结论：从 Guattari 的元理论看，三者的“无意识”不是同一实体：Janet 是自动症-症状循环，Jaspers 是原发妄想体验，Freud 是幻想无意识；共同点是都可被去本质化为生产主体性的 Agencements，差异在于它们分别被配置在自动机制、体验现象和幻想-解释系统之中。\n\n# 路径七：无意识与意识/主体性的关系\n\n步骤1：使用【【124】】，Freud 区分 Inconscient / Conscient，后来发展为 Ça / Moi / Surmoi；Lacan 则建立 Symbolique 作为 Réel 和 Imaginaire 的骨架。\n\n步骤2：使用【【125】】，材料主张不要重新建立“原发过程-继发加工”的二元对立，也不要把它建立在 Freud 第二拓扑式的层级断裂上。\n\n步骤3：综合【【1208】】【【944】】，Janet 的“心理自动症”和 Jaspers 的“原发妄想体验”都不是以意识/无意识拓扑来定义，而是分别以自动机制和现象学体验来定位。\n\n结论：Freud 的无意识是相对于意识系统而建立的地形学概念；Janet 和 Jaspers 在给定材料中更接近描述自动性或体验病理，而非建立意识/无意识拓扑。共同点是三者都挑战了清晰、透明、自主的意识主体；差异是 Freud 将其系统化，Janet 和 Jaspers 在材料中更多停留在症状-自动机制或体验现象层面。\n\n总体综合：在给定材料中，最可靠的直接比较点是【【1208】】。它显示：Freud 拥有最系统的“幻想性无意识”理论，并牵涉 libido、拓扑、梦、症状、语言/图像等；Janet 被放在“心理自动症”与症状性重复一侧；Jaspers 被放在“原发妄想体验”一侧。三者共同关注异常心理产物，但 Freud 偏动力-解释-无意识系统，Janet 偏自动症-症状机制，Jaspers 偏现象学-体验描述。若按 Guattari 的视角，三者的“无意识”都应被去本质化，视为可重新配置的 Agencements d’énonciation。"
+}

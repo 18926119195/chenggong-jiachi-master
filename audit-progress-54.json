@@ -1,0 +1,950 @@
+[
+  {
+    "surface": "la *remontée",
+    "valid": false,
+    "reason": "包含冠词和符号，非单一实词"
+  },
+  {
+    "surface": "un reste",
+    "valid": false,
+    "reason": "包含冠词，非单一实词"
+  },
+  {
+    "surface": "une-",
+    "valid": false,
+    "reason": "冠词加连字符碎片"
+  },
+  {
+    "surface": "valence",
+    "valid": true
+  },
+  {
+    "surface": "l'effet synaptique",
+    "valid": false,
+    "reason": "包含冠词和名词短语，非单一实词"
+  },
+  {
+    "surface": "déclencheurs",
+    "valid": true
+  },
+  {
+    "surface": "Oui chose",
+    "valid": false,
+    "reason": "包含感叹词，非单一实词"
+  },
+  {
+    "surface": "un nom prophe",
+    "valid": false,
+    "reason": "包含冠词，非单一实词"
+  },
+  {
+    "surface": "des déclencheurs",
+    "valid": false,
+    "reason": "包含冠词，非单一实词"
+  },
+  {
+    "surface": "iterorialisées",
+    "valid": false,
+    "reason": "疑似拼写错误或非标准词形"
+  },
+  {
+    "surface": "l'énonction",
+    "valid": false,
+    "reason": "包含冠词且拼写疑似错误"
+  },
+  {
+    "surface": ", à ce titre",
+    "valid": false,
+    "reason": "标点加介词短语"
+  },
+  {
+    "surface": "un référent",
+    "valid": false,
+    "reason": "包含冠词，非单一实词"
+  },
+  {
+    "surface": "pour un récepteur",
+    "valid": false,
+    "reason": "介词短语"
+  },
+  {
+    "surface": "le lui le impose le statut ontologique",
+    "valid": false,
+    "reason": "完整短语，非单一实词"
+  },
+  {
+    "surface": "Propositions synaptiques",
+    "valid": true
+  },
+  {
+    "surface": "une pseudororganisation",
+    "valid": false,
+    "reason": "包含冠词，非单一实词"
+  },
+  {
+    "surface": "une dis-",
+    "valid": false,
+    "reason": "冠词加碎片"
+  },
+  {
+    "surface": "formation virtuelle",
+    "valid": true
+  },
+  {
+    "surface": "cette supposition",
+    "valid": false,
+    "reason": "包含指示代词，非单一实词"
+  },
+  {
+    "surface": "l'effet",
+    "valid": false,
+    "reason": "包含冠词，非单一实词"
+  },
+  {
+    "surface": "- alors la Constellation virtuelle",
+    "valid": false,
+    "reason": "连词加冠词短语"
+  },
+  {
+    "surface": "son flou d*=",
+    "valid": false,
+    "reason": "包含限定词和符号"
+  },
+  {
+    "surface": "de la dis",
+    "valid": false,
+    "reason": "介词加冠词碎片"
+  },
+  {
+    "surface": "une instanciation d*= et une dis",
+    "valid": false,
+    "reason": "完整短语含符号"
+  },
+  {
+    "surface": "tanciation d*=.",
+    "valid": false,
+    "reason": "碎片含符号"
+  },
+  {
+    "surface": "La virtualité *",
+    "valid": false,
+    "reason": "冠词加符号"
+  },
+  {
+    "surface": "le fantome",
+    "valid": false,
+    "reason": "包含冠词，非单一实词"
+  },
+  {
+    "surface": "l'etat stratifié des entités",
+    "valid": false,
+    "reason": "冠词加名词短语"
+  },
+  {
+    "surface": "un fantome",
+    "valid": false,
+    "reason": "包含冠词，非单一实词"
+  },
+  {
+    "surface": "baroque",
+    "valid": true
+  },
+  {
+    "surface": "des métamorphoses topologiques",
+    "valid": false,
+    "reason": "包含冠词，非单一实词"
+  },
+  {
+    "surface": "infinies",
+    "valid": true
+  },
+  {
+    "surface": "ouvriers",
+    "valid": true
+  },
+  {
+    "surface": "mariages",
+    "valid": true
+  },
+  {
+    "surface": "- type",
+    "valid": false,
+    "reason": "连字符加名词碎片"
+  },
+  {
+    "surface": "rapports *",
+    "valid": false,
+    "reason": "名词加符号"
+  },
+  {
+    "surface": "güpe",
+    "valid": false,
+    "reason": "疑似拼写错误"
+  },
+  {
+    "surface": "orchidee",
+    "valid": true
+  },
+  {
+    "surface": "la Rhizome",
+    "valid": false,
+    "reason": "包含冠词，非单一实词"
+  },
+  {
+    "surface": "la determinabilité d*= *",
+    "valid": false,
+    "reason": "冠词加符号"
+  },
+  {
+    "surface": "la mélibert",
+    "valid": false,
+    "reason": "包含冠词且疑似非标准词"
+  },
+  {
+    "surface": "intervallisibilie",
+    "valid": false,
+    "reason": "疑似拼写错误或非标准词"
+  },
+  {
+    "surface": "constantes",
+    "valid": true
+  },
+  {
+    "surface": "Avogadro",
+    "valid": true
+  },
+  {
+    "surface": "Les changements",
+    "valid": false,
+    "reason": "包含冠词，非单一实词"
+  },
+  {
+    "surface": "chimique",
+    "valid": true
+  },
+  {
+    "surface": "des transferts",
+    "valid": false,
+    "reason": "包含冠词，非单一实词"
+  },
+  {
+    "surface": "bassin",
+    "valid": true
+  },
+  {
+    "surface": "ne seront pas interditis",
+    "valid": false,
+    "reason": "完整动词短语"
+  },
+  {
+    "surface": "un tout autre deenergies",
+    "valid": false,
+    "reason": "包含冠词和碎片"
+  },
+  {
+    "surface": "proto-energie",
+    "valid": true
+  },
+  {
+    "surface": "A travers le fantasie",
+    "valid": false,
+    "reason": "介词加冠词短语"
+  },
+  {
+    "surface": "le complexe",
+    "valid": false,
+    "reason": "包含冠词，非单一实词"
+  },
+  {
+    "surface": ", l'archétype",
+    "valid": false,
+    "reason": "标点加冠词"
+  },
+  {
+    "surface": "cette nature",
+    "valid": false,
+    "reason": "包含指示代词，非单一实词"
+  },
+  {
+    "surface": "leurs pieds restaient",
+    "valid": false,
+    "reason": "完整短语"
+  },
+  {
+    "surface": "la glaise libidinale",
+    "valid": false,
+    "reason": "包含冠词，非单一实词"
+  },
+  {
+    "surface": "des determinations",
+    "valid": false,
+    "reason": "包含冠词，非单一实词"
+  },
+  {
+    "surface": "nom",
+    "valid": true
+  },
+  {
+    "surface": "l'hyper-complexité",
+    "valid": false,
+    "reason": "包含冠词，非单一实词"
+  },
+  {
+    "surface": "certaines Propositions machiniques",
+    "valid": false,
+    "reason": "包含限定词，非单一实词"
+  },
+  {
+    "surface": "les fonctions significantes et diagrammatiques",
+    "valid": false,
+    "reason": "冠词加连词短语"
+  },
+  {
+    "surface": "deux fonctions ennocissibles pathémiques et existentiels",
+    "valid": false,
+    "reason": "完整短语"
+  },
+  {
+    "surface": "Cet embrayage",
+    "valid": false,
+    "reason": "包含指示代词，非单一实词"
+  },
+  {
+    "surface": "une chose toute simple",
+    "valid": false,
+    "reason": "包含冠词，非单一实词"
+  },
+  {
+    "surface": ", toute primaire",
+    "valid": false,
+    "reason": "标点加限定词"
+  },
+  {
+    "surface": "un compte",
+    "valid": false,
+    "reason": "包含冠词，非单一实词"
+  },
+  {
+    "surface": "un bouton",
+    "valid": false,
+    "reason": "包含冠词，非单一实词"
+  },
+  {
+    "surface": "la décisionnalité élémentaire",
+    "valid": false,
+    "reason": "包含冠词，非单一实词"
+  },
+  {
+    "surface": "le relief réel",
+    "valid": false,
+    "reason": "包含冠词，非单一实词"
+  },
+  {
+    "surface": "franchissement",
+    "valid": true
+  },
+  {
+    "surface": "la disposition",
+    "valid": false,
+    "reason": "包含冠词，非单一实词"
+  },
+  {
+    "surface": "la synapse",
+    "valid": false,
+    "reason": "包含冠词，非单一实词"
+  },
+  {
+    "surface": "son caractère",
+    "valid": false,
+    "reason": "包含限定词，非单一实词"
+  },
+  {
+    "surface": "catalyse a-signifiante",
+    "valid": true
+  },
+  {
+    "surface": "une procédure auto-énoncivale",
+    "valid": false,
+    "reason": "包含冠词，非单一实词"
+  },
+  {
+    "surface": "un autre angle",
+    "valid": false,
+    "reason": "包含冠词，非单一实词"
+  },
+  {
+    "surface": "Tout vient",
+    "valid": false,
+    "reason": "完整短语"
+  },
+  {
+    "surface": "la référence ultime",
+    "valid": false,
+    "reason": "包含冠词，非单一实词"
+  },
+  {
+    "surface": "fête",
+    "valid": true
+  },
+  {
+    "surface": "d'Altérité absolument constante",
+    "valid": false,
+    "reason": "介词加短语"
+  },
+  {
+    "surface": "relativisme",
+    "valid": true
+  },
+  {
+    "surface": "l'Altérité",
+    "valid": false,
+    "reason": "包含冠词，非单一实词"
+  },
+  {
+    "surface": "une ennouncement différentiel",
+    "valid": false,
+    "reason": "包含冠词且拼写疑似错误"
+  },
+  {
+    "surface": "fragments enonciatif",
+    "valid": true
+  },
+  {
+    "surface": "épars",
+    "valid": true
+  },
+  {
+    "surface": "leurs les coins",
+    "valid": false,
+    "reason": "限定词加冠词短语"
+  },
+  {
+    "surface": "une auto-organisation",
+    "valid": false,
+    "reason": "包含冠词，非单一实词"
+  },
+  {
+    "surface": "les formalistes russes",
+    "valid": false,
+    "reason": "包含冠词，非单一实词"
+  },
+  {
+    "surface": "décret",
+    "valid": true
+  },
+  {
+    "surface": "l'importance",
+    "valid": false,
+    "reason": "包含冠词，非单一实词"
+  },
+  {
+    "surface": "décrochement",
+    "valid": true
+  },
+  {
+    "surface": "la forme *",
+    "valid": false,
+    "reason": "冠词加符号"
+  },
+  {
+    "surface": "praxis",
+    "valid": true
+  },
+  {
+    "surface": "obscurcire",
+    "valid": false,
+    "reason": "疑似拼写错误"
+  },
+  {
+    "surface": "la difficulté",
+    "valid": false,
+    "reason": "包含冠词，非单一实词"
+  },
+  {
+    "surface": "brief",
+    "valid": true
+  },
+  {
+    "surface": "tous procédés",
+    "valid": false,
+    "reason": "包含限定词，非单一实词"
+  },
+  {
+    "surface": "matériau",
+    "valid": true
+  },
+  {
+    "surface": "le décollage",
+    "valid": false,
+    "reason": "包含冠词，非单一实词"
+  },
+  {
+    "surface": "une ennouncement",
+    "valid": false,
+    "reason": "包含冠词且拼写疑似错误"
+  },
+  {
+    "surface": "l'Étre",
+    "valid": false,
+    "reason": "包含冠词，非单一实词"
+  },
+  {
+    "surface": "du Sens",
+    "valid": false,
+    "reason": "包含缩合冠词，非单一实词"
+  },
+  {
+    "surface": "A.D.",
+    "valid": false,
+    "reason": "缩写或符号"
+  },
+  {
+    "surface": "les non-sens",
+    "valid": false,
+    "reason": "包含冠词，非单一实词"
+  },
+  {
+    "surface": "un usage possible",
+    "valid": false,
+    "reason": "包含冠词，非单一实词"
+  },
+  {
+    "surface": "plus anciennes formes",
+    "valid": false,
+    "reason": "副词加名词短语"
+  },
+  {
+    "surface": "Ruptures syntagmatiques",
+    "valid": true
+  },
+  {
+    "surface": ", inductions",
+    "valid": false,
+    "reason": "标点加名词"
+  },
+  {
+    "surface": "il n'est aucun domaine",
+    "valid": false,
+    "reason": "完整短语"
+  },
+  {
+    "surface": "significations",
+    "valid": true
+  },
+  {
+    "surface": "des normes",
+    "valid": false,
+    "reason": "包含冠词，非单一实词"
+  },
+  {
+    "surface": "veille",
+    "valid": true
+  },
+  {
+    "surface": "Mon propos",
+    "valid": false,
+    "reason": "包含限定词，非单一实词"
+  },
+  {
+    "surface": "deux logiques",
+    "valid": true
+  },
+  {
+    "surface": "refulement",
+    "valid": false,
+    "reason": "疑似拼写错误"
+  },
+  {
+    "surface": "composantes sémiotiques hétérogéniques",
+    "valid": true
+  },
+  {
+    "surface": "les distorsions significantes",
+    "valid": false,
+    "reason": "包含冠词，非单一实词"
+  },
+  {
+    "surface": "une interprétation",
+    "valid": false,
+    "reason": "包含冠词，非单一实词"
+  },
+  {
+    "surface": "machinique",
+    "valid": true
+  },
+  {
+    "surface": "Les objets partiels",
+    "valid": false,
+    "reason": "包含冠词，非单一实词"
+  },
+  {
+    "surface": "travailnent",
+    "valid": false,
+    "reason": "疑似拼写错误"
+  },
+  {
+    "surface": "une castration symbolique",
+    "valid": false,
+    "reason": "包含冠词，非单一实词"
+  },
+  {
+    "surface": "brisure",
+    "valid": true
+  },
+  {
+    "surface": ", n'est qu'une manifestation",
+    "valid": false,
+    "reason": "标点加完整短语"
+  },
+  {
+    "surface": "une subjection",
+    "valid": false,
+    "reason": "包含冠词，非单一实词"
+  },
+  {
+    "surface": "l'état naissant",
+    "valid": false,
+    "reason": "包含冠词，非单一实词"
+  },
+  {
+    "surface": "cette problematique",
+    "valid": false,
+    "reason": "包含指示代词，非单一实词"
+  },
+  {
+    "surface": "mes propres réimports",
+    "valid": false,
+    "reason": "包含限定词，非单一实词"
+  },
+  {
+    "surface": "un hologramme",
+    "valid": false,
+    "reason": "包含冠词，非单一实词"
+  },
+  {
+    "surface": "nombreuses sur-determinations",
+    "valid": true
+  },
+  {
+    "surface": "tous les carrefours importants",
+    "valid": false,
+    "reason": "限定词加冠词短语"
+  },
+  {
+    "surface": "mon existence",
+    "valid": false,
+    "reason": "包含限定词，非单一实词"
+  },
+  {
+    "surface": "Les dimensions énonciatives",
+    "valid": false,
+    "reason": "包含冠词，非单一实词"
+  },
+  {
+    "surface": "f(exi)pathétique",
+    "valid": false,
+    "reason": "公式符号加词"
+  },
+  {
+    "surface": "f(syn)dynamatique",
+    "valid": false,
+    "reason": "公式符号加词"
+  },
+  {
+    "surface": "f(diag)causalitématerielleefficientefinaleformelleréférence",
+    "valid": false,
+    "reason": "公式符号加拼接词"
+  },
+  {
+    "surface": "mythographiqueAnankéHubrisMotraDikédéterminabilitéd*+/d",
+    "valid": false,
+    "reason": "拼接词含符号"
+  },
+  {
+    "surface": "mon premier mouvement",
+    "valid": false,
+    "reason": "包含限定词，非单一实词"
+  },
+  {
+    "surface": "une prétendue jalousie de Yasha",
+    "valid": false,
+    "reason": "包含冠词和介词短语"
+  },
+  {
+    "surface": "son épouse",
+    "valid": false,
+    "reason": "包含限定词，非单一实词"
+  },
+  {
+    "surface": "mes bras",
+    "valid": false,
+    "reason": "包含限定词，非单一实词"
+  },
+  {
+    "surface": "## TEXTE DU RÊVE",
+    "valid": false,
+    "reason": "标题符号和短语"
+  },
+  {
+    "surface": "compagnie",
+    "valid": true
+  },
+  {
+    "surface": "Yascha David et de son épouse jés s dors une maison A",
+    "valid": false,
+    "reason": "完整句子"
+  },
+  {
+    "surface": "une grande place rectangulaire",
+    "valid": false,
+    "reason": "包含冠词，非单一实词"
+  },
+  {
+    "surface": "un gros bourg",
+    "valid": false,
+    "reason": "包含冠词，非单一实词"
+  },
+  {
+    "surface": "province",
+    "valid": true
+  },
+  {
+    "surface": "qu'à une ville importante",
+    "valid": false,
+    "reason": "连词加冠词短语"
+  },
+  {
+    "surface": "les deux cotes",
+    "valid": false,
+    "reason": "包含冠词，非单一实词"
+  },
+  {
+    "surface": "les plus longs",
+    "valid": false,
+    "reason": "冠词加副词短语"
+  },
+  {
+    "surface": "cette place",
+    "valid": false,
+    "reason": "包含指示代词，非单一实词"
+  },
+  {
+    "surface": "les deux cotes les plus courts",
+    "valid": false,
+    "reason": "冠词加完整短语"
+  },
+  {
+    "surface": "un circuit",
+    "valid": false,
+    "reason": "包含冠词，非单一实词"
+  },
+  {
+    "surface": "les trois quarts",
+    "valid": false,
+    "reason": "包含冠词，非单一实词"
+  },
+  {
+    "surface": "COMMENTAIRE",
+    "valid": true
+  },
+  {
+    "surface": "ASSOCIATIF",
+    "valid": true
+  },
+  {
+    "surface": "ET DÉVELOPEMENTS",
+    "valid": false,
+    "reason": "连词加名词"
+  },
+  {
+    "surface": "Yasha David",
+    "valid": true
+  },
+  {
+    "surface": "un intellectuel tchéque",
+    "valid": false,
+    "reason": "包含冠词，非单一实词"
+  },
+  {
+    "surface": "plus d'un an",
+    "valid": false,
+    "reason": "副词加冠词短语"
+  },
+  {
+    "surface": "la réalisation",
+    "valid": false,
+    "reason": "包含冠词，非单一实词"
+  },
+  {
+    "surface": "le centenaire",
+    "valid": false,
+    "reason": "包含冠词，非单一实词"
+  },
+  {
+    "surface": "Kafka",
+    "valid": true
+  },
+  {
+    "surface": "telles difficultés",
+    "valid": false,
+    "reason": "包含限定词，非单一实词"
+  },
+  {
+    "surface": "les responsables",
+    "valid": false,
+    "reason": "包含冠词，非单一实词"
+  },
+  {
+    "surface": "Pompidou",
+    "valid": true
+  },
+  {
+    "surface": "plusieurs reprises",
+    "valid": true
+  },
+  {
+    "surface": "L'epouse",
+    "valid": false,
+    "reason": "包含冠词，非单一实词"
+  },
+  {
+    "surface": "mon automobile",
+    "valid": false,
+    "reason": "包含限定词，非单一实词"
+  },
+  {
+    "surface": "regarde",
+    "valid": false,
+    "reason": "动词变位"
+  },
+  {
+    "surface": "Yasha croit se souvenir de l'endroit où elle est.",
+    "valid": false,
+    "reason": "完整句子"
+  },
+  {
+    "surface": "Sa femme",
+    "valid": false,
+    "reason": "包含限定词，非单一实词"
+  },
+  {
+    "surface": "ma recherche",
+    "valid": false,
+    "reason": "包含限定词，非单一实词"
+  },
+  {
+    "surface": "la partie",
+    "valid": false,
+    "reason": "包含冠词，非单一实词"
+  },
+  {
+    "surface": "l'envie",
+    "valid": false,
+    "reason": "包含冠词，非单一实词"
+  },
+  {
+    "surface": "Yasha",
+    "valid": true
+  },
+  {
+    "surface": "le succès",
+    "valid": false,
+    "reason": "包含冠词，非单一实词"
+  },
+  {
+    "surface": "notre entreprise commune",
+    "valid": false,
+    "reason": "包含限定词，非单一实词"
+  },
+  {
+    "surface": "la phrase",
+    "valid": false,
+    "reason": "包含冠词，非单一实词"
+  },
+  {
+    "surface": "Gilles",
+    "valid": true
+  },
+  {
+    "surface": "risques",
+    "valid": true
+  },
+  {
+    "surface": "nous étions au",
+    "valid": false,
+    "reason": "完整短语"
+  },
+  {
+    "surface": "bord",
+    "valid": true
+  },
+  {
+    "surface": "un gouffre",
+    "valid": false,
+    "reason": "包含冠词，非单一实词"
+  },
+  {
+    "surface": "accrochés",
+    "valid": true
+  },
+  {
+    "surface": "la paroi",
+    "valid": false,
+    "reason": "包含冠词，非单一实词"
+  },
+  {
+    "surface": "un elan",
+    "valid": false,
+    "reason": "包含冠词，非单一实词"
+  },
+  {
+    "surface": "sympathie",
+    "valid": true
+  },
+  {
+    "surface": "connais",
+    "valid": false,
+    "reason": "动词变位"
+  },
+  {
+    "surface": "ce reve",
+    "valid": false,
+    "reason": "包含指示代词，非单一实词"
+  },
+  {
+    "surface": "l'épouse",
+    "valid": false,
+    "reason": "包含冠词，非单一实词"
+  },
+  {
+    "surface": "mes amis",
+    "valid": false,
+    "reason": "包含限定词，非单一实词"
+  },
+  {
+    "surface": "Hélène Gallard – dont le prénom s'écrit en réalité",
+    "valid": false,
+    "reason": "完整句子"
+  },
+  {
+    "surface": "Alena",
+    "valid": true
+  },
+  {
+    "surface": "Tchécoslovakia",
+    "valid": true
+  },
+  {
+    "surface": "Kafka – mais uniquement dans sa phase préparatoire",
+    "valid": false,
+    "reason": "专名加完整短语"
+  },
+  {
+    "surface": "épouse",
+    "valid": true
+  },
+  {
+    "surface": "David",
+    "valid": true
+  }
+]

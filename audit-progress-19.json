@@ -1,0 +1,848 @@
+[
+  {
+    "surface": "à la reconfection",
+    "valid": false,
+    "reason": "介词短语，非名词"
+  },
+  {
+    "surface": "une subjectivité",
+    "valid": true
+  },
+  {
+    "surface": "six",
+    "valid": false,
+    "reason": "数词"
+  },
+  {
+    "surface": "quatre",
+    "valid": false,
+    "reason": "数词"
+  },
+  {
+    "surface": "le problème grave",
+    "valid": true
+  },
+  {
+    "surface": "la pénérence surprenante",
+    "valid": true
+  },
+  {
+    "surface": "mytes psychanalytiques",
+    "valid": true
+  },
+  {
+    "surface": "le train",
+    "valid": true
+  },
+  {
+    "surface": "marche",
+    "valid": true
+  },
+  {
+    "surface": "grands",
+    "valid": false,
+    "reason": "形容词"
+  },
+  {
+    "surface": "monothéistes",
+    "valid": false,
+    "reason": "形容词/名词化形容词，非独立名词"
+  },
+  {
+    "surface": "Notre recherche schizoanalytique",
+    "valid": true
+  },
+  {
+    "surface": "tant que corpus",
+    "valid": false,
+    "reason": "连词短语"
+  },
+  {
+    "surface": "représentations personnaliques",
+    "valid": true
+  },
+  {
+    "surface": "inter-subjective",
+    "valid": false,
+    "reason": "形容词"
+  },
+  {
+    "surface": "la triangulation迪pépinienne",
+    "valid": true
+  },
+  {
+    "surface": "que comme activité",
+    "valid": false,
+    "reason": "连词短语"
+  },
+  {
+    "surface": "meta-modélisation",
+    "valid": true
+  },
+  {
+    "surface": "systèmes modernes",
+    "valid": true
+  },
+  {
+    "surface": "d'exploitation",
+    "valid": true
+  },
+  {
+    "surface": "douces",
+    "valid": false,
+    "reason": "形容词"
+  },
+  {
+    "surface": "son exercice élitaire",
+    "valid": true
+  },
+  {
+    "surface": "la scène",
+    "valid": true
+  },
+  {
+    "surface": "divan-",
+    "valid": false,
+    "reason": "标点碎片/截断词"
+  },
+  {
+    "surface": "gagnant",
+    "valid": true
+  },
+  {
+    "surface": "cesse",
+    "valid": false,
+    "reason": "动词变位"
+  },
+  {
+    "surface": "les equipements",
+    "valid": true
+  },
+  {
+    "surface": "Santé",
+    "valid": true
+  },
+  {
+    "surface": "l'université",
+    "valid": true
+  },
+  {
+    "surface": "la mission釉otale",
+    "valid": true
+  },
+  {
+    "surface": "ses chapelles instituées",
+    "valid": true
+  },
+  {
+    "surface": "leurs anciennes responsabilités thérapeutiques",
+    "valid": true
+  },
+  {
+    "surface": "sinon",
+    "valid": false,
+    "reason": "连词"
+  },
+  {
+    "surface": "supervision",
+    "valid": true
+  },
+  {
+    "surface": "directe",
+    "valid": false,
+    "reason": "形容词"
+  },
+  {
+    "surface": "tout le moins de surdécage théologique",
+    "valid": false,
+    "reason": "副词短语"
+  },
+  {
+    "surface": "fonctions",
+    "valid": true
+  },
+  {
+    "surface": "culpabilisation",
+    "valid": true
+  },
+  {
+    "surface": "de normalisation",
+    "valid": true
+  },
+  {
+    "surface": "la psyche collective",
+    "valid": true
+  },
+  {
+    "surface": "travers",
+    "valid": true
+  },
+  {
+    "surface": "relais moleculaires",
+    "valid": true
+  },
+  {
+    "surface": "vagues virales",
+    "valid": true
+  },
+  {
+    "surface": "certaines apparences",
+    "valid": true
+  },
+  {
+    "surface": "retour",
+    "valid": true
+  },
+  {
+    "surface": "une immense régression",
+    "valid": true
+  },
+  {
+    "surface": "spirale",
+    "valid": true
+  },
+  {
+    "surface": "mythes vehicules par la narrativité des médias comme aux références pseudo-scientifiques des opérateurs *psy* » d'exprimer",
+    "valid": false,
+    "reason": "包含标点碎片和动词的破碎片段"
+  },
+  {
+    "surface": "une subjectivité infantile",
+    "valid": true
+  },
+  {
+    "surface": "permanence",
+    "valid": true
+  },
+  {
+    "surface": "la subjectivité adulte",
+    "valid": true
+  },
+  {
+    "surface": ", c'est que ce « doublage",
+    "valid": false,
+    "reason": "标点碎片/从句片段"
+  },
+  {
+    "surface": "une programmation psychogénétique",
+    "valid": true
+  },
+  {
+    "surface": "des « complexes",
+    "valid": true
+  },
+  {
+    "surface": "» universels",
+    "valid": false,
+    "reason": "标点碎片"
+  },
+  {
+    "surface": "de modes particuliers",
+    "valid": true
+  },
+  {
+    "surface": "complémentaire",
+    "valid": false,
+    "reason": "形容词"
+  },
+  {
+    "surface": "les figures productives",
+    "valid": true
+  },
+  {
+    "surface": "série",
+    "valid": true
+  },
+  {
+    "surface": "la télévision",
+    "valid": true
+  },
+  {
+    "surface": "l'élimination",
+    "valid": true
+  },
+  {
+    "surface": "toute singularité *",
+    "valid": false,
+    "reason": "包含标点碎片"
+  },
+  {
+    "surface": "argenteage*",
+    "valid": false,
+    "reason": "包含标点碎片"
+  },
+  {
+    "surface": "un culte",
+    "valid": true
+  },
+  {
+    "surface": "familialisme haut",
+    "valid": true
+  },
+  {
+    "surface": "gamme",
+    "valid": true
+  },
+  {
+    "surface": ", des compulsions",
+    "valid": false,
+    "reason": "标点碎片"
+  },
+  {
+    "surface": "et les modèles structuraux",
+    "valid": false,
+    "reason": "连词短语"
+  },
+  {
+    "surface": "Le trait commun",
+    "valid": true
+  },
+  {
+    "surface": "une correspondance",
+    "valid": true
+  },
+  {
+    "surface": "similitude",
+    "valid": true
+  },
+  {
+    "surface": "procédures",
+    "valid": true
+  },
+  {
+    "surface": "reteritorialisation",
+    "valid": true
+  },
+  {
+    "surface": ", en l'occurrence",
+    "valid": false,
+    "reason": "副词短语"
+  },
+  {
+    "surface": "un progrès",
+    "valid": true
+  },
+  {
+    "surface": "rebours",
+    "valid": true
+  },
+  {
+    "surface": "plattitude",
+    "valid": true
+  },
+  {
+    "surface": "superficialité",
+    "valid": true
+  },
+  {
+    "surface": "Mac Luhan",
+    "valid": true
+  },
+  {
+    "surface": "train",
+    "valid": true
+  },
+  {
+    "surface": "plate",
+    "valid": false,
+    "reason": "形容词"
+  },
+  {
+    "surface": "télé",
+    "valid": true
+  },
+  {
+    "surface": "et Lewis Carol",
+    "valid": false,
+    "reason": "连词短语"
+  },
+  {
+    "surface": "affects plats",
+    "valid": true
+  },
+  {
+    "surface": "Alice",
+    "valid": true
+  },
+  {
+    "surface": "pays merveilles",
+    "valid": true
+  },
+  {
+    "surface": "Le mode",
+    "valid": true
+  },
+  {
+    "surface": "réduction",
+    "valid": true
+  },
+  {
+    "surface": "de la litterature",
+    "valid": true
+  },
+  {
+    "surface": "des médias",
+    "valid": true
+  },
+  {
+    "surface": "médias",
+    "valid": true
+  },
+  {
+    "surface": "Les énergétiques sémiotiques",
+    "valid": true
+  },
+  {
+    "surface": "les fables relatives aux dieux",
+    "valid": true
+  },
+  {
+    "surface": "destin",
+    "valid": true
+  },
+  {
+    "surface": "physiciens",
+    "valid": true
+  },
+  {
+    "surface": "- Épicure",
+    "valid": false,
+    "reason": "标点碎片"
+  },
+  {
+    "surface": "mes propres conceptions",
+    "valid": true
+  },
+  {
+    "surface": "certaines effets invalidants",
+    "valid": true
+  },
+  {
+    "surface": "l'importation",
+    "valid": true
+  },
+  {
+    "surface": "notions thermodynamiques",
+    "valid": true
+  },
+  {
+    "surface": "le cou",
+    "valid": true
+  },
+  {
+    "surface": "génie",
+    "valid": true
+  },
+  {
+    "surface": "une énergétique sémiotique",
+    "valid": true
+  },
+  {
+    "surface": "théorisations",
+    "valid": true
+  },
+  {
+    "surface": "le caractère",
+    "valid": true
+  },
+  {
+    "surface": "tout compte",
+    "valid": false,
+    "reason": "副词短语"
+  },
+  {
+    "surface": "celles",
+    "valid": false,
+    "reason": "代词"
+  },
+  {
+    "surface": "leur suite",
+    "valid": true
+  },
+  {
+    "surface": "l'institutionnalisation",
+    "valid": true
+  },
+  {
+    "surface": "la psychoanalyse",
+    "valid": true
+  },
+  {
+    "surface": "LE SURMOI",
+    "valid": true
+  },
+  {
+    "surface": "ENTROPIQUE",
+    "valid": false,
+    "reason": "形容词"
+  },
+  {
+    "surface": "Marta",
+    "valid": true
+  },
+  {
+    "surface": "la vie psychique",
+    "valid": true
+  },
+  {
+    "surface": "libido sexuelle²",
+    "valid": false,
+    "reason": "包含上标数字"
+  },
+  {
+    "surface": "de l'autre",
+    "valid": true
+  },
+  {
+    "surface": "étabil",
+    "valid": false,
+    "reason": "动词变位"
+  },
+  {
+    "surface": "équivalents",
+    "valid": true
+  },
+  {
+    "surface": "singularités",
+    "valid": true
+  },
+  {
+    "surface": "processus energetiques",
+    "valid": true
+  },
+  {
+    "surface": "causalité mécanique",
+    "valid": true
+  },
+  {
+    "surface": "une base énergétique",
+    "valid": true
+  },
+  {
+    "surface": "des superstructures",
+    "valid": true
+  },
+  {
+    "surface": "les théories",
+    "valid": true
+  },
+  {
+    "surface": "conceptions",
+    "valid": true
+  },
+  {
+    "surface": "aux pratiques",
+    "valid": true
+  },
+  {
+    "surface": "rapprochement",
+    "valid": true
+  },
+  {
+    "surface": "leurs métodes",
+    "valid": true
+  },
+  {
+    "surface": "une influence",
+    "valid": true
+  },
+  {
+    "surface": "un certain parallelisme",
+    "valid": true
+  },
+  {
+    "surface": "les démarches",
+    "valid": true
+  },
+  {
+    "surface": "ma part",
+    "valid": true
+  },
+  {
+    "surface": "infrastructures",
+    "valid": true
+  },
+  {
+    "surface": "mfaits",
+    "valid": true
+  },
+  {
+    "surface": "sciences humaines",
+    "valid": true
+  },
+  {
+    "surface": "leur leviers",
+    "valid": true
+  },
+  {
+    "surface": "les sociétés industrielles",
+    "valid": true
+  },
+  {
+    "surface": "une base énergétique qualifiable",
+    "valid": true
+  },
+  {
+    "surface": "la vraie science",
+    "valid": true
+  },
+  {
+    "surface": "genre",
+    "valid": true
+  },
+  {
+    "surface": "paradigme",
+    "valid": true
+  },
+  {
+    "surface": "un Surmol",
+    "valid": true
+  },
+  {
+    "surface": "principal effect",
+    "valid": true
+  },
+  {
+    "surface": "affigés",
+    "valid": false,
+    "reason": "形容词"
+  },
+  {
+    "surface": "l'incapacité",
+    "valid": true
+  },
+  {
+    "surface": "un mouvement",
+    "valid": true
+  },
+  {
+    "surface": "une transformation",
+    "valid": true
+  },
+  {
+    "surface": ", une alteration",
+    "valid": false,
+    "reason": "标点碎片"
+  },
+  {
+    "surface": "une même économie énergétique",
+    "valid": true
+  },
+  {
+    "surface": "les deux sacs",
+    "valid": true
+  },
+  {
+    "surface": "saints",
+    "valid": false,
+    "reason": "形容词/名词化形容词"
+  },
+  {
+    "surface": "la thermodynamique",
+    "valid": true
+  },
+  {
+    "surface": "cette instance parasitaire comme une sorte de crabe épistémologique décortiquant les données dont il se nourrit en suivant toujours le même cérémonial",
+    "valid": false,
+    "reason": "完整从句，非名词短语"
+  },
+  {
+    "surface": "son站 terminal",
+    "valid": true
+  },
+  {
+    "surface": "structuralisations",
+    "valid": true
+  },
+  {
+    "surface": "aux systèmes",
+    "valid": true
+  },
+  {
+    "surface": "la maladie",
+    "valid": true
+  },
+  {
+    "surface": "l'entropie",
+    "valid": true
+  },
+  {
+    "surface": "une rémission",
+    "valid": true
+  },
+  {
+    "surface": "la leve",
+    "valid": true
+  },
+  {
+    "surface": "espontane",
+    "valid": false,
+    "reason": "形容词"
+  },
+  {
+    "surface": "les duales traditionnels",
+    "valid": true
+  },
+  {
+    "surface": "type matièresforme",
+    "valid": true
+  },
+  {
+    "surface": "surmontes",
+    "valid": false,
+    "reason": "动词变位"
+  },
+  {
+    "surface": "un transfert",
+    "valid": true
+  },
+  {
+    "surface": "formalisme",
+    "valid": true
+  },
+  {
+    "surface": "de superstructures",
+    "valid": true
+  },
+  {
+    "surface": "des niveaux infrastructuraux",
+    "valid": true
+  },
+  {
+    "surface": "In en est malheureusement rien : se le point de vue, les niveaux en sont plus encore plus radicalement purgees de ses derniers技術es, au profit d'une hyène énergétique assimilée à un Flux de alternatives binaires (cela mélale de multiples mises en garde contre le paragisme qui consiste à déduire de l'identité",
+    "valid": false,
+    "reason": "完整句子，非名词短语"
+  },
+  {
+    "surface": "entropie",
+    "valid": true
+  },
+  {
+    "surface": "information",
+    "valid": true
+  },
+  {
+    "surface": "l'identité",
+    "valid": true
+  },
+  {
+    "surface": "neg",
+    "valid": false,
+    "reason": "缩写/碎片"
+  },
+  {
+    "surface": "Les monothéismes",
+    "valid": true
+  },
+  {
+    "surface": "l'énergie",
+    "valid": true
+  },
+  {
+    "surface": "cule",
+    "valid": false,
+    "reason": "碎片"
+  },
+  {
+    "surface": "du signifiant",
+    "valid": true
+  },
+  {
+    "surface": "une séparation radicale",
+    "valid": true
+  },
+  {
+    "surface": "l'efficience",
+    "valid": true
+  },
+  {
+    "surface": "la fairem",
+    "valid": true
+  },
+  {
+    "surface": "les dimensions",
+    "valid": true
+  },
+  {
+    "surface": "irriversibilité",
+    "valid": true
+  },
+  {
+    "surface": "de bifurcation",
+    "valid": true
+  },
+  {
+    "surface": "Agencements cognitifs",
+    "valid": true
+  },
+  {
+    "surface": "d'une dure",
+    "valid": true
+  },
+  {
+    "surface": "générale",
+    "valid": false,
+    "reason": "形容词"
+  },
+  {
+    "surface": "interdependence",
+    "valid": true
+  },
+  {
+    "surface": "la donné",
+    "valid": true
+  },
+  {
+    "surface": "systéme",
+    "valid": true
+  },
+  {
+    "surface": "les structures",
+    "valid": true
+  },
+  {
+    "surface": "observatrices",
+    "valid": false,
+    "reason": "形容词"
+  },
+  {
+    "surface": "conceptives",
+    "valid": false,
+    "reason": "形容词"
+  },
+  {
+    "surface": "confère",
+    "valid": false,
+    "reason": "动词变位"
+  },
+  {
+    "surface": "ses pincez",
+    "valid": false,
+    "reason": "动词变位"
+  },
+  {
+    "surface": "seule réalité scientifique",
+    "valid": true
+  },
+  {
+    "surface": "consommable",
+    "valid": false,
+    "reason": "形容词"
+  },
+  {
+    "surface": "capital énergétique",
+    "valid": true
+  },
+  {
+    "surface": "ces données",
+    "valid": true
+  },
+  {
+    "surface": "tout trait spécifique",
+    "valid": true
+  },
+  {
+    "surface": "un caractère uniformément convertible",
+    "valid": true
+  }
+]

@@ -1,0 +1,170 @@
+============================================================
+  名词表对比报告
+  生成时间: 2026/9/22 16:55:32
+============================================================
+
+【1. 整体统计】
+
+                        旧版(16:10)      新版(16:36)      变化
+  ─────────────────────────────────────────────────────────
+  终词表总词条数          16324       16121        -203
+  s0 贡献词条数           14630       14630           0
+  s1 贡献词条数            1694        1491        -203
+  总位置数                25396       25048        -348
+  平均每词位置             1.56        1.55       -0.00
+
+  s1 原始输出              2131        1871        -260
+  s1 残留截断              8015        8015           0
+  s1 LLM token           180435      181059         624
+
+【2. 终词表词条差异】
+
+  旧版独有词条（消失了）: 739 个
+    n'a, disposées, semble, (D), attenantes, chargées, consiste, grands, partout, radicalement, s'impose, sera, vectorisés, a-signifiante, actualisent, affronter, amourux, assez, catalyser, classés, comprendre, établis, exister, existient, faudrait, fondé, générées, illocalisable, interdit, irréversibles...
+  新版独有词条（新增）: 536 个
+    positionnant, propose, renvoient, (ses), *pu*, changer, composer, condamné, conférer, creuse, d'assurer, d'examiner, d'imagematrique, décrit, démographiques, doit-il, floue, généralement, industrielle, née, nouvelles, parait, passé, prend, présente, presque, s'était, s'inscrit, sépare, serai...
+  两版共有词条: 15585 个
+
+【3. s1 原始输出差异】
+
+  旧版 s1 有，新版 s1 没有（丢失）: 867 个
+    signalétiques, n'a, considérés, disposées, semble, (d), attenantes, chargées, conférant, consiste, contingent, grands, partout, poser, radicalement, reste, s'impose, sera, subjectives, trait, vectorisés, a-signifiante, actualisent, affronter, amourux, assez, blanche, catalyser, classés, comprendre...
+  新版 s1 有，旧版 s1 没有（新增）: 607 个
+    positionnant, propose, renvoient, (ses), *pu*, changer, composer, condamné, conférer, considère, creuse, d'assurer, d'examiner, d'imagematrique, décrit, démographiques, derrière, doit-il, donne, énergétique, fixer, floue, généralement, historique, industrielle, née, nouvelles, parait, passé, prend...
+
+【4. 位置数变化最大的词条（TOP20）】
+
+  词条                                旧位置    新位置     变化
+  ────────────────────────────────────────────────────
+  trouve                             14      5    -9
+  peut-être                           3      8 +    5
+  sensibles                           8      3    -5
+  autant                              5      9 +    4
+  n'est                               8      4    -4
+  qu'elles                            8      4    -4
+  Seulement                           3      6 +    3
+  Afin                                1      4 +    3
+  peu                                 7      4    -3
+  relative                            1      4 +    3
+  aura                                5      2    -3
+  correspondant                       5      2    -3
+  généralisé                          5      2    -3
+  mieux                               5      2    -3
+  correspondaient                     4      1    -3
+  intrinsque                          4      1    -3
+  lequel                              4      1    -3
+  mettre                              4      1    -3
+  précédemment                        4      1    -3
+  qu'ils                              4      1    -3
+
+【5. 新增词条详细列表（s1 来源，按位置数降序）】
+
+  positionnant                        (3处) [s1-llm]
+  propose                             (3处) [s1-llm]
+  renvoient                           (3处) [s1-llm]
+  (ses)                               (2处) [s1-llm]
+  *pu*                                (2处) [s1-llm]
+  changer                             (2处) [s1-llm]
+  composer                            (2处) [s1-llm]
+  condamné                            (2处) [s1-llm]
+  conférer                            (2处) [s1-llm]
+  creuse                              (2处) [s1-llm]
+  d'assurer                           (2处) [s1-llm]
+  d'examiner                          (2处) [s1-llm]
+  d'imagematrique                     (2处) [s1-llm]
+  décrit                              (2处) [s1-llm]
+  démographiques                      (2处) [s1-llm]
+  doit-il                             (2处) [s1-llm]
+  floue                               (2处) [s1-llm]
+  généralement                        (2处) [s1-llm]
+  industrielle                        (2处) [s1-llm]
+  née                                 (2处) [s1-llm]
+  nouvelles                           (2处) [s1-llm]
+  parait                              (2处) [s1-llm]
+  passé                               (2处) [s1-llm]
+  prend                               (2处) [s1-llm]
+  présente                            (2处) [s1-llm]
+  presque                             (2处) [s1-llm]
+  s'était                             (2处) [s1-llm]
+  s'inscrit                           (2处) [s1-llm]
+  sépare                              (2处) [s1-llm]
+  serai                               (2处) [s1-llm]
+  suivre                              (2处) [s1-llm]
+  tourne                              (2处) [s1-llm]
+  trahir                              (2处) [s1-llm]
+  - Et d'ici                          (1处) [s1-llm]
+  ... c'est en moi que j'étabis       (1处) [s1-llm]
+  « J'esu                             (1处) [s1-llm]
+  (déviure)                           (1处) [s1-llm]
+  (échelles                           (1处) [s1-llm]
+  (la)                                (1处) [s1-llm]
+  (le                                 (1处) [s1-llm]
+  (renovoyant                         (1处) [s1-llm]
+  * il y a / il n'y a pas *           (1处) [s1-llm]
+  *a*                                 (1处) [s1-llm]
+  *au                                 (1处) [s1-llm]
+  *Bien sûr*                          (1处) [s1-llm]
+  *l*                                 (1处) [s1-llm]
+  *plus                               (1处) [s1-llm]
+  *q*                                 (1处) [s1-llm]
+  abissurement                        (1处) [s1-llm]
+  accommoder                          (1处) [s1-llm]
+  ... 等等（共 536 个 s1 新增词条）
+
+【6. 消失词条（s1 来源，旧版有，新版没有）】
+
+  n'a                                 (5处) [s1-llm]
+  disposées                           (4处) [s1-llm]
+  semble                              (4处) [s1-llm]
+  (D)                                 (3处) [s1-llm]
+  attenantes                          (3处) [s1-llm]
+  chargées                            (3处) [s1-llm]
+  consiste                            (3处) [s1-llm]
+  grands                              (3处) [s1-llm]
+  partout                             (3处) [s1-llm]
+  radicalement                        (3处) [s1-llm]
+  s'impose                            (3处) [s1-llm]
+  sera                                (3处) [s1-llm]
+  vectorisés                          (3处) [s1-llm]
+  a-signifiante                       (2处) [s1-llm]
+  actualisent                         (2处) [s1-llm]
+  affronter                           (2处) [s1-llm]
+  amourux                             (2处) [s1-llm]
+  assez                               (2处) [s1-llm]
+  catalyser                           (2处) [s1-llm]
+  classés                             (2处) [s1-llm]
+  comprendre                          (2处) [s1-llm]
+  établis                             (2处) [s1-llm]
+  exister                             (2处) [s1-llm]
+  existient                           (2处) [s1-llm]
+  faudrait                            (2处) [s1-llm]
+  fondé                               (2处) [s1-llm]
+  générées                            (2处) [s1-llm]
+  illocalisable                       (2处) [s1-llm]
+  interdit                            (2处) [s1-llm]
+  irréversibles                       (2处) [s1-llm]
+  J'appelle                           (2处) [s1-llm]
+  lumineuse                           (2处) [s1-llm]
+  minimale                            (2处) [s1-llm]
+  mis                                 (2处) [s1-llm]
+  n'en                                (2处) [s1-llm]
+  n'y                                 (2处) [s1-llm]
+  ouvertes                            (2处) [s1-llm]
+  parce                               (2处) [s1-llm]
+  partira                             (2处) [s1-llm]
+  passivement                         (2处) [s1-llm]
+  photographique                      (2处) [s1-llm]
+  poser                               (2处) [s1-llm]
+  pourront                            (2处) [s1-llm]
+  qu'une                              (2处) [s1-llm]
+  qualifié                            (2处) [s1-llm]
+  rapide                              (2处) [s1-llm]
+  référées                            (2处) [s1-llm]
+  relayer                             (2处) [s1-llm]
+  répondent                           (2处) [s1-llm]
+  représentés                         (2处) [s1-llm]
+  ... 等等（共 739 个）
+
+============================================================
+  报告生成完毕
+============================================================

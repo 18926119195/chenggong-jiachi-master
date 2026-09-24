@@ -1,0 +1,5093 @@
+{
+  "summary": {
+    "totalQuestions": 13,
+    "totalCalls": 690,
+    "totalTokens": {
+      "promptCacheMiss": 255654,
+      "promptCacheHit": 2189285,
+      "completion": 99835,
+      "totalPrompt": 2444939,
+      "total": 2544774
+    },
+    "totalCost": 0.6742525
+  },
+  "details": [
+    {
+      "questionId": "Z1-Q2",
+      "callCount": 99,
+      "tokens": {
+        "promptCacheMiss": 40597,
+        "promptCacheHit": 312576,
+        "completion": 15417,
+        "totalPrompt": 353173,
+        "total": 368590
+      },
+      "cost": {
+        "cacheMiss": 0.040597,
+        "cacheHit": 0.0312576,
+        "completion": 0.030834,
+        "total": 0.1026886
+      },
+      "callDetails": [
+        {
+          "callId": "call-0001",
+          "cacheMiss": 186,
+          "cacheHit": 3456,
+          "completion": 57,
+          "totalPrompt": 3642
+        },
+        {
+          "callId": "call-0002",
+          "cacheMiss": 209,
+          "cacheHit": 3456,
+          "completion": 73,
+          "totalPrompt": 3665
+        },
+        {
+          "callId": "call-0003",
+          "cacheMiss": 136,
+          "cacheHit": 3456,
+          "completion": 37,
+          "totalPrompt": 3592
+        },
+        {
+          "callId": "call-0004",
+          "cacheMiss": 158,
+          "cacheHit": 3456,
+          "completion": 89,
+          "totalPrompt": 3614
+        },
+        {
+          "callId": "call-0005",
+          "cacheMiss": 203,
+          "cacheHit": 3328,
+          "completion": 133,
+          "totalPrompt": 3531
+        },
+        {
+          "callId": "call-0006",
+          "cacheMiss": 227,
+          "cacheHit": 3456,
+          "completion": 125,
+          "totalPrompt": 3683
+        },
+        {
+          "callId": "call-0007",
+          "cacheMiss": 230,
+          "cacheHit": 3456,
+          "completion": 145,
+          "totalPrompt": 3686
+        },
+        {
+          "callId": "call-0008",
+          "cacheMiss": 158,
+          "cacheHit": 3456,
+          "completion": 41,
+          "totalPrompt": 3614
+        },
+        {
+          "callId": "call-0009",
+          "cacheMiss": 245,
+          "cacheHit": 3328,
+          "completion": 41,
+          "totalPrompt": 3573
+        },
+        {
+          "callId": "call-0010",
+          "cacheMiss": 142,
+          "cacheHit": 3456,
+          "completion": 105,
+          "totalPrompt": 3598
+        },
+        {
+          "callId": "call-0011",
+          "cacheMiss": 172,
+          "cacheHit": 3456,
+          "completion": 49,
+          "totalPrompt": 3628
+        },
+        {
+          "callId": "call-0012",
+          "cacheMiss": 213,
+          "cacheHit": 3456,
+          "completion": 97,
+          "totalPrompt": 3669
+        },
+        {
+          "callId": "call-0013",
+          "cacheMiss": 223,
+          "cacheHit": 3584,
+          "completion": 109,
+          "totalPrompt": 3807
+        },
+        {
+          "callId": "call-0014",
+          "cacheMiss": 179,
+          "cacheHit": 3584,
+          "completion": 2,
+          "totalPrompt": 3763
+        },
+        {
+          "callId": "call-0015",
+          "cacheMiss": 215,
+          "cacheHit": 3456,
+          "completion": 101,
+          "totalPrompt": 3671
+        },
+        {
+          "callId": "call-0016",
+          "cacheMiss": 252,
+          "cacheHit": 3328,
+          "completion": 2,
+          "totalPrompt": 3580
+        },
+        {
+          "callId": "call-0017",
+          "cacheMiss": 193,
+          "cacheHit": 3328,
+          "completion": 2,
+          "totalPrompt": 3521
+        },
+        {
+          "callId": "call-0018",
+          "cacheMiss": 193,
+          "cacheHit": 3456,
+          "completion": 29,
+          "totalPrompt": 3649
+        },
+        {
+          "callId": "call-0019",
+          "cacheMiss": 162,
+          "cacheHit": 3456,
+          "completion": 2,
+          "totalPrompt": 3618
+        },
+        {
+          "callId": "call-0020",
+          "cacheMiss": 241,
+          "cacheHit": 3328,
+          "completion": 61,
+          "totalPrompt": 3569
+        },
+        {
+          "callId": "call-0021",
+          "cacheMiss": 195,
+          "cacheHit": 3584,
+          "completion": 81,
+          "totalPrompt": 3779
+        },
+        {
+          "callId": "call-0022",
+          "cacheMiss": 234,
+          "cacheHit": 3584,
+          "completion": 2,
+          "totalPrompt": 3818
+        },
+        {
+          "callId": "call-0023",
+          "cacheMiss": 183,
+          "cacheHit": 3456,
+          "completion": 2,
+          "totalPrompt": 3639
+        },
+        {
+          "callId": "call-0024",
+          "cacheMiss": 157,
+          "cacheHit": 3328,
+          "completion": 69,
+          "totalPrompt": 3485
+        },
+        {
+          "callId": "call-0025",
+          "cacheMiss": 194,
+          "cacheHit": 3328,
+          "completion": 81,
+          "totalPrompt": 3522
+        },
+        {
+          "callId": "call-0026",
+          "cacheMiss": 224,
+          "cacheHit": 3456,
+          "completion": 81,
+          "totalPrompt": 3680
+        },
+        {
+          "callId": "call-0027",
+          "cacheMiss": 219,
+          "cacheHit": 3328,
+          "completion": 2,
+          "totalPrompt": 3547
+        },
+        {
+          "callId": "call-0028",
+          "cacheMiss": 158,
+          "cacheHit": 3456,
+          "completion": 61,
+          "totalPrompt": 3614
+        },
+        {
+          "callId": "call-0029",
+          "cacheMiss": 211,
+          "cacheHit": 3328,
+          "completion": 17,
+          "totalPrompt": 3539
+        },
+        {
+          "callId": "call-0030",
+          "cacheMiss": 198,
+          "cacheHit": 3456,
+          "completion": 57,
+          "totalPrompt": 3654
+        },
+        {
+          "callId": "call-0031",
+          "cacheMiss": 238,
+          "cacheHit": 3456,
+          "completion": 113,
+          "totalPrompt": 3694
+        },
+        {
+          "callId": "call-0032",
+          "cacheMiss": 243,
+          "cacheHit": 3584,
+          "completion": 29,
+          "totalPrompt": 3827
+        },
+        {
+          "callId": "call-0033",
+          "cacheMiss": 134,
+          "cacheHit": 3840,
+          "completion": 77,
+          "totalPrompt": 3974
+        },
+        {
+          "callId": "call-0034",
+          "cacheMiss": 234,
+          "cacheHit": 3456,
+          "completion": 41,
+          "totalPrompt": 3690
+        },
+        {
+          "callId": "call-0035",
+          "cacheMiss": 175,
+          "cacheHit": 3456,
+          "completion": 61,
+          "totalPrompt": 3631
+        },
+        {
+          "callId": "call-0036",
+          "cacheMiss": 208,
+          "cacheHit": 3456,
+          "completion": 41,
+          "totalPrompt": 3664
+        },
+        {
+          "callId": "call-0037",
+          "cacheMiss": 225,
+          "cacheHit": 3712,
+          "completion": 81,
+          "totalPrompt": 3937
+        },
+        {
+          "callId": "call-0038",
+          "cacheMiss": 247,
+          "cacheHit": 3712,
+          "completion": 41,
+          "totalPrompt": 3959
+        },
+        {
+          "callId": "call-0039",
+          "cacheMiss": 149,
+          "cacheHit": 3712,
+          "completion": 29,
+          "totalPrompt": 3861
+        },
+        {
+          "callId": "call-0040",
+          "cacheMiss": 135,
+          "cacheHit": 3456,
+          "completion": 33,
+          "totalPrompt": 3591
+        },
+        {
+          "callId": "call-0041",
+          "cacheMiss": 201,
+          "cacheHit": 3328,
+          "completion": 109,
+          "totalPrompt": 3529
+        },
+        {
+          "callId": "call-0042",
+          "cacheMiss": 180,
+          "cacheHit": 3584,
+          "completion": 89,
+          "totalPrompt": 3764
+        },
+        {
+          "callId": "call-0043",
+          "cacheMiss": 156,
+          "cacheHit": 3584,
+          "completion": 25,
+          "totalPrompt": 3740
+        },
+        {
+          "callId": "call-0044",
+          "cacheMiss": 227,
+          "cacheHit": 3456,
+          "completion": 29,
+          "totalPrompt": 3683
+        },
+        {
+          "callId": "call-0045",
+          "cacheMiss": 156,
+          "cacheHit": 3456,
+          "completion": 65,
+          "totalPrompt": 3612
+        },
+        {
+          "callId": "call-0046",
+          "cacheMiss": 143,
+          "cacheHit": 0,
+          "completion": 9,
+          "totalPrompt": 143
+        },
+        {
+          "callId": "call-0047",
+          "cacheMiss": 3531,
+          "cacheHit": 0,
+          "completion": 2260,
+          "totalPrompt": 3531
+        },
+        {
+          "callId": "call-0048",
+          "cacheMiss": 3592,
+          "cacheHit": 0,
+          "completion": 2148,
+          "totalPrompt": 3592
+        },
+        {
+          "callId": "call-0049",
+          "cacheMiss": 295,
+          "cacheHit": 0,
+          "completion": 76,
+          "totalPrompt": 295
+        },
+        {
+          "callId": "call-0050",
+          "cacheMiss": 186,
+          "cacheHit": 3456,
+          "completion": 57,
+          "totalPrompt": 3642
+        },
+        {
+          "callId": "call-0051",
+          "cacheMiss": 209,
+          "cacheHit": 3456,
+          "completion": 73,
+          "totalPrompt": 3665
+        },
+        {
+          "callId": "call-0052",
+          "cacheMiss": 136,
+          "cacheHit": 3456,
+          "completion": 49,
+          "totalPrompt": 3592
+        },
+        {
+          "callId": "call-0053",
+          "cacheMiss": 158,
+          "cacheHit": 3456,
+          "completion": 61,
+          "totalPrompt": 3614
+        },
+        {
+          "callId": "call-0054",
+          "cacheMiss": 203,
+          "cacheHit": 3328,
+          "completion": 141,
+          "totalPrompt": 3531
+        },
+        {
+          "callId": "call-0055",
+          "cacheMiss": 227,
+          "cacheHit": 3456,
+          "completion": 133,
+          "totalPrompt": 3683
+        },
+        {
+          "callId": "call-0056",
+          "cacheMiss": 230,
+          "cacheHit": 3456,
+          "completion": 145,
+          "totalPrompt": 3686
+        },
+        {
+          "callId": "call-0057",
+          "cacheMiss": 158,
+          "cacheHit": 3456,
+          "completion": 41,
+          "totalPrompt": 3614
+        },
+        {
+          "callId": "call-0058",
+          "cacheMiss": 245,
+          "cacheHit": 3328,
+          "completion": 41,
+          "totalPrompt": 3573
+        },
+        {
+          "callId": "call-0059",
+          "cacheMiss": 142,
+          "cacheHit": 3456,
+          "completion": 101,
+          "totalPrompt": 3598
+        },
+        {
+          "callId": "call-0060",
+          "cacheMiss": 172,
+          "cacheHit": 3456,
+          "completion": 49,
+          "totalPrompt": 3628
+        },
+        {
+          "callId": "call-0061",
+          "cacheMiss": 213,
+          "cacheHit": 3456,
+          "completion": 81,
+          "totalPrompt": 3669
+        },
+        {
+          "callId": "call-0062",
+          "cacheMiss": 223,
+          "cacheHit": 3584,
+          "completion": 109,
+          "totalPrompt": 3807
+        },
+        {
+          "callId": "call-0063",
+          "cacheMiss": 179,
+          "cacheHit": 3584,
+          "completion": 2,
+          "totalPrompt": 3763
+        },
+        {
+          "callId": "call-0064",
+          "cacheMiss": 215,
+          "cacheHit": 3456,
+          "completion": 101,
+          "totalPrompt": 3671
+        },
+        {
+          "callId": "call-0065",
+          "cacheMiss": 252,
+          "cacheHit": 3328,
+          "completion": 2,
+          "totalPrompt": 3580
+        },
+        {
+          "callId": "call-0066",
+          "cacheMiss": 193,
+          "cacheHit": 3328,
+          "completion": 2,
+          "totalPrompt": 3521
+        },
+        {
+          "callId": "call-0067",
+          "cacheMiss": 193,
+          "cacheHit": 3456,
+          "completion": 29,
+          "totalPrompt": 3649
+        },
+        {
+          "callId": "call-0068",
+          "cacheMiss": 162,
+          "cacheHit": 3456,
+          "completion": 2,
+          "totalPrompt": 3618
+        },
+        {
+          "callId": "call-0069",
+          "cacheMiss": 241,
+          "cacheHit": 3328,
+          "completion": 61,
+          "totalPrompt": 3569
+        },
+        {
+          "callId": "call-0070",
+          "cacheMiss": 195,
+          "cacheHit": 3584,
+          "completion": 81,
+          "totalPrompt": 3779
+        },
+        {
+          "callId": "call-0071",
+          "cacheMiss": 234,
+          "cacheHit": 3584,
+          "completion": 2,
+          "totalPrompt": 3818
+        },
+        {
+          "callId": "call-0072",
+          "cacheMiss": 183,
+          "cacheHit": 3456,
+          "completion": 2,
+          "totalPrompt": 3639
+        },
+        {
+          "callId": "call-0073",
+          "cacheMiss": 157,
+          "cacheHit": 3328,
+          "completion": 65,
+          "totalPrompt": 3485
+        },
+        {
+          "callId": "call-0074",
+          "cacheMiss": 194,
+          "cacheHit": 3328,
+          "completion": 81,
+          "totalPrompt": 3522
+        },
+        {
+          "callId": "call-0075",
+          "cacheMiss": 224,
+          "cacheHit": 3456,
+          "completion": 81,
+          "totalPrompt": 3680
+        },
+        {
+          "callId": "call-0076",
+          "cacheMiss": 219,
+          "cacheHit": 3328,
+          "completion": 2,
+          "totalPrompt": 3547
+        },
+        {
+          "callId": "call-0077",
+          "cacheMiss": 158,
+          "cacheHit": 3456,
+          "completion": 105,
+          "totalPrompt": 3614
+        },
+        {
+          "callId": "call-0078",
+          "cacheMiss": 211,
+          "cacheHit": 3328,
+          "completion": 17,
+          "totalPrompt": 3539
+        },
+        {
+          "callId": "call-0079",
+          "cacheMiss": 198,
+          "cacheHit": 3456,
+          "completion": 57,
+          "totalPrompt": 3654
+        },
+        {
+          "callId": "call-0080",
+          "cacheMiss": 238,
+          "cacheHit": 3456,
+          "completion": 101,
+          "totalPrompt": 3694
+        },
+        {
+          "callId": "call-0081",
+          "cacheMiss": 243,
+          "cacheHit": 3584,
+          "completion": 33,
+          "totalPrompt": 3827
+        },
+        {
+          "callId": "call-0082",
+          "cacheMiss": 134,
+          "cacheHit": 3840,
+          "completion": 73,
+          "totalPrompt": 3974
+        },
+        {
+          "callId": "call-0083",
+          "cacheMiss": 234,
+          "cacheHit": 3456,
+          "completion": 41,
+          "totalPrompt": 3690
+        },
+        {
+          "callId": "call-0084",
+          "cacheMiss": 175,
+          "cacheHit": 3456,
+          "completion": 69,
+          "totalPrompt": 3631
+        },
+        {
+          "callId": "call-0085",
+          "cacheMiss": 208,
+          "cacheHit": 3456,
+          "completion": 41,
+          "totalPrompt": 3664
+        },
+        {
+          "callId": "call-0086",
+          "cacheMiss": 225,
+          "cacheHit": 3712,
+          "completion": 81,
+          "totalPrompt": 3937
+        },
+        {
+          "callId": "call-0087",
+          "cacheMiss": 247,
+          "cacheHit": 3712,
+          "completion": 53,
+          "totalPrompt": 3959
+        },
+        {
+          "callId": "call-0088",
+          "cacheMiss": 149,
+          "cacheHit": 3712,
+          "completion": 29,
+          "totalPrompt": 3861
+        },
+        {
+          "callId": "call-0089",
+          "cacheMiss": 135,
+          "cacheHit": 3456,
+          "completion": 33,
+          "totalPrompt": 3591
+        },
+        {
+          "callId": "call-0090",
+          "cacheMiss": 201,
+          "cacheHit": 3328,
+          "completion": 85,
+          "totalPrompt": 3529
+        },
+        {
+          "callId": "call-0091",
+          "cacheMiss": 180,
+          "cacheHit": 3584,
+          "completion": 89,
+          "totalPrompt": 3764
+        },
+        {
+          "callId": "call-0092",
+          "cacheMiss": 156,
+          "cacheHit": 3584,
+          "completion": 25,
+          "totalPrompt": 3740
+        },
+        {
+          "callId": "call-0093",
+          "cacheMiss": 227,
+          "cacheHit": 3456,
+          "completion": 45,
+          "totalPrompt": 3683
+        },
+        {
+          "callId": "call-0094",
+          "cacheMiss": 156,
+          "cacheHit": 3456,
+          "completion": 65,
+          "totalPrompt": 3612
+        },
+        {
+          "callId": "call-0095",
+          "cacheMiss": 143,
+          "cacheHit": 0,
+          "completion": 9,
+          "totalPrompt": 143
+        },
+        {
+          "callId": "call-0096",
+          "cacheMiss": 3556,
+          "cacheHit": 0,
+          "completion": 2281,
+          "totalPrompt": 3556
+        },
+        {
+          "callId": "call-0097",
+          "cacheMiss": 3561,
+          "cacheHit": 0,
+          "completion": 2134,
+          "totalPrompt": 3561
+        },
+        {
+          "callId": "call-0098",
+          "cacheMiss": 383,
+          "cacheHit": 0,
+          "completion": 118,
+          "totalPrompt": 383
+        },
+        {
+          "callId": "call-0099",
+          "cacheMiss": 7757,
+          "cacheHit": 0,
+          "completion": 1130,
+          "totalPrompt": 7757
+        }
+      ]
+    },
+    {
+      "questionId": "Z1-Q3",
+      "callCount": 49,
+      "tokens": {
+        "promptCacheMiss": 17223,
+        "promptCacheHit": 156287,
+        "completion": 7025,
+        "totalPrompt": 173510,
+        "total": 180535
+      },
+      "cost": {
+        "cacheMiss": 0.017223,
+        "cacheHit": 0.015628700000000002,
+        "completion": 0.01405,
+        "total": 0.0469017
+      },
+      "callDetails": [
+        {
+          "callId": "call-0001",
+          "cacheMiss": 185,
+          "cacheHit": 3456,
+          "completion": 57,
+          "totalPrompt": 3641
+        },
+        {
+          "callId": "call-0002",
+          "cacheMiss": 208,
+          "cacheHit": 3456,
+          "completion": 101,
+          "totalPrompt": 3664
+        },
+        {
+          "callId": "call-0003",
+          "cacheMiss": 135,
+          "cacheHit": 3456,
+          "completion": 41,
+          "totalPrompt": 3591
+        },
+        {
+          "callId": "call-0004",
+          "cacheMiss": 157,
+          "cacheHit": 3456,
+          "completion": 81,
+          "totalPrompt": 3613
+        },
+        {
+          "callId": "call-0005",
+          "cacheMiss": 202,
+          "cacheHit": 3328,
+          "completion": 161,
+          "totalPrompt": 3530
+        },
+        {
+          "callId": "call-0006",
+          "cacheMiss": 226,
+          "cacheHit": 3456,
+          "completion": 69,
+          "totalPrompt": 3682
+        },
+        {
+          "callId": "call-0007",
+          "cacheMiss": 229,
+          "cacheHit": 3456,
+          "completion": 41,
+          "totalPrompt": 3685
+        },
+        {
+          "callId": "call-0008",
+          "cacheMiss": 157,
+          "cacheHit": 3456,
+          "completion": 53,
+          "totalPrompt": 3613
+        },
+        {
+          "callId": "call-0009",
+          "cacheMiss": 244,
+          "cacheHit": 3328,
+          "completion": 21,
+          "totalPrompt": 3572
+        },
+        {
+          "callId": "call-0010",
+          "cacheMiss": 141,
+          "cacheHit": 3456,
+          "completion": 153,
+          "totalPrompt": 3597
+        },
+        {
+          "callId": "call-0011",
+          "cacheMiss": 171,
+          "cacheHit": 3456,
+          "completion": 81,
+          "totalPrompt": 3627
+        },
+        {
+          "callId": "call-0012",
+          "cacheMiss": 212,
+          "cacheHit": 3456,
+          "completion": 37,
+          "totalPrompt": 3668
+        },
+        {
+          "callId": "call-0013",
+          "cacheMiss": 222,
+          "cacheHit": 3584,
+          "completion": 21,
+          "totalPrompt": 3806
+        },
+        {
+          "callId": "call-0014",
+          "cacheMiss": 178,
+          "cacheHit": 3584,
+          "completion": 2,
+          "totalPrompt": 3762
+        },
+        {
+          "callId": "call-0015",
+          "cacheMiss": 214,
+          "cacheHit": 3456,
+          "completion": 2,
+          "totalPrompt": 3670
+        },
+        {
+          "callId": "call-0016",
+          "cacheMiss": 251,
+          "cacheHit": 3328,
+          "completion": 2,
+          "totalPrompt": 3579
+        },
+        {
+          "callId": "call-0017",
+          "cacheMiss": 192,
+          "cacheHit": 3328,
+          "completion": 2,
+          "totalPrompt": 3520
+        },
+        {
+          "callId": "call-0018",
+          "cacheMiss": 192,
+          "cacheHit": 3456,
+          "completion": 2,
+          "totalPrompt": 3648
+        },
+        {
+          "callId": "call-0019",
+          "cacheMiss": 161,
+          "cacheHit": 3456,
+          "completion": 89,
+          "totalPrompt": 3617
+        },
+        {
+          "callId": "call-0020",
+          "cacheMiss": 240,
+          "cacheHit": 3328,
+          "completion": 2,
+          "totalPrompt": 3568
+        },
+        {
+          "callId": "call-0021",
+          "cacheMiss": 194,
+          "cacheHit": 3584,
+          "completion": 21,
+          "totalPrompt": 3778
+        },
+        {
+          "callId": "call-0022",
+          "cacheMiss": 233,
+          "cacheHit": 3584,
+          "completion": 49,
+          "totalPrompt": 3817
+        },
+        {
+          "callId": "call-0023",
+          "cacheMiss": 182,
+          "cacheHit": 3456,
+          "completion": 2,
+          "totalPrompt": 3638
+        },
+        {
+          "callId": "call-0024",
+          "cacheMiss": 156,
+          "cacheHit": 3328,
+          "completion": 2,
+          "totalPrompt": 3484
+        },
+        {
+          "callId": "call-0025",
+          "cacheMiss": 193,
+          "cacheHit": 3328,
+          "completion": 25,
+          "totalPrompt": 3521
+        },
+        {
+          "callId": "call-0026",
+          "cacheMiss": 223,
+          "cacheHit": 3456,
+          "completion": 65,
+          "totalPrompt": 3679
+        },
+        {
+          "callId": "call-0027",
+          "cacheMiss": 218,
+          "cacheHit": 3328,
+          "completion": 2,
+          "totalPrompt": 3546
+        },
+        {
+          "callId": "call-0028",
+          "cacheMiss": 157,
+          "cacheHit": 3456,
+          "completion": 81,
+          "totalPrompt": 3613
+        },
+        {
+          "callId": "call-0029",
+          "cacheMiss": 210,
+          "cacheHit": 3328,
+          "completion": 49,
+          "totalPrompt": 3538
+        },
+        {
+          "callId": "call-0030",
+          "cacheMiss": 197,
+          "cacheHit": 3456,
+          "completion": 2,
+          "totalPrompt": 3653
+        },
+        {
+          "callId": "call-0031",
+          "cacheMiss": 237,
+          "cacheHit": 3456,
+          "completion": 41,
+          "totalPrompt": 3693
+        },
+        {
+          "callId": "call-0032",
+          "cacheMiss": 242,
+          "cacheHit": 3584,
+          "completion": 17,
+          "totalPrompt": 3826
+        },
+        {
+          "callId": "call-0033",
+          "cacheMiss": 134,
+          "cacheHit": 3839,
+          "completion": 33,
+          "totalPrompt": 3973
+        },
+        {
+          "callId": "call-0034",
+          "cacheMiss": 233,
+          "cacheHit": 3456,
+          "completion": 57,
+          "totalPrompt": 3689
+        },
+        {
+          "callId": "call-0035",
+          "cacheMiss": 174,
+          "cacheHit": 3456,
+          "completion": 53,
+          "totalPrompt": 3630
+        },
+        {
+          "callId": "call-0036",
+          "cacheMiss": 207,
+          "cacheHit": 3456,
+          "completion": 61,
+          "totalPrompt": 3663
+        },
+        {
+          "callId": "call-0037",
+          "cacheMiss": 224,
+          "cacheHit": 3712,
+          "completion": 93,
+          "totalPrompt": 3936
+        },
+        {
+          "callId": "call-0038",
+          "cacheMiss": 246,
+          "cacheHit": 3712,
+          "completion": 61,
+          "totalPrompt": 3958
+        },
+        {
+          "callId": "call-0039",
+          "cacheMiss": 148,
+          "cacheHit": 3712,
+          "completion": 257,
+          "totalPrompt": 3860
+        },
+        {
+          "callId": "call-0040",
+          "cacheMiss": 134,
+          "cacheHit": 3456,
+          "completion": 37,
+          "totalPrompt": 3590
+        },
+        {
+          "callId": "call-0041",
+          "cacheMiss": 200,
+          "cacheHit": 3328,
+          "completion": 29,
+          "totalPrompt": 3528
+        },
+        {
+          "callId": "call-0042",
+          "cacheMiss": 179,
+          "cacheHit": 3584,
+          "completion": 49,
+          "totalPrompt": 3763
+        },
+        {
+          "callId": "call-0043",
+          "cacheMiss": 155,
+          "cacheHit": 3584,
+          "completion": 2,
+          "totalPrompt": 3739
+        },
+        {
+          "callId": "call-0044",
+          "cacheMiss": 226,
+          "cacheHit": 3456,
+          "completion": 89,
+          "totalPrompt": 3682
+        },
+        {
+          "callId": "call-0045",
+          "cacheMiss": 155,
+          "cacheHit": 3456,
+          "completion": 33,
+          "totalPrompt": 3611
+        },
+        {
+          "callId": "call-0046",
+          "cacheMiss": 142,
+          "cacheHit": 0,
+          "completion": 5,
+          "totalPrompt": 142
+        },
+        {
+          "callId": "call-0047",
+          "cacheMiss": 3619,
+          "cacheHit": 0,
+          "completion": 2288,
+          "totalPrompt": 3619
+        },
+        {
+          "callId": "call-0048",
+          "cacheMiss": 2448,
+          "cacheHit": 0,
+          "completion": 1518,
+          "totalPrompt": 2448
+        },
+        {
+          "callId": "call-0049",
+          "cacheMiss": 2240,
+          "cacheHit": 0,
+          "completion": 986,
+          "totalPrompt": 2240
+        }
+      ]
+    },
+    {
+      "questionId": "Z1-Q4",
+      "callCount": 48,
+      "tokens": {
+        "promptCacheMiss": 11076,
+        "promptCacheHit": 156287,
+        "completion": 2408,
+        "totalPrompt": 167363,
+        "total": 169771
+      },
+      "cost": {
+        "cacheMiss": 0.011076,
+        "cacheHit": 0.015628700000000002,
+        "completion": 0.004816,
+        "total": 0.031520700000000006
+      },
+      "callDetails": [
+        {
+          "callId": "call-0001",
+          "cacheMiss": 185,
+          "cacheHit": 3456,
+          "completion": 49,
+          "totalPrompt": 3641
+        },
+        {
+          "callId": "call-0002",
+          "cacheMiss": 208,
+          "cacheHit": 3456,
+          "completion": 2,
+          "totalPrompt": 3664
+        },
+        {
+          "callId": "call-0003",
+          "cacheMiss": 135,
+          "cacheHit": 3456,
+          "completion": 2,
+          "totalPrompt": 3591
+        },
+        {
+          "callId": "call-0004",
+          "cacheMiss": 157,
+          "cacheHit": 3456,
+          "completion": 21,
+          "totalPrompt": 3613
+        },
+        {
+          "callId": "call-0005",
+          "cacheMiss": 202,
+          "cacheHit": 3328,
+          "completion": 17,
+          "totalPrompt": 3530
+        },
+        {
+          "callId": "call-0006",
+          "cacheMiss": 226,
+          "cacheHit": 3456,
+          "completion": 105,
+          "totalPrompt": 3682
+        },
+        {
+          "callId": "call-0007",
+          "cacheMiss": 229,
+          "cacheHit": 3456,
+          "completion": 29,
+          "totalPrompt": 3685
+        },
+        {
+          "callId": "call-0008",
+          "cacheMiss": 157,
+          "cacheHit": 3456,
+          "completion": 41,
+          "totalPrompt": 3613
+        },
+        {
+          "callId": "call-0009",
+          "cacheMiss": 244,
+          "cacheHit": 3328,
+          "completion": 2,
+          "totalPrompt": 3572
+        },
+        {
+          "callId": "call-0010",
+          "cacheMiss": 141,
+          "cacheHit": 3456,
+          "completion": 29,
+          "totalPrompt": 3597
+        },
+        {
+          "callId": "call-0011",
+          "cacheMiss": 171,
+          "cacheHit": 3456,
+          "completion": 105,
+          "totalPrompt": 3627
+        },
+        {
+          "callId": "call-0012",
+          "cacheMiss": 212,
+          "cacheHit": 3456,
+          "completion": 17,
+          "totalPrompt": 3668
+        },
+        {
+          "callId": "call-0013",
+          "cacheMiss": 222,
+          "cacheHit": 3584,
+          "completion": 2,
+          "totalPrompt": 3806
+        },
+        {
+          "callId": "call-0014",
+          "cacheMiss": 178,
+          "cacheHit": 3584,
+          "completion": 2,
+          "totalPrompt": 3762
+        },
+        {
+          "callId": "call-0015",
+          "cacheMiss": 214,
+          "cacheHit": 3456,
+          "completion": 2,
+          "totalPrompt": 3670
+        },
+        {
+          "callId": "call-0016",
+          "cacheMiss": 251,
+          "cacheHit": 3328,
+          "completion": 2,
+          "totalPrompt": 3579
+        },
+        {
+          "callId": "call-0017",
+          "cacheMiss": 192,
+          "cacheHit": 3328,
+          "completion": 2,
+          "totalPrompt": 3520
+        },
+        {
+          "callId": "call-0018",
+          "cacheMiss": 192,
+          "cacheHit": 3456,
+          "completion": 2,
+          "totalPrompt": 3648
+        },
+        {
+          "callId": "call-0019",
+          "cacheMiss": 161,
+          "cacheHit": 3456,
+          "completion": 2,
+          "totalPrompt": 3617
+        },
+        {
+          "callId": "call-0020",
+          "cacheMiss": 240,
+          "cacheHit": 3328,
+          "completion": 2,
+          "totalPrompt": 3568
+        },
+        {
+          "callId": "call-0021",
+          "cacheMiss": 194,
+          "cacheHit": 3584,
+          "completion": 17,
+          "totalPrompt": 3778
+        },
+        {
+          "callId": "call-0022",
+          "cacheMiss": 233,
+          "cacheHit": 3584,
+          "completion": 17,
+          "totalPrompt": 3817
+        },
+        {
+          "callId": "call-0023",
+          "cacheMiss": 182,
+          "cacheHit": 3456,
+          "completion": 2,
+          "totalPrompt": 3638
+        },
+        {
+          "callId": "call-0024",
+          "cacheMiss": 156,
+          "cacheHit": 3328,
+          "completion": 2,
+          "totalPrompt": 3484
+        },
+        {
+          "callId": "call-0025",
+          "cacheMiss": 193,
+          "cacheHit": 3328,
+          "completion": 2,
+          "totalPrompt": 3521
+        },
+        {
+          "callId": "call-0026",
+          "cacheMiss": 223,
+          "cacheHit": 3456,
+          "completion": 2,
+          "totalPrompt": 3679
+        },
+        {
+          "callId": "call-0027",
+          "cacheMiss": 218,
+          "cacheHit": 3328,
+          "completion": 2,
+          "totalPrompt": 3546
+        },
+        {
+          "callId": "call-0028",
+          "cacheMiss": 157,
+          "cacheHit": 3456,
+          "completion": 2,
+          "totalPrompt": 3613
+        },
+        {
+          "callId": "call-0029",
+          "cacheMiss": 210,
+          "cacheHit": 3328,
+          "completion": 2,
+          "totalPrompt": 3538
+        },
+        {
+          "callId": "call-0030",
+          "cacheMiss": 197,
+          "cacheHit": 3456,
+          "completion": 2,
+          "totalPrompt": 3653
+        },
+        {
+          "callId": "call-0031",
+          "cacheMiss": 237,
+          "cacheHit": 3456,
+          "completion": 17,
+          "totalPrompt": 3693
+        },
+        {
+          "callId": "call-0032",
+          "cacheMiss": 242,
+          "cacheHit": 3584,
+          "completion": 2,
+          "totalPrompt": 3826
+        },
+        {
+          "callId": "call-0033",
+          "cacheMiss": 134,
+          "cacheHit": 3839,
+          "completion": 33,
+          "totalPrompt": 3973
+        },
+        {
+          "callId": "call-0034",
+          "cacheMiss": 233,
+          "cacheHit": 3456,
+          "completion": 13,
+          "totalPrompt": 3689
+        },
+        {
+          "callId": "call-0035",
+          "cacheMiss": 174,
+          "cacheHit": 3456,
+          "completion": 13,
+          "totalPrompt": 3630
+        },
+        {
+          "callId": "call-0036",
+          "cacheMiss": 207,
+          "cacheHit": 3456,
+          "completion": 33,
+          "totalPrompt": 3663
+        },
+        {
+          "callId": "call-0037",
+          "cacheMiss": 224,
+          "cacheHit": 3712,
+          "completion": 2,
+          "totalPrompt": 3936
+        },
+        {
+          "callId": "call-0038",
+          "cacheMiss": 246,
+          "cacheHit": 3712,
+          "completion": 2,
+          "totalPrompt": 3958
+        },
+        {
+          "callId": "call-0039",
+          "cacheMiss": 148,
+          "cacheHit": 3712,
+          "completion": 29,
+          "totalPrompt": 3860
+        },
+        {
+          "callId": "call-0040",
+          "cacheMiss": 134,
+          "cacheHit": 3456,
+          "completion": 2,
+          "totalPrompt": 3590
+        },
+        {
+          "callId": "call-0041",
+          "cacheMiss": 200,
+          "cacheHit": 3328,
+          "completion": 2,
+          "totalPrompt": 3528
+        },
+        {
+          "callId": "call-0042",
+          "cacheMiss": 179,
+          "cacheHit": 3584,
+          "completion": 2,
+          "totalPrompt": 3763
+        },
+        {
+          "callId": "call-0043",
+          "cacheMiss": 155,
+          "cacheHit": 3584,
+          "completion": 2,
+          "totalPrompt": 3739
+        },
+        {
+          "callId": "call-0044",
+          "cacheMiss": 226,
+          "cacheHit": 3456,
+          "completion": 2,
+          "totalPrompt": 3682
+        },
+        {
+          "callId": "call-0045",
+          "cacheMiss": 155,
+          "cacheHit": 3456,
+          "completion": 45,
+          "totalPrompt": 3611
+        },
+        {
+          "callId": "call-0046",
+          "cacheMiss": 142,
+          "cacheHit": 0,
+          "completion": 5,
+          "totalPrompt": 142
+        },
+        {
+          "callId": "call-0047",
+          "cacheMiss": 1878,
+          "cacheHit": 0,
+          "completion": 1077,
+          "totalPrompt": 1878
+        },
+        {
+          "callId": "call-0048",
+          "cacheMiss": 282,
+          "cacheHit": 0,
+          "completion": 642,
+          "totalPrompt": 282
+        }
+      ]
+    },
+    {
+      "questionId": "Z2-Q1",
+      "callCount": 50,
+      "tokens": {
+        "promptCacheMiss": 18087,
+        "promptCacheHit": 156412,
+        "completion": 8172,
+        "totalPrompt": 174499,
+        "total": 182671
+      },
+      "cost": {
+        "cacheMiss": 0.018087,
+        "cacheHit": 0.0156412,
+        "completion": 0.016344,
+        "total": 0.0500722
+      },
+      "callDetails": [
+        {
+          "callId": "call-0001",
+          "cacheMiss": 192,
+          "cacheHit": 3456,
+          "completion": 45,
+          "totalPrompt": 3648
+        },
+        {
+          "callId": "call-0002",
+          "cacheMiss": 215,
+          "cacheHit": 3456,
+          "completion": 61,
+          "totalPrompt": 3671
+        },
+        {
+          "callId": "call-0003",
+          "cacheMiss": 142,
+          "cacheHit": 3456,
+          "completion": 25,
+          "totalPrompt": 3598
+        },
+        {
+          "callId": "call-0004",
+          "cacheMiss": 164,
+          "cacheHit": 3456,
+          "completion": 41,
+          "totalPrompt": 3620
+        },
+        {
+          "callId": "call-0005",
+          "cacheMiss": 209,
+          "cacheHit": 3328,
+          "completion": 85,
+          "totalPrompt": 3537
+        },
+        {
+          "callId": "call-0006",
+          "cacheMiss": 233,
+          "cacheHit": 3456,
+          "completion": 73,
+          "totalPrompt": 3689
+        },
+        {
+          "callId": "call-0007",
+          "cacheMiss": 236,
+          "cacheHit": 3456,
+          "completion": 85,
+          "totalPrompt": 3692
+        },
+        {
+          "callId": "call-0008",
+          "cacheMiss": 164,
+          "cacheHit": 3456,
+          "completion": 85,
+          "totalPrompt": 3620
+        },
+        {
+          "callId": "call-0009",
+          "cacheMiss": 251,
+          "cacheHit": 3328,
+          "completion": 65,
+          "totalPrompt": 3579
+        },
+        {
+          "callId": "call-0010",
+          "cacheMiss": 148,
+          "cacheHit": 3456,
+          "completion": 33,
+          "totalPrompt": 3604
+        },
+        {
+          "callId": "call-0011",
+          "cacheMiss": 178,
+          "cacheHit": 3456,
+          "completion": 45,
+          "totalPrompt": 3634
+        },
+        {
+          "callId": "call-0012",
+          "cacheMiss": 219,
+          "cacheHit": 3456,
+          "completion": 57,
+          "totalPrompt": 3675
+        },
+        {
+          "callId": "call-0013",
+          "cacheMiss": 229,
+          "cacheHit": 3584,
+          "completion": 49,
+          "totalPrompt": 3813
+        },
+        {
+          "callId": "call-0014",
+          "cacheMiss": 185,
+          "cacheHit": 3584,
+          "completion": 13,
+          "totalPrompt": 3769
+        },
+        {
+          "callId": "call-0015",
+          "cacheMiss": 221,
+          "cacheHit": 3456,
+          "completion": 221,
+          "totalPrompt": 3677
+        },
+        {
+          "callId": "call-0016",
+          "cacheMiss": 134,
+          "cacheHit": 3452,
+          "completion": 2,
+          "totalPrompt": 3586
+        },
+        {
+          "callId": "call-0017",
+          "cacheMiss": 199,
+          "cacheHit": 3328,
+          "completion": 45,
+          "totalPrompt": 3527
+        },
+        {
+          "callId": "call-0018",
+          "cacheMiss": 199,
+          "cacheHit": 3456,
+          "completion": 33,
+          "totalPrompt": 3655
+        },
+        {
+          "callId": "call-0019",
+          "cacheMiss": 168,
+          "cacheHit": 3456,
+          "completion": 101,
+          "totalPrompt": 3624
+        },
+        {
+          "callId": "call-0020",
+          "cacheMiss": 247,
+          "cacheHit": 3328,
+          "completion": 37,
+          "totalPrompt": 3575
+        },
+        {
+          "callId": "call-0021",
+          "cacheMiss": 201,
+          "cacheHit": 3584,
+          "completion": 25,
+          "totalPrompt": 3785
+        },
+        {
+          "callId": "call-0022",
+          "cacheMiss": 240,
+          "cacheHit": 3584,
+          "completion": 117,
+          "totalPrompt": 3824
+        },
+        {
+          "callId": "call-0023",
+          "cacheMiss": 189,
+          "cacheHit": 3456,
+          "completion": 2,
+          "totalPrompt": 3645
+        },
+        {
+          "callId": "call-0024",
+          "cacheMiss": 163,
+          "cacheHit": 3328,
+          "completion": 265,
+          "totalPrompt": 3491
+        },
+        {
+          "callId": "call-0025",
+          "cacheMiss": 200,
+          "cacheHit": 3328,
+          "completion": 21,
+          "totalPrompt": 3528
+        },
+        {
+          "callId": "call-0026",
+          "cacheMiss": 230,
+          "cacheHit": 3456,
+          "completion": 17,
+          "totalPrompt": 3686
+        },
+        {
+          "callId": "call-0027",
+          "cacheMiss": 225,
+          "cacheHit": 3328,
+          "completion": 77,
+          "totalPrompt": 3553
+        },
+        {
+          "callId": "call-0028",
+          "cacheMiss": 164,
+          "cacheHit": 3456,
+          "completion": 161,
+          "totalPrompt": 3620
+        },
+        {
+          "callId": "call-0029",
+          "cacheMiss": 217,
+          "cacheHit": 3328,
+          "completion": 37,
+          "totalPrompt": 3545
+        },
+        {
+          "callId": "call-0030",
+          "cacheMiss": 204,
+          "cacheHit": 3456,
+          "completion": 53,
+          "totalPrompt": 3660
+        },
+        {
+          "callId": "call-0031",
+          "cacheMiss": 244,
+          "cacheHit": 3456,
+          "completion": 97,
+          "totalPrompt": 3700
+        },
+        {
+          "callId": "call-0032",
+          "cacheMiss": 249,
+          "cacheHit": 3584,
+          "completion": 29,
+          "totalPrompt": 3833
+        },
+        {
+          "callId": "call-0033",
+          "cacheMiss": 140,
+          "cacheHit": 3840,
+          "completion": 101,
+          "totalPrompt": 3980
+        },
+        {
+          "callId": "call-0034",
+          "cacheMiss": 240,
+          "cacheHit": 3456,
+          "completion": 25,
+          "totalPrompt": 3696
+        },
+        {
+          "callId": "call-0035",
+          "cacheMiss": 181,
+          "cacheHit": 3456,
+          "completion": 49,
+          "totalPrompt": 3637
+        },
+        {
+          "callId": "call-0036",
+          "cacheMiss": 214,
+          "cacheHit": 3456,
+          "completion": 33,
+          "totalPrompt": 3670
+        },
+        {
+          "callId": "call-0037",
+          "cacheMiss": 231,
+          "cacheHit": 3712,
+          "completion": 29,
+          "totalPrompt": 3943
+        },
+        {
+          "callId": "call-0038",
+          "cacheMiss": 253,
+          "cacheHit": 3712,
+          "completion": 57,
+          "totalPrompt": 3965
+        },
+        {
+          "callId": "call-0039",
+          "cacheMiss": 155,
+          "cacheHit": 3712,
+          "completion": 41,
+          "totalPrompt": 3867
+        },
+        {
+          "callId": "call-0040",
+          "cacheMiss": 141,
+          "cacheHit": 3456,
+          "completion": 37,
+          "totalPrompt": 3597
+        },
+        {
+          "callId": "call-0041",
+          "cacheMiss": 207,
+          "cacheHit": 3328,
+          "completion": 13,
+          "totalPrompt": 3535
+        },
+        {
+          "callId": "call-0042",
+          "cacheMiss": 186,
+          "cacheHit": 3584,
+          "completion": 89,
+          "totalPrompt": 3770
+        },
+        {
+          "callId": "call-0043",
+          "cacheMiss": 162,
+          "cacheHit": 3584,
+          "completion": 2,
+          "totalPrompt": 3746
+        },
+        {
+          "callId": "call-0044",
+          "cacheMiss": 233,
+          "cacheHit": 3456,
+          "completion": 37,
+          "totalPrompt": 3689
+        },
+        {
+          "callId": "call-0045",
+          "cacheMiss": 162,
+          "cacheHit": 3456,
+          "completion": 33,
+          "totalPrompt": 3618
+        },
+        {
+          "callId": "call-0046",
+          "cacheMiss": 149,
+          "cacheHit": 0,
+          "completion": 9,
+          "totalPrompt": 149
+        },
+        {
+          "callId": "call-0047",
+          "cacheMiss": 3627,
+          "cacheHit": 0,
+          "completion": 2288,
+          "totalPrompt": 3627
+        },
+        {
+          "callId": "call-0048",
+          "cacheMiss": 3591,
+          "cacheHit": 0,
+          "completion": 2274,
+          "totalPrompt": 3591
+        },
+        {
+          "callId": "call-0049",
+          "cacheMiss": 346,
+          "cacheHit": 0,
+          "completion": 118,
+          "totalPrompt": 346
+        },
+        {
+          "callId": "call-0050",
+          "cacheMiss": 1410,
+          "cacheHit": 0,
+          "completion": 835,
+          "totalPrompt": 1410
+        }
+      ]
+    },
+    {
+      "questionId": "Z2-Q3",
+      "callCount": 49,
+      "tokens": {
+        "promptCacheMiss": 19518,
+        "promptCacheHit": 156540,
+        "completion": 8318,
+        "totalPrompt": 176058,
+        "total": 184376
+      },
+      "cost": {
+        "cacheMiss": 0.019518,
+        "cacheHit": 0.015654,
+        "completion": 0.016636,
+        "total": 0.05180800000000001
+      },
+      "callDetails": [
+        {
+          "callId": "call-0001",
+          "cacheMiss": 197,
+          "cacheHit": 3456,
+          "completion": 41,
+          "totalPrompt": 3653
+        },
+        {
+          "callId": "call-0002",
+          "cacheMiss": 220,
+          "cacheHit": 3456,
+          "completion": 153,
+          "totalPrompt": 3676
+        },
+        {
+          "callId": "call-0003",
+          "cacheMiss": 147,
+          "cacheHit": 3456,
+          "completion": 109,
+          "totalPrompt": 3603
+        },
+        {
+          "callId": "call-0004",
+          "cacheMiss": 169,
+          "cacheHit": 3456,
+          "completion": 65,
+          "totalPrompt": 3625
+        },
+        {
+          "callId": "call-0005",
+          "cacheMiss": 214,
+          "cacheHit": 3328,
+          "completion": 61,
+          "totalPrompt": 3542
+        },
+        {
+          "callId": "call-0006",
+          "cacheMiss": 238,
+          "cacheHit": 3456,
+          "completion": 113,
+          "totalPrompt": 3694
+        },
+        {
+          "callId": "call-0007",
+          "cacheMiss": 241,
+          "cacheHit": 3456,
+          "completion": 165,
+          "totalPrompt": 3697
+        },
+        {
+          "callId": "call-0008",
+          "cacheMiss": 169,
+          "cacheHit": 3456,
+          "completion": 41,
+          "totalPrompt": 3625
+        },
+        {
+          "callId": "call-0009",
+          "cacheMiss": 256,
+          "cacheHit": 3328,
+          "completion": 53,
+          "totalPrompt": 3584
+        },
+        {
+          "callId": "call-0010",
+          "cacheMiss": 153,
+          "cacheHit": 3456,
+          "completion": 25,
+          "totalPrompt": 3609
+        },
+        {
+          "callId": "call-0011",
+          "cacheMiss": 183,
+          "cacheHit": 3456,
+          "completion": 169,
+          "totalPrompt": 3639
+        },
+        {
+          "callId": "call-0012",
+          "cacheMiss": 224,
+          "cacheHit": 3456,
+          "completion": 105,
+          "totalPrompt": 3680
+        },
+        {
+          "callId": "call-0013",
+          "cacheMiss": 234,
+          "cacheHit": 3584,
+          "completion": 149,
+          "totalPrompt": 3818
+        },
+        {
+          "callId": "call-0014",
+          "cacheMiss": 190,
+          "cacheHit": 3584,
+          "completion": 2,
+          "totalPrompt": 3774
+        },
+        {
+          "callId": "call-0015",
+          "cacheMiss": 226,
+          "cacheHit": 3456,
+          "completion": 65,
+          "totalPrompt": 3682
+        },
+        {
+          "callId": "call-0016",
+          "cacheMiss": 135,
+          "cacheHit": 3456,
+          "completion": 2,
+          "totalPrompt": 3591
+        },
+        {
+          "callId": "call-0017",
+          "cacheMiss": 204,
+          "cacheHit": 3328,
+          "completion": 2,
+          "totalPrompt": 3532
+        },
+        {
+          "callId": "call-0018",
+          "cacheMiss": 204,
+          "cacheHit": 3456,
+          "completion": 29,
+          "totalPrompt": 3660
+        },
+        {
+          "callId": "call-0019",
+          "cacheMiss": 173,
+          "cacheHit": 3456,
+          "completion": 2,
+          "totalPrompt": 3629
+        },
+        {
+          "callId": "call-0020",
+          "cacheMiss": 252,
+          "cacheHit": 3328,
+          "completion": 2,
+          "totalPrompt": 3580
+        },
+        {
+          "callId": "call-0021",
+          "cacheMiss": 206,
+          "cacheHit": 3584,
+          "completion": 41,
+          "totalPrompt": 3790
+        },
+        {
+          "callId": "call-0022",
+          "cacheMiss": 245,
+          "cacheHit": 3584,
+          "completion": 13,
+          "totalPrompt": 3829
+        },
+        {
+          "callId": "call-0023",
+          "cacheMiss": 194,
+          "cacheHit": 3456,
+          "completion": 2,
+          "totalPrompt": 3650
+        },
+        {
+          "callId": "call-0024",
+          "cacheMiss": 168,
+          "cacheHit": 3328,
+          "completion": 169,
+          "totalPrompt": 3496
+        },
+        {
+          "callId": "call-0025",
+          "cacheMiss": 205,
+          "cacheHit": 3328,
+          "completion": 21,
+          "totalPrompt": 3533
+        },
+        {
+          "callId": "call-0026",
+          "cacheMiss": 235,
+          "cacheHit": 3456,
+          "completion": 49,
+          "totalPrompt": 3691
+        },
+        {
+          "callId": "call-0027",
+          "cacheMiss": 230,
+          "cacheHit": 3328,
+          "completion": 45,
+          "totalPrompt": 3558
+        },
+        {
+          "callId": "call-0028",
+          "cacheMiss": 169,
+          "cacheHit": 3456,
+          "completion": 37,
+          "totalPrompt": 3625
+        },
+        {
+          "callId": "call-0029",
+          "cacheMiss": 222,
+          "cacheHit": 3328,
+          "completion": 25,
+          "totalPrompt": 3550
+        },
+        {
+          "callId": "call-0030",
+          "cacheMiss": 209,
+          "cacheHit": 3456,
+          "completion": 45,
+          "totalPrompt": 3665
+        },
+        {
+          "callId": "call-0031",
+          "cacheMiss": 249,
+          "cacheHit": 3456,
+          "completion": 101,
+          "totalPrompt": 3705
+        },
+        {
+          "callId": "call-0032",
+          "cacheMiss": 254,
+          "cacheHit": 3584,
+          "completion": 57,
+          "totalPrompt": 3838
+        },
+        {
+          "callId": "call-0033",
+          "cacheMiss": 145,
+          "cacheHit": 3840,
+          "completion": 53,
+          "totalPrompt": 3985
+        },
+        {
+          "callId": "call-0034",
+          "cacheMiss": 245,
+          "cacheHit": 3456,
+          "completion": 25,
+          "totalPrompt": 3701
+        },
+        {
+          "callId": "call-0035",
+          "cacheMiss": 186,
+          "cacheHit": 3456,
+          "completion": 65,
+          "totalPrompt": 3642
+        },
+        {
+          "callId": "call-0036",
+          "cacheMiss": 219,
+          "cacheHit": 3456,
+          "completion": 121,
+          "totalPrompt": 3675
+        },
+        {
+          "callId": "call-0037",
+          "cacheMiss": 236,
+          "cacheHit": 3712,
+          "completion": 93,
+          "totalPrompt": 3948
+        },
+        {
+          "callId": "call-0038",
+          "cacheMiss": 134,
+          "cacheHit": 3836,
+          "completion": 2,
+          "totalPrompt": 3970
+        },
+        {
+          "callId": "call-0039",
+          "cacheMiss": 160,
+          "cacheHit": 3712,
+          "completion": 125,
+          "totalPrompt": 3872
+        },
+        {
+          "callId": "call-0040",
+          "cacheMiss": 146,
+          "cacheHit": 3456,
+          "completion": 37,
+          "totalPrompt": 3602
+        },
+        {
+          "callId": "call-0041",
+          "cacheMiss": 212,
+          "cacheHit": 3328,
+          "completion": 41,
+          "totalPrompt": 3540
+        },
+        {
+          "callId": "call-0042",
+          "cacheMiss": 191,
+          "cacheHit": 3584,
+          "completion": 81,
+          "totalPrompt": 3775
+        },
+        {
+          "callId": "call-0043",
+          "cacheMiss": 167,
+          "cacheHit": 3584,
+          "completion": 2,
+          "totalPrompt": 3751
+        },
+        {
+          "callId": "call-0044",
+          "cacheMiss": 238,
+          "cacheHit": 3456,
+          "completion": 41,
+          "totalPrompt": 3694
+        },
+        {
+          "callId": "call-0045",
+          "cacheMiss": 167,
+          "cacheHit": 3456,
+          "completion": 45,
+          "totalPrompt": 3623
+        },
+        {
+          "callId": "call-0046",
+          "cacheMiss": 154,
+          "cacheHit": 0,
+          "completion": 17,
+          "totalPrompt": 154
+        },
+        {
+          "callId": "call-0047",
+          "cacheMiss": 3605,
+          "cacheHit": 0,
+          "completion": 2323,
+          "totalPrompt": 3605
+        },
+        {
+          "callId": "call-0048",
+          "cacheMiss": 3673,
+          "cacheHit": 0,
+          "completion": 2316,
+          "totalPrompt": 3673
+        },
+        {
+          "callId": "call-0049",
+          "cacheMiss": 3025,
+          "cacheHit": 0,
+          "completion": 973,
+          "totalPrompt": 3025
+        }
+      ]
+    },
+    {
+      "questionId": "Z2-Q4",
+      "callCount": 53,
+      "tokens": {
+        "promptCacheMiss": 32266,
+        "promptCacheHit": 156288,
+        "completion": 17315,
+        "totalPrompt": 188554,
+        "total": 205869
+      },
+      "cost": {
+        "cacheMiss": 0.032266,
+        "cacheHit": 0.0156288,
+        "completion": 0.03463,
+        "total": 0.08252480000000001
+      },
+      "callDetails": [
+        {
+          "callId": "call-0001",
+          "cacheMiss": 190,
+          "cacheHit": 3456,
+          "completion": 165,
+          "totalPrompt": 3646
+        },
+        {
+          "callId": "call-0002",
+          "cacheMiss": 213,
+          "cacheHit": 3456,
+          "completion": 181,
+          "totalPrompt": 3669
+        },
+        {
+          "callId": "call-0003",
+          "cacheMiss": 140,
+          "cacheHit": 3456,
+          "completion": 53,
+          "totalPrompt": 3596
+        },
+        {
+          "callId": "call-0004",
+          "cacheMiss": 162,
+          "cacheHit": 3456,
+          "completion": 65,
+          "totalPrompt": 3618
+        },
+        {
+          "callId": "call-0005",
+          "cacheMiss": 207,
+          "cacheHit": 3328,
+          "completion": 417,
+          "totalPrompt": 3535
+        },
+        {
+          "callId": "call-0006",
+          "cacheMiss": 231,
+          "cacheHit": 3456,
+          "completion": 217,
+          "totalPrompt": 3687
+        },
+        {
+          "callId": "call-0007",
+          "cacheMiss": 234,
+          "cacheHit": 3456,
+          "completion": 213,
+          "totalPrompt": 3690
+        },
+        {
+          "callId": "call-0008",
+          "cacheMiss": 162,
+          "cacheHit": 3456,
+          "completion": 85,
+          "totalPrompt": 3618
+        },
+        {
+          "callId": "call-0009",
+          "cacheMiss": 249,
+          "cacheHit": 3328,
+          "completion": 137,
+          "totalPrompt": 3577
+        },
+        {
+          "callId": "call-0010",
+          "cacheMiss": 146,
+          "cacheHit": 3456,
+          "completion": 49,
+          "totalPrompt": 3602
+        },
+        {
+          "callId": "call-0011",
+          "cacheMiss": 176,
+          "cacheHit": 3456,
+          "completion": 141,
+          "totalPrompt": 3632
+        },
+        {
+          "callId": "call-0012",
+          "cacheMiss": 217,
+          "cacheHit": 3456,
+          "completion": 121,
+          "totalPrompt": 3673
+        },
+        {
+          "callId": "call-0013",
+          "cacheMiss": 227,
+          "cacheHit": 3584,
+          "completion": 141,
+          "totalPrompt": 3811
+        },
+        {
+          "callId": "call-0014",
+          "cacheMiss": 183,
+          "cacheHit": 3584,
+          "completion": 165,
+          "totalPrompt": 3767
+        },
+        {
+          "callId": "call-0015",
+          "cacheMiss": 219,
+          "cacheHit": 3456,
+          "completion": 1197,
+          "totalPrompt": 3675
+        },
+        {
+          "callId": "call-0016",
+          "cacheMiss": 256,
+          "cacheHit": 3328,
+          "completion": 81,
+          "totalPrompt": 3584
+        },
+        {
+          "callId": "call-0017",
+          "cacheMiss": 197,
+          "cacheHit": 3328,
+          "completion": 57,
+          "totalPrompt": 3525
+        },
+        {
+          "callId": "call-0018",
+          "cacheMiss": 197,
+          "cacheHit": 3456,
+          "completion": 41,
+          "totalPrompt": 3653
+        },
+        {
+          "callId": "call-0019",
+          "cacheMiss": 166,
+          "cacheHit": 3456,
+          "completion": 57,
+          "totalPrompt": 3622
+        },
+        {
+          "callId": "call-0020",
+          "cacheMiss": 245,
+          "cacheHit": 3328,
+          "completion": 49,
+          "totalPrompt": 3573
+        },
+        {
+          "callId": "call-0021",
+          "cacheMiss": 199,
+          "cacheHit": 3584,
+          "completion": 61,
+          "totalPrompt": 3783
+        },
+        {
+          "callId": "call-0022",
+          "cacheMiss": 238,
+          "cacheHit": 3584,
+          "completion": 77,
+          "totalPrompt": 3822
+        },
+        {
+          "callId": "call-0023",
+          "cacheMiss": 187,
+          "cacheHit": 3456,
+          "completion": 25,
+          "totalPrompt": 3643
+        },
+        {
+          "callId": "call-0024",
+          "cacheMiss": 161,
+          "cacheHit": 3328,
+          "completion": 149,
+          "totalPrompt": 3489
+        },
+        {
+          "callId": "call-0025",
+          "cacheMiss": 198,
+          "cacheHit": 3328,
+          "completion": 245,
+          "totalPrompt": 3526
+        },
+        {
+          "callId": "call-0026",
+          "cacheMiss": 228,
+          "cacheHit": 3456,
+          "completion": 97,
+          "totalPrompt": 3684
+        },
+        {
+          "callId": "call-0027",
+          "cacheMiss": 223,
+          "cacheHit": 3328,
+          "completion": 129,
+          "totalPrompt": 3551
+        },
+        {
+          "callId": "call-0028",
+          "cacheMiss": 162,
+          "cacheHit": 3456,
+          "completion": 157,
+          "totalPrompt": 3618
+        },
+        {
+          "callId": "call-0029",
+          "cacheMiss": 215,
+          "cacheHit": 3328,
+          "completion": 197,
+          "totalPrompt": 3543
+        },
+        {
+          "callId": "call-0030",
+          "cacheMiss": 202,
+          "cacheHit": 3456,
+          "completion": 37,
+          "totalPrompt": 3658
+        },
+        {
+          "callId": "call-0031",
+          "cacheMiss": 242,
+          "cacheHit": 3456,
+          "completion": 25,
+          "totalPrompt": 3698
+        },
+        {
+          "callId": "call-0032",
+          "cacheMiss": 247,
+          "cacheHit": 3584,
+          "completion": 33,
+          "totalPrompt": 3831
+        },
+        {
+          "callId": "call-0033",
+          "cacheMiss": 138,
+          "cacheHit": 3840,
+          "completion": 69,
+          "totalPrompt": 3978
+        },
+        {
+          "callId": "call-0034",
+          "cacheMiss": 238,
+          "cacheHit": 3456,
+          "completion": 69,
+          "totalPrompt": 3694
+        },
+        {
+          "callId": "call-0035",
+          "cacheMiss": 179,
+          "cacheHit": 3456,
+          "completion": 77,
+          "totalPrompt": 3635
+        },
+        {
+          "callId": "call-0036",
+          "cacheMiss": 212,
+          "cacheHit": 3456,
+          "completion": 69,
+          "totalPrompt": 3668
+        },
+        {
+          "callId": "call-0037",
+          "cacheMiss": 229,
+          "cacheHit": 3712,
+          "completion": 93,
+          "totalPrompt": 3941
+        },
+        {
+          "callId": "call-0038",
+          "cacheMiss": 251,
+          "cacheHit": 3712,
+          "completion": 213,
+          "totalPrompt": 3963
+        },
+        {
+          "callId": "call-0039",
+          "cacheMiss": 153,
+          "cacheHit": 3712,
+          "completion": 69,
+          "totalPrompt": 3865
+        },
+        {
+          "callId": "call-0040",
+          "cacheMiss": 139,
+          "cacheHit": 3456,
+          "completion": 77,
+          "totalPrompt": 3595
+        },
+        {
+          "callId": "call-0041",
+          "cacheMiss": 205,
+          "cacheHit": 3328,
+          "completion": 145,
+          "totalPrompt": 3533
+        },
+        {
+          "callId": "call-0042",
+          "cacheMiss": 184,
+          "cacheHit": 3584,
+          "completion": 41,
+          "totalPrompt": 3768
+        },
+        {
+          "callId": "call-0043",
+          "cacheMiss": 160,
+          "cacheHit": 3584,
+          "completion": 81,
+          "totalPrompt": 3744
+        },
+        {
+          "callId": "call-0044",
+          "cacheMiss": 231,
+          "cacheHit": 3456,
+          "completion": 105,
+          "totalPrompt": 3687
+        },
+        {
+          "callId": "call-0045",
+          "cacheMiss": 160,
+          "cacheHit": 3456,
+          "completion": 105,
+          "totalPrompt": 3616
+        },
+        {
+          "callId": "call-0046",
+          "cacheMiss": 147,
+          "cacheHit": 0,
+          "completion": 9,
+          "totalPrompt": 147
+        },
+        {
+          "callId": "call-0047",
+          "cacheMiss": 3376,
+          "cacheHit": 0,
+          "completion": 2120,
+          "totalPrompt": 3376
+        },
+        {
+          "callId": "call-0048",
+          "cacheMiss": 3448,
+          "cacheHit": 0,
+          "completion": 2085,
+          "totalPrompt": 3448
+        },
+        {
+          "callId": "call-0049",
+          "cacheMiss": 3252,
+          "cacheHit": 0,
+          "completion": 1784,
+          "totalPrompt": 3252
+        },
+        {
+          "callId": "call-0050",
+          "cacheMiss": 3623,
+          "cacheHit": 0,
+          "completion": 2288,
+          "totalPrompt": 3623
+        },
+        {
+          "callId": "call-0051",
+          "cacheMiss": 3423,
+          "cacheHit": 0,
+          "completion": 2043,
+          "totalPrompt": 3423
+        },
+        {
+          "callId": "call-0052",
+          "cacheMiss": 552,
+          "cacheHit": 0,
+          "completion": 244,
+          "totalPrompt": 552
+        },
+        {
+          "callId": "call-0053",
+          "cacheMiss": 5447,
+          "cacheHit": 0,
+          "completion": 665,
+          "totalPrompt": 5447
+        }
+      ]
+    },
+    {
+      "questionId": "Z3-Q1",
+      "callCount": 49,
+      "tokens": {
+        "promptCacheMiss": 18379,
+        "promptCacheHit": 156540,
+        "completion": 8512,
+        "totalPrompt": 174919,
+        "total": 183431
+      },
+      "cost": {
+        "cacheMiss": 0.018379,
+        "cacheHit": 0.015654,
+        "completion": 0.017024,
+        "total": 0.051057000000000005
+      },
+      "callDetails": [
+        {
+          "callId": "call-0001",
+          "cacheMiss": 197,
+          "cacheHit": 3456,
+          "completion": 73,
+          "totalPrompt": 3653
+        },
+        {
+          "callId": "call-0002",
+          "cacheMiss": 220,
+          "cacheHit": 3456,
+          "completion": 45,
+          "totalPrompt": 3676
+        },
+        {
+          "callId": "call-0003",
+          "cacheMiss": 147,
+          "cacheHit": 3456,
+          "completion": 2,
+          "totalPrompt": 3603
+        },
+        {
+          "callId": "call-0004",
+          "cacheMiss": 169,
+          "cacheHit": 3456,
+          "completion": 13,
+          "totalPrompt": 3625
+        },
+        {
+          "callId": "call-0005",
+          "cacheMiss": 214,
+          "cacheHit": 3328,
+          "completion": 21,
+          "totalPrompt": 3542
+        },
+        {
+          "callId": "call-0006",
+          "cacheMiss": 238,
+          "cacheHit": 3456,
+          "completion": 105,
+          "totalPrompt": 3694
+        },
+        {
+          "callId": "call-0007",
+          "cacheMiss": 241,
+          "cacheHit": 3456,
+          "completion": 133,
+          "totalPrompt": 3697
+        },
+        {
+          "callId": "call-0008",
+          "cacheMiss": 169,
+          "cacheHit": 3456,
+          "completion": 25,
+          "totalPrompt": 3625
+        },
+        {
+          "callId": "call-0009",
+          "cacheMiss": 256,
+          "cacheHit": 3328,
+          "completion": 33,
+          "totalPrompt": 3584
+        },
+        {
+          "callId": "call-0010",
+          "cacheMiss": 153,
+          "cacheHit": 3456,
+          "completion": 49,
+          "totalPrompt": 3609
+        },
+        {
+          "callId": "call-0011",
+          "cacheMiss": 183,
+          "cacheHit": 3456,
+          "completion": 37,
+          "totalPrompt": 3639
+        },
+        {
+          "callId": "call-0012",
+          "cacheMiss": 224,
+          "cacheHit": 3456,
+          "completion": 1101,
+          "totalPrompt": 3680
+        },
+        {
+          "callId": "call-0013",
+          "cacheMiss": 234,
+          "cacheHit": 3584,
+          "completion": 13,
+          "totalPrompt": 3818
+        },
+        {
+          "callId": "call-0014",
+          "cacheMiss": 190,
+          "cacheHit": 3584,
+          "completion": 2,
+          "totalPrompt": 3774
+        },
+        {
+          "callId": "call-0015",
+          "cacheMiss": 226,
+          "cacheHit": 3456,
+          "completion": 21,
+          "totalPrompt": 3682
+        },
+        {
+          "callId": "call-0016",
+          "cacheMiss": 135,
+          "cacheHit": 3456,
+          "completion": 2,
+          "totalPrompt": 3591
+        },
+        {
+          "callId": "call-0017",
+          "cacheMiss": 204,
+          "cacheHit": 3328,
+          "completion": 2,
+          "totalPrompt": 3532
+        },
+        {
+          "callId": "call-0018",
+          "cacheMiss": 204,
+          "cacheHit": 3456,
+          "completion": 2,
+          "totalPrompt": 3660
+        },
+        {
+          "callId": "call-0019",
+          "cacheMiss": 173,
+          "cacheHit": 3456,
+          "completion": 2,
+          "totalPrompt": 3629
+        },
+        {
+          "callId": "call-0020",
+          "cacheMiss": 252,
+          "cacheHit": 3328,
+          "completion": 2,
+          "totalPrompt": 3580
+        },
+        {
+          "callId": "call-0021",
+          "cacheMiss": 206,
+          "cacheHit": 3584,
+          "completion": 101,
+          "totalPrompt": 3790
+        },
+        {
+          "callId": "call-0022",
+          "cacheMiss": 245,
+          "cacheHit": 3584,
+          "completion": 45,
+          "totalPrompt": 3829
+        },
+        {
+          "callId": "call-0023",
+          "cacheMiss": 194,
+          "cacheHit": 3456,
+          "completion": 2,
+          "totalPrompt": 3650
+        },
+        {
+          "callId": "call-0024",
+          "cacheMiss": 168,
+          "cacheHit": 3328,
+          "completion": 2,
+          "totalPrompt": 3496
+        },
+        {
+          "callId": "call-0025",
+          "cacheMiss": 205,
+          "cacheHit": 3328,
+          "completion": 49,
+          "totalPrompt": 3533
+        },
+        {
+          "callId": "call-0026",
+          "cacheMiss": 235,
+          "cacheHit": 3456,
+          "completion": 2,
+          "totalPrompt": 3691
+        },
+        {
+          "callId": "call-0027",
+          "cacheMiss": 230,
+          "cacheHit": 3328,
+          "completion": 9,
+          "totalPrompt": 3558
+        },
+        {
+          "callId": "call-0028",
+          "cacheMiss": 169,
+          "cacheHit": 3456,
+          "completion": 141,
+          "totalPrompt": 3625
+        },
+        {
+          "callId": "call-0029",
+          "cacheMiss": 222,
+          "cacheHit": 3328,
+          "completion": 2,
+          "totalPrompt": 3550
+        },
+        {
+          "callId": "call-0030",
+          "cacheMiss": 209,
+          "cacheHit": 3456,
+          "completion": 2,
+          "totalPrompt": 3665
+        },
+        {
+          "callId": "call-0031",
+          "cacheMiss": 249,
+          "cacheHit": 3456,
+          "completion": 25,
+          "totalPrompt": 3705
+        },
+        {
+          "callId": "call-0032",
+          "cacheMiss": 254,
+          "cacheHit": 3584,
+          "completion": 33,
+          "totalPrompt": 3838
+        },
+        {
+          "callId": "call-0033",
+          "cacheMiss": 145,
+          "cacheHit": 3840,
+          "completion": 53,
+          "totalPrompt": 3985
+        },
+        {
+          "callId": "call-0034",
+          "cacheMiss": 245,
+          "cacheHit": 3456,
+          "completion": 101,
+          "totalPrompt": 3701
+        },
+        {
+          "callId": "call-0035",
+          "cacheMiss": 186,
+          "cacheHit": 3456,
+          "completion": 15,
+          "totalPrompt": 3642
+        },
+        {
+          "callId": "call-0036",
+          "cacheMiss": 219,
+          "cacheHit": 3456,
+          "completion": 33,
+          "totalPrompt": 3675
+        },
+        {
+          "callId": "call-0037",
+          "cacheMiss": 236,
+          "cacheHit": 3712,
+          "completion": 133,
+          "totalPrompt": 3948
+        },
+        {
+          "callId": "call-0038",
+          "cacheMiss": 134,
+          "cacheHit": 3836,
+          "completion": 2,
+          "totalPrompt": 3970
+        },
+        {
+          "callId": "call-0039",
+          "cacheMiss": 160,
+          "cacheHit": 3712,
+          "completion": 73,
+          "totalPrompt": 3872
+        },
+        {
+          "callId": "call-0040",
+          "cacheMiss": 146,
+          "cacheHit": 3456,
+          "completion": 2,
+          "totalPrompt": 3602
+        },
+        {
+          "callId": "call-0041",
+          "cacheMiss": 212,
+          "cacheHit": 3328,
+          "completion": 2,
+          "totalPrompt": 3540
+        },
+        {
+          "callId": "call-0042",
+          "cacheMiss": 191,
+          "cacheHit": 3584,
+          "completion": 5,
+          "totalPrompt": 3775
+        },
+        {
+          "callId": "call-0043",
+          "cacheMiss": 167,
+          "cacheHit": 3584,
+          "completion": 2,
+          "totalPrompt": 3751
+        },
+        {
+          "callId": "call-0044",
+          "cacheMiss": 238,
+          "cacheHit": 3456,
+          "completion": 2,
+          "totalPrompt": 3694
+        },
+        {
+          "callId": "call-0045",
+          "cacheMiss": 167,
+          "cacheHit": 3456,
+          "completion": 49,
+          "totalPrompt": 3623
+        },
+        {
+          "callId": "call-0046",
+          "cacheMiss": 154,
+          "cacheHit": 0,
+          "completion": 33,
+          "totalPrompt": 154
+        },
+        {
+          "callId": "call-0047",
+          "cacheMiss": 3694,
+          "cacheHit": 0,
+          "completion": 2316,
+          "totalPrompt": 3694
+        },
+        {
+          "callId": "call-0048",
+          "cacheMiss": 3210,
+          "cacheHit": 0,
+          "completion": 2148,
+          "totalPrompt": 3210
+        },
+        {
+          "callId": "call-0049",
+          "cacheMiss": 2260,
+          "cacheHit": 0,
+          "completion": 1447,
+          "totalPrompt": 2260
+        }
+      ]
+    },
+    {
+      "questionId": "Z3-Q2",
+      "callCount": 49,
+      "tokens": {
+        "promptCacheMiss": 15905,
+        "promptCacheHit": 156416,
+        "completion": 6495,
+        "totalPrompt": 172321,
+        "total": 178816
+      },
+      "cost": {
+        "cacheMiss": 0.015905,
+        "cacheHit": 0.015641600000000002,
+        "completion": 0.01299,
+        "total": 0.0445366
+      },
+      "callDetails": [
+        {
+          "callId": "call-0001",
+          "cacheMiss": 189,
+          "cacheHit": 3456,
+          "completion": 217,
+          "totalPrompt": 3645
+        },
+        {
+          "callId": "call-0002",
+          "cacheMiss": 212,
+          "cacheHit": 3456,
+          "completion": 113,
+          "totalPrompt": 3668
+        },
+        {
+          "callId": "call-0003",
+          "cacheMiss": 139,
+          "cacheHit": 3456,
+          "completion": 2,
+          "totalPrompt": 3595
+        },
+        {
+          "callId": "call-0004",
+          "cacheMiss": 161,
+          "cacheHit": 3456,
+          "completion": 145,
+          "totalPrompt": 3617
+        },
+        {
+          "callId": "call-0005",
+          "cacheMiss": 206,
+          "cacheHit": 3328,
+          "completion": 69,
+          "totalPrompt": 3534
+        },
+        {
+          "callId": "call-0006",
+          "cacheMiss": 230,
+          "cacheHit": 3456,
+          "completion": 113,
+          "totalPrompt": 3686
+        },
+        {
+          "callId": "call-0007",
+          "cacheMiss": 233,
+          "cacheHit": 3456,
+          "completion": 153,
+          "totalPrompt": 3689
+        },
+        {
+          "callId": "call-0008",
+          "cacheMiss": 161,
+          "cacheHit": 3456,
+          "completion": 65,
+          "totalPrompt": 3617
+        },
+        {
+          "callId": "call-0009",
+          "cacheMiss": 248,
+          "cacheHit": 3328,
+          "completion": 153,
+          "totalPrompt": 3576
+        },
+        {
+          "callId": "call-0010",
+          "cacheMiss": 145,
+          "cacheHit": 3456,
+          "completion": 53,
+          "totalPrompt": 3601
+        },
+        {
+          "callId": "call-0011",
+          "cacheMiss": 175,
+          "cacheHit": 3456,
+          "completion": 49,
+          "totalPrompt": 3631
+        },
+        {
+          "callId": "call-0012",
+          "cacheMiss": 216,
+          "cacheHit": 3456,
+          "completion": 37,
+          "totalPrompt": 3672
+        },
+        {
+          "callId": "call-0013",
+          "cacheMiss": 226,
+          "cacheHit": 3584,
+          "completion": 2,
+          "totalPrompt": 3810
+        },
+        {
+          "callId": "call-0014",
+          "cacheMiss": 182,
+          "cacheHit": 3584,
+          "completion": 2,
+          "totalPrompt": 3766
+        },
+        {
+          "callId": "call-0015",
+          "cacheMiss": 218,
+          "cacheHit": 3456,
+          "completion": 2,
+          "totalPrompt": 3674
+        },
+        {
+          "callId": "call-0016",
+          "cacheMiss": 255,
+          "cacheHit": 3328,
+          "completion": 2,
+          "totalPrompt": 3583
+        },
+        {
+          "callId": "call-0017",
+          "cacheMiss": 196,
+          "cacheHit": 3328,
+          "completion": 2,
+          "totalPrompt": 3524
+        },
+        {
+          "callId": "call-0018",
+          "cacheMiss": 196,
+          "cacheHit": 3456,
+          "completion": 37,
+          "totalPrompt": 3652
+        },
+        {
+          "callId": "call-0019",
+          "cacheMiss": 165,
+          "cacheHit": 3456,
+          "completion": 2,
+          "totalPrompt": 3621
+        },
+        {
+          "callId": "call-0020",
+          "cacheMiss": 244,
+          "cacheHit": 3328,
+          "completion": 2,
+          "totalPrompt": 3572
+        },
+        {
+          "callId": "call-0021",
+          "cacheMiss": 198,
+          "cacheHit": 3584,
+          "completion": 33,
+          "totalPrompt": 3782
+        },
+        {
+          "callId": "call-0022",
+          "cacheMiss": 237,
+          "cacheHit": 3584,
+          "completion": 21,
+          "totalPrompt": 3821
+        },
+        {
+          "callId": "call-0023",
+          "cacheMiss": 186,
+          "cacheHit": 3456,
+          "completion": 2,
+          "totalPrompt": 3642
+        },
+        {
+          "callId": "call-0024",
+          "cacheMiss": 160,
+          "cacheHit": 3328,
+          "completion": 2,
+          "totalPrompt": 3488
+        },
+        {
+          "callId": "call-0025",
+          "cacheMiss": 197,
+          "cacheHit": 3328,
+          "completion": 2,
+          "totalPrompt": 3525
+        },
+        {
+          "callId": "call-0026",
+          "cacheMiss": 227,
+          "cacheHit": 3456,
+          "completion": 37,
+          "totalPrompt": 3683
+        },
+        {
+          "callId": "call-0027",
+          "cacheMiss": 222,
+          "cacheHit": 3328,
+          "completion": 13,
+          "totalPrompt": 3550
+        },
+        {
+          "callId": "call-0028",
+          "cacheMiss": 161,
+          "cacheHit": 3456,
+          "completion": 37,
+          "totalPrompt": 3617
+        },
+        {
+          "callId": "call-0029",
+          "cacheMiss": 214,
+          "cacheHit": 3328,
+          "completion": 2,
+          "totalPrompt": 3542
+        },
+        {
+          "callId": "call-0030",
+          "cacheMiss": 201,
+          "cacheHit": 3456,
+          "completion": 25,
+          "totalPrompt": 3657
+        },
+        {
+          "callId": "call-0031",
+          "cacheMiss": 241,
+          "cacheHit": 3456,
+          "completion": 53,
+          "totalPrompt": 3697
+        },
+        {
+          "callId": "call-0032",
+          "cacheMiss": 246,
+          "cacheHit": 3584,
+          "completion": 2,
+          "totalPrompt": 3830
+        },
+        {
+          "callId": "call-0033",
+          "cacheMiss": 137,
+          "cacheHit": 3840,
+          "completion": 17,
+          "totalPrompt": 3977
+        },
+        {
+          "callId": "call-0034",
+          "cacheMiss": 237,
+          "cacheHit": 3456,
+          "completion": 21,
+          "totalPrompt": 3693
+        },
+        {
+          "callId": "call-0035",
+          "cacheMiss": 178,
+          "cacheHit": 3456,
+          "completion": 37,
+          "totalPrompt": 3634
+        },
+        {
+          "callId": "call-0036",
+          "cacheMiss": 211,
+          "cacheHit": 3456,
+          "completion": 105,
+          "totalPrompt": 3667
+        },
+        {
+          "callId": "call-0037",
+          "cacheMiss": 228,
+          "cacheHit": 3712,
+          "completion": 73,
+          "totalPrompt": 3940
+        },
+        {
+          "callId": "call-0038",
+          "cacheMiss": 250,
+          "cacheHit": 3712,
+          "completion": 2,
+          "totalPrompt": 3962
+        },
+        {
+          "callId": "call-0039",
+          "cacheMiss": 152,
+          "cacheHit": 3712,
+          "completion": 65,
+          "totalPrompt": 3864
+        },
+        {
+          "callId": "call-0040",
+          "cacheMiss": 138,
+          "cacheHit": 3456,
+          "completion": 25,
+          "totalPrompt": 3594
+        },
+        {
+          "callId": "call-0041",
+          "cacheMiss": 204,
+          "cacheHit": 3328,
+          "completion": 41,
+          "totalPrompt": 3532
+        },
+        {
+          "callId": "call-0042",
+          "cacheMiss": 183,
+          "cacheHit": 3584,
+          "completion": 45,
+          "totalPrompt": 3767
+        },
+        {
+          "callId": "call-0043",
+          "cacheMiss": 159,
+          "cacheHit": 3584,
+          "completion": 2,
+          "totalPrompt": 3743
+        },
+        {
+          "callId": "call-0044",
+          "cacheMiss": 230,
+          "cacheHit": 3456,
+          "completion": 81,
+          "totalPrompt": 3686
+        },
+        {
+          "callId": "call-0045",
+          "cacheMiss": 159,
+          "cacheHit": 3456,
+          "completion": 45,
+          "totalPrompt": 3615
+        },
+        {
+          "callId": "call-0046",
+          "cacheMiss": 146,
+          "cacheHit": 0,
+          "completion": 5,
+          "totalPrompt": 146
+        },
+        {
+          "callId": "call-0047",
+          "cacheMiss": 3441,
+          "cacheHit": 128,
+          "completion": 2323,
+          "totalPrompt": 3569
+        },
+        {
+          "callId": "call-0048",
+          "cacheMiss": 1851,
+          "cacheHit": 0,
+          "completion": 1091,
+          "totalPrompt": 1851
+        },
+        {
+          "callId": "call-0049",
+          "cacheMiss": 1514,
+          "cacheHit": 0,
+          "completion": 1068,
+          "totalPrompt": 1514
+        }
+      ]
+    },
+    {
+      "questionId": "Z3-Q3",
+      "callCount": 48,
+      "tokens": {
+        "promptCacheMiss": 14575,
+        "promptCacheHit": 156288,
+        "completion": 4010,
+        "totalPrompt": 170863,
+        "total": 174873
+      },
+      "cost": {
+        "cacheMiss": 0.014575,
+        "cacheHit": 0.0156288,
+        "completion": 0.00802,
+        "total": 0.0382238
+      },
+      "callDetails": [
+        {
+          "callId": "call-0001",
+          "cacheMiss": 189,
+          "cacheHit": 3456,
+          "completion": 37,
+          "totalPrompt": 3645
+        },
+        {
+          "callId": "call-0002",
+          "cacheMiss": 212,
+          "cacheHit": 3456,
+          "completion": 41,
+          "totalPrompt": 3668
+        },
+        {
+          "callId": "call-0003",
+          "cacheMiss": 139,
+          "cacheHit": 3456,
+          "completion": 2,
+          "totalPrompt": 3595
+        },
+        {
+          "callId": "call-0004",
+          "cacheMiss": 161,
+          "cacheHit": 3456,
+          "completion": 13,
+          "totalPrompt": 3617
+        },
+        {
+          "callId": "call-0005",
+          "cacheMiss": 206,
+          "cacheHit": 3328,
+          "completion": 77,
+          "totalPrompt": 3534
+        },
+        {
+          "callId": "call-0006",
+          "cacheMiss": 230,
+          "cacheHit": 3456,
+          "completion": 73,
+          "totalPrompt": 3686
+        },
+        {
+          "callId": "call-0007",
+          "cacheMiss": 233,
+          "cacheHit": 3456,
+          "completion": 69,
+          "totalPrompt": 3689
+        },
+        {
+          "callId": "call-0008",
+          "cacheMiss": 161,
+          "cacheHit": 3456,
+          "completion": 17,
+          "totalPrompt": 3617
+        },
+        {
+          "callId": "call-0009",
+          "cacheMiss": 248,
+          "cacheHit": 3328,
+          "completion": 141,
+          "totalPrompt": 3576
+        },
+        {
+          "callId": "call-0010",
+          "cacheMiss": 145,
+          "cacheHit": 3456,
+          "completion": 21,
+          "totalPrompt": 3601
+        },
+        {
+          "callId": "call-0011",
+          "cacheMiss": 175,
+          "cacheHit": 3456,
+          "completion": 21,
+          "totalPrompt": 3631
+        },
+        {
+          "callId": "call-0012",
+          "cacheMiss": 216,
+          "cacheHit": 3456,
+          "completion": 85,
+          "totalPrompt": 3672
+        },
+        {
+          "callId": "call-0013",
+          "cacheMiss": 226,
+          "cacheHit": 3584,
+          "completion": 2,
+          "totalPrompt": 3810
+        },
+        {
+          "callId": "call-0014",
+          "cacheMiss": 182,
+          "cacheHit": 3584,
+          "completion": 2,
+          "totalPrompt": 3766
+        },
+        {
+          "callId": "call-0015",
+          "cacheMiss": 218,
+          "cacheHit": 3456,
+          "completion": 2,
+          "totalPrompt": 3674
+        },
+        {
+          "callId": "call-0016",
+          "cacheMiss": 255,
+          "cacheHit": 3328,
+          "completion": 2,
+          "totalPrompt": 3583
+        },
+        {
+          "callId": "call-0017",
+          "cacheMiss": 196,
+          "cacheHit": 3328,
+          "completion": 2,
+          "totalPrompt": 3524
+        },
+        {
+          "callId": "call-0018",
+          "cacheMiss": 196,
+          "cacheHit": 3456,
+          "completion": 25,
+          "totalPrompt": 3652
+        },
+        {
+          "callId": "call-0019",
+          "cacheMiss": 165,
+          "cacheHit": 3456,
+          "completion": 2,
+          "totalPrompt": 3621
+        },
+        {
+          "callId": "call-0020",
+          "cacheMiss": 244,
+          "cacheHit": 3328,
+          "completion": 2,
+          "totalPrompt": 3572
+        },
+        {
+          "callId": "call-0021",
+          "cacheMiss": 198,
+          "cacheHit": 3584,
+          "completion": 2,
+          "totalPrompt": 3782
+        },
+        {
+          "callId": "call-0022",
+          "cacheMiss": 237,
+          "cacheHit": 3584,
+          "completion": 2,
+          "totalPrompt": 3821
+        },
+        {
+          "callId": "call-0023",
+          "cacheMiss": 186,
+          "cacheHit": 3456,
+          "completion": 2,
+          "totalPrompt": 3642
+        },
+        {
+          "callId": "call-0024",
+          "cacheMiss": 160,
+          "cacheHit": 3328,
+          "completion": 2,
+          "totalPrompt": 3488
+        },
+        {
+          "callId": "call-0025",
+          "cacheMiss": 197,
+          "cacheHit": 3328,
+          "completion": 17,
+          "totalPrompt": 3525
+        },
+        {
+          "callId": "call-0026",
+          "cacheMiss": 227,
+          "cacheHit": 3456,
+          "completion": 5,
+          "totalPrompt": 3683
+        },
+        {
+          "callId": "call-0027",
+          "cacheMiss": 222,
+          "cacheHit": 3328,
+          "completion": 2,
+          "totalPrompt": 3550
+        },
+        {
+          "callId": "call-0028",
+          "cacheMiss": 161,
+          "cacheHit": 3456,
+          "completion": 69,
+          "totalPrompt": 3617
+        },
+        {
+          "callId": "call-0029",
+          "cacheMiss": 214,
+          "cacheHit": 3328,
+          "completion": 5,
+          "totalPrompt": 3542
+        },
+        {
+          "callId": "call-0030",
+          "cacheMiss": 201,
+          "cacheHit": 3456,
+          "completion": 2,
+          "totalPrompt": 3657
+        },
+        {
+          "callId": "call-0031",
+          "cacheMiss": 241,
+          "cacheHit": 3456,
+          "completion": 77,
+          "totalPrompt": 3697
+        },
+        {
+          "callId": "call-0032",
+          "cacheMiss": 246,
+          "cacheHit": 3584,
+          "completion": 2,
+          "totalPrompt": 3830
+        },
+        {
+          "callId": "call-0033",
+          "cacheMiss": 137,
+          "cacheHit": 3840,
+          "completion": 13,
+          "totalPrompt": 3977
+        },
+        {
+          "callId": "call-0034",
+          "cacheMiss": 237,
+          "cacheHit": 3456,
+          "completion": 2,
+          "totalPrompt": 3693
+        },
+        {
+          "callId": "call-0035",
+          "cacheMiss": 178,
+          "cacheHit": 3456,
+          "completion": 2,
+          "totalPrompt": 3634
+        },
+        {
+          "callId": "call-0036",
+          "cacheMiss": 211,
+          "cacheHit": 3456,
+          "completion": 33,
+          "totalPrompt": 3667
+        },
+        {
+          "callId": "call-0037",
+          "cacheMiss": 228,
+          "cacheHit": 3712,
+          "completion": 37,
+          "totalPrompt": 3940
+        },
+        {
+          "callId": "call-0038",
+          "cacheMiss": 250,
+          "cacheHit": 3712,
+          "completion": 21,
+          "totalPrompt": 3962
+        },
+        {
+          "callId": "call-0039",
+          "cacheMiss": 152,
+          "cacheHit": 3712,
+          "completion": 85,
+          "totalPrompt": 3864
+        },
+        {
+          "callId": "call-0040",
+          "cacheMiss": 138,
+          "cacheHit": 3456,
+          "completion": 21,
+          "totalPrompt": 3594
+        },
+        {
+          "callId": "call-0041",
+          "cacheMiss": 204,
+          "cacheHit": 3328,
+          "completion": 2,
+          "totalPrompt": 3532
+        },
+        {
+          "callId": "call-0042",
+          "cacheMiss": 183,
+          "cacheHit": 3584,
+          "completion": 25,
+          "totalPrompt": 3767
+        },
+        {
+          "callId": "call-0043",
+          "cacheMiss": 159,
+          "cacheHit": 3584,
+          "completion": 2,
+          "totalPrompt": 3743
+        },
+        {
+          "callId": "call-0044",
+          "cacheMiss": 230,
+          "cacheHit": 3456,
+          "completion": 25,
+          "totalPrompt": 3686
+        },
+        {
+          "callId": "call-0045",
+          "cacheMiss": 159,
+          "cacheHit": 3456,
+          "completion": 29,
+          "totalPrompt": 3615
+        },
+        {
+          "callId": "call-0046",
+          "cacheMiss": 146,
+          "cacheHit": 0,
+          "completion": 5,
+          "totalPrompt": 146
+        },
+        {
+          "callId": "call-0047",
+          "cacheMiss": 2889,
+          "cacheHit": 0,
+          "completion": 1847,
+          "totalPrompt": 2889
+        },
+        {
+          "callId": "call-0048",
+          "cacheMiss": 2587,
+          "cacheHit": 0,
+          "completion": 1038,
+          "totalPrompt": 2587
+        }
+      ]
+    },
+    {
+      "questionId": "Z4-Q1",
+      "callCount": 50,
+      "tokens": {
+        "promptCacheMiss": 17964,
+        "promptCacheHit": 156288,
+        "completion": 8402,
+        "totalPrompt": 174252,
+        "total": 182654
+      },
+      "cost": {
+        "cacheMiss": 0.017964,
+        "cacheHit": 0.0156288,
+        "completion": 0.016804,
+        "total": 0.050396800000000005
+      },
+      "callDetails": [
+        {
+          "callId": "call-0001",
+          "cacheMiss": 187,
+          "cacheHit": 3456,
+          "completion": 29,
+          "totalPrompt": 3643
+        },
+        {
+          "callId": "call-0002",
+          "cacheMiss": 210,
+          "cacheHit": 3456,
+          "completion": 13,
+          "totalPrompt": 3666
+        },
+        {
+          "callId": "call-0003",
+          "cacheMiss": 137,
+          "cacheHit": 3456,
+          "completion": 25,
+          "totalPrompt": 3593
+        },
+        {
+          "callId": "call-0004",
+          "cacheMiss": 159,
+          "cacheHit": 3456,
+          "completion": 33,
+          "totalPrompt": 3615
+        },
+        {
+          "callId": "call-0005",
+          "cacheMiss": 204,
+          "cacheHit": 3328,
+          "completion": 29,
+          "totalPrompt": 3532
+        },
+        {
+          "callId": "call-0006",
+          "cacheMiss": 228,
+          "cacheHit": 3456,
+          "completion": 69,
+          "totalPrompt": 3684
+        },
+        {
+          "callId": "call-0007",
+          "cacheMiss": 231,
+          "cacheHit": 3456,
+          "completion": 33,
+          "totalPrompt": 3687
+        },
+        {
+          "callId": "call-0008",
+          "cacheMiss": 159,
+          "cacheHit": 3456,
+          "completion": 29,
+          "totalPrompt": 3615
+        },
+        {
+          "callId": "call-0009",
+          "cacheMiss": 246,
+          "cacheHit": 3328,
+          "completion": 41,
+          "totalPrompt": 3574
+        },
+        {
+          "callId": "call-0010",
+          "cacheMiss": 143,
+          "cacheHit": 3456,
+          "completion": 29,
+          "totalPrompt": 3599
+        },
+        {
+          "callId": "call-0011",
+          "cacheMiss": 173,
+          "cacheHit": 3456,
+          "completion": 37,
+          "totalPrompt": 3629
+        },
+        {
+          "callId": "call-0012",
+          "cacheMiss": 214,
+          "cacheHit": 3456,
+          "completion": 25,
+          "totalPrompt": 3670
+        },
+        {
+          "callId": "call-0013",
+          "cacheMiss": 224,
+          "cacheHit": 3584,
+          "completion": 49,
+          "totalPrompt": 3808
+        },
+        {
+          "callId": "call-0014",
+          "cacheMiss": 180,
+          "cacheHit": 3584,
+          "completion": 25,
+          "totalPrompt": 3764
+        },
+        {
+          "callId": "call-0015",
+          "cacheMiss": 216,
+          "cacheHit": 3456,
+          "completion": 65,
+          "totalPrompt": 3672
+        },
+        {
+          "callId": "call-0016",
+          "cacheMiss": 253,
+          "cacheHit": 3328,
+          "completion": 73,
+          "totalPrompt": 3581
+        },
+        {
+          "callId": "call-0017",
+          "cacheMiss": 194,
+          "cacheHit": 3328,
+          "completion": 61,
+          "totalPrompt": 3522
+        },
+        {
+          "callId": "call-0018",
+          "cacheMiss": 194,
+          "cacheHit": 3456,
+          "completion": 73,
+          "totalPrompt": 3650
+        },
+        {
+          "callId": "call-0019",
+          "cacheMiss": 163,
+          "cacheHit": 3456,
+          "completion": 53,
+          "totalPrompt": 3619
+        },
+        {
+          "callId": "call-0020",
+          "cacheMiss": 242,
+          "cacheHit": 3328,
+          "completion": 53,
+          "totalPrompt": 3570
+        },
+        {
+          "callId": "call-0021",
+          "cacheMiss": 196,
+          "cacheHit": 3584,
+          "completion": 33,
+          "totalPrompt": 3780
+        },
+        {
+          "callId": "call-0022",
+          "cacheMiss": 235,
+          "cacheHit": 3584,
+          "completion": 77,
+          "totalPrompt": 3819
+        },
+        {
+          "callId": "call-0023",
+          "cacheMiss": 184,
+          "cacheHit": 3456,
+          "completion": 85,
+          "totalPrompt": 3640
+        },
+        {
+          "callId": "call-0024",
+          "cacheMiss": 158,
+          "cacheHit": 3328,
+          "completion": 45,
+          "totalPrompt": 3486
+        },
+        {
+          "callId": "call-0025",
+          "cacheMiss": 195,
+          "cacheHit": 3328,
+          "completion": 49,
+          "totalPrompt": 3523
+        },
+        {
+          "callId": "call-0026",
+          "cacheMiss": 225,
+          "cacheHit": 3456,
+          "completion": 21,
+          "totalPrompt": 3681
+        },
+        {
+          "callId": "call-0027",
+          "cacheMiss": 220,
+          "cacheHit": 3328,
+          "completion": 29,
+          "totalPrompt": 3548
+        },
+        {
+          "callId": "call-0028",
+          "cacheMiss": 159,
+          "cacheHit": 3456,
+          "completion": 25,
+          "totalPrompt": 3615
+        },
+        {
+          "callId": "call-0029",
+          "cacheMiss": 212,
+          "cacheHit": 3328,
+          "completion": 21,
+          "totalPrompt": 3540
+        },
+        {
+          "callId": "call-0030",
+          "cacheMiss": 199,
+          "cacheHit": 3456,
+          "completion": 29,
+          "totalPrompt": 3655
+        },
+        {
+          "callId": "call-0031",
+          "cacheMiss": 239,
+          "cacheHit": 3456,
+          "completion": 17,
+          "totalPrompt": 3695
+        },
+        {
+          "callId": "call-0032",
+          "cacheMiss": 244,
+          "cacheHit": 3584,
+          "completion": 2,
+          "totalPrompt": 3828
+        },
+        {
+          "callId": "call-0033",
+          "cacheMiss": 135,
+          "cacheHit": 3840,
+          "completion": 157,
+          "totalPrompt": 3975
+        },
+        {
+          "callId": "call-0034",
+          "cacheMiss": 235,
+          "cacheHit": 3456,
+          "completion": 9,
+          "totalPrompt": 3691
+        },
+        {
+          "callId": "call-0035",
+          "cacheMiss": 176,
+          "cacheHit": 3456,
+          "completion": 13,
+          "totalPrompt": 3632
+        },
+        {
+          "callId": "call-0036",
+          "cacheMiss": 209,
+          "cacheHit": 3456,
+          "completion": 229,
+          "totalPrompt": 3665
+        },
+        {
+          "callId": "call-0037",
+          "cacheMiss": 226,
+          "cacheHit": 3712,
+          "completion": 2,
+          "totalPrompt": 3938
+        },
+        {
+          "callId": "call-0038",
+          "cacheMiss": 248,
+          "cacheHit": 3712,
+          "completion": 761,
+          "totalPrompt": 3960
+        },
+        {
+          "callId": "call-0039",
+          "cacheMiss": 150,
+          "cacheHit": 3712,
+          "completion": 25,
+          "totalPrompt": 3862
+        },
+        {
+          "callId": "call-0040",
+          "cacheMiss": 136,
+          "cacheHit": 3456,
+          "completion": 45,
+          "totalPrompt": 3592
+        },
+        {
+          "callId": "call-0041",
+          "cacheMiss": 202,
+          "cacheHit": 3328,
+          "completion": 2,
+          "totalPrompt": 3530
+        },
+        {
+          "callId": "call-0042",
+          "cacheMiss": 181,
+          "cacheHit": 3584,
+          "completion": 53,
+          "totalPrompt": 3765
+        },
+        {
+          "callId": "call-0043",
+          "cacheMiss": 157,
+          "cacheHit": 3584,
+          "completion": 41,
+          "totalPrompt": 3741
+        },
+        {
+          "callId": "call-0044",
+          "cacheMiss": 228,
+          "cacheHit": 3456,
+          "completion": 37,
+          "totalPrompt": 3684
+        },
+        {
+          "callId": "call-0045",
+          "cacheMiss": 157,
+          "cacheHit": 3456,
+          "completion": 41,
+          "totalPrompt": 3613
+        },
+        {
+          "callId": "call-0046",
+          "cacheMiss": 144,
+          "cacheHit": 0,
+          "completion": 5,
+          "totalPrompt": 144
+        },
+        {
+          "callId": "call-0047",
+          "cacheMiss": 3395,
+          "cacheHit": 0,
+          "completion": 1875,
+          "totalPrompt": 3395
+        },
+        {
+          "callId": "call-0048",
+          "cacheMiss": 3451,
+          "cacheHit": 0,
+          "completion": 1966,
+          "totalPrompt": 3451
+        },
+        {
+          "callId": "call-0049",
+          "cacheMiss": 1291,
+          "cacheHit": 0,
+          "completion": 790,
+          "totalPrompt": 1291
+        },
+        {
+          "callId": "call-0050",
+          "cacheMiss": 820,
+          "cacheHit": 0,
+          "completion": 1074,
+          "totalPrompt": 820
+        }
+      ]
+    },
+    {
+      "questionId": "Z4-Q2",
+      "callCount": 50,
+      "tokens": {
+        "promptCacheMiss": 27556,
+        "promptCacheHit": 156412,
+        "completion": 9565,
+        "totalPrompt": 183968,
+        "total": 193533
+      },
+      "cost": {
+        "cacheMiss": 0.027556,
+        "cacheHit": 0.0156412,
+        "completion": 0.01913,
+        "total": 0.062327200000000006
+      },
+      "callDetails": [
+        {
+          "callId": "call-0001",
+          "cacheMiss": 192,
+          "cacheHit": 3456,
+          "completion": 53,
+          "totalPrompt": 3648
+        },
+        {
+          "callId": "call-0002",
+          "cacheMiss": 215,
+          "cacheHit": 3456,
+          "completion": 117,
+          "totalPrompt": 3671
+        },
+        {
+          "callId": "call-0003",
+          "cacheMiss": 142,
+          "cacheHit": 3456,
+          "completion": 89,
+          "totalPrompt": 3598
+        },
+        {
+          "callId": "call-0004",
+          "cacheMiss": 164,
+          "cacheHit": 3456,
+          "completion": 77,
+          "totalPrompt": 3620
+        },
+        {
+          "callId": "call-0005",
+          "cacheMiss": 209,
+          "cacheHit": 3328,
+          "completion": 225,
+          "totalPrompt": 3537
+        },
+        {
+          "callId": "call-0006",
+          "cacheMiss": 233,
+          "cacheHit": 3456,
+          "completion": 81,
+          "totalPrompt": 3689
+        },
+        {
+          "callId": "call-0007",
+          "cacheMiss": 236,
+          "cacheHit": 3456,
+          "completion": 69,
+          "totalPrompt": 3692
+        },
+        {
+          "callId": "call-0008",
+          "cacheMiss": 164,
+          "cacheHit": 3456,
+          "completion": 73,
+          "totalPrompt": 3620
+        },
+        {
+          "callId": "call-0009",
+          "cacheMiss": 251,
+          "cacheHit": 3328,
+          "completion": 213,
+          "totalPrompt": 3579
+        },
+        {
+          "callId": "call-0010",
+          "cacheMiss": 148,
+          "cacheHit": 3456,
+          "completion": 121,
+          "totalPrompt": 3604
+        },
+        {
+          "callId": "call-0011",
+          "cacheMiss": 178,
+          "cacheHit": 3456,
+          "completion": 89,
+          "totalPrompt": 3634
+        },
+        {
+          "callId": "call-0012",
+          "cacheMiss": 219,
+          "cacheHit": 3456,
+          "completion": 41,
+          "totalPrompt": 3675
+        },
+        {
+          "callId": "call-0013",
+          "cacheMiss": 229,
+          "cacheHit": 3584,
+          "completion": 81,
+          "totalPrompt": 3813
+        },
+        {
+          "callId": "call-0014",
+          "cacheMiss": 185,
+          "cacheHit": 3584,
+          "completion": 25,
+          "totalPrompt": 3769
+        },
+        {
+          "callId": "call-0015",
+          "cacheMiss": 221,
+          "cacheHit": 3456,
+          "completion": 89,
+          "totalPrompt": 3677
+        },
+        {
+          "callId": "call-0016",
+          "cacheMiss": 134,
+          "cacheHit": 3452,
+          "completion": 49,
+          "totalPrompt": 3586
+        },
+        {
+          "callId": "call-0017",
+          "cacheMiss": 199,
+          "cacheHit": 3328,
+          "completion": 73,
+          "totalPrompt": 3527
+        },
+        {
+          "callId": "call-0018",
+          "cacheMiss": 199,
+          "cacheHit": 3456,
+          "completion": 29,
+          "totalPrompt": 3655
+        },
+        {
+          "callId": "call-0019",
+          "cacheMiss": 168,
+          "cacheHit": 3456,
+          "completion": 89,
+          "totalPrompt": 3624
+        },
+        {
+          "callId": "call-0020",
+          "cacheMiss": 247,
+          "cacheHit": 3328,
+          "completion": 65,
+          "totalPrompt": 3575
+        },
+        {
+          "callId": "call-0021",
+          "cacheMiss": 201,
+          "cacheHit": 3584,
+          "completion": 29,
+          "totalPrompt": 3785
+        },
+        {
+          "callId": "call-0022",
+          "cacheMiss": 240,
+          "cacheHit": 3584,
+          "completion": 53,
+          "totalPrompt": 3824
+        },
+        {
+          "callId": "call-0023",
+          "cacheMiss": 189,
+          "cacheHit": 3456,
+          "completion": 2,
+          "totalPrompt": 3645
+        },
+        {
+          "callId": "call-0024",
+          "cacheMiss": 163,
+          "cacheHit": 3328,
+          "completion": 129,
+          "totalPrompt": 3491
+        },
+        {
+          "callId": "call-0025",
+          "cacheMiss": 200,
+          "cacheHit": 3328,
+          "completion": 25,
+          "totalPrompt": 3528
+        },
+        {
+          "callId": "call-0026",
+          "cacheMiss": 230,
+          "cacheHit": 3456,
+          "completion": 49,
+          "totalPrompt": 3686
+        },
+        {
+          "callId": "call-0027",
+          "cacheMiss": 225,
+          "cacheHit": 3328,
+          "completion": 49,
+          "totalPrompt": 3553
+        },
+        {
+          "callId": "call-0028",
+          "cacheMiss": 164,
+          "cacheHit": 3456,
+          "completion": 89,
+          "totalPrompt": 3620
+        },
+        {
+          "callId": "call-0029",
+          "cacheMiss": 217,
+          "cacheHit": 3328,
+          "completion": 21,
+          "totalPrompt": 3545
+        },
+        {
+          "callId": "call-0030",
+          "cacheMiss": 204,
+          "cacheHit": 3456,
+          "completion": 41,
+          "totalPrompt": 3660
+        },
+        {
+          "callId": "call-0031",
+          "cacheMiss": 244,
+          "cacheHit": 3456,
+          "completion": 101,
+          "totalPrompt": 3700
+        },
+        {
+          "callId": "call-0032",
+          "cacheMiss": 249,
+          "cacheHit": 3584,
+          "completion": 57,
+          "totalPrompt": 3833
+        },
+        {
+          "callId": "call-0033",
+          "cacheMiss": 140,
+          "cacheHit": 3840,
+          "completion": 29,
+          "totalPrompt": 3980
+        },
+        {
+          "callId": "call-0034",
+          "cacheMiss": 240,
+          "cacheHit": 3456,
+          "completion": 33,
+          "totalPrompt": 3696
+        },
+        {
+          "callId": "call-0035",
+          "cacheMiss": 181,
+          "cacheHit": 3456,
+          "completion": 53,
+          "totalPrompt": 3637
+        },
+        {
+          "callId": "call-0036",
+          "cacheMiss": 214,
+          "cacheHit": 3456,
+          "completion": 49,
+          "totalPrompt": 3670
+        },
+        {
+          "callId": "call-0037",
+          "cacheMiss": 231,
+          "cacheHit": 3712,
+          "completion": 65,
+          "totalPrompt": 3943
+        },
+        {
+          "callId": "call-0038",
+          "cacheMiss": 253,
+          "cacheHit": 3712,
+          "completion": 81,
+          "totalPrompt": 3965
+        },
+        {
+          "callId": "call-0039",
+          "cacheMiss": 155,
+          "cacheHit": 3712,
+          "completion": 33,
+          "totalPrompt": 3867
+        },
+        {
+          "callId": "call-0040",
+          "cacheMiss": 141,
+          "cacheHit": 3456,
+          "completion": 153,
+          "totalPrompt": 3597
+        },
+        {
+          "callId": "call-0041",
+          "cacheMiss": 207,
+          "cacheHit": 3328,
+          "completion": 13,
+          "totalPrompt": 3535
+        },
+        {
+          "callId": "call-0042",
+          "cacheMiss": 186,
+          "cacheHit": 3584,
+          "completion": 49,
+          "totalPrompt": 3770
+        },
+        {
+          "callId": "call-0043",
+          "cacheMiss": 162,
+          "cacheHit": 3584,
+          "completion": 37,
+          "totalPrompt": 3746
+        },
+        {
+          "callId": "call-0044",
+          "cacheMiss": 233,
+          "cacheHit": 3456,
+          "completion": 45,
+          "totalPrompt": 3689
+        },
+        {
+          "callId": "call-0045",
+          "cacheMiss": 162,
+          "cacheHit": 3456,
+          "completion": 41,
+          "totalPrompt": 3618
+        },
+        {
+          "callId": "call-0046",
+          "cacheMiss": 149,
+          "cacheHit": 0,
+          "completion": 5,
+          "totalPrompt": 149
+        },
+        {
+          "callId": "call-0047",
+          "cacheMiss": 3485,
+          "cacheHit": 0,
+          "completion": 2050,
+          "totalPrompt": 3485
+        },
+        {
+          "callId": "call-0048",
+          "cacheMiss": 3407,
+          "cacheHit": 0,
+          "completion": 1980,
+          "totalPrompt": 3407
+        },
+        {
+          "callId": "call-0049",
+          "cacheMiss": 2062,
+          "cacheHit": 0,
+          "completion": 1168,
+          "totalPrompt": 2062
+        },
+        {
+          "callId": "call-0050",
+          "cacheMiss": 9489,
+          "cacheHit": 0,
+          "completion": 1288,
+          "totalPrompt": 9489
+        }
+      ]
+    },
+    {
+      "questionId": "Z4-Q3",
+      "callCount": 48,
+      "tokens": {
+        "promptCacheMiss": 12844,
+        "promptCacheHit": 156539,
+        "completion": 3492,
+        "totalPrompt": 169383,
+        "total": 172875
+      },
+      "cost": {
+        "cacheMiss": 0.012844,
+        "cacheHit": 0.015653900000000002,
+        "completion": 0.006984,
+        "total": 0.0354819
+      },
+      "callDetails": [
+        {
+          "callId": "call-0001",
+          "cacheMiss": 196,
+          "cacheHit": 3456,
+          "completion": 25,
+          "totalPrompt": 3652
+        },
+        {
+          "callId": "call-0002",
+          "cacheMiss": 219,
+          "cacheHit": 3456,
+          "completion": 2,
+          "totalPrompt": 3675
+        },
+        {
+          "callId": "call-0003",
+          "cacheMiss": 146,
+          "cacheHit": 3456,
+          "completion": 2,
+          "totalPrompt": 3602
+        },
+        {
+          "callId": "call-0004",
+          "cacheMiss": 168,
+          "cacheHit": 3456,
+          "completion": 13,
+          "totalPrompt": 3624
+        },
+        {
+          "callId": "call-0005",
+          "cacheMiss": 213,
+          "cacheHit": 3328,
+          "completion": 49,
+          "totalPrompt": 3541
+        },
+        {
+          "callId": "call-0006",
+          "cacheMiss": 237,
+          "cacheHit": 3456,
+          "completion": 33,
+          "totalPrompt": 3693
+        },
+        {
+          "callId": "call-0007",
+          "cacheMiss": 240,
+          "cacheHit": 3456,
+          "completion": 33,
+          "totalPrompt": 3696
+        },
+        {
+          "callId": "call-0008",
+          "cacheMiss": 168,
+          "cacheHit": 3456,
+          "completion": 149,
+          "totalPrompt": 3624
+        },
+        {
+          "callId": "call-0009",
+          "cacheMiss": 255,
+          "cacheHit": 3328,
+          "completion": 2,
+          "totalPrompt": 3583
+        },
+        {
+          "callId": "call-0010",
+          "cacheMiss": 152,
+          "cacheHit": 3456,
+          "completion": 109,
+          "totalPrompt": 3608
+        },
+        {
+          "callId": "call-0011",
+          "cacheMiss": 182,
+          "cacheHit": 3456,
+          "completion": 25,
+          "totalPrompt": 3638
+        },
+        {
+          "callId": "call-0012",
+          "cacheMiss": 223,
+          "cacheHit": 3456,
+          "completion": 2,
+          "totalPrompt": 3679
+        },
+        {
+          "callId": "call-0013",
+          "cacheMiss": 233,
+          "cacheHit": 3584,
+          "completion": 2,
+          "totalPrompt": 3817
+        },
+        {
+          "callId": "call-0014",
+          "cacheMiss": 189,
+          "cacheHit": 3584,
+          "completion": 2,
+          "totalPrompt": 3773
+        },
+        {
+          "callId": "call-0015",
+          "cacheMiss": 225,
+          "cacheHit": 3456,
+          "completion": 2,
+          "totalPrompt": 3681
+        },
+        {
+          "callId": "call-0016",
+          "cacheMiss": 134,
+          "cacheHit": 3456,
+          "completion": 2,
+          "totalPrompt": 3590
+        },
+        {
+          "callId": "call-0017",
+          "cacheMiss": 203,
+          "cacheHit": 3328,
+          "completion": 2,
+          "totalPrompt": 3531
+        },
+        {
+          "callId": "call-0018",
+          "cacheMiss": 203,
+          "cacheHit": 3456,
+          "completion": 2,
+          "totalPrompt": 3659
+        },
+        {
+          "callId": "call-0019",
+          "cacheMiss": 172,
+          "cacheHit": 3456,
+          "completion": 2,
+          "totalPrompt": 3628
+        },
+        {
+          "callId": "call-0020",
+          "cacheMiss": 251,
+          "cacheHit": 3328,
+          "completion": 2,
+          "totalPrompt": 3579
+        },
+        {
+          "callId": "call-0021",
+          "cacheMiss": 205,
+          "cacheHit": 3584,
+          "completion": 13,
+          "totalPrompt": 3789
+        },
+        {
+          "callId": "call-0022",
+          "cacheMiss": 244,
+          "cacheHit": 3584,
+          "completion": 2,
+          "totalPrompt": 3828
+        },
+        {
+          "callId": "call-0023",
+          "cacheMiss": 193,
+          "cacheHit": 3456,
+          "completion": 2,
+          "totalPrompt": 3649
+        },
+        {
+          "callId": "call-0024",
+          "cacheMiss": 167,
+          "cacheHit": 3328,
+          "completion": 2,
+          "totalPrompt": 3495
+        },
+        {
+          "callId": "call-0025",
+          "cacheMiss": 204,
+          "cacheHit": 3328,
+          "completion": 2,
+          "totalPrompt": 3532
+        },
+        {
+          "callId": "call-0026",
+          "cacheMiss": 234,
+          "cacheHit": 3456,
+          "completion": 2,
+          "totalPrompt": 3690
+        },
+        {
+          "callId": "call-0027",
+          "cacheMiss": 229,
+          "cacheHit": 3328,
+          "completion": 2,
+          "totalPrompt": 3557
+        },
+        {
+          "callId": "call-0028",
+          "cacheMiss": 168,
+          "cacheHit": 3456,
+          "completion": 41,
+          "totalPrompt": 3624
+        },
+        {
+          "callId": "call-0029",
+          "cacheMiss": 221,
+          "cacheHit": 3328,
+          "completion": 2,
+          "totalPrompt": 3549
+        },
+        {
+          "callId": "call-0030",
+          "cacheMiss": 208,
+          "cacheHit": 3456,
+          "completion": 2,
+          "totalPrompt": 3664
+        },
+        {
+          "callId": "call-0031",
+          "cacheMiss": 248,
+          "cacheHit": 3456,
+          "completion": 2,
+          "totalPrompt": 3704
+        },
+        {
+          "callId": "call-0032",
+          "cacheMiss": 253,
+          "cacheHit": 3584,
+          "completion": 2,
+          "totalPrompt": 3837
+        },
+        {
+          "callId": "call-0033",
+          "cacheMiss": 144,
+          "cacheHit": 3840,
+          "completion": 2,
+          "totalPrompt": 3984
+        },
+        {
+          "callId": "call-0034",
+          "cacheMiss": 244,
+          "cacheHit": 3456,
+          "completion": 2,
+          "totalPrompt": 3700
+        },
+        {
+          "callId": "call-0035",
+          "cacheMiss": 185,
+          "cacheHit": 3456,
+          "completion": 2,
+          "totalPrompt": 3641
+        },
+        {
+          "callId": "call-0036",
+          "cacheMiss": 218,
+          "cacheHit": 3456,
+          "completion": 53,
+          "totalPrompt": 3674
+        },
+        {
+          "callId": "call-0037",
+          "cacheMiss": 235,
+          "cacheHit": 3712,
+          "completion": 93,
+          "totalPrompt": 3947
+        },
+        {
+          "callId": "call-0038",
+          "cacheMiss": 134,
+          "cacheHit": 3835,
+          "completion": 2,
+          "totalPrompt": 3969
+        },
+        {
+          "callId": "call-0039",
+          "cacheMiss": 159,
+          "cacheHit": 3712,
+          "completion": 2,
+          "totalPrompt": 3871
+        },
+        {
+          "callId": "call-0040",
+          "cacheMiss": 145,
+          "cacheHit": 3456,
+          "completion": 2,
+          "totalPrompt": 3601
+        },
+        {
+          "callId": "call-0041",
+          "cacheMiss": 211,
+          "cacheHit": 3328,
+          "completion": 2,
+          "totalPrompt": 3539
+        },
+        {
+          "callId": "call-0042",
+          "cacheMiss": 190,
+          "cacheHit": 3584,
+          "completion": 2,
+          "totalPrompt": 3774
+        },
+        {
+          "callId": "call-0043",
+          "cacheMiss": 166,
+          "cacheHit": 3584,
+          "completion": 2,
+          "totalPrompt": 3750
+        },
+        {
+          "callId": "call-0044",
+          "cacheMiss": 237,
+          "cacheHit": 3456,
+          "completion": 45,
+          "totalPrompt": 3693
+        },
+        {
+          "callId": "call-0045",
+          "cacheMiss": 166,
+          "cacheHit": 3456,
+          "completion": 21,
+          "totalPrompt": 3622
+        },
+        {
+          "callId": "call-0046",
+          "cacheMiss": 153,
+          "cacheHit": 0,
+          "completion": 5,
+          "totalPrompt": 153
+        },
+        {
+          "callId": "call-0047",
+          "cacheMiss": 1892,
+          "cacheHit": 0,
+          "completion": 1203,
+          "totalPrompt": 1892
+        },
+        {
+          "callId": "call-0048",
+          "cacheMiss": 1782,
+          "cacheHit": 0,
+          "completion": 1520,
+          "totalPrompt": 1782
+        }
+      ]
+    },
+    {
+      "questionId": "Z4-Q4",
+      "callCount": 48,
+      "tokens": {
+        "promptCacheMiss": 9664,
+        "promptCacheHit": 156412,
+        "completion": 704,
+        "totalPrompt": 166076,
+        "total": 166780
+      },
+      "cost": {
+        "cacheMiss": 0.009664,
+        "cacheHit": 0.0156412,
+        "completion": 0.001408,
+        "total": 0.0267132
+      },
+      "callDetails": [
+        {
+          "callId": "call-0001",
+          "cacheMiss": 192,
+          "cacheHit": 3456,
+          "completion": 2,
+          "totalPrompt": 3648
+        },
+        {
+          "callId": "call-0002",
+          "cacheMiss": 215,
+          "cacheHit": 3456,
+          "completion": 2,
+          "totalPrompt": 3671
+        },
+        {
+          "callId": "call-0003",
+          "cacheMiss": 142,
+          "cacheHit": 3456,
+          "completion": 2,
+          "totalPrompt": 3598
+        },
+        {
+          "callId": "call-0004",
+          "cacheMiss": 164,
+          "cacheHit": 3456,
+          "completion": 9,
+          "totalPrompt": 3620
+        },
+        {
+          "callId": "call-0005",
+          "cacheMiss": 209,
+          "cacheHit": 3328,
+          "completion": 2,
+          "totalPrompt": 3537
+        },
+        {
+          "callId": "call-0006",
+          "cacheMiss": 233,
+          "cacheHit": 3456,
+          "completion": 13,
+          "totalPrompt": 3689
+        },
+        {
+          "callId": "call-0007",
+          "cacheMiss": 236,
+          "cacheHit": 3456,
+          "completion": 2,
+          "totalPrompt": 3692
+        },
+        {
+          "callId": "call-0008",
+          "cacheMiss": 164,
+          "cacheHit": 3456,
+          "completion": 9,
+          "totalPrompt": 3620
+        },
+        {
+          "callId": "call-0009",
+          "cacheMiss": 251,
+          "cacheHit": 3328,
+          "completion": 2,
+          "totalPrompt": 3579
+        },
+        {
+          "callId": "call-0010",
+          "cacheMiss": 148,
+          "cacheHit": 3456,
+          "completion": 2,
+          "totalPrompt": 3604
+        },
+        {
+          "callId": "call-0011",
+          "cacheMiss": 178,
+          "cacheHit": 3456,
+          "completion": 2,
+          "totalPrompt": 3634
+        },
+        {
+          "callId": "call-0012",
+          "cacheMiss": 219,
+          "cacheHit": 3456,
+          "completion": 2,
+          "totalPrompt": 3675
+        },
+        {
+          "callId": "call-0013",
+          "cacheMiss": 229,
+          "cacheHit": 3584,
+          "completion": 2,
+          "totalPrompt": 3813
+        },
+        {
+          "callId": "call-0014",
+          "cacheMiss": 185,
+          "cacheHit": 3584,
+          "completion": 2,
+          "totalPrompt": 3769
+        },
+        {
+          "callId": "call-0015",
+          "cacheMiss": 221,
+          "cacheHit": 3456,
+          "completion": 2,
+          "totalPrompt": 3677
+        },
+        {
+          "callId": "call-0016",
+          "cacheMiss": 134,
+          "cacheHit": 3452,
+          "completion": 2,
+          "totalPrompt": 3586
+        },
+        {
+          "callId": "call-0017",
+          "cacheMiss": 199,
+          "cacheHit": 3328,
+          "completion": 2,
+          "totalPrompt": 3527
+        },
+        {
+          "callId": "call-0018",
+          "cacheMiss": 199,
+          "cacheHit": 3456,
+          "completion": 2,
+          "totalPrompt": 3655
+        },
+        {
+          "callId": "call-0019",
+          "cacheMiss": 168,
+          "cacheHit": 3456,
+          "completion": 2,
+          "totalPrompt": 3624
+        },
+        {
+          "callId": "call-0020",
+          "cacheMiss": 247,
+          "cacheHit": 3328,
+          "completion": 2,
+          "totalPrompt": 3575
+        },
+        {
+          "callId": "call-0021",
+          "cacheMiss": 201,
+          "cacheHit": 3584,
+          "completion": 2,
+          "totalPrompt": 3785
+        },
+        {
+          "callId": "call-0022",
+          "cacheMiss": 240,
+          "cacheHit": 3584,
+          "completion": 2,
+          "totalPrompt": 3824
+        },
+        {
+          "callId": "call-0023",
+          "cacheMiss": 189,
+          "cacheHit": 3456,
+          "completion": 2,
+          "totalPrompt": 3645
+        },
+        {
+          "callId": "call-0024",
+          "cacheMiss": 163,
+          "cacheHit": 3328,
+          "completion": 2,
+          "totalPrompt": 3491
+        },
+        {
+          "callId": "call-0025",
+          "cacheMiss": 200,
+          "cacheHit": 3328,
+          "completion": 2,
+          "totalPrompt": 3528
+        },
+        {
+          "callId": "call-0026",
+          "cacheMiss": 230,
+          "cacheHit": 3456,
+          "completion": 2,
+          "totalPrompt": 3686
+        },
+        {
+          "callId": "call-0027",
+          "cacheMiss": 225,
+          "cacheHit": 3328,
+          "completion": 2,
+          "totalPrompt": 3553
+        },
+        {
+          "callId": "call-0028",
+          "cacheMiss": 164,
+          "cacheHit": 3456,
+          "completion": 2,
+          "totalPrompt": 3620
+        },
+        {
+          "callId": "call-0029",
+          "cacheMiss": 217,
+          "cacheHit": 3328,
+          "completion": 2,
+          "totalPrompt": 3545
+        },
+        {
+          "callId": "call-0030",
+          "cacheMiss": 204,
+          "cacheHit": 3456,
+          "completion": 2,
+          "totalPrompt": 3660
+        },
+        {
+          "callId": "call-0031",
+          "cacheMiss": 244,
+          "cacheHit": 3456,
+          "completion": 2,
+          "totalPrompt": 3700
+        },
+        {
+          "callId": "call-0032",
+          "cacheMiss": 249,
+          "cacheHit": 3584,
+          "completion": 2,
+          "totalPrompt": 3833
+        },
+        {
+          "callId": "call-0033",
+          "cacheMiss": 140,
+          "cacheHit": 3840,
+          "completion": 2,
+          "totalPrompt": 3980
+        },
+        {
+          "callId": "call-0034",
+          "cacheMiss": 240,
+          "cacheHit": 3456,
+          "completion": 2,
+          "totalPrompt": 3696
+        },
+        {
+          "callId": "call-0035",
+          "cacheMiss": 181,
+          "cacheHit": 3456,
+          "completion": 2,
+          "totalPrompt": 3637
+        },
+        {
+          "callId": "call-0036",
+          "cacheMiss": 214,
+          "cacheHit": 3456,
+          "completion": 2,
+          "totalPrompt": 3670
+        },
+        {
+          "callId": "call-0037",
+          "cacheMiss": 231,
+          "cacheHit": 3712,
+          "completion": 2,
+          "totalPrompt": 3943
+        },
+        {
+          "callId": "call-0038",
+          "cacheMiss": 253,
+          "cacheHit": 3712,
+          "completion": 2,
+          "totalPrompt": 3965
+        },
+        {
+          "callId": "call-0039",
+          "cacheMiss": 155,
+          "cacheHit": 3712,
+          "completion": 2,
+          "totalPrompt": 3867
+        },
+        {
+          "callId": "call-0040",
+          "cacheMiss": 141,
+          "cacheHit": 3456,
+          "completion": 2,
+          "totalPrompt": 3597
+        },
+        {
+          "callId": "call-0041",
+          "cacheMiss": 207,
+          "cacheHit": 3328,
+          "completion": 2,
+          "totalPrompt": 3535
+        },
+        {
+          "callId": "call-0042",
+          "cacheMiss": 186,
+          "cacheHit": 3584,
+          "completion": 2,
+          "totalPrompt": 3770
+        },
+        {
+          "callId": "call-0043",
+          "cacheMiss": 162,
+          "cacheHit": 3584,
+          "completion": 2,
+          "totalPrompt": 3746
+        },
+        {
+          "callId": "call-0044",
+          "cacheMiss": 233,
+          "cacheHit": 3456,
+          "completion": 2,
+          "totalPrompt": 3689
+        },
+        {
+          "callId": "call-0045",
+          "cacheMiss": 162,
+          "cacheHit": 3456,
+          "completion": 2,
+          "totalPrompt": 3618
+        },
+        {
+          "callId": "call-0046",
+          "cacheMiss": 149,
+          "cacheHit": 0,
+          "completion": 17,
+          "totalPrompt": 149
+        },
+        {
+          "callId": "call-0047",
+          "cacheMiss": 316,
+          "cacheHit": 0,
+          "completion": 76,
+          "totalPrompt": 316
+        },
+        {
+          "callId": "call-0048",
+          "cacheMiss": 235,
+          "cacheHit": 0,
+          "completion": 496,
+          "totalPrompt": 235
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,945 @@
+[
+  {
+    "surface": "terme",
+    "valid": true
+  },
+  {
+    "surface": "plus seulement pour tâche",
+    "valid": false,
+    "reason": "包含副词、连词、介词，非名词短语"
+  },
+  {
+    "surface": "les uneux",
+    "valid": false,
+    "reason": "冠词+疑似拼写错误/非标准词"
+  },
+  {
+    "surface": "correspondance plurivique",
+    "valid": true
+  },
+  {
+    "surface": "collections",
+    "valid": true
+  },
+  {
+    "surface": "expression",
+    "valid": true
+  },
+  {
+    "surface": "entités mentales",
+    "valid": true
+  },
+  {
+    "surface": "objets référents",
+    "valid": true
+  },
+  {
+    "surface": "réels",
+    "valid": true
+  },
+  {
+    "surface": "supplément de ces fonctiones",
+    "valid": false,
+    "reason": "包含限定词ces且fonctiones拼写异常，非规范名词短语"
+  },
+  {
+    "surface": "de dénation",
+    "valid": false,
+    "reason": "以介词de开头"
+  },
+  {
+    "surface": "une fonction",
+    "valid": false,
+    "reason": "以冠词une开头"
+  },
+  {
+    "surface": "existentialisation",
+    "valid": true
+  },
+  {
+    "surface": "ces pragmatiques ontologiques",
+    "valid": false,
+    "reason": "以限定词ces开头"
+  },
+  {
+    "surface": "concatenation intensive",
+    "valid": true
+  },
+  {
+    "surface": "qualités existentiels",
+    "valid": true
+  },
+  {
+    "surface": "cette étape",
+    "valid": false,
+    "reason": "以限定词cette开头"
+  },
+  {
+    "surface": "les index intensifs",
+    "valid": false,
+    "reason": "以冠词les开头"
+  },
+  {
+    "surface": "les opérateurs diagrammatiques",
+    "valid": false,
+    "reason": "以冠词les开头"
+  },
+  {
+    "surface": "cette fonction existentielle",
+    "valid": false,
+    "reason": "以限定词cette开头"
+  },
+  {
+    "surface": "aucun caractère",
+    "valid": false,
+    "reason": "以限定词aucun开头"
+  },
+  {
+    "surface": "universalité",
+    "valid": true
+  },
+  {
+    "surface": "la démarquer",
+    "valid": false,
+    "reason": "冠词+动词不定式"
+  },
+  {
+    "surface": "certaines similatures",
+    "valid": false,
+    "reason": "以限定词certaines开头"
+  },
+  {
+    "surface": "des «objets partiels",
+    "valid": false,
+    "reason": "以冠词des开头且含标点"
+  },
+  {
+    "surface": "kleinisme",
+    "valid": true
+  },
+  {
+    "surface": "lacanisme",
+    "valid": true
+  },
+  {
+    "surface": "crews",
+    "valid": true
+  },
+  {
+    "surface": "plus spontanément accès",
+    "valid": false,
+    "reason": "包含副词，非名词短语"
+  },
+  {
+    "surface": "au beaux jours",
+    "valid": false,
+    "reason": "以缩合冠词au开头"
+  },
+  {
+    "surface": "la pensée",
+    "valid": false,
+    "reason": "以冠词la开头"
+  },
+  {
+    "surface": "imité",
+    "valid": false,
+    "reason": "动词过去分词形式"
+  },
+  {
+    "surface": "certaines expériences",
+    "valid": false,
+    "reason": "以限定词certaines开头"
+  },
+  {
+    "surface": "la *normalité*.",
+    "valid": false,
+    "reason": "以冠词la开头且含标点"
+  },
+  {
+    "surface": "la découle",
+    "valid": false,
+    "reason": "冠词+动词变位"
+  },
+  {
+    "surface": "la nécessité",
+    "valid": false,
+    "reason": "以冠词la开头"
+  },
+  {
+    "surface": "toute pièces",
+    "valid": false,
+    "reason": "以限定词toute开头"
+  },
+  {
+    "surface": "enoncination analytiques",
+    "valid": true
+  },
+  {
+    "surface": "la création artisteïque",
+    "valid": false,
+    "reason": "以冠词la开头"
+  },
+  {
+    "surface": "l'efficacité",
+    "valid": false,
+    "reason": "以冠词l'开头"
+  },
+  {
+    "surface": "soulignons",
+    "valid": false,
+    "reason": "动词变位形式"
+  },
+  {
+    "surface": "l'enjeu",
+    "valid": false,
+    "reason": "以冠词l'开头"
+  },
+  {
+    "surface": "ces *analyses*",
+    "valid": false,
+    "reason": "以限定词ces开头且含标点"
+  },
+  {
+    "surface": "l'art",
+    "valid": false,
+    "reason": "以冠词l'开头"
+  },
+  {
+    "surface": "la capacité",
+    "valid": false,
+    "reason": "以冠词la开头"
+  },
+  {
+    "surface": "nos sociétés",
+    "valid": false,
+    "reason": "以限定词nos开头"
+  },
+  {
+    "surface": "nouveau degrés",
+    "valid": false,
+    "reason": "以形容词nouveau开头"
+  },
+  {
+    "surface": "contraintes économiques et sociales existantes",
+    "valid": true
+  },
+  {
+    "surface": "recurrent",
+    "valid": false,
+    "reason": "形容词形式"
+  },
+  {
+    "surface": "les finalités collectives",
+    "valid": false,
+    "reason": "以冠词les开头"
+  },
+  {
+    "surface": "individuellement",
+    "valid": false,
+    "reason": "副词"
+  },
+  {
+    "surface": "l'activité humaine",
+    "valid": false,
+    "reason": "以冠词l'开头"
+  },
+  {
+    "surface": "de nouveaux objectifs",
+    "valid": false,
+    "reason": "以介词de开头"
+  },
+  {
+    "surface": "## DU POST-MODERNISME",
+    "valid": false,
+    "reason": "含标记符号且以缩合冠词DU开头"
+  },
+  {
+    "surface": "L'ÈRE POST-MÉDIA",
+    "valid": false,
+    "reason": "以冠词L'开头"
+  },
+  {
+    "surface": "Une certaine conception",
+    "valid": false,
+    "reason": "以冠词Une开头"
+  },
+  {
+    "surface": "progrès",
+    "valid": true
+  },
+  {
+    "surface": "de la modernité",
+    "valid": false,
+    "reason": "以介词de开头"
+  },
+  {
+    "surface": "sa claune la confiance collective",
+    "valid": false,
+    "reason": "包含限定词sa及疑似拼写错误，非规范名词短语"
+  },
+  {
+    "surface": "pratique sociale",
+    "valid": true
+  },
+  {
+    "surface": "émancipatrice",
+    "valid": false,
+    "reason": "形容词形式"
+  },
+  {
+    "surface": "glaciation",
+    "valid": true
+  },
+  {
+    "surface": "les rapports sociaux",
+    "valid": false,
+    "reason": "以冠词les开头"
+  },
+  {
+    "surface": "les hierarchies",
+    "valid": false,
+    "reason": "以冠词les开头"
+  },
+  {
+    "surface": "les ségregations",
+    "valid": false,
+    "reason": "以冠词les开头"
+  },
+  {
+    "surface": "chôle",
+    "valid": true
+  },
+  {
+    "surface": "des maux invitables",
+    "valid": false,
+    "reason": "以冠词des开头"
+  },
+  {
+    "surface": "les syndicats ouvriers",
+    "valid": false,
+    "reason": "以冠词les开头"
+  },
+  {
+    "surface": "dernières branches institutionnelles",
+    "valid": false,
+    "reason": "以形容词dernières开头"
+  },
+  {
+    "surface": "des pratiques corporatistes",
+    "valid": false,
+    "reason": "以冠词des开头"
+  },
+  {
+    "surface": "des attitudes",
+    "valid": false,
+    "reason": "以冠词des开头"
+  },
+  {
+    "surface": "conservatrices",
+    "valid": false,
+    "reason": "形容词形式"
+  },
+  {
+    "surface": "voisines",
+    "valid": false,
+    "reason": "形容词形式"
+  },
+  {
+    "surface": "quelкоfois",
+    "valid": false,
+    "reason": "副词且含非拉丁字符"
+  },
+  {
+    "surface": "milieu réactionnaires",
+    "valid": true
+  },
+  {
+    "surface": "La gauche communiste",
+    "valid": false,
+    "reason": "以冠词La开头"
+  },
+  {
+    "surface": "enfonce",
+    "valid": false,
+    "reason": "动词变位形式"
+  },
+  {
+    "surface": "la sclérose",
+    "valid": false,
+    "reason": "以冠词la开头"
+  },
+  {
+    "surface": "le dogmatisme",
+    "valid": false,
+    "reason": "以冠词le开头"
+  },
+  {
+    "surface": "les partis socialistes",
+    "valid": false,
+    "reason": "以冠词les开头"
+  },
+  {
+    "surface": "des partenaires technocratiques",
+    "valid": false,
+    "reason": "以冠词des开头"
+  },
+  {
+    "surface": "progressiste",
+    "valid": false,
+    "reason": "形容词形式"
+  },
+  {
+    "surface": "structures existantes",
+    "valid": true
+  },
+  {
+    "surface": "ettonant",
+    "valid": false,
+    "reason": "形容词/分词形式"
+  },
+  {
+    "surface": "guide",
+    "valid": true
+  },
+  {
+    "surface": "des bases",
+    "valid": false,
+    "reason": "以冠词des开头"
+  },
+  {
+    "surface": "injusées",
+    "valid": false,
+    "reason": "形容词形式"
+  },
+  {
+    "surface": "leur credibilité",
+    "valid": false,
+    "reason": "以限定词leur开头"
+  },
+  {
+    "surface": "les bras ballants",
+    "valid": false,
+    "reason": "以冠词les开头"
+  },
+  {
+    "surface": "la montée",
+    "valid": false,
+    "reason": "以冠词la开头"
+  },
+  {
+    "surface": "nouvel ordre",
+    "valid": false,
+    "reason": "以形容词nouvel开头"
+  },
+  {
+    "surface": "la cuaute",
+    "valid": false,
+    "reason": "以冠词la开头"
+  },
+  {
+    "surface": "du cynisme",
+    "valid": false,
+    "reason": "以缩合冠词du开头"
+  },
+  {
+    "surface": "la planete",
+    "valid": false,
+    "reason": "以冠词la开头"
+  },
+  {
+    "surface": "l'intention",
+    "valid": false,
+    "reason": "以冠词l'开头"
+  },
+  {
+    "surface": "conclusion",
+    "valid": true
+  },
+  {
+    "surface": "regrable",
+    "valid": false,
+    "reason": "疑似拼写错误/形容词形式"
+  },
+  {
+    "surface": "qu'en effet paraisent",
+    "valid": false,
+    "reason": "包含连词、副词、动词，非名词短语"
+  },
+  {
+    "surface": "milieux intellectuels et artistiques",
+    "valid": true
+  },
+  {
+    "surface": "la mode post-moderniste",
+    "valid": false,
+    "reason": "以冠词la开头"
+  },
+  {
+    "surface": "le lancement",
+    "valid": false,
+    "reason": "以冠词le开头"
+  },
+  {
+    "surface": "les managers",
+    "valid": false,
+    "reason": "以冠词les开头"
+  },
+  {
+    "surface": "l'art contemporain",
+    "valid": false,
+    "reason": "以冠词l'开头"
+  },
+  {
+    "surface": "des grandes operations",
+    "valid": false,
+    "reason": "以冠词des开头"
+  },
+  {
+    "surface": "promotions",
+    "valid": true
+  },
+  {
+    "surface": "États-Unis",
+    "valid": true
+  },
+  {
+    "surface": "New",
+    "valid": false,
+    "reason": "专有名词片段，非完整名词"
+  },
+  {
+    "surface": "Painting",
+    "valid": false,
+    "reason": "外语词片段，非完整名词"
+  },
+  {
+    "surface": "italie",
+    "valid": true
+  },
+  {
+    "surface": "Trans-avant-garde",
+    "valid": true
+  },
+  {
+    "surface": ", Figuration",
+    "valid": false,
+    "reason": "含标点且以逗号开头"
+  },
+  {
+    "surface": "libre",
+    "valid": false,
+    "reason": "形容词形式"
+  },
+  {
+    "surface": ", Nouveaux fauves",
+    "valid": false,
+    "reason": "含标点且以逗号开头"
+  },
+  {
+    "surface": "la part",
+    "valid": false,
+    "reason": "以冠词la开头"
+  },
+  {
+    "surface": "le postmodernisme",
+    "valid": false,
+    "reason": "以冠词le开头"
+  },
+  {
+    "surface": "crispation",
+    "valid": true
+  },
+  {
+    "surface": "réaction",
+    "valid": true
+  },
+  {
+    "surface": "mirior",
+    "valid": false,
+    "reason": "疑似拼写错误/非标准词"
+  },
+  {
+    "surface": "abus formalistes et reductionistes",
+    "valid": true
+  },
+  {
+    "surface": "vériablement",
+    "valid": false,
+    "reason": "副词且拼写异常"
+  },
+  {
+    "surface": "l de ces écoles",
+    "valid": false,
+    "reason": "含单字母l及限定词ces，非规范名词短语"
+  },
+  {
+    "surface": "leur talent personnel",
+    "valid": false,
+    "reason": "以限定词leur开头"
+  },
+  {
+    "surface": "les effets pernicieux",
+    "valid": false,
+    "reason": "以冠词les开头"
+  },
+  {
+    "surface": "des moyens publicitaires",
+    "valid": false,
+    "reason": "以冠词des开头"
+  },
+  {
+    "surface": "surment",
+    "valid": false,
+    "reason": "副词且拼写异常"
+  },
+  {
+    "surface": "une reliance",
+    "valid": false,
+    "reason": "以冠词une开头"
+  },
+  {
+    "surface": "createurs",
+    "valid": true
+  },
+  {
+    "surface": "la pretention",
+    "valid": false,
+    "reason": "以冠词la开头"
+  },
+  {
+    "surface": "ma proposition",
+    "valid": false,
+    "reason": "以限定词ma开头"
+  },
+  {
+    "surface": "transition",
+    "valid": true
+  },
+  {
+    "surface": "post-mass-média",
+    "valid": true
+  },
+  {
+    "surface": "cette thématique",
+    "valid": false,
+    "reason": "以限定词cette开头"
+  },
+  {
+    "surface": "le jeu",
+    "valid": false,
+    "reason": "以冠词le开头"
+  },
+  {
+    "surface": "une retorterialisation subjective",
+    "valid": false,
+    "reason": "以冠词une开头"
+  },
+  {
+    "surface": "façon suffisante",
+    "valid": true
+  },
+  {
+    "surface": "nouvelles pratiques sociales émiparticaires",
+    "valid": false,
+    "reason": "以形容词nouvelles开头"
+  },
+  {
+    "surface": "surtout des Agencements",
+    "valid": false,
+    "reason": "包含副词surtout及冠词des"
+  },
+  {
+    "surface": "production subjectif",
+    "valid": true
+  },
+  {
+    "surface": "la retorterialisation conservatrice",
+    "valid": false,
+    "reason": "以冠词la开头"
+  },
+  {
+    "surface": ", aux révolutions",
+    "valid": false,
+    "reason": "含标点且以缩合冠词aux开头"
+  },
+  {
+    "surface": "notre épique",
+    "valid": false,
+    "reason": "以限定词notre开头"
+  },
+  {
+    "surface": "Le post-modernisme architectural,",
+    "valid": false,
+    "reason": "以冠词Le开头且含标点"
+  },
+  {
+    "surface": "tendances",
+    "valid": true
+  },
+  {
+    "surface": "actuelle",
+    "valid": false,
+    "reason": "形容词形式"
+  },
+  {
+    "surface": "la place impartie",
+    "valid": false,
+    "reason": "以冠词la开头"
+  },
+  {
+    "surface": "les formations",
+    "valid": false,
+    "reason": "以冠词les开头"
+  },
+  {
+    "surface": "tout temps",
+    "valid": false,
+    "reason": "以限定词tout开头"
+  },
+  {
+    "surface": "les avatars historiques",
+    "valid": false,
+    "reason": "以冠词les开头"
+  },
+  {
+    "surface": "la pulson capitalistique",
+    "valid": false,
+    "reason": "以冠词la开头"
+  },
+  {
+    "surface": "intinction",
+    "valid": true
+  },
+  {
+    "surface": "deux composants fondamentales",
+    "valid": false,
+    "reason": "以数词deux开头"
+  },
+  {
+    "surface": "destruction",
+    "valid": true
+  },
+  {
+    "surface": "territoires sociaux",
+    "valid": true
+  },
+  {
+    "surface": ", des identités",
+    "valid": false,
+    "reason": "含标点且以冠词des开头"
+  },
+  {
+    "surface": "valeur traditionnels",
+    "valid": true
+  },
+  {
+    "surface": "déterritorialisme",
+    "valid": true
+  },
+  {
+    "surface": "recomposition",
+    "valid": true
+  },
+  {
+    "surface": "même par les moyens",
+    "valid": false,
+    "reason": "包含副词、介词、冠词，非名词短语"
+  },
+  {
+    "surface": "les plus artificiels",
+    "valid": false,
+    "reason": "以冠词les开头且含副词plus"
+  },
+  {
+    "surface": "de cadres personologiques individues",
+    "valid": false,
+    "reason": "以介词de开头"
+  },
+  {
+    "surface": "schemes",
+    "valid": true
+  },
+  {
+    "surface": "de models",
+    "valid": false,
+    "reason": "以介词de开头"
+  },
+  {
+    "surface": "mon mode",
+    "valid": false,
+    "reason": "以限定词mon开头"
+  },
+  {
+    "surface": "fonctionnement",
+    "valid": true
+  },
+  {
+    "surface": "un point",
+    "valid": false,
+    "reason": "以冠词un开头"
+  },
+  {
+    "surface": "vue",
+    "valid": true
+  },
+  {
+    "surface": "fonctionnel",
+    "valid": false,
+    "reason": "形容词形式"
+  },
+  {
+    "surface": "même en récomposition retrialisantisation",
+    "valid": false,
+    "reason": "包含副词même及介词en"
+  },
+  {
+    "surface": "les révolution déterritorialisantes",
+    "valid": false,
+    "reason": "以冠词les开头"
+  },
+  {
+    "surface": "sciences",
+    "valid": true
+  },
+  {
+    "surface": "leur passage",
+    "valid": false,
+    "reason": "以限定词leur开头"
+  },
+  {
+    "surface": "compulsion",
+    "valid": true
+  },
+  {
+    "surface": "retrialisantisation",
+    "valid": true
+  },
+  {
+    "surface": "cet antagonisme",
+    "valid": false,
+    "reason": "以限定词cet开头"
+  },
+  {
+    "surface": "machinismes communicationnels et informatiques",
+    "valid": true
+  },
+  {
+    "surface": "les effets déterritorialisants",
+    "valid": false,
+    "reason": "以冠词les开头"
+  },
+  {
+    "surface": "des facultés humaines",
+    "valid": false,
+    "reason": "以冠词des开头"
+  },
+  {
+    "surface": "la mémoire",
+    "valid": false,
+    "reason": "以冠词la开头"
+  },
+  {
+    "surface": ", la perception",
+    "valid": false,
+    "reason": "含标点且以冠词la开头"
+  },
+  {
+    "surface": "l'imagination",
+    "valid": false,
+    "reason": "以冠词l'开头"
+  },
+  {
+    "surface": "fonctionnement anthropologique",
+    "valid": true
+  },
+  {
+    "surface": "humanité",
+    "valid": true
+  },
+  {
+    "surface": "faute",
+    "valid": true
+  },
+  {
+    "surface": "convenable",
+    "valid": false,
+    "reason": "形容词形式"
+  },
+  {
+    "surface": "cette mutation",
+    "valid": false,
+    "reason": "以限定词cette开头"
+  },
+  {
+    "surface": "la vague absurde",
+    "valid": false,
+    "reason": "以冠词la开头"
+  },
+  {
+    "surface": "conservatism",
+    "valid": true
+  },
+  {
+    "surface": "quelles conditions",
+    "valid": false,
+    "reason": "以限定词quelles开头"
+  },
+  {
+    "surface": "l'étape",
+    "valid": false,
+    "reason": "以冠词l'开头"
+  },
+  {
+    "surface": "quel pourier",
+    "valid": false,
+    "reason": "以限定词quel开头"
+  },
+  {
+    "surface": "cette fin",
+    "valid": false,
+    "reason": "以限定词cette开头"
+  },
+  {
+    "surface": "les ilots",
+    "valid": false,
+    "reason": "以冠词les开头"
+  },
+  {
+    "surface": "résiduels",
+    "valid": false,
+    "reason": "形容词形式"
+  },
+  {
+    "surface": "volontés libératrices",
+    "valid": true
+  },
+  {
+    "surface": "ce deluge",
+    "valid": false,
+    "reason": "以限定词ce开头"
+  },
+  {
+    "surface": ", c'est précisément la question",
+    "valid": false,
+    "reason": "含标点及代词、动词，非名词短语"
+  },
+  {
+    "surface": "revenons",
+    "valid": false,
+    "reason": "动词变位形式"
+  },
+  {
+    "surface": ", à présent",
+    "valid": false,
+    "reason": "含标点及介词、副词"
+  },
+  {
+    "surface": "architectes",
+    "valid": true
+  },
+  {
+    "surface": "post-modernes",
+    "valid": false,
+    "reason": "形容词形式"
+  }
+]

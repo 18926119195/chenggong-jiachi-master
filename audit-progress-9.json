@@ -1,0 +1,918 @@
+[
+  {
+    "surface": "superposent",
+    "valid": true
+  },
+  {
+    "surface": "m'en jet",
+    "valid": false,
+    "reason": "包含代词和动词变位，非名词短语"
+  },
+  {
+    "surface": "Un bon exemple",
+    "valid": true
+  },
+  {
+    "surface": "illustrer",
+    "valid": false,
+    "reason": "动词不定式"
+  },
+  {
+    "surface": "ces sortes",
+    "valid": true
+  },
+  {
+    "surface": "branchements",
+    "valid": true
+  },
+  {
+    "surface": "débranchements",
+    "valid": true
+  },
+  {
+    "surface": "parait",
+    "valid": false,
+    "reason": "动词变位"
+  },
+  {
+    "surface": "la conduite automobile",
+    "valid": true
+  },
+  {
+    "surface": "rare",
+    "valid": false,
+    "reason": "形容词"
+  },
+  {
+    "surface": "autoute",
+    "valid": false,
+    "reason": "拼写错误/非标准形式"
+  },
+  {
+    "surface": "s'instaure",
+    "valid": false,
+    "reason": "代词式动词变位"
+  },
+  {
+    "surface": "un état",
+    "valid": true
+  },
+  {
+    "surface": "réverie diurne",
+    "valid": true
+  },
+  {
+    "surface": "pseudo-somnolence",
+    "valid": true
+  },
+  {
+    "surface": "ilfosctionon",
+    "valid": false,
+    "reason": "拼写错误/非词"
+  },
+  {
+    "surface": "parallele plusieurs systèmes",
+    "valid": false,
+    "reason": "含形容词和限定词，非规范名词短语"
+  },
+  {
+    "surface": "restent",
+    "valid": false,
+    "reason": "动词变位"
+  },
+  {
+    "surface": "veilleuse",
+    "valid": true
+  },
+  {
+    "surface": "tandis",
+    "valid": false,
+    "reason": "连词"
+  },
+  {
+    "surface": "passent",
+    "valid": false,
+    "reason": "动词变位"
+  },
+  {
+    "surface": "premier plan",
+    "valid": true
+  },
+  {
+    "surface": "C'est",
+    "valid": false,
+    "reason": "代词+助动词"
+  },
+  {
+    "surface": "advient",
+    "valid": false,
+    "reason": "动词变位"
+  },
+  {
+    "surface": "la signalétique routière",
+    "valid": true
+  },
+  {
+    "surface": ", un incident",
+    "valid": false,
+    "reason": "含标点碎片"
+  },
+  {
+    "surface": "l'interpellation",
+    "valid": true
+  },
+  {
+    "surface": "un passager",
+    "valid": true
+  },
+  {
+    "surface": "réutilit",
+    "valid": false,
+    "reason": "拼写错误/非词"
+  },
+  {
+    "surface": "une sequence",
+    "valid": true
+  },
+  {
+    "surface": "hyper-vigilance",
+    "valid": true
+  },
+  {
+    "surface": "nécionation",
+    "valid": false,
+    "reason": "拼写错误/非词"
+  },
+  {
+    "surface": "appeais",
+    "valid": false,
+    "reason": "拼写错误/非词"
+  },
+  {
+    "surface": "nautic",
+    "valid": false,
+    "reason": "拼写错误/非标准形式"
+  },
+  {
+    "surface": "ancienne",
+    "valid": false,
+    "reason": "形容词"
+  },
+  {
+    "surface": "la cybernetique",
+    "valid": true
+  },
+  {
+    "surface": "Dès",
+    "valid": false,
+    "reason": "介词"
+  },
+  {
+    "surface": "lors",
+    "valid": false,
+    "reason": "副词"
+  },
+  {
+    "surface": "plutôt",
+    "valid": false,
+    "reason": "副词"
+  },
+  {
+    "surface": "d'en",
+    "valid": false,
+    "reason": "介词+代词"
+  },
+  {
+    "surface": "revener",
+    "valid": false,
+    "reason": "拼写错误/动词不定式"
+  },
+  {
+    "surface": "mêmes structures",
+    "valid": true
+  },
+  {
+    "surface": "prédentend",
+    "valid": false,
+    "reason": "拼写错误/非词"
+  },
+  {
+    "surface": "fondatrices",
+    "valid": false,
+    "reason": "形容词"
+  },
+  {
+    "surface": "mêmes archétypes",
+    "valid": true
+  },
+  {
+    "surface": "mêmes *mathematiques*",
+    "valid": false,
+    "reason": "含星号标记"
+  },
+  {
+    "surface": "meta-mode-",
+    "valid": false,
+    "reason": "标点碎片/截断词"
+  },
+  {
+    "surface": "Les Agencements sémiotiques",
+    "valid": true
+  },
+  {
+    "surface": "tableaux",
+    "valid": true
+  },
+  {
+    "surface": "psychosomatiques",
+    "valid": false,
+    "reason": "形容词"
+  },
+  {
+    "surface": "cuirasses",
+    "valid": true
+  },
+  {
+    "surface": "caractérielles",
+    "valid": false,
+    "reason": "形容词"
+  },
+  {
+    "surface": "étudies",
+    "valid": false,
+    "reason": "动词变位/拼写错误"
+  },
+  {
+    "surface": "Wilhelm Reich",
+    "valid": true
+  },
+  {
+    "surface": "Les représentations subjectives",
+    "valid": true
+  },
+  {
+    "surface": "côté",
+    "valid": true
+  },
+  {
+    "surface": "la sémiotisation somatique",
+    "valid": true
+  },
+  {
+    "surface": "conscientisés",
+    "valid": false,
+    "reason": "动词分词/形容词"
+  },
+  {
+    "surface": "l'éthologie humaine",
+    "valid": true
+  },
+  {
+    "surface": "engagent",
+    "valid": false,
+    "reason": "动词变位"
+  },
+  {
+    "surface": "des apprentissages",
+    "valid": true
+  },
+  {
+    "surface": "emprente inconsciente",
+    "valid": false,
+    "reason": "拼写错误/含形容词"
+  },
+  {
+    "surface": "des delimitations",
+    "valid": true
+  },
+  {
+    "surface": "territoire",
+    "valid": true
+  },
+  {
+    "surface": ", des comportements",
+    "valid": false,
+    "reason": "含标点碎片"
+  },
+  {
+    "surface": "accueil",
+    "valid": true
+  },
+  {
+    "surface": "parade",
+    "valid": true
+  },
+  {
+    "surface": ", de soumission",
+    "valid": false,
+    "reason": "含标点碎片"
+  },
+  {
+    "surface": "hostilité",
+    "valid": true
+  },
+  {
+    "surface": "J'imagine",
+    "valid": false,
+    "reason": "代词+动词变位"
+  },
+  {
+    "surface": "qu'un",
+    "valid": false,
+    "reason": "连词+冠词"
+  },
+  {
+    "surface": "psychoanalyse",
+    "valid": true
+  },
+  {
+    "surface": "surtout",
+    "valid": false,
+    "reason": "副词"
+  },
+  {
+    "surface": "s'il",
+    "valid": false,
+    "reason": "连词+代词"
+  },
+  {
+    "surface": "obédience lacanienne",
+    "valid": true
+  },
+  {
+    "surface": "serait",
+    "valid": false,
+    "reason": "助动词变位"
+  },
+  {
+    "surface": "tenté",
+    "valid": false,
+    "reason": "动词分词/形容词"
+  },
+  {
+    "surface": "m'objecteur",
+    "valid": false,
+    "reason": "代词+名词，非规范名词短语"
+  },
+  {
+    "surface": "pleure",
+    "valid": false,
+    "reason": "动词变位"
+  },
+  {
+    "surface": "bon",
+    "valid": false,
+    "reason": "形容词"
+  },
+  {
+    "surface": "le véritable Inconscient psychoanalyse",
+    "valid": true
+  },
+  {
+    "surface": "celui-ci",
+    "valid": false,
+    "reason": "指示代词"
+  },
+  {
+    "surface": "pouvant",
+    "valid": false,
+    "reason": "动词分词"
+  },
+  {
+    "surface": "concevoir",
+    "valid": false,
+    "reason": "动词不定式"
+  },
+  {
+    "surface": "hors",
+    "valid": false,
+    "reason": "介词/副词"
+  },
+  {
+    "surface": "des rets",
+    "valid": true
+  },
+  {
+    "surface": "langage",
+    "valid": true
+  },
+  {
+    "surface": "connait",
+    "valid": false,
+    "reason": "动词变位"
+  },
+  {
+    "surface": "la chanson",
+    "valid": true
+  },
+  {
+    "surface": "répondras",
+    "valid": false,
+    "reason": "动词变位"
+  },
+  {
+    "surface": "les Agencements schizoanalytiques",
+    "valid": true
+  },
+  {
+    "surface": "portent",
+    "valid": false,
+    "reason": "动词变位"
+  },
+  {
+    "surface": "structures réductionistes",
+    "valid": true
+  },
+  {
+    "surface": "centres",
+    "valid": true
+  },
+  {
+    "surface": "lisation schizoanalytique",
+    "valid": false,
+    "reason": "截断词/拼写错误"
+  },
+  {
+    "surface": "choisisir",
+    "valid": false,
+    "reason": "拼写错误/动词不定式"
+  },
+  {
+    "surface": "cartographier",
+    "valid": false,
+    "reason": "动词不定式"
+  },
+  {
+    "surface": "compositions",
+    "valid": true
+  },
+  {
+    "surface": "Inconciens",
+    "valid": false,
+    "reason": "拼写错误/非标准形式"
+  },
+  {
+    "surface": "des contiques contingentes",
+    "valid": false,
+    "reason": "拼写错误/含形容词"
+  },
+  {
+    "surface": "évolut",
+    "valid": false,
+    "reason": "拼写错误/动词变位"
+  },
+  {
+    "surface": "les formations sociales",
+    "valid": true
+  },
+  {
+    "surface": "les technologies",
+    "valid": true
+  },
+  {
+    "surface": ", les arts",
+    "valid": false,
+    "reason": "含标点碎片"
+  },
+  {
+    "surface": ", les sciences",
+    "valid": false,
+    "reason": "含标点碎片"
+  },
+  {
+    "surface": "lorsqu'",
+    "valid": false,
+    "reason": "连词截断"
+  },
+  {
+    "surface": "ename",
+    "valid": false,
+    "reason": "拼写错误/非词"
+  },
+  {
+    "surface": "typifier",
+    "valid": false,
+    "reason": "动词不定式"
+  },
+  {
+    "surface": "quelques cas",
+    "valid": true
+  },
+  {
+    "surface": "- par exemple",
+    "valid": false,
+    "reason": "含标点碎片/副词短语"
+  },
+  {
+    "surface": "formules",
+    "valid": true
+  },
+  {
+    "surface": "organisation moique",
+    "valid": false,
+    "reason": "拼写错误"
+  },
+  {
+    "surface": "personnologiques",
+    "valid": false,
+    "reason": "形容词"
+  },
+  {
+    "surface": "conjugalistes",
+    "valid": false,
+    "reason": "形容词/名词化形容词，非典型名词"
+  },
+  {
+    "surface": "familiales",
+    "valid": false,
+    "reason": "形容词"
+  },
+  {
+    "surface": "domestiques",
+    "valid": false,
+    "reason": "形容词"
+  },
+  {
+    "surface": "fera",
+    "valid": false,
+    "reason": "动词变位"
+  },
+  {
+    "surface": "prototype structural",
+    "valid": true
+  },
+  {
+    "surface": "nevrose obsessionnelle",
+    "valid": true
+  },
+  {
+    "surface": "insiparables",
+    "valid": false,
+    "reason": "拼写错误/形容词"
+  },
+  {
+    "surface": "un type particulier",
+    "valid": true
+  },
+  {
+    "surface": "hyper-conscience",
+    "valid": true
+  },
+  {
+    "surface": "Un Agencement onirique",
+    "valid": true
+  },
+  {
+    "surface": "ilent",
+    "valid": false,
+    "reason": "拼写错误/非词"
+  },
+  {
+    "surface": "toит",
+    "valid": false,
+    "reason": "混合字符/非词"
+  },
+  {
+    "surface": "apporter",
+    "valid": false,
+    "reason": "动词不定式"
+  },
+  {
+    "surface": "matiere",
+    "valid": true
+  },
+  {
+    "surface": "a-signifiante",
+    "valid": false,
+    "reason": "形容词"
+  },
+  {
+    "surface": "interdit",
+    "valid": true
+  },
+  {
+    "surface": "vehicule",
+    "valid": true
+  },
+  {
+    "surface": "des images",
+    "valid": true
+  },
+  {
+    "surface": "signifantes",
+    "valid": false,
+    "reason": "形容词/拼写错误"
+  },
+  {
+    "surface": "retiennent",
+    "valid": false,
+    "reason": "动词变位"
+  },
+  {
+    "surface": "elles que ce qu'ils peuvent traiter comme figures",
+    "valid": false,
+    "reason": "完整从句，非名词短语"
+  },
+  {
+    "surface": "comportent",
+    "valid": false,
+    "reason": "动词变位"
+  },
+  {
+    "surface": "eux",
+    "valid": false,
+    "reason": "代词"
+  },
+  {
+    "surface": ", des modes",
+    "valid": false,
+    "reason": "含标点碎片"
+  },
+  {
+    "surface": "consensialisation",
+    "valid": true
+  },
+  {
+    "surface": "crois",
+    "valid": false,
+    "reason": "动词变位"
+  },
+  {
+    "surface": "gagnerait",
+    "valid": false,
+    "reason": "动词变位"
+  },
+  {
+    "surface": "voulour",
+    "valid": false,
+    "reason": "拼写错误/动词不定式"
+  },
+  {
+    "surface": "doter",
+    "valid": false,
+    "reason": "动词不定式"
+  },
+  {
+    "surface": "tous les Agencements",
+    "valid": true
+  },
+  {
+    "surface": "une même essence conscientielle",
+    "valid": true
+  },
+  {
+    "surface": "identique",
+    "valid": false,
+    "reason": "形容词"
+  },
+  {
+    "surface": "proche",
+    "valid": false,
+    "reason": "形容词"
+  },
+  {
+    "surface": "arrive",
+    "valid": false,
+    "reason": "动词变位"
+  },
+  {
+    "surface": "des «",
+    "valid": false,
+    "reason": "含标点碎片"
+  },
+  {
+    "surface": "consciences",
+    "valid": true
+  },
+  {
+    "surface": "limites",
+    "valid": true
+  },
+  {
+    "surface": "les expériences",
+    "valid": true
+  },
+  {
+    "surface": "transe",
+    "valid": true
+  },
+  {
+    "surface": "rupture mystique",
+    "valid": true
+  },
+  {
+    "surface": "la catatonie",
+    "valid": true
+  },
+  {
+    "surface": ", en adjacence",
+    "valid": false,
+    "reason": "含标点碎片/介词短语"
+  },
+  {
+    "surface": "des tensions orginales",
+    "valid": false,
+    "reason": "拼写错误"
+  },
+  {
+    "surface": "avec les sensations",
+    "valid": false,
+    "reason": "介词短语"
+  },
+  {
+    "surface": "l'expression",
+    "valid": true
+  },
+  {
+    "surface": "instances",
+    "valid": true
+  },
+  {
+    "surface": "l'ionnement",
+    "valid": false,
+    "reason": "拼写错误/截断词"
+  },
+  {
+    "surface": "conscienties",
+    "valid": false,
+    "reason": "拼写错误"
+  },
+  {
+    "surface": "inconsciences",
+    "valid": true
+  },
+  {
+    "surface": "intensité",
+    "valid": true
+  },
+  {
+    "surface": "proportion",
+    "valid": true
+  },
+  {
+    "surface": ", de portée",
+    "valid": false,
+    "reason": "含标点碎片"
+  },
+  {
+    "surface": "d'inconscience",
+    "valid": true
+  },
+  {
+    "surface": "relatives",
+    "valid": false,
+    "reason": "形容词"
+  },
+  {
+    "surface": "autorisent",
+    "valid": false,
+    "reason": "动词变位"
+  },
+  {
+    "surface": "assemblages composites",
+    "valid": true
+  },
+  {
+    "surface": ", des superpositions",
+    "valid": false,
+    "reason": "含标点碎片"
+  },
+  {
+    "surface": ", des glissements",
+    "valid": false,
+    "reason": "含标点碎片"
+  },
+  {
+    "surface": "des disjonctions",
+    "valid": true
+  },
+  {
+    "surface": "l'on",
+    "valid": false,
+    "reason": "冠词+代词"
+  },
+  {
+    "surface": "leur tangente",
+    "valid": true
+  },
+  {
+    "surface": "s'instaur",
+    "valid": false,
+    "reason": "截断词/动词"
+  },
+  {
+    "surface": "une conscience absolue",
+    "valid": true
+  },
+  {
+    "surface": "coïncident",
+    "valid": false,
+    "reason": "动词变位"
+  },
+  {
+    "surface": "l'Inconscience",
+    "valid": true
+  },
+  {
+    "surface": "absolu",
+    "valid": false,
+    "reason": "形容词"
+  },
+  {
+    "surface": "une présence",
+    "valid": true
+  },
+  {
+    "surface": "théique",
+    "valid": false,
+    "reason": "形容词"
+  },
+  {
+    "surface": "échappant",
+    "valid": false,
+    "reason": "动词分词"
+  },
+  {
+    "surface": "toute référence",
+    "valid": true
+  },
+  {
+    "surface": "alterité",
+    "valid": true
+  },
+  {
+    "surface": "de mondanité",
+    "valid": false,
+    "reason": "介词短语"
+  },
+  {
+    "surface": "Arretons-nous",
+    "valid": false,
+    "reason": "动词变位+代词"
+  },
+  {
+    "surface": "quelques implications",
+    "valid": true
+  },
+  {
+    "surface": "ce «",
+    "valid": false,
+    "reason": "含标点碎片/代词"
+  },
+  {
+    "surface": "décollage",
+    "valid": true
+  },
+  {
+    "surface": "J'avais",
+    "valid": false,
+    "reason": "代词+助动词变位"
+  },
+  {
+    "surface": "d'abord",
+    "valid": false,
+    "reason": "副词短语"
+  },
+  {
+    "surface": "pensé",
+    "valid": false,
+    "reason": "动词分词"
+  },
+  {
+    "surface": "différencier",
+    "valid": false,
+    "reason": "动词不定式"
+  },
+  {
+    "surface": "- un inconscient absolu",
+    "valid": false,
+    "reason": "含标点碎片"
+  },
+  {
+    "surface": "un niveau moléculaire",
+    "valid": true
+  },
+  {
+    "surface": "échapperait",
+    "valid": false,
+    "reason": "动词变位"
+  },
+  {
+    "surface": "radicalement",
+    "valid": false,
+    "reason": "副词"
+  },
+  {
+    "surface": "toute re-présentation",
+    "valid": true
+  },
+  {
+    "surface": "manifestations",
+    "valid": true
+  },
+  {
+    "surface": "relaient",
+    "valid": false,
+    "reason": "动词变位"
+  }
+]
